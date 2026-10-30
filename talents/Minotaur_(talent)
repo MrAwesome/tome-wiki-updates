@@ -1,0 +1,23 @@
+{{Ability box
+|image=Minotaur.png
+|name=Minotaur
+|category_type={{ct|Wild-Gift}}
+|category={{c|Summoning (Melee)}}
+|require={{TalentReq/GiftsReq3}}
+|cost=10 Equilibrium
+|cooldown=15
+|range=5
+|desc=
+Summon a Minotaur to attack your foes. Minotaurs cannot stay summoned for long, but they deal a lot of damage.
+
+The Minoatur will last for a duration of {{cs|(Talent Level)|2|0|7|5}}.
+
+It will receive the following stats:
+*Strength: 25 + {{cts|2|10|0.75}} + 2.1 * Mindpower * {{cts|0.2|1|0.75}}
+*Dexterity: 10 + {{cts|2|10|0.75}} + 1.8 * Mindpower * {{cts|0.2|1|0.75}}
+*Constitution: 10 + {{cts|2|10|0.75}}
+
+Your summons inherit some of your stats: increased damage %, stun/pin/confusion/blindness resistance, armour penetration.
+
+Their Strength and Dexterity will increase with your Mindpower.
+}}

@@ -1,0 +1,17 @@
+{{Ability_box
+|image=incendiary_ammunition.png
+|name=Incendiary Ammunition
+|game_version=1.5.2
+|category_type={{ct|Technique}}
+|category={{c|Other}}
+|require={{t|Exotic Munitions}}
+|use_mode=Sustained
+|cost=12 Stamina
+|cooldown=10
+|desc=
+Load incendiary ammunition, causing attacks to deal an additional {{cTWD|10|40%}} weapon damage as fire in a radius 1 (2 at Talent Level 3) ball around your target. 
+		
+This cannot trigger more than once per turn.
+		
+The damage will scale with your Physical Power.
+}}

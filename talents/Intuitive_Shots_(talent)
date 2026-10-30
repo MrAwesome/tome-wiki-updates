@@ -1,0 +1,16 @@
+{{Ability_box
+|name=Intuitive Shots
+|game_version=1.5.2
+|category_type={{ct|Technique}}
+|category={{c|Reflexes}}
+|require={{TalentReq/TechsDexReq2}}
+|use_mode=Sustained
+|cost=30 Stamina
+|cooldown=10
+|travel_speed=Instantaneous
+|use_speed=Instant
+|desc=
+Activating this talent enhances your reflexes to incredible levels. Each time you are attacked in melee, you have a (10 * Talent Level) chance to fire off a defensive shot off in time to intercept the attack, evading it and dealing 40% archery damage.
+
+This cannot damage the same target more than once per turn.
+}}

@@ -1,0 +1,20 @@
+{{Ability box
+|game_version=1.7.4
+|name=Reclaim
+|image=Reclaim.png
+|category_type={{ct|Wild-Gift}}
+|category={{c|Eyal's Fury}}
+|require={{TalentReq/GiftsReqHigh1}}
+|range=7
+|cost=5 Equilibrium
+|cooldown=5
+|use_speed=Mind
+|desc=
+You focus the inexorable pull of nature against a single creature, eroding it and allowing it to be reclaimed by the cycle of life.
+
+This deals (0.5 * {{ctmd|20|320}}) Nature and (0.5 * {{ctmd|20|320}}) Acid damage to the target, and is particularly devastating against undead and constructs, dealing 25% more damage to them.
+
+The damage increases with your Mindpower.
+
+''Note: this talent will only damage the target at the destination point, and will not hurt any intervening entities along its path''
+}}

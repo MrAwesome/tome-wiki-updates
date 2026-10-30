@@ -1,0 +1,18 @@
+{{Ability_box
+|image=flash_of_the_blade.png
+|name=Flash of the blade
+|category_type=[[Celestial (category type)|Celestial]]
+|category={{c|Crusader}}
+|require={{TalentReq/DiviReqHigh4}}
+|use_mode=Activated
+|cost=15 Positive
+|cooldown=9
+|desc=
+Infuse your two handed weapon with light while spinning around.
+
+All creatures in radius one take {{ctwd|50|130%}} weapon damage.
+
+In addition while spinning your weapon shines so much it deals {{ctwd|50|150%}} light weapon damage to all foes in radius 2.
+
+At level 4 your spinning blade creates a shield that blocks all damage for 1 turn.
+}}

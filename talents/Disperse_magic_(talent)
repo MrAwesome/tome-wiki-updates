@@ -1,0 +1,15 @@
+{{Ability_box
+|image=Disperse magic_2017.png
+|name=Disperse Magic
+|category_type={{ct|Spell}}
+|category={{c|Meta}}
+|require={{TalentReq/SpellsReq1}}
+|cost=40 Mana
+|cooldown=7
+|range=10
+|desc=
+Removes up to {{cts|1|5|log}} magical effects (good effects from foes, and bad effects from friends) from the target.
+
+At level 3, it can be targeted.
+}}
+'''Note:''' A 'magical effect' has ''Is: a spell'' in its tool-tip.

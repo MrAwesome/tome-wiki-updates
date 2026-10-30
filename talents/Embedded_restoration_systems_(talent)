@@ -1,0 +1,20 @@
+{{Ability box
+|image=Embedded restoration systems.png
+|name=Embedded restoration systems
+|game_version=1.7.6
+|embers_version=1.1.10
+|category_type={{ct|Steamtech}}
+|category={{c|Avoidance}}
+|require={{TalentReq/SteamReq3}}
+|use_mode=sustained
+|cost=2 Steam drain
+|cooldown=30
+|use_speed=Steamtech
+|desc=Your cloak is lined with an automated health system that activate when no enemies are visible.
+
+When it triggers, you will be healed for {{ctstmd|20|250}} life.
+
+At talent level 3, it will also remove one detrimental physical effect.
+
+The system can only trigger once every {{CTL|2|9|5}} turns (no less than 2 turns).
+}}

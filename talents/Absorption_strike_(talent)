@@ -1,0 +1,14 @@
+{{Ability_box
+|image=absorption_strike.png
+|name=Absorption strike
+|category_type=[[Celestial (category type)|Celestial]]
+|category={{c|Crusader}}
+|require={{TalentReq/DiviReqHigh1}}
+|use_mode=Activated
+|cost=-7 Positive
+|cooldown=8
+|desc=
+You strike your foe with your two handed weapon, dealing {{ctwd|110|230%}} weapon damage.
+
+If the attack hits, all foes in radius 2 will have their light resistance reduced by {{cts|5|20%|0.75}} and their damage reduced by {{cts|1|15%|0.75}} (maximum 30%) for 5 turns.
+}}

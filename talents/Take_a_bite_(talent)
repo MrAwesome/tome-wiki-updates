@@ -1,0 +1,12 @@
+{{Ability box
+|game_version=1.7.6
+|image=Take_a_Bite.png
+|name=Take a Bite
+|category_type={{ct|Race}}
+|category={{c|Parasite}}
+|require={{TalentReq/RacialReq1}}
+|use_speed=Instant
+|cooldown={{ctl|15|45|25}}
+|desc=
+You try to bite off your foe with your "head" for {{css|Str/Dex/Mag|50|150%}} blight weapon damage. If the target falls under 20% life you have {{css|Con|20|70%}} chances to outright kill it (bosses are immune). Whenever you succesfully bite a foe you regenerate {{css|Con|3|25}} life per turn for 5 turns. Instant kill chances and regeneration increase with your Constitution stat and weapon damage increases with the highest of your Strength, Dexterity or Magic stat.
+}}

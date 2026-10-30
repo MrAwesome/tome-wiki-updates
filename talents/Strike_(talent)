@@ -1,0 +1,14 @@
+{{Ability_box
+|name=Strike
+|category_type=[[NPC Only (category type)|NPC Only]]
+|category=-
+|image=Strike.png
+|range=4
+|cooldown=10
+|cost=20.9 mana
+|travel_speed=600% of base
+|desc=
+Conjures up a fist of stone, doing 100 physical damage and knocking the target back 3 grids.
+
+The damage will increase with your Spellpower.
+}}

@@ -1,0 +1,19 @@
+{{Ability_box
+|image=Beckon.png
+|name=Beckon
+|game_version=1.7.6
+|category_type={{ct|Cursed}}
+|category={{c|Endless Hunt}}
+|require={{TalentReq/CursedWilReq3}}
+|use_mode=Activated
+|cooldown=10
+|cost=2 Hate
+|range=10
+|use_speed=Mind
+|desc=The connection between predator and prey allows you to speak to the mind of your target and beckon them closer.<br />For {{gtl|7|10}} turns (maximum 10 turns), they will try to come to you, even pushing others aside to do so. They will move towards you instead of acting {{gtl|25|49}}% of the time (maximum 55%), but can save verses <!-- "verses" is the game's own wording. --> [[Mindpower]] to slow the effect.<br />If they take significant damage, the beckoning may be overcome altogether.<br />The effect makes concentration difficult for your target, reducing [[Spellpower]] and Mindpower by {{ctstd|Wil|8|33}} until they reach you.<br />The Spellpower and Mindpower reduction increases with your [[Willpower]].
+|avail.classes=[[Cursed]]
+}}
+===Notes===
+*Beckon's overcome chance is cumulative. Each hit adds the percentage of the target's maximum life taken to the break chance, then rolls against that total.
+**For example, two hits each dealing 10% of maximum life give a 10% chance to break the effect on the first hit and a 20% chance on the second.
+*The movement chance uses a hidden counter with a randomized starting number rather than a separate random roll each turn. Each time the target acts, the listed chance is added to the counter(halved if they save against your Mindpower ). When the counter exceeds 100, it removes 100 and the target attempts to walk towards you.

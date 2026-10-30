@@ -1,0 +1,14 @@
+{{Ability box
+|image=Blindside.png
+|name=Blindside
+|category_type={{Ct|Cursed}}
+|category={{c|Strife}}
+|require={{TalentReq/CursedStrReq3}}
+|cooldown=13 - Talent Level (minimum 6)
+|cost=4 Hate
+|range=6
+|desc=
+With blinding speed, you suddenly appear next to a target up to 6 spaces away and attack for (0.3 * {{ctwd|70|190%}}) (at 0 Hate) to {{ctwd|70|190%}} (at 100+ Hate) damage. Your sudden appearance catches everyone off-guard, giving you {{ctstd|Str|20|50}} extra Defense for 1 turn.
+
+The Defense boost improves with your Strength.
+}}

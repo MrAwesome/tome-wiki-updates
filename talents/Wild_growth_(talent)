@@ -1,0 +1,17 @@
+{{Ability box
+|image=Wild growth.png
+|name=Wild Growth
+|category_type={{ct|Wild-Gift}}
+|category={{c|Fungus}}
+|game_version=1.7.2
+|require={{TalentReq/GiftsReq1}}
+|use_mode=Passive
+|desc=
+Surround yourself with a myriad of tiny, nearly invisible, reinforcing fungi.
+
+You gain {{ctstd|Wil|10|600}} maximum life and {{ctstd|Wil|1|20}} life regeneration.
+
+The effects will increase with your Willpower.
+|avail.classes=[[Oozemancer]], [[Wyrmic]]
+|avail.shops=[[Zigur]] ([[Age of Ascendancy]]) — after completing [[Storming the city]], speaking to [[Myssil|Protector Myssil]] and killing [[Urkis]], the {{c|Fungus}} category is revealed (locked)
+}}

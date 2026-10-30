@@ -1,0 +1,27 @@
+{{Ability box
+|image=Detonate.png
+|name=Detonate
+|category_type={{ct|Wild-Gift}}
+|category={{c|Summoning (Augmentation)}}
+|require={{TalentReq/GiftsReq2}}
+|cost=5 Equilibrium
+|cooldown=25
+|range=10
+|desc=
+Destroys one of your summons, making it detonate in radius of {{cts|4|8|raw}}.
+
+*Ritch Flamespitter: Explodes into a fireball that burns for {{ctmd|30|300}} damage
+*Hydra: Explodes into a ball of lightning, acid or poison that deals {{ctmd|30|300}} damage
+*Rimebark: Explodes into an iceball that deals {{ctmd|30|300}} damage with a 25% chance to freeze
+*Fire Drake: Generates a cloud of fire that deals {{ctmd|10|70}} fire damage per turn for 6 turns
+*War Hound: Explodes into a ball of {{ctmd|30|250}} physical damage
+*Jelly: Explodes into a ball of slime that deals {{ctmd|30|200}} nature damage and slows by 15% for 3 turns
+*Minotaur: Explodes into a sharp ball, cutting all creatures for {{ctmd|30|350}} bleed damage
+*Stone Golem: Knocks back all creatures by 4 tiles, pushing them off balance and dealing {{ctmd|30|150}} damage
+*Turtle: Grants a small shell shield to all friendly creatures that increases all resistance by {{ctmd|10|35%}} for 4 turns
+*Spider: Pins all foes around for 3 turns
+
+In addition, a random summon will come off cooldown.
+
+Hostile effects will not hit you or your other summons.
+}}

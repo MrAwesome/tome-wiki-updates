@@ -1,0 +1,15 @@
+{{Ability box
+|game_version=1.7.6
+|image=Duck and dodge_2017.png
+|name=Duck and Dodge
+|category_type={{ct|Race}}
+|category={{c|Halfling}}
+|require={{TalentReq/RacialReq2}}
+|use_mode=Passive
+|desc=
+Halfling's incredible luck always kicks in at just the right moment to save their skin.
+
+Whenever you take (15 - Raw Talent Level)% or more of your life from a single attack, you gain Evasion (50%) and (0.5 * Luck)% additional defense for the next {{cts|1.3|3.3}} turns.
+
+The defense bonus will not stack from multiple activations of this talent.
+}}

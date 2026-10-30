@@ -1,0 +1,20 @@
+{{Ability_box
+|game_version = 1.7.4
+|name = Boneyard
+|image = boneyard.png
+|category_type={{ct|Spell}}
+|category={{c|Eradication}}
+|require = {{TalentReq/SpellsReqHigh1}}
+|cost = 30 Mana, 1 Soul
+|range = 0
+|cooldown = 20
+|use_speed = Spell
+|desc = 
+Spawn a boneyard of radius 5 around you that lasts for 8 turns.
+
+Any foes inside gain the brittle bones effect, reducing their physical resistance by {{cts|5|15%}} and making all cooldowns {{cts|10|30%}} longer.
+
+When one of your minions stands in the boneyard they gain {{cts|10|55}} more physical and spell power.
+
+At level 5 when a minion dies inside the boneyard it has a {{cts|1|9%}} chance to resurrect instantly. This effect may only happen once per minion.
+}}

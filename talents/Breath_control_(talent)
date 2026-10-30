@@ -1,0 +1,13 @@
+{{Ability_box
+|image=Breath control.png
+|name=Breath control
+|category_type=[[Technique (category type)|Technique]]
+|category=[[Unarmed discipline (category)|Unarmed discipline]]
+|require=Level: (8, 9, 10, 11, 12)
+(28, 30, 32, 34, 36) Dexterity
+|use_mode=sustained
+|range=melee/personal
+|cost=15 stamina
+|cooldown=30
+|use_speed=1 turn
+|desc=You focus your breathing, increasing stamina regeneration by 1.5 per talent level per turn at the cost of 10% global speed.}}

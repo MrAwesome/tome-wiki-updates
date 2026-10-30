@@ -1,0 +1,23 @@
+{{Ability box
+|game_version = 1.7.4
+|image=Discarded_Refuse.png
+|name=Discarded Refuse
+|category_type={{ct|Spell}}
+|category={{c|Master of Flesh}}
+|require={{TalentReq/SpellsReq4}}
+|use_mode=Sustained
+|cost=40 Mana and 1 Soul (only to activate)
+|cooldown=30
+|use_speed = 0
+|range=10
+|desc=
+Whenever you would be affected by a detrimental physical effect you instead transfer it instantly to one of your ghouls.
+
+The ghoul dies from the process.
+
+While under 1 life it also affects magical and mental effects.
+
+At most {{cts|1|6}} effects can be affected per turn.
+
+Cross-tier effects are never affected.
+}}

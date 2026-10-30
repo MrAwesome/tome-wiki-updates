@@ -1,0 +1,18 @@
+{{Ability_box
+|game_version = 1.7.4
+|name = Recall Minions
+|image = recall minions.png
+|category_type={{ct|Spell}}
+|category={{c|Master Necromancer}}
+|require = {{TalentReq/SpellsReqHigh3}}
+|cost = 25 Mana, 1 Soul
+|range = 0
+|cooldown = 20
+|use_speed = Spell
+|desc = 
+Tighten the ethereal leash to some of your minions currently within your aura of undeath, pulling them to you and swapping place with any eventual foes in the way.
+
+Up to {{ctl|8|1|6}} minions are affected.
+
+When recalling a minion the spell tries to prioritize a spot where there is already a foe, to push it away.
+}}

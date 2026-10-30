@@ -1,0 +1,15 @@
+{{Ability box
+|game_version=1.7.6
+|image=Power is money_2017.png
+|name=Power is Money
+|category_type={{ct|Race}}
+|category={{c|Dwarf}}
+|require={{TalentReq/RacialReq3}}
+|use_mode=Passive
+|desc=
+Money is the heart of the Dwarven Empire; it rules over all other considerations.
+
+Increases Physical, Mental and Spell Saves based on the amount of gold you possess.
+
+Every {{ctl|40|85|65}} gold grants +1 to all saves, up to a maximum of {{cts|8|50}}.
+}}

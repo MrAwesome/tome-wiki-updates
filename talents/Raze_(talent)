@@ -1,0 +1,18 @@
+{{Ability_box
+|name=Raze
+|image=raze.png
+|game_version=1.5.2
+|category_type={{ct|Spell}}
+|category={{c|Undead drake}}
+|require={{TalentReq/SpellsReq1}}
+|use_mode=Sustained
+|cooldown=10
+|travel_speed=Instantaneous
+|use_speed=Spell
+|desc=
+You revel in death, devouring the souls of your victims. Whenever you inflict damage to a target, you deal {{ctspd|10|20}} or {{cTMD|10|20}} additional darkness damage.
+
+Additionally, you gain {{cTS|1|2|0.75}} soul(s) whenever you score a kill.
+
+The damage will scale with the highest of your spell or mind power and can only occur up to 15 times per turn.
+}}

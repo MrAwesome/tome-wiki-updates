@@ -1,0 +1,22 @@
+{{Ability box
+|image=Osmosis shield.png
+|name=Osmosis Shield
+|category_type={{ct|Corruption}}
+|category={{c|Doom shield}}
+|require={{TalentReq/CorrsReq1}}
+|use_mode=Sustained
+|cost= 20 Sta, 5 Vim, Drains 3 Vim per turn
+|cooldown=15
+|desc=
+You infuse your shield with the energies of Urh'Rok, bringing about a magical shield that heals you for the first points of all damage you receive (based on your shield's block value) over 3 turns. This effect stacks.
+
+Amount is 5 + {{ctl|50%|15%|40%}} of your shield block value.
+
+At level 3, if a damage dealt is at least twice as high, you have {{ctl|100%|20%|70%}} chance to also remove a physical detrimental effect. this effect can only happen once per turn.
+
+This spell is disabled automatically on rest or run.
+
+Activating the shield takes no time, but de-activating it does.
+
+The damage increases with Spellpower.
+}}

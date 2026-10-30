@@ -1,0 +1,30 @@
+{{Ability_box
+|game_version = 1.7.6
+|name = Elemental Array Burst
+|image = Elemental_array_burst.png
+|category_type = {{ct|Spell}}
+|category = {{c|Thaumaturgy}}
+|require = {{TalentReq/SpellsReqHigh4}}
+|range = 10
+|cost = 25 mana
+|cooldown = 16
+|use_speed = Spell
+|desc = 
+Using your near-perfect knowledge of beam spells you combine them all into a powerful 3-wide beam of pure energy.
+
+The beam deals {{ctspd|28|370}} thaumic damage and always goes as far as possible.
+
+Thaumic damage can never be resisted by anything but "Resistance: All", always uses your highest resistance penetration and highest damage type bonus and can never be altered into other damage types.
+
+It can trigger {{t|Burning Wake}} and {{t|Hurricane}}.
+
+It is affected by the wet status (+30% damage) if you are in {{t|Shivgoroth Form}}.
+
+It has a 25% chance to either stun or freeze the targets for 3 turns (if {{t|Crystalline Focus}} or {{t|Uttercold}} are active, respectively).
+
+Each time you deal damage with a beam spell, the remaining cooldown is reduced by 1 (this can happen only once per turn).
+
+The damage will increase with your Spellpower.
+}}
+
+[[Category:Talents]]

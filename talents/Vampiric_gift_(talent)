@@ -1,0 +1,16 @@
+{{Ability box
+|image=Vampiric gift.png
+|name=Vampiric Gift
+|category_type={{ct|Spell}}
+|category={{c|Grave}}
+|require={{TalentReq/SpellsReq4}}
+|use_mode=Sustained
+|cost=250 Mana
+|cooldown=30
+|desc=
+Vampiric energies fill you; each time you deal damage, you have {{ctl|100%|25|45%}} chance to heal for a portion of the damage done.
+
+The percentage of damage converted into healing is {{cl|{{ctspd|5|30}}|100%|0|0|18.65%|18.65}}.
+
+The absorption percent will increase with your Spellpower.
+}}

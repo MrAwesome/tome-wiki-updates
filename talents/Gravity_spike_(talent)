@@ -1,0 +1,16 @@
+{{Ability box
+|game_version=1.4.3
+|image=Gravity spike.png
+|name=Gravity Spike
+|category_type={{ct|Chronomancy}}
+|category={{c|Gravity}}
+|require={{TalentReq/ChronoReq2}}
+|cost=15 Paradox
+|cooldown=6
+|range=6
+|desc=
+Creates a gravity spike in a radius of {{cts|2.3|3.7}} that moves all targets towards the spell's center and inflicts {{ctspd|25|230|PM}} physical (gravity) damage.
+Each target moved beyond the first increases the damage by ({{ctspd|25|230|PM}} / 8) (up to a maximum of ({{ctspd|25|230|PM}} / 2) bonus damage).
+Targets take reduced damage the further they are from the epicenter (20% less per tile).
+The damage dealt will scale with your Spellpower.
+}}

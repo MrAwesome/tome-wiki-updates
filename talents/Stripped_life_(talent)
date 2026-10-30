@@ -1,0 +1,11 @@
+{{Ability box
+|image=Stripped life.png
+|name=Stripped Life
+|category_type={{ct|Corruption}}
+|category={{c|Black-magic}}
+|require={{TalentReq/SpellsReq2}}
+|use_mode=Passive
+|desc=
+When a creature dies with at least 5 stacks of Bleak Outcome, you feast on every last bit of vim it had, increasing your own Spellpower by {{cts|8|38|0.75}} for 6 turns.
+|avail.classes=[[Demonologist]]
+}}

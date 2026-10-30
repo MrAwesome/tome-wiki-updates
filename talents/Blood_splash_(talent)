@@ -1,0 +1,15 @@
+{{Ability_box
+|name=Blood Splash
+|image=Blood_splash.png
+|game_version=1.7.4
+|category_type={{ct|Corruption}}
+|category={{c|Vile Life}}
+|require={{TalentReq/CorrsReq1}}
+|use_mode=Passive
+|desc=
+Inflicting pain and death invigorates you.
+
+Each time you deal a critical strike you gain {{cts|10|50}} life (this effect can only happen once per turn).
+
+Each time you kill a creature you gain {{cts|10|50}} life (this effect can only happen once per turn).
+}}

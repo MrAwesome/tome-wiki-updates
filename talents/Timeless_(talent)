@@ -1,0 +1,14 @@
+{{Ability box
+|game_version=1.7.6
+|image=Timeless_2017.png
+|name=Timeless
+|category_type={{ct|Race}}
+|category={{c|Shalore}}
+|require={{TalentReq/RacialReq4}}
+|cooldown=50
+|use_speed=0
+|desc=
+The world grows old as you stand through the ages. To you, time is different.
+
+Reduces the time remaining on detrimental effects by {{cts|2.9|10.1|log}}, cooling down talents by {{cts|1|5|log}}, and increases the time remaining on beneficial effects by {{cts|1|5|log}} (up to 2 times the current duration).
+}}

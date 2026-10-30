@@ -1,0 +1,14 @@
+{{Ability box
+|game_version=1.7.6
+|image=Whitehooves.png
+|name=Whitehooves
+|category_type={{ct|Race}}
+|category={{c|Whitehooves}}
+|require={{TalentReq/RacialReq1}}
+|use_speed=Passive
+|cooldown=
+|desc=
+Improves your undead body, increasing Strength and Magic by {{cts|2|10|0.75}}.
+Each time you move you gain a charge (up to {{gtl|1|5|raw}}) of death momentum, increasing your movement speed by 20%.
+Each turn spent not moving you lose a charge.
+}}

@@ -1,0 +1,15 @@
+{{Ability_box
+|image=Absorption mastery.png
+|name=Absorption mastery
+|category_type=[[Psionic (category type)|Psionic]]
+|category=[[Absorption (category)|Absorption]]
+|use_mode=Activated
+|range=melee/personal
+|cost=15 psi
+|cooldown=120 - talent_level * 12
+|travel_speed=instant
+|use_speed=instant
+|require=Level (12, 14, 16, 18)
+(36, 38, 40, 42) Wil
+|desc=When activated, brings all shields off cooldown. Additional talent points spent in Absorption Mastery allow it to be used more frequently. At level 3 and 6, your shields gain new elemental absorption: - Kinetic Shield: Nature at level 3, Temporal at level 6 - Thermal Shield: Light at level 3, Arcane at level 6 - Charged Shield: Darkness at level 3, Mind at level 6 }}
+[[Category: Removed Talents]]

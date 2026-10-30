@@ -1,0 +1,16 @@
+{{Ability_box
+|game_version=1.4.5
+|image=Forcefield.png
+|name=Forcefield
+|category_type={{ct|Psionic}}
+|category={{c|Absorption}}
+|require={{TalentReq/PsiCunReq4}}
+|use_mode=Sustained
+|cost=30 psi
+|cooldown=40
+|use_speed=Instant
+|desc=
+Surround yourself with a forcefield, reducing all incoming damage by {{ctl|80%|30|65%}}. 
+
+Such a shield is very expensive to maintain, and will drain 5% of your maximum psi each turn, and 5% more for each turn you have it maintained. For example, on turn 2 it will drain 10%.
+}}

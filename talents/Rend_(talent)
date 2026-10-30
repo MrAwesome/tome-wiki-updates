@@ -1,0 +1,14 @@
+{{Ability box
+|image=Rend.png
+|name=Rend
+|category_type={{ct|Corruption}}
+|category={{c|Scourge}}
+|require={{TalentReq/CorrsReq1}}
+|cost=9 Vim
+|cooldown=6
+|range=1
+|desc=
+Hit the target with both weapons, doing {{ctwd|80|160%}} damage with each hit. For each hit, the target will bleed for {{ctspd|5|40}} damage each turn for 5 turns.
+
+The bleeding effect will increase with your Spellpower.
+}}

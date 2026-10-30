@@ -1,0 +1,16 @@
+{{Ability box
+|image=Burning hex.png
+|name=Burning Hex
+|category_type={{ct|Corruption}}
+|category={{c|Hexes}}
+|require={{TalentReq/CorrsReq2}}
+|cooldown=20
+|cost=30 Vim
+|range=10
+|desc=
+Hexes your target and everything within a radius 2 ball around it for 20 turns. Each time an affected target uses a resource (stamina, mana, vim, ...), it takes {{ctspd|4|90}} fire damage.
+
+In addition, the cooldown of any talent used while so hexed is increased by {{cts|15|50%}} + 1 turn.
+
+The damage will increase with your Spellpower.
+}}

@@ -1,0 +1,17 @@
+{{Ability box
+|game_version=1.7.6
+|image=Stone walking_2017.png
+|name=Stone Walking
+|category_type={{ct|Race}}
+|category={{c|Dwarf}}
+|require={{TalentReq/RacialReq4}}
+|cooldown={{ctl|5|45|25}}
+|desc=
+While the origins of the dwarves remain clouded in mysteries to the other races, it is obvious they share strong ties to the stone.
+
+You can target any wall and immediately enter it and appear on the other side of the obstacle.
+
+Maximum distance you can teleport in this manner is {{cs|(0.04 * Con * Talent Level)|2.4|1.4|10|9}}.
+}}
+Notes:
+* Some diggable terrain (like trees) are counted as 'walls'

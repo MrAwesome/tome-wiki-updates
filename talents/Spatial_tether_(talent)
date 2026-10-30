@@ -1,0 +1,18 @@
+{{Ability box
+|game_version=1.4.3
+|image=Spatial_tether.png
+|name=Spatial Tether
+|category_type={{ct|Chronomancy}}
+|category={{c|Spacetime Folding}}
+|require={{TalentReq/ChronoReq2}}
+|cost=12 Paradox
+|cooldown=8
+|range={{cts|5|9|0.5|0A|1S}}
+|use_mode=Active
+|use_speed=Spell speed
+|desc=
+Tether the target to the location for {{cts|6|8}} turns.  
+Each turn the target has a 15% chance per tile it's traveled away from the tether to be teleported back, inflicting {{ctspd|20|200|PM}}/2 physical and {{ctspd|20|200|PM}}/2 temporal (warp) damage to all enemies in a radius of {{cts|1|2}} at both the entrance and exit locations.
+The damage will scale with your Spellpower.
+
+}}

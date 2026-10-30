@@ -1,0 +1,12 @@
+{{Ability box
+|image=Explosion expert.png
+|name=Explosion Expert
+|category_type={{ct|Spell}}
+|category={{c|Explosive Admixtures}}
+|require={{TalentReq/SpellsReq3}}
+|use_mode=Passive
+|desc=
+Your {{t|Throw Bomb}} now affects an area of radius {{cts|2|6|raw}}.
+
+Explosion damage may increase by (100 / (6 - Raw Talent Level) )% if the explosion is not contained, to ( 194 * Log<sub>10</sub>(2 * Radius + 1) / (6 - Raw Talent Level) )% if the area of effect is confined.
+}}

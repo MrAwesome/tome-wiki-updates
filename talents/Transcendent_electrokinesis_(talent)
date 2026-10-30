@@ -1,0 +1,30 @@
+{{Ability_box
+|image=transcendent_electrokinesis.png
+|name=Transcendent Electrokinesis
+|category_type=[[Psionic (category type)|Psionic]]
+|category={{c|Charged Mastery}}
+|require={{TalentReq/PsiCunHigh1}}
+|use_mode=Activated
+|cost=20 Psi
+|cooldown=30
+|desc=
+For {{ctl|30|5|10}} turns your electrokinesis transcends your normal limits, increasing your Lightning damage by {{ctmd|10|30%}} and your Lightning resistance penetration by {{cl|{{ctmd|10|20}}|100%|4.2|4.2|13.4%|13.4}}.
+
+In addition:
+
+The cooldowns of {{t|Charged Shield}}, {{t|Charge Leech}}, {{t|Charged Aura}} and {{t|Brain Storm}} are reset.
+
+{{t|Charged Aura}} will either increase in radius to 2, or apply its damage bonus to all of your weapons, whichever is applicable.
+
+Your {{t|Charged Shield}} will have 100% absorption efficiency and will absorb twice the normal amount of damage.
+
+{{t|Brain Storm}} will also inflict blindness.
+
+{{t|Charge Leech}} will also inflict confusion ({{ctl|50%|15|35%}} effect).
+
+{{t|Charged Strike}} will have its secondary lightning/blind burst chain to up to 3 targets in a radius of 3.
+
+The damage bonus and resistance penetration scale with your Mindpower.
+
+Only one Transcendent talent may be in effect at a time.
+}}

@@ -1,0 +1,16 @@
+{{Ability box
+|image=Matrix.png
+|game_version=1.7.6
+|name=Matrix
+|category_type={{ct|Chronomancy}}
+|category={{c|Spellbinding}}
+|require={{TalentReq/ChronoReqHigh3}}
+|cost=24 Paradox
+|use_mode=Sustain
+|cooldown=10
+|desc=
+Reduces the cooldown of the selected chronomancy spell by {{ctl|50%|7|30%}}.
+Each spell can only be spellbound in one way at a time.
+
+
+}}

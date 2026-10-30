@@ -1,0 +1,16 @@
+{{Ability_box
+|name = Grand Oration
+|image = Grand_oration.png
+|category_type = {{ct|Demented}}
+|category = {{c|Doom}}
+|game_version = 1.7.4
+|forbidden_version = 1.0.12
+|require = {{TalentReq/DementedReq2}}
+|use_mode = Sustained
+|cooldown = 10
+|use_speed = Spell
+|desc = 
+You speak a chosen prophecy to the masses. When applying this prophecy, it will spread to all targets in radius {{cts|1|2.6}}.
+
+A prophecy can only be affected by one of {{t|Grand Oration}}, {{t|Twofold Curse}} or {{t|Revelation}}.
+}}

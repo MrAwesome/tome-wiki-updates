@@ -1,0 +1,19 @@
+{{Ability_box
+|game_version = 1.7.4
+|name = The End of All Hope
+|image = the end of all hope.png
+|category_type={{ct|Spell}}
+|category={{c|Age of Dusk}}
+|require = {{TalentReq/SpellsReqHigh3}}
+|use_mode = Passive
+|desc = 
+Whenever one of your {{t|Dire Plague}} rips a soul it feels the inescapable coming of the end.
+
+When this happens the darkness damage of the plague is a critical hit and all {{t|Dire Plague}}s in radius {{cts|1|9}} around it (including itself) have their durations increased by {{cts|1|5}} turns.
+
+The duration increase may happen only once per turn.
+
+If {{t|Crepuscule}} is currently active it fires an additional free beam at the target.
+
+In addition the chance to rip a soul by {{t|Dire Plague}} increases by {{cts|30|80%}}.
+}}

@@ -1,0 +1,11 @@
+{{Ability box
+|image = Celestial acceleration.png
+|name = Celestial Acceleration
+|game_version = 1.7.6
+|embers_version = 1.1.10
+|category_type = {{ct|Celestial}}
+|category = {{c|Energies}}
+|require = {{TalentReq/DiviReq1}}
+|use_mode = Passive
+|desc = Increases your movement speed by {{cts|0.0625|0.375%}} per percent of positive energy and your casting speed by {{cts|0.0625|0.375%}} per percent of negative energy, up to a maximum of {{cts|5|30%}} at 80%. Sustained energy still counts toward the maximum.
+}}

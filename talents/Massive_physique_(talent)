@@ -1,0 +1,14 @@
+{{Ability box
+|image=Massive physique.png
+|name=Massive Physique
+|game_version=1.7.6
+|embers_version=1.1.10
+|category_type={{ct|Steamtech}}
+|category={{c|Blacksmith}}
+|require={{TalentReq/SteamReq1}}
+|use_mode=Passive
+|desc=
+Working iron has honed your body into an amazing shape, granting {{cts|3|17|0.75}} strength and constitution.
+At talent level 5, you are so incredibly built that you gain one size category.
+		
+}}

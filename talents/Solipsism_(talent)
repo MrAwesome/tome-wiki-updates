@@ -1,0 +1,19 @@
+{{Ability box
+|image=Solipsism.png
+|name=Solipsism
+|category_type={{ct|Psionic}}
+|category={{c|Solipsism}}
+|require={{TalentReq/PsiWilReq1}}
+|use_mode=Passive
+|desc=
+You believe that your mind is the center of everything.  Permanently increases the amount of psi you gain per level by 5 and reduces your [[Resource#Life|life rating]] by 50% (one time only adjustment).
+
+You also have learned to overcome damage with your mind alone, and convert {{ctl|100%|15|50%}} of all damage you receive into Psi damage and {{ctl|100%|15|50%}} of your healing and life regen now recovers Psi instead of life.
+
+Converted Psi damage you take will be further reduced by {{ctl|50%|2.5|10%}}, then divided by a factor of 
+(1.0125 + Character Level / 80).
+
+The first talent point invested will also increase the amount of Psi you gain from Willpower by 0.5, but reduce the amount of life you gain from Constitution by 0.25.
+
+The first talent point also increases your solipsism threshold by 20%. Your global speed will be reduced by 1% for each percentage that your current Psi falls below this threshold.
+}}

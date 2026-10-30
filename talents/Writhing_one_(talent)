@@ -1,0 +1,12 @@
+{{Ability box
+|game_version=1.5.10
+|image=Writhing_One.png
+|name=Writhing One
+|category_type={{ct|Demented}}
+|category={{c|Path of Horror}}
+|require={{TalentReq/SpellsReq4}}
+|use_mode=Passive
+|desc=
+At last you unlock the true power of your mutated body!
+		You gain {{CTL|100%|20|50%}} stun immunity, {{CTS|15|50%}} chances to ignore critical strikes and your darkness and blight damage are increased by {{CTS|3|15%}}.			
+}}

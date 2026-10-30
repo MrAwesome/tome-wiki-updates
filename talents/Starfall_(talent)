@@ -1,0 +1,16 @@
+{{Ability box
+|name=Starfall
+|image=Starfall.png
+|category_type={{ct|Celestial}}
+|category={{c|Star Fury}}
+|game_version=1.7.4
+|require={{TalentReq/DiviReq4}}
+|range=6
+|cost=20 Negative
+|cooldown=12
+|use_speed=Spell
+|desc=
+A star falls on a radius {{cts|1.3|2.7}} area, doing {{ctspd|28|170}} darkness damage on impact and stunning all within the area for 4 turns.
+
+The damage dealt will increase with your Spellpower.
+}}

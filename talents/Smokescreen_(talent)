@@ -1,0 +1,19 @@
+{{Ability_box
+|image=smokescreen.png
+|name=Smokescreen
+|game_version=1.5.2
+|category_type=[[Cunning (category type)|Cunning]]
+|category=[[Tools (category)|Tools]]
+|require={{t|Rogue's Tools}}, {{t|Cunning Tools}}, or {{t|Intricate Tools}}
+|cooldown=15
+|range=6
+|cost=10 Stamina
+|travel_speed=Instantaneous
+|use_speed=Standard
+|desc=
+Throw a vial of volatile liquid that explodes in a radius 2 cloud of smoke lasting {{cTS|3|5}} turns.  
+The smoke blocks line of sight, and enemies within will have their vision range reduced by {{cTS|1|6|log|0|4}}.
+		
+Use of this talent will not break stealth, and creatures affected by the smokes can never prevent you from activating stealth, even if their proximity would normally forbid it.
+
+}}

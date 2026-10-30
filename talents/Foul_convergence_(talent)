@@ -1,0 +1,16 @@
+{{Ability box
+|game_version=1.5.10
+|image=Foul_Convergence.png
+|name=Foul Convergence
+|category_type={{ct|Demented}}
+|category={{c|Friend of the Worm}}
+|require={{TalentReq/SpellsReqHigh2}}
+|use_mode=Active
+|cost= +30 insanity
+|cooldown={{ctl|8|25|10}}
+|range=10
+|desc=
+You and your worm that walks both teleport to an enemy in range 10 and make a melee attack for {{ctwd|70|130%}} damage.
+			Your Worm that Walks Blindside talent cooldown is reduced by floor({{ctl|5|1|3.5}}).
+
+}}

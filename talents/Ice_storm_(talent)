@@ -1,0 +1,15 @@
+{{Ability_box
+|game_version=1.4.9
+|name=Ice Storm
+|category_type={{ct|Spell}}
+|category={{c|Other}}
+|use_mode=Active
+|range=0
+|cost=25 Mana
+|cooldown=20
+|desc=A furious ice storm rages around the caster ,doing {{ctspd|5|90}} {{cold}} damage in a radius of 3 each turn for X turns.
+It has a 25% chance to freeze damaged targets.
+If the target is wet the damage increases by 30% and the freeze chance increases to 50%.
+The damage and duration will increase with your Spellpower.
+}}
+:

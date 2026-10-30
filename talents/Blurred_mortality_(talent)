@@ -1,0 +1,13 @@
+{{Ability box
+|image=Blurred mortality.png
+|name=Blurred Mortality
+|category_type={{ct|Spell}}
+|category={{c|Necrosis}}
+|require={{TalentReq/SpellsReq1}}
+|use_mode=Sustained
+|cost=30 Mana
+|cooldown=30
+|desc=
+The line between life and death blurs for you; you can only die when your life reaches negative (50 * Raw Talent Level + {{ctl|100%|1|5%}} * Max Life).
+
+}}

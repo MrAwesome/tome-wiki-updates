@@ -1,0 +1,19 @@
+{{Ability_box
+|image=Psychic_crush.png
+|name=Psychic Crush
+|game_version=1.5.10
+|category_type={{ct|Psionic}}
+|category={{c|Psychic blows}}
+|require={{TalentReq/PsiWilReq1}}
+|use_mode=Activated
+|range=melee
+|cost=19 Psi
+|cooldown=6
+|travel_speed=Instantaneous
+|use_speed=Mind
+|desc=
+Using both your mind and your arms you propel your two handed weapon to deal a huge strike doing {{ctwd|120|190%}} weapon mind damage.
+If the blow connects and the target fails a mental save there is (({{gtl|1|5}})*7+30)% (1 to 100% bounds) chance that the blow was so powerful it ripped a psychic imprint off the target.
+It will appear nearby and serve you for {{CTS|2|6}} turns. <br>
+If you do not have a two handed weapon equiped, but have it in your off set, you instantly automatically switch.		
+}}

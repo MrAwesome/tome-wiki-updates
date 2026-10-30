@@ -1,0 +1,17 @@
+{{Ability box
+|game_version=1.7.0
+|image=Chill of the tomb.png
+|name=Chill of the Tomb
+|category_type={{ct|Spell}}
+|category={{c|Grave}}
+|require={{TalentReq/SpellsReq2}}
+|cost=30 Mana
+|cooldown=8
+|range=7
+|travel_speed=400%
+|use_speed=Spell
+|desc=
+Conjures up a bolt of cold that moves toward the target and explodes into a chilly circle of death, doing  {{ctspd|28|280}} cold damage in a radius of {{cts|2|6}}.
+Necrotic minions caught in the blast do not take damage but are instead coated with a thin layer of ice, reducing all damage they take by {{cts|5|25}} for 4 turns.
+The damage will increase with your Spellpower.
+}}

@@ -1,0 +1,21 @@
+{{Ability box
+|image=Static field.png
+|name=Static Field
+|category_type={{ct|Wild-Gift}}
+|category={{c|Storm Drake Aspect}}
+|require={{TalentReq/GiftsReq2}}
+|cost=20 Equilibrium
+|cooldown=20
+|range=0
+|desc=
+Generate an electrical field around you in a radius of 1. Any creature caught inside will lose a percentage of its current life. This effect cannot kill creatures.
+
+The percentage loss is equal to {{cl|{{ctmd|10|45}}|90%|0|0|31%|31}}.
+
+Creatures of higher [[rank]] take reduced damage from this talent:
+*Rares and Elites: Divide damage by 1.5
+*Normal Bosses and Uniques: Divide damage by 2
+*Elite Bosses: Divide damage by 3
+
+Each point in storm drake talents also increases your lightning resistance by 1%.
+}}

@@ -1,0 +1,12 @@
+{{Ability_box
+|image=Precision.png
+|name=Precision
+|category_type=[[Technique (category type)|Technique]]
+|category=[[Dual weapons (category)|Dual weapons]]
+|require={{TalentReq/TechsDexReq3}}
+|use_mode=Sustained
+|cost=20 Stamina
+|cooldown=10
+|desc=
+You have learned to hit the right spot. When dual wielding, your armor penetration is increased by {{CS|(Dex * Talent Level)|4|0|25|500|0.75}}.
+}}

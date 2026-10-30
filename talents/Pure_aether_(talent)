@@ -1,0 +1,14 @@
+{{Ability box
+|image=Pure aether_2017.png
+|name=Pure Aether
+|category_type={{ct|Spell}}
+|category={{c|Aether}}
+|require={{TalentReq/SpellsReqHigh4}}
+|use_mode=Sustained
+|cost=50 Mana
+|cooldown=30
+|desc=
+Surround yourself with Pure Aether, increasing all your arcane damage by (2 * Raw Talent Level)% and ignoring {{ctl|100%|17|50%|raw}} arcane resistance of your targets.
+
+At level 5 it allows {{c|Aegis}} spells to be used while in {{t|Aether Avatar}} form.
+}}

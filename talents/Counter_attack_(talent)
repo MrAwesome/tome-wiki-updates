@@ -1,0 +1,22 @@
+{{Ability_box
+|image=Counter attack.png
+|name=Counter attack
+|category_type=[[Cunning (category type)|Cunning]]
+|category=[[Tactical (category)|Tactical]]
+|require={{TalentReq/CunsReq2}}
+|use_mode=Passive
+|desc=
+When you avoid a melee blow from an adjacent foe, you may get a free counterattack against the attacker.
+
+The chance of launching a counterattack is {{CL|((5 + 0.05 * Cun) * Talent Level)|100|0|0|50%|50}}.
+
+The damage of the counterattack is {{CTWD|50|90%}}.
+
+You may counterattack up to {{CSS|Cun|1|2.24}} times per turn.
+
+Unarmed fighters using it do consider it a strike for the purpose of stance damage bonuses (if they have any), and will have a damage bonus as a result.
+
+Armed fighters get a normal physical attack.
+
+The chance of countering and number of counter attacks increase with your Cunning.
+}}

@@ -1,0 +1,14 @@
+{{Ability box
+|game_version=1.7.6
+|image=Slam.png
+|name=Slam
+|category_type={{ct|Cursed}}
+|category={{c|Rampage}}
+|require={{TalentReq/CursedStrReq3}}
+|cost=3 Hate
+|cooldown=6
+|desc=
+While rampaging, you slam up to (2 + 0.5 * Talent Level) adjacent opponents (maximum 5), stunning them for 2 turns and damaging them for between (0.5 * {{ctpd|10|140}}) and {{ctpd|10|140}} physical damage. Your first slam of at least two opponents increases the rampage duration by 1.
+
+Damage increases with your Physical Power.
+}}

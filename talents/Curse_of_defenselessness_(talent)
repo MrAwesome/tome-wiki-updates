@@ -1,0 +1,18 @@
+{{Ability box
+|image=Curse of defenselessness.png
+|name=Curse of Defenselessness
+|game_version=1.7.4
+|category_type={{ct|Corruption}}
+|category={{c|Curses}}
+|require={{TalentReq/CorrsReq1}}
+|cooldown=15
+|cost=20 Vim
+|range=10
+|travel_speed=Instantaneous
+|use_speed=Spell
+|desc=
+Curses your target, decreasing its Defense and all saves by {{ctspd|30|60}} for 5 turns.  This cannot be saved against.
+
+The effects will improve with your Spellpower.
+|avail.escorts=[[Escorts#Defiler_.28Arcane.29|Defiler (Arcane)]] (Normal Escort Reward), +1 to talent or via revealing the locked {{c|Curses}} category
+}}

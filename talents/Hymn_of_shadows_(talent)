@@ -1,0 +1,19 @@
+{{Ability box
+|image=Hymn of shadows.png
+|name=Hymn of Shadows
+|category_type={{ct|Celestial}}
+|category={{c|Hymns}}
+|require={{TalentReq/DiviReq1}}
+|use_mode=Sustained
+|cost=20 Negative
+|cooldown=12
+|use_speed=0
+|desc=
+Chant the glory of the Moon, empowering your dark elemental attacks so that they do {{ctspd|5|25%}} additional darkness damage.
+
+In addition, this talent surrounds you with a shield of shadows, dealing {{ctspd|10|50}} darkness damage to anything that attacks you.
+
+You may only have one Hymn active at once.
+
+The effects will increase with your Spellpower.
+}}

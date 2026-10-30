@@ -1,0 +1,12 @@
+{{Ability box
+|game_version=1.4.5
+|image=Dimensional shift.png
+|name=Dimensional Shift
+|category_type={{ct|Chronomancy}}
+|category={{c|Spacetime Weaving}}
+|require={{TalentReq/ChronoReq2}}
+|use_mode=Passive
+|desc=
+When you teleport you reduce the duration of a single detrimental effect by {{gtl|1|5}} turns.
+
+}}

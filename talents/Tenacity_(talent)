@@ -1,0 +1,17 @@
+{{Ability box
+|game_version=1.7.6
+|image=Tenacity.png
+|name=Tenacity
+|category_type={{ct|Cursed}}
+|category={{c|Rampage}}
+|require={{TalentReq/CursedStrReq3}}
+|use_mode=Passive
+|desc=
+Nothing will stop your rampage.
+
+Rampage Bonus: You shrug off up to {{ctstd|Str|20|100}} damage each turn during your rampage. 
+
+If you shrug off more than (4 * {{ctstd|Str|20|100}}) damage, the rampage duration increases by 1.
+		
+The amount of damage you can shrug off improves with your Strength.
+}}

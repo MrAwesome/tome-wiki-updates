@@ -1,0 +1,15 @@
+{{Ability box
+|image = Solar wind.png
+|name = Solar Wind
+|game_version = 1.7.6
+|embers_version = 1.1.10
+|category_type = {{ct|Celestial}}
+|category = {{c|Sol}}
+|require = {{TalentReq/DiviReq2}}
+|cooldown = 4
+|cost = 20 Positive energy
+|range = 0
+|use_mode = Sustained
+|use_speed = Spell
+|desc = While sustained, this ability speeds up outgoing projectiles by {{ctspd|20|120%}} while slowing incoming projectiles by (100 - 100/(2 - 1/(1 + {{ctspd|20|120}} / 100)))%. The increase and decrease improve with your spellpower.
+}}

@@ -1,0 +1,26 @@
+{{Ability_box
+|game_version = 1.7.6
+|embers_version = 1.1.10
+|name = Deploy turret
+|image = Steamgun turret.png
+|category_type = {{ct|Steamtech}}
+|category = {{c|Turrets}}
+|require = {{TalentReq/SteamReq1}}
+|use_mode = Passive
+|desc = You are able to deploy turrets, stationary constructs that defend you in combat. Turrets last 10 turns, have a 20 turn cooldown, and deploying a turret places the others on a 5 turn cooldown.
+
+You learn new turrets as you invest in this talent.
+
+At raw talent level 1 you can use '''{{t|Steamgun turret|Steamgun turrets}}''', which fire at a random target nearby for {{ctwd|100|150%}} steamgun damage. These shots bypass allies.
+
+At raw talent level 3 you can use '''{{t|Flame turret|Flame turrets}}''', which deal {{fire}} damage to enemies in a radius 3 cone. Flame turrets gain 5 + {{ctstmd|5|50}} bonus armor and 30% resistance to all damage.
+
+At raw talent level 4 you can use '''{{t|Medic turret|Medic turrets}}''', which emit a healing mist that restores {{ctstmd|5|60}} life to allies and reduces the duration of newly applied detrimental effects by {{cts|10|45%}}.
+
+
+This talent also increases the Dexterity, Constitution and Cunning of all Turrets by {{ctstmd|5|50}}.
+
+All turrets gain bonus armor equal to 1/2 your level, are immune to all detrimental effects, and inherit your increased damage, resistance penetration, Steampower, Physical Power, and Accuracy.
+
+The stat bonus as well as the damage and healing dealt by Flame and Medic Turrets will increase with your Steampower.
+}}

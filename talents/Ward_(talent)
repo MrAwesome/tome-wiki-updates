@@ -1,0 +1,11 @@
+{{Ability_box
+|name=Ward
+|category_type=misc
+|category=objects
+|use_mode=activated
+|desc=''Bring a damage-type-specific ward into being. The ward will fully negate as many attacks of its element as it has charges.''
+|range=personal
+|cooldown=variable; 10 to 28
+|require=-
+|image=Ward.png
+}}

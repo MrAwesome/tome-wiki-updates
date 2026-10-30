@@ -1,0 +1,22 @@
+{{Ability box
+|image=Psyshot.png
+|name=Psyshot
+|game_version=1.7.6
+|embers_version=1.1.10
+|category_type={{ct|Steamtech}}
+|category={{c|Psytech gunnery}}
+|require=Dex (18, 24, 30, 36, 42)
+|cooldown=7
+|cost=5 Steam + 4 Psi
+|range=Steamgun range
+|use_speed=Steamtech
+|desc=Increases Physical Power by 30 and increases weapon damage by 34-76% (100*√(Talent Level/5)/1.5) when using steamguns.
+
+When your bullets hit a target your instinctively reach out to the impact and use the kinetic force to project a mindstar attack doing {{ctwd|70|250%}} damage (guaranteed hit), if you wield one in the offhand.
+
+This projection requires a pure mindstar; it will not work if extended into a psiblade.
+
+Also activable for a shot that deals {{ctwd|90|190%}} weapon damage as {{mind}} damage.
+
+''Note: The mindstar attack from this ability counts as a melee attack for bonuses applying to melee attacks.''
+}}

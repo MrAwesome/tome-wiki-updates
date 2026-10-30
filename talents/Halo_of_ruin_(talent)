@@ -1,0 +1,22 @@
+{{Ability_box
+|name = Halo of Ruin
+|image = Halo_of_ruin.png
+|category_type = {{ct|Demented}}
+|category = {{c|Nether}}
+|game_version = 1.7.4
+|forbidden_version = 1.0.12
+|require = {{TalentReq/DementedReq4}}
+|use_mode = Passive
+|desc = 
+Each time you cast a non-instant {{ct|Demented}} spell, a nether spark begins orbiting around you for 10 turns, to a maximum of 5. Each spark increases your critical strike chance by 2%, and on reaching 5 sparks your next Nether spell will consume all sparks to empower itself:
+
+{{t|Netherblast}}: Becomes a deadly lance of void energy, piercing through enemies and dealing an additional {{cts|1|2}} times its original damage over 5 turns.
+
+{{t|Rift Cutter}}: Those in the rift will be pinned for {{ctl|10|2|8}} turns, take {{ctspd|30|120}} temporal damage each turn, and the rift explosion has {{cts|1|2}} increased radius (rounded down).
+
+{{t|Spatial Distortion}}: An Entropic Maw will be summoned at the rift's exit for {{cts|3.5|5.5}} turns (rounded up), pulling in and taunting nearby targets with it's tendrils.
+
+The damage will increase with your Spellpower.  Entropic Maw stats will increase with level and your Magic stat.
+
+''Note: an empowered {{t|Netherblast}} will also hit the target instantaneously''
+}}

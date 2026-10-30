@@ -1,0 +1,17 @@
+{{Ability box
+|game_version=1.5.10
+|image=
+|name=Jinxed Touch
+|category_type={{ct|Demented}}
+|category={{c|Calamity}}
+|require={{TalentReq/SpellsReq1}}
+|use_mode=Sustained
+|cooldown=10
+|desc=
+Your touch carries an entropic curse, marking your victims for a terrible fate. Each time you deal damage to a target, they are Jinxed for 10 turns. This stacks up to 10 times, reducing saves and defense by {{gtl|1|3|raw}} and critical strike chance by {{gtl|1|2|raw}}.
+
+This can only be applied once per target per turn.
+
+Targets will begin losing 1 stack of Jinx each turn if they have not received damage from you in the last 2 turns.
+
+}}

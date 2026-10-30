@@ -1,0 +1,12 @@
+{{Ability box
+|name=Dual Weapon Mastery
+|image=dual_weapon_mastery.png
+|game_version=1.5.2
+|category_type={{ct|Technique}}
+|category={{c|Duelist}}
+|require={{TalentReq/TechsDexReq1}}
+|use_mode=Passive
+|desc=
+Your offhand weapon damage penalty is reduced to {{ctl|0%|40|20%}}. Up to {{css|Cun|2|3}} times a turn, you have a {{cl|(Talent Level * Dex)|90%|15|20|60%|250}} chance to parry up to (offhand weapon damage * {{ctl|1|.6|.8}}) damage from a melee or ranged attack. The number of parries increases with your Cunning. (A fractional parry has a reduced chance to succeed.)
+A successful parry reduces damage like armor (before any attack multipliers) and prevents critical strikes. It is difficult to parry attacks from unseen attackers and you cannot parry with a mindstar.
+}}

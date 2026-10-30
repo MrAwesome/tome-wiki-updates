@@ -1,0 +1,16 @@
+{{Ability_box
+|image=shadow_dance.png
+|name=Shadow Dance
+|game_version=1.5.2
+|category_type=[[Cunning (category type)|Cunning]]
+|category=[[Stealth (category)|Stealth]]
+|require={{TalentReq/CunsReq4}}
+|cost=30
+|cooldown=27
+|travel_speed=Instantaneous
+|use_speed=Instant
+|desc=
+Your mastery of stealth allows you to vanish from sight at any time. You automatically enter stealth mode, reset its cooldown, and cause it to not break from unstealthy actions for {{cTL|7|2|5}} turns. If you were not already stealthed, all enemies in a direct line of sight completely lose track of you.
+
+When your Shadow Dance ends, you must make a stealth check against targets in [[Stealth (talent)|Stealth]]'s range or be revealed.
+}}

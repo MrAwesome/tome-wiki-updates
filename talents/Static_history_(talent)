@@ -1,0 +1,13 @@
+{{Ability box
+|game_version=1.4.5
+|image=Static history.png
+|name=Static History
+|category_type={{ct|Chronomancy}}
+|category={{c|Stasis}}
+|require={{TalentReq/ChronoReq4}}
+|cost=0 Paradox
+|cooldown=24
+|desc=
+For the next {{cts|2|8|PM}} turns you may not create minor anomalies.  You do not regain Paradox or lose the spell you're casting if a random anomaly would normally occur.
+This spell has no effect on major anomalies.
+}}

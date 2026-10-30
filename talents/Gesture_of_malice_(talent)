@@ -1,0 +1,10 @@
+{{Ability box
+|image=Gesture of malice.png
+|name=Gesture of Malice
+|category_type={{ct|Cursed}}
+|category={{c|Gestures}}
+|require={{TalentReq/CursedCunReq2}}
+|use_mode=Passive
+|desc=
+Enhance your Gesture of Pain with a malicious curse that causes any victim that is struck to have all resistances lowered by (-6 + √ Talent Level)% for 5 turns.
+}}

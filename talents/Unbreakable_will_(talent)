@@ -1,0 +1,14 @@
+{{Ability box
+|game_version=1.5.10
+|image=Unbreakable will.png
+|name=Unbreakable Will
+|category_type=[[Prodigies]]
+|category=[[Prodigies#Willpower|Willpower]]
+|require=Willpower 50
+|use_mode=Passive
+|cooldown=7
+|desc=
+Your will is so strong that you simply ignore mental effects used against you.
+
+Warning: this has a cooldown.
+}}

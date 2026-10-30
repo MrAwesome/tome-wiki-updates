@@ -1,0 +1,15 @@
+{{Ability box
+|game_version=1.4.3
+|image=Repulsion blast.png
+|name=Repulsion Blast
+|category_type={{ct|Chronomancy}}
+|category={{c|Gravity}}
+|require={{TalentReq/ChronoReq1}}
+|cost=5 Paradox
+|cooldown=4
+|range=0
+|desc=
+Sends out a blast wave of gravity in a radius {{cts|4.5|6.5}} cone, dealing  {{ctspd|20|210|PM}} base physical (gravity) damage and knocking back targets caught in the area.
+Targets knocked into walls or other targets take 25% additional damage and deal 25% damage to targets they're knocked into.
+Closer targets will be knocked back further and the damage will scale with your Spellpower
+}}

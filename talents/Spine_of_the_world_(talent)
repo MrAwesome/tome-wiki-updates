@@ -1,0 +1,11 @@
+{{Ability box
+|game_version=1.5.10
+|image=Spine of the world.png
+|name=Spine of the World
+|category_type=[[Prodigies]]
+|category=[[Prodigies#Constitution|Constitution]]
+|require=Constitution 50
+|use_mode=Passive
+|desc=
+Your back is as hard as stone. Each time that you are affected by a physical effect, your body hardens, making you immune to all other physical effects for 5 turns.
+}}

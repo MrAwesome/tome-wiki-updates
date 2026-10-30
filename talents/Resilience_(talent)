@@ -1,0 +1,12 @@
+{{Ability box
+|image=Resilience.png
+|name=Resilience
+|category_type={{ct|Wild-Gift}}
+|category={{c|Summoning (Augmentation)}}
+|require={{TalentReq/GiftsReq3}}
+|use_mode=Passive
+|desc=
+Improves all your summons' Constitution by {{cts|2|10|0.75}}, and adds (Talent Level) effective talent levels to your summon talents to determine your summons' lifetime.
+
+The {{t|Jelly}}'s constitution is improved by {{cts|3|15|0.75}} instead.
+}}

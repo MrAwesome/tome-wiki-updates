@@ -1,0 +1,10 @@
+{{Ability box
+|image=Golem destruct.png
+|name=Golem self-destruction
+|category_type={{ct|Golem}}
+|category={{c|Golem}}
+|cost=100% Health
+|use_speed=Standard (100% of a turn)
+|desc=The golem self-destructs, destroying itself and generating a blast of fire in a radius of 4, doing (50 + 10 * Character Level) fire damage.
+This spell is only usable when the golem's master is dead.
+}}

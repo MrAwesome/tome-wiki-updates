@@ -1,0 +1,21 @@
+{{Ability box
+|game_version=1.7.4
+|image=Assemble.png
+|name=Assemble
+|category_type={{ct|Spell}}
+|category={{c|Master of Bones}}
+|require={{TalentReq/SpellsReq3}}
+|cost=30 Mana
+|cooldown=20
+|use_speed= Spell
+|desc=
+Every army of undead minions needs its spearhead. To that end you combine 3 skeleton minions into a bone giant with base level equal to that of the summoner, adjusted by {{cs|Talent Level|(-6)|0.9|(+2)|5}}. 
+
+The minions used are selected from the weakest first, and a Lord of Skulls will never be used. 
+
+At level 3 an eternal bone giant is created instead.
+
+At level 6 a heavy bone giant is created instead.
+
+Only one bone giant may be active, and casting this spell while one already exists will destroy it and create a new one.
+}}

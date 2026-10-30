@@ -1,0 +1,16 @@
+{{Ability box
+|game_version=1.4.5
+|image=Warden's Focus.png
+|name=Warden's Focus
+|category_type={{ct|Chronomancy}}
+|category={{c|Temporal Guardian}}
+|require={{TalentReq/ChronoReq4}}
+|cooldown=6
+|cost=10 Paradox
+|use_mode=Passive
+|range=archery range
+|speed=Weapon Speed
+|desc=
+Attack the target with either your ranged or melee weapons for 120% weapon damage.  For the next 10 turns random targeting, such as from {{t|Blink Blade}} and {{t|Warden's Call}}, will focus on this target.
+Attacks against this target gain {{ctl|40%|10|30%}} critical chance and critical strike power while you take {{ctl|40%|10|30%}} less damage from all enemies whose rank is lower then that of your focus target.
+}}

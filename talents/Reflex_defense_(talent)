@@ -1,0 +1,11 @@
+{{Ability_box
+|game_version=1.4.5
+|image=Reflex defense.png
+|name=Reflex defense
+|category_type={{ct|Technique}}
+|category={{c|Unarmed training}}
+|require={{TalentReq/TechsCunReq3}}
+|use_mode=Passive
+|desc=
+Your understanding of physiology allows you to apply your reflexes in new ways.  Whenever you would receive damage (from any source) greater than {{CTL|10%|30|15%}} of your maximum life you reduce that damage by ({{CTL|1|0.15|0.5}} * {{CL|Defense|100%|15|10|50%|50}}).
+}}

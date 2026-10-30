@@ -1,0 +1,12 @@
+{{Ability box
+|image=Restless night.png
+|name=Restless Night
+|category_type={{ct|Psionic}}
+|category={{c|Slumber}}
+|require={{TalentReq/PsiWilReq2}}
+|use_mode=Passive
+|desc=
+Targets you have slept take {{ctmd|5|40}} mind damage each turn for 5 turns upon waking.
+
+The damage will scale with your Mindpower.
+}}

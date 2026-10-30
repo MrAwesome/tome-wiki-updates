@@ -1,0 +1,16 @@
+{{Ability box
+|image=Deadly poison.png
+|name=Deadly Poison
+|category_type={{ct|Cunning}}
+|category=Poisons Effects
+|require={{t|Vile Poisons}} Level 1
+|use_mode=Sustained
+|cooldown=10
+|use_speed=0
+|desc=
+Coat your weapons with a deadly poison, inflicting (8 + 0.4 * {{ctstd|Cun|10|60}}) nature damage per turn for {{cts|6|10}} turns.
+
+Every application of the poison stacks.
+
+Poison effects scale with your {{t|Vile Poisons}} talent.
+}}

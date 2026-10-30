@@ -1,0 +1,16 @@
+{{Ability box
+|image=Explosives.png
+|name=Explosives
+|game_version=1.7.6
+|embers_version=1.1.10
+|category_type={{ct|Steamtech}}
+|category={{c|Chemistry}}
+|require={{TalentReq/SteamReq3}}
+|use_mode=Passive
+|desc=
+Allows you to create explosives tinkers of level {{gtl|1|5}}.
+You will learn a new schematic at level 1.
+Each other talent level, you have a 20% chance to learn one more random schematic, if you have not gained it by level 5 you are guaranteed it (unless all are known).
+|avail.shops=[[Kruk Pride]] ([[Embers of Rage]]) via [[Talent#Additional Talent Sources|purchasing]] {{c|Chemistry}}
+|avail.escorts=[[Escorts#Tinker|Tinker]], see the escorts page for details on unlocking the {{c|Chemistry}} category in [[Age of Ascendancy]] / the Main campaign
+}}

@@ -1,0 +1,19 @@
+{{Ability_box
+|game_version = 1.7.6
+|name = Dirge Acolyte
+|image = Dirge_acolyte.png
+|category_type = {{ct|Celestial}}
+|category = {{c|Dirges}}
+|require = {{TalentReq/DiviReq1}}
+|use_mode = Passive 
+|desc = 
+Even now, something compels you to sing.
+
+{{t|Dirge of Famine}}: Increases health regen by ({{cts|2|6|0.75}} * sqrt(character level)).
+
+{{t|Dirge of Conquest}}: Gives you part of a turn on critical (10%) or kill ({{ctl|100|33|67}}%).
+
+{{t|Dirge of Pestilence}}: Shields you for {{cts|50|200|0.75}} when an enemy inflicts a detrimental effect on you (5 turn cooldown).
+
+You may only have one Dirge active at a time.
+}}

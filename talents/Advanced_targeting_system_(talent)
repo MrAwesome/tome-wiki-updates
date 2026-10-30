@@ -1,0 +1,13 @@
+{{Ability box
+|image = Advanced targeting system.png
+|name = Advanced Targeting System
+|game_version = 1.7.6
+|embers_version = 1.1.10
+|category_type = {{ct|Steamtech}}
+|category = {{c|Armament}}
+|require = {{TalentReq/DexSteamReq4}}
+|use_mode = Passive
+|desc = Enhancements to your targeting systems give all ranged attacks a {{ctl|100|15|40%}} chance to trigger an immediate shot from your tail-mounted steamgun for 100% damage as {{lightning}}.
+
+In addition, your {{physical}} and {{lightning}} resistance penetration is increased by {{ctl|100|17|50%}}.
+}}

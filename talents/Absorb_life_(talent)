@@ -1,0 +1,18 @@
+{{Ability box
+|image=Absorb life.png
+|name=Absorb Life
+|game_version=1.7.4
+|category_type={{ct|Corruption}}
+|category={{c|Sanguisuge}}
+|require={{TalentReq/CorrsReq3}}
+|use_mode=Sustained
+|cost=5 Vim
+|cooldown=30
+|range=10
+|travel_speed=instantaneous
+|use_speed=0
+|desc=
+Absorbs the life force of your foes as you kill them.
+
+As long as this talent is active, vim will decrease by 0.5 per turn and increase by {{cts|6|16}} for each kill of a non-undead creature (in addition to the usual increase based on Willpower).
+}}

@@ -1,0 +1,19 @@
+{{Ability box
+|name=Vile Transplant
+|image=Vile_transplant.png
+|game_version=1.7.4
+|category_type={{ct|Corruption}}
+|category={{c|Vile Life}}
+|require={{TalentReq/CorrsReq4}}
+|range=4
+|cost=18 Vim
+|cooldown=15
+|travel_speed=instantaneous
+|use_speed=Spell
+|desc=
+You transfer up to {{cts|2|4|log}} physical or magical detrimental effects currently affecting you to a nearby creature at a cost of 18 vim per effect.
+
+Specific effect immunities will not prevent the transfer.
+
+The chance to transfer each effect increases with your Spellpower
+}}

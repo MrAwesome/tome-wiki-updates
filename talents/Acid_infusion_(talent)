@@ -1,0 +1,16 @@
+{{Ability box
+|image=Acid infusion.png
+|name=Acid Infusion
+|category_type={{ct|Spell}}
+|category={{c|Acid Alchemy}}
+|require={{TalentReq/SpellsReq1}}
+|use_mode=Sustained
+|cost=30 Mana
+|cooldown=30
+|desc=
+When you throw your alchemist bombs, you infuse them with explosive acid that can blind.
+
+In addition all acid damage you do is increased by {{cts|5|25%}}.
+
+Only one of {{t|Flame Infusion}}, {{t|Frost Infusion}} and {{t|Acid Infusion}} can be active.
+}}

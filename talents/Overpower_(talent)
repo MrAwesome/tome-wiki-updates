@@ -1,0 +1,15 @@
+{{Ability_box
+|image=Overpower.png
+|name=Overpower
+|category_type=[[Technique (category type)|Technique]]
+|category=[[Shield offense (category)|Shield offense]]
+|require=Level: (8, 9, 10, 11, 12)
+(28, 30, 32, 34, 36) Str
+|use_mode=activated
+|range=melee/personal
+|cost=22 Stamina
+|cooldown=8
+|use_speed=1 turn
+|desc=Hits the target with your weapon doing (80-130)% damage and two shield strikes doing (80-130)% damage, trying to overpower your target. If the last attack hits, the target is knocked back. The chance for knockback increases with your Accuracy.}}
+
+'''Note: Here for historical information only, no longer part of the {{c|Shield Offense}} category'''

@@ -1,0 +1,13 @@
+{{Ability box
+|game_version=1.7.6
+|image=Dwarf resilience_2017.png
+|name=Resilience of the Dwarves
+|category_type={{ct|Race}}
+|category={{c|Dwarf}}
+|require={{TalentReq/RacialReq1}}
+|cooldown={{ctl|8|45|25}}
+|use_speed=0
+|desc=
+Call upon the legendary resilience of the Dwarven race to increase your Armor by {{css|Con|7|25}}, armor hardiness by {{ctl|40|20|35}} and your Spell and Physical saves by {{css|Con|12|30|0.75}} for 8 turns.
+The bonuses will increase with your Constitution.
+}}

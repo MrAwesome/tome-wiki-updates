@@ -1,0 +1,16 @@
+{{Ability box
+|image=Furnace.png
+|name=Furnace
+|game_version=1.4.6
+|embers_version=1.0.3
+|category_type={{ct|Steamtech}}
+|category={{c|Furnace}}
+|require={{TalentReq/SteamReqHigh1}}
+|use_mode=Sustained
+|cost=2 Steam drain
+|cooldown=3
+|desc=
+You add a portable furnace to your steam generators.
+
+While it is active your fire and physical damage increases by {{gtl|9|25|raw}} and your fire and physical resistance penetration by {{ctl|50%|5|25%}}.
+}}

@@ -1,0 +1,15 @@
+{{Ability_box
+|name=Adept
+|image=Adept.png
+|category_type=[[Prodigies]]
+|category=[[Prodigies#Cunning|Cunning]]
+|game_version=1.7.4
+|require=Cunning 50
+|use_mode=Passive
+|desc=You are adept at many different skills, granting you +1.5 to all known talent levels.
+
+This works on already known talents and those that you will learn afterwards.
+
+''Note 1: The extra +1.5 talent levels will be affected by mastery multipliers.''<br/>
+''Note 2: Currently this is bugged such that it will not immediately update passive talents. The player can add or remove a point from passive talents to update them.''
+}}

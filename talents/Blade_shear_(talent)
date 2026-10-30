@@ -1,0 +1,19 @@
+{{Ability box
+|game_version=1.4.5
+|image=Blade shear.png
+|name=Blade Shear
+|category_type={{ct|Chronomancy}}
+|category={{c|Blade Threading}}
+|require={{TalentReq/ChronoReq3}}
+|cost=18 Paradox
+|cooldown=12
+|range=1
+|use_speed=Weapon Speed
+|desc=
+Attack up to three adjacent targets for {{ctwd|100|150%}} weapon damage.  If any attack hits you'll create a temporal shear dealing {{ctspd|20|200|PM}} temporal damage in a radius {{cts|4.5|6.5}} cone.
+Each target you hit with your weapons beyond the first increases the damage of the shear by 25%.  Targets reduced below 20% of maximum life by the shear may be instantly slain.
+The cone damage improves with your Spellpower.
+
+
+
+}}

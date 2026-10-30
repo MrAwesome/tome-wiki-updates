@@ -1,0 +1,14 @@
+{{Ability_box
+|image=Backlash.png
+|name=Backlash
+|category_type=[[Psionic (category type)|Psionic]]
+|category=[[Discharge (category)|Discharge]]
+|require={{TalentReq/PsiWilHigh3}}
+|use_mode=Passive
+|desc=
+Your subconscious now retaliates when you take damage.  If the attacker is within range 7, you'll inflict mind damage equal to the Feedback gained from the attack or {{ctmd|10|75}}, whichever is lower.
+
+This effect can only happen once per creature per turn.
+
+The damage will scale with your Mindpower.
+}}

@@ -1,0 +1,18 @@
+{{Ability box
+|game_version=1.7.4
+|image=Acidbeam.png
+|name=Acidbeam
+|category_type={{ct|Wild-Gift}}
+|category={{c|Corrosive Blades}}
+|require={{TalentReq/GiftsReqHigh1}}
+|cost=4 Equilibrium
+|cooldown=3
+|range=10
+|use_speed=Mind
+|desc=
+Channel acid through your psiblades, extending their reach to create a beam doing {{ctmd|20|290}} Acid damage (which can disarm them).
+
+The damage increases with your Mindpower.
+
+''Note: the disarm chance is 25% and uses your mindpower''
+}}

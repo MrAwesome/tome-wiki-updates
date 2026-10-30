@@ -1,0 +1,15 @@
+{{Ability box
+|game_version=1.4.5
+|image=Volley of arrows.png
+|name=Volley of Arrows
+|category_type={{ct|Technique}}
+|category={{c|Archery - Bows}}
+|require={{TalentReq/TechsDexReq4}}
+|range=Archery Range
+|cost=35 Stamina
+|cooldown=12
+|desc=
+You fire multiple arrows at an area of {{cts|2.3|3.7}} radius, doing {{ctwd|60|130%}} damage with each arrow.
+
+One arrow will be fired at each enemy that you could normally hit with {{t|Shoot}}. Enemies that can only be hit by aiming at a tile behind them will not be targeted by this talent. There is otherwise no limit on the number of arrows you can fire, except for the amount of ammo you have remaining.
+}}

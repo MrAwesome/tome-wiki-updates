@@ -1,0 +1,18 @@
+{{Ability box
+|image=Slumber.png
+|name=Slumber
+|category_type={{ct|Psionic}}
+|category={{c|Slumber}}
+|require={{TalentReq/PsiWilReq1}}
+|range=7
+|cost=10 Psi
+|cooldown=8
+|desc=
+Puts the target into a deep sleep for {{cts|2.3|4.3}} turns, rendering it unable to act.  Every {{ctmd|10|100}} points of damage the target suffers will reduce the effect duration by one turn.
+
+When Slumber ends, the target will suffer from Insomnia for a number of turns equal to the amount of time it was asleep (up to 10 turns max), granting it 20% sleep immunity for each turn of the Insomnia effect.
+
+The damage threshold will scale with your Mindpower.
+
+''Note: Critical hits can increase damage threshold.''
+}}

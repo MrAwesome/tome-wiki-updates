@@ -1,0 +1,16 @@
+{{Ability box
+|name=Twilight Surge
+|image=Twilight surge.png
+|category_type={{ct|Celestial}}
+|category={{c|Star Fury}}
+|game_version=1.7.4
+|require={{TalentReq/DiviReq3}}
+|cost= Gain 10 Positive and 20 Negative
+|cooldown=5
+|range=0
+|use_speed=Spell
+|desc=
+A surge of twilight pulses from you, doing (10 + 0.2 * Spellpower * {{cts|1|5}}) light and (10 + 0.2 * Spellpower * {{cts|1|5}}) darkness damage to all others within radius 5.
+
+The damage dealt will increase with your Spellpower.
+}}

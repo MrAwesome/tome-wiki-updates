@@ -1,0 +1,19 @@
+{{Ability box
+|game_version=1.7.4
+|image=Corrosive nature.png
+|name=Corrosive Nature
+|category_type={{ct|Wild-Gift}}
+|category={{c|Corrosive Blades}}
+|require={{TalentReq/GiftsReqHigh1}}
+|use_mode=Passive
+|desc=
+You gain {{ctmd|10|40%}} Acid resistance.
+
+When you deal Nature damage to a creature, you gain a bonus to Acid damage for {{cts|2|5|log}} turns. 
+
+This damage bonus can stack up to 5 times, gaining 1 stack whenever you deal Nature damage to the target, up to once per turn, and is equal to
+
+ (0.45 * {{cts|5|15|0.75}} * √ Stack)%.
+
+The resistance and damage increase improve with your Mindpower.
+}}

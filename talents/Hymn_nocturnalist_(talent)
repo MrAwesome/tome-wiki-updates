@@ -1,0 +1,21 @@
+{{Ability_box
+|name = Hymn Nocturnalist
+|image = hymn nocturnalist.png
+|category_type={{ct|Celestial}}
+|category={{c|Hymns}}
+|game_version = 1.7.4
+|require = {{TalentReq/DiviReq1}}
+|use_mode = Sustained
+|range = 5
+|cost = 5 Negative
+|cooldown = 10
+|use_speed = Spell
+|desc = 
+Your passion for singing the praises of the Moons reaches its zenith.
+
+Your Hymns now fire shadowy beams that will hit up to {{cts|1|5}} of your foes within radius 5 for {{ctspd|1|50}} damage, with a 25% chance of blinding.
+
+This powerful effect will drain 5 negative energy each time it fires at at least 1 target; no beam will fire if your negative energy is too low.
+
+These values scale with your Spellpower.
+}}

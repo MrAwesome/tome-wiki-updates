@@ -1,0 +1,15 @@
+{{Ability_box
+|image=Biofeedback.png
+|name=Biofeedback
+|category_type={{ct|Psionic}}
+|category={{c|Feedback}}
+|require={{TalentReq/PsiWilReq1}}
+|use_mode=Passive
+|desc=
+The decay rate of your Feedback is reduced to {{ctl|10%|90|50%}} of the normal rate.
+
+Each point of Feedback you lose through decay also heals you for {{cs|(Wil * Talent Level)|0|0|2.5|500|0.75}}.
+
+The healing effect improves with your Willpower.
+|avail.escorts=[[Escorts#Defiler_.28Arcane.29|Defiler (Arcane)]] ([[Escorts#Betraying_to_Zigur|Betray Escort to Zigur]]), via revealing the locked {{c|Feedback}} category
+}}

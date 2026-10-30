@@ -1,0 +1,21 @@
+{{Ability box
+|image=Melting point.png
+|name=Melting Point
+|game_version=1.4.6
+|embers_version=1.0.3
+|category_type={{ct|Steamtech}}
+|category={{c|Furnace}}
+|require={{TalentReq/SteamReqHigh4}}
+|use_mode=Sustained
+|cooldown={{ctl|10|20|15}}
+|cost=special
+|desc=
+When you reach 10 molten points your armour overheats, reaching temperatures so high that they cauterize up to {{gtl|1|5}} detrimental physical effects on you.(round down)
+
+A special medical injector injects you with a fire immunity serum at that precise moment to make you immune to the burning effect.
+
+When this happens all molten points are consumed and trigger a {{t|Furnace Vent}} at the creature that triggered the last molten point.
+
+This effect drains 15 steam when triggered, and will not trigger if steam is too low.
+			
+}}

@@ -1,0 +1,15 @@
+{{Ability_box
+|game_version = 1.7.6
+|embers_version = 1.1.10
+|name = Static Shock
+|image = Static shock.png
+|category_type = {{ct|Steamtech}}
+|category = {{c|Magnetism}}
+|require = {{TalentReq/SteamReq1}}
+|use_mode = Passive
+|desc = Using your Block talent surrounds you and your minions in a static barrier for 4 turns, increasing all resistances by {{ctl|50|10|25%}}. If an enemy deals damage to you or your minions, the barrier will shock them for {{ctwd|40|100%}} of your shield damage.
+
+This effect cannot damage the same target more than once per turn, and will not interact with Counterstrike.
+
+You now also use your Cunning in place of Strength when equipping shields as well as when calculating shield damage.
+}}

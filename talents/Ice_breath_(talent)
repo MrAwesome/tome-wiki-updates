@@ -1,0 +1,16 @@
+{{Ability box
+|image=Ice breath.png
+|name=Ice Breath
+|category_type={{ct|Wild-Gift}}
+|category={{c|Cold Drake Aspect}}
+|require={{TalentReq/GiftsReq4}}
+|cost=12 Equilibrium
+|cooldown=12
+|range=0
+|desc=
+You breathe ice in a frontal cone of radius {{cts|5|10}}. Any target caught in the area will take {{ctstd|Str|30|430}} cold damage, and has a 25% to be frozen for a few turns (higher rank enemies will be frozen for a shorter time).
+
+The damage will increase with your Strength, and the critical chance is based on your Mental crit rate.
+
+Each point in cold drake talents also increases your cold resistance by 1%.
+}}

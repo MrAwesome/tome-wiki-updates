@@ -1,0 +1,15 @@
+{{Ability box
+|image=Supercharge golem.png
+|name=Supercharge Golem
+|category_type={{ct|Spell}}
+|category={{c|Advanced Golemancy}}
+|require={{TalentReq/SpellsReqHigh3}}
+|cost=20 Mana
+|cooldown={{ctl|0|24|20}}
+|desc=
+You activate a special mode of your golem, causing it to regenerate (60 + {{ctspd|15|450}}) life over 7 turns.
+
+If your golem was dead, it is instantly brought back to life with {{ctl|100%|27|55%}} life.
+
+While supercharged, your golem is enraged and deals 25% more damage.
+}}

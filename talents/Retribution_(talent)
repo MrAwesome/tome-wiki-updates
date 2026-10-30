@@ -1,0 +1,15 @@
+{{Ability box
+|image=Retribution.png
+|name=Retribution
+|category_type={{ct|Celestial}}
+|category={{c|Guardian}}
+|require={{TalentReq/DiviReqHigh3}}
+|use_mode=Sustained
+|cost=20 Positive
+|cooldown=10
+|range={{cts|2|6}}
+|desc=
+Retribution negates half of all damage you take while it is active. Once Retribution has negated {{ctspd|40|400}} damage, your shield will explode in a burst of light, inflicting damage equal to the amount negated in a radius of {{cts|2|6}} and deactivating the talent.
+
+The amount absorbed will increase with your Spellpower.
+}}

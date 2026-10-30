@@ -1,0 +1,14 @@
+{{Ability_box
+|image=Eldritch slam.png
+|name=Eldritch slam
+|game_version=1.5.5
+|category_type=[[Spell (category type)|Spell]]
+|category=[[Eldritch shield (category)|Eldritch shield]]
+|require={{TalentReq/SpellsReq4}}
+|use_mode=Activated
+|cost=30 Mana + 10 Equilibium
+|cooldown=20
+|desc=Slam your shield on the ground creating a shockwave.
+
+You perform a melee attack for {{ctwd|130|260%}} Arcane damage against everyone within radius {{CTS|2|6}}.
+}}

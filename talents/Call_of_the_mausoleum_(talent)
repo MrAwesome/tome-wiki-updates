@@ -1,0 +1,20 @@
+{{Ability box
+|game_version = 1.7.4
+|image=call_of_the_ausoleum.png
+|name=Call of the Mausoleum
+|category_type={{ct|Spell}}
+|category={{c|Master of Flesh}}
+|require={{TalentReq/SpellsReq1}}
+|cost=5 Mana, plus 1 Soul per ghoul summoned
+|cooldown=14
+|use_speed = Spell
+|range=0
+|desc=
+You control dead matter around you, lying in the ground, decaying. When you enter combat and every {{ctl|10|30|12}} turns thereafter a ghoul automatically rises to fight for you. The ghoul will have base level equal to yours, adjusted by {{cs|Talent Level|(-6)|0.9|(+2)|5}}.
+
+* At level 3 you can forcefully activate this spell to summon up to {{cts|1|5}} ghasts around you.<br>There will be additional diminishing returns if this number would exceed 6, in which case the number summoned will be limited to 6 + (Number - 6)<sup>0.7</sup>.
+* At level 5 every 4 summoned ghouls or ghasts a ghoulking is summoned for free.
+* Ghouls, ghasts and ghoulkings last for {{cts|5|10}} turns.		
+
+Ghoul minions come in larger numbers than skeleton minions but are generally more frail and disposable.
+}}

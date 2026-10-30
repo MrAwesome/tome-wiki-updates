@@ -1,0 +1,14 @@
+{{Ability_box
+|image=Rockwalk.png
+|name=Rockwalk
+|category_type={{ct|Wild-gift}}
+|category={{c|Earthen Vines}}
+|require={{TalentReq/GiftsReq3}}
+|use_mode=Activated
+|range=20.0
+|cost=15 equilibrium
+|cooldown={{ctl|0|11|7}}
+|travel_speed=instantaneous
+|use_speed=1 turn
+|desc=Merge with one of your stone vines, traversing it to emerge near to an entangled creature (maximum range 20). Merging with the stone is beneficial for you, healing 100 + {{ctstd|Wil|40|630}} life (increases with Willpower). This will not break 'body of stone'. 
+}}

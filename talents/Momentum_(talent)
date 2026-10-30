@@ -1,0 +1,12 @@
+{{Ability_box
+|image=Momentum.png
+|name=Momentum
+|category_type=[[Technique (category type)|Technique]]
+|category=[[Dual weapons (category)|Dual weapons]]
+|require={{TalentReq/TechsDexReq4}}
+|use_mode=Sustained
+|cost=50 Stamina
+|cooldown=30
+|desc=
+When dual wielding, increases attack speed by {{CTS|11|40%|0.75}}, but drains stamina quickly (-6 stamina/turn).
+}}

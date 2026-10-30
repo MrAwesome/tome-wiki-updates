@@ -1,0 +1,19 @@
+{{Ability box
+|image=Awesome toss.png
+|name=Awesome toss
+|game_version=1.4.6
+|embers_version=1.0.3
+|category_type={{ct|Steamtech}}
+|category={{c|Elusiveness}}
+|require={{TalentReq/SteamReq3}}
+|cooldown=12
+|cost=25 Steam
+|use_speed=0
+|desc=In an awesome feat of agility and technological prowess, you toss both of your steamguns in the air, causing them to spin madly for 3 turns.
+
+Each turn, they will fire twice at random targets in range, dealing {{ctwd|100|200%}} weapon damage.
+
+While the guns are airborne, you are disarmed and cannot attack.
+
+The spectacle is so distracting that your foes have a hard time concentrating on you, increasing all of your resistances by {{CTL|35|5|20%}}.
+}}

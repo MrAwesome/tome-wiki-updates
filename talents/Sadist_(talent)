@@ -1,0 +1,16 @@
+{{Ability_box
+|image=sadist.png
+|name=Sadist
+|game_version=1.7.2
+|category_type={{ct|Psionic}}
+|category={{c|Ravenous Mind}}
+|require={{TalentReq/PsiWilReq1}}
+|use_mode=Passive
+|range=-
+|cost=-
+|cooldown=-
+|travel_speed=-
+|use_speed=-
+|desc=
+You feed on the pain of all foes in sight. For each one of them with life under 80% you gain a stack of Sadist effect that increases your raw mindpower by {{ctl|30|6|18}}.
+}}

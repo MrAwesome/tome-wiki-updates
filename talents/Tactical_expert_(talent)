@@ -1,0 +1,12 @@
+{{Ability_box
+|image=Tactical expert.png
+|name=Tactical expert
+|category_type=[[Cunning (category type)|Cunning]]
+|category=[[Tactical (category)|Tactical]]
+|require={{TalentReq/CunsReq1}}
+|use_mode=Passive
+|desc=
+Your Defense is increased by {{CSS|Cun|5|15|0.75}} for every adjacent visible foe, up to a maximum of {{CTL|8|1|5}} foes.
+
+The Defense increase per enemy and maximum Defense bonus will scale with your Cunning.
+}}

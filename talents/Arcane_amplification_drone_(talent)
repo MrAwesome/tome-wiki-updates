@@ -1,0 +1,36 @@
+{{Ability box
+|game_version=1.7.6
+|image=Arcane amplification drone.png
+|name=Arcane Amplification Drone
+|category_type=[[Prodigies]]
+|category=[[Prodigies#Magic|Magic]]
+|require=Magic 50<br />Have gained the [[Achievement#Lore Achievements - Main Campaign|Tales of the Spellblaze]] achievement with this or any previous character for the current difficulty & permadeath settings.
+|use_mode=Activated
+|use_speed=Instant
+|range=7
+|cooldown=10
+|desc=
+You create an Arcane Amplification Drone at the selected location for 3 turns.
+
+When you cast a spell that damages the drone it will ripple the damage as 130% {{arcane}} damage of the initial hit in radius 4.
+}}
+===Notes===
+*The drone has the same faction as the player, but a hostile personal reaction, so it can be targeted and attacked by all player spells. It can also be targeted by player talents like {{t|Rush}}, and thus be used as an escape beacon.
+*No attacks will actually damage the drone, so there is no risk of killing it early. Because of this it can be used as a blocking unit.
+*The 3 turn duration of the drone runs on global time, so players with any amount of speed increase can usually hit the drone 4 times.
+*Enemies treat the drone as a hostile creature and target whichever enemy is closest to them, so a drone placed nearer to them than you will usually be attacked first, letting it tank attacks for the player. Enemies hurt by the ripple will also target the drone.
+*The ripple is produced by a passive talent carried by the drone itself, {{t|Arcane Amplification Drone Effect}}.
+*It will only amplify damage that can be directly attributed to the player and identified as a spell. Due to limitations in the game code, most lingering area of effect damage will not be amplified.
+**Besides the spell categories of each class, [[Rune|runes]] and some racial talents also count as spells.
+*Each instance of damage is amplified separately, so spells that hit several times ripple several times.
+*Amplified damage will not harm the player, but can hurt friendly or neutral units like [[escorts]].
+*The amplified damage is always {{arcane}}, whatever the element of the spell, and is dealt by the drone rather than the player:
+**It is based on the initial hit after your damage bonuses and critical hits, but it does not gain your {{arcane}} damage bonus and cannot critically hit by itself.
+**The drone inherits the player's resistance penetration when it is created, but no other stats.
+**Debuffs like stun, daze, and freeze on the drone can significantly reduce its damage output.
+**It does not count as damage dealt by you, for example towards prodigy requirements. You still gain the experience for kills.
+*The drone is a summoned construct, so bonus damage against constructs or summoned creatures increases the initial hit, and therefore the ripple. Only the largest such bonus is used.
+*The drone counts as a summon. Each use counts towards the requirement of {{t|Blighted Summoning}}. If you know that prodigy, 10% of the ripple is dealt as {{blight}} damage instead of {{arcane}}; the total is unchanged.
+*If you inspect the summoned drone itself, its creature description says the ripple is 160% {{arcane}} damage. This is outdated: the talent description and the code both say 130%.
+
+<noinclude>[[Category: Embers of Rage]]</noinclude>

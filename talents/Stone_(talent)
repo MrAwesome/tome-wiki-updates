@@ -1,0 +1,19 @@
+{{Ability_box
+|image=stone.png
+|name=Stone
+|category_type={{ct|Cursed}}
+|category={{c|Advanced Shadowmancy}}
+|require={{TalentReq/CursedCunReqHigh2}}
+|use_mode=Activated
+|cost=5 Hate
+|range=10
+|cooldown=6
+|travel_speed=Instantaneous
+|use_speed=Mind
+|desc=
+Target a nearby shadow, and force it to slam into a nearby enemy, dealing 35.9 Physical damage.
+
+Your shadow will then set them as their target, and they will target your shadow.
+
+Damage increases with your Mindpower.
+}}

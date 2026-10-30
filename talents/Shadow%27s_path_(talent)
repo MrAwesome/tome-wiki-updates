@@ -1,0 +1,19 @@
+{{Ability_box
+|image=shadow_s_path.png
+|name=Shadow's Path
+|category_type={{ct|Cursed}}
+|category={{c|Advanced Shadowmancy}}
+|require={{TalentReq/CursedCunReqHigh3}}
+|use_mode=Activated
+|cost=8 Hate
+|range=10
+|cooldown=15
+|travel_speed=Instantaneous
+|use_speed=Mind
+|desc=
+Command all Shadows within sight to tele-dash to a target location, damage any enemies they pass through for 26.6 physical damage.
+
+For the purpose of this talent, you force your shadows through any walls in their way.
+
+Damage increases with your Mindpower.
+}}

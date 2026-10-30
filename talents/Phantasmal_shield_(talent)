@@ -1,0 +1,16 @@
+{{Ability_box
+|image=Phantasmal_shield_2017.png
+|name=Phantasmal Shield
+|category_type={{ct|Spell}}
+|category={{c|Phantasm}}
+|game_version=1.7.4
+|require={{TalentReq/SpellsReq3}}
+|use_mode=Sustained
+|cost=20 Mana
+|cooldown=10
+|use_speed=Spell Speed
+|desc=
+The caster is surrounded by a phantasmal shield. If hit in melee, the shield will deal {{ctspd|20|120}} light damage to the attacker.
+
+The damage will increase with your Spellpower.
+}}

@@ -1,0 +1,16 @@
+{{Ability_box
+|game_version = 1.7.4
+|name = Ghost Walk
+|image = ghost walk.png
+|category_type={{ct|Spell}}
+|category={{c|Spectre}}
+|require = {{TalentReq/SpellsReq1}}
+|cost = 12 Mana
+|range = {{cts|5|9|0.5|0|1}}
+|cooldown = 10
+|use_speed = Spell
+|desc = 
+Taking on a spectral form, you teleport to the target tile within range {{cts|5|9|0.5|0|1}}. 
+
+For 3 turns after using this spell, you gain the ability to instantly teleport back to your original tile as long as you are within range of it.
+}}

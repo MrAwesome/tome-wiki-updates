@@ -1,0 +1,25 @@
+{{Ability_box
+|image=trap_priming.png
+|name=Trap Priming
+|game_version=1.5.2
+|category_type=[[Cunning (category type)|Cunning]]
+|category=[[Trapping (category)|Trapping]]
+|require={{TalentReq/CunsReq4}}
+|use_mode=Activated
+|travel_speed=Instantaneous
+|use_speed=Standard
+|desc=
+You prepare an additional trap (up to tier 1) with a special primed trigger that causes it to activate immediately when deployed. (Use this ability to select the trap.)
+Not all traps can be prepared this way and each trap can have only one type of preparation.<br>
+Known primable designs:
+
+'''Tier 1: {{t|Bear Trap}}'''<br>
+Deals 39.17 physical damage and pins, slows (30%), and wounds for an additional 39.17 damage over 5 turns.<br>
+'''Tier 2: {{t|Springrazor Trap}}'''<br>
+Shrapnel (radius 2) deals 47.92 physical damage, reduces accuracy, armor, and defence by 5.<br>
+'''Tier 4: {{t|Flash Bang Trap}}'''<br>
+Explodes (radius 2) for 72.92 physical damage, 50% blind/daze for 3 turns.
+
+A trap with a primed trigger gains +17% effectiveness (replacing the normal bonus from Trap Mastery) and won't break stealth 19% of the time.
+|avail.classes=[[Archer]], [[Rogue]], [[Skirmisher]]
+}}

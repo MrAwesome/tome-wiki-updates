@@ -1,0 +1,12 @@
+{{Ability_box
+|image=Shadow veil.png
+|name=Shadow veil
+|category_type=[[Cunning (category type)|Cunning]]
+|category=[[Ambush (category)|Ambush]]
+|require={{Template:TalentReq/CunsReq4}}
+|use_mode=Activated
+|range=5
+|cost=30 Stamina 60 Mana
+|cooldown=18
+|use_speed=1 turn
+|desc=You veil yourself in shadows for (3 + ceil(talent_level)) turns, and let them control you. While veiled, you become immune to status effects and gain (10 + 5 * talent_level)% all damage reduction. Each turn, you blink to a nearby foe (within range (ceil(3.3 + 1.7 * sqrt(talent_level))), hitting it for (90-200)% darkness weapon damage. While this goes on, you cannot be stopped unless you are killed, and you cannot control your character.}}

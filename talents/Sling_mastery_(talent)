@@ -1,0 +1,12 @@
+{{Ability_box
+|image=Sling mastery.png
+|name=Sling Mastery
+|category_type={{ct|Technique}}
+|category={{c|Archery - Slings}}
+|require=Dex (18,24,30,36,42)
+|use_mode=Passive
+|desc=
+Increases Physical Power by (10 * Talent Level) and increases weapon damage by (22.36 * √ Talent Level)% when using slings.
+
+Also, increases your reload rate by (Talent Level / 2) rounded down.
+}}

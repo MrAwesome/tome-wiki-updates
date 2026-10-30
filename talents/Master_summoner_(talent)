@@ -1,0 +1,13 @@
+{{Ability box
+|image=Master summoner.png
+|name=Master Summoner
+|category_type={{ct|Wild-Gift}}
+|category={{c|Summoning (Advanced)}}
+|require={{TalentReq/GiftsReqHigh1}}
+|use_mode=Sustained
+|cost=20 Equilibrium
+|cooldown=10
+|range=10
+|desc=
+Reduces the cooldown of all summons by (6.67 * Raw Talent Level)%, up to a maximum of 30%.
+}}

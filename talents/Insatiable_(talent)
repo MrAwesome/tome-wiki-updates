@@ -1,0 +1,10 @@
+{{Ability_box
+|image=Insatiable.png
+|name=Insatiable
+|category_type=[[Psionic (category type)|Psionic]]
+|category=[[Voracity (category)|Voracity]]
+|require={{TalentReq/PsiWilReq4}}
+|use_mode=Passive
+|desc=
+Increases your maximum energy by 5 * {{cts|1.5|5|0.75}}. You also gain {{cts|1.5|5|0.75}} Psi for each kill and 0.5 * {{cts|1.5|5|0.75}} Psi for each mind critical.
+}}

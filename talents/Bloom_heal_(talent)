@@ -1,0 +1,12 @@
+{{Ability_box
+|game_version=1.7.4
+|image=Regeneration.png
+|name=Bloom Heal
+|category_type={{ct|Wild-Gift}}
+|category={{c|Object Techniques}}
+|cooldown=50
+|use_speed = 0
+|desc=
+Call upon the power of nature to regenerate your body for 7+0.5*Wil life every turn for 6 turns.
+
+The life healed will increase with the Willpower stat.}}

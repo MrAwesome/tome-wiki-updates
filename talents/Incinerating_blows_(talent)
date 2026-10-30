@@ -1,0 +1,18 @@
+{{Ability box
+|name=Incinerating Blows
+|image=Incinerating_blows.png
+|category_type={{ct|Corruption}}
+|category={{c|Torture}}
+|require={{TalentReq/StrCorrsReq1}}
+|use_mode=Passive
+|cooldown=6
+|range=1
+|desc=
+The power of the Fearscape infuses your weapon: your melee attacks will deal 6.5-15 fire damage, spread over 3 turns. Additionally, everytime you attack, there is a 25% chance of releasing a burst of powerful fire that will deal 25-70 fire damage to all enemies in radius 1 over 3 turns.
+
+If this talent is not on cooldown, the burst of fire will instead be radius {{cts|3|5}}, and stun all targets in addition to burning them.
+
+For the purpose of applying the stun, you have {{cts|5|25}} bonus spellpower.
+
+The damage will increase with your Spellpower
+}}

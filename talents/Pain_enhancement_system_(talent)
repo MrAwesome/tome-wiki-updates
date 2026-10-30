@@ -1,0 +1,16 @@
+{{Ability box
+|game_version=1.7.6
+|image=Pain enhancement system.png
+|name=Pain Enhancement System
+|category_type=[[Prodigies]]
+|category=[[Prodigies#Strength|Strength]]
+|require=Strength 50<br />Earned the achievement [[Achievement#Kill_or_Damage_Achievements|Size Matters]] on this character
+|use_mode=Passive
+|cooldown=18
+|desc=
+When you deal a critical hit your embedded system activates, increasing all your primary stats except Strength by 50% of your Strength for 6 turns.
+}}
+===Notes===
+*The bonus is 50% of your Strength (rounded down) at the moment it triggers, it doesn't change during the 6 turns.
+
+<noinclude>[[Category: Embers of Rage]]</noinclude>

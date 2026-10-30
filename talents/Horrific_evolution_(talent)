@@ -1,0 +1,13 @@
+{{Ability box
+|game_version=1.5.10
+|image=Horrific_Evolution.png
+|name=Horrific Evolution
+|category_type={{ct|Demented}}
+|category={{c|Path of Horror}}
+|require={{TalentReq/SpellsReq2}}
+|use_mode=Passive
+|desc=
+Your mutations have enhanced your offense even farther.
+		You gain {{ctstd|Mag|15|50}} Accuracy and {{ctstd|Mag|15|50}} Spellpower.
+		The effects will increase with your Magic stat.
+}}

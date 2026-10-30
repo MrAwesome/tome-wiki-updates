@@ -1,0 +1,16 @@
+{{Ability box
+|game_version=1.5.10
+|image=Dissolved_Face.png
+|name=Dissolved Face
+|category_type={{ct|Demented}}
+|category={{c|Disfigured face}}
+|require={{TalentReq/SpellsReq2}}
+|use_mode=Active
+|cooldown=12
+|range= 8 Cone
+|cost=-10 insanity
+|desc=
+You approach your face to your target and let some of it melt in a gush of blood and gore, dealing {{ctspd|1|400}}/5 darkness damage ({{ctspd|1|400}} total) in a cone over 5 turns.
+		Each turn the target will be dealt an additional 0,7*{{ctspd|1|400}}/5 blight damage per disease.
+		Damage will increase with your Spellpower.
+}}

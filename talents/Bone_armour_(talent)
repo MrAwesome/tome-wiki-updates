@@ -1,0 +1,12 @@
+{{Ability box
+|game_version=1.7.6
+|image=Bone armour_2017.png
+|name=Bone Armour
+|category_type={{ct|Undead}}
+|category={{c|Skeleton}}
+|require={{TalentReq/UndeadsReq2}}
+|cooldown={{ctl|10|25|15}}
+|desc=
+Creates a shield of bones, absorbing ({{cts|120|400}} + 3.5 * Dexterity + Max Life * {{ctl|10%|1|5%}}) damage. Lasts for 10 turns.
+The total damage the shield can absorb increases with your Dexterity.
+}}

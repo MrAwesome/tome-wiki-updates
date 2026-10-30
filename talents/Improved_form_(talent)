@@ -1,0 +1,12 @@
+{{Ability_box
+|image=Improved_form.png
+|name=Improved Form
+|game_version=1.5.10
+|category_type={{ct|Psionic}}
+|category={{c|Possession}}
+|require={{TalentReq/PsiWilReq3}}
+|use_mode=Passive
+|desc=
+When you assume the form of another body you gain {{CTL|100%|40|90%}} of the values (defences, crits, powers, save, ...) of the body.<br>
+In addition talents gained from bodies are limited to level floor({{gtl|1|5}}).
+}}

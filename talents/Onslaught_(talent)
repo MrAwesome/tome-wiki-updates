@@ -1,0 +1,14 @@
+{{Ability_box
+|image=Onslaught_2017.png
+|name=Onslaught
+|category_type=[[Technique (category type)|Technique]]
+|category=[[Superiority (category)|Superiority]]
+|require={{TalentReq/TechsReqHigh2}}
+|use_mode=Sustained
+|cost=50 Stamina
+|cooldown=20
+|desc=
+Take an offensive stance. As you walk through your foes, you knock them all back in an frontal arc (up to {{CTL|10|1|5}} grids).
+
+This consumes stamina rapidly (-1 stamina/turn).
+}}

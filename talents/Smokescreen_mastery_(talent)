@@ -1,0 +1,11 @@
+{{Ability_box
+|image=smokescreen.png
+|name=Smokescreen Mastery
+|game_version=1.5.2
+|category_type=[[Cunning (category type)|Cunning]]
+|category=[[Tools (category)|Tools]]
+|require={{t|Master Artificer}} and {{t|Smokescreen}}
+|use_mode=Passive
+|desc=
+You infuse your smoke bomb with chokedust. Each turn, enemies in the smoke take 30+{{ctstd|Cun|10|150}} nature damage and are 50% likely to be silenced.
+}}

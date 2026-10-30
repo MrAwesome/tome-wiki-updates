@@ -1,0 +1,18 @@
+{{Ability_box
+|name=Accelerate
+|image=Accelerate.png
+|category_type={{ct|Demented}}
+|category={{c|Timethief}}
+|game_version=1.7.4
+|forbidden_version=1.0.12
+|require={{TalentReq/DementedReq1}}
+|cost=10 Insanity
+|cooldown=12
+|use_speed=0
+|desc=
+Distorting spacetime around yourself, you reduce the movement speed of all enemies in radius 4 by 50% for {{cts|2|4.5}} turns (rounded down).
+
+You use the siphoned speed to grant yourself incredible quickness for 1 turn, increasing movement speed by {{cts|100|300}}%, increased by a further 1/8 for each enemy slowed, to a maximum of 4 enemies.
+
+Any actions other than movement will cancel the effect.
+}}

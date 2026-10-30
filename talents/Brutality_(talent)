@@ -1,0 +1,16 @@
+{{Ability box
+|game_version=1.7.6
+|image=Brutality.png
+|name=Brutality
+|category_type={{ct|Cursed}}
+|category={{c|Rampage}}
+|require={{TalentReq/CursedStrReq2}}
+|use_mode=Passive
+|desc=
+You attack with mindless brutality. The first critical hit inflicted while rampaging increases the rampage duration by 1.
+		Rampage Bonus: Your physical damage increases by {{CTS|12|37%}}.
+		
+Rampage Bonus: Your Physical Save increases by {{CTS|6|18,5|0.75}} and Mental Save increases by {{CTS|6|18,5|0.75}}.
+
+
+}}

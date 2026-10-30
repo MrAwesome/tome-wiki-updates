@@ -1,0 +1,14 @@
+{{Ability box
+|image=Feed strengths.png
+|name=Feed Strengths
+|category_type={{ct|Cursed}}
+|category={{c|Dark Sustenance}}
+|require={{TalentReq/CursedWilReq4}}
+|use_mode=Passive
+|desc=
+Enhances your feeding by reducing your target's positive resistances and increasing your positive resistances by {{cl|(0.15 * Mindpower + 14 * √ Talent Level)|100%|0|0|40%|40}}.
+
+Resistance to "all" is not affected.
+
+Improves with your Mindpower.
+}}

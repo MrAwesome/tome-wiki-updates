@@ -1,0 +1,16 @@
+{{Ability box
+|image=Tech overload.png
+|name=Tech Overload
+|game_version=1.4.6
+|embers_version=1.0.3
+|category_type={{ct|Steamtech}}
+|category={{c|Automated Butchery}}
+|require={{TalentReq/SteamReqHigh4}}
+|use_mode=Activated
+|cost=20 Steam 
+|cooldown=50; Fixed
+|desc=
+You override all security measures of your tinkers, allowing you to reset the cooldown of {{cts|2|7|log}} of most of your steamtech talents of tier {{gtl|1|5}} or less, and instantly increases your steam level by {{cts|10|40%}} of the maximum.
+In addition for 6 turns your maximum steam capacity is doubled, but steam regeneration is halved.
+
+}}

@@ -1,0 +1,23 @@
+{{Ability_box
+|image=Skullcracker.png
+|name=Skullcracker
+|category_type={{ct|Technique}}
+|category={{c|Thuggery}}
+|require={{TalentReq/TechsReq1}}
+|cost=20 Stamina
+|cooldown=12
+|desc=
+You smack your forehead against your enemy's head (or whatever sensitive part you can find), causing Physical damage.
+
+The Physical damage is equal to (Str * Power Factor * Talent Factor / 1.5), where
+:Power Factor = 0.2 + 0.253 * √ ( Physical Power + 15 + 0.3 * Helm Value * √ Helm Quality )
+:Helm Value = gold value of helm, divided by 2 if non-metallic
+:Helm Quality = 1 if normal or lore, 2 if normal ego, 3 if greater ego, 4 if artifact
+:Talent Factor = 1 + 0.316 * √ ( Talent Level + Helm Material Level )
+
+If the attack hits, the target is confused ({{csl|Dex|50%|25|45%}} effect) for {{cts|3.2|5.3}} turns.
+
+Damage done increases with the quality of your headgear, your Strength, and your physical damage bonuses.
+
+Confusion power and chance increase with your Dexterity and Accuracy.
+}}

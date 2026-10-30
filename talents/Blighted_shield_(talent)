@@ -1,0 +1,14 @@
+{{Ability box
+|image=Blighted shield.png
+|name=Blighted Shield
+|category_type={{ct|Corruption}}
+|category={{c|Doom shield}}
+|require={{TalentReq/SpellsReq4}}
+|use_mode=Passive
+|desc=
+Your shield is infused with a powerful blight. Anytime you block and apply a counterstrike effect, the target is also afflicted by a curse of impotence.
+
+Cursed creatures have all their damage decreased by 0-19.36% for 5 turns.
+
+The effects will improve with your Spellpower.
+}}

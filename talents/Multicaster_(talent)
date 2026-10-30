@@ -1,0 +1,28 @@
+{{Ability_box
+|game_version = 1.7.6
+|name = Multicaster
+|image = Multicaster.png
+|category_type = {{ct|Spell}}
+|category = {{c|Thaumaturgy}}
+|require = {{TalentReq/SpellsReqHigh2}}
+|use_mode = Sustained
+|cost = 70 mana
+|cooldown = 30
+|use_speed = Spell
+|desc = 
+Casting beam spells has become so instinctive for you that you can now easily weave in other spells at the same time.
+
+Anytime you cast a beam spell there is a {{ctl|100|15|30}}% chance to automatically cast an offensive spell that you know.
+
+Beam spells duplicated by the {{t|Orb of Thaumaturgy}} can also trigger this effect.
+
+This can only happen once (or twice with Orb of Thaumaturgy) per turn.
+
+The additional cast will cost mana but no turn, will not active its cooldown and can trigger on spells currently on cooldown.
+
+During Aether Avatar only compatible spells are used.
+
+Eligible spells: {{t|Aether Beam}}, {{t|Aether Breach}}, {{t|Arcane Vortex}}, {{t|Blastwave}}, {{t|Chain Lightning}}, {{t|Earthen Missiles}}, {{t|Earthquake}}, {{t|Fireflash}}, {{t|Flameshock}}, {{t|Freeze}}, {{t|Frozen Ground}}, {{t|Glacial Vapour}}, {{t|Illuminate}}, {{t|Inferno}}, {{t|Mudslide}}, {{t|Nova}}, {{t|Shock}}, {{t|Tidal Wave}}
+}}
+
+[[Category:Talents]]

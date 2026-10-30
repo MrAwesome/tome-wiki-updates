@@ -1,0 +1,17 @@
+{{Ability box
+|image=Glyph of explosion.png
+|name=Glyph of Explosion
+|category_type={{ct|Celestial}}
+|category={{c|Glyphs}}
+|require={{TalentReq/DiviReqHigh3}}
+|range={{cts|1|5|log}}
+|cost=-10 Positive
+|cooldown=20
+|use_speed=0
+|desc=
+You bind light in a glyph on the floor. All targets walking over the glyph will trigger an explosion of light that does (15 + 0.12 * Spellpower * {{cts|1.5|5}}) damage to everyone within 1 tile.
+
+The glyph is a hidden trap that lasts for {{cts|6|10}} turns, and a disarm power of {{cs|(0.15 * Raw Magic * Talent Level)|0|0|75|75}}. Its detection power is 80% of the disarm power.
+
+The damage will increase with your Spellpower.
+}}

@@ -1,0 +1,18 @@
+{{Ability_box
+|image=Stalk.png
+|name=Stalk
+|category_type={{ct|Cursed}}
+|category={{c|Endless Hunt}}
+|require={{TalentReq/CursedWilReq1}}
+|use_mode=Sustained
+|cooldown=0
+|use_speed=0
+|desc=
+When you focus your attacks on a single foe and strike them in melee for two consecutive turns, your hatred of them overcomes you and you begin to stalk them with single-minded purpose. The effect will last for 40 turns, or until your prey is dead. Stalking gives you bonuses against your foe that grows with each turn you hit them, and diminishes with each turn that you do not.
+
+*Bonus level 1: +{{ctstd|Wil|10|30%}} Accuracy, +(0.33 * {{ctid|Str|10|35%|0.4}}) melee damage, +0.5 hate/turn prey was hit
+*Bonus level 2: +(1.41 * {{ctstd|Wil|10|30%}}) Accuracy, +(0.67 * {{ctid|Str|10|35%|0.4}}) melee damage, +1 hate/turn prey was hit
+*Bonus level 3: +(1.73 * {{ctstd|Wil|10|30%}}) Accuracy, +({{ctid|Str|10|35%|0.4}}) melee damage, +1.5 hate/turn prey was hit
+
+The accuracy bonus improves with your Willpower, and the melee damage bonus with your Strength.
+}}

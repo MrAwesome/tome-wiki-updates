@@ -1,0 +1,14 @@
+{{Ability box
+|image=Dark ritual.png
+|name=Dark Ritual
+|category_type={{ct|Corruption}}
+|category={{c|Blight}}
+|require={{TalentReq/CorrsReq1}}
+|use_mode=Sustained
+|cost=20 Vim
+|cooldown=30
+|desc=
+Increases your spell critical damage multiplier by {{ctspd|20|60%}}.
+
+The multiplier will increase with your Spellpower.
+}}

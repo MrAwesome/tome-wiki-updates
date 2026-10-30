@@ -1,0 +1,14 @@
+{{Ability box
+|image=Runic golem.png
+|name=Runic Golem
+|category_type={{ct|Spell}}
+|category={{c|Advanced Golemancy}}
+|require={{TalentReq/SpellsReqHigh4}}
+|use_mode=Passive
+|desc=
+Increases your golem's life, mana and stamina regeneration rates by (Raw Talent Level).
+
+At raw talent levels 1, 3 and 5, the golem also gains a new rune slot.
+
+Even without this talent, Golems start with three rune slots.
+}}

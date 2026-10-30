@@ -1,0 +1,11 @@
+{{Ability box
+|game_version=1.4.5
+|image=Fateweaver.png
+|name=Fateweaver
+|category_type={{ct|Chronomancy}}
+|category={{c|Fate Weaving}}
+|require={{TalentReq/ChronoReq3}}
+|use_mode=Passive
+|desc=
+You now gain {{cts|2|8|0.75}} combat accuracy, physical power, spellpower, and mindpower per Spin.
+}}

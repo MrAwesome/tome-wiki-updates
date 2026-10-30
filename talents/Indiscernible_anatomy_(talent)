@@ -1,0 +1,15 @@
+{{Ability box
+|game_version=1.7.4
+|name=Indiscernible Anatomy
+|image=Indiscernible anatomy.png
+|category_type={{ct|Wild-Gift}}
+|category={{c|Ooze}}
+|require={{TalentReq/GiftsReq4}}
+|use_mode=Passive
+|desc=
+Your body's internal organs are indistinct, disguising your vital areas.
+
+You have a {{cts|15|50%|0.75}} chance to shrug off all direct critical hits (physical, mental, spell).
+
+In addition you gain {{ctl|100%|25|65%}} resistance to disease, poison, wounds and blindness.
+}}

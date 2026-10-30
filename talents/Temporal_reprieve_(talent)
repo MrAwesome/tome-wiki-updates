@@ -1,0 +1,13 @@
+{{Ability box
+|game_version=1.4.3
+|image=Temporal reprieve.png
+|name=Temporal Reprieve
+|category_type={{ct|Chronomancy}}
+|category={{c|Time Travel}}
+|require={{TalentReq/ChronoReq3}}
+|cost=40 Paradox
+|cooldown=40 (Fixed)
+|desc=Transport yourself to a safe place for {{cts|2|6}} turns.
+ 
+''Note: {{t|Contingency}} can not be used for this talent because of the fixed cooldown.''
+}}

@@ -1,0 +1,19 @@
+{{Ability box
+|game_version=1.4.5
+|image=Anomaly displacement shield.png
+|name=Anomaly Displacement Shield
+|category_type={{ct|Chronomancy}}
+|category={{c|Anomaly}}
+|require=-
+|use_mode=Uncontrolled Anomaly
+|cooldown=0
+|range=10
+|desc=
+50% chance that damage the caster takes will be warped to a set target.
+
+Once the maximum damage is absorbed, the time runs out, or the target dies, the shield will crumble.
+
+Duration: ({{anom/duration}}*2)
+
+Maximum Damage: ({{anom/damage}}*2)
+}}

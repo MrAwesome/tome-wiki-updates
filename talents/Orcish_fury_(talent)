@@ -1,0 +1,14 @@
+{{Ability box
+|game_version=1.7.6
+|image=Orc fury_2017.png
+|name=Orcish Fury
+|category_type={{ct|Race}}
+|category={{c|Orc}}
+|require={{TalentReq/RacialReq1}}
+|use_speed=0
+|cooldown={{ctl|5|45|25}}
+|desc=
+Summons your lust for blood and destruction; especially when the odds are against you.  
+You increase your damage by 10% + {{cSS|con|1%|6%}} per enemy you can see in line of sight of you (maximum 5 enemies, 10% + ({{cSS|con|1%|6%}} * 5) bonus) for 3 turns.
+The damage bonus will increase with your Constitution.
+}}

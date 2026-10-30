@@ -1,0 +1,16 @@
+{{Ability box
+|game_version=1.7.4
+|image=Acidic soil.png
+|name=Acidic Soil
+|category_type={{ct|Wild-Gift}}
+|category={{c|Corrosive Blades}}
+|require={{TalentReq/GiftsReqHigh4}}
+|use_mode=Sustained
+|cost=15 Equilibrium
+|cooldown=30
+|use_speed=Mind
+|desc=
+Surround yourself with natural forces, ignoring {{ctl|100%|15|50%}} acid resistance of your targets.
+
+In addition, the acid will nourish your bloated oozes, giving them an additional {{ctmd|10|75}} life regeneration per turn.
+}}

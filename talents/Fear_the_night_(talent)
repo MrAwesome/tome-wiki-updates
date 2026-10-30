@@ -1,0 +1,14 @@
+{{Ability box
+|image=Fear the night.png
+|name=Fear the Night
+|category_type={{ct|Spell}}
+|category={{c|Nightfall}}
+|require={{TalentReq/SpellsReq3}}
+|cost=30 Mana
+|cooldown=10
+|range=0
+|desc=
+Invoke a cone dealing {{ctspd|10|230}} darkness damage in a radius of {{cts|4|8}}. Any creatures caught inside must make a check against their Mental Save or be knocked back by 4 grids.
+
+The damage will increase with your Spellpower.
+}}

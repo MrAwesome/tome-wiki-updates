@@ -1,0 +1,23 @@
+{{Ability box
+|game_version=1.7.6
+|image=Range amplification device.png
+|name=Range Amplification Device
+|category_type=[[Prodigies]]
+|category=[[Prodigies#Willpower|Willpower]]
+|require=Willpower 50<br />Have a [[Lite|light]] radius of 10 or more
+|use_mode=Sustained
+|cooldown=10
+|use_speed=Standard
+|desc=
+Activate a special focusing device that extends all your ranged spells and psionic powers range by 3 (only works on those with range 2 or more and up to 10 max).
+
+The use of this device is very strenuous, increasing fatigue by 20% while active.
+}}
+===Notes===
+*The range bonus applies to every talent that counts as a spell or a mind power, not only psionic ones. For example, most wild gifts and [[Rune|runes]] also benefit.
+*The maximum of 10 also applies to talents whose range is already above 10, so their range is lowered to 10 while the device is active:
+**{{t|Precognition}}: if it is cast while the device is active, its sensing radius of 12 or more is reduced to 10.
+**{{t|Judgement}} and {{t|Searing Sight}}: their range is taken from the radius of {{t|Radiance}}, which can exceed 10 if its effective talent level is above 5.
+**{{t|Thread Walk}}: when used with a bow, its range is the bow's range, which can exceed 10 with enough range bonuses.
+
+<noinclude>[[Category: Embers of Rage]]</noinclude>

@@ -1,0 +1,14 @@
+{{Ability_box
+|name=Frost Grab
+|game_version=1.5.10
+|category_type={{ct|Spell}}
+|category={{c|other}}
+|image=Frost_grab.png
+|range=10
+|cost=19 Mana
+|cooldown=8
+|desc=
+Grab a target and pull it next to you, covering it with frost while reducing its movement speed by 50% for {{cts|4|8}} turns.
+The ice will also deal {{ctspd|5|140}} cold damage.
+The damage and chance to slow will increase with your Spellpower.
+}}

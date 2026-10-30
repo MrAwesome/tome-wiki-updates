@@ -1,0 +1,22 @@
+{{Ability box
+|image=Chant of light.png
+|name=Chant of Light
+|category_type={{ct|Celestial}}
+|category={{c|Chants}}
+|require={{TalentReq/DiviReq4}}
+|use_mode=Sustained
+|range=10
+|cost=5 Positive
+|cooldown=12
+|use_speed=0
+|desc=
+You chant the glory of the Sun, empowering your light and fire elemental attacks so that they do {{ctspd|20|50%}} additional damage.
+
+In addition, this talent surrounds you with a shield of light, dealing {{ctspd|5|25}} light damage to anything that hits you in melee.
+
+Your lite radius is also increased by {{cts|2|6|log}}.
+
+You may only have one Chant active at once and this Chant costs less power to sustain.
+
+The effects will increase with your Spellpower.
+}}

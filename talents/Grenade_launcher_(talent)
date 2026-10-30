@@ -1,0 +1,17 @@
+{{Ability box
+|image = Grenade launcher.png
+|name = Grenade Launcher
+|game_version = 1.7.6
+|embers_version = 1.1.10
+|category_type = {{ct|Steamtech}}
+|category = {{c|Demolition}}
+|require = {{TalentReq/DexSteamReq1}}
+|cooldown = 9
+|range = Steamgun range
+|use_mode = Passive
+|desc = You mount a grenade launcher on your steamgun that launches high explosive rounds. Each time you make a basic attack with your steamgun or a heavy weapon, you fire a grenade at the target that explodes for {{ctwd|60|160%}} steamgun damage in radius {{cts|1|2.6}}.
+
+This talent also reinforces the armor of you and your minions to give you immunity to your own grenades.
+
+You can only fire a single grenade once every 9 turns.
+}}

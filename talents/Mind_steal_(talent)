@@ -1,0 +1,21 @@
+{{Ability_box
+|image=mind_steal.png
+|name=Mind Steal
+|game_version=1.7.2
+|category_type={{ct|Psionic}}
+|category={{c|Deep Horror}}
+|require={{TalentReq/PsiWilHigh1}}
+|use_mode=Activated
+|range=7
+|cost=30 Psi
+|cooldown=30
+|travel_speed=Instantaneous
+|use_speed=Mind
+|desc=
+Your mere presence is a blight in your foes minds. Using this link you are able to reach out and steal a talent from a target.
+		For floor({{cts|6|30}}) turns you will be able to use a random active (not passive, not sustained) talent from your target, and they will loose it.
+		You may not steal a talent which you already know.
+		The stolen talent will not use any resources to activate.
+		At level 5 you are able to choose which talent to steal.
+		The talent stolen will be limited to at most level max(1, floor({{gtl|1|5}})).
+}}

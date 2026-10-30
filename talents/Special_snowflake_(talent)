@@ -1,0 +1,14 @@
+{{Ability_box
+|name=Special Snowflake
+|category_type={{ct|Spell}}
+|category={{c|Other}}
+|game_version=1.7.2
+|range=7
+|cooldown=10
+|use_speed=Spell Speed
+|desc=You are a special snowflake! Come here so you can be examined!
+
+''Effects: Pulls the target to the user (without checking any resists or saves), then deals {{ctspd|5|140}} {{Cold}} damage that can crit, and attempts to daze (using Spellpower).''
+
+''Has no effect if the target never moves, or if they are already stunned.''
+}}

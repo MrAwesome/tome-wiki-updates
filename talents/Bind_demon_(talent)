@@ -1,0 +1,31 @@
+{{Ability box
+|game_version=1.4.6
+|ashes_version=1.0.5
+|image=Bind demon.png
+|name=Bind Demon
+|category_type={{ct|Corruption}}
+|category={{c|Demonic pact}}
+|require={{TalentReq/CorrsReq2}}
+|use_mode=Activated
+|range=Melee/Personal
+|cost=25 Vim
+|cooldown=30
+|desc=
+Your knowledge of demonic forces grows, allowing you to bind more seeds to you and to summon demons.
+
+You channel your arcane corruption through a demon seed to temporarily summon the corresponding demon for {{cts|4|12}} turns.
+
+Summoned demons can regen their life and resummoning them keeps the life they had when they were last used.
+
+If the demon dies, it will not be available for summoning anymore.
+
+As you learn to bind more easily, you can also use more seed:
+
+At level 2 it lets you bind a seed to your first ring.
+
+At level 3 it lets you bind a seed to your shield.
+
+At level 4 it lets you bind a seed to your second ring.
+
+At level 5 it lets you bind a seed to your main body armor.
+}}

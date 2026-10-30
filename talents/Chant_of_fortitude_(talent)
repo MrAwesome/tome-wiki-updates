@@ -1,0 +1,22 @@
+{{Ability_box
+|name=Chant of Fortitude
+|image=Chant of fortitude.png
+|game_version=1.7.4
+|category_type={{ct|Celestial}}
+|category={{c|Chants}}
+|require={{TalentReq/DiviReq1}}
+|use_mode=Sustained
+|range=10
+|cost=20 Positive
+|cooldown=12
+|use_speed=0
+|desc=
+You chant the glory of the Sun, granting you {{ctspd|5|60}} Mental Save and increasing your maximum life by {{ctl|100%|12.5|25%}}.
+
+You may only have one Chant active at once.
+
+The effects will increase with your Spellpower.
+
+''Note: this talent is granted by learning {{t|Chant Acolyte}}, or as an [[escort]] reward''
+|avail.escorts=[[Escorts#Sun_Paladin_.28Arcane.29|Sun Paladin (Arcane)]] (Normal Escort Reward), +1 to talent (does not give access to {{t|Chant Acolyte}}) or via revealing the locked {{c|Chants}} category
+}}

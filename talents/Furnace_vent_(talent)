@@ -1,0 +1,16 @@
+{{Ability box
+|image=Furnace vent.png
+|name=Furnace Vent
+|game_version=1.4.6
+|embers_version=1.0.3
+|category_type={{ct|Steamtech}}
+|category={{c|Furnace}}
+|require={{TalentReq/SteamReqHigh3}}
+|use_mode=Activated
+|range=0
+|cost=15 Steam
+|desc=
+Open the vents on your furnace, creating a conic blast (radius {{cts|4|8|0.5|0|0}}) dealing up to {{ctstmd|10|400}} fire damage at 10 molten points.
+All molten points are consumed.
+The damage will increase with your Steampower.			
+}}

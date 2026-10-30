@@ -1,0 +1,22 @@
+{{Ability_box
+|game_version=1.7.4
+|image=torture_souls.png
+|name=Torture Souls
+|category_type={{ct|Spell}}
+|category={{c|Animus}}
+|require={{TalentReq/SpellsReq3}}
+|use_mode=Activated
+|use_speed=Spell
+|travel_speed=
+|cost=40 Mana
+|cooldown=18
+|desc=
+Unleash dark forces to all foes in sight that are afflicted by {{t|Soul Leech}}, dealing {{ctspd|30|300}} {{frostdusk}} damage to them and tearing apart their souls.
+
+This returns up to {{cts|1|5}} souls to you (one for each foe hit).
+
+The damage increases with your Spellpower.
+
+
+''Note: this spell takes effect in a radius of 10.''
+}}

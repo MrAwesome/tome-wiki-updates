@@ -1,0 +1,18 @@
+{{Ability box
+|image=Waters of life.png
+|name=Waters of Life
+|category_type={{ct|Wild-Gift}}
+|category={{c|Harmony}}
+|require={{TalentReq/GiftsReq1}}
+|cooldown=30
+|cost=10 Equilibrium
+|use_speed=0
+|desc=
+The waters of life flow through you, purifying any poisons or diseases currently affecting you.
+
+For {{ctl|30|6|10}} turns, all poisons and diseases will heal you instead of damaging you.
+
+When activated, it also heals you for {{ctstd|Wil|20|60}} life for each disease or poison you have.
+
+The healing per disease/poison will increase with your Willpower.
+}}

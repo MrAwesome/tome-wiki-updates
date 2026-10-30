@@ -1,0 +1,13 @@
+{{Ability box
+|game_version=1.7.6
+|image=Shaloren speed_2017.png
+|name=Grace of the Eternals
+|category_type={{ct|Race}}
+|category={{c|Shalore}}
+|require={{TalentReq/RacialReq1}}
+|cooldown={{ctl|10|45|25}}
+|use_speed=0
+|desc=
+Call upon the grace of the Eternals to increase your global speed by {{css|Dex|10|47.6%}} or {{css|Mag|10|47.6%}} for 5 turns.
+		The speed bonus will increase with your Dexterity or Magic (whichever is higher).
+}}

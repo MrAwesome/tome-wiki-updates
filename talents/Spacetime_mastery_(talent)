@@ -1,0 +1,14 @@
+'''No longer available to players as of 1.3.0'''
+
+{{Ability box
+|image=Spacetime mastery.png
+|name=Spacetime Mastery
+|category_type={{ct|Chronomancy}}
+|category=Other
+|require={{TalentReq/TemporalReq4}}
+|use_mode=Passive
+|desc=
+Your mastery of spacetime reduces the cooldown of {{t|Banish}}, {{t|Dimensional Step}}, {{t|Swap}}, and {{t|Temporal Wake}} by {{ctl|8|1|5}}, and the cooldown of {{t|Wormhole}} by {{ctl|16|2|10}}.
+
+Also improves your Spellpower for the purpose of hitting targets with chronomancy effects that may cause continuum destabilization (Banish, Time Skip, etc.), as well as your chance of overcoming continuum destabilization, by {{ctl|100%|15|50%}}.
+}}

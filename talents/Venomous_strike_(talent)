@@ -1,0 +1,21 @@
+{{Ability_box
+|image=Venomous_strike_2017.png
+|name=Venomous strike
+|game_version=1.5.2
+|category_type=[[Cunning (category type)|Cunning]]
+|category=[[Poisons (category)|Poisons]]
+|require={{TalentReq/CunsReq4}}
+|use_mode=Activated
+|cost=14 Stamina
+|cooldown=10
+|desc=
+You strike your target with your melee or ranged weapon, doing {{cTWD|120|210%}} weapon damage as nature and inflicting additional effects based on your active vile poisons:
+
+*{{t|Numbing Poison}} - Reduces global speed by {{cTL|50%|10|30%}} for 5 turns.<br>
+*{{t|Insidious Poison}} - Applies a standard poison that deals {{ctstd|Cun|50|550}} nature damage over 5 turns.<br>
+*{{t|Crippling Poison}} - Places {{cTS|1|4|log}} talents on cooldown for {{cTS|1.5|6|log}} turns.<br>
+*{{t|Leeching Poison}} - Heals you for {{ctstd|Cun|50|550}}.<br>
+*{{t|Volatile Poison}} - Deals a further 0.6 * {{ctstd|Cun|50|550}} nature damage to foes in a radius {{cTS|1|4|log}} ball.<br>
+
+Learning this talent in addition to the Throwing Knives talent allows you to learn the [[Venomous throw (talent)|Venomous Throw]] talent, which can be used to throw poisoned daggers at your foes, but is put on cooldown when this talent is used.
+}}

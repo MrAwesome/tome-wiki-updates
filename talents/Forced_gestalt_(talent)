@@ -1,0 +1,22 @@
+{{Ability box
+|image=Forced gestalt.png
+|name=Forced gestalt
+|game_version=1.7.6
+|embers_version=1.1.10
+|category_type={{ct|Steamtech}}
+|category={{c|Gestalt}}
+|require={{TalentReq/PsiWilReq4}}
+|use_mode=Activated
+|cost=30 Steam + 30 Psi
+|cooldown=20
+|use_speed=Mind
+|desc=Temporarily expand your mind to force your Gestalt upon your foes in a radius of 5. Up to {{CTL|25|1|5}}(round down) foe(s) will be affected.
+
+The Gestalt will drain each affected foe's powers (physical power, mind power, spell power and steam power) by {{CTMD|10|45}} for 5 turns.
+
+Your own powers will be increased in return by the drained amount (reduced for each additional foe).
+
+In addition for 5 turns you can sense creatures beyond your sight, even through walls in radius {{CTL|20|8|18}}(round down).
+
+The effects improve with your Mindpower.
+}}

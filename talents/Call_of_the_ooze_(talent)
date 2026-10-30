@@ -1,0 +1,19 @@
+{{Ability box
+|game_version=1.7.4
+|name=Call of the Ooze
+|image=Call of the ooze.png
+|category_type={{ct|Wild-Gift}}
+|category={{c|Ooze}}
+|require={{TalentReq/GiftsReq3}}
+|cost=5 Equilibrium
+|cooldown=20
+|use_speed=Mind
+|desc=
+Instantly call all of your bloated oozes to your aid.
+
+If you have less than the maximum number of oozes allowed by the {{t|Mitosis}} talent, up to {{cts|0.5|2.5}} will be created with {{ctl|100%|46|70%}} of the maximum life allowed by {{t|Mitosis}}.
+
+Each ooze created will form near a random foe in sight (no more than one ooze per target) and grab its attention.
+
+This will then allow you to channel a melee attack through your ooze to its target, doing {{ctwd|70|180%}} weapon damage (as Acid).
+}}

@@ -1,0 +1,12 @@
+{{Ability box
+|name=Draining Assault
+|image=Draining_assault.png
+|category_type={{ct|Corruption}}
+|category={{c|Brutality}}
+|require={{TalentReq/StrCorrsReq1}}
+|cost=20 Stamina, 0 Vim
+|cooldown=6
+|range=1
+|desc=
+Hits the target twice doing {{cts|96|140}}% weapon damage each hit. You gain life equal to {{cts|13|24}}% of the damage dealt, and gain {{cts|9|25}} vim for each attack that hits.
+}}

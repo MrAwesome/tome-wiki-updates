@@ -1,0 +1,20 @@
+{{Ability_box
+|image=Seismic_mind.png
+|name=Seismic Mind
+|game_version=1.5.10
+|category_type={{ct|Psionic}}
+|category={{c|Psychic blows}}
+|require={{TalentReq/PsiWilReq4}}
+|use_mode=Activated
+|range=0
+|cost=20 Psi
+|cooldown=18
+|travel_speed=Instantaneous
+|use_speed=Mind
+|desc=
+You shatter your weapon in the ground, projecting a psionic shockwave in a cone of radius {{CTS|3|6}}.
+Any foes in the area will take {{ctwd|80|180%}}  weapon damage as mind damage. 
+Any psionic clones hit will instantly shatter, exploding for {{ctspd|28|180}} physical damage in radius 1.
+<br>
+If you do not have a two handed weapon equiped, but have it in your off set, you instantly automatically switch.
+}}

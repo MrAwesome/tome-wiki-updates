@@ -1,0 +1,26 @@
+{{Ability_box
+|image=telekinetic_throw.png
+|name=Kinetic Surge
+|category_type={{ct|Psionic}}
+|category={{c|Kinetic Mastery}}
+|require={{TalentReq/PsiWilHigh2}}
+|use_mode=Activated
+|cost=20 Psi
+|cooldown=15
+|desc=
+Build telekinetic power and dump it onto an adjacent creature or yourself. 
+
+This will launch them to wherever you target in a radius of {{ctl|10|6|9}}. 
+
+Upon landing, launched enemy takes {{ctmd|20|180}} Physical damage and is stunned for (Range / 2) turns.  
+
+All other creatures within radius 2 of the landing point take (0.5 * {{ctmd|20|180}}) Physical damage and are knocked away from you.
+
+This talent ignores {{ctl|100%|25|45%}} of the knockback resistance of the thrown target, which takes half damage if it resists being thrown.
+
+When used on yourself, you will launch in a straight line, knocking enemies flying and doing {{ctmd|20|180}} Physical damage to each.
+
+You can break through (Range / 2) walls while doing this.
+
+The damage improves with your Mindpower and the range increases with both Mindpower and Strength.
+}}

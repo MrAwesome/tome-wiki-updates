@@ -1,0 +1,14 @@
+{{Ability box
+|image=Agony.png
+|name=Agony
+|category_type={{ct|Cursed}}
+|category={{c|Punishments}}
+|require={{TalentReq/CursedCunReq3}}
+|range=7
+|cost=5 Hate
+|cooldown=3
+|desc=
+Unleash agony upon your target. The pain will grow over the course of 5 turns. The first turn will inflict (0.2 * {{ctmd|0|160}}) damage, and increase linearly to {{ctmd|0|160}} on the last turn, dealing (3 * {{ctmd|0|160}}) total damage.
+
+There is a 25% chance to inflict cross tier effects. The damage will increase with your Mindpower.
+}}

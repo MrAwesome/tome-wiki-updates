@@ -1,0 +1,11 @@
+{{Ability box
+|game_version=1.5.10
+|image=Garkuls revenge.png
+|name=Garkul's Revenge
+|category_type=[[Prodigies]]
+|category=[[Prodigies#Willpower|Willpower]]
+|require=Willpower 50<br />Possess [[Garkul's Teeth]] and the [[Steel Helm of Garkul]]<br />Learned all 5 lore entries about Garkul's life
+|use_mode=Passive
+|desc=
+Garkul's spirit is with you. You now deal 1000% more damage to constructs and 20% more damage to humanoids and giants.
+}}

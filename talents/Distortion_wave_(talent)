@@ -1,0 +1,18 @@
+{{Ability box
+|image=Distortion wave.png
+|name=Distortion Wave
+|category_type={{ct|Psionic}}
+|category={{c|Distortion}}
+|require={{TalentReq/PsiWilReq2}}
+|range={{cts|4|8}}
+|cost=10 Psi
+|cooldown=6
+|desc=
+Creates a distortion wave in a radius {{cts|4|8}} cone that deals {{ctmd|10|150}} physical damage and knocks back targets in the blast radius.
+
+This damage will distort affected targets, decreasing physical resistance by (''number of talent points in {{c|Distortion}}'')% and rendering them vulnerable to distortion effects for 2 turns.
+
+Investing in this talent will increase the physical resistance reduction from all of your distortion effects.
+
+If the target is already distorted, they'll be stunned for {{cts|2|4}} turns as well.
+}}

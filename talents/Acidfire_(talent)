@@ -1,0 +1,18 @@
+{{Ability box
+|game_version=1.7.4
+|name=Acidfire
+|image=Acidfire.png
+|category_type={{ct|Wild-Gift}}
+|category={{c|Eyal's Fury}}
+|require={{TalentReq/GiftsReqHigh3}}
+|range=8
+|cost=20 Equilibrium
+|cooldown=12
+|use_speed=Mind
+|desc=
+You call upon the earth to create a blinding, corrosive cloud in an area of radius 4 for 5 turns.
+
+Each turn, this cloud deals {{ctmd|10|120}} acid damage to each foe with a 25% chance to blind and a {{ctl|100%|25|40%}} chance of burning away one magical sustain or beneficial magical effect.
+
+The damage increases with your Mindpower.
+}}

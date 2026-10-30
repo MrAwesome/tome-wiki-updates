@@ -1,0 +1,18 @@
+{{Ability box
+|name=Circle of Sanctity
+|image=Circle of sanctity.png
+|game_version=1.7.4
+|category_type={{ct|Celestial}}
+|category={{c|Circles}}
+|require={{TalentReq/DiviReqHigh2}}
+|cost=20 Positive
+|cooldown=20
+|use_speed=0
+|range=0
+|desc=
+Creates a circle of radius {{cts|2.5|4.5}} at your feet (max radius 5); the circle protects you from silence effects while you remain in its radius while silencing and dealing {{ctspd|4|30}} light damage to everyone else who enters. The circle lasts {{cts|3|6}} turns (max 8 turns).
+}}
+
+The visual effect of this circle is shown below, at the maximum radius of 5:
+
+[[File: circle of sanctity (ground effect).png|left]]

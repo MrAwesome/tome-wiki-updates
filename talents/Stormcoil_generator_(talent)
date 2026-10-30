@@ -1,0 +1,12 @@
+{{Ability box
+|image=Stormcoil generator.png
+|name=Stormcoil generator
+|game_version=1.7.6
+|embers_version=1.1.10
+|category_type={{ct|Steamtech}}
+|category={{c|Mecharachnid}}
+|require={{TalentReq/SteamReqHigh2}}
+|use_mode=Passive
+|desc=
+You equip your mecharachnid with a stormcoil generator, a mechanical device that projects a powerful electrical field. On taking a hit greater than 15% of its maximum life, the excess damage will be reduced by {{ctl|90%|15|65%}} and converted into energy, giving your mecharachnid {{ctl|50%|10|30%}} increased global speed for 2 turns.
+}}

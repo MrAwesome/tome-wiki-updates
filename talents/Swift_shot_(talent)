@@ -1,0 +1,15 @@
+{{Ability_box
+|game_version=1.4.6
+|name=Swift Shot
+|image=Skirmisher swift shot.png
+|category_type={{ct|Technique}}
+|category={{c|Skirmisher - Slings}}
+|require={{TalentReq/TechsDexReq2}}
+|use_mode=Activated
+|range=Archery Range
+|cost=15 Stamina
+|cooldown=5
+|use_speed=Twice Weapon Speed (eg. 1/2 turn if Weapon Speed is 100%)
+|desc=
+Fire off a quick sling bullet for {{ctwd|40|160%}} damage, at double your normal attack speed. Moving lowers the cooldown by 1.
+}}

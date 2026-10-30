@@ -1,0 +1,24 @@
+{{Ability box
+|game_version=1.7.6
+|image=Wayist_2017.png
+|name=Wayist
+|category_type={{ct|Race}}
+|category={{c|Yeek}}
+|require={{TalentReq/RacialReq4}}
+|range=4
+|cooldown={{ctl|6|45|25}}
+|use_speed=0
+|desc=
+Reach through the collective psionic gestalt of the yeeks, the Way, to call for immediate help.
+Summons up to 3 yeek mindslayers to your side for 6 turns.
+All their primary stats will be set to {{cs|Will*{{gtl|1|5}}|25|0|125|500|0,75}} (based on your Willpower and Talent Level).
+		Your increased damage, damage penetration, and many other stats will be inherited.
+
+*Base Life: 50–80
+*[[Resource#Life|Life Rating]]: 8
+*[[Rank]]: 3
+*stats: {{CS|(Will * Talent Level)|25|0|125|500|0,75}}
+*Talents: Kinetik Shield; Kinetik Aura; Charged Aura (base=1;every=5;max=5)
+
+You will gain full experience for all kills made by the mindslayers.
+}}

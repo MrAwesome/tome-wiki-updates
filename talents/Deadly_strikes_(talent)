@@ -1,0 +1,13 @@
+{{Ability_box
+|image=Deadly strikes.png
+|name=Deadly strikes
+|category_type=[[Cunning (category type)|Cunning]]
+|category=[[Lethality (category)|Lethality]]
+|require={{TalentReq/CunsReq2}}
+|use_mode=Activated
+|cost=15 Stamina
+|cooldown=12
+|use_speed=Instant
+|desc=
+You hit your target, doing {{CTWD|80|140%}} damage. If your attack hits, you gain {{CTSTD|Cun|5|45}} armour penetration for {{CTL|12|6|10}} turns.
+}}

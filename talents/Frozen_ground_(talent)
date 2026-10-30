@@ -1,0 +1,18 @@
+{{Ability box
+|image=Frozen_ground_2017.png
+|name=Frozen Ground
+|category_type={{ct|Spell}}
+|category={{c|Ice}}
+|require={{TalentReq/SpellsReqHigh2}}
+|cost=25 Mana
+|cooldown=10
+|range=0
+|desc=
+Blast a wave of cold all around you with a radius of {{cts|2|6}}, doing {{ctspd|10|280}} cold damage and freezing creatures to the ground for 4 turns.
+
+Affected creatures can still act, but cannot move.
+
+For each affected creature that is also wet the cooldown of {{t|Shatter}} decreases by 2.
+
+The damage will increase with your Spellpower.
+}}

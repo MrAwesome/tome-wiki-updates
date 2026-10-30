@@ -1,0 +1,15 @@
+{{Ability box
+|game_version=1.4.3
+|image=Dust to dust.png
+|name=Dust to Dust
+|category_type={{ct|Chronomancy}}
+|category={{c|Matter}}
+|require={{TalentReq/ChronoReq1}}
+|cost=10 Paradox
+|cooldown=3
+|range=10
+|desc=
+Fires a beam that turns matter into dust, inflicting {{ctspd|20|230|PM}}/2 temporal damage and {{ctspd|20|230|PM}}/2 physical (warp) damage.
+Alternatively you may target yourself, creating a field of radius {{cts|1.25|3.25}} around you that will inflict the damage over three turns.
+The damage will scale with your Spellpower.
+}}

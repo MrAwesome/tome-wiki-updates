@@ -1,0 +1,18 @@
+{{Ability_box
+|image=Shield wall.png
+|name=Shield wall
+|game_version=1.7.4
+|category_type=[[Technique (category type)|Technique]]
+|category=[[Shield defense (category)|Shield defense]]
+|require={{TalentReq/TechsReq1}}
+|use_mode=Sustained
+|cost=30 Stamina
+|cooldown=10
+|desc=Enter a protective battle stance allowing you to defend yourself more proficiently while using a shield.
+
+Increases Armour by {{ctstd|Str|6|30}} + {{ctstd|Dex|6|30}}, Block value by {{ctstd|Str|20|75}} + {{ctstd|Dex|20|75}}, and reduces Block cooldown by 2.
+
+Increases stun and knockback resistance by {{ctl|100%|20|50%}}.
+
+The Armor and Block bonuses increase equally with your Dexterity and Strength.
+}}

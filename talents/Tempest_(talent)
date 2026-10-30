@@ -1,0 +1,14 @@
+{{Ability_box
+|image=Tempest_2017.png
+|name=Tempest
+|category_type={{ct|Spell}}
+|category={{c|Storm}}
+|require={{TalentReq/SpellsReqHigh4}}
+|use_mode=Sustained
+|cost=50 Mana
+|cooldown=30
+|desc=
+Surround yourself with a Tempest, increasing all your lightning damage by (2 * Raw Talent Level)% and ignoring {{ctl|100%|17|50%}} lightning resistance of your targets.
+
+Your {{t|Lightning}} and {{t|Chain Lightning}} spells also gain a (9 * Talent Level)% chance to daze, and your {{t|Thunderstorm}} spell gains a (4.5 * Talent Level)% chance to daze.
+}}

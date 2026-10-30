@@ -1,0 +1,23 @@
+{{Ability_box
+|game_version = 1.7.6
+|name = Rosebloom
+|image = Rosebloom.png
+|category_type = {{ct|Cursed}}
+|category = {{c|Crimson Templar}}
+|require = {{TalentReq/CursedMagReqHigh4}}
+|use_mode = Activated
+|cost = 10 Positive, 10 Hate
+|range = 0
+|cooldown = 24
+|use_speed = Mind
+|desc = 
+Draw on the wounds of enemies within range 10, healing yourself and putting them into a merciful sleep.
+
+The sleep chance increases with your Spellpower.
+
+You are healed for 20% of the remaining damage of bleed effects on enemies in range (minimum {{cts|10|25}} per bleed). Enemies fall asleep for {{cts|0|4}} turns longer than their longest-lasting bleed, rendering them unable to act. The strength of the sleep effect is based on the strength of the bleed. Excess damage will reduce their sleep duration.
+							
+
+When the sleep ends, each target will benefit from Insomnia for a number of turns equal to the amount of time it was asleep (up to ten turns max), granting it 50% sleep immunity.
+
+}}

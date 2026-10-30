@@ -1,0 +1,19 @@
+{{Ability_box
+|image=psionic_minion.png
+|name=Psionic Minion
+|game_version=1.7.2
+|category_type={{ct|Psionic}}
+|category={{c|Body Snatcher}}
+|require={{TalentReq/PsiWilReq2}}
+|use_mode=Activated
+|range=-
+|cost=30 Psi
+|cooldown=20
+|travel_speed=Instantaneous
+|use_speed=Mind
+|desc=
+You imbue a part of your own mind into a body without actually taking its form.
+		The body will work as your minion for ceil({{cts|10|25}}) turns.
+		Psionic minions can not heal in any way.
+		When the effect ends the body is permanently lost.
+}}

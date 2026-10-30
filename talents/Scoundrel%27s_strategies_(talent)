@@ -1,0 +1,14 @@
+{{Ability_box
+|image=Scoundrel_2017.png
+|name=Scoundrel's Strategies
+|game_version=1.7.4
+|category_type={{ct|Cunning}}
+|category={{c|Scoundrel}}
+|require={{TalentReq/CunsReq2}}
+|use_mode=Passive
+|desc=
+Your melee and ranged attacks inflict distracting wounds that reduce the target’s critical strike multiplier by {{ctl|100%|25|60%}} for 5 turns. 
+
+In addition, your attacks have a {{ctl|100%|12|35%}} chance to inflict a painful wound that causes them to forget a random talent for 4 turns.  The last effect cannot occur more than once per turn per target.
+|avail.escorts=[[Escorts#Thief|Thief]], via revealing the locked {{c|Scoundrel}} category
+}}

@@ -1,0 +1,17 @@
+{{Ability box
+|name=Ice Core
+|image=Ice core.png
+|category_type={{ct|Spell}}
+|category={{c|Frost Alchemy}}
+|require={{TalentReq/SpellsReq4}}
+|use_mode=Sustained
+|range=6
+|cost=100 Mana
+|cooldown=40
+|desc=
+Turn your body into pure ice, increasing your Cold damage affinity by {{ctl|50%|5|20%}} and your physical resistance by {{ctspd|5|45%}}.
+
+All direct critical hits (physical, mental, spells) against you have a {{cts|10|50%}} lower Critical multiplier (but always do at least normal damage).
+
+The effects increase with your Spellpower.
+}}

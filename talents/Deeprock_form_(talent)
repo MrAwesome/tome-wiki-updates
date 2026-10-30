@@ -1,0 +1,19 @@
+{{Ability_box
+|image=Deeprock form.png
+|name=Deeprock Form
+|category_type={{ct|Spell}}
+|category={{c|Deeprock}}
+|require={{TalentReq/SpellsReqHigh1}}
+|use_mode=Active
+|cost=15 equilibrium, 60 mana
+|cooldown=30
+|use_speed=Spell
+|desc=
+You call upon the very core of the world, harnessing its power to transform your body.
+
+For %d turns you become a Deeprock Elemental, gaining two size categories.
+
+This increases your Physical damage by 5 + {{ctspd|10|250}}/10 and Physical damage penetration by {{ctl|100|6.6|13}}, and armour by {{cts|7.3|11.5|0.75}}.
+
+The effects increase with spellpower.
+}}

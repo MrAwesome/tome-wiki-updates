@@ -1,0 +1,14 @@
+{{Ability_box
+|image=Eldritch infusion.png
+|name=Eldritch infusion
+|game_version=1.5.5
+|category_type=[[Spell (category type)|Spell]]
+|category=[[Eldritch shield (category)|Eldritch shield]]
+|require={{TalentReq/SpellsReq2}}
+|use_mode=sustained
+|cost=50 Mana + 15 Equilibium
+|cooldown=30
+|desc=Imbues your shields with arcane power, dealing {{ctspd|15|40}} arcane damage with each melee strike and (0.7 * {{ctspd|15|40}}) arcane damage when hit.
+
+The damage will increase with Spellpower.
+}}

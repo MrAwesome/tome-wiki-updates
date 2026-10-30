@@ -1,0 +1,15 @@
+{{Ability_box
+|image=righteous_strength.png
+|name=Righteous strength
+|category_type=[[Celestial (category type)|Celestial]]
+|category={{c|Crusader}}
+|require={{TalentReq/DiviReqHigh3}}
+|use_mode=Sustained
+|cost=20 Positive
+|desc=
+While wielding a two handed weapon, your critical strike chance is increased by {{cts|3|10%|0.75}}, and your melee criticals instill you with righteous strength, increasing all physical and light damage you deal by {{cts|5|15%}} for 4 turns, stacking up to 3 times.
+
+In addition, your melee critical strikes leave a lasting lightburn on the target, dealing {{ctspd|10|120}} light damage over 5 turns and reducing opponents armour by {{cts|5|30}}.
+
+The damage increases with your Spellpower.
+}}

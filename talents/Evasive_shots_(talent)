@@ -1,0 +1,16 @@
+{{Ability box
+|image=Evasive shots.png
+|name=Evasive Shots
+|game_version=1.4.6
+|embers_version=1.0.3
+|category_type={{ct|Steamtech}}
+|category={{c|Gunslinging}}
+|require={{TalentReq/SteamReq3}}
+|use_mode=Sustained
+|cooldown=30
+|cost=4 Steam drain
+|desc=
+Using small engines to augment your reflexes you are able to automatically fire retaliatory shots at your foes doing {{ctwd|40|150%}} weapon damage.
+Retaliation shots are fired when you evade/are missed by a melee or ranged attack.
+This can only happen once per turn and uses shots as normal.
+}}

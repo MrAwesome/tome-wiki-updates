@@ -1,0 +1,18 @@
+{{Ability box
+|image=Corrosive breath.png
+|name=Corrosive Breath
+|category_type={{ct|Wild-Gift}}
+|category={{c|Venom Drake Aspect}}
+|require={{TalentReq/GiftsReq4}}
+|cost=12 Equilibrium
+|cooldown=12
+|range=0
+|desc=
+You breathe acid in a frontal cone of radius {{cts|5|10}}. Any target caught in the area will take {{ctstd|Str|30|420}} acid damage. 
+
+Enemies caught in the acid have a 25% chance of their weapons becoming useless for three turns.
+
+The damage will increase with your Strength, and the critical chance is based on your Mental crit rate.
+
+Each point in acid drake talents also increases your acid resistance by 1%.
+}}

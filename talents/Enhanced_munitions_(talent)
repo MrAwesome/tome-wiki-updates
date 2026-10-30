@@ -1,0 +1,22 @@
+{{Ability_box
+|image=enhanced_munitions.png
+|name=Enhanced Munitions
+|game_version=1.5.2
+|category_type={{ct|Technique}}
+|category={{c|Munitions}}
+|require={{TalentReq/TechsDexReqHigh3}}
+|use_mode=Passive
+|cooldown=8
+|desc=
+You create enhanced versions of your ammunition, granting them additional effects.
+
+[[Incendiary ammunition (talent)|Incendiary]] - The explosion radius is increased by 1, and the ground beneath is ignited dealing an additional {{cTPD|10|100}} fire damage each turn for 3 turns.
+
+[[Venomous ammunition (talent)|Venomous]] - Inflicts leeching poison, dealing {{cTPD|20|250}} nature damage over 3 turns and causing you to heal for 100% of all damage the poison deals to the target.
+
+[[Piercing ammunition (talent)|Piercing]] - Punctures the target’s armor, increasing all damage they take by {{cTL|35%|10|25%}} for 3 turns.
+
+You only have a limited amount of this ammo, causing this talent to have a cooldown.
+
+The damage dealt will increase with your Physical Power, and status chance increases with your Accuracy.
+}}

@@ -1,0 +1,20 @@
+{{Ability box
+|image=Flash bang trap.png
+|name=Flash Bang Trap
+|category_type={{ct|Cunning}}
+|category={{c|Trapping}}
+|require=Rescue lost merchant from the [[Trapped!]] quest<br />Purchase trap from rescued merchant for 3,000 gold in [[Last Hope]]
+|cooldown=12
+|cost=12 Stamina
+|range=Trap Range
+|desc=
+Lay a trap that explodes in a radius of 2, blinding or dazing anything caught inside for {{cts|2.5|4.5}} turns.
+
+All foes caught inside take (20 + {{css|Cun|0.167|1.667}} * Trap Power) physical damage.
+
+Trap Power is determined by your raw talent level in {{t|Trap Mastery}}.
+
+The trap will last for a duration of (5 + {{t|Trap Mastery}} Level) turns or until it is triggered.
+
+High level {{t|Lure}} can trigger this trap.
+}}

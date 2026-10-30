@@ -1,0 +1,11 @@
+{{Ability box
+|image = Defensive protocol.png
+|name = Defensive Protocol
+|game_version = 1.7.6
+|embers_version = 1.1.10
+|category_type = {{ct|Steamtech}}
+|category = {{c|Assault}}
+|require = {{TalentReq/DexSteamReq2}}
+|use_mode = Passive
+|desc = Enhancements to your mecharachnid combat skill increases your melee and ranged evasion by {{ctl|50|12|30%}}, and causes you to automatically strike adjacent enemies with your tailsaw for {{ctwd|50|150%}} damage each turn.
+}}

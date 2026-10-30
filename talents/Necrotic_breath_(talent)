@@ -1,0 +1,16 @@
+{{Ability_box
+|name=Necrotic Breath
+|image=necrotic_breath.png
+|game_version=1.5.2
+|category_type={{ct|Spell}}
+|category={{c|Undead drake}}
+|require={{TalentReq/SpellsReq4}}
+|cost=2 Soul
+|cooldown=12
+|travel_speed=Instantaneous
+|use_speed=Spell
+|desc=
+You breathe a wave of deathly miasma in a cone of radius {{cTS|5|9}}. Any target caught in the area will take {{ctstd|Mag|30|550}} darkness damage over 4 turns and receive either a bane of confusion or a bane of blindness for 4 turns.
+
+The damage will increase with your Magic, and the critical chance is based on your Spell crit chance.
+}}

@@ -1,0 +1,17 @@
+{{Ability_box
+|image=Chain_lightning_2017.png
+|name=Chain Lightning
+|category_type={{ct|Spell}}
+|category={{c|Air}}
+|require={{TalentReq/SpellsReq2}}
+|use_mode=Activated
+|range=10
+|cost=40 Mana
+|cooldown=8
+|desc=
+Invokes a forking beam of lightning doing ({{ctspd|10|250}} / 3) to {{ctspd|10|250}} damage and forking to another target.
+
+It can hit up to {{cts|4|8|log}} targets up to 10 grids apart, and will never hit the same one twice; nor will it hit the caster.
+
+The damage will increase with your Spellpower.
+}}

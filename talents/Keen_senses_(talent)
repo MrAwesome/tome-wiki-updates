@@ -1,0 +1,17 @@
+{{Ability box
+|image=Keen_senses_2017.png
+|name=Keen Senses
+|category_type={{ct|Spell}}
+|category={{c|Divination}}
+|require={{TalentReq/SpellsReq2}}
+|use_mode=Sustained
+|cost=40 Mana
+|cooldown=30
+|desc=
+You focus your senses, getting information from moments in the future.
+
+Improves your capacity to see invisible foes by {{ctspd|2|45}}, to see through stealth by {{ctspd|2|20}}, and to perform a critical spell cast by {{ctspd|2|12%}}.
+
+The effects will improve with your Spellpower.
+|avail.escorts=[[Escorts#Seer_.28Arcane.29|Seer (Arcane)]] (Normal Escort Reward), via revealing the locked {{c|Divination}} category
+}}

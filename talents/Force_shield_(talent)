@@ -1,0 +1,18 @@
+{{Ability_box
+|image=Force_shield.png
+|name=Force Shield
+|game_version=1.5.10
+|category_type={{ct|Psionic}}
+|category={{c|Psychic blows}}
+|require={{TalentReq/PsiWilReq2}}
+|use_mode=Sustained
+|cost=20 Psi
+|cooldown=12
+|travel_speed=Instantaneous
+|use_speed=Mind
+|desc=
+You create a psionic shield from your weapon that prevents you from ever taking blows that deal more than Max(60,100-({{gtl|1|5|raw}})*6)% of your maximum life and gives you {{CTL|25%|5|16%}} evasion.
+In addition, each time you take a melee hit the attacker automatically takes revenge strike that deals {{ctwd|20|60%}} weapon damage as mind damage. (This effect can only happen once per turn)
+<br>
+If you do not have a two handed weapon equiped, but have it in your off set, you instantly automatically switch.
+}}

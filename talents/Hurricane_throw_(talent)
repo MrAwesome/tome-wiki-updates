@@ -1,0 +1,13 @@
+{{Ability_box
+|game_version=1.4.5
+|image=Hurricane throw.png
+|name=Hurricane throw
+|category_type={{ct|Technique}}
+|category={{c|Grappling}}
+|require={{TalentReq/TechsReq4}}
+|use_mode=Activated
+|cost=20 Stamina
+|cooldown=8
+|desc=
+In a mighty show of strength you whirl your grappled victim around and throw them into the air causing {{CTWD|100|350%}} damage to them and any nearby enemies they collide with on landing.
+}}

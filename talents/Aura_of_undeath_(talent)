@@ -1,0 +1,18 @@
+{{Ability_box
+|game_version = 1.7.6
+|name = Aura of Undeath
+|image = aura mastery.png
+|category_type={{ct|Spell}}
+|category={{c|Master Necromancer}}
+|require = {{TalentReq/SpellsReqHigh1}}
+|use_mode = Sustained
+|cost = 15 Mana
+|cooldown = 20
+|use_speed = Spell
+|desc = 
+Your mastery of necromancy becomes so total that an aura of undeath radiates around you in radius 3 + Talent Level (max 10).
+
+Any undead minion standing inside of it is protected, increasing all their resistances by {{cts|8|18%}}.
+
+In addition when you create new minions they inherit {{ctl|75%|20|40%}} of your spellpower (applied to any powers), spell crit chance (applied to any crit chances), saves, resists, and highest damage increase (applied to all elements).
+}}

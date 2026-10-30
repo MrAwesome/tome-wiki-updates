@@ -1,0 +1,16 @@
+{{Ability_box
+|image=Fiery_hands_2017.png
+|name=Fiery hands
+|category_type={{ct|Spell}}
+|category={{c|Enhancement}}
+|require={{TalentReq/SpellsReq1}}
+|use_mode=Sustained
+|cooldown=10
+|cost=40 Mana
+|desc=
+Engulfs your hands (and weapons) in a sheath of fire, dealing {{ctspd|5|40}} fire damage per melee attack and increasing all fire damage dealt by {{ctspd|5|14%}}.
+
+Each hit will also regenerate (Talent Level / 3) stamina.
+
+The effects will increase with your Spellpower.
+}}

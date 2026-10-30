@@ -1,0 +1,19 @@
+{{Ability box
+|image=Molten iron blood.png
+|name=Molten iron blood
+|game_version=1.7.6
+|embers_version=1.1.10
+|category_type={{ct|Steamtech}}
+|category={{c|Thoughts of iron}}
+|require={{TalentReq/SteamReq1}}
+|use_mode=sustained
+|range=10
+|cost=4 Steam drain
+|cooldown=10
+|use_speed=Steamtech
+|desc=Using psionic energies you temporarily alter your blood, turning it into molten iron.
+
+When affected by molten blood all creatures that hit you in melee take {{ctstmd|2|50}} {{fire}} damage, all your resistances are increased by {{CTL|40|5|20%}} and all new detrimental effects on you have their duration reduced by {{CTL|40|5|25%}}.
+
+Damage increases with your Steampower.
+}}

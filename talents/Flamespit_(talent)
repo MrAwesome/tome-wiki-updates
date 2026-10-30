@@ -1,0 +1,8 @@
+{{Ability_box
+|name=Flamespit
+|category_type=[[NPC Only (category type)|NPC Only]]
+|game_version=1.4.9
+|cost=2 Equilibrium
+|range=10
+|desc=Spits a bolt of fire, doing {{CTMD|8|120}} {{fire}} damage. The damage will increase with your Mindpower.
+}}

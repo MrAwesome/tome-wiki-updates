@@ -1,0 +1,14 @@
+{{Ability_box
+|image=Blur_sight_2017.png
+|name=Blur Sight
+|category_type={{ct|Spell}}
+|category={{c|Phantasm}}
+|require={{TalentReq/SpellsReq2}}
+|use_mode=Sustained
+|cost=30 Mana
+|cooldown=10
+|desc=
+The caster's image blurs, granting a bonus to Defense of {{cs|(Spellpower * Talent Level)|0|0|28.6%|267|0.75}}.
+
+The bonus will increase with your Spellpower.
+}}

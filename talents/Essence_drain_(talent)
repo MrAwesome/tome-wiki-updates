@@ -1,0 +1,18 @@
+{{Ability box
+|game_version=1.7.6
+|embers_version=1.0.3
+|image=Essence drain.png
+|name=Essence Drain
+|category_type={{ct|Race}}
+|category={{c|Whitehooves}}
+|require={{TalentReq/RacialReq4}}
+|use_speed=Instant
+|range=7
+|cooldown={{ctl|10|46|30}}
+|desc=
+You send a wave of darkness at your foe, dealing {{css|Mag|50|250}} darkness damage.
+The darkness will drain a part of it's life essence (only works on living targets) to increase the duration before the next charge of death momentum is used by {{cts|6|12}}.
+Only usable when you have the death momentum effect.
+The damage scales with your Magic stat.
+
+}}

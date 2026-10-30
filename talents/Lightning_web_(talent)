@@ -1,0 +1,16 @@
+{{Ability box
+|image = Lightning web.png
+|name = Lightning Web
+|game_version = 1.7.6
+|embers_version = 1.1.10
+|category_type = {{ct|Steamtech}}
+|category = {{c|Magnetism}}
+|require = {{TalentReq/SteamReq4}}
+|cooldown = 18
+|cost = 40 Steam
+|range = 0
+|use_speed = Steamtech
+|desc = Project a radius 3 electric field from your shield lasting 4 turns. Enemies within this field will take an automatic shield strike for {{ctwd|20|60%}} {{lightning}} damage each turn, while allies will gain flat damage reduction equal to {{ctl|100|15|50%}} of block value.
+
+All damage reduced by this effect will be stored for Capacitor Discharge.
+}}

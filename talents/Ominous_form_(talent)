@@ -1,0 +1,18 @@
+{{Ability_box
+|image=ominous_form.png
+|name=Ominous Form
+|game_version=1.7.2
+|category_type={{ct|Psionic}}
+|category={{c|Deep Horror}}
+|require={{TalentReq/PsiWilHigh4}}
+|use_mode=Activated
+|range=2
+|cost=50 Psi
+|cooldown=40
+|travel_speed=Instantaneous
+|use_speed=Mind
+|desc=
+Your psionic powers have no limits. You are now able to assault a target and clone its body without killing it.
+		The form is only temporary, lasting {{cts|3|7}} turns and subject to the same restrictions as your normal powers.
+		While using a stolen form your health is bound to your target. (Your life% will always be identical to your target's life%)
+}}

@@ -1,0 +1,13 @@
+{{Ability box
+|image=Dream crusher.png
+|name=Dream Crusher
+|category_type={{ct|Psionic}}
+|category={{c|Dream Smith}}
+|require={{TalentReq/PsiWilReq3}}
+|cost=10 Psi
+|cooldown=12
+|desc=
+Crush your enemy with your Dream Hammer, inflicting {{ctwd|100|150%}} weapon damage.  If the attack hits, the target is stunned for {{cts|3|7}} turns.
+
+Stun chance improves with your Mindpower.
+}}

@@ -1,0 +1,15 @@
+{{Ability box
+|image=Knockback.png
+|name=Knockback
+|category_type={{ct|Technique}}
+|category={{c|Other}}
+|require=Str 12
+|cooldown=6
+|cost=8 Stamina
+|desc=
+Hits the target with your weapon doing {{ctwd|150|200%}} damage.
+
+If the attack hits, the target is knocked back 4 tiles.
+
+The chance to knockback improves with your Physical Power.
+}}

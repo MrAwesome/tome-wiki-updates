@@ -1,0 +1,17 @@
+{{Ability_box
+|game_version = 1.7.6
+|name = Flee the Sun
+|image = Flee_the_sun.png
+|category_type = {{ct|Celestial}}
+|category = {{c|Darkside}}
+|require = {{TalentReq/DiviReq3}}
+|use_mode = Activated
+|cost = 25 Positive 
+|range = {{cts|3|7|0.5}}
+|cooldown = 12
+|use_speed = Spell
+|desc = 
+Fade into the darkness and reappear elsewhere within range %d.  When you emerge from the shadows, you are accompanied by a bright flash, dealing {{ctspd|28|200}} light damage to enemies in radius 1.
+
+The damage will increase with your Spellpower.
+}}

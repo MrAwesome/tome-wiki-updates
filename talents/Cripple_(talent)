@@ -1,0 +1,14 @@
+{{Ability_box
+|image=Cripple.png
+|name=Cripple
+|category_type=[[Cunning (category type)|Cunning]]
+|category=[[Dirty fighting (category)|Dirty fighting]]
+|require={{TalentReq/CunsReq4}}
+|use_mode=Activated
+|cost=20 Stamina
+|cooldown=25
+|desc=
+You hit your target, doing {{CTWD|100|190%}} damage. If your attack connects, the target is crippled for {{CTS|4|8}} turns and will have their melee, spellcasting and mental speeds reduced by {{CL|{{CTSTD|Cun|5|50}}|100%|20|0|55.7%|35.7}}.
+
+The chance to land the status improves with Accuracy, and the status power improves with Cunning.
+}}

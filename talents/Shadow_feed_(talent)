@@ -1,0 +1,15 @@
+{{Ability_box
+|image=Shadow feed.png
+|name=Shadow Feed
+|category_type={{ct|Cunning}}
+|category={{c|Shadow Magic}}
+|require={{TalentReq/CunsReq3}}
+|use_mode=Sustained
+|range=10
+|cost=40 Stamina
+|cooldown=5
+|desc=
+You draw energy from the depths of the shadows.
+
+While sustained, you regenerate {{cts|0.3|1|0.75}} mana per turn, and your physical and spell attack speed increases by {{cts|2.2|11%|0.75}}.
+}}

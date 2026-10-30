@@ -1,0 +1,16 @@
+
+{{Ability box
+|name=Share the Pain
+|image=Share_the_pain.png
+|category_type={{ct|Corruption}}
+|category={{c|Brutality}}
+|require={{TalentReq/StrCorrsReq4}}
+|usemode=Sustained
+|cost=35 Vim
+|cooldown=20
+|range=1
+|desc=
+You revel in the heat of battle. Whenever an enemy damages you within melee range, you have a {{cts|19|47}}% chance to counter with an attack for {{cts|58|80}}% weapon damage.
+
+You get one chance to deal this damage to a particular target each turn.
+}}

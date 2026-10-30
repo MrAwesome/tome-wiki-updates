@@ -1,0 +1,23 @@
+{{Ability_box
+|name = Unravel Existence
+|image = Unravel_existence.png
+|category_type = {{ct|Demented}}
+|category = {{c|Oblivion}}
+|game_version = 1.7.4
+|forbidden_version = 1.0.12
+|require = {{TalentReq/DementedReqHigh2}}
+|use_mode = Passive
+|cooldown = {{ctl|11|25|15}}
+|desc = 
+Your {{t|Nihil}} unravels the existence of the target, tearing them apart with entropy.
+
+If 6 negative magical effects are applied before {{t|Nihil}} expires a Herald of Oblivion will be summoned to assist you for {{ctl|11|4|8}} turns.
+
+Currently existing debuffs, Spellshocked, and Seen by Arcane Eye will not count towards this total.  Refreshing the same debuff is counted.
+
+The Herald will have a bonus to all attributes equal to your Magic.  Many other stats will scale with level.
+
+Your increased damage, damage penetration, critical strike chance, and critical strike multiplier stats will all be inherited.
+
+''The Herald is notable for having the {{t|Void Crash}} talent, dealing big damage in a radius of 2 around itself, on a 6 turn cooldown. Higher talent levels that increase the Herald's duration may allow it to use this attack more than once per summoning.''
+}}

@@ -1,0 +1,10 @@
+{{Ability_box
+|image=Vicious strikes.png
+|name=Vicious Strikes
+|category_type={{ct|Technique}}
+|category={{c|Thuggery}}
+|require={{TalentReq/TechsReq3}}
+|use_mode=Passive
+|desc=
+You know how to hit the right places, gaining +{{cts|6|25%|0.75}} critical damage modifier and {{cts|5|20|0.75}} armour penetration.
+}}

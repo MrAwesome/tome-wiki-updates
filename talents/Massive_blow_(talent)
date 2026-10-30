@@ -1,0 +1,12 @@
+{{Ability box
+|game_version=1.5.10
+|image=Massive blow.png
+|name=Massive Blow
+|category_type=[[Prodigies]]
+|category=[[Prodigies#Strength|Strength]]
+|require=Strength 50<br />Have dug at least 30 walls/trees/etc.<br />Have dealt over 50,000 damage with two-handed weapons.
+|cooldown=10
+|desc=
+You deal a massive blow to your foe, smashing it for 150% weapon damage and knocking it back 4 tiles (ignoring knockback resistance or physical save).
+
+If the knockback makes it hit a wall, it will smash down the wall, deal an additional 350% weapon damage and apply the Counterstrike effect.}}

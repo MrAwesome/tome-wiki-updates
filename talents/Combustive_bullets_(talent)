@@ -1,0 +1,17 @@
+{{Ability box
+|image=Combustive _bullets.png
+|name=Combustive bullets
+|game_version=1.5.5
+|embers_version=1.0.4
+|category_type={{ct|Steamtech}}
+|category={{c|Bullets mastery}}
+|require={{TalentReq/SteamReq4}}
+|range=10
+|cooldown=15
+|cost=40 Steam
+|desc=You coat your bullets with flammable materials, for the next {{CTL|15|3|8}} turns each bullet will explode when it hits its target, dealing {{ctstmd|20|250}}/2 fire damage to all foes within radius 2 (most of your shooting talents fire two bullets at once).
+
+Damage will increase with Steampower.
+
+Only one bullet enhancement can be used at once.
+}}

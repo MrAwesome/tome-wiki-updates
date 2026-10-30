@@ -1,0 +1,13 @@
+{{Ability box
+|game_version=1.7.6
+|image=Staff mastery.png
+|name=Staff Mastery
+|category_type={{ct|Spell}}
+|category={{c|Staff Combat}}
+|require={{TalentReq/SpellsReq2}}
+|use_mode=Passive
+|desc=
+Increases weapon damage by (29.8 * √ Talent Level)% and physical power by 30 when using staves.
+|avail.shops=[[Angolwen]] ([[Age of Ascendancy]]) via [[Talent#Additional Talent Sources|purchasing]] {{c|Staff Combat}}
+|avail.escorts=[[Escorts#Alchemist_.28Arcane.29|Alchemist (Arcane)]] (Normal Escort Reward), +1 to talent or via revealing the locked {{c|Staff Combat}} category
+}}

@@ -1,0 +1,14 @@
+{{Ability box
+|game_version=1.4.5
+|image=Redux.png
+|name=Redux
+|category_type={{ct|Chronomancy}}
+|category={{c|Energy}}
+|require={{TalentReq/ChronoReq3}}
+|cost=20 Paradox
+|cooldown=12; Fixed Cooldown
+|desc=
+The next talent you cast with a cooldown of {{cts|3|8}} or less will not go on cooldown.
+Once a talent is effected by this spell or 4 turns pass the effect is lost.
+
+}}

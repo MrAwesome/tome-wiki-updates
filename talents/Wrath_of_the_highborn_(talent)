@@ -1,0 +1,14 @@
+{{Ability box
+|game_version=1.7.6
+|image=Higher_heal_2017.png
+|name=Wrath of the Highborn
+|category_type={{ct|Race}}
+|category={{c|Higher}}
+|require={{TalentReq/RacialReq1}}
+|cooldown={{ctl|5|45|25}}
+|use_speed=0
+|cost=none
+|desc=
+Call upon the power of the Highborn, increasing all damage by {{css|mag|11|25%}} and reducing all damage taken by {{css|mag|11|25%}} for 5 turns.
+The bonus will increase with your Magic.
+}}

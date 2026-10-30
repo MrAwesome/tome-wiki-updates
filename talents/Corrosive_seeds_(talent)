@@ -1,0 +1,22 @@
+{{Ability box
+|game_version=1.7.4
+|image=Corrosive seeds.png
+|name=Corrosive Seeds
+|category_type={{ct|Wild-Gift}}
+|category={{c|Corrosive Blades}}
+|require={{TalentReq/GiftsReqHigh3}}
+|cost=10 Equilibrium
+|cooldown=12
+|range=8
+|use_speed=Mind
+|desc=
+You focus on a target zone of radius 2 to make up to 2 corrosive seeds appear.
+
+At talent levels 3 and 5, the number of corrosive seeds you can plant will increase by 1.
+
+The first seed will appear at the center of the target zone, while others will appear at random spots.
+
+Each seed lasts {{ctl|12|5|8.5}} turns and will explode when a hostile creature walks over it, knocking the creature back and dealing {{ctmd|20|290}} Acid damage within radius 1.
+
+The damage will increase with your Mindpower.
+}}

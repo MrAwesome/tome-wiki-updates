@@ -1,0 +1,23 @@
+{{Ability box
+|image=trained_reactions.png
+|game_version=1.5.2
+|name=Trained Reactions
+|category_type={{ct|Technique}}
+|category={{c|Mobility}}
+|require={{TalentReq/TechsDexReq4}}
+|use_mode=Sustained
+|cost=10 Stamina
+|cooldown=5
+|travel_speed=Instantaneous
+|use_speed=Instant
+|desc=
+You have trained to be very light on your feet and have conditioned your reflexes to react faster than thought to damage you take.
+
+While this talent is active, you instantly react to any direct damage (not from status effects, etc.) that would hit you for at least {{cTL|10%|30|15%}} of your maximum life.
+
+This requires {{cTL|0.8|0.25|0.45}} stamina and reduces the damage by {{cTL|80%|25|60%}}*{{cL|Defense|1.0|0.25|0|0.5|50}}.
+
+Your reactions are too slow for this if you are wearing heavy armour.
+
+The damage reduction improves with your Defense.
+}}

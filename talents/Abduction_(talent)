@@ -1,0 +1,12 @@
+{{Ability box
+|name=Abduction
+|image=Abduction.png
+|category_type={{ct|Corruption}}
+|category={{c|Torture}}
+|require={{TalentReq/StrCorrsReq2}}
+|cost=25 Stamina, 14 Vim
+|cooldown=10
+|range=5-10
+|desc=
+Hits the target doing {{cts|88|110}}% weapon damage. If the attack hits, you pull the target in and strike them again, dealing another {{cts|118|140}}% weapon damage.
+}}

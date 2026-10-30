@@ -1,0 +1,17 @@
+{{Ability box
+|game_version=1.4.5
+|image=Warden's call.png
+|name=Warden's Call
+|category_type={{ct|Chronomancy}}
+|category={{c|Threaded Combat}}
+|require={{TalentReq/ChronoReqHigh4}}
+|use_mode=Passive
+|desc=
+When you hit with a melee or arrow attack, there is a {{ctl|65%|30|50%}} chance that a warden will appear from another timeline to attack a random enemy.
+
+The summoned warden will attempt a melee attack if you made an arrow attack, or an arrow attack if you made a melee attack.
+
+These wardens are out of phase with your reality and deal (100% - {{ctl|95%|60|80%}}) less damage, and their arrows will pass through friendly targets.
+
+A warden can only be summoned this way once per turn and they return to their own timeline after attacking.
+}}

@@ -1,0 +1,17 @@
+{{Ability box
+|name=Fiery Torment
+|image=Fiery_torment.png
+|category_type={{ct|Corruption}}
+|category={{c|Torture}}
+|require={{TalentReq/StrCorrsReq3}}
+|cost=12 Stamina, 20 Vim
+|cooldown=14
+|range=1
+|desc=
+Hits the target with your weapon doing {{cts|98|120}}% weapon damage. If the attack hits, the target is afflicted with Fiery Torment for 5 turns, reducing their fire resistance by {{cts|14|50}}%. 
+
+When Fiery Torment ends, the victim will take 16-33 fire damage. This damage will increase by {{cts|3|6}}% of all damage taken while under torment.
+
+The damage dealt by the effect will increase with spellpower.
+Demons under fiery torment will be burned by the Flames of the Fearscape.
+}}

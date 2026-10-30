@@ -1,0 +1,12 @@
+{{Ability box
+|name=Reckless Strike
+|image=Reckless_strike.png
+|category_type={{ct|Corruption}}
+|category={{c|Brutality}}
+|require={{TalentReq/StrCorrsReq3}}
+|cost=44 Stamina, 18 Vim
+|cooldown=10
+|range=1
+|desc=
+Hits the target doing {{cts|202|328}}% weapon damage. This attack cannot miss, and ignores all armor and resistances on the target. However, you take 25% of the damage dealt, or 30% of your current health, whichever is lower.
+}}

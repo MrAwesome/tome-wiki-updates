@@ -1,0 +1,18 @@
+{{Ability_box
+|image=Death blow.png
+|name=Death blow
+|category_type=[[Technique (category type)|Technique]]
+|category=[[Two-handed weapons (category)|Two-handed weapons]]
+|require={{TalentReq/TechsReq4}}
+|use_mode=Activated
+|cost=15 Stamina
+|cooldown=10
+|desc=
+Tries to perform a killing blow, doing {{CTWD|80|130%}} weapon damage and dealing an automatic critical hit. If the target ends up with low enough life (<20%), it might be instantly killed.
+
+At level 4, it drains half your remaining stamina, and uses it to increase the blow damage by 100% of it.
+
+The chance to instantly kill will increase with your Physical Power.
+
+''Note: Required a two handed weapon to use this talent.''
+}}

@@ -1,0 +1,13 @@
+{{Ability box
+|image=Sweep.png
+|name=Sweep
+|category_type={{ct|Technique}}
+|category={{c|Dual Techniques}}
+|require={{TalentReq/TechsDexReq3}}
+|cost=30 Stamina
+|cooldown=8
+|desc=
+Attack your foes in a frontal arc, doing {{ctwd|100|170%}} weapon damage and making your targets bleed for (Dex / 2 + {{cts|1|1.7}} * Main Hand Weapon Damage / 8) each turn for {{cts|4|8}} turns.
+
+The bleed damage increases with your main hand weapon damage and Dexterity.
+}}

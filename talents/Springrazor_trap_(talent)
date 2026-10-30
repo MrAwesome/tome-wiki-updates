@@ -1,0 +1,20 @@
+{{Ability box
+|image=Springrazor trap.png
+|name=Springrazor trap
+|category_type={{ct|Cunning}}
+|category={{c|Trapping}}
+|require={{t|Trap Mastery}} 2
+|cooldown=8
+|cost=15 Stamina
+|range=Trap Range
+|desc=
+Lay a pressure triggered trap that explodes into a radius 2 wave of razor sharp wire, doing %0.2f physical damage. 
+
+Those struck by the wire may be shredded, reducing accuracy, armor and defence by %d for 3 turns.
+
+Trap Power is determined by your raw talent level in {{t|Trap Mastery}}.
+
+The trap will last for a duration of (5 + {{t|Trap Mastery}} Level) turns or until it is triggered.
+
+This trap can use a primed trigger and a high level lure can trigger it.
+}}

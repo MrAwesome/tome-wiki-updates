@@ -1,0 +1,11 @@
+{{Ability_box
+|name=Destroy Magic
+|image=Mana clash.png
+|cooldown=50
+|category=objects
+|category_type=Wild-Gift
+|require=-
+|use_mode=activated
+|range=?
+|desc=Inflict various status effects on the target, depending on the level.
+}}

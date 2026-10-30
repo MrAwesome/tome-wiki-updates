@@ -1,0 +1,12 @@
+{{Ability_box
+|image=Stone spikes.png
+|name=Stone spikes
+|category_type={{ct|Spell}}
+|category={{c|Eldritch stone}}
+|require={{TalentReq/SpellsReq1}}
+|use_mode=Active
+|cost=8 equilibrium, 20 mana
+|cooldown=12
+|use_speed=Spell
+|desc=Stony spikes erupt from the ground in a {{cts|4.7|5.8}} radius cone. Creatures caught in the area will be cut for {{ctspd|50|250}} Physical damage dealt over 6 turns. The damage increases with your Spellpower, and the chance to apply the detrimental effect(s) improves with Spellpower or Physical Power, whichever is greater.
+}}

@@ -1,0 +1,17 @@
+{{Ability box
+|image=Continuous butchery.png
+|name=Continuous Butchery
+|game_version=1.4.6
+|embers_version=1.0.3
+|category_type={{ct|Steamtech}}
+|category={{c|Automated Butchery}}
+|require={{TalentReq/SteamReqHigh1}}
+|use_mode=Activated
+|use_speed=Instant
+|cost=15 Steam
+|cooldown=12
+|desc=
+You attune your saws to a specific target for 5 turns.
+Each time you strike this target all damage done with steamsaws (including by other talents) is increased by +{{cts|6|17%}}.
+If you strike any other foe the bonus ends.
+}}

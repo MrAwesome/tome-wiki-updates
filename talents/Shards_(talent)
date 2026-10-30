@@ -1,0 +1,9 @@
+{{Ability_box
+|image=Shards.png
+|name=Shards
+|category_type={{ct|Wild-gift}}
+|category={{c|Earthen power}}
+|require={{TalentReq/GiftsReq3}}
+|use_mode=Passive
+|desc=Sharp shards of stone grow from your shields. When you are hit in melee, you will get a free attack against the attacker with the shards doing (73%,86%,97%,106%,113%) shield damage (as nature). This effect can only happen once per turn.
+}}

@@ -1,0 +1,15 @@
+{{Ability box
+|game_version=1.5.10
+|image=Legacy of the naloren.png
+|name=Legacy of the Naloren
+|category_type=[[Prodigies]]
+|category=[[Prodigies#Strength|Strength]]
+|require=Strength 50<br />Received [[The Temple of Creation]] quest<br />Have not killed Slasul<br />Have killed Ukllmswwik
+|use_mode=Passive
+|desc=
+You have sided with Slasul and helped him vanquish Ukllmswwik. You are now able to breathe underwater with ease.
+
+Your maximum and current talent points invested in {{t|Exotic Weapons Mastery}} and {{t|Spit Poison}} are increased by (0.1 * Character Level), rounded up. These bonuses will be updated whenever you level up.
+
+Should Slasul still live, he will reward you with the trident artifact: [[Legacy of the Naloren]].
+}}

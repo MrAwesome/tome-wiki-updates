@@ -1,0 +1,17 @@
+{{Ability box
+|image=Endless endurance.png
+|name=Endless Endurance
+|game_version=1.7.6
+|embers_version=1.1.10
+|category_type={{ct|Steamtech}}
+|category={{c|Blacksmith}}
+|require={{TalentReq/SteamReq2}}
+|use_mode=Passive
+|desc=
+Working long hours at a forge has made you incredibly slow to tire and given you endless vitality.
+
+Your healing factor is increased by {{cts|4|17.5%}} and your life regeneration by {{cts|3|7.5}}.
+
+Stopping you is nearly impossible; your pinning resistance is increased by {{ctl|100|20|50%}}.		
+|avail.escorts=[[Escorts#Tinker|Tinker]], +1 to talent
+}}

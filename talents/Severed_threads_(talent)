@@ -1,0 +1,12 @@
+{{Ability_box
+|name = Severed Threads
+|image = Severed_threads.png
+|category_type = {{ct|Demented}}
+|category = {{c|Chronophage}}
+|game_version = 1.7.4
+|forbidden_version = 1.0.12
+|require = {{TalentReq/DementedReqHigh2}}
+|use_mode = Passive
+|desc = 
+On applying atrophy to a target below 15% of their maximum life you will sever their lifeline, slaying them instantly. You will then feast on the remnants of their timeline for {{ctl|8|2|4.6}} turns, increasing your life regeneration by {{ctspd|10|50}} and causing talents without fixed cooldowns to refresh twice as fast.
+}}

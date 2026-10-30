@@ -1,0 +1,11 @@
+{{Ability box
+|game_version=1.4.5
+|image=Celerity.png
+|name=Celerity
+|category_type={{ct|Chronomancy}}
+|category={{c|Speed Control}}
+|require={{TalentReq/ChronoReq1}}
+|use_mode=Passive
+|desc=
+When you move you gain {{cts|10|30%}} movement speed for {{cts|1|2}} turns.  This effect stacks up to three times but can only occur once per turn.
+}}

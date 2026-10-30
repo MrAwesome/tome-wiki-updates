@@ -1,0 +1,16 @@
+{{Ability box
+|game_version=1.4.5
+|image=Arrow echoes.png
+|name=Arrow echoes
+|category_type={{ct|Chronomancy}}
+|category={{c|Bow threading}}
+|require={{TalentReq/ChronoReq3}}
+|cost=12 Paradox
+|cooldown=12
+|range=archery range
+|use_speed=Weapon Speed
+|desc=
+Over the next 4 turns you'll fire up to 4 arrows at this target from this location, each dealing {{ctwd|50|130}}% weapon damage to the target. 
+These shots do not consume ammo.
+
+}}

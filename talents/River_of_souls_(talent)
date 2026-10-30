@@ -1,0 +1,21 @@
+{{Ability box
+|image=erupting_shadows.png
+|game_version=1.7.4
+|name=River of Souls
+|category_type={{ct|Spell}}
+|category={{c|Nightfall}}
+|require={{TalentReq/SpellsReq4}}
+|use_mode=Sustained
+|cost=30 Mana (only on activation)
+|cooldown=15
+|range=7
+|use_speed=Spell
+|desc=
+You summon a river of tortured souls to launch an onslaught of darkness against your foes.
+
+Every turn for 5 turns you launch a projectile towards the designated area that explodes in radius {{cts|3|4}} dealing {{ctspd|20|220}} darkness damage.
+
+Each projectile consumes a soul and the spell ends when it has sent 5 projectiles or when you have no more souls to use.
+
+The damage will increase with your Spellpower.
+}}

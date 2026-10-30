@@ -1,0 +1,22 @@
+{{Ability box
+|game_version=1.7.4
+|forbidden_version = 1.0.12
+|image=Digest.png
+|name=Digest
+|category_type={{ct|Demented}}
+|category={{c|Slow Death}}
+|require={{TalentReq/SpellsReq1}}
+|use_mode=Active
+|cost= +20 insanity
+|cooldown=12
+|range=1
+|use_speed = Spell
+|desc=
+Make a melee attack dealing {{ctwd|100|200%}} weapon damage and attempt to snatch a foe that has 20% life or less left and swallow it whole.
+
+While you digest it you gain {{CTS|1|3}} insanity per turn.
+
+The digestion lasts for 50 turns for an elite and 25 turns for others. ''Note: This is literal - it lasts 50 turns for foes who are exactly elite-ranked, and it lasts 25 turns for higher or lower ranks.''
+
+This effect's remaining duration only goes down while in combat, and its bonuses are only applied while in combat.
+}}

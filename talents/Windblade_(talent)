@@ -1,0 +1,15 @@
+{{Ability box
+|game_version=1.5.10
+|image=Windblade.png
+|name=Windblade
+|category_type=[[Prodigies]]
+|category=[[Prodigies#Dexterity|Dexterity]]
+|require=Dexterity 50<br />Have dealt over 50,000 damage with dual wielded weapons
+|cooldown=12
+|desc=
+You spin madly, generating a sharp gust of wind with your weapons that deals 320% weapon damage to all foes within radius 4 and disarms them for 4 turns.
+
+As Windblade projects a melee attack, it can trigger melee only on-hit abilities.
+
+The disarm effect can be prevented by disarm resistance or immunity, but will otherwise ignore physical saves.
+}}

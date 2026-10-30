@@ -1,0 +1,13 @@
+{{Ability box
+|image=Devour life.png
+|name=Devour Life
+|category_type={{ct|Cursed}}
+|category={{c|Dark Sustenance}}
+|require={{TalentReq/CursedWilReq2}}
+|range=7
+|cooldown=6
+|desc=
+Devours life from the target of your feeding. {{ctmd|0|140}} life from the victim will be added to your own. This healing cannot be reduced. At level 5, Devour Life can be used like the {{t|Feed}} talent to begin feeding.
+
+Improves with your Mindpower.
+}}

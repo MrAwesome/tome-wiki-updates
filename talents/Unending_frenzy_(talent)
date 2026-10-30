@@ -1,0 +1,14 @@
+{{Ability_box
+|game_version = 1.7.4
+|image=Unending_frenzy_2017.png
+|name=Unending Frenzy
+|category_type = {{ct|Technique}}
+|category = {{c|Combat Veteran}}
+|require={{TalentReq/TechsStrDexReq4}}
+|use_mode=Passive
+|desc=
+''Normal effect:'' You revel in the death of your foes, regaining {{CTS|5|20|0.5}} stamina with each death you cause.
+
+''Extra effect as a {{t|Fallen}}:'' You revel in the death of your foes, regaining {{CTS|1|4.5|0.5}} additional hate with each death you cause.<br>
+''As a Fallen, the normal effect is no longer mentioned in the description, but it still happens.''
+}}

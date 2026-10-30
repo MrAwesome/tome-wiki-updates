@@ -1,0 +1,17 @@
+{{Ability_box
+|image=Venomous_strike.png
+|name=Venomous Throw
+|game_version=1.5.2
+|category_type=[[Technique (category type)|Technique]]
+|category=[[Other (category)|Other]]
+|use_mode=Activated
+|range={{cTL|10|4.2|7}}
+|cost=14 Stamina
+|cooldown=8
+|travel_speed=1000% of base
+|use_speed=Throwing
+|desc=
+Throw a knife coated with venom, doing %d%% damage as nature and inflicting additional effects based on your active vile poisons (as per the Venomous Strike talent).
+
+Using this talent puts your Venomous Strike talent on cooldown.
+}}

@@ -1,0 +1,20 @@
+{{Ability box
+|game_version=1.4.3
+|image=Fire breath.png
+|name=Fire Breath
+|category_type={{ct|Wild-Gift}}
+|category={{c|Fire Drake Aspect}}
+|require={{TalentReq/GiftsReq4}}
+|use_speed=Mind speed
+|cost=12 Equilibrium
+|cooldown=12
+|range=0
+|desc=
+You breathe fire in a frontal cone of radius {{cts|5|9}}. Any target caught in the area will take {{ctstd|Str|30|650}} fire damage over 3 turns, and has a 25% chance of being Flameshocked for 3 turns, stunning them.
+
+The damage will increase with your Strength, and the critical chance is based on your Mental crit rate.
+
+Each point in fire drake talents also increases your fire resistance by 1%.
+
+''Fire damage is applied 70% on talent use, 30% over next three turns.''
+}}

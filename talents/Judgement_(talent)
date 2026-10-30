@@ -1,0 +1,12 @@
+{{Ability_box
+|image=judgement.png
+|name=Judgement
+|category_type=[[Celestial (category type)|Celestial]]
+|category={{c|Radiance}}
+|require={{TalentReq/DiviReq4}}
+|use_mode=Activated
+|cost=20 Positive
+|cooldown=25
+|desc=
+Fire a glowing orb of light at each enemy within your Radiance.  Each orb will slowly follow its target until it connects dealing {{ctspd|1|40}} light damage to anything else it contacts along the way.  When the target is reached the orb will explode dealing {{ctspd|20|150}} light damage and healing you for 50% of the damage dealt.  This powerful ability will dim your Radiance, reducing its radius to 1 for 5 turns.
+}}

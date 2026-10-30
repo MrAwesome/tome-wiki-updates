@@ -1,0 +1,14 @@
+{{Ability box
+|image=Ominous shadow.png
+|name=Ominous Shadow
+|category_type={{ct|Corruption}}
+|category={{c|Black-magic}}
+|require={{TalentReq/CorrsReq4}}
+|cooldown=2
+|cost=4 Vim
+|range=10
+|desc=
+When a creature afflicted with Bleak Outcome dies, you gain a charge of Ominous Shadow {{cts|1|6}} for 12 turns.
+Each charge can be used to become invisible (power {{ctspd|10|50}}) for 2 turns.
+|avail.classes=[[Demonologist]]
+}}

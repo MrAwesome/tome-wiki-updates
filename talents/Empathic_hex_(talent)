@@ -1,0 +1,18 @@
+{{Ability box
+|image=Empathic hex.png
+|name=Empathic Hex
+|category_type={{ct|Corruption}}
+|category={{c|Hexes}}
+|require={{TalentReq/CorrsReq3}}
+|cooldown=20
+|cost=30 Vim
+|range=10
+|desc=
+Hexes your target and everything within a radius 2 ball around it.
+
+For a duration of 20 turns, a percentage of any damage they deal will also damage themselves.
+
+The percentage of damage mirrored is {{cl|{{ctspd|4|20}}|100%|0|0|12.1%|12.1}}.
+
+The damage will increase with your Spellpower.
+}}

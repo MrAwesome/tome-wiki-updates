@@ -1,0 +1,15 @@
+{{Ability_box
+|image=blinding_powder.png
+|name=Blinding Powder
+|game_version=1.5.2
+|category_type=[[Cunning (category type)|Cunning]]
+|category=[[Dirty fighting (category)|Dirty fighting]]
+|require={{TalentReq/CunsReq3}}
+|cost=18 Stamina
+|cooldown=12
+|travel_speed=Instantaneous
+|use_speed=Standard
+|desc=
+Throw a cloud of blinding dust in a radius {{cTS|1|2.5}} cone. Enemies within will be blinded, as well as having their accuracy reduced by {{cTS|8|24|0.75}} and movement speed decreased by {{cTL|90%|15|30%}} for {{cTS|3|5}} turns.
+The chance to inflict these effects increase with your Accuracy.
+}}

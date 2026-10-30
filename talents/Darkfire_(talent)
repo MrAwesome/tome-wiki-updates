@@ -1,0 +1,15 @@
+{{Ability box
+|image=Darkfire_2017.png
+|name=Darkfire
+|category_type={{ct|Corruption}}
+|category={{c|Shadowflame}}
+|require={{TalentReq/CorrsReq2}}
+|cost=15 Vim
+|cooldown=8
+|range=6
+|travel_speed=4
+|desc=
+Conjures up a bolt of shadowflame that moves toward the target and explodes into a flash of darkness and fire that deals {{ctspd|28|220}} damage, split evenly between fire damage and darkness damage, in a radius of {{cts|2|6}}.
+
+The damage will increase with your Spellpower.
+}}

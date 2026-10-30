@@ -1,0 +1,22 @@
+{{Ability box
+|game_version=1.7.4
+|name=Acid Splash
+|image=Acid splash.png
+|category_type={{ct|Wild-Gift}}
+|category={{c|Mucus}}
+|require={{TalentReq/GiftsReq2}}
+|cost=10 Equilibrium
+|cooldown=10
+|range=7
+|use_speed=Mind
+|desc=
+Calling upon nature, you cause the ground to erupt in an radius 2 acidic explosion, dealing {{ctmd|20|220}} acid damage to all creatures and creating mucus in the area.
+
+At talent level 5, the radius of effect is increased by 1.
+
+Any Mucus Oozes you have active will, if in line of sight, instantly spit slime (with a -50% damage modifier) at one of the targets hit by the splash.
+
+The damage increases with your Mindpower.
+
+''Note: this talent will not damage friendly units''
+}}

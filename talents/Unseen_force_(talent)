@@ -1,0 +1,18 @@
+{{Ability box
+|image=Unseen force.png
+|name=Unseen Force
+|category_type={{ct|Cursed}}
+|category={{c|Force of Will}}
+|require={{TalentReq/CursedWilReq4}}
+|range=4
+|cost=18 Hate
+|cooldown=30
+|desc=
+Your fury becomes an unseen force that randomly lashes out at foes around you. For {{cts|6|10}} turns you will strike a nearby target within range 5 each turn, doing {{ctmd|0|140}} damage and 2 knockback.
+
+At talent levels above 4, you gain a chance to launch an extra strike. The chance for an extra strike is {{cts|15|35%}}, scaling by (Talent Level - 4).
+
+In addition, your ability to channel force with this talent increases all critical damage by {{cts|4|15%}}.
+
+Damage increases with your Mindpower.
+}}

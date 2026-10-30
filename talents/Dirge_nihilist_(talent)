@@ -1,0 +1,13 @@
+{{Ability_box
+|game_version = 1.7.6
+|name = Dirge Nihilist
+|image = Dirge_nihilist.png
+|category_type = {{ct|Celestial}}
+|category = {{c|Dirges}}
+|require = {{TalentReq/DiviReq4}}
+|use_mode = Passive 
+|desc = 
+Your dirges deaden you to the outside world, reducing all incoming damage by {{ctspd|2|40}}.
+
+The damage reduction will increase with your Spellpower.
+}}

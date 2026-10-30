@@ -1,0 +1,14 @@
+{{Ability box
+|image=Precise_strikes_2017.png
+|name=Precise Strikes
+|category_type={{ct|Technique}}
+|category={{c|Combat Techniques}}
+|require={{TalentReq/TechsStrDexReq2}}
+|use_mode=Sustained
+|cost=30 Stamina
+|cooldown=30
+|desc=
+You focus your strikes, reducing your attack speed by 10% and increasing your Accuracy by {{cs|(Dex * Talent Level)|4|0|37|500}}, and critical chance by ( {{cts|({{css|Dex|0.4|4|0.75}})|({{css|Dex|2|20|0.75}})||4S}} )%.
+
+The effects will increase with your Dexterity.
+}}

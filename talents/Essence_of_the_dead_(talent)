@@ -1,0 +1,25 @@
+{{Ability_box
+|image=essence_of_the_dead.png
+|name=Essence of the Dead
+|category_type={{ct|Spell}}
+|category={{c|Animus}}
+|require={{TalentReq/SpellsReq4}}
+|use_mode=Activated
+|cost=2 Souls and 20 Mana
+|cooldown=25
+|desc=
+Crush and consume two souls to empower your next {{cts|1|5}} spells, granting them a special effect.
+
+Affected spells are:
+
+*{{t|Undeath Link}}: in addition to the heal a shield is created for half the heal power
+*{{t|Create Minions}}: allows you to summon 2 more minions
+*{{t|Assemble}}: allows you to summon a second bone golem
+*{{t|Invoke Darkness}}: becomes a cone of darkness
+*{{t|Shadow Tunnel}}: teleported minions will also be healed for 30% of their max life
+*{{t|Cold Flames}}: freeze chance increased to 100%
+*{{t|Ice Shards}}: each shard becomes a beam
+*{{t|Consume Soul}}: effect increased by 50%
+}}
+Although this talent was removed with the Necromancer rework, the "Essence of the Dead" effect that it granted remains in the game code, unused.
+[[Category:Removed Talents]]

@@ -1,0 +1,15 @@
+{{Ability box
+|image=Inhale vapours.png
+|name=Inhale vapours
+|game_version=1.7.6
+|embers_version=1.1.10
+|category_type={{ct|Steamtech}}
+|category={{c|Psionic fog}}
+|require={{TalentReq/PsiWilReq2}}
+|use_mode=Passive
+|desc=When you deactivate Vaporous Step, if the psychoport succeeds you inhale some of the vapours, regenerating {{CTS|10|70}} / 2 steam and (40 + {{CTMD|10|520}}) / 2 life.
+
+The effects will be multiplied by 33% (diminutive) for each charge of Vaporous Step.
+
+The healing done will increase with your Mindpower.
+}}

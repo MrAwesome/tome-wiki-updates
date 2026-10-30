@@ -1,0 +1,20 @@
+{{Ability_box
+|image=True grit.png
+|name=True grit
+|category_type=[[Technique (category type)|Technique]]
+|category=[[Battle tactics (category)|Battle tactics]]
+|require={{TalentReq/TechsReqHigh4}}
+|use_mode=Sustained
+|cost=70 Stamina
+|cooldown=30
+|desc=
+Take a defensive stance to resist the onslaught of your foes.
+
+While wounded, you gain all damage resistance equal to {{CTS|25|45%}} of your missing health.
+
+In addition, your all damage resistance cap increases {{CTL|100%|15|50%}} closer to 100%.
+
+This drains your stamina rapidly at {{CTL|0|(-14)|(-6)}} stamina/turn.
+
+The effects are refreshed at the start of each turn.
+}}

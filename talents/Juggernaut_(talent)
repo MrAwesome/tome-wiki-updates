@@ -1,0 +1,14 @@
+{{Ability_box
+|image=Juggernaut_2017.png
+|name=Juggernaut
+|category_type=[[Technique (category type)|Technique]]
+|category=[[Superiority (category)|Superiority]]
+|require={{TalentReq/TechsReqHigh1}}
+|use_mode=Activated
+|cost=60 Stamina
+|cooldown=40
+|desc=
+Concentrate on the battle, ignoring some of the damage you take.
+
+Improves physical damage reduction by {{CTS|15|35%}} and provides {{CTS|8|20%|0.75}} chances to shrug off critical damage for 20 turns.
+}}

@@ -1,0 +1,12 @@
+{{Ability_box
+|name=Faceless
+|image=faceless.png
+|category_type={{ct|Race}}
+|category={{c|Drem}}
+|game_version=1.7.6
+|require={{TalentReq/RacialReq3}}
+|use_mode=Passive
+|desc=Your faceless visage is puzzling and emotionless, allowing you to more easily resist mind tricks.
+
+You gain {{CTS|8|30|0.75}} mental save, {{CTS|20|60%|0.75}} confusion immunity.
+}}

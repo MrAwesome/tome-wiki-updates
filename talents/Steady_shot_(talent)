@@ -1,0 +1,15 @@
+{{Ability box
+|image=Steady_shot_2017.png
+|name=Steady Shot
+|game_version=1.5.2
+|category_type={{ct|Technique}}
+|category={{c|Archery Training}}
+|require={{TalentReq/TechsDexReq1}}
+|range=Archery Range
+|cooldown=3
+|travel_speed=Instantaneous
+|use_speed=Archery
+|desc=
+Fire a steady shot, doing {{cTWD|100|180%}} damage with a {{cTS|22|30%}} chance to mark the target.
+If Steady Shot is not on cooldown, this talent will automatically replace your normal attacks (and trigger the cooldown).
+}}

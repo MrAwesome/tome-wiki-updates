@@ -1,0 +1,15 @@
+{{Ability box
+|game_version = 1.7.4
+|image=Dreadmaster.png
+|name=Dreadmaster
+|category_type={{ct|Spell}}
+|category={{c|Dreadmaster}}
+|require={{TalentReq/SpellsReq4}}
+|use_mode= Passive
+|desc=
+You now summon a Dreadmaster instead of a Dread.
+
+Dreadmasters learn to cast silence, disperse magic and mind disruption, making them the ultimate annoyance tool.
+
+It learns these spells at a level equal to this talent's level.
+}}

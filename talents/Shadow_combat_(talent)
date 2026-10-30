@@ -1,0 +1,14 @@
+{{Ability_box
+|image=Shadow combat.png
+|name=Shadow Combat
+|category_type={{ct|Cunning}}
+|category={{c|Shadow Magic}}
+|require={{TalentReq/CunsReq1}}
+|use_mode=Sustained
+|cost=20 Stamina
+|cooldown=5
+|desc=
+Channel raw magical energy into your melee attacks; each blow you land will do an additional (2 + {{ctspd|2|50}}) darkness damage and cost 2 mana.
+
+The damage will improve with your Spellpower.
+}}

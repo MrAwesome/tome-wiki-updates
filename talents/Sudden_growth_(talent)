@@ -1,0 +1,15 @@
+{{Ability box
+|image=Sudden growth.png
+|name=Sudden Growth
+|category_type={{ct|Wild-Gift}}
+|category={{c|Fungus}}
+|game_version=1.7.2
+|require={{TalentReq/GiftsReq4}}
+|cost=22 Equilibrium
+|cooldown=15
+|use_speed=Mind Speed
+|desc=
+A wave of energy passes through your fungus, making it release immediate healing energies on you, healing you for ({{CTS|2|5}} * 100)% of your current life regeneration rate (Life Regeneration * {{CTS|2|5}}).
+|avail.classes=[[Oozemancer]], [[Wyrmic]]
+|avail.shops=[[Zigur]] ([[Age of Ascendancy]]) — after completing [[Storming the city]], speaking to [[Myssil|Protector Myssil]] and killing [[Urkis]], the {{c|Fungus}} category is revealed (locked)
+}}

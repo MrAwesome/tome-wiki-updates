@@ -1,0 +1,14 @@
+{{Ability box
+|image=Innovation.png
+|name=Innovation
+|game_version=1.7.6
+|embers_version=1.1.10
+|category_type={{ct|Steamtech}}
+|category={{c|Engineering}}
+|require={{TalentReq/SteamReq2}}
+|use_mode=Passive
+|desc=
+Your knowledge of physical laws allows you to use and improve equipment in ways their creators never dreamed.
+Increases all stats, saves, armour, and defense bonuses by {{CTS|4|15%}} on equipment that is crafted by a master or powered by steamtech.
+|avail.escorts=[[Escorts#Tinker|Tinker]], +1 to talent
+}}

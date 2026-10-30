@@ -1,0 +1,14 @@
+{{Ability box
+|game_version=1.7.6
+|ashes_version=1.0.6
+|image=Resilience_of_the_doomed.png
+|name=Resilience of the Doomed
+|category_type={{ct|Race}}
+|category={{c|Doomelf}}
+|require={{TalentReq/RacialReq2}}
+|use_mode=Passive
+|desc=
+The tortures you had to endure on the Fearscape have increased your resilience.
+
+All detrimental status effects last {{cts|5|20%}} less on you and all direct critical hits (physical, mental, spells) against you have a {{cts|10|32%|0.75}} lower critical multiplier (but always do at least normal damage).
+}}

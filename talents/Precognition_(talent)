@@ -1,0 +1,17 @@
+{{Ability box
+|game_version=1.7.4
+|image=Precognition.png
+|name=Precognition
+|category_type={{ct|Chronomancy}}
+|category={{c|Chronomancy}}
+|require={{TalentReq/ChronoReq1}}
+|cost=10 Paradox
+|cooldown=20
+|range={{cts|2|14}} + 10
+|use_speed=Spell
+|desc=
+You peer into the future, sensing creatures and traps in a radius of {{cts|2|14}} + 10 for {{cts|2|10}} turns.
+
+If you know {{t|Foresight}} you'll gain additional defense and chance to shrug off critical hits (equal to your Foresight bonuses) while Precognition is active.
+|avail.escorts=[[Escorts#Temporal_Explorer_.28Arcane.29|Temporal Explorer (Arcane)]] (Normal Escort Reward), +1 to talent or via revealing the locked {{c|Chronomancy}} category
+}}

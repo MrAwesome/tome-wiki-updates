@@ -1,0 +1,16 @@
+{{Ability_box
+|image=Backstab_2017.png
+|name=Backstab
+|game_version=1.5.2
+|category_type=[[Cunning (category type)|Cunning]]
+|category=[[Dirty fighting (category)|Dirty fighting]]
+|require={{TalentReq/CunsReq2}}
+|use_mode=Passive
+|desc=
+Your quick wit gives you a big advantage against disabled targets, increasing your damage by {{cTS|4|10%}} for each disabling effect the target is under, to a maximum of {{cTS|12|30%}}.
+
+For this purpose, disabling effects are stun, blind, daze, confuse, pin, disarm, cripple, and silence.
+
+In addition, for each disabling effect the target is under, your melee attacks have a {{cTL|30%|1|5%}} (to a maximum of {{cTL|90%|3|15%}}) chance to inflict a new effect on them (that they do not already have): either disarm, cripple (25% power) or pin for 2 turns.<br>
+The chance to further disable the target increases with your Accuracy.
+}}

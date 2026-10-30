@@ -1,0 +1,13 @@
+{{Ability box
+|game_version=1.7.6
+|image=Resilient bones_2017.png
+|name=Resilient Bones
+|category_type={{ct|Undead}}
+|category={{c|Skeleton}}
+|require={{TalentReq/UndeadsReq3}}
+|use_mode=Passive
+|desc=
+Your undead bones are very resilient, reducing the duration of all detrimental effects on you by {{ctl|100%|10|41.7%}}. 
+
+''Note: the duration reduction is rounded down. An effect with duration 2 will still generally have duration 2 after resilient bones at 40% is applied. ''
+}}

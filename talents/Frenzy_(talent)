@@ -1,0 +1,16 @@
+{{Ability_box
+|image=Frenzy.png
+|name=Frenzy
+|category_type={{ct|Cursed}}
+|category={{c|Slaughter}}
+|require={{TalentReq/CursedStrReq2}}
+|cooldown=12
+|cost=2 Hate
+|desc=
+Assault nearby foes with 4 fast attacks for (0.5 * {{ctid|Str|25|80%|0.4}}) (at 0 Hate) to {{ctid|Str|25|80%|0.4}} (at 100+ Hate) damage each. {{t|stalk|Stalked}} prey are always targeted if nearby.
+
+At level 3 the intensity of your assault overwhelms anyone who is struck, reducing their Accuracy for 3 turns by {{cs|(15 * (100 + Str) * ( √ (Talent Level - 2) - 0.5) )|0|0|20.77|3696|0.67}}.
+
+The damage multiplier and Accuracy reduction increase with your Strength.
+}}
+*Note: there are 2 Frenzy talents in game: Cursed Frenzy, and Drem [[Frenzy drem (talent)|Frenzy]].

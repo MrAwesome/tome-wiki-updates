@@ -1,0 +1,16 @@
+{{Ability box
+|game_version=1.5.10
+|image=Constrict.png
+|name=Constrict
+|category_type={{ct|Demented}}
+|category={{c|Tentacles}}
+|require={{TalentReq/SpellsReq4}}
+|use_mode=sustained
+|cost= 10 insanity; 3 per turn
+|cooldown=7
+|range=10
+|desc=
+You extend your tentacle to grab a distant target, pulling it to you. As long as Constrict stays active the target is bound by your tentacle, it can try to move away but each turn you pull it back in 1 tile. While constricting you can not use your tentacle to enhance your normal attacks but you deal {{ctwd|100|160%}} tentacle damage each turn to your target. Enemies can resist the attempt to pull them but Constrict will always work for purposes of modifying your talents. 
+
+Your other tentacle talents may act differently when used while constricting (check their descriptions).		
+}}

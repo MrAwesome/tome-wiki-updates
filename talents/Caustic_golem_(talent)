@@ -1,0 +1,16 @@
+{{Ability box
+|name=Caustic Golem
+|image=Caustic golem.png
+|category_type={{ct|Spell}}
+|category={{c|Acid Alchemy}}
+|require={{TalentReq/SpellsReq2}}
+|use_mode=Passive
+|desc=
+While {{t|Acid Infusion}} is active, the explosions from {{t|Throw Bomb}} will coat your golem in acid for a duration of {{cs|(0.03 * Spellpower * Talent Level)|2|0|10|8}}.
+
+While coated, any melee hit against your golem has a chance to trigger a radius 4 cone of acid towards the attacker that does {{ctspd|5|120}} Acid damage to all caught inside. (This can only happen once per turn.)
+
+The triggering chance is {{cl|(0.03 * Spellpower * Talent Level)|100%|20|0|55%|8}}.
+ 
+The effects increase with your talent level and with the Spellpower and damage modifiers of your golem.
+}}

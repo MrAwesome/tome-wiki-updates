@@ -1,0 +1,10 @@
+{{Ability_box
+|name=Acidic Crawl
+|image=Crawl_acid.png
+|category_type=Technique
+|category=other
+|game_version=1.4.9
+|range=1
+|cooldown=2
+|desc=Crawl onto the target, covering it in acid.
+}}

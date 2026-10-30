@@ -1,0 +1,14 @@
+{{Ability box
+|image=Empower.png
+|game_version=1.7.6
+|name=Empower
+|category_type={{ct|Chronomancy}}
+|category={{c|Spellbinding}}
+|require={{TalentReq/ChronoReqHigh1}}
+|cost=24 Paradox
+|use_mode=Sustain
+|cooldown=10
+|desc=
+Empowers the selected {{ct|Chronomancy}} spell, increasing spellpower when casting it by {{ctl|100%|12.5|55%}}.
+Each spell can only be spellbound in one way at a time
+}}

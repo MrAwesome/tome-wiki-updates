@@ -1,0 +1,14 @@
+{{Ability box
+|game_version=1.5.10
+|image=Defiled_Blood.png
+|name=Defiled Blood
+|category_type={{ct|Demented}}
+|category={{c|Horrific Body}}
+|require={{TalentReq/SpellsReq4}}
+|use_mode=Passive
+|desc=
+When you make your pustules explode you leave a pool of defiled blood on the ground for 5 turns.
+		Foes caught inside get assaulted by black tentacles every turn, dealing {{ctwd|40|110%}} darkness tentacle damage and covering them in your black blood for 2 turns.
+		Creatures that hit you while covered in your blood heal you for ({{ctspd|10|280%}})/10 of the damage done.
+		The healing received increases with your Spellpower.
+}}

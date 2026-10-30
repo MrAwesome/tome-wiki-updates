@@ -1,0 +1,20 @@
+{{Ability_box
+|image=skirmisher_throat_smasher.png
+|name=Kill Shot
+|category_type={{ct|Cunning}}
+|category={{c|Called Shots}}
+|require={{TalentReq/TechsCunReq2}}
+|use_mode=Activated
+|range=Archery Range
+|cost=35 Stamina
+|cooldown=8
+|travel_speed=10
+|desc=
+Employ a specialized sniping shot at a target.
+
+This shot is focused on precision at long range and deals base {{ctwd|30|150%}} ranged damage with a bonus that increases with distance.
+
+The range bonus is {{cs|range|(-50)|1|250%|10|0.25}}.
+
+This shot will bypass other enemies between you and your target.
+}}

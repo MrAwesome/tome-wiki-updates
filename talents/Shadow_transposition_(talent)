@@ -1,0 +1,16 @@
+{{Ability box
+|image=shadow_transposition.png
+|name=Shadow Transposition
+|category_type={{ct|Cursed}}
+|category={{c|One With Shadows}}
+|require={{TalentReq/CursedCunReqHigh3}}
+|use_mode=Activated
+|cost=6 Hate
+|cooldown=10
+|desc=
+Observers find it difficult to tell you and your shadows apart.
+
+You can target a shadow in radius {{cts|1|15|1}} and instantly trade places with it.
+
+{{cts|1|3|1}} random negative physical or magical effects are transferred from you to the chosen shadow in the process.
+}}

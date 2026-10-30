@@ -1,0 +1,17 @@
+{{Ability box
+|game_version=1.4.5
+|image=Dimensional anchor.png
+|name=Dimensional Anchor
+|category_type={{ct|Chronomancy}}
+|category={{c|Spacetime Folding}}
+|require={{TalentReq/ChronoReq4}}
+|cost=20 Paradox
+|cooldown=10
+|range={{t|Warp Mines}} range
+|use_speed=Spell speed
+|desc=Create a radius three anti-teleport field for {{cts|6|10|PM}} turns and daze all enemies in the area of effect for two turns.
+Enemies attempting to teleport while anchored take {{ctspd|20|230|PM}} physical and {{ctspd|20|230|PM}} temporal (warp) damage.
+The damage will scale with your Spellpower.
+
+
+}}

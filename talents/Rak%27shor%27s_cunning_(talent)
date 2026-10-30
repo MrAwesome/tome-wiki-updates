@@ -1,0 +1,25 @@
+{{Ability box
+|game_version=1.7.6
+|image=Rakshor cunning.png
+|name=Rak'Shor's Cunning
+|category_type=[[Prodigies]]
+|category=[[Prodigies#Cunning|Cunning]]
+|require=Cunning 50<br />Not already [[Undead|undead]]<br />Quaffed the [[Blood of Undeath]]<br />Not [[Antimagic]]
+|use_mode=Passive
+|desc=
+Set up some cunning contingency plans in case of death.
+
+If you die you will have the option to raise back from the dead once, by becoming a [[Ghoul|ghoul]] or a [[Skeleton|skeleton]] (you can choose which).
+
+When rising this way you will keep access to your racial tree and gain access to the ghoul or skeleton racial tree with 2 levels of each talent already learnt.
+
+As an undead, you will no longer be able to use infusions.
+
+If you choose to become a skeleton, the [[Re-assemble (talent)|Re-assemble]] talent will consider that you already used your resurrection.
+}}
+===Notes===
+*Infusions you already have are not removed, but you can no longer use them.
+*Your life rating is replaced: 12 as a skeleton, 14 as a ghoul.
+*You do not gain the stat bonuses that characters born as a ghoul or skeleton have.
+
+<noinclude>[[Category: Embers of Rage]]</noinclude>

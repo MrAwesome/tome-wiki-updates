@@ -1,0 +1,14 @@
+{{Ability_box
+|game_version = 1.7.6
+|name = Singularity Armor
+|image = Singularity_armor.png
+|category_type = {{ct|Celestial}}
+|category = {{c|Dark Sun}}
+|require = {{TalentReq/DiviStrReqHigh3}}
+|use_mode = Sustained
+|cost = 20 Positive
+|cooldown = 10
+|use_speed = Spell
+|desc = 
+Create a gravity field around you that converts {{ctl|80|10|40}}% of all damage you deal into physical damage, slows incoming projectiles by {{ctl|80|10|50}}%, and causes your gravity damage to reduce the target's knockback resistance by half for two turns.
+}}

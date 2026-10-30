@@ -1,0 +1,14 @@
+{{Ability_box
+|image=mark_of_light.png
+|name=Mark of light
+|category_type=[[Celestial (category type)|Celestial]]
+|category={{c|Crusader}}
+|require={{TalentReq/DiviReqHigh2}}
+|use_mode=Activated
+|range=5
+|cost=20 Positive
+|cooldown=15
+|use_speed=Instant
+|desc=
+You mark a target with light for 5 turns, causing all melee hits you deal to it to heal you for {{ctl|100%|15|50%}} of the damage done.
+}}

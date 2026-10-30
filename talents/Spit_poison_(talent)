@@ -1,0 +1,15 @@
+{{Ability_box
+|game_version=1.7.4
+|image=Spit poison.png
+|name=Spit Poison
+|category_type={{ct|Wild-Gift}}
+|category=Other
+|cost=4 Equilibrium
+|range=10
+|cooldown=6
+|use_speed=Standard
+|desc=Spit poison at your target, doing {{cs|(Str or Dex) * Talent Level|20|0|420 poison damage|500}}, over six turns. The damage will increase with your Strength or Dexterity (whichever is higher).
+
+''Note: While this talent is normally only available to NPCs, it can be acquired through the Loremaster [[escort]], {{t|Legacy of the naloren}} prodigy, and some items such as [[Serpent's Glare]].''
+|avail.escorts=[[Escorts#Loremaster|Loremaster]], +1 to talent
+}}

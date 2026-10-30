@@ -1,0 +1,13 @@
+{{Ability_box
+|image=Lethality.png
+|name=Lethality
+|game_version=1.5.2
+|category_type=[[Cunning (category type)|Cunning]]
+|category=[[Lethality (category)|Lethality]]
+|require={{TalentReq/CunsReq1}}
+|use_mode=Passive
+|desc=
+You have learned to find and hit weak spots. All your strikes have a {{cTS|2.3|7.5%|0.1}} greater chance to be critical hits, and your critical hits do {{cTS|7.5|20%|0.1}} more damage.
+
+Also, when using daggers and throwing knives, you now use your Cunning instead of your Strength for bonus damage.
+}}

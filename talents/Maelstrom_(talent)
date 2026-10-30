@@ -1,0 +1,18 @@
+{{Ability box
+|image=Maelstrom.png
+|name=Maelstrom
+|category_type={{ct|Psionic}}
+|category={{c|Distortion}}
+|require={{TalentReq/PsiWilReq4}}
+|range=10
+|cost=30 Psi
+|cooldown=24
+|desc=
+Create a powerful maelstorm for {{cts|5|9}} turns.  Each turn, the maelstrom will pull in targets within a radius of (1 + Talent Level / 3) rounded up, to a maximum of 4, and inflict {{ctmd|10|50}} physical damage.
+
+This damage will distort affected targets, decreasing physical resistance by (''number of talent points in {{c|Distortion}}'')% and rendering them vulnerable to distortion effects for 2 turns.
+
+Investing in this talent will increase the physical resistance reduction from all of your distortion effects.
+
+''Note: The pull effect is checked against knockback resistance and cannot affect various pinned or immobilized targets.''
+}}

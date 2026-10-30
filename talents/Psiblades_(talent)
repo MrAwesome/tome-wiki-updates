@@ -1,0 +1,22 @@
+{{Ability box
+|game_version=1.7.4
+|image=Psiblades.png
+|name=Psiblades
+|category_type={{ct|Wild-Gift}}
+|category={{c|Mindstar Mastery}}
+|require={{TalentReq/GiftsReq1}}
+|use_mode=Sustained
+|cost=18 Equilibrium
+|cooldown=6
+|use_speed=Mind
+|desc=
+Channel your mental power through your wielded mindstars, generating psionic blades.
+
+Mindstar psiblades have their damage modifiers (how much damage they gain from stats) multiplied by (1.076 + 0.324 * √ Talent Level), their armour penetration by (0.65 + 0.51 * √ Talent Level) and mindpower, willpower and cunning by (1.076 + 0.324 * √ Talent Level).
+
+Also increases Physical Power by 30 and increases weapon damage by 100 * √ (Talent Level / 5) / 1.5 % when using mindstars.
+
+''Note: The damage bonus from this talent applies to the base Willpower and Cunning modifiers on the mindstar, not any other stat-based damage you may have. For example, the +50% magic modifier from the {{t|Arcane Might}} prodigy and the +40% willpower modifier from the {{t|Superpower}} prodigy will not be increased.'''
+|avail.shops=[[Zigur]] ([[Age of Ascendancy]]) via [[Talent#Additional Talent Sources|purchasing]] {{c|Mindstar Mastery}}
+|avail.escorts=[[Escorts#Alchemist_.28Arcane.29|Alchemist (Arcane)]] ([[Escorts#Betraying_to_Zigur|Betray Escort to Zigur]]), +1 to talent or via revealing the locked {{c|Mindstar Mastery}} category
+}}

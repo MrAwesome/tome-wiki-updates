@@ -1,0 +1,16 @@
+{{Ability box
+|image=Dark_reign.png
+|name=Dark Reign
+|category_type={{ct|Corruption}}
+|category={{c|Doom covenant}}
+|require={{TalentReq/SpellsReq1}}
+|use_mode=Passive
+|desc=
+Your affinity for the shadows grow stronger.
+
+Each time you kill or deal damage above 10% of a creature's max life with darkness, you gain 8% to all damage affinity for 8 turns.
+
+You can only gain one stack of Dark Reign per turn.
+
+This effect stacks multiplicatively up to {{cts|1|4.5}} times.
+}}

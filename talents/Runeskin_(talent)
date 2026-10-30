@@ -1,0 +1,13 @@
+{{Ability_box
+|game_version = 1.7.4
+|name = Runeskin
+|image = runeskin.png
+|category_type={{ct|Spell}}
+|category={{c|Necrosis}}
+|require = {{TalentReq/SpellsReq3}}
+|use_mode = Passive
+|desc = 
+As you continue to attune your body to undeath you reject nature as a whole.
+
+As long as you have no natural infusion on your skin, each rune on it adjusts your minimum negative life by negative {{cts|8|30}} and your spells critical chance by {{cts|1|1.8%}}.
+}}

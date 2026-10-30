@@ -1,0 +1,24 @@
+{{Ability_box
+|image=Thermal aura.png
+|name=Thermal Aura
+|category_type=[[Psionic (category type)|Psionic]]
+|category=[[Projection (category)|Projection]]
+|require={{TalentReq/PsiWilReq2}}
+|use_mode=Sustained
+|cost=10 Psi
+|cooldown=10
+|desc=
+Fills the air around you with reactive currents of furnace-like heat.
+
+If you have a gem or mindstar in your psionically wielded slot, this will do {{ctmd|10|40}} Fire damage to all who approach. 
+
+All damage done by the aura will drain one point of energy per (9 + Talent Level) points of damage dealt.
+
+If you have a conventional weapon in your psionically wielded slot, this will add {{ctmd|10|40}} Fire damage to its hits.
+
+When deactivated, if you have at least 6.67 energy, a massive spike of thermal energy is released as a conical blast (radius 6) of superheated air. Anybody caught in it will suffer up to (10 * {{ctmd|10|40}}) fire damage over 3 turns.
+
+Activating the aura takes no time but de-activating it does.
+
+To turn off an aura without spiking it, deactivate it and target yourself.  The damage will improve with your Mindpower.
+}}

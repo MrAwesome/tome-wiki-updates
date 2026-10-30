@@ -1,0 +1,22 @@
+{{Ability box
+|image=Bloodstream.png
+|name=Bloodstream
+|game_version=1.4.6
+|embers_version=1.0.3
+|category_type={{ct|Steamtech}}
+|category={{c|Sawmaiming}}
+|require={{TalentReq/SteamReq2}}
+|use_mode=Activated
+|cost=10 Steam
+|use_speed=Weapon Speed
+|cooldown=8
+|desc=
+You "gently" slam your saws into the wounds of a creature, dealing {{ctwd|30|110%}} weapon damage and deepening the wounds.
+
+All [[Effect#Bleeding|bleeding]] wounds durations are increased by {{ctl|4|1|2}} turns and the damage by {{ctstmd|50|250%}} (this may be done only once per bleeding effect).
+
+When this happens a gush of blood is projected in a narrow cone of radius 4, dealing {{ctstmd|50|230}} physical damage to all creatures.
+The power and damage improves with your Steampower.
+}}
+
+NOTES: 3 turn duration increase breakpoint is at effective talent level 9.

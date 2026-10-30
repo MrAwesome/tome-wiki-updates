@@ -1,0 +1,28 @@
+{{Ability_box
+|game_version=1.4.4
+|image=Charm mastery.png
+|name=Charm mastery
+|category_type=[[Cunning (category type)|Cunning]]
+|category=[[Survival (category)|Survival]]
+|require={{TalentReq/CunsReq2}}
+|use_mode=Passive
+|desc=
+Your cunning manipulations allows you to use charms (wands, totems and torques) more efficiently, reducing their cooldowns by (100 * Talent Level / (Talent Level + 7.5))%.
+}}
+<noinclude>
+{| class="wikitable"
+! Talent Level !! Cooldown Reduction
+|-
+| 1 || {{#expr:floor((100*1)/(1+7.5))}}%
+|-
+| 2 || {{#expr:floor((100*2)/(2+7.5))}}%
+|-
+| 3 || {{#expr:floor((100*3)/(3+7.5))}}%
+|-
+| 4 || {{#expr:floor((100*4)/(4+7.5))}}%
+|-
+| 5 || {{#expr:floor((100*5)/(5+7.5))}}%
+|-
+| 6 || {{#expr:floor((100*6)/(6+7.5))}}%
+|}
+</noinclude>

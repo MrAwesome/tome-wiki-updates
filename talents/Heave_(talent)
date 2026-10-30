@@ -1,0 +1,16 @@
+{{Ability_box
+|image=Heave.png
+|name=Heave
+|category_type=[[Technique (category type)|Technique]]
+|category=[[Field control (category)|Field control]]
+|require={{TalentReq/TechsDexReq3}}
+|use_mode=Activated
+|cost=5 Stamina
+|cooldown=15
+|desc=
+A mighty kick that pushes your target away {{CTS|3|7}} grids.
+
+If another creature is in the way, it will also be pushed away.
+
+The Knockback chance increase with your Accuracy or your Physical Power, whichever is greater.
+}}

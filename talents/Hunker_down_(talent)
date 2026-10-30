@@ -1,0 +1,16 @@
+{{Ability_box
+|game_version = 1.7.6
+|embers_version = 1.1.10
+|name = Hunker Down
+|image = Hunker down.png
+|category_type = {{ct|Steamtech}}
+|category = {{c|Turrets}}
+|require = {{TalentReq/SteamReq4}}
+|cost = 50 Steam
+|range = 0
+|cooldown = 30
+|use_speed = Steamtech
+|desc = Deploy a defensive emplacement around you, summoning 2 guardian turrets in adjacent tiles for {{cts|5|9}} turns. Guardian turrets redirect {{cts|15|50%}} of all damage taken by other adjacent allies (other than fellow guardian turrets) to themselves, and each is armed with a powerful turret capable of firing piercing bullets.
+
+Guardian Turrets gain {{gtl|1|5}} ranks in Steamgun Mastery based on your Hunker Down talent level.
+}}

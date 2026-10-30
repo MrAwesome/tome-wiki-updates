@@ -1,0 +1,20 @@
+{{Ability box
+|game_version=1.7.4
+|image=Aether permeation.png
+|name=Aether Permeation
+|category_type=[[Prodigies]]
+|category=[[Prodigies#Magic|Magic]]
+|require=Magic 50<br />Have been exposed to the void of space
+
+''Examples of the above include the [[Abashed Expanse]], [[Fearscape]], [[Fearscape (Tannen)]], [[Orbital Fearscape Platform]], [[Searing Halls]], or [[Anteroom of Agony]]. A Fearscape Invasion Portal leading to the Orbital Fearscape Platform has a 10.5% spawn chance in the far east.''
+|use_mode=Sustained
+|travel_speed=
+|use_speed=Standard
+|cooldown=20
+|desc=
+You manifest a thin layer of aether all around you. 
+
+Any time you are the target of a dispel effect the aether strengthens around you, protecting you from the dispel and any further ones for 6 turns and unsustaining this spell.
+
+While undisturbed the layer of aether provides you with 40 raw spellpower.
+}}

@@ -1,0 +1,21 @@
+{{Ability box
+|image=Spinal break.png
+|name=Spinal Break
+|game_version=1.4.6
+|embers_version=1.0.3
+|category_type={{ct|Steamtech}}
+|category={{c|Sawmaiming}}
+|require={{TalentReq/SteamReq3}}
+|use_mode=Activated
+|cost=20 Steam
+|use_speed=Weapon Speed
+|cooldown=10
+|desc=
+You try to sever the spine of your foe, reducing its global speed by {{ctl|60|20|50%}} for 4 turns and dealing {{ctwd|60|150%}} weapon damage.
+
+The power of the blow also removes up to {{ctl|4|1|1.5}} physical effects.
+
+If your talent level is at least 3, {{ctl|4|1|1.5}} physical or magical sustains are also removed.
+}}
+
+NOTES: 3 effects/sustains removal breakpoint is at effective talent level 11+.

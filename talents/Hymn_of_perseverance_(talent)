@@ -1,0 +1,19 @@
+{{Ability box
+|image=Hymn of perseverance.png
+|name=Hymn of Perseverance
+|category_type={{ct|Celestial}}
+|category={{c|Hymns}}
+|require={{TalentReq/DiviReq3}}
+|use_mode=Sustained
+|cost=20 Negative
+|cooldown=12
+|use_speed=0
+|desc=
+Chant the glory of the Moon, granting you {{ctl|100%|22|50%}} stun, blindness and confusion resistance.
+
+In addition, this talent surrounds you with a shield of shadows, dealing {{ctspd|10|50}} darkness damage to anything that attacks you.
+
+You may only have one Hymn active at once.
+
+The on-hit damage will increase with your Spellpower.
+}}

@@ -1,0 +1,20 @@
+{{Ability box
+|game_version=1.7.6
+|image=Fungal blood.png
+|name=Fungal Blood
+|category_type=[[Prodigies]]
+|category=[[Prodigies#Constitution|Constitution]]
+|require=Constitution 50<br />Be able to use infusions
+|use_mode=Activated
+|use_speed=Instant
+|desc=
+Fungal spores have colonized your blood, so that each time you use an infusion you store fungal power equal to twice your Constitution plus {{csl|Con|5%|0.5|1%}} of your maximum life.
+
+You may use this prodigy to release the power as a heal (never more than {{csl|Con|50%|10|25%}} of max life) and remove up to 10 detrimental magical effects.
+
+Fungal power lasts for up to 6 turns, losing the greater of 10 potency or 10% of its power each turn.
+
+The amount of fungal power produced and the maximum heal possible increase with your Constitution and maximum life.
+}}
+===Notes===
+*Stored fungal power has no maximum. Power from several infusions adds together, and each new infusion use resets the 6-turn duration.

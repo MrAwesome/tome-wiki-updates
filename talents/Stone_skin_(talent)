@@ -1,0 +1,14 @@
+{{Ability_box
+|image=Stone skin.png
+|name=Stone Skin
+|category_type={{ct|Spell}}
+|category={{c|Earth}}
+|require={{TalentReq/SpellsReq2}}
+|use_mode=Sustained
+|cost=30 Mana
+|cooldown=10
+|desc=
+The caster's skin grows as hard as stone, granting a {{ctspd|10|23}} bonus to Armour.
+
+The bonus to Armour will increase with your Spellpower.
+}}

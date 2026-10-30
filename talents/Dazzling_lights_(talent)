@@ -1,0 +1,15 @@
+{{Ability box
+|image=dazzling_lights.png
+|game_version=1.5.1
+|name=Dazzling Lights
+|category_type={{ct|Psionic}}
+|category={{c|Battle Psionics}}
+|require={{TalentReq/TechsWilReq3}}
+|range=1
+|cost=20 Psi
+|cooldown=14
+|desc=
+Raising your mindstar in the air you channel a bright flash of light through it. Any creatures in radius {{CTS|2|5}} is blinded for {{CTS|3|6}} turns. If any foe in melee range is blinded by the effect, you quickly use that to your advantage by striking them with a blow of your main hand weapon doing {{CTWD|100|210}}% damage.
+
+If you do not have a one handed weapon and a mindstar equipped, but have them in your off set, you instantly automatically switch. The wild psionic powers are incompatible with the focused nature of psiblades.
+}}

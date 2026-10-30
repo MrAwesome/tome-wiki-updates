@@ -1,0 +1,16 @@
+{{Ability box
+|image=Sandman.png
+|name=Sandman
+|category_type={{ct|Psionic}}
+|category={{c|Slumber}}
+|require={{TalentReq/PsiWilReq3}}
+|use_mode=Passive
+|desc=
+Increases the amount of damage you can deal to sleeping targets before reducing the effect duration by a factor of {{ctl|2|1.1|1.5}}, and reduces the sleep immunity of your Insomnia effects by {{ctl|20%|3|10%}}.
+
+These effects will be directly reflected in the appropriate talent descriptions.
+
+The damage threshold bonus will scale with your Mindpower.
+
+''Note: In version 1.2.3, not investing in this talent will result in a small penalty being applied to your sleep abilities due to the scaling functions producing a negative modifier.''
+}}

@@ -1,0 +1,14 @@
+{{Ability_box
+|game_version = 1.7.4
+|image=Quick_recovery_2017.png
+|name=Quick Recovery
+|category_type={{ct|Technique}}
+|category={{c|Combat Veteran}}
+|require={{TalentReq/TechsStrDexReq1}}
+|use_mode=Passive
+|desc=
+''Normal effect:'' Your combat focus allows you to regenerate stamina faster (+{{CTS|0.6|2.5|0.75}} stamina/turn).
+
+''Extra effect as a {{t|Fallen}}:'' Your combat focus allows you to keep your hatred burning ({{CTS|0.2|1|0.75}} hate refunded after spending hate on a talent)<br>
+''As a Fallen, the normal effect is no longer mentioned in the description, but it still happens.''
+}}

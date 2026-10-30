@@ -1,0 +1,16 @@
+{{Ability box
+|image=Uncertainty principle.png
+|name=Uncertainty principle
+|game_version=1.7.6
+|embers_version=1.1.10
+|category_type={{ct|Steamtech}}
+|category={{c|Psionic fog}}
+|require={{TalentReq/PsiWilReq4}}
+|use_mode=Passive
+|cooldown={{CTS|15|7}}(no less than 3)
+|desc=While inside a psionic fog the quantum state of space is warped by your powerful tech-augmented psionic powers.
+
+When you would get hit you instead find yourself in an adjacent location.
+
+This effect has a cooldown.
+}}

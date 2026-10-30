@@ -1,0 +1,12 @@
+{{Ability box
+|image=Golem crush.png
+|name=Golem Crush
+|category_type={{ct|Golem}}
+|category={{c|Golem Fighting}}
+|require={{TalentReq/TechsReq3}}
+|cooldown=10
+|range=5
+|cost=5 Stamina
+|desc=
+Your golem rushes to the target, crushing it into the ground for {{cts|3|7}} turns and doing {{ctwd|80|160%}} damage.
+}}

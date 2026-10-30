@@ -1,0 +1,11 @@
+{{Ability box
+|name=Demonic Blood
+|category_type={{ct|Corruption}}
+|category={{c|Demonic Strength}}
+|require={{TalentReq/StrCorrsReq3}}
+|use_mode=Passive
+|desc=
+Demonic Blood flows through your veins, increasing your spellpower by {{cts|7|25}} and your maximum vim by {{cts|8|40}}.
+
+Additionally, you will recieve a bonus to all damage equal to {{cts|5|10}}% of your current vim.
+}}

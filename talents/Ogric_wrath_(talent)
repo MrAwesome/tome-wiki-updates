@@ -1,0 +1,20 @@
+{{Ability box
+|game_version=1.7.6
+|image=Ogre wrath.png
+|name=Ogric Wrath
+|category_type={{ct|Race}}
+|category={{c|Ogre}}
+|require={{TalentReq/RacialReq1}}
+|cooldown={{ctl|10|45|25}}
+|use_speed=0
+|desc=
+You enter an ogric wrath for {{css|Str|5|12}} turns, increasing your stun and pinning resistances by 20% and all damage done by 10%.
+
+In addition, whenever you use an infusion or rune, miss a melee attack or any damage you deal is reduced by a damage shield or similar effect you gain a charge of Ogre Fury(up to 5 charges, each lasts 7 turns).
+
+Each charge grants 20% critical damage power and 5% critical strike chance.
+
+You lose a charge each time you deal a critical strike.
+
+The duration will increase with your Strength.
+}}

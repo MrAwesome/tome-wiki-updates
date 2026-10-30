@@ -1,0 +1,19 @@
+{{Ability_box
+|game_version = 1.7.6
+|name = Blood Rush
+|image = Blood_rush.png
+|category_type = {{ct|Cursed}}
+|category = {{c|Bloodstained}}
+|require = {{TalentReq/CursedStrReq1}}
+|use_mode = Activated
+|cost = 4 Hate, Gain 5 Positive
+|range = 8
+|cooldown = 12
+|use_speed = Mind
+|desc = 
+Teleport to an enemy, striking them for 100% weapon damage, bleeding them for {{ctwd|70|210}}% weapon damage over five turns, and marking them for six turns. You will not teleport if you are already adjacent.
+
+When the marked enemy dies, the cooldown of this talent will be reduced by two turns for every turn the mark had remaining.
+
+Each point in Bloodstained talents reduces the amount of damage you take from bleed effects by 2%
+}}

@@ -1,0 +1,16 @@
+{{Ability box
+|image=Seismic activity.png
+|name=Seismic Activity
+|game_version=1.4.6
+|embers_version=1.0.3
+|category_type={{ct|Steamtech}}
+|category={{c|Battle Machinery}}
+|require={{TalentReq/SteamReq4}}
+|use_mode=Passive
+|desc=
+On its last pulse, your Tremor Engine shakes violently, raising a volcano for {{cts|2|6}} turns.
+Each turn, the volcano will send out fiery boulders that deal ({{ctstmd|10|200}}/2) fire and  ({{ctstmd|10|200}}/2) physical damage.
+
+Damage scales with your Steampower.
+
+}}

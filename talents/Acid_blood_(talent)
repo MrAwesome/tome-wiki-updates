@@ -1,0 +1,17 @@
+{{Ability box
+|image=Acid blood.png
+|name=Acid Blood
+|game_version=1.7.4
+|category_type={{ct|Corruption}}
+|category={{c|Reaving Combat}}
+|require={{TalentReq/StrCorrsReq4}}
+|use_mode=Passive
+|desc=
+Your blood turns into an acidic mixture. When you get hit, the attacker is splashed with acid.
+
+This deals {{ctspd|5|30}} acid damage each turn for 5 turns, and reduces the attacker's Accuracy by {{ctspd|15|35}}.
+
+At level 3, it will also reduce Armour by {{ctspd|15|40}} for 5 turns.
+
+The damage will increase with your Spellpower.
+}}

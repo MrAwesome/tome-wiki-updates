@@ -1,0 +1,18 @@
+{{Ability_box
+|game_version = 1.7.4
+|name = Golden Age of Necromancy
+|image = golden age of necromancy.png
+|category_type={{ct|Spell}}
+|category={{c|Age of Dusk}}
+|require = {{TalentReq/SpellsReqHigh4}}
+|use_mode = Sustained
+|cost = 50 Mana
+|cooldown = 30
+|use_speed = Spell
+|desc = 
+You recall the age long gone where necromancers had free reign over the world.
+
+Increases all saves by {{cts|10|55}}, confusion and teleport resistances by {{ctl|100%|20|50%}}.
+
+At level 5 any time you cross the 1 life threshold you become invulnerable for 1 turns.
+}}

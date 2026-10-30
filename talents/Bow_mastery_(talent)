@@ -1,0 +1,13 @@
+{{Ability box
+|game_version=1.4.5
+|image=Bow mastery.png
+|name=Bow Mastery
+|category_type={{ct|Technique}}
+|category={{c|Archery - Bows}}
+|require=Dexterity (18,24,30,36,42)
+|use_mode=Passive
+|desc=
+Increases Physical Power by (10 * Talent Level) and increases weapon damage by (22.36 * √ Talent Level)% when using bows.
+
+Your reload rate is also increased by {{cts|0|2.7|log}}.
+}}

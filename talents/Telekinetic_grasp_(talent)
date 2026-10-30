@@ -1,0 +1,19 @@
+{{Ability_box
+|game_version=1.7.4
+|image=Telekinetic grasp.png
+|name=Telekinetic Grasp
+|category_type={{ct|Psionic}}
+|category=Other
+|require=Learn any of the [[Mindslayer]]'s {{ct|Psionic}} talents
+|cooldown=0
+|cost= 0 Psi
+|use_speed=Standard
+|desc=
+Telekinetically grasp a weapon or gem using mentally-directed forces, holding it aloft and bringing it to bear with the power of your mind alone.
+
+Note: The normal restrictions on worn equipment do not apply to this item.
+
+''This is automatically learned upon learning any of the [[Mindslayer]]'s {{ct|Psionic}} talents, except for {{c|Augmented Mobility}} talents (since they are available from [[Escorts]], etc).''
+
+''You can only telekinetically grasp one item at a time. The type of grasped item determines the effects of {{t|Beyond the Flesh}} (see that talent's page for the effects). To activate Beyond the Flesh, an item must first be grasped, either by using this talent or by starting with an item grasped.''
+}}

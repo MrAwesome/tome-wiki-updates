@@ -1,0 +1,15 @@
+{{Ability box
+|game_version=1.4.5
+|image=Blink blade.png
+|name=Blink blade
+|category_type={{ct|Chronomancy}}
+|category={{c|Blade Threading}}
+|require={{TalentReq/ChronoReq2}}
+|cost=12 Paradox
+|cooldown=8
+|range={{cts|5|9|0.5|0S|1A}}
+|use_speed=Weapon Speed
+|desc=Teleport to the target and attack with your melee weapons for {{ctwd|40|100%}} damage.  Then teleport next to a second random enemy, attacking for {{ctwd|40|100%}} damage.
+Blink Blade can hit the same target multiple times.
+
+}}

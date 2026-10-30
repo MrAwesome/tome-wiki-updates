@@ -1,0 +1,26 @@
+{{Ability box
+|game_version=1.7.4
+|name=Antimagic Zone
+|image=Aura of silence.png
+|category_type={{ct|Wild-Gift}}
+|category={{c|Antimagic}}
+|require={{TalentReq/GiftsReq2}}
+|range=6
+|cooldown=20
+|cost=20 Equilibrium
+|use_speed=Mind
+|desc=
+Let out a burst of sound that silences for 3 turns all those affected in a radius of 3.
+
+Each turn for 6 turns the effected area will cause manaburn damage to all creatures inside.
+
+The damage is the higher of {{ctpd|1|110}} or {{ctmd|1|110}}.
+
+For each creature silenced your equilibrium is reduced by {{cts|5|29}} (up to 5 times).
+
+The damage and apply power will increase with the greater of your Mindpower or Physical power.
+
+Learning this talent will let your Nature damage and penetration bonuses apply to all Manaburn damage regardless of source.
+
+''Note: the damage shown in this talent's description is only its base damage, and will be further multiplied by nature and arcane damage modifiers, plus a critical hit check''
+}}

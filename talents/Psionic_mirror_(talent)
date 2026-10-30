@@ -1,0 +1,16 @@
+{{Ability box
+|image=Psionic mirror.png
+|name=Psionic mirror
+|game_version=1.7.6
+|embers_version=1.1.10
+|category_type={{ct|Steamtech}}
+|category={{c|Thoughts of iron}}
+|require={{TalentReq/SteamReq3}}
+|cooldown=20
+|cost=30 Steam
+|range=5
+|use_speed=0
+|desc=You cleanse your mind of {{CTS|1|5}} mental debuffs.
+
+Cleansed effects will be randomly sent to closeby foes (range 5, subject to a mental save).
+}}

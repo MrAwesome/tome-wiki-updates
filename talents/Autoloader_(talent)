@@ -1,0 +1,21 @@
+{{Ability box
+|image = Autoloader.png
+|name = Autoloader
+|game_version = 1.7.6
+|embers_version = 1.1.10
+|category_type = {{ct|Steamtech}}
+|category = {{c|Gadgets}}
+|require = {{TalentReq/SteamReq1}}
+|use_mode = Passive
+|desc = You link your weapons and shield to your steam generators, using them to load ammunition and improve the power of your weapons. 
+
+Each time you fire your Steamgun, you have a {{ctl|100|25|75%}} chance to reload 1 Heavy Weapon ammo.
+
+Each time you fire a Heavy Weapon you reload {{cts|1|3}} ammo.
+
+Each time you raise your shield to block, you reload 1 Heavy Weapon ammo.
+
+This also increases weapon damage by 34-76% (100*√(Talent Level/5)/1.5) and Physical Power by 30 when using steamguns or heavy weapons.
+
+In addition, your steamgun and heavy weapon shots now bypass friendly targets harmlessly.
+}}

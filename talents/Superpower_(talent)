@@ -1,0 +1,15 @@
+{{Ability box
+|game_version=1.5.10
+|image=Superpower.png
+|name=Superpower
+|category_type=[[Prodigies]]
+|category=[[Prodigies#Strength|Strength]]
+|require=Strength 50
+|use_mode=Passive
+|desc=
+A strong body is key to a strong mind, and a strong mind can be powerful enough to make a strong body.
+
+This prodigy grants a Mindpower bonus equal to 60% of your Strength.
+
+Additionally, you treat all weapons as having an additional 40% Willpower modifier.
+}}

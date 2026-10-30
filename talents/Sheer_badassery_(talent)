@@ -1,0 +1,20 @@
+This talent is gained from an [[Online Event]] that is sent out sometimes by [[DarkGod]].
+
+{{Ability_box
+|game_version = 1.7.4
+|name = Sheer Badassery
+|image = Sheer Badassery.png
+|category_type = {{ct|Other}}
+|category = {{c|Other}}
+|cooldown = 15
+|use_speed = Standard
+|desc = You take an incredibly badass pose for a brief moment.
+
+Any creature in radius 5 around you is awed by such sheer badassery.
+
+Even creatures that can not speak will be granted speech to compliment your incredible badassitude!
+
+''Note: Enemies are awed for 10 turns. If 100 enemies die while awed, the player gains the [[achievement]] '''Sheer Badassery!'''''
+}}
+
+[[Category: Online Events]]

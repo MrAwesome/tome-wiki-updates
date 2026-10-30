@@ -1,0 +1,27 @@
+{{Ability box
+|game_version = 1.7.4
+|image=hiemal_shield.png
+|name=Hiemal Shield
+|category_type={{ct|Spell}}
+|category={{c|Glacial Waste}}
+|require={{TalentReq/SpellsReq1}}
+|use_mode=Sustained
+|cost=1 Soul and 30 Mana (only to activate)
+|cooldown=25
+|use_speed = Spell
+|range=10
+|desc=
+Conjure a shield of ice around you that can absorb a total of {{ctspd|10|450}} damage.
+
+Anytime it does it retaliates by sending a bolt of ice at the attacker, dealing {{ctspd|10|60}} cold damage (this can only happen once per turn per creature).
+
+When you are above 1 life it only affects 66.6% of the damage, letting through the rest.
+
+When you are under 1 life it affects 100% of the damage and also reduces the damage of critical hits by {{cts|10|40%|0.75}}.
+
+10 turns after leaving combat the shield will consume its mana and soul cost again to fully regenerate if needed. If that cost can not be matched, it unsustains.
+
+The shield strength will increase with your Spellpower.
+
+''Note: There are two playstyles for using this talent. One is to keep Hiemal Shield up to maximize retaliation damage and effects. The other is to activate Hiemal Shield only when one is in danger of dying, in order to maximize the protection it gives.''
+}}

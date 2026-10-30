@@ -1,0 +1,13 @@
+{{Ability_box
+|game_version=1.4.9
+|image=Stone fortress.png
+|name=Stone fortress
+|category_type={{ct|Wild-gift}}
+|category={{c|Earthen power}}
+|require={{TalentReq/GiftsReq2}}
+|use_mode=Passive
+|desc=
+When you use your Resilience of the Dwarves racial power your skin becomes so tough that it even absorbs damage from non-physical attacks.
+
+Non-physical damage is reduced by {{CTL|200|60|100}}% of your total armour value (ignoring hardiness).
+}}

@@ -1,0 +1,14 @@
+{{Ability box
+|image=Hateful whisper.png
+|name=Hateful Whisper
+|category_type={{ct|Cursed}}
+|category={{c|Punishments}}
+|require={{TalentReq/CursedCunReq2}}
+|range=5
+|cost=12 Hate
+|cooldown=10
+|desc=
+Send a whisper filled with hate to spread throughout your foes. When the whisper is first heard, they will suffer {{ctmd|0|300}} mind damage and feed you 2 hate. For the first (Raw Talent Level) turns{{sup|max 3}}, the whisper will travel from the original victim to a new one within a range{{sup|max 6}} of (2 * Talent Level). Every victim of the whisper has a (15 * √ Talent Level)% chance{{sup|max 40%}} of spreading it to another victim every turn.
+
+There is a 25% chance of inflicting cross tier effects. The damage increases with your Mindpower.
+}}

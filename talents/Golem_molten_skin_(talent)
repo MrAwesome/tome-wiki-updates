@@ -1,0 +1,22 @@
+{{Ability box
+|image=Golem molten skin.png
+|name=Golem Molten Skin
+|category_type={{ct|Golem}}
+|category={{c|Golem Arcane}}
+|require={{TalentReq/SpellsReq4}}
+|cooldown=15
+|range=0
+|cost=60 Mana
+|desc=
+Turns the golem's skin into molten rock. The heat generated sets ablaze everything inside a radius of 3, doing {{ctspd|12|120}} fire burn damage each turn for (5 + Talent Level) turns.
+
+Fire burn deals 50% of its damage immediately, and the remaining 50% over 3 turns.
+
+Burning is cumulative; the longer they stay within range, they higher the fire damage they take.
+
+In addition the golem gains (30 + {{ctspd|12|60}})% fire resistance.
+
+Molten Skin damage will not affect the golem's master.
+
+The damage and resistance will increase with your Spellpower.
+}}

@@ -1,0 +1,13 @@
+{{Ability_box
+|image=intuitive_shots.png
+|name=Intuitive Shots
+|category_type={{ct|Technique}}
+|category={{c|Archery Excellence}}
+|require={{TalentReq/TechsDexReqHigh3}}
+|use_mode=Sustained
+|cost=30 Stamina
+|cooldown=10
+|use_speed=Instant
+|desc=
+Activating this talent enhances your reflexes to incredible levels.  Each time you are attacked in melee, you have a {{ctl|40%|10|30%}} chance get a defensive shot off in time to intercept the attack, fully disrupting it (including extra blows from certain talents), dealing {{ctwd|20|60%}} archery damage.
+}}

@@ -1,0 +1,16 @@
+{{Ability_box
+|name=Device Mastery
+|image=Charm mastery.png
+|game_version=1.7.6
+|category_type={{ct|Cunning}}
+|category={{c|Survival}}
+|require={{TalentReq/CunsReq2}}
+|use_mode=Passive
+|desc=
+Your cunning manipulations allows you to use charms (wands, totems and torques) more efficiently, reducing their cooldowns and the power cost of all usable items by {{ctl|100%|15|40%}} (mastery level of {{c|Survival}} is set to 1.0 for this calculation).
+
+In addition your knowledge of devices allows you to disarm known traps, using a disarm power of {{cs|(0.25 * Cun * Talent Level)|10|3.75|90|125|0.25}}.
+
+''The disarm power shown here in-game also includes any trap disarming bonuses you may have (from items), which are added to the number given by this formula.''
+|avail.escorts=[[Escorts#Thief|Thief]] via revealing the locked {{c|Survival}} category
+}}

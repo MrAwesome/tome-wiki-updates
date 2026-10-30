@@ -1,0 +1,17 @@
+{{Ability_box
+|image=Rockswallow.png
+|name=Rockswallow
+|category_type={{ct|Wild-gift}}
+|category={{c|Earthen Vines}}
+|require={{TalentReq/GiftsReq4}}
+|use_mode=Activated
+|range=20.0
+|cost=15 equilibrium
+|cooldown={{ctl|0|11|7}}
+|travel_speed=instantaneous
+|use_speed=Standard
+|desc=
+Merge your target (within range 20) with one of your stone vines that has seized it, forcing it to traverse the vine and reappear near you.
+Merging with the stone is detrimental for the target, dealing 80 + {{ctstd|Wil|40|330}} physical damage.
+The damage will increases with your Willpower.
+}}

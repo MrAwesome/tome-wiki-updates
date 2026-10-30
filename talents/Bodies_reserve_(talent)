@@ -1,0 +1,12 @@
+{{Ability_box
+|image=Bodies_reserve.png
+|name=Bodies Reserve
+|game_version=1.5.10
+|category_type={{ct|Psionic}}
+|category={{c|Body snatcher}}
+|require={{TalentReq/PsiWilReq1}}
+|use_mode=Passive
+|desc=
+Your mind is so powerful it can bend reality, providing you with an extra-natural ''storage'' for bodies you snatch.<br>
+You can store up to ceil(2*({{gtl|1|5}})+1) bodies. ''(max 15)
+}}

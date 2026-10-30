@@ -1,0 +1,16 @@
+{{Ability_box
+|image=Teleport_2017.png
+|name=Teleport
+|category_type={{ct|Spell}}
+|category={{c|Conveyance}}
+|require={{TalentReq/SpellsReq2}}
+|range=100 + Spellpower
+|cost=20 Mana
+|cooldown=30
+|desc=
+Teleports you randomly within a large range (100 + Spellpower), with a minimum range of 15.
+
+At level 4, it allows you to specify which creature to teleport.
+
+At level 5, it allows you to choose the target area (radius {{ctl|0|19|15}}).
+}}

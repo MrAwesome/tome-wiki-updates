@@ -1,0 +1,13 @@
+{{Ability_box
+|game_version=1.7.6
+|image=Stoneskin_2017.png
+|name=Stoneskin
+|category_type={{ct|Race}}
+|category={{c|Dwarf}}
+|require={{TalentReq/RacialReq2}}
+|use_mode=Passive
+|desc=
+Dwarf skin is a complex structure, it can automatically react to physical blows to harden itself.
+
+When you are hit in melee, you have a 15% chance to increase your Armour total by {{cts|6|40}} for 5 turns and fully ignore the attack triggering it. There is no cooldown to this effect, it can happen while already active.
+}}

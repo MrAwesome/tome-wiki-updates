@@ -1,0 +1,18 @@
+{{Ability box
+|game_version = 1.7.4
+|forbidden_version = 1.0.12
+|image=Consume_Whole.png
+|name=Consume Whole
+|category_type={{ct|Demented}}
+|category={{c|Slow Death}}
+|require={{TalentReq/SpellsReq4}}
+|use_mode=Active
+|cooldown=14
+|use_speed=Spell
+|desc=
+Instantly consume what remains of your victim, healing yourself for 40+{{ctspd|10|520}} life and generating {{CTS|8|20}}+20 insanity.
+
+Activating this will reset the cooldown of your Digest talent.
+
+The life healed will increase with your Spellpower.
+}}

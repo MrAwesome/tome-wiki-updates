@@ -1,0 +1,15 @@
+{{Ability_box
+|image=coup_de_grace.png
+|name=Coup de Grace
+|game_version=1.5.2
+|category_type=[[Technique (category type)|Technique]]
+|category=[[Assassination (category)|Assassination]]
+|require={{TalentReq/TechsDexReqHigh1}}
+|cost=24 Stamina
+|cooldown=8
+|travel_speed=Instantaneous
+|use_speed=Weapon
+|desc=
+Attempt to finish off a wounded enemy, striking them with both weapons for {{cTWD|100|150%}} weapon damage, plus additional physical damage for each hit that lands equal to {{cTL|30%|10|20%}} of their missing life (divided by rank: from 1 (critter) to 5 (elite boss)). A target brought below 20% of its maximum life may be instantly slain.
+You may take advantage of finishing your foe this way to activate stealth (if known). 
+}}

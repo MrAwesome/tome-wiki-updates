@@ -1,0 +1,10 @@
+{{Ability_box
+|name=Lay Web
+|category_type=Wild-gift
+|category=Other
+|game_version=1.4.9
+|range=10
+|cost=4 Equilibrium
+|cooldown=6
+|desc=Lay a concealed web under yourself, pinning all non-spiderkin that pass through it for {{cts|3|7}} turns.
+}}

@@ -1,0 +1,13 @@
+{{Ability_box
+|game_version=1.4.6
+|image=Sling mastery.png
+|name=Sling Supremacy
+|category_type={{ct|Technique}}
+|category={{c|Skirmisher - Slings}}
+|require=Dex (18,24,30,36,40)
+|use_mode=Passive
+|desc=
+Increases Physical Power by (10 * Talent Level) and increases weapon damage by (22.4 * √ Talent Level)% when using slings.
+
+Also, increases your reload rate by {{cts|0|2.7|log}}.
+}}

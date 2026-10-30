@@ -1,0 +1,19 @@
+{{Ability box
+|image=Ice_shards_2017.png
+|name=Ice Shards
+|game_version=1.7.6
+|category_type={{ct|Spell}}
+|category={{c|Water}}
+|require={{TalentReq/SpellsReq1}}
+|use_mode=Activated
+|cost=12 Mana
+|cooldown=3
+|range=10
+|travel_speed=800% of base
+|use_speed=Spell
+|desc=Hurl ice shards at the targets in the selected area. Each shard travels slowly and does {{ctspd|18|200}} {{ice}} damage, hitting all adjacent targets on impact with 25% chance to freeze them.<br />If the target resists being frozen, it instead gets wet.<br />If the target is wet the damage increases by 30% and the ice freeze chance increases to 50%.<br />This spell will never hit the caster.<br />The damage will increase with your [[Spellpower]].
+|avail=Item: [[Shieldsmaiden]], [[Staff Egos|Imbued]] staves.
+|avail.classes=[[Archmage]]
+}}
+===Notes===
+*Wet also attempts to be applied if the target is immune to freeze.

@@ -1,0 +1,18 @@
+{{Ability_box
+|image=Aegis_2017.png
+|name=Aegis
+|category_type={{Ct|Spell}}
+|category={{c|Aegis}}
+|require={{TalentReq/SpellsReq4}}
+|cost=50 Mana
+|cooldown=25
+|use_speed=0
+|desc=
+Release arcane energies into any magical shield currently protecting you, further charging it by (40 + {{ctspd|5|500}} / 10)% of its max absorb value.
+
+It will affect at most {{cts|3|7|log}} shield effects.
+
+Affected shields are: Damage Shield, {{t|Time Shield}}, {{t|Displacement Shield}}, and {{t|Disruption Shield}}.
+
+The charging will increase with your Spellpower.
+}}

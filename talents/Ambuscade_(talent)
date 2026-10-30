@@ -1,0 +1,24 @@
+{{Ability_box
+|image=Ambuscade.png
+|name=Ambuscade
+|category_type={{ct|Cunning}}
+|category={{c|Ambush}}
+|require={{TalentReq/CunsReqHigh3}}
+|cost=35 Stamina and 35 Mana
+|cooldown=20
+|desc=
+You take full control of your own shadow for {{cts|4|8}} turns.
+
+Your shadow possesses your talents and stats, -30% all resistances, -100% light resistance and 100% darkness resistance.
+
+The percentage of your health that your shadow will have is {{cl|{{ctspd|20|500}}|100%|20|0|58.4%|384}}.
+
+Your shadow gains a damage bonus of {{cl|{{ctspd|10|500}}|160%|40%|0|76.1%|361}}.
+
+Your shadow is permanently stealthed with a stealth power of {{cs|(0.15 * Cun * Talent Level)|25|0|100|75}}.
+
+All melee damage dealt by your shadow is converted into darkness damage.
+
+If you release control early or if it leaves your sight for too long, your shadow will dissipate.
+}}
+[[Category:Removed Talents]][[Category:Unused Talents]]

@@ -1,0 +1,23 @@
+{{Ability box
+|image=Turtle.png
+|name=Turtle
+|category_type={{ct|Wild-Gift}}
+|category={{c|Summoning (Utility)}}
+|require={{TalentReq/GiftsReq1}}
+|cost=2 Equilibrium
+|cooldown=10
+|range=5
+|desc=
+Summon a Turtle to distract your foes. Turtles are resilient, but not very powerful. However, they will periodically force any foes to attack them, and can protect themselves with their shell.
+
+The Turtle will last for a duration of {{cs|(Talent Level)|5|0|10|5}}.
+
+It will receive the following stats:
+*Dexterity: 10 + {{cts|2|10|0.75}}
+*Constitution: 15 + 2.1 * Mindpower * {{cts|0.2|1|0.75}}
+*Willpower: 18
+
+Your summons inherit some of your stats: increased damage %, stun/pin/confusion/blindness resistance, armour penetration.
+
+Their Constitution will increase with your Mindpower.
+}}

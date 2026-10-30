@@ -1,0 +1,31 @@
+{{Ability box
+|game_version=1.7.6
+|image=Cursed sentry.png
+|name=Cursed Sentry
+|category_type={{ct|Cursed}}
+|category={{c|Cursed Aura}}
+|require={{TalentReq/CursedLevReq4}}
+|use_mode=Activated
+|range=5
+|cooldown=40
+|use_speed=Mind
+|desc=
+Instill a part of your living curse into a weapon in your inventory, and toss it nearby. This nearly impervious sentry will attack all nearby enemies for {{cts|8|16}} turns. When the curse ends, the weapon will drop to the ground.
+
+Cursed Sentry attack speed ({{cts|60|140}}%) will improve with talent level.
+
+When you first select a weapon, it will be remembered and used as long as it's in your inventory. Use Choose Cursed Sentry talent to alter your selection.
+
+At talent level 3, you get the ability to afflict powerful mundane objects (greater [[Ego|egos]]).
+
+At talent level 5, you can corrupt [[Artifact|artifacts]].
+|avail.classes=[[Cursed]], [[Doomed]]
+}}
+===Notes===
+*Although Steamsaws and steamguns can be selected the attempt fails without a cooldown; the sentry currently isn't programmed to summon with {{t|Steam Pool}}.
+*The weapon doesn't actually drop to the ground in the current version. When the sentry dies or its time runs out, the weapon returns to your inventory.
+*The duration is rounded down.
+*Weapons the sentry can be made from, by talent level (item ranks are listed on [[Rank]] or colored cheatsheet below):
+**Any level: no ego, '''{{color|#00FF80|lesser egos}}'''
+**Level 3: '''{{color|#0080FF|one greater ego}}''', '''{{color|#FA8072|rare}}'''
+**Level 5: '''{{color|#8d55ff|two greater egos}}''', '''{{color|#FA8072|rare}}''' (with a greater ego), '''{{color|#FF7700|random artifacts}}''', '''{{color|#FFD700|artifacts}}'''

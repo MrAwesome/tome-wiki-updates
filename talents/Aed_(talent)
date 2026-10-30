@@ -1,0 +1,20 @@
+{{Ability box
+|image = Aed.png
+|name = AED
+|game_version = 1.7.6
+|embers_version = 1.1.10
+|category_type = {{ct|Steamtech}}
+|category = {{c|Gadgets}}
+|require = {{TalentReq/SteamReq4}}
+|cooldown = 30
+|cost = 25 Steam
+|range = 0
+|use_speed = Steamtech
+|desc = Prepare a defensive device that stores an electrical charge for 8 turns.
+
+If your life falls below 0 while the AED is active it will activate to shock you back into life, negating the triggering attack, restoring {{ctstmd|50|500}} life and dealing {{ctstmd|30|320}} {{lightning}} damage in radius {{cts|2|5.6}} that dazes affected enemies for 3 turns.
+
+If the AED does not activate, the cooldown is reduced by 15 turns.
+
+The healing and damage will increase with your Steampower.
+}}

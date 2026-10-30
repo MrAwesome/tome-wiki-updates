@@ -1,0 +1,14 @@
+{{Ability_box
+|name=Augment despair
+|image=Augment Despair.png
+|game_version=1.6.4
+|category_type={{ct|Demented}}
+|category={{c|Scourge drake}}
+|require={{TalentReq/SpellsReq3}}
+|use_mode=Activated
+|cooldown=12
+|cost=-20 Insanity
+|range=7
+|desc=
+You target a single creature with all your hatred and insanity, augmenting its despair, increasing the duration of detrimental effects by {{cts|1|5}} turns and dealing {{ctspd|15|120}} or {{ctmd|15|120}} blight damage per detrimental effect (each effect deals 75%% of the previous one).
+The damage will scale with the highest of your spell or mind power.}}

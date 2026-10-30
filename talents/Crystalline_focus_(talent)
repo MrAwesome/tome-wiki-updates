@@ -1,0 +1,14 @@
+{{Ability_box
+|image=Crystalline_focus_2017.png
+|name=Crystalline Focus
+|category_type={{ct|Spell}}
+|category={{c|Stone}}
+|require={{TalentReq/SpellsReqHigh4}}
+|use_mode=Sustained
+|cost=50 Mana
+|cooldown=30
+|desc=
+Concentrate on maintaining a Crystalline Focus, increasing all your physical damage by (2 * Raw Talent Level)% and ignoring {{ctl|100%|17|50%|raw}} physical resistance of your targets.
+
+Also raises your physical and magical saves by (5 * Talent Level).
+}}

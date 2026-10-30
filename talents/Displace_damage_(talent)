@@ -1,0 +1,13 @@
+{{Ability box
+|image=Displace damage.png
+|name=Displace Damage
+|category_type={{ct|Chronomancy}}
+|category={{c|Spacetime Folding}}
+|require={{TalentReq/TemporalReq3}}
+|use_mode=Sustained
+|cost=125 Paradox
+|cooldown=10
+|use_speed=0
+|desc=
+Space bends around you, giving you a {{ctl|50%|10|30%}} chance to displace half of any damage you receive onto a random enemy within a radius of {{cts|2|10.1|log|2S}}.
+}}

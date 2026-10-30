@@ -1,0 +1,18 @@
+{{Ability box
+|game_version=1.7.0
+|image=Black_Ice.png
+|name=Black Ice
+|category_type={{ct|Spell}}
+|category={{c|Grave}}
+|require={{TalentReq/SpellsReq1}}
+|cost=7 Mana
+|cooldown=4
+|range=10
+|travel_speed=instantaneous
+|use_speed=Spell
+|desc=
+Summon an icy spike directly on a foe, impaling it for {{ctspd|20|250}} cold damage.
+At level 5 it hits all foes in range 1 around the target.
+Any creature hit will take FLOOR({{cts|10|30}}%} more damage from your necrotic minions for 3 turns.
+The damage will increase with your Spellpower.
+}}

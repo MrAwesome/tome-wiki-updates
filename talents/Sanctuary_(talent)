@@ -1,0 +1,14 @@
+{{Ability box
+|image=Sanctuary.png
+|name=Sanctuary
+|category_type={{ct|Cursed}}
+|category={{c|Gloom}}
+|require={{TalentReq/CursedWilReq4}}
+|use_mode=Passive
+|desc=
+Your gloom has become a sanctuary from the outside world. Damage from any attack that originates beyond the boundary of your gloom is reduced by (3.32 * √ Talent Level)%.
+
+Each point in Sanctuary increases the Mindpower of all {{t|Gloom}} effects.
+
+The total mindpower bonus is {{cs|(Total Talent Levels in {{c|Gloom}} category)|1|1|20|20|0.75}}.
+}}

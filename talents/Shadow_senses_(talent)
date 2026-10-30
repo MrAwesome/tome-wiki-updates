@@ -1,0 +1,12 @@
+{{Ability_box
+|image=shadow_senses.png
+|name=Shadow Senses
+|category_type={{ct|Cursed}}
+|category={{c|One With Shadows}}
+|require={{TalentReq/CursedCunReqHigh1}}
+|use_mode=Passive
+|desc=
+Your awareness extends to your shadows.
+
+You always know exactly where your shadows are and can perceive any foe within {{cts|1|5|1}} tiles of their vision.
+}}

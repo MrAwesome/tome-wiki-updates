@@ -1,0 +1,13 @@
+{{Ability box
+|game_version=1.4.3
+|image=Echoes from the past.png
+|name=Echoes from the Past
+|category_type={{ct|Chronomancy}}
+|category={{c|Time Travel}}
+|require={{TalentReq/ChronoReq4}}
+|cost=24 Paradox
+|cooldown=12
+|desc=
+Creates a temporal echo in a nova around you, in a radius of {{cts|2|6}}.  Affected targets will take {{ctspd|20|220|PM}} temporal damage, as well as up to ({{ctl|60|20|40}})% of the difference between their current life and max life as additional temporal damage.
+The additional damage will be divided by the target's rank and the damage scales with your Spellpower.:
+}}

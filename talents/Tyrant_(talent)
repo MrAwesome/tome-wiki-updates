@@ -1,0 +1,17 @@
+{{Ability box
+|image=Tyrant.png
+|name=Tyrant
+|category_type={{ct|Cursed}}
+|category={{c|Fears}}
+|require={{TalentReq/CursedWilReq3}}
+|use_mode=Passive
+|desc=
+Impose your tyranny on the minds of those who fear you. Your mindpower is increased by (7 * √ Talent Level) against foes who attempt to resist your fears. 
+
+You gain 2 new fears:
+
+*The Haunted effect causes each existing or new fear effect that the target suffers from to inflict {{ctmd|40|60}} mind damage.
+*The Tormented effect causes (4 + Raw Talent Level <sup>0.7</sup>) apparitions (maximum 9) to manifest and attack the target, inflicting {{ctmd|40|60}} mind damage each before disappearing.
+
+Fear effects improve with your Mindpower.
+}}

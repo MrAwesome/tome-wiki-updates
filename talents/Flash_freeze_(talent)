@@ -1,0 +1,16 @@
+{{Ability box
+|name=Flash Freeze
+|image=Flash freeze.png
+|category_type={{ct|Spell}}
+|category={{c|Frost Alchemy}}
+|require={{TalentReq/SpellsReq3}}
+|cost=30 Mana
+|cooldown=20
+|use_speed=0
+|desc=
+Invoke a blast of cold all around you with a radius of {{cts|2|6}}, doing {{ctspd|10|250}} Cold damage and freezing enemies to the ground for a duration of {{cs|(0.03 * Spellpower * Talent Level)|2|0|10|8}}.
+
+Affected creatures can still act, but cannot move.
+
+The duration will increase with your Spellpower.
+}}

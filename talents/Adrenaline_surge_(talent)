@@ -1,0 +1,15 @@
+{{Ability box
+|image=Adrenaline_surge_2017.png
+|name=Adrenaline Surge
+|category_type={{ct|Technique}}
+|category={{c|Conditioning}}
+|require={{TalentReq/TechsConReq4}}
+|cost=0
+|cooldown=24
+|use_speed=0
+|desc=
+You release a surge of adrenaline that increases your Physical Power by {{ctstd|Con|5|25}} for {{ctl|24|3|7}} turns. While the effect is active, you may continue to fight beyond the point of exhaustion.
+
+Your stamina based sustains will not be disabled if your stamina reaches zero, and you may continue to use stamina based talents while at zero stamina at the cost of life.
+|avail.escorts=[[Escorts#Warrior|Warrior]], via revealing the locked {{c|Conditioning}} category
+}}

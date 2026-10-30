@@ -1,0 +1,15 @@
+{{Ability box
+|game_version=1.4.5
+|image=Energy decomposition.png
+|name=Energy Decomposition
+|category_type={{ct|Chronomancy}}
+|category={{c|Energy}}
+|require={{TalentReq/ChronoReq1}}
+|use_mode=Sustained
+|cost=24 Paradox
+|cooldown=10
+|desc=
+Partially dissipates all incoming damage, reducing it by 30%, up to a maximum of {{ctspd|5|50|PM}} damage.
+
+The maximum damage reduction will scale with your Spellpower.
+}}

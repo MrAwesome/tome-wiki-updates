@@ -1,0 +1,11 @@
+{{Ability box
+|image = Polarization.png
+|name = Polarization
+|game_version = 1.7.6
+|embers_version = 1.1.10
+|category_type = {{ct|Celestial}}
+|category = {{c|Energies}}
+|require = {{TalentReq/DiviReq2}}
+|use_mode = Passive
+|desc = Whichever of your positive and negative energies is a higher percentage regenerates towards its max instead of its normal resting value. Your negative and positive regeneration/degeneration rates are increased to {{cts|0.25|1|0.75}}.
+}}

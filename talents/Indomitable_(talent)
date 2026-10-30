@@ -1,0 +1,16 @@
+{{Ability box
+|game_version=1.7.6
+|image=Indomitable_2017.png
+|name=Indomitable
+|category_type={{ct|Race}}
+|category={{c|Halfling}}
+|require={{TalentReq/RacialReq4}}
+|cooldown={{ctl|10|45|25}}
+|use_speed=0
+|desc=
+Halflings have one of the most powerful military forces in the known world and they have been at war with most other races for thousand of years.
+
+Removes {{cts|2|6|log}} stun, daze, or pin effects, and makes you immune to stuns, dazes and pins for {{cts|2|6}} turns.
+
+This talent takes no time to use.
+}}

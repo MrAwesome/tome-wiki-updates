@@ -1,0 +1,12 @@
+{{Ability box
+|name=Axe Kick
+|category_type={{ct|Technique}}
+|category={{c|Pugilism}}
+|require={{TalentReq/TechsDexReq3}}
+|cost=20 Stamina
+|cooldown=20
+|desc=
+Deliver a devastating axe kick dealing {{ctwd|80|200%}} damage.  If the blow connects your target is brain damaged, causing all talents to fail for {{ctl|5|1|4}} turns and earning 2 combo points.
+
+This effect cannot be saved against, though it can be dodged and checks confusion immunity.
+}}

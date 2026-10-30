@@ -1,0 +1,18 @@
+{{Ability_box
+|image=skate.png
+|name=Skate
+|category_type={{ct|Psionic}}
+|category={{c|Augmented Mobility}}
+|require={{TalentReq/PsiWilReq1}}
+|use_mode=Sustained
+|cost=10 Psi
+|cooldown=0
+|use_speed=Instant
+|desc=
+You telekinetically float just off the ground.
+
+This allows you to slide around the battle quickly, increasing your movement speed by {{cts|20|50%|0.75}}. 
+
+It also makes you more vulnerable to being pushed around (reduces knockback resistance by {{ctl|100%|20|80%}}).
+|avail.escorts=[[Escorts#Sun_Paladin_.28Arcane.29|Sun Paladin (Arcane)]] ([[Escorts#Betraying_to_Zigur|Betray Escort to Zigur]]), +1 to talent or via revealing the locked {{c|Augmented Mobility}} category
+}}

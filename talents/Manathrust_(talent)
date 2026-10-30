@@ -1,0 +1,16 @@
+{{Ability box
+|image=Manathrust.png
+|name=Manathrust
+|category_type={{ct|Spell}}
+|category={{c|Arcane}}
+|require={{TalentReq/SpellsReq2}}
+|cost=10 Mana
+|cooldown=3
+|range=10
+|desc=
+Conjures up mana into a powerful bolt doing {{ctspd|20|230}} arcane damage.
+
+At level 3, it becomes a beam.
+
+The damage will increase with your Spellpower.
+}}

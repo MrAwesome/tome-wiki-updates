@@ -1,0 +1,13 @@
+{{Ability box
+|image=Forge echoes.png
+|name=Forge Echoes
+|category_type={{ct|Psionic}}
+|category={{c|Dream Smith}}
+|require={{TalentReq/PsiWilReq4}}
+|cost=20 Psi
+|cooldown=24
+|desc=
+Strike the target with a mighty blow from the forge, inflicting {{ctwd|100|150%}} weapon damage.  If the attack hits, the echo of the attack will lash out at all enemies in a {{cts|1.5|3.5}} radius.
+
+Learning this talent adds {{ctmd|10|50}} damage to your Dream Hammer strikes, split evenly between mind damage and burning damage.
+}}

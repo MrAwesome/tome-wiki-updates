@@ -1,0 +1,14 @@
+{{Ability box
+|image=Sunder mind.png
+|name=Sunder Mind
+|category_type={{ct|Psionic}}
+|category={{c|Psychic Assault}}
+|require={{TalentReq/PsiWilReq4}}
+|range=7
+|cost=5 Psi
+|cooldown=4
+|desc=
+Cripples the target's mind, inflicting {{ctmd|10|150}} mind damage and reducing its Mental Save by {{ctmd|1|15}} for 4 turns.  This attack always hits, and the mental save reduction stacks.
+
+Against brainlocked targets, the damage and Mental Save reduction will be doubled.
+}}

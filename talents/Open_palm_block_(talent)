@@ -1,0 +1,14 @@
+{{Ability_box
+|image=Breath control.png
+|name=Open palm block
+|category_type=[[Technique (category type)|Technique]]
+|category=[[Unarmed discipline (category)|Unarmed discipline]]
+|require={{TalentReq/TechsDexReq3}}
+|use_mode=Activated
+|cost=25 Stamina
+|cooldown=8
+|desc=
+Toughen your body blocking up to {{CTPD|10|75}} damage per combo point (up to 5 combo points) across 2 turns.
+
+Using this talent removes your combo points.
+}}

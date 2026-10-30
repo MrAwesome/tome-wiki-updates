@@ -1,0 +1,16 @@
+{{Ability box
+|name = Nebula Spear
+|game_version = 1.7.6
+|embers_version = 1.1.10
+|category_type = {{ct|Celestial}}
+|category = {{c|Void (celestial)}}
+|require = {{TalentReq/DiviReqHigh1}}
+|cooldown = ?
+|cost = ?
+|range = 6
+|travel_speed = 3.5
+|use_speed = Spell
+|desc = Fire out a spear of cosmic energies. If it hits an enemy it deals {{ctspd|75|350}} damage, otherwise it explodes in a thin cone of radius 4 at the end of its range, blocked by enemies, which deals {{ctspd|30|140}} to {{ctspd|75|350}} damage depending on how much the enemies block.
+
+''Note: seems unfinished and is currently unused''
+}}

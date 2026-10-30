@@ -1,0 +1,16 @@
+{{Ability box
+|game_version=1.7.6
+|embers_version=1.0.2
+|image=Lifeless rush.png
+|name=Lifeless rush
+|category_type={{ct|Race}}
+|category={{c|Whitehooves}}
+|require={{TalentReq/RacialReq3}}
+|use_speed=Instant
+|cooldown={{ctl|5|46|17}}
+|desc=
+You summon your undead energies to instantly build up death momentum to its maximum possible charges.
+The effect will only start to decrease after {{cts|3|10}} turns.
+In addition, the death momentum effect also grants +{{cts|3|5}}% to all damage per charge.
+
+}}

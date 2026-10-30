@@ -1,0 +1,18 @@
+{{Ability box
+|game_version=1.5.10
+|image=Spell feedback.png
+|name=Spell Feedback
+|category_type=[[Prodigies]]
+|category=[[Prodigies#Willpower|Willpower]]
+|require=Willpower 50<br />Know {{c|Antimagic}}
+|use_mode=Passive
+|cooldown=9
+|desc=
+Your will is a shield against assaults from crazed arcane users.
+
+Each time that you take damage from a spell, you punish the spellcaster with (20 + 2 * Wil) mind damage.
+
+Also, they will suffer a 35% spell failure chance (with duration equal to the cooldown of the spell they used on you).
+
+Note: this talent has a cooldown.
+}}

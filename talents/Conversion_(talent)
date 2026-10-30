@@ -1,0 +1,15 @@
+{{Ability_box
+|image=Conversion.png
+|name=Conversion
+|category_type={{ct|Psionic}}
+|category={{c|Feedback}}
+|require={{TalentReq/PsiWilReq4}}
+|use_mode=Activated
+|cost=25 Feedback
+|cooldown=24
+|desc=
+Use Feedback to replenish yourself.  This heals you for (10 * {{ctmd|10|50}}) life, and restores {{ctmd|10|50}} stamina, (1.8 * {{ctmd|10|50}}) mana, (-1.5 * {{ctmd|10|50}}) equilibrium, {{ctmd|10|50}} vim, (0.5 * {{ctmd|10|50}}) positive and negative energies, (0.7 * {{ctmd|10|50}}) psi energy, and (0.25 * {{ctmd|10|50}}) hate.
+
+The heal and resource gain will improve with your Mindpower.
+|avail.escorts=[[Escorts#Defiler_.28Arcane.29|Defiler (Arcane)]] ([[Escorts#Betraying_to_Zigur|Betray Escort to Zigur]]), +1 to talent or via revealing the locked {{c|Feedback}} category
+}}

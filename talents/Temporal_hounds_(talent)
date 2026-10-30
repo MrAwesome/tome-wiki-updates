@@ -1,0 +1,17 @@
+{{Ability box
+|game_version=1.4.5
+|image=Temporal hounds.png
+|name=Temporal Hounds
+|category_type={{ct|Chronomancy}}
+|category={{c|Temporal Hounds}}
+|require={{TalentReq/ChronoReqHigh1}}
+|use_mode=Sustained
+|cost=48 Paradox
+|cooldown={{ctl|10|45|15}}
+|desc=
+Upon activation summon a Temporal Hound.  Every {{ctl|10|45|15}} turns another hound will be summoned, up to a maximum of three hounds. If a hound dies you'll summon a new hound in {{ctl|10|45|15}} turns.  
+
+Your hounds inherit your increased damage percent, have {{ctl|50%|7.5|25%}} physical resistance and {{ctl|100%|30|100%}} temporal resistance, and are immune to teleportation effects.
+
+Hounds will have stats of 11+{{ctstd|Mag|10|150}} for Strength, Dexterity, Constitution, Magic, Willpower, and Cunning, based on your Magic stat.
+}}

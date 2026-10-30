@@ -1,0 +1,15 @@
+{{Ability box
+|image = Solar orb.png
+|name = Solar Orb
+|game_version = 1.7.6
+|embers_version = 1.1.10
+|category_type = {{ct|Celestial}}
+|category = {{c|Sol}}
+|require = {{TalentReq/DiviReq1}}
+|cooldown = {{ctl|3|10|6}}
+|cost = Gain 10 Positive energy
+|range = 7
+|travel_speed = 4
+|use_speed = Spell
+|desc = Fire out an orb of light that deals {{ctspd|15|140}} {{light}} damage and then returns, dealing the same amount of damage again and reducing the cooldown by half when it reaches you. The damage will increase with your spellpower. The ball will travel at most 28 distance[sic] to return to you.
+}}

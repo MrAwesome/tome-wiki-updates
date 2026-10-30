@@ -1,0 +1,20 @@
+{{Ability_box
+|name = Black Monolith
+|image = Black_monolith.png
+|category_type = {{ct|Demented}}
+|category = {{c|Void}}
+|game_version = 1.7.4
+|forbidden_version = 1.0.12
+|require = {{TalentReq/DementedReq3}}
+|use_mode = Activated 
+|range = 10
+|cost = Gain 20 Insanity
+|cooldown = 18
+|travel_speed = Instantaneous
+|use_speed = Spell
+|desc = 
+Consuming a void star, you use it to summon a void monolith at the targeted location for {{cts|4|7.5}} turns (rounded down). The monolith is very durable, and while immobile it will attempt to daze enemies within radius 1 for 2 turns every half a turn using your spellpower.
+
+The monolith will gain {{css|Mag|1|4}} life rating (rounded down) and {{csl|Mag|70|15|40}}% all resist based on your Magic stat.
+
+}}

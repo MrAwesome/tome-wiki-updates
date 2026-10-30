@@ -1,0 +1,16 @@
+{{Ability box
+|image=Corrosive worm.png
+|name=Corrosive Worm
+|category_type={{ct|Corruption}}
+|category={{c|Blight}}
+|require={{TalentReq/CorrsReq3}}
+|cooldown=10
+|cost=12 Vim
+|range=10
+|desc=
+Infect your target with a corrosive worm that deals {{ctspd|10|60}} acid damage per turn for 10 turns.
+
+If the target dies while the worm is inside, it will explode, doing {{ctspd|10|230}} acid damage in a radius of 4.
+
+The damage will increase with your Spellpower, and can critical.
+}}

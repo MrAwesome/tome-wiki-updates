@@ -1,0 +1,16 @@
+{{Ability_box
+|name = Suspend
+|image = Suspend.png
+|category_type = {{ct|Demented}}
+|category = {{c|Timethief}}
+|game_version = 1.7.4
+|forbidden_version = 1.0.12
+|require = {{TalentReq/DementedReq3}}
+|cost = 10 Insanity
+|cooldown = {{ctl|10|40|25}} (rounded up)
+|use_speed = Spell
+|desc = 
+You freeze yourself in time for 1 + {{cts|2|4.5}} turns (rounded down), preventing you from taking any action but preventing any damage taken.
+
+Negative effects and cooldowns will decrease in duration, while beneficial effects will remain at their current duration.
+}}

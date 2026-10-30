@@ -1,0 +1,13 @@
+{{Ability box
+|image=jack_o_lantern_a_01.png
+|game_version=1.7.4
+|name=PLUMPKIN FURY!
+|category_type={{ct|Other}}
+|category={{c|Other}}
+|cooldown=10
+|range=0
+|use_speed=Normal
+|desc=
+Using your plumpkin powers you fart a wave of noxious fumes, dealing max({{ctspd|28|210}}, {{ctmd|28|210}}, {{ctpd|28|210}}) nature damage to all creatures in radius 4.<br>
+The damage will increase with the highest of your Spellpower, Mindpower or Physical power.
+}}

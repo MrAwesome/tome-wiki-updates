@@ -1,0 +1,15 @@
+{{Ability_box
+|name=Vampiric Surge
+|image=vampiric_surge.png
+|game_version=1.5.2
+|category_type={{ct|Spell}}
+|category={{c|Undead drake}}
+|require={{TalentReq/SpellsReq3}}
+|cost=3 Soul
+|cooldown=24
+|range=10
+|travel_speed=Instantaneous
+|use_speed=Spell
+|desc=
+You surge with a life draining energy for {{cTS|4|6}} turns. While the effect lasts, you heal yourself for {{cTS|6|10%|0.75}} of all damage you deal.
+}}

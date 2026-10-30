@@ -1,0 +1,14 @@
+{{Ability_box
+|image=Set up.png
+|name=Set up
+|category_type=[[Cunning (category type)|Cunning]]
+|category=[[Tactical (category)|Tactical]]
+|require={{TalentReq/CunsReq3}}
+|use_mode=Activated
+|cost=12 Stamina
+|cooldown=12
+|desc=
+Increases Defense by (5 + {{CTS|Cun|1|50}}) for {{CTS|3|7}} turns.  When you avoid a melee blow, you set the target up, increasing the chance of you landing a critical strike on them by (5 + {{CTS|1|25}})% and reducing their saving throws by (5 + {{CTS|1|25}}).
+
+The effects will scale with your Cunning.
+}}

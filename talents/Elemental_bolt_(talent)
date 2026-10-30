@@ -1,0 +1,11 @@
+{{Ability_box
+|name=Elemental Bolt
+|category_type=[[NPC Only (category type)|NPC Only]]
+|image=Elemental bolt.png
+|game_version=1.4.9
+|range=20
+|cost=10 Mana
+|cooldown=3
+|travel_speed=2
+|desc=Fire a slow bolt of a random element for X damage. Damage increases with the magic stat.
+}}

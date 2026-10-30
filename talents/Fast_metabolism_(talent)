@@ -1,0 +1,10 @@
+{{Ability_box
+|image=Fast_metabolism_2017.png
+|name=Fast metabolism
+|category_type=[[Technique (category type)|Technique]]
+|category=[[Combat veteran (category)|Combat veteran]]
+|require={{TalentReq/TechsStrDexReq2}}
+|use_mode=Passive
+|desc=
+Your combat focus allows you to regenerate life faster (+{{CTS|3|7.5|0.75}} life/turn).
+}}

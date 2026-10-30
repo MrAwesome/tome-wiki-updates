@@ -1,0 +1,11 @@
+{{Ability box
+|image=Gesture of power.png
+|name=Gesture of Power
+|category_type={{ct|Cursed}}
+|category={{c|Gestures}}
+|require={{TalentReq/CursedCunReq3}}
+|use_mode=Passive
+|desc=
+Enhance your mental attacks with a single gesture. You gain {{gtl|2|10}}% mindpower and {{gtl|1.2|6}}% chance to inflict critical damage with mind-based attacks.
+Requires two free or mindstar-equipped hands; does not require {{t|Gesture of Pain}} to be sustained.
+}}

@@ -1,0 +1,16 @@
+{{Ability_box
+|image=Misdirection_2017.png
+|name=Misdirection
+|game_version=1.7.4
+|category_type={{ct|Cunning}}
+|category={{c|Scoundrel}}
+|require={{TalentReq/CunsReq3}}
+|use_mode=Passive
+|desc=
+Your abilities in sowing confusion and chaos have reached their peak.  Whenever a foe attempts to apply a detrimental physical effect to you, they have a {{ctl|50%|15|35%}} chance to fail. If there is an adjacent enemy to you, you misdirect your foe into applying it to them at {{ctl|100%|30|55%}} duration.
+
+You gain {{ctstd|Cun|15|60}} defense.
+
+The chance to apply status effects increases with your Accuracy and the Defense with your Cunning.
+|avail.escorts=[[Escorts#Thief|Thief]], +1 to talent or via revealing the locked {{c|Scoundrel}} category
+}}

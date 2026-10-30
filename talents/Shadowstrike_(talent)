@@ -1,0 +1,15 @@
+{{Ability_box
+|image=Shadowstrike_2017.png
+|name=Shadowstrike
+|game_version=1.5.2
+|category_type=[[Cunning (category type)|Cunning]]
+|category=[[Stealth (category)|Stealth]]
+|require={{TalentReq/CunsReq2}}
+|use_mode=Passive
+|desc=
+When striking from stealth, the attack is automatically critical if the target does not notice you just before you land it. (Spell and mind attacks critically strike even if the target notices you.)
+
+Your critical multiplier against targets that cannot see you is increased by up to {{cTS|15|40|10}}. You must be able to see your target and the bonus is reduced from its full value at range 3 (4 at Talent Level 3) to 0 at range 10.
+
+Also, after exiting stealth for any reason, the critical multiplier persists for 3 turns (with no range limitation).
+}}

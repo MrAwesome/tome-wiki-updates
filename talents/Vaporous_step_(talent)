@@ -1,0 +1,23 @@
+{{Ability box
+|image=Vaporous step.png
+|name=Vaporous step
+|game_version=1.7.6
+|embers_version=1.1.10
+|category_type={{ct|Steamtech}}
+|category={{c|Psionic fog}}
+|require={{TalentReq/PsiWilReq1}}
+|use_mode=sustained
+|range=7
+|cost=1 Steam drain + 18 Psi
+|cooldown=12
+|use_speed=0
+|desc=You concentrate your will to psychoport some of the steam of your generator to a remote location. Each turn steam accumulates there, up to {{CTS|3|8}}(round down) charges.
+
+When you deactivate the effect you release the accumulated psionic and steam energies, instantly switching places with the target location and releasing the charges in a fiery explosion of hot wet steam in radius 4.
+
+The explosion will do {{ctstmd|25|200}}*0.75 {{fire}} damage, multiplied by 33% (diminutive) for each charge and apply the wet effect.
+
+The effect will fizzle is the charged grid is currently occupied by a creature or not in sight.
+
+The damage will increase with your Steampower.
+}}

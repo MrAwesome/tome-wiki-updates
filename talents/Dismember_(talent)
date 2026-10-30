@@ -1,0 +1,13 @@
+{{Ability box
+|name=Dismember
+|category_type={{ct|Corruption}}
+|category={{c|Demonic Strength}}
+|require={{TalentReq/StrCorrsReq1}}
+|use_mode=Passive
+|desc=
+Your melee attacks cripple your targets when they critically strike, lowering their movement speed by {{cts|17|35}}%, and their 
+
+accuracy by {{cts|10|30}}, for {{cts|3|5}} turns.
+
+Additionally, you gain {{cts|4|15}}% chance to critically strike with your melee attacks.
+}}

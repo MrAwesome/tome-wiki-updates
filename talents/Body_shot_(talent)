@@ -1,0 +1,14 @@
+{{Ability_box|image=Body shot.png|name=Body shot
+|category_type=[[Technique (category type)|Technique]]
+|category=[[Finishing moves (category)|Finishing moves]]
+|require=Dexterity (28, 30, 32, 34, 36)
+(8, 9, 10, 11, 12) level
+|use_mode=activated
+|range=melee/personal
+|cost=10 stamina
+|cooldown=10
+|use_speed=1 turn
+|desc=A punch to the body that deals X% damage, drains 2-13 of the target's stamina (2*talent_level) per combo point, and dazes the target for X to Y turns, depending on the amount of combo points you've accumulated. 
+The daze has a minimum duration of 0.25 per talent level, rounded up, and is increased by that increment for every combo point, to a maximum of 1.25 per talent level.
+
+The daze chance will increase with your Physical Power. Using this talent removes your combo points.}}

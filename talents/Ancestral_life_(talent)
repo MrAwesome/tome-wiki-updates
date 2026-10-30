@@ -1,0 +1,19 @@
+{{Ability box
+|image=Ancestral life.png
+|name=Ancestral Life
+|category_type={{ct|Wild-Gift}}
+|category={{c|Fungus}}
+|game_version=1.7.2
+|require={{TalentReq/GiftsReq3}}
+|use_mode=Passive
+|desc=
+Your fungus can reach into the primordial ages of the world, granting you ancient instincts.
+
+Each time you receive non-regeneration healing you gain min(15, {{ctmd|1|8}})% of a turn per 100 life healed.  This effect can't add energy past 2 stored turns and overhealing is not counted.
+
+Also, regeneration effects on you will decrease your equilibrium by {{cts|0.5|2.5|0.5A}} each turn.
+
+The turn gain increases with your Mindpower.
+|avail.classes=[[Oozemancer]], [[Wyrmic]]
+|avail.shops=[[Zigur]] ([[Age of Ascendancy]]) — after completing [[Storming the city]], speaking to [[Myssil|Protector Myssil]] and killing [[Urkis]], the {{c|Fungus}} category is revealed (locked)
+}}

@@ -1,0 +1,10 @@
+{{Ability_box
+|name=Shriek
+|image=Shriek.png
+|category_type=[[NPC Only (category type)|NPC Only]]
+|game_version=1.4.9
+|range=10
+|cost=5 Equilibrium
+|cooldown=10
+|desc=Shriek (radius {{CTS|6|10}}) to call your allies.
+}}

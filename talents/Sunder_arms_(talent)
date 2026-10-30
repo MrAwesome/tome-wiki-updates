@@ -1,0 +1,14 @@
+{{Ability_box
+|image=Sunder arms.png
+|name=Sunder arms
+|category_type=[[Technique (category type)|Technique]]
+|category=[[Two-handed maiming (category)|Two-handed maiming]]
+|require=Level: (8, 9, 10, 11, 12)
+(28, 30, 32, 34, 36) Str
+|use_mode=activated
+|range=melee/personal
+|cost=12 Stamina
+|cooldown=6
+|use_speed=1 turn
+|desc=Hits the target with your weapon, doing (100-150)% damage. If the attack hits, the target's Accuracy is reduced by (3 * talent_level) for (4 + talent_level) turns. 
+Accuracy reduction chance increases with your Physical Power.}}

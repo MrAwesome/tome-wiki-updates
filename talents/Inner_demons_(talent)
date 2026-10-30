@@ -1,0 +1,31 @@
+{{Ability box
+|image=Inner demons.png
+|name=Inner Demons
+|game_version=1.7.6
+|category_type={{ct|Psionic}}
+|category={{c|Nightmare}}
+|require={{TalentReq/PsiWilHigh2}}
+|range=7
+|cost=20 Psi
+|cooldown=18
+|use_speed=Mind
+|desc=
+Brings the target's inner demons to the surface.  Each turn, for {{ctl|15|4|10}} turns, there's a chance that a demon will surface, requiring the target to make a Mental Save to keep it from manifesting. If the demon materializes, it will attack the target for 10 turns before disappearing.
+
+The chance of a demon surfacing is {{cl|{{ctmd|15|30}}|100%|0|0|21%|21}}.
+
+If the target is sleeping, the chance to save will be halved, and fear immunity will be ignored.  Otherwise, if the summoning is resisted, the effect will end early.
+
+The summon chance will scale with your Mindpower and the demon's life will scale with the target's rank.
+
+If a demon manifests the sheer terror will remove all sleep effects from the victim, but not the Inner Demons.
+
+The demon is an exact copy of the target, except for the following attributes:
+*Max life will be 50% of target's max life divided by the target's [[Rank]]
+*All damage penalized by -50%
+*Will never flee
+*Cannot use {{t|Summon}} and {{t|Multiply}}
+*Cannot use any talent that is prohibited for NPCs
+
+You will gain full experience points for any kills made by the demon.
+}}

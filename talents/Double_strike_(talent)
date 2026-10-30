@@ -1,0 +1,12 @@
+{{Ability box
+|image=Double strike.png
+|name=Double Strike
+|category_type={{ct|Technique}}
+|category={{c|Pugilism}}
+|require={{TalentReq/TechsDexReq1}}
+|cooldown=3
+|desc=
+Deliver two quick punches that deal {{ctwd|50|80%}} damage each, and switch your stance to {{t|Striking Stance}}.  If you already have Striking Stance active and Double Strike isn't on cooldown, this talent will automatically replace your normal attacks (and trigger the cooldown).
+
+If either jab connects, you earn one combo point.  At talent level 4 or greater, if both jabs connect, you'll earn two combo points.
+}}

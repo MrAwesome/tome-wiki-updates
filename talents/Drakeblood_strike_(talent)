@@ -1,0 +1,17 @@
+{{Ability_box
+|name=Drakeblood Strike
+|image=warborn.png
+|category_type={{ct|Race}}
+|category={{c|Krog}}
+|game_version=1.7.6
+|require={{TalentReq/RacialReq4}}
+|range=0
+|cooldown=8
+|use_speed=Standard
+|desc=
+You were created by ziguranth for one purpose only, to wage war on magic!
+Strike your target dealing {{ctwd|150|300%}} ''[dragon element]'' weapon damage and silencing them for 3 turns.
+The damage type will change with your drake aspect.
+The chance to silence will increase with the highest of your physical or mind power.
+
+}}

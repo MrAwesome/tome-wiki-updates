@@ -1,0 +1,18 @@
+{{Ability_box
+|image=mind_whip.png
+|name=Mind Whip
+|game_version=1.7.2
+|category_type={{ct|Psionic}}
+|category={{c|Psionic Menace}}
+|require={{TalentReq/PsiWilReq1}}
+|use_mode=Activated
+|range=7
+|cost=12 Psi
+|cooldown=4
+|travel_speed=Instantaneous
+|use_speed=Mind
+|desc=
+You lash out your psionic fury at a distant creature, doing {{ctmd|5|220}} mind damage.
+		The whip can cleave to one nearby foe.
+		If you do not have two mindstars equipped, but have them in your off set, you instantly automatically switch. The wild psionic powers are incompatible with the focused nature of psiblades.
+}}

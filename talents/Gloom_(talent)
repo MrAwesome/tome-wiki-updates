@@ -1,0 +1,19 @@
+{{Ability box
+|image=Gloom.png
+|name=Gloom
+|category_type={{ct|Cursed}}
+|category={{c|Gloom}}
+|require={{TalentReq/CursedWilReq1}}
+|use_mode=Sustained
+|cooldown=0
+|range=3 
+|use_speed=0
+|desc=
+A terrible gloom surrounds you, affecting all those who approach to within radius 3. Each turn, those caught in your gloom must save against your Mindpower, or have a chance to suffer from slowness, stun or confusion for 3 turns.
+
+The chance to inflict slowness, stun, or confusion is {{cl|√ ( Talent Level )|100%|7|1|15.65%|2.23}}.
+
+This ability is innate, and carries no cost to activate or deactivate. Each point in this talent increases the mindpower of all {{t|Gloom}} effects.
+
+The total mindpower bonus is {{cs|(Total Talent Levels in {{c|Gloom}} category)|1|1|20|20|0.75}}.
+}}

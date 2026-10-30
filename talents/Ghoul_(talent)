@@ -1,0 +1,14 @@
+{{Ability_box
+|game_version=1.7.6
+|image=Ghoul_2017.png
+|name=Ghoul
+|category_type={{ct|Undead}}
+|category={{c|Ghoul}}
+|require={{TalentReq/UndeadsReq1}}
+|use_mode=Passive
+|desc=
+Improves your ghoulish body, increasing Strength and Constitution by {{cts|2|15|0.75}}.
+Your body also becomes incredibly resilient to damage, you can never take a blow that deals more than 50% of your maximum life.
+
+
+}}

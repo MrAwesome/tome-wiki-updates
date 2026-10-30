@@ -1,0 +1,19 @@
+{{Ability_box
+|game_version = 1.7.4
+|name = Gelid Host
+|image = gelid host.png
+|category_type={{ct|Spell}}
+|category={{c|Rime Wraith}}
+|require = {{TalentReq/SpellsReqHigh3}}
+|cost = 20 Mana, 1 Soul
+|cooldown = 15
+|use_speed = Spell
+|desc = 
+By crushing one more soul you reinforce your existing {{t|Rime Wraith}}, duplicating it out of its current host.
+
+The new wraith will exist for {{cts|5|10}} turns and cannot be used for another cast of Gelid Host.
+
+When it is created the current host and all foes in radius 4 are blasted for {{ctspd|20|220}} cold damage.
+
+The damage will increase with your Spellpower.
+}}

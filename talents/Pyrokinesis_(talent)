@@ -1,0 +1,12 @@
+{{Ability_box
+|image=Pyrokinesis.png
+|name=Pyrokinesis
+|category_type=[[Psionic (category type)|Psionic]]
+|category=[[Focus (category)|Focus]]
+|require={{TalentReq/PsiWilReq2}}
+|use_mode=Activated
+|cost=20 Psi
+|cooldown=15
+|desc=
+Telekinetically energize the matter of all foes within {{cts|4|6}} squares at the molecular level, setting them ablaze. This does {{ctmd|20|450}} fire damage over 6 turns.
+}}

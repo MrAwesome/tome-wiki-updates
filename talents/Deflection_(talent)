@@ -1,0 +1,16 @@
+{{Ability box
+|image=Deflection.png
+|name=Deflection
+|category_type={{ct|Cursed}}
+|category={{c|Force of Will}}
+|require={{TalentReq/CursedWilReq2}}
+|use_mode=Sustained
+|cooldown=12
+|use_speed=0
+|desc=
+Create a barrier that siphons hate from you at the rate of 0.2 a turn. The barrier will deflect 50% of incoming damage with the force of your will, up to {{ctmd|0|240}} damage. The barrier charges at a rate of 1/35th of its maximum charge per turn.
+
+In addition, your ability to channel force with this talent increases all critical damage by {{cts|4|15%}}.
+
+The maximum damage deflected increases with your Mindpower.
+}}

@@ -1,0 +1,13 @@
+{{Ability box
+|name=Tempo
+|image=tempo.png
+|game_version=1.5.2
+|category_type={{ct|Technique}}
+|category={{c|Duelist}}
+|require={{TalentReq/TechsDexReq2}}
+|use_mode=Passive
+|desc=
+The flow of battle invigorates you, allowing you to press your advantage as the fight progresses. Up to once each turn, while dual wielding, you may:
+Riposte -- If a melee or archery attack misses you or you parry it, you instantly restore {{ctl|15|1|4}} stamina and gain {{ctl|25%|5|10%}} of a turn. <br>
+Recover -- On performing a critical strike with your offhand weapon, you instantly restore {{ctl|15|1|4}} stamina.
+}}

@@ -1,0 +1,23 @@
+{{Ability_box
+|image=Mirror_images.png
+|name=Mirror Image
+|category_type={{ct|Spell}}
+|category={{c|Phantasm}}
+|game_version=1.7.4
+|require={{TalentReq/SpellsReq4}}
+|use_mode=Activated
+|cost=30 Mana
+|cooldown=20
+|use_speed=Spell Speed
+|desc=
+Create a perfect lookalike of your own form made out of pure light near a creature.
+
+This image has 6-14 life and can never take more than 1 damage per creature per turn and is immune to any non direct damage (ground effects, damage over time, ...).
+
+Whenever you cast a spell your mirror image will try to duplicate it at the same target for 66% less damage, if possible. 
+If it can, it will lose 1 life, if not it will instead taunt a creature to focus its attention on itself.
+
+While the image exists you receive the damage bonus from the {{t|Invisibility}} spell as if you were invisible.
+
+This spell can not be cast while a Mirror Image already exists and only in combat. It will disappear after a few turns when outside of combat.
+}}

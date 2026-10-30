@@ -1,0 +1,15 @@
+{{Ability box
+|name=Burning Sacrifice
+|image=Burning_sacrifice.png
+|category_type={{ct|Corruption}}
+|category={{c|Heart of Fire}}
+|require={{TalentReq/CorrsReq1}}
+|use_mode=Passive
+|cooldown=5
+|desc=
+Whenever you kill a burning enemy, you will instantly deal a melee attack against a random adjacent enemy at {{cts|64|121}}% power.
+
+Additionally, Incinerating Blows will automatically trigger on this attack (or your next attack), dealing {{cts|130|204}}% of its normal damage to all enemies hit and stunning, ignoring the cooldown.
+
+This can only trigger once every 5 turns.
+}}

@@ -1,0 +1,15 @@
+{{Ability box
+|image=Quicken.png
+|game_version=1.7.6
+|name=Quicken
+|category_type={{ct|Chronomancy}}
+|category={{c|Spellbinding}}
+|require={{TalentReq/ChronoReqHigh4}}
+|cost=24 Paradox
+|use_mode=Sustain
+|cooldown=10
+|desc=
+Reduces the casting speed of the selected {{ct|Chronomancy}} spell by {{ctl|100%|12.5|55%}}.
+Each spell can only be spellbound in one way at a time.
+
+}}

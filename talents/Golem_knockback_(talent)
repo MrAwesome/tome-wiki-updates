@@ -1,0 +1,14 @@
+{{Ability box
+|image=Golem knockback.png
+|name=Golem Knockback
+|category_type={{ct|Golem}}
+|category={{c|Golem Fighting}}
+|require={{TalentReq/TechsReq1}}
+|cooldown=10
+|range=5
+|cost=5 Stamina
+|desc=
+Your golem rushes to the target, knocking it back 3 tiles and doing {{ctwd|80|160%}} damage.
+
+The target must be at least 2 tiles away from the golem.
+}}

@@ -1,0 +1,18 @@
+'''No longer part of {{c|Timeline Threading}}'''
+
+{{Ability box
+|image=Temporal clone.png
+|name=Temporal Clone
+|category_type={{ct|Chronomancy}}
+|category={{c|Timeline Threading}}
+|require={{TalentReq/ChronoReqHigh3}}
+|cost=15 Paradox
+|cooldown=30
+|range=6
+|desc=
+Pulls a copy of the target from another timeline of size (2 + Raw Talent Level / 2) or less; the copy stays for {{ctl|30|4|8|PM}} turns. The copy and the target will be compelled to attack each other immediately.
+
+The duration will scale with your Paradox.
+
+''Note: Sizes 3, 4, 5 correspond to medium, big, huge.''
+}}

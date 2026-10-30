@@ -1,0 +1,17 @@
+{{Ability_box
+|game_version = 1.7.4
+|name = Across the Veil
+|image = across the veil.png
+|category_type={{ct|Spell}}
+|category={{c|Necrosis}}
+|require = {{TalentReq/SpellsReq2}}
+|use_mode = Passive
+|desc = 
+The line between life and death blurs for you.
+
+You can only die when you reach negative {{ctstd|Con|30|1000}} life but your maximum life is reduced by 0.5 * {{ctstd|Con|30|1000}}.
+
+When you are below 1 life you gain {{cts|6|12%}} to all resistances.
+
+The life amount is based on your Constitution attribute.
+}}

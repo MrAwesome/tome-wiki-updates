@@ -1,0 +1,12 @@
+{{Ability box
+|image=Vision_2017.png
+|name=Vision
+|category_type={{ct|Spell}}
+|category={{c|Divination}}
+|require={{TalentReq/SpellsReq3}}
+|cost=20 Mana
+|cooldown=20
+|desc=
+Form a map of your surroundings in your mind in a radius of (5 + {{ctspd|2|12}}).
+|avail.escorts=[[Escorts#Seer_.28Arcane.29|Seer (Arcane)]] (Normal Escort Reward), +1 to talent or via revealing the locked {{c|Divination}} category
+}}

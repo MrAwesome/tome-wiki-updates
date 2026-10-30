@@ -1,0 +1,14 @@
+{{Ability_box
+|image=Shadow ambush.png
+|name=Shadow Ambush
+|category_type={{ct|Cunning}}
+|category={{c|Ambush}}
+|require={{TalentReq/CunsReqHigh2}}
+|range=7
+|cost=15 Stamina and 15 Mana
+|cooldown=20
+|desc=
+You reach out with shadowy vines toward your target, pulling it to you and silencing it for {{cts|2|6}} turns and dazing it for 2 turns.
+
+The chance to hit improves with your Accuracy.
+}}

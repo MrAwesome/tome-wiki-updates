@@ -1,0 +1,16 @@
+{{Ability box
+|image=Freeze.png
+|name=Freeze
+|game_version=1.7.6
+|category_type={{ct|Spell}}
+|category={{c|Ice}}
+|require={{TalentReq/SpellsReqHigh1}}
+|use_mode=Activated
+|range=10
+|cost=14 Mana
+|cooldown=8
+|use_speed=Spell
+|desc=Condenses ambient water on a target, freezing it for {{cts|3|7}} turns (rounded down) and damaging it for {{ctspd|30|300}} {{cold}} damage.<br />If this is used on a friendly target the cooldown is reduced by 33%.<br />The damage will increase with your [[Spellpower]].
+|avail=Artifact: [[Trident of the Tides]]<br />Item: [[Staff Egos|Imbued]] staves
+|avail.classes=[[Archmage]]
+}}

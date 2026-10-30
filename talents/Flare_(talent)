@@ -1,0 +1,17 @@
+{{Ability box
+|game_version=1.5.2
+|image=Flare_2017.png
+|name=Flare
+|category_type={{ct|Technique}}
+|category={{c|Marksmanship}}
+|require={{TalentReq/TechsDexReq3}}
+|cost=4 Stamina
+|cooldown=7
+|range=Archery Range
+|travel_speed=Instantaneous
+|use_speed=Archery Speed
+|desc=
+Fire a shot at the target tile that blinds enemies for {{cTS|2|4}} turns, marks them for 2 turns, and illuminates the area within radius 2 for {{cTS|4|7}} turns. Enemies within the illuminated area lose {{ctstd|Dex|10|60}} defense and stealth power and cannot benefit from concealment.
+
+The status chance increases with your Accuracy, and the defense reduction with your Dexterity.
+}}

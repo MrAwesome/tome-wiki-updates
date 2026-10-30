@@ -1,0 +1,14 @@
+{{Ability box
+|game_version=1.5.10
+|image=Glimpse_of_True_Horror.png
+|name=Glimpse of True Horror
+|category_type={{ct|Demented}}
+|category={{c|Disfigured Face}}
+|require={{TalentReq/SpellsReq4}}
+|use_mode=Passive
+|desc=
+Whenever you use a disfigured face power you show a glimpse of what True Horror is.
+		If the affected targets fail a spell save they become frightened for 2 turns, giving them {{ctspd|1,5|30%}} chances to fail using talents.
+		When a target becomes afraid it bolsters you to see their anguish, increasing your darkness and blight damage penetration by {{ctspd|3|40%}}  for 2 turns.
+		The values will increase with your Spellpower.
+}}

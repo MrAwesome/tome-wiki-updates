@@ -1,0 +1,11 @@
+{{Ability_box
+|image=rogue_s_brew.png
+|name=Rogue's Brew Mastery
+|game_version=1.5.2
+|category_type=[[Cunning (category type)|Cunning]]
+|category=[[Tools (category)|Tools]]
+|require={{t|Master Artificer}} and {{t|Rogue's Brew}}
+|use_mode=passive
+|desc=
+Adjust your Rogue's Brew formulation so that it fortifies you for 8 turns, preventing you from dying until you reach -{{cTS|100|600}} life.
+}}

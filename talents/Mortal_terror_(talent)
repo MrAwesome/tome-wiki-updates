@@ -1,0 +1,16 @@
+{{Ability_box
+|image=Mortal_terror_2017.png
+|name=Mortal Terror
+|category_type={{ct|Technique}}
+|category={{c|Bloodthirst}}
+|require={{TalentReq/TechsReqHigh1}}
+|use_mode=Passive
+|desc=
+Your mighty blows inspire utter terror on your foes. Any melee strike you do that deals more than {{ctl|10%|45|25%}} of the target's total life puts them in mortal terror, dazing them for 5 turns.
+
+Your critical strike chance is also increased by {{cts|2.8|14%}}.
+
+The daze chance increase with your Physical Power.
+
+''Note: As of version 1.2.3, the critical chance bonus follows [[Scaling#cTS|cTS]] scaling even though the in game description shows linear scaling.''
+}}

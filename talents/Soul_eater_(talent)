@@ -1,0 +1,13 @@
+{{Ability_box
+|name=Soul Eater
+|category_type=Corruption
+|category=Other
+|ashes_version=1.0.5
+|desc=
+Any nearby allied creature that is not a summon will be bound to your will.
+Each time a creature bound to your will dies it is resurrected as a demonic husk.
+Demonic husks have:
+* slow movement speed
+* more life
+* new demonic talents
+}}

@@ -1,0 +1,16 @@
+{{Ability box
+|game_version=1.7.6
+|image=Yeek will_2017.png
+|name=Dominant Will
+|category_type={{ct|Race}}
+|category={{c|Yeek}}
+|require={{TalentReq/RacialReq1}}
+|range=4
+|cooldown={{ctl|10|45|25}}
+|use_speed=0
+|desc=
+Shatter the mind of your victim, giving you full control of its actions for {{css|Wil|5|14}} turns (based on your Willpower).
+When the effect ends, you pull out your mind and the victim's body collapses, dead.
+Targets with ranks at or above rare must be below 80% of their maximum life to be controlled, will be invulnerable for the duration, and will break free of the effect without dying after 3 turns.
+This effect cannot be saved against but checks instakill immunity.
+}}

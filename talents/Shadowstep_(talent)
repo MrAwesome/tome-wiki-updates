@@ -1,0 +1,16 @@
+{{Ability_box
+|image=Shadowstep.png
+|name=Shadowstep
+|category_type={{ct|Cunning}}
+|category={{c|Shadow Magic}}
+|require={{TalentReq/CunsReq4}}
+|cost=30 Stamina
+|cooldown=6
+|range={{cts|6|10}}
+|desc=
+Step through the shadows to your target, dazing it for (2 + 0.5 * Talent Level) turns (maximum 5) and hitting it with all your weapons for {{ctwd|120|250%}} darkness weapon damage.
+
+Dazed targets are significantly impaired, but any damage will free them.
+
+To Shadowstep, you need to be able to see the target.
+}}

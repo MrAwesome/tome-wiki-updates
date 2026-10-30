@@ -1,0 +1,16 @@
+{{Ability box
+|image=Boiling shot.png
+|name=Boiling shot
+|game_version=1.7.6
+|embers_version=1.1.10
+|category_type={{ct|Steamtech}}
+|category={{c|Psytech gunnery}}
+|require={{TalentReq/DexSteamReq2}}
+|cooldown=8
+|cost=25 Steam + 15 Psi
+|range=Steamgun range
+|use_speed=Steamtech
+|desc=Using psionic energies you overheat your shot, making it deal {{ctwd|80|200%}} damage.
+
+If the shot hits a wet foe it will vaporize, removing the wet effect and dealing {{ctstmd|20|400}} {{fire}} damage in a radius 4.
+}}

@@ -1,0 +1,20 @@
+{{Ability_box
+|name=Danger Sense
+|image=danger_sense.png
+|category_type={{ct|Cunning}}
+|category={{c|Survival}}
+|game_version=1.7.6
+|require={{TalentReq/CunsReq4}}
+|use_mode=Passive
+|desc=
+You have an enhanced sense of self preservation, and your keen intuition allows you to sense dangers others miss.
+
+Your ability to detect traps is enhanced by {{cs|(0.25 * Cun * Talent Level)|5|3.75|35|125|0.25}}.
+
+Critical attacks against you have {{cts|3.5|12%}} reduced bonus damage, and damage bonuses attackers gain against you for being unseen are reduced by {{ctl|100%|15|33%}}.
+
+You also gain an additional chance to resist detrimental status effects that can be resisted. This second save roll is made with an effective power penalty of {{cl|(0.25 * Cun * Talent Level)|5|20|0|10|125}}.
+
+The detection and additional save chance improve with Cunning.
+|avail.escorts=[[Escorts#Thief|Thief]] via revealing the locked {{c|Survival}} category
+}}

@@ -1,0 +1,16 @@
+{{Ability_box
+|image=Shattering_impact_2017.png
+|name=Shattering impact
+|category_type=[[Technique (category type)|Technique]]
+|category=[[Superiority (category)|Superiority]]
+|require={{TalentReq/TechsReqHigh4}}
+|use_mode=Sustained
+|cost=40 Stamina
+|cooldown=30
+|desc=
+Put all of your strength into your weapon blows, creating shockwaves that deal {{CTL|100%|38|60%}} Physical weapon damage to all nearby targets.  Only one shockwave will be created per action, and the primary target does not take extra damage.
+
+Each shattering impact will drain 8 stamina.
+
+''Note: The shockwaves damage all targets other than the primary in a radius 1 ball around you.''
+}}

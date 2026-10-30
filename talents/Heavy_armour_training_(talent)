@@ -1,0 +1,36 @@
+{{Ability_box
+|name = Heavy Armour Training
+|image = Armour_training.png
+|category_type = {{ct|Technique}}
+|category = {{c|Combat Training}}
+|game_version = 1.7.6
+|require = Str (16, 20, 26, 34, 44)
+|use_mode = Passive
+|desc = 
+You become better at using your armour to deflect blows and protect your vital areas.
+
+For heavy armour:
+* Increases [[armour]] value by {{cts|1|7|0.75}} × 1.5
+* Increase [[armour|armour hardiness]] by {{cl|(7.5 × Talent Level)|100|5|3.75|50|37.5}}
+* Reduce chance that melee or ranged attacks critically hit you by {{cts|1|9}} × 1.5
+
+For massive armour:
+* Increases [[armour]] value by {{cts|1|7|0.75}} × 2
+* Increase [[armour|armour hardiness]] by {{cl|(10 × Talent Level)|100|5|3.75|50|37.5}}
+* Reduce chance that melee or ranged attacks critically hit you by {{cts|1|9}} × 2
+
+(This talent only provides bonuses for heavy mail or massive plate armour.)
+
+At raw talent level 1, it allows you to wear heavy mail armour, gauntlets, helms, and heavy boots.
+
+At raw talent level 2, it allows you to wear shields.
+
+At raw talent level 3, it allows you to wear massive plate armour.
+
+''Note 1: the base armour hardiness is 45%''
+
+''Note 2: wearing heavy or massive armour will interfere with stealth, and [[Brawler]]s will be unable to perform many of their talents in massive armour''
+|avail=Note that both [[Adventurer]] and [[Wanderer]] classes begin with {{c|Combat Training}} unlocked
+|avail.classes=It would be easier to list the classes that ''don't'' have it by default: The entire {{mc|Mage}} metaclass—[[Alchemist]], [[Archmage]], [[Necromancer]]; plus [[Doomed]], [[Corruptor]], [[Anorithil]], [[Oozemancer]], [[Paradox Mage]], and [[Solipsist]]
+|avail.shops=[[Last Hope]] ([[Age of Ascendancy]]), [[Kruk Pride]] ([[Embers of Rage]])
+}}

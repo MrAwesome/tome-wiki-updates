@@ -1,0 +1,12 @@
+{{Ability_box
+|image=Lacerating_strikes_2017.png
+|name=Lacerating Strikes
+|game_version=1.7.4
+|category_type={{ct|Cunning}}
+|category={{c|Scoundrel}}
+|require={{TalentReq/CunsReq1}}
+|use_mode=Passive
+|desc=
+Your melee and ranged attacks have a {{ctl|70%|25|55%}} chance to shred enemies inflicting an additional 100% of the damage dealt as a bleed over 4 turns.
+|avail.escorts=[[Escorts#Thief|Thief]], +1 to talent or via revealing the locked {{c|Scoundrel}} category
+}}

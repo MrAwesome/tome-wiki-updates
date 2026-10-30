@@ -1,0 +1,14 @@
+{{Ability_box
+|image=Willful combat.png
+|name=Willful combat|category_type=[[Cunning (category type)|Cunning]]
+|category=[[Lethality (category)|Lethality]]
+|require={{TalentReq/CunsReq3}}
+|use_mode=Activated
+|cost=25 Stamina
+|cooldown=60
+|use_speed=Instant
+|desc=
+For {{CTL|60|5|11.1}} turns, you put all your will into your blows, adding {{CSS|Wil|4|40|0.75}} physical power to each strike.
+
+The effect will improve with your Cunning and Willpower stats.
+}}

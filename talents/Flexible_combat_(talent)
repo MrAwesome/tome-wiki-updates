@@ -1,0 +1,13 @@
+{{Ability box
+|game_version=1.7.4
+|image=Flexible combat.png
+|name=Flexible Combat
+|category_type=[[Prodigies]]
+|category=[[Prodigies#Dexterity|Dexterity]]
+|require=Dexterity 50
+|use_mode=Passive
+|desc=
+Each time that you make a melee attack you have a 50% chance to execute an additional unarmed strike.
+
+Learning this talent allows you to see the combat stats on gloves.
+}}

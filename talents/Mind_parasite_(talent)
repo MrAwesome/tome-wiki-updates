@@ -1,0 +1,22 @@
+{{Ability box
+|game_version=1.7.4
+|image=Mind parasite.png
+|name=Mind Parasite
+|category_type={{ct|Wild-Gift}}
+|category={{c|Oozing Blades}}
+|require={{TalentReq/GiftsReqHigh3}}
+|cost=12 Equilibrium
+|cooldown=15
+|range=6
+|use_speed=Mind
+|desc=
+You use your psiblades to fire a small worm at a foe.
+
+When it hits, it will burrow into the target's brain and stay there for 6 turns, interfering with its ability to use talents. 
+
+The chance for interference to occur is {{cl|{{ctmd|10|70}}|100%|39|9|86%|56}}.
+
+Each time a talent is interfered with, {{ctl|4|0.9|3.1}} other talents are placed on a {{ctl|10|3|6.5}} turn cooldown.
+
+The interference chance will increase with your Mindpower.
+}}

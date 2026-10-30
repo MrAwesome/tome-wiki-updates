@@ -1,0 +1,21 @@
+{{Ability box
+|name=Living Lightning
+|image=Living lightning.png
+|category_type={{ct|Spell}}
+|category={{c|Energy Alchemy}}
+|require={{TalentReq/SpellsReq4}}
+|use_mode=Sustained
+|range={{ctl|6|1|4}}
+|cost=100 Mana
+|cooldown=40
+|desc=
+Infuse your body with lightning energy, bolstering your movement speed by +{{cts|5|15%|0.9}}.
+
+Each turn, a foe within range {{ctl|6|1|3}} will be struck by lightning and be dealt {{ctspd|10|70}} Lightning damage.
+
+In addition, damage to your health will energize you.
+
+At the start of each turn in which you have lost at least 20% of your maximum life since your last turn, you will gain (50 + 0.1 * {{ctspd|5|500}})% of a turn.
+
+The effects increase with your Spellpower.
+}}

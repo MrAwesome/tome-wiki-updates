@@ -1,0 +1,11 @@
+{{Ability_box
+|name=Howl
+|category_type=[[NPC Only (category type)|NPC Only]]
+|category=-
+|image=Howl.png
+|cost=5 Equilibrium
+|range=10
+|cooldown=10
+|desc=
+Howl (radius {{cts|6|10}}) to call your hunting pack.
+}}

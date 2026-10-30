@@ -1,0 +1,12 @@
+{{Ability_box
+|name=Anomaly Gravity Pull
+|category_type={{ct|Chronomancy}}
+|category={{c|Anomaly}}
+|game_version=1.7.6
+|require=Prodigy; [[Prodigy|Temporal Form]] -> Talent: [[Temporal_form_(talent)]]
+|cost=none
+|cooldown=0
+|range=10
+|use_speed=Spell
+|desc=Increases localized gravity, pulling in targets in a radius of {{cl|Paradox Spellpower|6|2|20|4|100}}.
+}}

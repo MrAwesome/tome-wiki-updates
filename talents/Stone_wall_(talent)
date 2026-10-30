@@ -1,0 +1,19 @@
+{{Ability_box
+|image=Stone wall.png
+|name=Stone wall
+|category_type={{ct|Spell}}
+|category={{c|Earth}}
+|require={{TalentReq/SpellsReq4}}
+|use_mode=Activated
+|range=7
+|cost=50 Mana
+|cooldown=40
+|desc=
+Entomb yourself in a wall of stone for (2 + {{ctspd|5|12}}) turns (maximum 25).
+
+At level 4, it becomes targetable.
+
+Any hostile creature caught in the radius will also suffer {{ctspd|20|250}} physical damage.
+
+Duration and damage will improve with your Spellpower.
+}}

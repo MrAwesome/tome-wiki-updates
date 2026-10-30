@@ -1,0 +1,19 @@
+{{Ability box
+|image=Static shot.png
+|name=Static Shot
+|game_version=1.4.6
+|embers_version=1.0.3
+|category_type={{ct|Steamtech}}
+|category={{c|Gunner training}}
+|require={{TalentReq/SteamReq4}}
+|cooldown=8
+|cost=40 Steam
+|range=Steamgun range
+|use_speed=Steamgun speed
+|desc=
+You fire a special, electrically charged shot with your steamgun(s) at a spot within range.
+When each shot reaches its target, it bursts into electrified shrapnel within radius 2, which shocks each target hit and deals {{ctwd|60|120%}} weapon damage as lightning.
+Shocked targets lose up to {{ctl|3|1|1.5}} beneficial non-magical effects (for the first shot that hits).
+This talent does not use ammo.
+
+}}

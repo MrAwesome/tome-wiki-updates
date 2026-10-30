@@ -1,0 +1,11 @@
+{{Ability_box
+|image=Metaflow_2017.png
+|name=Metaflow
+|category_type={{ct|Spell}}
+|category={{c|Meta}}
+|require={{TalentReq/SpellsReq4}}
+|cost=70 Mana
+|cooldown=50
+|desc=
+Your mastery of the arcane flows allow you to reset the cooldown of {{cts|2|7|log}} of your spells of tier (Talent Level) or less.
+}}

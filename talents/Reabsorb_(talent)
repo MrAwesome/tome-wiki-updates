@@ -1,0 +1,23 @@
+{{Ability box
+|game_version=1.7.6
+|name=Reabsorb
+|image=Reabsorb.png
+|category_type={{ct|Wild-Gift}}
+|category={{c|Ooze}}
+|require={{TalentReq/GiftsReq2}}
+|cost=10 Equilibrium
+|cooldown=15
+|use_speed=Mind
+|desc=
+You randomly merge with an adjacent bloated ooze, granting you 40% all damage resistance for {{cts|4|8}} turns. (See notes below for side-effects by wild infusions).
+
+This process releases a burst of antimagic, dealing {{ctmd|15|200}} Manaburn damage in radius 3.
+
+This talent allows you to restore (0.2 + {{ctmd|0|1.4}}) Equilibrium per turn while Mitosis is active.
+
+The damage, duration and Equilibrium restoration increase with your Mindpower.
+
+}}
+
+Notes: 
+* The 40% damage resistance will be overwritten by the corresponding (often weaker) resistance from [[Inscription#Common_Infusions|wild infusions]].

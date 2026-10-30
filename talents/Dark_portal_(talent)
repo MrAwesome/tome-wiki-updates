@@ -1,0 +1,19 @@
+{{Ability box
+|image=Dark portal.png
+|name=Dark Portal
+|game_version=1.7.4
+|category_type={{ct|Corruption}}
+|category={{c|Vim}}
+|require={{TalentReq/CorrsReq2}}
+|cost=30 Vim
+|cooldown=15
+|range=7
+|travel_speed=instantaneous
+|use_speed=Spell
+|desc=
+Open a dark portal (radius 3) to the target zone. All creatures caught inside will be teleported to your location, and you to theirs.
+
+All creatures (except you) traversing the portal will catch a random disease, doing {{ctspd|12|80}} blight damage per turn for 6 turns and reducing one of its physical stats (strength, constitution, dexterity) by {{ctspd|5|25}}.
+
+The damage will increase with your Spellpower.
+}}

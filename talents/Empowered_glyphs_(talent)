@@ -1,0 +1,11 @@
+{{Ability_box
+|name = Empowered Glyphs
+|image = Divine glyphs.png
+|category_type = {{ct|Celestial}}
+|category = {{c|Glyphs}}
+|game_version = 1.7.4
+|require = {{TalentReq/DiviReqHigh3}}
+|use_mode = Passive
+|desc = 
+Up to 3 times per turn when one of your glyphs triggers you feel a surge of celestial power, increasing your darkness and light resistance and affinity by 5% for {{ctl|10|4|7}} turns, stacking up to {{ctl|6|2|5}} times.
+}}

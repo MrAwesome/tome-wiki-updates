@@ -1,0 +1,17 @@
+{{Ability box
+|image=Slip away.png
+|name=Slip away
+|game_version=1.7.4
+|embers_version=1.1.10
+|category_type={{ct|Steamtech}}
+|category={{c|Elusiveness}}
+|require={{TalentReq/SteamReq1}}
+|cooldown=8
+|cost=10 Steam
+|use_speed=0
+|desc=Using small steam motors to enhance your movements, you are able to slip past up to {{CTS|1|5}} foes in a line.
+
+After passing the targets, you will quickly run {{CTS|2|5}} tiles away.
+
+''Note: when used on open ground, your character will move the run distance plus 1 or 2 extra tiles''
+}}

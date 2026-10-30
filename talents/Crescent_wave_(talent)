@@ -1,0 +1,15 @@
+{{Ability box
+|name = Crescent Wave
+|game_version = 1.7.6
+|embers_version = 1.1.10
+|category_type = {{ct|Celestial}}
+|category = {{c|Void (celestial)}}
+|require = {{TalentReq/DiviReqHigh2}}
+|cooldown = ?
+|cost = ?
+|range = ?
+|use_speed = ?
+|desc = Fires out a projectile in a clockwise arc. If it hits an enemy it deals X damage and roots them for one turn. If another projectile damages them within Y turns, they take half that damage and are rooted again.
+
+''Currently unimplemented and unused.''
+}}

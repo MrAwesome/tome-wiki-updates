@@ -1,0 +1,14 @@
+{{Ability_box
+|image=Empower poisons.png
+|name=Empower poisons
+|category_type=[[Cunning (category type)|Cunning]]
+|category=[[Poisons (category)|Poisons]]
+|require={{TalentReq/CunsReqHigh3}}
+|use_mode=Activated
+|cost=15 Stamina
+|cooldown=24
+|desc=
+Reduces the duration of all poisons on the target by 50%, but increases their damage by (100 + {{ctstd|Cun|40|250}})%.
+
+The effect increases with your Cunning.
+}}

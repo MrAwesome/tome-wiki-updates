@@ -1,0 +1,20 @@
+{{Ability box
+|image=Reckless charge.png
+|name=Reckless Charge
+|category_type={{ct|Cursed}}
+|category={{c|Slaughter}}
+|require={{TalentReq/CursedStrReq3}}
+|cooldown=15
+|cost=5 Hate
+|range={{cts|4|8}}
+|desc=
+Charge through your opponents, attacking anyone near your path for 35% (at 0 Hate) to 70% (at 100+ Hate) damage.
+
+Small sized opponents may be knocked away from your path.
+
+At talent level 3, you may knock back medium sized opponents.
+
+At talent level 5, you may knock back big sized opponents.
+
+You can attack a maximum of {{cts|2|6|log}} times, and can hit targets along your path more than once.
+}}

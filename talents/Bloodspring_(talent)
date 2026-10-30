@@ -1,0 +1,14 @@
+{{Ability box
+|game_version=1.5.10
+|image=Bloodspring.png
+|name=Bloodspring
+|category_type=[[Prodigies]]
+|category=[[Prodigies#Constitution|Constitution]]
+|require=Constitution 50<br />Have let Melinda be sacrificed in the [[Dark Crypt]]
+|use_mode=Passive
+|cooldown=12
+|desc=
+When a single blow deals more than 15% of your total life, a torrent of blood gushes from your body, creating a bloody tidal wave in a radius of 1 that expands to a radius of 3 over 4 turns. The Bloodspring deals (100 + 3 * Constitution) blight damage each turn, healing you for 50% of the damage done, and knocks foes back.
+
+The damage increases with your Constitution.
+}}

@@ -1,0 +1,14 @@
+{{Ability box
+|image=Mind sear.png
+|name=Mind Sear
+|category_type={{ct|Psionic}}
+|category={{c|Psychic Assault}}
+|require={{TalentReq/PsiWilReq1}}
+|range=7
+|cost=5 Psi
+|cooldown=2
+|desc=Sends a telepathic attack, trying to destroy the brains of any target in the beam, doing {{ctmd|10|300}} mind damage.
+
+''Note: Mind Sear will not damage your own thought-forms.''
+|avail.escorts=[[Escorts#Loremaster|Loremaster]], +1 to talent
+}}

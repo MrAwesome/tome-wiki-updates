@@ -1,0 +1,14 @@
+{{Ability box
+|game_version=1.4.5
+|image=Energy absorption.png
+|name=Energy Absorption
+|category_type={{ct|Chronomancy}}
+|category={{c|Energy}}
+|require={{TalentReq/ChronoReq2}}
+|cost=10 Paradox
+|cooldown=6; Fixed Cooldown
+|range=10
+|desc=
+You sap the target's energy and add it to your own, placing up to (1 + {{ctl|3|0|2}}) random talents on cooldown for {{cts|1|2.6}} turns.  
+For each talent put on cooldown, you reduce the cooldown of one of your {{ct|Chronomancy}} talents currently on cooldown by {{cts|1|2.6}} turns.
+}}

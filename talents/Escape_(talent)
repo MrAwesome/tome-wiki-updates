@@ -1,0 +1,16 @@
+{{Ability_box
+|image=escape.png
+|name=Escape
+|game_version=1.5.2
+|category_type={{ct|Technique}}
+|category={{c|Reflexes}}
+|require={{TalentReq/TechsDexReq4}}
+|use_mode=Activated
+|cooldown=25
+|travel_speed=Instantaneous
+|use_speed=Instant
+|desc=
+You put all your focus into escaping combat for 4 turns. While under this effect you gain {{cTL|70%|15|40%}} increased resistance to all damage, {{cTS|5|10}} increased stamina regeneration, immunity to stun, pin, daze, and slowing effects, and {{cTS|150|350%}} increased movement speed.
+
+Any action other than movement will cancel this effect.
+}}

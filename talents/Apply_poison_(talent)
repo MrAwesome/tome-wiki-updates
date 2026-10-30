@@ -1,0 +1,17 @@
+{{Ability_box
+|image=apply_poison.png
+|name=Apply Poison
+|game_version=1.5.2
+|category_type=[[Cunning (category type)|Cunning]]
+|category=[[Poisons (category)|Poisons]]
+|require={{TalentReq/CunsReq1}}
+|use_mode=Sustained
+|cost=10 Stamina
+|cooldown=10
+|travel_speed=instantaneous
+|use_speed=Standard
+|desc=
+Learn how to coat your melee weapons, throwing knives, sling and bow ammo with poison, giving your attacks a {{cTL|100%|25|45%}} chance to poison the target for 8 + {{ctstd|Cun|10|60}} * 0.6 nature damage per turn for {{cTS|4|7}} turns. Every application of the poison stacks, up to a maximum of 32 + {{ctstd|Cun|10|60}} * 2.4 nature damage per turn.
+
+The damage scales with your Cunning.
+}}

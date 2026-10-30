@@ -1,0 +1,17 @@
+{{Ability_box
+|name = Sanity Warp
+|image = Sanity_warp.png
+|category_type = {{ct|Demented}}
+|category = {{c|Madness}}
+|game_version = 1.7.4
+|forbidden_version = 1.0.12
+|require = {{TalentReq/DementedReq3}}
+|use_mode = Passive
+|range = 
+|cost = 
+|cooldown = 
+|travel_speed = 
+|use_speed = 
+|desc = 
+When a hallucination from {{t|Hideous Visions}} is slain, it unleashes a psychic shriek dealing {{ctspd|10|60}} darkness damage to enemies in radius {{cts|1|2.6}}.
+}}

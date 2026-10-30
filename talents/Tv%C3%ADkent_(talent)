@@ -1,0 +1,16 @@
+{{Ability box
+|image=Thought_forms.png
+|name=Tvíkent
+|category_type={{ct|Technique}}
+|category={{c|Kenning}}
+|require={{TalentReq/SpellsReqHigh3}}
+|cost=100 Mana
+|cooldown=50
+|range=10
+|desc=
+Kennings can contain kennings, and those can contain kennings themselves. You apply this principle to your own existence.
+
+1-5 magical copies of yourself spring forth. The copies possess your exact talents and stats, but only a fraction of your health.
+
+All damage dealt by your copies will be multiplied by {{cl|{{ctspd|10|500}}|140%|40|0|76%|361}}.
+}}

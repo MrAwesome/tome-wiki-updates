@@ -1,0 +1,16 @@
+{{Ability_box
+|image=Battle_shout_2017.png
+|name=Battle shout
+|category_type=[[Technique (category type)|Technique]]
+|category=[[Warcries (category)|Warcries]]
+|require={{TalentReq/TechsReqHigh3}}
+|use_mode=Activated
+|cost=40 Stamina
+|cooldown=30
+|desc=
+Boost your life and stamina by {{CTL|50%|11|25%}} for {{CTL|30|7|15}} turns by bellowing your battle shout.
+
+When the effect ends, the additional life and stamina will be lost.
+
+''Note: The loss of life when this talent's effect expires can kill you without warning.''
+}}

@@ -1,0 +1,13 @@
+{{Ability box
+|game_version=1.7.6
+|image=Thick fur.png
+|name=Thick Fur
+|category_type={{ct|Race}}
+|category={{c|Kruk Yeti}}
+|require={{TalentReq/RacialReq2}}
+|use_speed=
+|use_mode=Passive
+|cooldown=
+|desc=Your yeti's fur acts like a shield, providing {{cts|3%|20%}} + 10% cold resistance, {{cts|3%|10%}} + 10% physical resistance and {{cts|6|25|0.75}} magical save.
+
+}}

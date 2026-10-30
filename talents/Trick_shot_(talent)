@@ -1,0 +1,26 @@
+{{Ability box
+|image=Trick shot.png
+|name=Trick Shot
+|game_version=1.7.4
+|embers_version=1.1.10
+|category_type={{ct|Steamtech}}
+|category={{c|Gunslinging}}
+|require={{TalentReq/SteamReq4}}
+|cooldown=8
+|cost=25 Steam
+|range=Steamgun Range
+|use_speed=Archery
+|desc=
+Your cunning and dexterity allow you to fire incredible trick shots that can hit multiple targets.
+
+You precisely aim your trick shot to ricochet amongst foes you can see so that whenever it hits something solid (creature or solid wall), it will bounce towards the next closest foe.
+
+It may ricochet up to {{cts|0.8|4.5|log}} times (or until it misses) within range 5 of your first target and will not target the same foe twice.
+
+Your shot deals {{ctwd|60|140%}} weapon damage on its first strike, but loses {{ctl|0%|35|12%}} damage and ({{ctl|0|0.44|0.15}} * Steamgun Accuracy) ({{ctl|0%|44|15%}}) accuracy with each bounce.
+
+''Note: The ricochet shots will indiscriminately target enemies, and can hit allies along the way.''
+
+''Note: The listed accuracy loss per bounce is for your main-hand steamgun.''
+
+}}

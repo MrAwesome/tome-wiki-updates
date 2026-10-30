@@ -1,0 +1,18 @@
+{{Ability box
+|image=Demon blade.png
+|name=Demon Blade
+|category_type={{ct|Corruption}}
+|category={{c|Infernal combat}}
+|require={{TalentReq/SpellsReq3}}
+|use_mode=Activated
+|range=Melee/Personal
+|cost=20 Vim
+|cooldown=10
+|speed=instant
+|desc=
+Imbue your weapon with fire for 5 turns. During this time, all your melee hits will trigger a ball of fire radius 1 dealing 5 + {{ctspd|10|100}} / 5 fire damage.
+
+This effect can only happen once per turn.
+
+The damage increases with spellpower.
+}}

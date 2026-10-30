@@ -1,0 +1,19 @@
+{{Ability_box
+|game_version=1.4.5
+|name=Contingency
+|image=Contingency.png
+|category_type={{ct|Chronomancy}}
+|category={{c|Chronomancy}}
+|require={{TalentReq/ChronoReq3}}
+|use_mode=Sustained
+|range=melee/personal
+|cost=36 Paradox
+|cooldown=50
+|travel_speed=instantaneous
+|use_speed=Spell
+|desc=
+Choose an activatable spell that affects only you and does not require a target.  When you take damage that reduces your life below {{cts|25|45%|60%}} the spell will automatically cast.
+This spell will cast even if it is currently on cooldown, will not consume a turn or resources, and uses the talent level of Contingency or its own, whichever is lower.
+This effect can only occur once every 50 turns{{verify}} and takes place after the damage is resolved.
+|avail.escorts=[[Escorts#Temporal_Explorer_.28Arcane.29|Temporal Explorer (Arcane)]] (Normal Escort Reward), via revealing the locked {{c|Chronomancy}} category
+}}

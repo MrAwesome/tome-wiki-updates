@@ -1,0 +1,20 @@
+{{Ability_box
+|game_version = 1.7.4
+|name = Dire Plague
+|image = dire plague.png
+|category_type={{ct|Spell}}
+|category={{c|Age of Dusk}}
+|require = {{TalentReq/SpellsReqHigh1}}
+|cost = 25 Mana, 1 Soul
+|range = 0
+|cooldown = 20
+|use_speed = Spell
+|desc = 
+You unleash the glorious vision of the past when the continent was filled with death and plagues.
+
+All foes in range {{cts|4|8}} catch a dire plague for 5 turns, dealing {{ctspd|15|70}} darkness damage each turn.
+
+The Dire Plague is considered a disease but is not prevented by disease immunity.
+
+Every turn there is a {{cts|2|7%}} chance of a piece of the soul to be ripped away, increasing your souls by 1.
+}}

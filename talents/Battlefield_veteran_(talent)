@@ -1,0 +1,19 @@
+{{Ability box
+|image=Battlefield veteran.png
+|name=Battlefield veteran
+|game_version=1.4.6
+|embers_version=1.0.3
+|category_type={{ct|Steamtech}}
+|category={{c|Battlefield Management}}
+|require={{TalentReq/SteamReq4}}
+|use_mode=Passive
+|desc=
+You have lived through many battles, and your experience makes you a gritty veteran.
+
+{{t|Saw Wheels}} end of effect attack increased by {{cts|10|30%}}.
+
+{{t|Grinding Shield}} lets you live below your normal limits, up to -{{cts|60|250}} life.
+
+{{t|Punishment}} has a {{cts|30|85%|100%}} chance to have its cooldown reduced by 1 for each effect.
+
+}}

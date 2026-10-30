@@ -1,0 +1,47 @@
+{{Ability_box
+|image=Trap_mastery_2017.png
+|game_version=1.7.4
+|name=Trap Mastery
+|category_type=[[Cunning (category type)|Cunning]]
+|category=[[Trapping (category)|Trapping]]
+|require=Level (0,3,8,15,24) Cun (15,17,19,21,23) <!-- A custom formula, not one of the standard requirements -->
+|use_speed=Standard
+|desc=
+This talent allows you to prepare up to (Raw talent level, min 1, max 3) different trap(s) of tier (Raw talent level, max 5) or less for later deployment. (Use this ability to select which to prepare.)
+Designs known:
+
+(Known/unlocked traps go here, in the format "Tier X: Trap Name - short description")
+
+Many traps scale based on a value called '''trap_effectiveness'''. This value is given by the formula (1 + {{CTS|25|100}}/100)*{{CSS|cun|1|5}}, and it generally ranges from 1 to 10 at normal character levels. The talent level used for the combatTalentScale is {{t|Trap Priming}}'s level if the trap is primed, or Trap Mastery's level otherwise. The stat that the combatStatScale uses is Cunning unless stated otherwise, but for {{t|Gravitic Trap}} it uses Magic, and for {{t|Purging Trap}} it uses Willpower.
+
+Traps prepared this way are difficult to detect ({{cS|Talent Level * .25 * Cun|10|3.75|75|125|0.25}} detection 'power')<br/>
+and disarm ((1.25 * the detection power) disarm 'power') based on your Cunning.<br/>
+They gain +{{cTS|25|100%}} effectiveness,<br/>
+and can be deployed without breaking stealth (trap_effectiveness*10 + min(25, {{t|Advanced Trap Deployment}} talent level), min 0, max 100)% of the time.<br>
+You are immune to the damage and negative effects of your traps, and traps may critically strike based on your physical crit chance.<br>
+Most traps last {{cTS|9|13}} turns if not triggered, and refund 80% of their stamina cost on expiration.<br>
+More designs may be discovered or learned from special instructors in the world.<br/>
+Note: Discovery usually involves disarming traps you find in the world.
+
+The following traps are always available, and can be prepared as long as your Trap Mastery raw talent level is high enough:
+*Tier 1: {{t|Bear Trap}}
+*Tier 1: {{t|Disarming Trap}}
+*Tier 2: {{t|Springrazor Trap}}
+*Tier 3: {{t|Pitfall Trap}}
+*Tier 4: {{t|Flash Bang Trap}}
+*Tier 5: {{t|Bladestorm Trap}}
+
+The following traps must be unlocked. You can unlock them by specific methods, or you have a chance to unlock one by dismantling it or a similar trap as you disarm it:
+*Tier 2: {{t|Poison Gas Trap}} - Read the [[lore]] note ''"the perfect killing device"'' next to the downstairs on level 1 of [[The Maze]], or dismantle a Poison Gas Trap, Poison Spore Trap (spore colony), or Poison Blast Trap
+*Tier 2: {{t|Explosion Trap}} - Dismantle an Explosion Trap, Fire Blast Trap (burnt spot), or Delayed Explosion Trap (hot spot)
+*Tier 3: {{t|Beam Trap}} - Return to [[Derth]] after completing the quest [[Storming the city]] via [[Angolwen]], or dismantle a Beam Trap or Spinning Beam Trap (magical emitter)
+*Tier 3: {{t|Freezing Trap}} - Kill [[Varsha the Writhing]] in the alternate [[Daikara]], or dismantle a Freezing Trap or Cold Flames Trap (cold spot)
+*Tier 3: {{t|Catapult Trap}} - Kill [[Filio Flightfrond]] in [[Dreadfell]], or dismantle a Catapult Trap or Giant Boulder Trap (large pressure plate)
+*Tier 4: {{t|Purging Trap}} - Talk to [[Protector Myssil]] in [[Zigur]] after killing [[Urkis, the High Tempest]], or dismantle a Purging Trap or Anti-Magic Trap (dull area)
+*Tier 4: {{t|Nightshade Trap}} - Dismantle a Nightshade Trap or Poison Vine (venomous vine)
+*Tier 5: {{t|Dragonsfire Trap}} - Kill [[Rantha the Worm]] in the normal [[Daikara]], or dismantle a Dragonsfire Trap or Dragon Fire Trap (burned area)
+*Tier 5: {{t|Ambush Trap}} - Save the merchant in the [[Trapped!]] quest and then buy it from him for 3000 gold, or side with the [[Assassin Lord]] and get it for free, or dismantle an Ambush Trap or Summoning Alarm (ring of faded symbols)
+*No tier: {{t|Gravitic Trap}} - Learn the {{t|Mystical Cunning}} [[prodigy]]
+It takes multiple uninterrupted turns (i.e. with no enemies around) to successfully learn a trap by dismantling it.
+|avail.classes=[[Archer]], [[Rogue]], [[Skirmisher]]
+}}

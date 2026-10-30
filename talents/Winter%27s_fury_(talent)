@@ -1,0 +1,13 @@
+{{Ability box
+|image=Winter's Fury.png
+|name=Winter's Fury
+|category_type={{ct|Wild-Gift}}
+|category={{c|Other}}
+|cooldown=4
+|cost=10 Equilibrium
+|range=0
+|desc=
+A furious ice storm rages around the user doing {{ctstd|Wil|30|120}} cold damage in a radius of 3 each turn for %d turns.
+It has 25%% chance to freeze damaged targets.
+The damage and duration will increase with your Willpower.
+}}

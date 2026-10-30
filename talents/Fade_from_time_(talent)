@@ -1,0 +1,17 @@
+{{Ability box
+|image=Fade from time.png
+|name=Fade from Time
+|category_type={{ct|Chronomancy}}
+|category={{c|Paradox}}
+|require={{TalentReq/ChronoReqHigh3}}
+|cost=10 Paradox
+|cooldown=24
+|desc=
+You partially remove yourself from the timeline for 10 turns.
+
+This reduces all damage you deal by 20%, but increases your resistance to all damage by {{ctspd|10|50%|PM}}, and reduces the duration of all detrimental effects on you by {{cl|{{ctspd|10|50|PM}}|100%|0|0|32.9%|32.9}}.
+
+The damage penalty, resistance bonus, and effect reduction will gradually lose power over the duration of the spell.
+
+The effects scale with your Paradox and Spellpower.
+}}

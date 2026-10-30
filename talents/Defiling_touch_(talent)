@@ -1,0 +1,31 @@
+{{Ability box
+|image=Defiling touch.png
+|name=Defiling Touch
+|category_type={{ct|Cursed}}
+|category={{c|Cursed Aura}}
+|require={{TalentReq/CursedLevReq1}}
+|cooldown=0
+|use_speed=0
+|desc=
+Your defiling touch permeates everything around you, permanently imparting a random curse on each item you find. When you equip a cursed item, you gain the effects of that curse (shown as a beneficial effect). Each item with the same curse that is equipped increases the curse's power.  Initially curses are harmful, but powerful benefits accumulate as the power of the curse increases.
+
+The {{t|Dark Gifts}} talent unlocks higher level curse effects and increases their power.
+
+Your aura permeates your equipment more thoroughly with talent level and can affect items as follows:
+
+*Level 1  -- weapons
+*Level 2  -- body armor and cloaks
+*Level 3  -- shields and helmets
+*Level 4  -- gloves, boots and belts
+*Level 6  -- rings
+*Level 7  -- amulets/necklaces
+*Level 8  -- lites
+*Level 9  -- tools/totems/torques/wands
+*level 10 -- ammunition
+
+At level 5, you can activate this talent to surround yourself with an aura that adds 2 levels to a curse of your choosing.
+
+Also, talent levels above 5 reduce the negative effects of your curses to {{ctl|0%|100|64%}} of the original value, with the effect scaling to (Talent Level - 4).
+
+''See [[Cursed_aura_(category)/Curses|Cursed Aura Effects]] for details on individual effects''
+}}

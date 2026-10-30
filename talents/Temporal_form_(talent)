@@ -1,0 +1,17 @@
+{{Ability box
+|game_version=1.5.10
+|image=Temporal form.png
+|name=Temporal Form
+|category_type=[[Prodigies]]
+|category=[[Prodigies#Magic|Magic]]
+|require=Magic 50<br />Have cast over 1,000 spells<br />Visited the [[Temporal Rift]] or the [[Paradox Plane]], or have cast {{t|Timeport: Point Zero}}
+|use_mode=activated
+|use_speed=instant
+|cooldown=30
+|desc=
+You can wrap temporal threads around you, assuming the form of a telugoroth for 10 turns.
+
+While in this form you gain pinning, bleeding, blindness and stun immunity, 30% temporal resistance, your temporal damage bonus is set to your current highest damage bonus + 30%, 50% of the damage you deal becomes temporal, and you gain 20% temporal resistance penetration.
+
+You also are able to cast anomalies: {{t|Anomaly Rearrange}}, {{t|Anomaly Temporal Storm}}, {{t|Anomaly Flawed Design}}, {{t|Anomaly Gravity Pull}} and {{t|Anomaly Wormhole}}.
+}}

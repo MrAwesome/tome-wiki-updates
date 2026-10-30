@@ -1,0 +1,17 @@
+{{Ability_box
+|image=Slash.png
+|name=Slash
+|category_type={{ct|Cursed}}
+|category={{c|Slaughter}}
+|require={{TalentReq/CursedStrReq1}}
+|cooldown=8
+|cost=2 Hate
+|desc=
+You slash wildly at your target for (100 + 0.3 * {{ctid|Str|30|150|0.4}})% (at 0 Hate) to (100 + {{ctid|Str|30|150|0.4}})% (at 100+ Hate) damage.
+
+At level 3, any wound you inflict with this carries a part of your curse, reducing the effectiveness of healing by {{cl|√ (Talent Level - 2)|100%|0|0|26%|1.73}}.
+
+The penalty to healing will last 15 turns and will stack.
+
+The damage multiplier increases with your Strength.
+}}

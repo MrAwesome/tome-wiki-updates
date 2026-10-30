@@ -1,0 +1,12 @@
+{{Ability box
+|image=Hardened core.png
+|name=Hardened core
+|category_type={{ct|Corruption}}
+|category={{c|Doom shield}}
+|require={{TalentReq/SpellsReq2}}
+|use_mode=Passive
+|desc=
+Taking example from Mal'Rok, the demon's homeworld, you harden yourself.
+
+Increases total armor by {{cts|10%|60%}} + 10 and spellpower by {{cts|20%|40%|0.75}} of your Strength
+}}

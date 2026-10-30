@@ -1,0 +1,18 @@
+{{Ability box
+|image=Undead explosion.png
+|name=Undead Explosion
+|category_type={{ct|Spell}}
+|category={{c|Advanced Necrotic Minions}}
+|require={{TalentReq/SpellsReqHigh1}}
+|cost=30 Mana
+|cooldown=10
+|range=8
+|desc=
+Minions are only tools. You may dispose of them... Violently.
+
+Makes the targeted minion explode for a percentage of its maximum life in a radius of {{cts|1.3|2.7}} as blight damage.
+
+The percentage of maximum life dealt as damage is {{cl|{{ctspd|20|70}}|90%|0|0|25%|25}}.
+
+Beware! Don't get caught in the blast! (unless you know {{t|Dark Empathy}})
+}}

@@ -1,0 +1,19 @@
+{{Ability box
+|image=Blood boil.png
+|name=Blood Boil
+|game_version=1.7.4
+|category_type={{ct|Corruption}}
+|category={{c|Blood}}
+|require={{TalentReq/CorrsReq3}}
+|cooldown=8
+|cost=30 Vim
+|range=0
+|travel_speed=instantaneous
+|use_speed=Spell
+|desc=
+Make the impure blood of all creatures around you in radius 10 boil.
+
+Each enemy afflicted by a disease, poison, or wound will have one removed at random dealing {{ctspd|10|250}} blight damage, healing you for {{ctspd|10|90}}, and slowing them by {{ctl|100%|35|70%}} for 5 turns.
+
+The damage will increase with your Spellpower.
+}}

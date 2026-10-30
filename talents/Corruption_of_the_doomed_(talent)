@@ -1,0 +1,26 @@
+{{Ability box
+|game_version=1.7.6
+|ashes_version=1.0.6
+|image=Corruption of the doomed.png
+|name=Corruption of the doomed
+|category_type={{ct|Race}}
+|category={{c|Doomelf}}
+|require={{TalentReq/RacialReq3}}
+|use_mode=Sustained
+|cooldown={{ctl|5|47|35}}
+|use_speed=0
+|desc=
+Your original invisibility talent was corrupted and twisted.
+
+You have {{ctl|100%|21|45%}} chance to turn into a dúathedlen for 5 turns, when hit by a blow doing at least 10% of your total life.
+
+While in this form you gain the following effects:
+
+- you have permanent stealth (power {{css|Mag|7|25}})
+
+- your darkness damage is increased by {{ctl|20|5|15%}})
+
+- any non mind and non physical damage you deal above (1.4 * Character Level) triggers a darkness explosion of radius 1 for half the damage (this can only happen once per turn)
+
+- when you transform the cooldowns of {{t|Haste of the Doomed}} and {{t|Pitiless}} are reset.
+}}

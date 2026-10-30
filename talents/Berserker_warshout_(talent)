@@ -1,0 +1,17 @@
+{{Ability box
+|image=Warshout.png
+|game_version=1.4.5
+|name=Berserker Warshout
+|category_type={{ct|Technique}}
+|category={{c|Berserker's Strength}}
+|require={{TalentReq/TechsReq1}}
+|range={{cts|4|8}}
+|cost=30 Stamina
+|cooldown=18
+|desc=
+Shout your warcry in a frontal cone of radius {{cts|4|8}}. Any targets caught inside will be confused for {{cts|4|8}} turns.
+
+The 'power' of the confusion is 50 + (Talent Level * 10). 
+
+You must have a two handed weapon to use this talent.
+}}

@@ -1,0 +1,15 @@
+{{Ability_box
+|image=Mudslide.png
+|name=Mudslide
+|category_type={{ct|Spell}}
+|category={{c|Earth}}
+|require={{TalentReq/SpellsReq3}}
+|use_mode=Activated
+|range=0
+|cost=40 Mana
+|cooldown=12
+|desc=
+Conjures a mudslide, dealing {{ctspd|10|250}} physical damage in a radius of {{cts|4|8}}. Any creatures caught inside will be knocked back.
+
+The damage will increase with your Spellpower.
+}}

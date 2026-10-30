@@ -1,0 +1,17 @@
+{{Ability box
+|game_version=1.7.4
+|image=Attenuate.png
+|name=Attenuate
+|category_type={{ct|Chronomancy}}
+|category={{c|Flux}}
+|require={{TalentReq/ChronoReq3}}
+|use_mode=Activated
+|cost=10 Paradox
+|range=10
+|cooldown=4
+|use_speed=Spell
+|desc=
+Deals {{ctspd|25|290|PM}} temporal damage over return 4 turns to all targets in a radius of {{cts|1|2}}.  Targets with {{t|Reality Smearing}} active will instead recover ({{ctspd|25|290|PM}}*0.4) life over four turns.
+If a target is reduced below 20% life while Attenuate is active it may be instantly slain.
+The damage will scale with your Spellpower.
+}}

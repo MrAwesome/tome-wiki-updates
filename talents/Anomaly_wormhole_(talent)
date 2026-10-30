@@ -1,0 +1,12 @@
+{{Ability_box
+|name=Anomaly Wormhole
+|category_type={{ct|Chronomancy}}
+|category={{c|Anomaly}}
+|game_version=1.7.6
+|require=Prodigy; [[Prodigy|Temporal Form]] -> Talent: [[Temporal_form_(talent)]]
+|cost=none
+|cooldown=0
+|range=10
+|use_speed=Spell
+|desc=Creates a wormhole nearby and a second wormhole up to ten tiles away.
+}}

@@ -1,0 +1,20 @@
+{{Ability box
+|game_version=1.7.6
+|image=Weapon of light.png
+|name=Weapon of Light
+|category_type={{ct|Celestial}}
+|category={{c|Combat}}
+|require={{TalentReq/DiviReq1}}
+|use_mode=Sustained
+|cost=10 Positive
+|cooldown=10
+|use_speed=Spell
+|desc=
+Infuse your weapon with the power of the Sun, adding (7 + 0.092 * Spellpower * {{cts|1|7}}) light damage on each melee hit.
+
+Additionally, if you have a temporary damage shield active, melee attacks will increase its power by (7 + 0.092 * Spellpower * {{cts|1|7}}) and set its duration to 2 (if not already higher), once per turn.
+
+If the same shield is refreshed 20 times it will become unstable and explode, removing it.
+
+The damage dealt and shield bonus will increase with your Spellpower.
+}}

@@ -1,0 +1,14 @@
+{{Ability box
+|image=Cleansing flames_2017.png
+|name=Cleansing Flames
+|category_type={{ct|Spell}}
+|category={{c|Wildfire}}
+|require={{TalentReq/SpellsReqHigh3}}
+|use_mode=Passive
+|desc=
+When your {{t|Burning Wake}} talent is active, your {{t|Inferno}} and {{t|Burning Wake}} effects have a (10 * Raw Talent Level)% chance, each turn, to remove a status effect (physical, magical, curse or hex) from the targets.
+
+If the target is hostile, it will remove a beneficial effect.
+
+If the target is friendly, it will remove a detrimental effect (but still burn).
+}}

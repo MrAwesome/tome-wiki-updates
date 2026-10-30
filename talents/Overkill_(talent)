@@ -1,0 +1,17 @@
+{{Ability box
+|image=Overkill_2017.png
+|name=Overkill
+|game_version=1.7.4
+|category_type={{ct|Corruption}}
+|category={{c|Torment}}
+|require={{TalentReq/CorrsReq3}}
+|use_mode=Sustained
+|cooldown=20
+|cost=18 Vim
+|travel_speed=instantaneous
+|use_speed=Spell
+|desc=
+When you kill a creature, the remainder of the damage done will not be lost. Instead, {{cl|{{ctspd|10|70}}|100%|20|0|66.7%|46.7}} of it will splash in a radius 2 as blight damage.
+
+The splash damage will increase with your Spellpower.
+}}

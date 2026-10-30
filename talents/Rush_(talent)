@@ -1,0 +1,18 @@
+{{Ability_box
+|game_version=1.6.7
+|image=Rush_2017.png
+|name=Rush
+|category_type=[[Technique (category type)|Technique]]
+|category=[[Combat techniques (category)|Combat techniques]]
+|require={{TalentReq/TechsStrDexReq1}}
+|use_mode=Activated
+|range={{CTS|6|10}}
+|cost=22 Stamina
+|cooldown={{CTL|0|36|20}}
+|travel_speed=instantaneous
+|use_speed=Weapon
+|desc=
+Rush toward a target enemy with incredible speed and perform a melee attack for 120% weapon damage that can daze the target for 3 turns if it hits.
+
+You must rush from at least 2 tiles away.
+}}

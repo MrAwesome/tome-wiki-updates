@@ -1,0 +1,19 @@
+
+{{Ability box
+|name=Detonating Charge
+|image=Detonating_charge.png
+|category_type={{ct|Corruption}}
+|category={{c|Wrath}}
+|require=Level (14,15,16,17,18) Str (30,32,34,36,38)
+|cost=24 Stamina, 18 Vim
+|cooldown=12
+|range=5-10
+|desc=
+Launch yourself toward a target. If the target is reached, you get a free attack doing {{cts|121|210}}% weapon damage.
+
+If the attack hits, you release a massive burst of fire in radius {{cts|2|5}}, knocking away all enemies except your target and dealing 40-82* damage.
+
+You must charge from at least 2 tiles away.
+
+''*Damage scales with spellpower.''
+}}

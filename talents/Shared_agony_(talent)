@@ -1,0 +1,15 @@
+{{Ability_box
+|game_version = 1.7.6
+|name = Shared Agony
+|image = Shared_agony.png
+|category_type = {{ct|Cursed}}
+|category = {{c|Crimson Templar}}
+|require = {{TalentReq/CursedMagReqHigh1}}
+|use_mode = Sustained
+|cooldown = 10
+|use_speed = Mind
+|desc = 
+You displace {{ctl|50|10|25}}% of any damage you receive onto a random bleeding enemy within range 5. This redirected damage is amplified by {{ctl|300|130|200}}%.
+
+''All living things are linked by blood. It is one river, flowing through all.''
+}}

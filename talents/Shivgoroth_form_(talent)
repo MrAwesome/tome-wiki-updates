@@ -1,0 +1,17 @@
+{{Ability_box
+|image=Shivgoroth form.png
+|name=Shivgoroth Form
+|category_type={{ct|Spell}}
+|category={{c|Water}}
+|require={{TalentReq/SpellsReq4}}
+|cost=25 Mana
+|cooldown=20
+|range=10
+|use_speed=0
+|desc=
+You absorb latent cold around you, turning into an ice elemental - a shivgoroth - for (4 + Talent Level) turns.
+
+While transformed, you do not need to breathe, gain access to the {{t|Ice Storm}} talent at level (Raw Talent Level), gain (10 + 0.2 * {{ctspd|50|450}})% resistance to cuts and stuns, gain (5 + 0.1 * {{ctspd|50|450}})% cold resistance, and all cold damage heals you for (60 + 0.2 * {{ctspd|50|450}})% of the damage done.
+
+The power will increase with your Spellpower.
+}}

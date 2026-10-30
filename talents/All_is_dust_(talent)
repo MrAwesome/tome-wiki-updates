@@ -1,0 +1,23 @@
+{{Ability_box
+|name = All is Dust
+|image = All_is_dust.png
+|category_type = {{ct|Demented}}
+|category = {{c|Oblivion}}
+|game_version = 1.7.4
+|forbidden_version = 1.0.12
+|require = {{TalentReq/DementedReqHigh4}}
+|range = 7
+|cost = 10 Insanity
+|cooldown = 20
+|use_speed = Spell
+|desc = 
+Summon a radius 4 storm of all-consuming oblivion at the targeted location for {{ctl|12|3|10}} turns, reducing those within to nothing. Targets within will take {{ctspd|1|20}} darkness damage and {{ctspd|1|20}} temporal damage each turn.  Walls and other terrain within the storm will be disintegrated.
+
+Each time the storm deals damage enemies will have any detrimental magical effect with less than 3 duration set to 3 duration, and all enemy projectiles will be destroyed.
+
+The damage will scale with your Spellpower.
+
+''Note 1: only diggable terrain can be disintegrated; this does not occur immediately on casting however, but one layer of walls will be peeled off per turn''
+
+''Note 2: the storm will destroy projectiles when it is cast, so it can be used reactively for that purpose''
+}}

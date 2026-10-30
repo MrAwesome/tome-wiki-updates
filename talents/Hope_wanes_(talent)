@@ -1,0 +1,14 @@
+{{Ability box
+|name=Hope Wanes
+|category_type={{ct|Corruption}}
+|category={{c|Oppression}}
+|require={{TalentReq/StrCorrsReq4}}
+|usemode=Sustained
+|cost=80 Vim
+|cooldown={{cts|49|29}}
+|range=5
+|desc=
+You crush the spirit of a target with at least 8 fear stacks, consuming all stacks and making it unable to act for {{cts|2|5}} turns.
+
+This talent ignores saves and immunities.
+}}

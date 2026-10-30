@@ -1,0 +1,23 @@
+{{Ability box
+|image=War hound.png
+|name=War Hound
+|category_type={{ct|Wild-Gift}}
+|category={{c|Summoning (Melee)}}
+|require={{TalentReq/GiftsReq1}}
+|cost=3 Equilibrium
+|cooldown=15
+|range=5
+|desc=
+Summon a War Hound to attack your foes. War hounds are good basic melee attackers.
+
+The War Hound will last for a duration of {{cs|(Talent Level)|5|0|10|5}}.
+
+It will receive the following stats:
+*Strength: 15 + {{cts|2|10|0.75}} + 2 * Mindpower * {{cts|0.2|1|0.75}}
+*Dexterity: 15 + {{cts|2|10|0.75}} + 2 * Mindpower * {{cts|0.2|1|0.75}}
+*Constitution: 15
+
+Your summons inherit some of your stats: increased damage %, stun/pin/confusion/blindness resistance, armour penetration.
+
+Their Strength and Dexterity will increase with your Mindpower.
+}}

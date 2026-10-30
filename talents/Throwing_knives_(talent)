@@ -1,0 +1,26 @@
+{{Ability box
+|game_version=1.5.2
+|image=throwing_knives.png
+|name=Throwing Knives
+|category_type={{ct|Technique}}
+|category={{c|Throwing Knives}}
+|require={{TalentReq/TechsDexReq1}}
+|range={{cTL|10|4.2|7}}
+|travel_speed=1000% of base
+|use_speed=Throwing
+|desc=
+Equip a bandolier holding up to 6 throwing knives, allowing you to attack from range. You automatically reload 2 knives per turn while resting, or half as many while moving.
+The base power, Accuracy, Armour penetration, and critical strike chance of your knives increase with talent level, and damage is improved with Dagger Mastery.
+Throwing Knives count as melee attacks for the purpose of on-hit effects.<br>
+Effective Knife Stats:
+
+Range: {{cTL|10|4.2|7}} <br>
+Net Base Damage<sup>1</sup>: {{cTL|72|9|35}}<br>
+APR: {{cTS|2|10}} <br>
+Crit mult: +150% <br>
+Uses Stats<sup>2</sup>: 50% Str, 70% Dex
+}}
+
+<sup>1</sup>The UI shows Net Damage. Net Base Damage is unmodified.
+
+<sup>2</sup>Strength scaling changes to Cunning with [[Lethality (talent)|Lethality]].

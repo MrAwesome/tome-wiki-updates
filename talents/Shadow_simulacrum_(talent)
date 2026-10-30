@@ -1,0 +1,18 @@
+{{Ability box
+|name=Shadow Simulacrum
+|image=Shadow simulacrum.png
+|game_version=1.7.4
+|category_type={{ct|Celestial}}
+|category={{c|Twilight}}
+|require={{TalentReq/DiviReq4}}
+|range=5
+|cost=30 Negative
+|cooldown=50
+|use_speed=Spell
+|desc=
+Creates a shadowy copy of a hostile target. The copy will attack its progenitor immediately and lasts for 1 + {{ctstd|Cun|3|10}} turns.
+
+The duplicate has +50% darkness resistance, -50% light resistance, deals 50% less damage, and has life equal to a percentage of the target: {{cl|0.1 * Cun * Talent Level|90%|0|0|50%|50}}.
+
+The duration and life scale with your Cunning.
+}}

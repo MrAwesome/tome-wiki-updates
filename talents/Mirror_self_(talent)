@@ -1,0 +1,14 @@
+{{Ability box
+|image = Mirror self.png
+|name = Mirror Self
+|game_version = 1.7.6
+|embers_version = 1.1.10
+|category_type = {{ct|Celestial}}
+|category = {{c|Reflection}}
+|require = {{TalentReq/DiviReq4}}
+|cooldown = 30
+|cost = 10 Positive energy + 35 Negative energy
+|range = {{cts|4|7}}
+|use_speed = 0
+|desc = Summons a clone for {{cts|3|5.5}} turns which casts all the spells you cast, dealing {{ctl|100%|40|80%}} damage and having 50% health. Additionally, all {{light}} damage the clone deals becomes {{darkness}} damage and all {{darkness}} damage becomes {{light}} damage.
+}}

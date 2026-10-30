@@ -1,0 +1,18 @@
+{{Ability box
+|game_version=1.5.10
+|image=Roll with it.png
+|name=Roll With It
+|category_type=[[Prodigies]]
+|category=[[Prodigies#Dexterity|Dexterity]]
+|require=Dexterity 50<br />Have been knocked around at least 50 times
+|use_mode=Sustained
+|cooldown=10
+|desc=
+You have learned to take a few hits when needed and can flow with the tide of battle.
+
+So long as you can move, you find a way to dodge, evade, deflect or otherwise reduce physical damage against you. All physical damage you receive is reduced to a percentage of its original value equal to {{cl|Dexterity|70%|90|50|85%|100}}.
+
+Once per turn, when you get hit by a melee or archery attack you move back one tile for free and gain 200% movement speed for a turn.
+
+The damage avoidance scales with your Dexterity and applies after resistances.
+}}

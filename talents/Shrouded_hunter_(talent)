@@ -1,0 +1,15 @@
+{{Ability box
+|game_version=1.7.6
+|image=Shrouded_hunter.png
+|name=Shrouded hunter
+|category_type={{ct|Cursed}}
+|category={{c|Predator}}
+|require={{TalentReq/CursedLevReq3}}
+|use_mode=passive
+|desc=
+
+While shrouded in cursed miasma you gain stealth ({{CTMD|0|70}} power) and {{CTMD|20|70}} physical power.
+		The stealth power and physical power will increase with your mindpower.
+
+
+}}

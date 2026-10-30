@@ -1,0 +1,16 @@
+{{Ability box
+|game_version=1.4.3
+|image=Temporal bolt.png
+|name=Temporal bolt
+|category_type={{ct|Chronomancy}}
+|category={{c|Time Travel}}
+|require={{TalentReq/ChronoReq1}}
+|range=10
+|travel_speed=300%
+|cost=10 Paradox
+|cooldown=3 (Fixed)
+|desc=
+Pull a bolt of temporal energy back through time.  The bolt will home in on your location, dealing {{ctspd|15|150|PM}}  temporal damage to targets, and reducing the cooldown of one chronomancy talent on cooldown by one turn per enemy hit.
+The bolt gains 5% damage each time it moves and the damage will scale with your Spellpower.
+At talent level five cooldowns are reduced by two.
+}}

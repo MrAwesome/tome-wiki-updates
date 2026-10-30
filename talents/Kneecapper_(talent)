@@ -1,0 +1,18 @@
+{{Ability_box
+|image=skirmisher_kneecapper.png
+|name=Kneecapper
+|category_type={{ct|Cunning}}
+|category={{c|Called Shots}}
+|require={{TalentReq/TechsCunReq1}}
+|use_mode=Activated
+|range=Archery Range
+|cost=10 Stamina
+|cooldown=8
+|travel_speed=10
+|desc=
+Strike your opponent in the knee (or other critical point in an ambulatory appendage) for {{ctwd|150|190%}} weapon damage, knocking them down ({{cts|1|2}} turn pin) and slowing their movement by for {{cts|3|4.7}} turns by {{cl|(0.5 * Cun + 10 * Talent Level)|60%|20|15|50%|100}}.
+
+This shot will bypass other enemies between you and your target.
+
+The slow effect becomes more powerful with your Cunning.
+}}

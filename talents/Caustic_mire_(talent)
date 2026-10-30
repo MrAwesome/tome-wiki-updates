@@ -1,0 +1,16 @@
+{{Ability box
+|name=Caustic Mire
+|image=Caustic mire.png
+|category_type={{ct|Spell}}
+|category={{c|Acid Alchemy}}
+|require={{TalentReq/SpellsReq3}}
+|range=7
+|cost=50 Mana
+|cooldown=30
+|desc=
+A radius 3 pool of acid spawns at the target location, doing {{ctspd|7|60}} Acid damage each turn for {{cts|6|10}} turns.
+
+All creatures caught in the mire will also suffer a {{ctl|100%|10|40%}} slowness effect.
+
+The damage will increase with your Spellpower.
+}}

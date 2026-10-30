@@ -1,0 +1,14 @@
+{{Ability box
+|image=Seethe.png
+|name=Seethe
+|category_type={{ct|Cursed}}
+|category={{c|Cursed Form}}
+|require={{TalentReq/CursedWilReq3}}
+|use_mode=Passive
+|desc=
+You have learned to hold onto your hate and use your suffering to fuel your body's rage.
+
+Every turn you take damage, the damage you inflict will increase by +{{ctl|60%|2|4.48%}}. This damage bonus will stack up to 5 times.
+
+Any turn in which you do not take damage will reduce the bonus.
+}}

@@ -1,0 +1,16 @@
+{{Ability box
+|image=Mechanical.png
+|name=Mechanical
+|game_version=1.7.6
+|embers_version=1.1.10
+|category_type={{ct|Steamtech}}
+|category={{c|Physics}}
+|require={{TalentReq/SteamReq2}}
+|use_mode=Passive
+|desc=
+Allows you to create mechanical tinkers of level {{gtl|1|5}}.
+You will learn a new schematic at level 1.
+Each other talent level, you have a 20%% chance to learn one more random schematic, if you have not gained it by level 5 you are guaranteed it (unless all are known).
+|avail.shops=[[Kruk Pride]] ([[Embers of Rage]]) via [[Talent#Additional Talent Sources|purchasing]] {{c|Physics}}
+|avail.escorts=[[Escorts#Tinker|Tinker]], see the escorts page for details on unlocking the {{c|Physics}} category in [[Age of Ascendancy]] / the Main campaign
+}}

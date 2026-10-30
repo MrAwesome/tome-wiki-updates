@@ -1,0 +1,14 @@
+{{Ability box
+|image=Ice wall.png
+|name=Ice Wall
+|category_type={{ct|Wild-Gift}}
+|category={{c|Cold Drake Aspect}}
+|require={{TalentReq/GiftsReq3}}
+|cost=10 Equilibrium
+|cooldown=30
+|range=10
+|desc=
+Summons an icy wall of (3 + Talent Level) length for {{cts|5|9}} turns. Ice walls are transparent.
+
+Each point in cold drake talents also increases your cold resistance by 1%.
+}}

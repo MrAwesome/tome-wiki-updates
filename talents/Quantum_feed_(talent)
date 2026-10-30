@@ -1,0 +1,14 @@
+{{Ability box
+|image=Quantum feed.png
+|name=Quantum Feed
+|category_type={{ct|Chronomancy}}
+|category={{c|Temporal Combat}}
+|require={{TalentReq/TemporalReq3}}
+|use_mode=Sustained
+|cost=50 Stamina and 100 Paradox
+|cooldown=18
+|desc=
+You've learned to boost your magic through your control over the spacetime continuum.  Increases your Magic and your Spell Save by ({{cts|1.5|7.5|0.75}} + {{ctspd|5|20}}).
+
+The effect will scale with your Willpower.
+}}

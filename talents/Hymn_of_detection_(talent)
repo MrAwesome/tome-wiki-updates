@@ -1,0 +1,19 @@
+{{Ability box
+|image=Hymn of detection.png
+|name=Hymn of Detection
+|category_type={{ct|Celestial}}
+|category={{c|Hymns}}
+|require={{TalentReq/DiviReq2}}
+|use_mode=Sustained
+|cost=20 Negative
+|cooldown=12
+|use_speed=0
+|desc=
+Chant the glory of the Moon, granting you infravision up to {{cts|6|10}} grids, stealth detection (+{{cts|2|15}} power), and invisibility detection (+{{cts|2|35}} power).
+
+In addition, this talent surrounds you with a shield of shadows, dealing {{ctspd|5|25}} darkness damage to anything that attacks you.
+
+You may only have one Hymn active at once.
+
+The stealth and invisibility detection, as well as the on-hit damage, will increase with your Spellpower.
+}}

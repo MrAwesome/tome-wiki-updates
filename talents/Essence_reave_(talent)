@@ -1,0 +1,19 @@
+{{Ability_box
+|name = Essence Reave
+|image = Essence_reave.png
+|category_type = {{ct|Demented}}
+|category = {{c|Void}}
+|game_version = 1.7.4
+|forbidden_version = 1.0.12
+|require = {{TalentReq/DementedReq4}}
+|use_mode = Activated
+|range = 10
+|cost = 25 Insanity
+|cooldown = 6
+|travel_speed = Instantaneous
+|use_speed = Spell
+|desc =
+You rend the very essence of the target, drawing on their life and converting it to void stars. The target takes {{ctspd|40|320}} damage, half darkness and half temporal, and you gain {{cts|1|2}} void stars (rounded down, max 2).
+
+The damage will increase with your Spellpower. 
+}}

@@ -1,0 +1,12 @@
+{{Ability box
+|game_version=1.4.5
+|image=Spacetime stability.png
+|name=Spacetime Stability
+|category_type={{ct|Chronomancy}}
+|category={{c|Stasis}}
+|require={{TalentReq/ChronoReq1}}
+|use_mode=Passive
+|desc=
+You automatically adjust your Paradox {{ctl|6|0|3}}+1 points towards your preferred Paradox each turn.
+While using {{t|Spacetime Tuning}} twice this value will instead be added to the amount you would normally tune.
+}}

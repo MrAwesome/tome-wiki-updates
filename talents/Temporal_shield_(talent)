@@ -1,0 +1,18 @@
+{{Ability_box
+|image=time_shield_2017.png
+|name=Temporal Shield
+|category_type={{ct|Spell}}
+|category={{c|Temporal}}
+|require={{TalentReq/SpellsReq2}}
+|cost=25 Mana
+|cooldown=18
+|use_speed=0
+|desc=
+This intricate spell instantly erects a time shield around the caster, preventing any incoming damage and sending it forward in time.
+Once either the maximum damage (50 + {{ctspd|50|450|PM}}) is absorbed, or the time runs out ({{gtl|6|10}}) turns, the stored damage will return as a temporal restoration field over time (5 turns).
+
+Each turn the restoration field is active, you get healed for 10% of the absorbed damage (Aegis Shielding talent affects the percentage).
+
+The shield's max absorption will increase with your Spellpower.
+
+}}

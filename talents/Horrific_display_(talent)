@@ -1,0 +1,17 @@
+{{Ability box
+|game_version=1.5.10
+|image=Horrific_Display.png
+|name=Horrific Display
+|category_type={{ct|Demented}}
+|category={{c|Controlled Horrors}}
+|require={{TalentReq/SpellsReq3}}
+|use_mode=Active
+|cost= -10 insanity
+|cooldown=15
+|range=10
+|desc=
+You forcefully try to turn a creature into an horror.
+If the target fails a magical save against your Spellpower, its appearance turns into that of an horror for {{CTS|5|10}} turns, making all other creatures hostile to it.
+Enemies near the target will have their target cleared on application.
+This spell does not work on horrors.
+}}

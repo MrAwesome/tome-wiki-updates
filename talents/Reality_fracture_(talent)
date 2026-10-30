@@ -1,0 +1,20 @@
+{{Ability_box
+|name = Reality Fracture
+|image = Reality_fracture.png
+|category_type = {{ct|Demented}}
+|category = {{c|Rift}}
+|game_version = 1.7.4
+|forbidden_version = 1.0.12
+|require = {{TalentReq/DementedReqHigh1}}
+|cost = 10 Insanity
+|cooldown = 14
+|use_speed = Spell
+|desc = 
+The sheer power of your entropy tears holes through spacetime, opening this world to the void.
+
+On casting a {{ct|Demented}} spell you have a 30% chance of creating a void rift lasting {{ctl|11|2|6}} turns in a nearby tile, which will launch void blasts each turn at a random enemy in range 7, dealing {{ctspd|10|40}} damage, half darkness and half temporal.
+
+You may activate this talent to forcibly destabilize spacetime, spawning 3 void rifts around you.
+
+''Note: the rifts will spawn on random tiles within line of sight and radius 4 of the caster''
+}}

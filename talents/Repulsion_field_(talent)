@@ -1,0 +1,18 @@
+'''Note: No longer part of the {{c|Gravity}} category.'''
+
+{{Ability box
+|image=Repulsion field.png
+|name=Repulsion Field
+|category_type={{ct|Chronomancy}}
+|category={{c|Gravity}}
+|require={{TalentReq/ChronoReq3}}
+|cost=15 Paradox
+|cooldown=14
+|range=0
+|desc=
+You surround yourself with a radius {{cts|1.5|3.5}} distortion of gravity, knocking back and dealing {{ctspd|8|80|PM}} physical damage to all creatures inside it.  The effect lasts {{cts|4|8}} turns.  Deals 50% extra damage to pinned targets, in addition to the knockback.
+
+The blast wave may hit targets more then once, depending on the radius and the knockback effect.
+
+The damage will scale with your Paradox and Spellpower.
+}}

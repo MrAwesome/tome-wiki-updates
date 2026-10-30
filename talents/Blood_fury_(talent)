@@ -1,0 +1,18 @@
+{{Ability box
+|image=Blood fury.png
+|name=Blood Fury
+|game_version=1.7.4
+|category_type={{ct|Corruption}}
+|category={{c|Blood}}
+|require={{TalentReq/CorrsReq4}}
+|use_mode=Sustained
+|cooldown=30
+|cost=30 Vim
+|use_speed=Spell
+|desc=
+Concentrate on the corruption you bring, increasing your spell critical chance by {{ctspd|10|14%}}.
+
+Each time your spells go critical, you enter a blood rage for 5 turns, increasing your blight and acid damage by {{ctspd|10|30%}}.
+
+The critical chance and damage increase will improve with your Spellpower.
+}}

@@ -1,0 +1,11 @@
+{{Ability box
+|game_version=1.7.6
+|image=Ultra_Instinct.png
+|name=Ultra Instinct
+|category_type={{ct|Race}}
+|category={{c|Parasite}}
+|require={{TalentReq/RacialReq2}}
+|use_mode=Passive
+|desc=
+Without the distraction of "thoughts" or "self" your body reacts faster and better to aggressions. Increases global speed by {{cTL|40|5|25%}}.
+}}

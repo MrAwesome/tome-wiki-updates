@@ -1,0 +1,11 @@
+{{Ability box
+|name=Blood Red Moon
+|image=Blood red moon.png
+|category_type={{ct|Celestial}}
+|category={{c|Eclipse}}
+|game_version=1.7.4
+|require={{TalentReq/DiviReq1}}
+|use_mode=Passive
+|desc=
+Increases your spell critical chance by {{cts|3|15%|0.75}}.
+}}

@@ -1,0 +1,13 @@
+{{Ability_box
+|image=Slow motion.png
+|name=Slow motion
+|category_type=[[Technique (category type)|Technique]]
+|category=[[Field control (category)|Field control]]
+|require={{TalentReq/TechsDexReq4}}
+|use_mode=Sustained
+|range=10
+|cost=80 Stamina
+|cooldown=30
+|desc=
+Your great dexterity allows you to see incoming projectiles (spells, arrows, ...), effectively slowing them down by (15 + 0.1 * Dex * Talent Level)%, up to a maximum of 90%.
+}}

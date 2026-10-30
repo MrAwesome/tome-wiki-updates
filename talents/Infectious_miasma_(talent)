@@ -1,0 +1,17 @@
+{{Ability_box
+|name=Infectious Miasma
+|image=infectious_miasma.png
+|game_version=1.5.2
+|category_type={{ct|Spell}}
+|category={{c|Undead drake}}
+|require={{TalentReq/SpellsReq2}}
+|cost=1 Soul
+|cooldown=18
+|range=6
+|travel_speed=Instantaneous
+|use_speed=Spell
+|desc=
+Release a cloud of deadly miasma over a targeted area, dealing {{ctspd|15|40}} or {{ctmd|15|40}} darkness damage to units inside it with a 20% chance of inflicting a disease that will do blight damage and weaken either Constitution, Strength, or Dexterity for {{cTS|4.5|6.5}} turns.
+
+The damage will scale with the highest of your spell or mind power.
+}}

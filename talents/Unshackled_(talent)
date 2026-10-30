@@ -1,0 +1,12 @@
+{{Ability box
+|game_version=1.7.6
+|image=Unshackled_2017.png
+|name=Unshackled
+|category_type={{ct|Race}}
+|category={{c|Thalore}}
+|require={{TalentReq/RacialReq2}}
+|use_mode=Passive
+|desc=
+Thaloren have an affinity for natural elements, allowing them to heal for a portion of damage taken from them.
+<br>You gain {{cts|25|35%}} Nature and Acid damage affinity.
+}}

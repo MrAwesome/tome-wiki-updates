@@ -1,0 +1,18 @@
+{{Ability box
+|image=Agile gunner.png
+|name=Agile gunner
+|game_version=1.7.4
+|embers_version=1.1.10
+|category_type={{ct|Steamtech}}
+|category={{c|Elusiveness}}
+|require={{TalentReq/SteamReq2}}
+|use_mode=Sustained
+|cost=4 Steam drain
+|cooldown=15
+|use_speed=0
+|desc=The thrill of the hunt invigorates you. For each foe in radius {{CTS|2|10}} around you, you gain 20% movement speed (up to {{CTS|60|160%}}).
+
+Current bonus: 0%.
+
+''Note: only visible foes "in sight" will contribute to the movement bonus''
+}}

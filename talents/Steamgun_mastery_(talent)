@@ -1,0 +1,15 @@
+{{Ability box
+|image=Steamgun mastery.png
+|name=Steamgun Mastery
+|game_version=1.4.6
+|embers_version=1.0.3
+|category_type={{ct|Steamtech}}
+|category={{c|Gunner training}}
+|require=Dex (18, 24, 30, 36, 42)
+|use_mode=Passive
+|desc=
+Increases Physical Power by {{gtl|10|50}} and increases weapon damage by (22.36 * √Talent Level)% when using steamguns.
+Also, increases your reload rate by {{cts|0|2.7|log}}
+
+''Note: While dual wielding steamguns, this passive causes you to attack with both of them every time you do a ranged attack.''
+}}

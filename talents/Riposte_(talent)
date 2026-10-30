@@ -1,0 +1,18 @@
+{{Ability box
+|image=Riposte_2017.png
+|name=Riposte
+|category_type={{ct|Technique}}
+|category={{c|Shield Offense}}
+|require={{TalentReq/TechsReq2}}
+|use_mode=Passive
+|desc=
+Improves your ability to perform counterstrikes after blocks in the following ways:
+
+Allows counterstrikes after incomplete blocks.
+
+Increases the duration of the counterstrike debuff on attackers by {{cts|0.15|1.15}} turns.
+
+Increases the number of counterstrikes you can perform on a target while they're vulnerable by {{cts|0.15|1.15}}.
+
+Increases the crit chance of counterstrikes by {{ctid|Dex|10|50}}. This increase scales with your Dexterity.
+}}

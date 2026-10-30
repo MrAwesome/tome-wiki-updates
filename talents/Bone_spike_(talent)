@@ -1,0 +1,17 @@
+{{Ability box
+|image=Bone nova.png
+|name=Bone Spike
+|game_version=1.7.4
+|category_type={{ct|Corruption}}
+|category={{c|Bone}}
+|require={{TalentReq/CorrsReq3}}
+|use_mode=Passive
+|range=10
+|desc=
+Whenever you use a non-instant talent you launch a spear of bone at all enemies afflicted by 3 or more magical detrimental effects dealing {{ctspd|10|60}} physical damage to all enemies it passes through.
+
+The damage will increase with your Spellpower.
+
+
+'' Note: this talent has an effect radius of 10. ''
+}}

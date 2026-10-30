@@ -1,0 +1,14 @@
+{{Ability_box
+|image=Roundhouse kick.png
+|name=Roundhouse kick
+|category_type=[[Technique (category type)|Technique]]
+|category=[[Unarmed discipline (category)|Unarmed discipline]]
+|require={{TalentReq/TechsDexReq4}}
+|use_mode=Activated
+|cost=18 Stamina
+|cooldown=12
+|desc=
+Attack your foes in a frontal arc with a roundhouse kick, which deals {{CTPD|15|150}} physical damage and knocks your foes back.
+
+This will break any grapples you're maintaining, and the damage will scale with your Physical Power.
+}}

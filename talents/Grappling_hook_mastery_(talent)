@@ -1,0 +1,12 @@
+{{Ability_box
+|image=grappling_hook.png
+|name=Grappling Hook Mastery
+|game_version=1.5.2
+|category_type=[[Cunning (category type)|Cunning]]
+|category=[[Tools (category)|Tools]]
+|require={{t|Master Artificer}} and {{t|Grappling Hook}}
+|use_mode=Passive
+|desc=
+Your grappling hook is tipped with vicious, venomous barbs. 
+Creatures struck by it will be hit for {{cTWD|100|190%}} unarmed damage, bleed for 30 + {{ctstd|Cun|15|200}} physical damage and be poisoned for 30 + {{ctstd|Cun|15|200}} nature damage over 4 turns.
+}}

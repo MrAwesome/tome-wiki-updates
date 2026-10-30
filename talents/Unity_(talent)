@@ -1,0 +1,13 @@
+{{Ability box
+|game_version=1.7.6
+|image=Unity_2017.png
+|name=Unity
+|category_type={{ct|Race}}
+|category={{c|Yeek}}
+|require={{TalentReq/RacialReq2}}
+|use_mode=Passive
+|desc=
+Your mind becomes more attuned to the Way, and is shielded from outside effects.
+
+Increase confusion and silence immunities by {{ctl|100%|20|55%}}, and your Mental Save by {{cts|5|20|0.75}}.
+}}

@@ -1,0 +1,12 @@
+{{Ability box
+|name=Precise Aim
+|image=precise_aim.png
+|game_version=1.5.2
+|category_type={{ct|Technique}}
+|category={{c|Throwing Knives}}
+|require={{TalentReq/TechsDexReq3}}
+|use_mode=Passive
+|desc=
+You are able to target your throwing knives with pinpoint accuracy, increasing their critical strike chance by {{cTS|3|15%}} and critical strike damage by {{cTS|7|20%}}.
+In addition, your critical strikes with throwing knives have a {{cTL|100%|15|45%}} chance to randomly disable your target, possibly disarming, silencing, or pinning them for 2 turns.
+}}

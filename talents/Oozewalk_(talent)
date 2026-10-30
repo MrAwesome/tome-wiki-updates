@@ -1,0 +1,20 @@
+{{Ability box
+|game_version=1.7.4
+|name=Oozewalk
+|image=Oozewalk.png
+|category_type={{ct|Wild-Gift}}
+|category={{c|Mucus}}
+|require={{TalentReq/GiftsReq4}}
+|cost=10 Equilibrium
+|cooldown=7
+|range=10
+|use_speed=Mind
+|desc=
+You temporarily merge with your mucus, cleansing yourself of {{cts|1.1|2.9|log}} physical or magical effects.
+
+You can then reemerge on any tile within sight and range that is also covered by mucus.
+
+This is quick, requiring only {{ctl|10%|100|40%}} of a turn to perform, but you must be in contact with your mucus.
+
+''Note: the target tile must be empty, so this talent cannot be used in situ''
+}}

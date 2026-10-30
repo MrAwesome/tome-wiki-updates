@@ -1,0 +1,16 @@
+{{Ability_box
+|image=Displacement_shield_2017.png
+|name=Displacement Shield
+|category_type={{ct|Spell}}
+|category={{c|Conveyance}}
+|require={{TalentReq/SpellsReq3}}
+|cost=40 Mana
+|cooldown=35
+|range=8
+|desc=
+This intricate spell erects a space distortion around the caster that is linked to another distortion, placed around a target.
+
+Any time the caster should take damage, there is a (40 + 5 * Talent Level)% chance that it will instead be warped by the shield and hit the designated target.
+
+Once the maximum damage (50 + {{ctspd|20|400}}) is absorbed, the time runs out ( (10 + 3 * Talent Level) turns up to a maximum of 25), or the target dies, the shield will crumble.
+}}

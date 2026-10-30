@@ -1,0 +1,14 @@
+{{Ability box
+|image=Focus shadows.png
+|name=Focus Shadows
+|category_type={{ct|Cursed}}
+|category={{c|Shadows}}
+|require={{TalentReq/CursedCunReq4}}
+|range=6
+|cost=0 Hate
+|cooldown=6
+|desc=
+Focus your shadows on a single target. Friendly targets will be defended for {{cts|4.4|10.1}} turns. Hostile targets will be attacked, with a {{ctl|100%|40|80%}} chance the shadows will blindside the target.
+
+This talent has no cost.
+}}

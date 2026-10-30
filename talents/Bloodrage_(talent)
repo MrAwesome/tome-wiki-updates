@@ -1,0 +1,10 @@
+{{Ability_box
+|image=Bloodrage.png
+|name=Bloodrage
+|category_type=[[Technique (category type)|Technique]]
+|category=[[Bloodthirst (category)|Bloodthirst]]
+|require=Level: (18, 19, 20, 21, 22)
+|use_mode=passive
+|cost=-
+|cooldown=-
+|desc=Each time one of your foes bites the dust, you feel a surge of power, increasing your strength by 2 up to a maximum of (talent_level * 6) for (5 + talent_level) turns.}}

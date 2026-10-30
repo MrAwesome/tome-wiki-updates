@@ -1,0 +1,15 @@
+{{Ability box
+|image=Extension.png
+|game_version=1.7.6
+|name=Extension
+|category_type={{ct|Chronomancy}}
+|category={{c|Spellbinding}}
+|require={{TalentReq/ChronoReqHigh2}}
+|cost=24 Paradox
+|use_mode=Sustain
+|cooldown=10
+|desc=
+Extends the duration of the selected {{ct|Chronomancy}} spell by {{ctl|50%|7|30%}}.
+Each spell can only be spellbound in one way at a time.
+
+}}

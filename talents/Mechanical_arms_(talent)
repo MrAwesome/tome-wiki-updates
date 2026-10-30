@@ -1,0 +1,18 @@
+{{Ability box
+|image=Mechanical arms.png
+|name=Mechanical arms
+|game_version=1.7.6
+|embers_version=1.1.10
+|category_type={{ct|Steamtech}}
+|category={{c|Dread}}
+|require={{req|cun|22|10}}
+|use_mode=sustained
+|cost=5 Steam drain + 15 Psi
+|cooldown=20
+|use_speed=Steamtech
+|desc=Using psionic forces you maintain in place on your back two giant horrific mechanical arms.
+
+Each basic turn (as if you had 100% speed) they can automatically attack up to 2 foes within range 3 with a mindstar attack doing {{ctwd|60|130%}} weapon damage.
+
+Creatures harassed by the mechanical arms have their damage reduced by {{ctl|50|10|33%}} for 5 turns.
+}}

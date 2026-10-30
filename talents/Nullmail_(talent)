@@ -1,0 +1,16 @@
+{{Ability_box
+|name = Nullmail
+|image = Nullmail.png
+|category_type = {{ct|Demented}}
+|category = {{c|Void}}
+|game_version = 1.7.4
+|forbidden_version = 1.0.12
+|require = {{TalentReq/DementedReq2}}
+|use_mode = Passive
+|desc = 
+Reinforce your armor with countless tiny void stars, increasing armor by {{ctstd|Mag|10|50}}.
+
+Each time your void stars are fully depleted, you gain a shield absorbing the next 50 + {{ctspd|30|200}} damage taken within 4 turns. This shield cannot trigger again until your void stars are fully restored.
+
+''Note: this talent will only function in light armor''
+}}

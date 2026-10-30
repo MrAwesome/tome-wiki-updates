@@ -1,0 +1,18 @@
+{{Ability_box
+|image=Tidal wave.png
+|name=Tidal Wave
+|category_type={{ct|Spell}}
+|category={{c|Water}}
+|require={{TalentReq/SpellsReq3}}
+|cost=25 Mana
+|cooldown=10
+|range=0
+|desc=
+A wall of water rushes out from the caster with an initial radius of 1, increasing 1 per turn to a maximum eventual radius of (1 + 0.5 * Duration), doing ({{ctspd|5|90}} / 2) cold damage and ({{ctspd|5|90}} / 2) physical damage to all inside, as well as knocking back targets each turn.
+
+The tidal wave lasts for (3 + {{ctspd|5|5}}) turns.
+
+All creatures hit gain the wet effect which reduces their stun/freeze resistance by half of their value and interacts with other cold spells.
+
+The damage and duration will increase with your Spellpower.
+}}

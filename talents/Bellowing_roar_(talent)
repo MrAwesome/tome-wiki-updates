@@ -1,0 +1,20 @@
+{{Ability box
+|game_version=1.4.3
+|image=Bellowing roar.png
+|name=Bellowing Roar
+|category_type={{ct|Wild-Gift}}
+|category={{c|Fire Drake Aspect}}
+|require={{TalentReq/GiftsReq2}}
+|use_speed=Mind speed
+|cost=8 Equilibrium
+|cooldown=20
+|range=0
+|desc=
+You let out a powerful roar that sends your foes into utter confusion for 3 turns, in a radius of {{cts|3|7}}.
+
+The sound wave is so strong, your foes also take {{ctstd|Str|30|380}} physical damage.
+
+The damage improves with your Strength.
+
+Each point in fire drake talents also increases your fire resistance by 1%.
+}}

@@ -1,0 +1,14 @@
+{{Ability box
+|image=Assault_2017.png
+|name=Assault
+|game_version=1.5.5
+|category_type={{ct|Technique}}
+|category={{c|Shield Offense}}
+|require={{TalentReq/TechsReq4}}
+|cost=16 Stamina
+|cooldown=6
+|desc=
+Hits the target with your shield, doing {{ctwd|80|130%}} damage. If it hits, you follow up with two automatic critical hits with your weapon, doing {{ctwd|80|130%}} base damage each.
+
+''Note: The effective talent level here is increased by half your talent level in {{t|Shield Expertise}} for the purpose of all shield damage calculations.''
+}}

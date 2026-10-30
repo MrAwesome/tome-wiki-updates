@@ -1,0 +1,14 @@
+{{Ability_box
+|game_version=1.7.6
+|name=Thick Skin
+|image=Thick skin.png
+|category_type={{ct|Technique}}
+|category={{c|Combat training}}
+|require=Con (23, 32, 41, 50, 59)
+|use_mode=Passive
+|desc=
+Your skin becomes more resilient to damage. Increases resistance to all damage by {{cts|3.16|12.2%|0.75}}.
+|avail=Note that both [[Adventurer]] and [[Wanderer]] classes begin with {{c|Combat Training}} unlocked
+|avail.classes=It would be easier to list the classes that ''don't'' have it by default: The entire {{mc|Mage}} metaclass—[[Alchemist]], [[Archmage]], [[Necromancer]]; plus [[Doomed]], [[Corruptor]], [[Anorithil]], [[Oozemancer]], [[Paradox Mage]], and [[Solipsist]]
+|avail.shops=[[Last Hope]] ([[Age of Ascendancy]]), [[Kruk Pride]] ([[Embers of Rage]])
+}}

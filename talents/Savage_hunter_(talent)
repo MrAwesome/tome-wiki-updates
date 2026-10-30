@@ -1,0 +1,16 @@
+{{Ability box
+|game_version=1.7.6
+|image=Savage_hunter.png
+|name=Savage hunter
+|category_type={{ct|Cursed}}
+|category={{c|Predator}}
+|require={{TalentReq/CursedLevReq2}}
+|use_mode=passive
+|desc=
+
+Upon making a critical melee attack the savagery of your predation causes a Cursed Miasma to begin permeating your hunting grounds.
+		The miasma will seep from {{cts|3|6}} locations, including your own, within radius 4, deals {{CTMD|0|60}} damage split between Darkness and Mind and blocks sight.
+		Prey lost within your miasma have a {{cts|5|15%}} chance to lose track of you and may mistake friends for foe.
+		Savage Hunter costs 8 Hate on trigger and does not trigger when you're in Cursed Miasma.
+
+}}

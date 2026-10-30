@@ -1,0 +1,14 @@
+{{Ability box
+|game_version=1.5.10
+|image=Never stop running.png
+|name=Never Stop Running
+|category_type=[[Prodigies]]
+|category=[[Prodigies#Constitution|Constitution]]
+|require=Constitution 50<br />Know at least 20 levels of stamina-using talents
+|use_mode=Sustained
+|cooldown=8
+|cost=10 Stamina
+|use_speed=Instant
+|desc=
+While this talent is active, you dig deep into your stamina reserves, allowing you to move without taking a turn. However, this costs 12 stamina for each tile that you cross.
+}}

@@ -1,0 +1,15 @@
+{{Ability_box
+|game_version=1.4.6
+|name=Hurricane Shot
+|image=Skirmisher hurricane shot.png
+|category_type={{ct|Technique}}
+|category={{c|Skirmisher - Slings}}
+|require={{TalentReq/TechsDexReq3}}
+|use_mode=Activated
+|range=Archery Range
+|cost=45 Stamina
+|cooldown=7
+|use_speed=Weapon Speed
+|desc=
+Take aim and unload up to {{cts|6|11|log}} shots for {{ctwd|20|80%}} weapon damage each against random enemies inside a cone. Each enemy can only be hit once (twice for talent level 3 and higher). Using {{t|Swift Shot}} lowers the cooldown by 1.
+}}

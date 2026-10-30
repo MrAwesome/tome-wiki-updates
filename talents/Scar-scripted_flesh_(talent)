@@ -1,0 +1,13 @@
+{{Ability box
+|game_version=1.7.6
+|image=Scar-scripted flesh.png
+|name=Scar-Scripted Flesh
+|category_type={{ct|Race}}
+|category={{c|Ogre}}
+|require={{TalentReq/RacialReq3}}
+|use_mode=Passive
+|desc=
+When you crit you have a {{ctl|100%|25|50%}} chance to reduce by 1 the remaining cooldown of one of your inscriptions and of any saturations effects.
+
+This effect can only happen once per turn.
+}}

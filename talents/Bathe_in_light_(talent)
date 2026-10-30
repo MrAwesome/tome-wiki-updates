@@ -1,0 +1,22 @@
+{{Ability box
+|name=Bathe in Light
+|image=Bathe in light.png
+|category_type={{ct|Celestial}}
+|category={{c|Light}}
+|game_version=1.7.4
+|require={{TalentReq/SpellsReq2}}
+|cost=Gain 20 Positive
+|cooldown=20
+|range=0
+|use_speed=Spell
+|desc=
+A magical zone of Sunlight appears around you, healing and shielding all within a radius of 2 for 0.75 * {{ctspd|4|80}} per turn and increasing healing effects on everyone within by Heal Amount / (Heal Amount + 50). The effect lasts for {{cts|4|7}} turns.
+
+Existing damage shields will be added to instead of overwritten and have their duration set to 2 if it isn't higher.
+
+If the same shield is refreshed 20 times it will become unstable and explode, removing it.
+
+It also lights up the affected zone.
+
+The amount healed will increase with the Magic stat
+}}

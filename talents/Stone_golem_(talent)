@@ -1,0 +1,23 @@
+{{Ability box
+|image=Stone golem.png
+|name=Stone Golem
+|category_type={{ct|Wild-Gift}}
+|category={{c|Summoning (Melee)}}
+|require={{TalentReq/GiftsReq4}}
+|cost=15 Equilibrium
+|cooldown=20
+|range=5
+|desc=
+Summon a Stone Golem to attack your foes. Stone golems are formidable foes that can become unstoppable.
+
+The Stone Golem will last for a duration of {{cs|(Talent Level)|5|0|10|5}}.
+
+It will receive the following stats:
+*Strength: 15 + {{cts|2|10|0.75}} + 2 * Mindpower * {{cts|0.2|1|0.75}}
+*Dexterity: 15 + {{cts|2|10|0.75}} + 1.9 * Mindpower * {{cts|0.2|1|0.75}}
+*Constitution: 10 + {{cts|2|10|0.75}}
+
+Your summons inherit some of your stats: increased damage %, stun/pin/confusion/blindness resistance, armour penetration.
+
+Their Strength and Dexterity will increase with your Mindpower.
+}}

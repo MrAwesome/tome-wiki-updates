@@ -1,0 +1,23 @@
+{{Ability box
+|image=Rimebark.png
+|name=Rimebark
+|category_type={{ct|Wild-Gift}}
+|category={{c|Summoning (Distance)}}
+|require={{TalentReq/GiftsReq3}}
+|cost=8 Equilibrium
+|cooldown=10
+|range=5
+|desc=
+Summon a Rimebark to harass your foes. Rimebarks cannot move, but they have a permanent ice storm around them, damaging and freezing anything coming close in a radius of 3.
+
+The Rimebark will last for a duration of {{cs|(Talent Level)|5|0|10|5}}.
+
+It will receive the following stats:
+*Constitution: 10
+*Willpower: 15 + 2 * Mindpower * {{cts|0.2|1|0.75}}
+*Cunning: 15 + 1.6 * Mindpower * {{cts|0.2|1|0.75}}
+
+Your summons inherit some of your stats: increased damage %, stun/pin/confusion/blindness resistance, armour penetration.
+
+Their Willpower will increase with your Mindpower.
+}}

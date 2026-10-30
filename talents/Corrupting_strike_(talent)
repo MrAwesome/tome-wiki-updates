@@ -1,0 +1,15 @@
+{{Ability box
+|image=Dark surprise.png
+|name=Corrupting Strike
+|game_version=1.7.4
+|category_type={{ct|Corruption}}
+|category={{c|Scourge}}
+|require={{TalentReq/CorrsReq4}}
+|cost=30 Vim
+|cooldown=8
+|range=1
+|travel_speed=instantaneous
+|use_speed=Weapon
+|desc=
+Corrupt the target reducing disease immunity by 100% for 2 turns and stripping up to 2 nature sustains then strike with both your weapons dealing {{ctwd|100|200%}} damage.
+}}

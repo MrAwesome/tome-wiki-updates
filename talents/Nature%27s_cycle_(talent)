@@ -1,0 +1,12 @@
+{{Ability box
+|image=Nature cycle.png
+|name=Nature's Cycle
+|category_type={{ct|Wild-Gift}}
+|category={{c|Summoning (Advanced)}}
+|require={{TalentReq/GiftsReqHigh3}}
+|use_mode=Passive
+|desc=
+While Master Summoner is active, each new summon will reduce the remaining cooldown of {{t|Rage}}, {{t|Detonate}} and {{t|Wild Summon}}.
+
+(30 + 15 * Talent Level)% chance to reduce them by {{ctl|5|1|3.1}}.
+}}

@@ -1,0 +1,15 @@
+<noinclude>'''This talent was removed from player use on/around version 1.3.0'''</noinclude>
+
+{{Ability box
+|image=Body reversion.png
+|name=Body Reversion
+|category_type={{ct|Chronomancy}}
+|category={{c|Age Manipulation}}
+|require={{TalentReq/ChronoReq4}}
+|cost=10 Paradox
+|cooldown=10
+|desc=
+You revert your body to a previous state, healing yourself for {{ctspd|40|440|PM}} life and removing {{cts|1|5|log}} physical status effects (both good and bad).
+
+The amount of life healed will scale with your Paradox and Spellpower.
+}}

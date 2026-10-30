@@ -1,0 +1,13 @@
+{{Ability box
+|image=Carrier.png
+|name=Carrier
+|game_version=1.7.4
+|category_type={{ct|Corruption}}
+|category={{c|Reaving Combat}}
+|require={{TalentReq/StrCorrsReq3}}
+|use_mode=Passive
+|desc=
+You gain a {{ctl|100%|33|70%}} resistance to diseases, and each of your melee attacks have a {{ctl|100%|10|25%}} chance to spread any diseases on your target.
+
+(As the Epidemic talent with the melee attack treated like blight damage.)
+}}

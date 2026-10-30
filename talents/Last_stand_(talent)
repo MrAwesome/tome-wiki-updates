@@ -1,0 +1,19 @@
+{{Ability_box
+|image=Last stand.png
+|name=Last stand
+|game_version=1.5.5
+|category_type=[[Technique (category type)|Technique]]
+|category=[[Shield defense (category)|Shield defense]]
+|require={{TalentReq/TechsReq4}}
+|use_mode=Sustained
+|cost=30 Stamina
+|cooldown=8
+|use_speed=0
+|desc=You brace yourself for the final stand, increasing Defense and Armor by {{ctstd|Dex|6|20}}, maximum and current life by ({{CTSTD|Con|30|500}} + {{CTL|100%|2|10%}} * Base Life), but making you unable to move.
+
+Your stand lets you concentrate on every blow, allowing you to avoid death from normally fatal wounds. You can only die when reaching -({{CTSTD|Con|30|500}} + {{CTL|100%|2|10%}} * Base Life) life.
+
+The increase in Defense and Armor is based on your Dexterity, and the increase in life is based on your Constitution and normal maximum life.
+
+''Note: The bonus life is removed upon deactivation, and may kill your character without warning.''
+}}

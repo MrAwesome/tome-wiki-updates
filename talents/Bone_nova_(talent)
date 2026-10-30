@@ -1,0 +1,13 @@
+{{Ability box
+|image=Bone nova.png
+|name=Bone Nova
+|category_type={{ct|Corruption}}
+|category={{c|Bone}}
+|require={{TalentReq/CorrsReq3}}
+|cost=25 Vim
+|cooldown=12
+|desc=
+Fire bone spears in all directions, hitting all foes within radius {{cts|1|5}} for {{ctspd|8|180}} physical damage.
+
+The damage will increase with your Spellpower.
+}}

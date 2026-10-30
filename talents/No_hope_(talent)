@@ -1,0 +1,14 @@
+{{Ability box
+|image=No hope.png
+|name=No hope
+|game_version=1.7.6
+|embers_version=1.1.10
+|category_type={{ct|Steamtech}}
+|category={{c|Dread}}
+|require={{req|dex|46|22}}
+|cooldown=15
+|cost=50 Psi
+|range=10
+|use_speed=0
+|desc=Entering the mind of your foe you manipulate it to make it loose hope of defeating you, reducing all its damage by 40% for {{CTL|15|3|8}} turns.
+}}

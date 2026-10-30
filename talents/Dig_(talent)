@@ -1,0 +1,9 @@
+{{Ability_box
+|name=Dig
+|use_mode=activated
+|require=A digger object
+|category=objects
+|category_type=misc
+|range=1 tile
+|desc=Dig/cut a tree/... Digging takes X turns (based on your currently best digger available).
+}}

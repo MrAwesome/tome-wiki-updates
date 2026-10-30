@@ -1,0 +1,16 @@
+{{Ability_box
+|game_version=1.4.5
+|image=teleport_point_zero.png
+|name=Timeport: Point Zero
+|category=Other
+|category_type=Class
+|require=[[Paradox Mage]] or [[Temporal Warden]]
+|use_mode=Activated
+|cooldown=400
+|desc=
+Allows a chronomancer to timeport to [[Point Zero]].
+You have studied the chronomancy there and have been granted a special portal spell to teleport there.
+Nobody must learn about this spell and so it should never be used while seen by any creatures.
+The spell will take time to activate. You must be out of sight of any creature when you cast it and when the timeportation takes effect.
+
+}}

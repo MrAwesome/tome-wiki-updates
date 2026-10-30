@@ -1,0 +1,18 @@
+{{Ability box
+|name=Surge of Power
+|category_type={{ct|Corruption}}
+|category={{c|Demonic Strength}}
+|require={{TalentReq/StrCorrsReq2}}
+|cost=16 Vim
+|cooldown=24
+|range=1
+|use_speed=Instant (0% of a turn)
+|desc=
+Use your stored Vim to supercharge your body, recovering {{ctspd|11|52}} of your maximum stamina and {{ctspd|9|210}} life.
+
+Additionally, you will be able to survive your HP going under 0, down to {{ctspd|18|260}} HP, for the next 8 turns.
+
+These values increase with your spellpower.
+
+Spell criticals with this talent also effect the stamina gain.
+}}

@@ -1,0 +1,20 @@
+{{Ability_box
+|image=Body_of_stone_2017.png
+|name=Body of Stone
+|category_type={{ct|Spell}}
+|category={{c|Stone}}
+|require={{TalentReq/SpellsReqHigh2}}
+|use_mode=Sustained
+|cost=70 Mana
+|cooldown=12
+|use_speed=0
+|desc=
+You root yourself into the earth, and transform your flesh into stone.  While this spell is sustained, you may not move, and any forced movement will end the effect.
+
+Your stone form and your affinity with the earth while the spell is active has the following effects:
+
+* Reduces the cooldown of Earthen Missiles, Pulverizing Auger, Earthquake, and Mudslide by {{ctl|50%|16.7|35.7%}}.
+* Grants {{ctspd|5|80%}} Fire Resistance, {{ctspd|5|50%}} Lightning Resistance, {{ctspd|5|20%}} Acid Resistance, and (10 * Talent Level)% Stun Resistance.
+
+Resistances scale with your Spellpower.
+}}

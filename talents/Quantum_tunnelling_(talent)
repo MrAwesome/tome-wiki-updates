@@ -1,0 +1,20 @@
+{{Ability_box
+|name = Quantum Tunnelling
+|image = Quantum_tunnelling.png
+|category_type = {{ct|Demented}}
+|category = {{c|Rift}}
+|game_version = 1.7.6
+|require = {{TalentReq/DementedReqHigh2}}
+|use_mode = Activated
+|range = 10
+|cost = 5 Insanity
+|cooldown = 10
+|use_speed = Spell
+|desc = You briefly open a tunnel through spacetime, teleporting to a void rift in range 10. This destroys the rift, granting you a shield for 4 turns absorbing {{ctspd|40|400}} damage.<br />The damage absorbed will scale with your Spellpower
+|avail.classes = [[Cultist of Entropy]]
+}}
+===Notes===
+*The shield can [[Critical|critically hit]] as a spell. After your shield is calculated and a crit is rolled, the final result is boosted by your critical multiplier (50% by default).
+*If the teleport fails (e.g. under [[Dimensional anchor (talent)|Dimensional anchor]]), the Insanity, cooldown, and turn are all still spent while the rift stays.
+
+<noinclude>[[Category: Forbidden Cults]]</noinclude>

@@ -1,0 +1,21 @@
+{{Ability box
+|game_version=1.4.6
+|ashes_version=1.0.5
+|image=Twisted portal.png
+|name=Twisted Portal
+|category_type={{ct|Corruption}}
+|category={{c|Demonic pact}}
+|require={{TalentReq/CorrsReq3}}
+|cost=15 Vim
+|cooldown=9
+|desc=
+Teleports you randomly within a small range of up to ( {{cl|{{ctspd|10|15}}|40|4|0|13.4|9.4}} ) grids with {{ctl|0|7|3}} precision.
+
+In the spot you left you will summon a demon from your seeds for {{cts|2|5}} turns.
+
+If the target area is not in the line of sight there is a chance the spell with fizzle.
+
+This spell requires an unsummoned, alive demon seed to work.
+
+The range will increase with your Spellpower.
+}}

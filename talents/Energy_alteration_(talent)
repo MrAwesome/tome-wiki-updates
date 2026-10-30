@@ -1,0 +1,16 @@
+{{Ability_box
+|image=Quicken spells_2017.png
+|name=Energy Alteration
+|category_type={{ct|Spell}}
+|category={{c|Meta}}
+|require={{TalentReq/SpellsReq3}}
+|use_mode=Sustained
+|cost=80 Mana
+|cooldown=30
+|desc=
+Your mastery over magic is so great that you can alter the energy of all damaging spells to suit your needs.
+
+Whenever you deal damage with a spell you attune to the element of that spell for 6 turns, converting {{CTS|37%|100%}} of any damage you deal into that element.
+
+This effect will not override itself and will only trigger spells directly cast by you, not from damage over time or ground damage effect.
+}}

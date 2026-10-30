@@ -1,0 +1,18 @@
+{{Ability_box
+|image=snipe.png
+|name=Snipe
+|game_version=1.5.2
+|category_type={{ct|Technique}}
+|category={{c|Sniper}}
+|require={{TalentReq/TechsDexReqHigh4}}
+|use_mode=Activated
+|range=Archery Range
+|cost=20 Stamina
+|cooldown=10
+|travel_speed=Instantaneous
+|use_speed=Weapon
+|desc=
+Take aim for 1 turn, preparing a deadly shot. During the next turn, this talent will be replaced with the ability to fire a lethal shot dealing {{cTWD|170|350%}} damage and marking the target.
+
+While aiming, your intense focus causes you to shrug of {{cTL|90%|30|70%}} incoming damage and all negative effects.
+}}

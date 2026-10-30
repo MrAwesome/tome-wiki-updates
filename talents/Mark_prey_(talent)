@@ -1,0 +1,14 @@
+{{Ability box
+|game_version=1.7.6
+|image=Mark_prey.png
+|name=Mark prey
+|category_type={{ct|Cursed}}
+|category={{c|Predator}}
+|require={{TalentReq/CursedLevReq4}}
+|use_mode=passive
+|desc=
+Focus your predation on the most worthy prey. Upon entering a level for the first time, up to floor(1+({{gtl|1|5}})/2) foes are marked as your prey. You gain vision of them, wherever they are. Additionally, all damage you receive from their subtype is reduced by {{cTS|5|15}}.
+
+
+
+}}

@@ -1,0 +1,21 @@
+{{Ability box
+|game_version=1.6.7
+|name=Relentless Fury
+|image=Relentless fury.png
+|category_type={{ct|Technique}}
+|category={{c|Berserker's Strength}}
+|require={{TalentReq/TechsReq4}}
+|range=10
+|cost=0 Stamina
+|cooldown=25
+|travel_speed=instantaneous
+|use_speed=Weapon
+|desc=
+Search your inner strength for a surge of power.
+
+For {{ctl|19|4|8}} turns you gain {{css|Con|4|25}} stamina per turn and {{ctl|70%|10|30%}} movement and attack speed.
+
+Only usable at 30% or lower stamina.
+
+Stamina regeneration is based on your Constitution stat.
+}}

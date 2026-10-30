@@ -1,0 +1,18 @@
+{{Ability box
+|image=Aether beam_2017.png
+|name=Aether Beam
+|category_type={{ct|Spell}}
+|category={{c|Aether}}
+|require={{TalentReq/SpellsReqHigh1}}
+|cost=20 Mana
+|cooldown=12
+|range=6
+|desc=
+You focus the aether into a spinning beam of arcane energies, doing {{ctspd|20|150}} arcane damage in a radius of 3 squares with a 25% chance to silence any creature it pierces.
+
+The beam will also damage its epicenter each turn for 10% of the damage (but it will not silence).
+
+The beam spins with incredible speed (1600%).
+
+The damage will increase with your Spellpower.
+}}

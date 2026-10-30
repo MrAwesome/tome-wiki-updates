@@ -1,0 +1,14 @@
+{{Ability box
+|image=Supercharge tinkers.png
+|name=Supercharge tinkers
+|game_version=1.7.6
+|embers_version=1.1.10
+|category_type={{ct|Steamtech}}
+|category={{c|Engineering}}
+|require={{TalentReq/SteamReq3}}
+|cooldown={{CTS|3.1|5}} (round down)
+|cost=60 Steam
+|use_speed=0
+|desc=Using a huge amount of steam, you temporarily supercharge your tinkers and other steam-powered talents.
+For {{CTS|3.1|5}} turns (round down), you gain {{gtl|25|45}} steampower and {{CTS|5|20%|0.75}} steamtech critical chance.
+}}

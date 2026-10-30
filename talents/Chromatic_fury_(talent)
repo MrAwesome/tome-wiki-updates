@@ -1,0 +1,14 @@
+{{Ability box
+|image=Chromatic fury.png
+|name=Chromatic Fury
+|category_type={{ct|Wild-Gift}}
+|category={{c|Higher Draconic Abilities}}
+|require={{TalentReq/GiftsReqHigh4}}
+|use_mode=Passive
+|desc=
+You have gained the full power of the multihued dragon, and your mastery over the elements is complete.
+
+Increases physical, fire, cold, lightning and acid damage by (2 * Raw Talent Level)%, and your resistance penetration in those elements by {{ctl|100%|4|20%|raw}}.
+
+Each point in Chromatic Fury also increases your resistances to physical, fire, cold, lightning and acid by 0.5%.
+}}

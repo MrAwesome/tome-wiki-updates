@@ -1,0 +1,18 @@
+{{Ability_box
+|game_version = 1.7.6
+|embers_version = 1.1.10
+|name = Overclock
+|image = Overclock.png
+|category_type = {{ct|Steamtech}}
+|category = {{c|Turrets}}
+|require = {{TalentReq/SteamReq2}}
+|cost = 30 Steam
+|range = 0
+|cooldown = 20 
+|use_speed = Steamtech
+|desc = Send a surge of power into all turrets in sight, extending their duration by {{cts|2|4}} turns and granting them a charged shield absorbing {{ctstmd|40|600}} damage for 10 turns. While the shield holds, each turn the turret will project a bolt of lightning dealing {{ctstmd|10|100}} {{lightning}} damage to a random enemy in radius 6, with a 25% chance to daze.
+
+The effects will increase with your Steampower.
+}}
+
+Notes: Guardian turrets from [[Hunker down (talent)|Hunker down]] are not overclocked as of 1.7.6.

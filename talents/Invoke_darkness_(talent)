@@ -1,0 +1,19 @@
+{{Ability box
+|image=Invoke darkness.png
+|game_version=1.7.4
+|name=Invoke Darkness
+|category_type={{ct|Spell}}
+|category={{c|Nightfall}}
+|require={{TalentReq/SpellsReq1}}
+|cost=10 Mana
+|cooldown=3
+|range=10
+|travel_speed=20
+|use_speed=Spell
+|desc=
+Conjures up a beam of darkness, doing {{ctspd|20|200}} darkness damage.
+
+At level 5, the beam widens to hit foes on each side.
+
+The damage will increase with your Spellpower.
+}}

@@ -1,0 +1,15 @@
+{{Ability_box
+|image=soothing_darkness.png
+|name=Soothing Darkness
+|game_version=1.5.2
+|category_type=[[Cunning (category type)|Cunning]]
+|category=[[Stealth (category)|Stealth]]
+|require={{TalentReq/CunsReq3}}
+|use_mode=Passive
+|desc=
+You have a special affinity for darkness and shadows.
+
+When standing in an unlit grid, the minimum range to your foes for activating stealth or for maintaining it after a Shadow Dance is reduced by {{cTL|10|2|5}}.
+
+While stealthed, your life regeneration is increased by {{cSS|Cun|0.5|5|0.75}} + {{cTS|0.5|5|0.75}} and your stamina regeneration is increased by {{cTS|1|2.5}}. The regeneration effects persist for 3 turns (4 at Talent Level 3) after exiting stealth, with 5 times the normal life regeneration rate.
+}}

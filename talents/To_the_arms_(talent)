@@ -1,0 +1,19 @@
+{{Ability box
+|image=To the arms.png
+|name=To The Arms
+|game_version=1.4.6
+|embers_version=1.0.3
+|category_type={{ct|Steamtech}}
+|category={{c|Sawmaiming}}
+|require={{TalentReq/SteamReq1}}
+|use_mode=Activated
+|cost=15 Steam
+|use_speed=Weapon Speed
+|cooldown=9
+|desc=
+Hits the target on the arms with one rotating saw doing {{ctwd|100|160%}} damage and trying to [[Effect#Maimed|maim]] it for {{ctl|6|2|4}} turns.
+Maimed foes deal {{ctl|50|20|40%}} less damage.
+The chance improves with your Physical power.
+}}
+
+NOTES: 5 turn duration breakpoint is at effective talent level 7.7+.

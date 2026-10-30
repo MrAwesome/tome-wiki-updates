@@ -1,0 +1,19 @@
+{{Ability box
+|game_version=1.7.4
+|name=Acidic Skin
+|image=Acidic skin.png
+|category_type={{ct|Wild-Gift}}
+|category={{c|Slime}}
+|require={{TalentReq/GiftsReq3}}
+|use_mode=Sustained
+|cost=3 Equilibrium
+|cooldown=30
+|range=1
+|use_speed=Mind
+|desc=
+Your skin drips with acid, damaging all that hit you for {{ctmd|10|50}} disarming acid damage.
+
+The chance to disarm is {{ctl|100%|7|18%}}.
+
+The damage increases with your Mindpower.
+}}

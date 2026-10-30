@@ -1,0 +1,24 @@
+{{Ability box
+|image=Spider.png
+|name=Spider
+|category_type={{ct|Wild-Gift}}
+|category={{c|Summoning (Utility)}}
+|require={{TalentReq/GiftsReq2}}
+|cost=5 Equilibrium
+|cooldown=10
+|range=5
+|desc=
+Summon a Spider to harass your foes. Spiders can poison your foes and throw webs to pin them to the ground.
+
+The Spider will last for a duration of {{cs|(Talent Level)|5|0|10|5}}.
+
+It will receive the following stats:
+*Strength: 10 + {{cts|2|10|0.75}}
+*Dexterity: 15 + 2 * Mindpower * {{cts|0.2|1|0.75}}
+*Constitution: 10
+*Willpower: 18
+
+Your summons inherit some of your stats: increased damage %, stun/pin/confusion/blindness resistance, armour penetration.
+
+Their Dexterity will increase with your Mindpower.
+}}

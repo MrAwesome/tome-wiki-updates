@@ -1,0 +1,14 @@
+{{Ability box
+|game_version=1.4.5
+|name=Butterfly Kick
+|image=Butterfly kick.png
+|category_type={{ct|Technique}}
+|category={{c|Finishing Moves}}
+|require={{TalentReq/TechsDexReq3}}
+|cost=20 stamina
+|cooldown={{ctl|0|30|10}}
+|desc=
+You spin into a flying leap and deliver a powerful kick dealing {{ctwd|100|150%}} weapon damage to all enemies in a radius of 1 as you land.  The range will increase by 1 per combo point and total damage will increase by 10% per combo point.
+
+Using this talent removes your combo points and you must have at least 1 combo point to use it.
+}}

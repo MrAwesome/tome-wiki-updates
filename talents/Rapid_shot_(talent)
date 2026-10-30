@@ -1,0 +1,19 @@
+{{Ability box
+|image=rapid_shot_2017.png
+|name=Rapid Shot
+|game_version=1.5.2
+|category_type={{ct|Technique}}
+|category={{c|Agility}}
+|require={{TalentReq/TechsDexReqHigh4}}
+|use_mode=Sustained
+|cost=50 Stamina
+|cooldown=30
+|travel_speed=Instantaneous
+|use_speed=Instant
+|desc=
+Enter a fluid, mobile shooting stance that excels at close combat. Your ranged attack speed is increased by {{cTL|35%|10|25%}} and each time you shoot you gain {{cTS|25|50%}} increased movement speed for 2 turns.
+
+Ranged attacks against targets will also grant you up to {{cTL|20%|4|12%}} of a turn. This is 100% effective against targets within 3 tiles, and decreases by 20% for each tile beyond that (to 0% at 8 tiles). This cannot occur more than once per turn.
+
+Requires a sling to use.
+}}

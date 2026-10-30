@@ -1,0 +1,15 @@
+{{Ability box
+|game_version=1.5.10
+|image=Irresistible sun.png
+|name=Irresistible Sun
+|category_type=[[Prodigies]]
+|category=[[Prodigies#Strength|Strength]]
+|require=Strength 50<br />Have dealt over 50,000 light or fire damage
+|cooldown=10
+|desc=
+For 6 turns you gain the mass and power of a star, drawing all creatures within radius 5 toward you and dealing (50 + 1.7 * Strength) damage per turn, split evenly between fire/light/physical, to all affected foes.
+
+The damage dealt by Irresistible Sun increases with proximity, growing linearly from 100% of base damage at range 5 to a maximum of 150% base damage at range 1.
+
+The pull effect is applied before the damage.
+}}

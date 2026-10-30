@@ -1,0 +1,17 @@
+{{Ability box
+|image=Bone spear.png
+|name=Bone Spear
+|game_version=1.7.4
+|category_type={{ct|Corruption}}
+|category={{c|Bone}}
+|require={{TalentReq/CorrsReq1}}
+|range=10
+|cost=13 Vim
+|cooldown=10
+|travel_speed=Instantaneous
+|use_speed=Spell
+|desc=
+Conjures up a spear of bones, doing {{Ctspd|20|250}} physical damage to all targets in a line.  Each target takes an additional 20% damage for each magical debuff they are afflicted with up to a max of 100% ({{Ctspd|40|500}}).
+
+The damage will increase with your Spellpower.
+}}

@@ -1,0 +1,20 @@
+{{Ability_box
+|name=Heightened Senses
+|image=Heightened senses.png
+|category_type={{ct|Cunning}}
+|category={{c|Survival}}
+|game_version=1.7.6
+|require={{TalentReq/CunsReq1}}
+|use_mode=Passive
+|desc=
+You notice the small things others do not notice, allowing you to "see" creatures in a {{cts|5|9}} radius even outside of light radius.
+
+This is not telepathy, however, and it is still limited to line of sight.
+
+Your attention to detail increases stealth detection and invisibility detection by {{cs|(0.15 * Cun * Talent Level)|10|1|80|75|0.25}}.
+
+You also gain the ability to detect traps with a detect 'power' of {{cs|(0.25 * Cun * Talent Level)|10|3.75|75|125|0.25}}.
+
+The detection abilities improve with Cunning.
+|avail.escorts=[[Escorts#Thief|Thief]] +1 to talent or via revealing the locked {{c|Survival}} category
+}}

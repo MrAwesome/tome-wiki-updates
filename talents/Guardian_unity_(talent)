@@ -1,0 +1,18 @@
+{{Ability box
+|game_version=1.4.5
+|image=Guardian unity.png
+|name=Guardian Unity
+|category_type={{ct|Chronomancy}}
+|category={{c|Temporal Guardian}}
+|require={{TalentReq/ChronoReq2}}
+|use_mode=Passive
+|cooldown=10
+|desc=
+When a single hit deals more than {{ctl|10%|30|15%}} of your maximum life another you appears and takes {{ctl|40%|30|15%}} of the damage as well as {{ctl|20%|15|30%}} of all damage you take for the next 2 turns.
+
+The clone is out of phase with this reality and deals 50% less damage but its arrows will pass through friendly targets.
+
+This talent has a cooldown.
+
+
+}}

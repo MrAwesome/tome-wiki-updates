@@ -1,0 +1,19 @@
+{{Ability_box
+|image=cursed_bolt.png
+|name=Cursed Bolt
+|category_type={{ct|Cursed}}
+|category={{c|Advanced Shadowmancy}}
+|require={{TalentReq/CursedCunReqHigh4}}
+|use_mode=Activated
+|cost=10 Hate
+|range=6
+|cooldown=12
+|travel_speed=Instantaneous
+|use_speed=Mind
+|desc=
+Share your hatred with all shadows within sight range, gaining temporary full control. You then fire a blast of pure hatred from all affected shadows, dealing 22.7 Mind damage per blast.
+
+You cannot cancel this talent once the first bolt is cast.
+
+Damage increases with your Mindpower. 
+}}

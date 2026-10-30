@@ -1,0 +1,26 @@
+{{Ability box
+|image = Miasma engine.png
+|name = Miasma Engine
+|game_version = 1.7.6
+|embers_version = 1.1.10
+|category_type = {{ct|Steamtech}}
+|category = {{c|Chemical Warfare}}
+|require = {{TalentReq/DexSteamReqHigh1}}
+|cooldown = 20
+|cost = 3 Steam drain
+|use_mode = Sustained
+|use_speed = Steamtech
+|desc = You repurpose your steam engine to emit a cloud of toxic, corrosive chemicals around you.
+
+Each time you use a non-instant steamtech talent, you create a radius 3 cloud of miasma for 5 turns. All enemies within the miasma have {{ctl|100|30|75%}} reduced healing and {{ctl|10|3|7%}} chance to fail talent usage.
+
+Each time miasma is reapplied the failure chance increases, up to {{ctl|50|15|35%}} after 5 reapplications.
+
+The first time each turn a target affected by miasma is hit by a melee or ranged attack the miasma seeps into their wounds, dealing an additional {{ctstmd|10|150}} {{acid}} damage.
+
+Miasma duration does not increase on re-apply.
+
+When a creature survives the miasma it becomes immune to it for 9 turns.
+
+''Note: The duration seems to be 3 turns, not 5 turns. "Miasma duration does not increase on re-apply" means that each time the talent is triggered the duration is set to 3 turns, rather than having 3 turns added onto the current duration.''
+}}

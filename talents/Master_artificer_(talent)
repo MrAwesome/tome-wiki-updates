@@ -1,0 +1,33 @@
+{{Ability_box
+|image=master_artificer.png
+|name=Master Artificer
+|game_version=1.5.2
+|category_type=[[Cunning (category type)|Cunning]]
+|category=[[Artifice (category)|Artifice]]
+|require={{TalentReq/CunsReqHigh4}}
+|cooldown=10
+|travel_speed=Instantaneous
+|use_speed=Standard
+|desc=
+You become a master of your craft, allowing you to focus on a single tool to greatly improve its capabilities:
+
+'''{{t|Dart Launcher}}:'''<br>
+Your darts ignore poison and sleep immunity and waking targets are slows by {{cTL|50%|15|40%}} for 4 turns.<br>''Grants {{t|Dart Launcher Mastery}}.''
+
+'''{{t|Smokescreen}}:'''<br>
+Your Smokescreen is infused with chokedust. Enemies in the smoke take 30+{{ctstd|Cun|10|150}} nature damage and may be silenced.<br>''Grants {{t|Smokescreen Mastery}}.''
+
+'''{{t|Grappling Hook}}:'''<br>
+Your grappling hook deals {{cTWD|100|190%}} unarmed damage when it hits, plus further 30 + {{ctstd|Cun|15|200}} physical and 30 + {{ctstd|Cun|15|200}} nature damage over 4 turns.<br>''Grants {{t|Grappling Hook Mastery}}.''
+
+'''{{t|Hidden Blades}}:'''<br>
+You prime your Hidden Blades to cause bleeding and facilitate the Assassinate ability, which allows you to strike twice for {{cTWD|180|300%}} unarmed damage, hitting automatically while ignoring armor and resistance.<br>''Grants {{t|Assassinate}}.''
+
+'''{{t|Rogue's Brew}}:'''<br>
+Your Rogue's Brew fortifies you for 8 turns, preventing you from dying until you reach -{{cTS|100|600}} life.<br>''Grants {{t|Rogue's Brew Mastery}}''
+
+The effects depend on this talent's level.<br>
+Mastering a new tool places it (and its special effects, as appropriate) on cooldown.
+}}
+
+NOTE: This talent works by adding bonus talents; having the original talents are required for the bonuses to work.

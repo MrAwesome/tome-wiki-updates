@@ -1,0 +1,15 @@
+{{Ability box
+|game_version=1.5.10
+|image=Steamroller.png
+|name=Steamroller
+|category_type=[[Prodigies]]
+|category=[[Prodigies#Strength|Strength]]
+|require=Strength 50<br />Know the {{t|Rush}} talent.
+|cooldown=10
+|desc=
+When you rush, the creature you rush to is marked. If you kill it in the next 2 turns then your rush cooldown is reset.
+
+Each time that this effect triggers you gain a stacking +20% all damage buff for 2 turns, up to 100%.
+
+Rush now only costs 2 stamina.
+}}

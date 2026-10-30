@@ -1,0 +1,16 @@
+{{Ability box
+|image=Healing nexus.png
+|name=Healing Nexus
+|category_type={{ct|Wild-Gift}}
+|category={{c|Harmony}}
+|require={{TalentReq/GiftsReq4}}
+|cooldown=20
+|cost=24 Equilibrium
+|range=0
+|desc=
+A wave of natural energies flow around you in a radius of (1 + Raw Talent Level); all creatures hit will suffer from the Healing Nexus status for (3 + Raw Talent Level) turns.
+
+While under the effect, all healing done to the creature will instead heal you for (40 + 10 * Talent Level)% of the heal value (and no healing at all goes to the target).
+
+Each heal leeched will also restore (5 + Talent Level) equilibrium.
+}}

@@ -1,0 +1,18 @@
+{{Ability box
+|game_version=1.5.10
+|image=Diseased_Tongue.png
+|name=Diseased Tongue
+|category_type={{ct|Demented}}
+|category={{c|Disfigured face}}
+|require={{TalentReq/SpellsReq1}}
+|use_mode=Active
+|cooldown=5
+|range= floor({{CTL|6|1|4}})
+|desc=
+Your tongue turns into a diseased tentacle that you use to ''lick'' enemies in a cone.
+Licked creatures take 100% tentacle damage that ignores armor and get sick, gaining a random disease for 6 turns that deals 5+{{ctspd|5|30}} blight damage per turn and reduces strength, dexterity or constitution by {{ctspd|5|28}}.
+		
+		If at least one enemy is hit you gain 10 insanity.
+		
+		Disease damage will increase with your Spellpower.
+}}

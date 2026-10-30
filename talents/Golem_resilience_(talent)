@@ -1,0 +1,18 @@
+{{Ability box
+|image=Golem resilience.png
+|name=Golem Resilience
+|category_type={{ct|Spell}}
+|category={{c|Golemancy}}
+|require={{TalentReq/SpellsReq2}}
+|use_mode=Passive
+|desc=
+Improves your golem's armour training and damage resistance.
+
+At raw talent level 3, increases armour, armour hardiness, and reduces the chance of being critically hit as if the equivalent number of talent points were invested in {{t|Heavy Armour Training}}. For raw talent levels above or below 3, the bonus to armour is adjusted by ±1.4, armour hardiness by ±5%, and the reduction in critical hit chance by ±1.9% per level.
+
+Increases damage resistance as if the equivalent number of raw talent points were invested in {{t|Thick Skin}}.
+
+Increases healing factor by (10 + Raw Talent Level)%.
+
+The golem can always use any kind of armour, including massive armours.
+}}

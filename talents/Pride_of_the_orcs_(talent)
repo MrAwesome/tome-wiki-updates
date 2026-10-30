@@ -1,0 +1,18 @@
+{{Ability box
+|game_version=1.7.6
+|image=Pride of the orcs_2017.png
+|name=Pride of the Orcs
+|category_type={{ct|Race}}
+|category={{c|Orc}}
+|require={{TalentReq/RacialReq4}}
+|use_mode=Activated
+|cooldown={{ctl|10|45|25}}
+|use_speed=Instant
+|desc=
+Call upon the will of all of the Orc Prides to survive this battle.
+
+You remove up to {{cts|0.5|3|log|0A|3S}} detrimental effect(s) then heal for {{ctstd|Wil|100|500}} + 50 life.
+
+The healing will increase with your talent level and Willpower.
+
+}}

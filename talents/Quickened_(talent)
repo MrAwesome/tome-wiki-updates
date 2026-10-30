@@ -1,0 +1,13 @@
+{{Ability box
+|game_version=1.7.6
+|image=Quickened_2017.png
+|name=Quickened
+|category_type={{ct|Race}}
+|category={{c|Yeek}}
+|require={{TalentReq/RacialReq3}}
+|use_mode=Passive
+|desc=
+Yeeks live fast, think fast, and sacrifice fast for the Way.
+Your global speed is increased by {{cts|4|15%|0.75}}.
+If your life drops below 30% you gain 1.5 turns.  This effect can only happen once every {{ctl|20|45|25}} turns.
+}}

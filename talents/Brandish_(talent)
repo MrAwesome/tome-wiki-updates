@@ -1,0 +1,13 @@
+{{Ability box
+|image=Brandish.png
+|name=Brandish
+|category_type={{ct|Celestial}}
+|category={{c|Guardian}}
+|require={{TalentReq/DiviReqHigh2}}
+|cost=25 Positive
+|cooldown=8
+|desc=
+Hits the target with your weapon doing {{ctwd|100|300%}} damage, and with a shield strike doing {{ctwd|100|200%}} damage. If the shield strike connects, your shield will explode in a burst of light that inflicts {{ctspd|20|200}} light damage on all targets except yourself within radius {{cts|2.5|4.5}} of the target, and light up all tiles in that radius.
+
+The light damage will increase with your Spellpower.
+}}

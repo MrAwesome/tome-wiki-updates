@@ -1,0 +1,16 @@
+{{Ability box
+|game_version=1.7.0
+|image=Grave Mistake.png
+|name=Grave Mistake
+|category_type={{ct|Spell}}
+|category={{c|Grave}}
+|require={{TalentReq/SpellsReq4}}
+|use_mode=passive
+|desc=
+Upon expiring the corpselight implodes, pulling in all foes towards its center and dealing {{ctspd|40|250}} cold damage.
+The damage is increased by +10% per stack.
+The damage will increase with your Spellpower.
+
+<br>
+<b>Learning this spell will make Corpselight cost two souls to use instead of one.</b>
+}}
