@@ -1,5 +1,5 @@
 {
-  "metadata_schema_version": 1,
+  "metadata_schema_version": 2,
   "filename": "Channel_pain_(talent)",
   "wiki_title": "Channel pain (talent)",
   "pageid": 5606,
@@ -8,7 +8,7 @@
   "url": "https://te4.org/wiki/Channel_pain_(talent)",
   "category_id": "psionic/ravenous-mind",
   "canonical_talent_id": "CHANNEL_PAIN",
-  "talent_id": null,
+  "talent_id": "T_CHANNEL_PAIN",
   "source_name": null,
   "source_file": null,
   "source_start_line": null,
@@ -20,6 +20,17 @@
   "addon_id": null,
   "addon_compatibility_game_version": null,
   "addon_version": null,
-  "source_match_status": "unmatched",
-  "source_match_method": null
+  "source_match_status": "source_unavailable",
+  "source_match_method": "tometips_hint_missing_source_tree",
+  "wiki_category_id": "psionic/ravenous-mind",
+  "source_match_confidence": "hint_only",
+  "source_candidates": [
+    {
+      "talent_id": "T_CHANNEL_PAIN",
+      "source_hint_file": "data-possessors/talents/psionic/ravenous-mind.lua",
+      "source_hint_line": 48,
+      "source_hint_release": "tometips-1.7.4",
+      "source_category_id": "psionic/ravenous-mind"
+    }
+  ]
 }

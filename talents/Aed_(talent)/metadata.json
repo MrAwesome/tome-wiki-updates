@@ -1,5 +1,5 @@
 {
-  "metadata_schema_version": 1,
+  "metadata_schema_version": 2,
   "filename": "Aed_(talent)",
   "wiki_title": "Aed (talent)",
   "pageid": 6885,
@@ -21,5 +21,9 @@
   "addon_compatibility_game_version": "1.7.4",
   "addon_version": "1.1.10",
   "source_match_status": "matched",
-  "source_match_method": "category_name_tometips"
+  "source_match_method": "category_name_tometips",
+  "wiki_category_id": "steamtech/gadgets",
+  "source_category_id": "steamtech/gadgets",
+  "talent_id_method": "tometips_source_id",
+  "source_match_confidence": "verified_source_span"
 }

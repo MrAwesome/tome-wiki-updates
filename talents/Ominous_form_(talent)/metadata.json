@@ -1,5 +1,5 @@
 {
-  "metadata_schema_version": 1,
+  "metadata_schema_version": 2,
   "filename": "Ominous_form_(talent)",
   "wiki_title": "Ominous form (talent)",
   "pageid": 5604,
@@ -8,7 +8,7 @@
   "url": "https://te4.org/wiki/Ominous_form_(talent)",
   "category_id": "psionic/deep-horror",
   "canonical_talent_id": "OMINOUS_FORM",
-  "talent_id": null,
+  "talent_id": "T_OMINOUS_FORM",
   "source_name": null,
   "source_file": null,
   "source_start_line": null,
@@ -20,6 +20,17 @@
   "addon_id": null,
   "addon_compatibility_game_version": null,
   "addon_version": null,
-  "source_match_status": "unmatched",
-  "source_match_method": null
+  "source_match_status": "source_unavailable",
+  "source_match_method": "tometips_hint_missing_source_tree",
+  "wiki_category_id": "psionic/deep-horror",
+  "source_match_confidence": "hint_only",
+  "source_candidates": [
+    {
+      "talent_id": "T_OMINOUS_FORM",
+      "source_hint_file": "data-possessors/talents/psionic/deep-horror.lua",
+      "source_hint_line": 152,
+      "source_hint_release": "tometips-1.7.4",
+      "source_category_id": "psionic/deep-horror"
+    }
+  ]
 }

@@ -1,5 +1,5 @@
 {
-  "metadata_schema_version": 1,
+  "metadata_schema_version": 2,
   "filename": "Dark_empathy_(talent)",
   "wiki_title": "Dark empathy (talent)",
   "pageid": 1642,
@@ -20,6 +20,9 @@
   "addon_id": null,
   "addon_compatibility_game_version": null,
   "addon_version": null,
-  "source_match_status": "unmatched",
-  "source_match_method": null
+  "source_match_status": "not_found",
+  "source_match_method": "no_unique_current_source_definition",
+  "wiki_category_id": "spell/necrotic-minions",
+  "source_match_confidence": "unresolved",
+  "source_candidates": []
 }

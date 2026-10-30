@@ -1,5 +1,5 @@
 {
-  "metadata_schema_version": 1,
+  "metadata_schema_version": 2,
   "filename": "Aether_avatar_(talent)",
   "wiki_title": "Aether avatar (talent)",
   "pageid": 1345,
@@ -21,5 +21,9 @@
   "addon_compatibility_game_version": null,
   "addon_version": null,
   "source_match_status": "matched",
-  "source_match_method": "category_name_tometips"
+  "source_match_method": "category_name_tometips",
+  "wiki_category_id": "spell/aether",
+  "source_category_id": "spell/aether",
+  "talent_id_method": "tometips_source_id",
+  "source_match_confidence": "verified_source_span"
 }

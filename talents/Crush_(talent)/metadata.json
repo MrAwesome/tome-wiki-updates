@@ -1,5 +1,5 @@
 {
-  "metadata_schema_version": 1,
+  "metadata_schema_version": 2,
   "filename": "Crush_(talent)",
   "wiki_title": "Crush (talent)",
   "pageid": 2946,
@@ -20,6 +20,31 @@
   "addon_id": null,
   "addon_compatibility_game_version": null,
   "addon_version": null,
-  "source_match_status": "unmatched",
-  "source_match_method": null
+  "source_match_status": "ambiguous",
+  "source_match_method": "multiple_source_definitions",
+  "wiki_category_id": "npc-only/other",
+  "source_match_confidence": "unresolved",
+  "source_candidates": [
+    {
+      "talent_id": "T_GOLEM_CRUSH",
+      "source_file": "game/modules/tome/data/talents/spells/golem.lua",
+      "source_start_line": 126,
+      "source_end_line": 187,
+      "source_sha256": "26e2741d1f21ca1a890d103fccc09d8fdf963255a127bf5941e8d2e06ab12824",
+      "source_category_id": "golem/fighting",
+      "source_provenance": "tagged_core_source",
+      "addon_id": null
+    },
+    {
+      "talent_id": "T_CRUSH",
+      "source_file": "game/modules/tome/data/talents/misc/npcs.lua",
+      "source_start_line": 1257,
+      "source_end_line": 1296,
+      "source_sha256": "dc640c1af5d22a45472d843380c9de01334530b3831bd2b9fe88ee0cba3abc23",
+      "source_category_id": "technique/other",
+      "source_provenance": "tagged_core_source",
+      "addon_id": null
+    }
+  ],
+  "source_category_id": null
 }

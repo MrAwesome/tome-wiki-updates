@@ -1,5 +1,5 @@
 {
-  "metadata_schema_version": 1,
+  "metadata_schema_version": 2,
   "filename": "Flamespit_(talent)",
   "wiki_title": "Flamespit (talent)",
   "pageid": 4574,
@@ -21,5 +21,30 @@
   "addon_compatibility_game_version": null,
   "addon_version": null,
   "source_match_status": "ambiguous",
-  "source_match_method": null
+  "source_match_method": "multiple_source_definitions",
+  "wiki_category_id": "wild-gift/other",
+  "source_match_confidence": "unresolved",
+  "source_candidates": [
+    {
+      "talent_id": "T_RITCH_FLAMESPITTER_BOLT",
+      "source_file": "game/modules/tome/data/talents/gifts/summon-distance.lua",
+      "source_start_line": 20,
+      "source_end_line": 42,
+      "source_sha256": "647fa41f0891735435261fb1b75a9f3ab2e9be16288e14ed3ed5c5562eec59f0",
+      "source_category_id": "wild-gift/other",
+      "source_provenance": "tagged_core_source",
+      "addon_id": null
+    },
+    {
+      "talent_id": "T_WILD_RITCH_FLAMESPITTER_BOLT",
+      "source_file": "game/modules/tome/data/talents/gifts/summon-distance.lua",
+      "source_start_line": 44,
+      "source_end_line": 67,
+      "source_sha256": "647fa41f0891735435261fb1b75a9f3ab2e9be16288e14ed3ed5c5562eec59f0",
+      "source_category_id": "wild-gift/other",
+      "source_provenance": "tagged_core_source",
+      "addon_id": null
+    }
+  ],
+  "source_category_id": null
 }

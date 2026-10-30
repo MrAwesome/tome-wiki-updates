@@ -1,5 +1,5 @@
 {
-  "metadata_schema_version": 1,
+  "metadata_schema_version": 2,
   "filename": "Eldritch_vines_(talent)",
   "wiki_title": "Eldritch vines (talent)",
   "pageid": 4605,
@@ -21,5 +21,9 @@
   "addon_compatibility_game_version": null,
   "addon_version": null,
   "source_match_status": "matched",
-  "source_match_method": "category_name_tometips"
+  "source_match_method": "category_name_tometips",
+  "wiki_category_id": "wild-gift/earthen-vines",
+  "source_category_id": "wild-gift/earthen-vines",
+  "talent_id_method": "tometips_source_id",
+  "source_match_confidence": "verified_source_span"
 }

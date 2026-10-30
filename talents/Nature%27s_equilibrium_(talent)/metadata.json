@@ -1,5 +1,5 @@
 {
-  "metadata_schema_version": 1,
+  "metadata_schema_version": 2,
   "filename": "Nature%27s_equilibrium_(talent)",
   "wiki_title": "Nature's equilibrium (talent)",
   "pageid": 1476,
@@ -20,6 +20,9 @@
   "addon_id": null,
   "addon_compatibility_game_version": null,
   "addon_version": null,
-  "source_match_status": "unmatched",
-  "source_match_method": null
+  "source_match_status": "not_found",
+  "source_match_method": "no_unique_current_source_definition",
+  "wiki_category_id": "wild-gift/mindstar-mastery",
+  "source_match_confidence": "unresolved",
+  "source_candidates": []
 }

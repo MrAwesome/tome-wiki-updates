@@ -1,5 +1,5 @@
 {
-  "metadata_schema_version": 1,
+  "metadata_schema_version": 2,
   "filename": "Relaxed_shot_(talent)",
   "wiki_title": "Relaxed shot (talent)",
   "pageid": 1361,
@@ -8,7 +8,7 @@
   "url": "https://te4.org/wiki/Relaxed_shot_(talent)",
   "category_id": "technique/archery-training",
   "canonical_talent_id": "RELAXED_SHOT",
-  "talent_id": null,
+  "talent_id": "T_RELAXED_SHOT",
   "source_name": "Relaxed Shot",
   "source_file": "game/modules/tome/data/talents/techniques/archery.lua",
   "source_start_line": 713,
@@ -21,5 +21,9 @@
   "addon_compatibility_game_version": null,
   "addon_version": null,
   "source_match_status": "matched",
-  "source_match_method": "category_name_source_scan"
+  "source_match_method": "category_name_source_scan",
+  "wiki_category_id": "technique/archery-training",
+  "source_category_id": "technique/archery-training",
+  "talent_id_method": "engine_default_name",
+  "source_match_confidence": "verified_source_span"
 }

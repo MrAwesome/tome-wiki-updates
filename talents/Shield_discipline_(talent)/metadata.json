@@ -1,5 +1,5 @@
 {
-  "metadata_schema_version": 1,
+  "metadata_schema_version": 2,
   "filename": "Shield_discipline_(talent)",
   "wiki_title": "Shield discipline (talent)",
   "pageid": 1432,
@@ -8,7 +8,7 @@
   "url": "https://te4.org/wiki/Shield_discipline_(talent)",
   "category_id": "psionic/mental-discipline",
   "canonical_talent_id": "SHIELD_DISCIPLINE",
-  "talent_id": null,
+  "talent_id": "T_SHIELD_DISCIPLINE",
   "source_name": "Shield Discipline",
   "source_file": "game/modules/tome/data/talents/psionic/mental-discipline.lua",
   "source_start_line": 39,
@@ -21,5 +21,9 @@
   "addon_compatibility_game_version": null,
   "addon_version": null,
   "source_match_status": "matched",
-  "source_match_method": "category_name_source_scan"
+  "source_match_method": "category_name_source_scan",
+  "wiki_category_id": "psionic/mental-discipline",
+  "source_category_id": "psionic/mental-discipline",
+  "talent_id_method": "engine_default_name",
+  "source_match_confidence": "verified_source_span"
 }
