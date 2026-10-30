@@ -9,28 +9,21 @@
   "category_id": "psionic/psychic-blows",
   "canonical_talent_id": "SEISMIC_MIND",
   "talent_id": "T_SEISMIC_MIND",
-  "source_name": null,
-  "source_file": null,
-  "source_start_line": null,
-  "source_end_line": null,
-  "source_sha256": null,
-  "source_release": null,
+  "source_name": "Seismic Mind",
+  "source_file": "game/addons/tome-possessors/data/talents/psionic/psychic-blows.lua",
+  "source_start_line": 289,
+  "source_end_line": 336,
+  "source_sha256": "b477d52609e6d06f48a70d7163f172c24e1ab9a8cd66baa9305da15ff3bf09f4",
+  "source_release": "1.7.4",
   "source_commit": null,
-  "source_provenance": null,
-  "addon_id": null,
-  "addon_compatibility_game_version": null,
+  "source_provenance": "local_gitignored_addon_tree",
+  "addon_id": "tome-possessors",
+  "addon_compatibility_game_version": "1.7.4",
   "addon_version": null,
-  "source_match_status": "source_unavailable",
-  "source_match_method": "tometips_hint_missing_source_tree",
+  "source_match_status": "matched",
+  "source_match_method": "exact_source_name_and_source_evidence",
   "wiki_category_id": "psionic/psychic-blows",
-  "source_match_confidence": "hint_only",
-  "source_candidates": [
-    {
-      "talent_id": "T_SEISMIC_MIND",
-      "source_hint_file": "1.7.4/data-possessors/talents/psionic/psychic-blows.lua",
-      "source_hint_line": 289,
-      "source_hint_release": "tometips-1.7.4",
-      "source_category_id": "psionic/psychic-blows"
-    }
-  ]
+  "source_match_confidence": "unique_definition",
+  "source_category_id": "psionic/psychic-blows",
+  "talent_id_method": "engine_default_name"
 }

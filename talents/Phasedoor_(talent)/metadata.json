@@ -20,9 +20,42 @@
   "addon_id": null,
   "addon_compatibility_game_version": null,
   "addon_version": null,
-  "source_match_status": "not_found",
-  "source_match_method": "no_unique_current_source_definition",
+  "source_match_status": "ambiguous",
+  "source_match_method": "compact_name_variant_multiple_definitions",
   "wiki_category_id": "npc-only/other",
   "source_match_confidence": "unresolved",
-  "source_candidates": []
+  "source_candidates": [
+    {
+      "talent_id": "T_PHASE_DOOR",
+      "source_file": "game/modules/tome/data/talents/spells/conveyance.lua",
+      "source_start_line": 65,
+      "source_end_line": 168,
+      "source_sha256": "562478a613ee9b60787e2d7e3d16c8b5b1c6348702fa4e458f6e1f8199395c13",
+      "source_category_id": "spell/conveyance",
+      "source_provenance": "tagged_core_source",
+      "addon_id": null
+    },
+    {
+      "talent_id": "T_KEEPSAKE_PHASE_DOOR",
+      "source_file": "game/modules/tome/data/talents/misc/npcs.lua",
+      "source_start_line": 2160,
+      "source_end_line": 2177,
+      "source_sha256": "dc640c1af5d22a45472d843380c9de01334530b3831bd2b9fe88ee0cba3abc23",
+      "source_category_id": "undead/keepsake",
+      "source_provenance": "tagged_core_source",
+      "addon_id": null
+    },
+    {
+      "talent_id": "T_SHADOW_PHASE_DOOR",
+      "source_file": "game/modules/tome/data/talents/cursed/shadows.lua",
+      "source_start_line": 37,
+      "source_end_line": 65,
+      "source_sha256": "afba9045c77c2fd6c8873ba0b48d49ccf697df0bf405f25994a43843fed9fed5",
+      "source_category_id": "spell/other",
+      "source_provenance": "tagged_core_source",
+      "addon_id": null
+    }
+  ],
+  "source_match_note": "Wiki spells name “Phasedoor” and gives only NPC-only category; three current “Phase Door” definitions exist in unrelated categories, so no source selected.",
+  "source_category_id": null
 }

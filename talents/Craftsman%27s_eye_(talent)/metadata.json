@@ -9,7 +9,7 @@
   "category_id": "steamtech/blacksmith",
   "canonical_talent_id": "CRAFTSMANS_EYE",
   "talent_id": "T_CRAFTS_EYE",
-  "source_name": "Craftsman",
+  "source_name": "Craftsman's Eye",
   "source_file": "game/addons/tome-orcs/tome-orcs/data/talents/steam/blacksmith.lua",
   "source_start_line": 93,
   "source_end_line": 115,

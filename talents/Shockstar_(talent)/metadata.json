@@ -9,28 +9,21 @@
   "category_id": "psionic/battle-psionics",
   "canonical_talent_id": "SHOCKSTAR",
   "talent_id": "T_SHOCKSTAR",
-  "source_name": null,
-  "source_file": null,
-  "source_start_line": null,
-  "source_end_line": null,
-  "source_sha256": null,
-  "source_release": null,
+  "source_name": "Shockstar",
+  "source_file": "game/addons/tome-possessors/data/talents/psionic/battle-psionics.lua",
+  "source_start_line": 144,
+  "source_end_line": 200,
+  "source_sha256": "741c640c0c8f4fbeea95fa446adafcc7efb71ecdd39c1ae538119412da676704",
+  "source_release": "1.7.4",
   "source_commit": null,
-  "source_provenance": null,
-  "addon_id": null,
-  "addon_compatibility_game_version": null,
+  "source_provenance": "local_gitignored_addon_tree",
+  "addon_id": "tome-possessors",
+  "addon_compatibility_game_version": "1.7.4",
   "addon_version": null,
-  "source_match_status": "source_unavailable",
-  "source_match_method": "tometips_hint_missing_source_tree",
+  "source_match_status": "matched",
+  "source_match_method": "exact_source_name_and_source_evidence",
   "wiki_category_id": "psionic/battle-psionics",
-  "source_match_confidence": "hint_only",
-  "source_candidates": [
-    {
-      "talent_id": "T_SHOCKSTAR",
-      "source_hint_file": "data-possessors/talents/psionic/battle-psionics.lua",
-      "source_hint_line": 144,
-      "source_hint_release": "tometips-1.7.4",
-      "source_category_id": "psionic/battle-psionics"
-    }
-  ]
+  "source_match_confidence": "unique_definition",
+  "source_category_id": "psionic/battle-psionics",
+  "talent_id_method": "engine_default_name"
 }

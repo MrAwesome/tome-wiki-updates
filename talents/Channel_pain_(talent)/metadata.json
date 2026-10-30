@@ -9,28 +9,21 @@
   "category_id": "psionic/ravenous-mind",
   "canonical_talent_id": "CHANNEL_PAIN",
   "talent_id": "T_CHANNEL_PAIN",
-  "source_name": null,
-  "source_file": null,
-  "source_start_line": null,
-  "source_end_line": null,
-  "source_sha256": null,
-  "source_release": null,
+  "source_name": "Channel Pain",
+  "source_file": "game/addons/tome-possessors/data/talents/psionic/ravenous-mind.lua",
+  "source_start_line": 48,
+  "source_end_line": 101,
+  "source_sha256": "842d180ebf2f929eb8da1287d49a062dfad71358e7bd16702e8bcf4fe4146d90",
+  "source_release": "1.7.4",
   "source_commit": null,
-  "source_provenance": null,
-  "addon_id": null,
-  "addon_compatibility_game_version": null,
+  "source_provenance": "local_gitignored_addon_tree",
+  "addon_id": "tome-possessors",
+  "addon_compatibility_game_version": "1.7.4",
   "addon_version": null,
-  "source_match_status": "source_unavailable",
-  "source_match_method": "tometips_hint_missing_source_tree",
+  "source_match_status": "matched",
+  "source_match_method": "exact_source_name_and_source_evidence",
   "wiki_category_id": "psionic/ravenous-mind",
-  "source_match_confidence": "hint_only",
-  "source_candidates": [
-    {
-      "talent_id": "T_CHANNEL_PAIN",
-      "source_hint_file": "data-possessors/talents/psionic/ravenous-mind.lua",
-      "source_hint_line": 48,
-      "source_hint_release": "tometips-1.7.4",
-      "source_category_id": "psionic/ravenous-mind"
-    }
-  ]
+  "source_match_confidence": "unique_definition",
+  "source_category_id": "psionic/ravenous-mind",
+  "talent_id_method": "engine_default_name"
 }

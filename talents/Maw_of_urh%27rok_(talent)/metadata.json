@@ -9,7 +9,7 @@
   "category_id": "corruption/fearfire",
   "canonical_talent_id": "MAW_OF_URHROK",
   "talent_id": "T_FEARSCAPE_AURA",
-  "source_name": "Maw of Urh",
+  "source_name": "Maw of Urh'rok",
   "source_file": "game/addons/tome-ashes-urhrok/tome-ashes-urhrok/data/talents/corruptions/fearfire.lua",
   "source_start_line": 170,
   "source_end_line": 223,

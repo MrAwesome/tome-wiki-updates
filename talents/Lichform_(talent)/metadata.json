@@ -20,9 +20,19 @@
   "addon_id": null,
   "addon_compatibility_game_version": null,
   "addon_version": null,
-  "source_match_status": "not_found",
-  "source_match_method": "no_unique_current_source_definition",
+  "source_match_status": "removed_or_renamed",
+  "source_match_method": "explicit_wiki_removal_or_rename_evidence",
   "wiki_category_id": "spell/necrosis",
-  "source_match_confidence": "unresolved",
-  "source_candidates": []
+  "source_match_confidence": "documented_on_wiki",
+  "source_candidates": [],
+  "source_status_evidence": [
+    {
+      "line": 1,
+      "quote": "Note: This talent was removed in version 1.7.0. It was replaced with {{t|Lich}}, a race evolution [[Prodigy]]."
+    },
+    {
+      "line": 42,
+      "quote": "[[Category:Removed Talents]]"
+    }
+  ]
 }
