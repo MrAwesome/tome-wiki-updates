@@ -249,7 +249,7 @@ def scale_value(
     if template in ("cts", "ctspd", "ctmd", "ctstmd", "ctpd"):
         if len(args) < 3:
             raise Unsupported(f"{template} lacks low/high arguments")
-        if template == "cts" and len(args) > 4:
+        if template == "cts" and len(args) > 6:
             raise Unsupported("talent scale helper has too many arguments")
         if template != "cts" and len(args) > 3 and not (template in ("ctspd", "ctmd") and len(args) == 4):
             raise Unsupported(f"unsupported extra arguments to {template}")
@@ -272,10 +272,14 @@ def scale_value(
         ]
         if power:
             params.append(power)
-        if template == "cts" and len(args) == 4:
-            params.append(fmt_number(args[3]))
-        if percent and template not in ("ctspd", "ctmd", "ctstmd", "ctpd"):
-            params[1 if template == "cts" and len(args) == 4 else -1] += "%"
+        if template == "cts" and len(args) >= 4:
+            power = args[3].strip().strip("'\"")
+            params.append("log" if power == "log" else fmt_number(power))
+            params.extend(fmt_number(arg) for arg in args[4:])
+        if percent and template == "cts":
+            params[1] += "%"
+        elif percent and template not in ("ctspd", "ctmd", "ctstmd", "ctpd"):
+            params[-1] += "%"
         return "{{" + template + "|" + "|".join(params) + "}}"
 
     if template == "ctstd":
@@ -292,7 +296,7 @@ def scale_value(
         return f"{{{{ctstd|{stat}|{low}|{high}}}}}"
 
     if template == "ctl":
-        if len(args) < 4 or len(args) > 4:
+        if len(args) < 4 or len(args) > 6:
             raise Unsupported("talent limit helper has unsupported arguments")
         scale = value_multiplier * percentage_multiplier
         max_value, low, high = (fmt_number(x, scale) for x in args[1:4])
@@ -307,10 +311,33 @@ def scale_value(
             low, high = str(int(float(low) // 1)), str(int(float(high) // 1))
         if ceil:
             low, high = str(int(-(-float(low) // 1))), str(int(-(-float(high) // 1)))
+        optional = []
+        if len(args) >= 5:
+            raw = args[4].strip().lower()
+            if raw in ("true", "raw"):
+                optional.append("raw")
+            elif raw == "false":
+                optional.append("false")
+            elif re.fullmatch(r"-?\d+(?:\.\d+)?", raw):
+                # Lua treats every number, including 0, as truthy.
+                optional.append("raw")
+            else:
+                raise Unsupported("talent limit raw flag is not a supported literal")
+        if len(args) == 6:
+            mastery = args[5].strip()
+            if re.fullmatch(r"-?\d+(?:\.\d+)?", mastery):
+                optional.append(fmt_number(mastery))
+            elif mastery.startswith("{") and mastery.endswith("}"):
+                values = split_args(mastery[1:-1])
+                if not values or any(not re.fullmatch(r"-?\d+(?:\.\d+)?", value) for value in values):
+                    raise Unsupported("talent limit mastery table is not numeric")
+                optional.append(",".join(fmt_number(value) for value in values))
+            else:
+                raise Unsupported("talent limit mastery is not a supported literal")
         if percent:
             max_value += "%"
             high += "%"
-        return f"{{{{ctl|{max_value}|{low}|{high}}}}}"
+        return "{{ctl|" + "|".join([max_value, low, high, *optional]) + "}}"
 
     if template == "cts":
         if len(args) < 3 or len(args) > 3:
@@ -327,15 +354,20 @@ def scale_value(
         return f"{{{{cts|{low}|{high}}}}}"
 
     if template == "css":
-        if len(args) < 4 or len(args) > 4:
+        if len(args) < 3 or len(args) > 6:
             raise Unsupported("stat scale helper has unsupported arguments")
-        stat = args[1].strip(" '\"").capitalize()
+        stat = args[0].strip(" '\"").capitalize()
         scale = value_multiplier * percentage_multiplier
-        low, high = fmt_number(args[2], scale), fmt_number(args[3], scale)
+        low, high = fmt_number(args[1], scale), fmt_number(args[2], scale)
         low, high = fmt_number(str(float(low) + value_offset)), fmt_number(str(float(high) + value_offset))
+        optional = []
+        if len(args) >= 4:
+            power = args[3].strip().strip("'\"")
+            optional.append("log" if power == "log" else fmt_number(power))
+            optional.extend(fmt_number(arg) for arg in args[4:])
         if percent:
             high += "%"
-        return f"{{{{css|{stat}|{low}|{high}}}}}"
+        return "{{css|" + "|".join([stat, low, high, *optional]) + "}}"
 
     raise Unsupported(f"unsupported scaling template {template}")
 
@@ -356,6 +388,33 @@ def source_helper(block: str, name: str) -> str:
     if not end_match:
         raise Unsupported(f"cannot bound helper {name}")
     return block[body_start : body_start + end_match.start()]
+
+
+def static_lua_string(expr: str, locals_map: dict[str, str], seen=None) -> str | None:
+    """Resolve only literal Lua strings and local aliases to literal strings."""
+    expr = strip_lua_comments(expr).strip()
+    seen = set() if seen is None else seen
+    if expr in locals_map:
+        if expr in seen:
+            return None
+        return static_lua_string(locals_map[expr], locals_map, seen | {expr})
+    if expr.startswith("_t"):
+        expr = expr[2:].strip()
+    if expr.startswith(("'", '"')):
+        end = skip_quoted(expr, 0)
+        if end != len(expr):
+            return None
+        value = expr[1:-1]
+        for old, new in ((r"\\n", "\n"), (r"\\r", "\r"), (r"\\t", "\t"), (r"\\\"", '"'), (r"\\'", "'"), (r"\\\\", "\\")):
+            value = value.replace(old, new)
+        return value
+    opener = long_bracket(expr, 0)
+    if opener:
+        body, closer = opener
+        end = expr.find(closer, body)
+        if end >= 0 and end + len(closer) == len(expr):
+            return expr[body:end]
+    return None
 
 
 def render_expression(
@@ -411,6 +470,46 @@ def render_expression(
             percentage_multiplier=percentage_multiplier,
             complement_constant=complement_constant,
             value_offset=value_offset + offset_value,
+        )
+
+    leading_offset = re.fullmatch(r"(-?[\d.]+)\s*\+\s*(.+)", expr, re.S)
+    if leading_offset:
+        literal, base = leading_offset.groups()
+        return render_expression(
+            base, block, locals_map, seen, percent,
+            value_multiplier=value_multiplier,
+            percentage_multiplier=percentage_multiplier,
+            complement_constant=complement_constant,
+            value_offset=value_offset + float(literal),
+        )
+
+    # Collapse repeated instances of the same value before scalar parsing so
+    # operator precedence stays exact, e.g. (damage + damage/3)/2.
+    repeated_sum = re.fullmatch(
+        r"([A-Za-z_]\w*)\s*\+\s*\1(?:\s*/\s*(\d+(?:\.\d+)?))?", expr
+    )
+    reversed_repeated_sum = re.fullmatch(
+        r"([A-Za-z_]\w*)\s*/\s*(\d+(?:\.\d+)?)\s*\+\s*\1", expr
+    )
+    if repeated_sum:
+        variable, divisor = repeated_sum.groups()
+        ratio = 1 + (1 / float(divisor) if divisor else 1)
+        return render_expression(
+            variable, block, locals_map, seen, percent,
+            value_multiplier=value_multiplier * ratio,
+            percentage_multiplier=percentage_multiplier,
+            complement_constant=complement_constant,
+            value_offset=value_offset * ratio,
+        )
+    if reversed_repeated_sum:
+        variable, divisor = reversed_repeated_sum.groups()
+        ratio = 1 + 1 / float(divisor)
+        return render_expression(
+            variable, block, locals_map, seen, percent,
+            value_multiplier=value_multiplier * ratio,
+            percentage_multiplier=percentage_multiplier,
+            complement_constant=complement_constant,
+            value_offset=value_offset * ratio,
         )
 
     # Carry literal multiplication/division through helper-based scaling. This
@@ -540,7 +639,8 @@ def render_expression(
         if name.startswith("_get"):
             name = name[1:]
         name = {'getTalentRadius': 'radius', 'getTalentRange': 'range'}.get(name, name)
-        if name in seen:
+        helper_marker = f"helper:{name}"
+        if helper_marker in seen:
             raise Unsupported(f"recursive source helper: {name}")
         helper = source_helper(block, name)
         branch = re.search(
@@ -558,9 +658,27 @@ def render_expression(
         # tformat argument; helpers like getPower may return extra values.
         helper_expr = split_args(helper_expr)[0]
         return render_expression(
-            helper_expr, block, locals_map, seen | {name}, percent,
+            helper_expr, block, locals_map, seen | {helper_marker}, percent,
             value_multiplier, percentage_multiplier, complement_constant, value_offset,
         )
+
+    if not helper_match:
+        talent_method = re.search(r"\bt\.([A-Za-z_]\w*)\s*\(", expr)
+        if talent_method:
+            name = talent_method.group(1)
+            helper_marker = f"helper:{name}"
+            if helper_marker in seen:
+                raise Unsupported(f"recursive source helper: {name}")
+            helper = source_helper(block, name)
+            ret = re.search(r"\breturn\s+(.+)$", helper, re.S)
+            if not ret:
+                raise Unsupported(f"cannot resolve helper {name}")
+            helper_expr = re.sub(r"\s+end\s*$", "", strip_lua_comments(ret.group(1).strip()))
+            helper_expr = split_args(helper_expr)[0]
+            return render_expression(
+                helper_expr, block, locals_map, seen | {helper_marker}, percent,
+                value_multiplier, percentage_multiplier, complement_constant, value_offset,
+            )
 
     helper_specs = (
         ("combatTalentWeaponDamage", "ctwd"),
@@ -582,6 +700,26 @@ def render_expression(
             complement_constant, value_offset,
         )
 
+    if re.fullmatch(r"[A-Za-z_]\w*", expr):
+        helper_marker = f"helper:{expr}"
+        if helper_marker in seen:
+            raise Unsupported(f"recursive source helper: {expr}")
+        try:
+            helper = source_helper(block, expr)
+        except Unsupported as error:
+            if str(error) != f"source helper {expr} not found":
+                raise
+        else:
+            ret = re.search(r"\breturn\s+(.+)$", helper, re.S)
+            if not ret:
+                raise Unsupported(f"cannot resolve helper {expr}")
+            helper_expr = re.sub(r"\s+end\s*$", "", strip_lua_comments(ret.group(1).strip()))
+            helper_expr = split_args(helper_expr)[0]
+            return render_expression(
+                helper_expr, block, locals_map, seen | {helper_marker}, percent,
+                value_multiplier, percentage_multiplier, complement_constant, value_offset,
+            )
+
     raise Unsupported(f"unsupported interpolation expression: {expr}")
 
 
@@ -590,7 +728,7 @@ def split_info(block: str):
     if not info:
         raise Unsupported("info function missing")
     tail = block[info.end() :]
-    ret = re.search(r"\breturn\s*\(\s*\[(=*)\[(.*?)\]\1\]", tail, re.S)
+    ret = re.search(r"\breturn\s*\(?\s*(?:_t\s*)?\[(=*)\[(.*?)\]\1\]", tail, re.S)
     if not ret:
         raise Unsupported("info return is not a supported Lua long string")
     raw = ret.group(2)
@@ -620,17 +758,28 @@ def split_info(block: str):
     rank_colors = {
         name for name in re.findall(r"(?m)^\s*local\s+_,\s*(color_[A-Za-z0-9_]+)\s*=\s*self:textRank\s*\(", block)
     }
-    dynamic_color_tokens = []
+    dynamic_string_tokens = []
+    string_values = {}
+    has_rank_colors = False
     arg_cursor = 0
     for token in tokens:
         if token.group() == "%%":
             continue
-        if token.group() == "%s" and args[arg_cursor].strip() not in rank_colors:
-            dynamic_color_tokens.append(token)
+        if token.group() == "%s":
+            arg = args[arg_cursor].strip()
+            if arg in rank_colors:
+                string_values[arg_cursor] = ""
+                has_rank_colors = True
+            else:
+                value = static_lua_string(arg, locals_map)
+                if value is None:
+                    dynamic_string_tokens.append(token)
+                else:
+                    string_values[arg_cursor] = value
         arg_cursor += 1
-    if dynamic_color_tokens:
+    if dynamic_string_tokens:
         raise Unsupported("dynamic %s formatting is unsupported")
-    if any(token.group() == "%s" for token in tokens):
+    if has_rank_colors:
         source_text = source_text.replace("#LAST#", "")
         tokens = list(re.finditer(r"%(?:0)?\.\d+f|%d|%f|%s|%%", source_text))
 
@@ -647,7 +796,7 @@ def split_info(block: str):
             token_index += 1
             continue
         if token.group() == "%s":
-            result.append("")  # textRank color codes are presentation-only
+            result.append(string_values.get(arg_index, ""))
             arg_index += 1
             pos = token.end()
             token_index += 1
@@ -695,16 +844,29 @@ def set_param(box: str, key: str, value: str) -> str:
     if matches:
         match = matches[0]
         return box[: match.start(2)] + value + box[match.end(2) :]
+    inline = re.search(rf"(\|\s*{re.escape(key)}\s*=\s*)([^|\r\n}}]*)", box)
+    if inline:
+        return box[: inline.start(2)] + value + box[inline.end(2) :]
     first_newline = box.find("\n")
     if first_newline < 0:
-        raise Unsupported("Ability_box opener is not on its own line")
+        opener = re.match(r"\{\{\s*Ability(?:_|\s)box\b", box, re.I)
+        if not opener:
+            raise Unsupported("Ability_box opener is not recognized")
+        return box[: opener.end()] + f"|{key}={value}" + box[opener.end() :]
     return box[: first_newline + 1] + f"|{key}={value}\n" + box[first_newline + 1 :]
 
 
 def set_desc(box: str, description: str) -> str:
-    match = re.search(r"(?m)^[ \t]*\|\s*desc\s*=", box)
+    match = re.search(r"\|\s*desc\s*=", box)
     if not match:
-        raise Unsupported("desc parameter missing")
+        if not description.strip():
+            return box
+        closing = box.rfind("}}")
+        if closing < 0:
+            raise Unsupported("Ability_box close missing")
+        prefix = box[:closing]
+        separator = "" if prefix.endswith("\n") else "\n"
+        return prefix + separator + "|desc=\n" + description + "\n" + box[closing:]
     value_start = match.end()
     next_param = re.search(r"(?m)^[ \t]*\|\s*[A-Za-z_][A-Za-z0-9_.-]*\s*=", box[value_start:])
     closing = box.rfind("}}")
@@ -724,7 +886,7 @@ def normalize_description(value: str) -> str:
 
 
 def current_description(box: str):
-    match = re.search(r"(?m)^[ \t]*\|\s*desc\s*=", box)
+    match = re.search(r"\|\s*desc\s*=", box)
     if not match:
         return None
     start = match.end()
@@ -908,6 +1070,10 @@ def key_parameter_changed(before_box: str, after_box: str, key: str) -> bool:
         pattern = rf'(?m)^\s*\|\s*{re.escape(key)}\s*=.*$'
     before_match = re.search(pattern, before_box)
     after_match = re.search(pattern, after_box)
+    if not before_match:
+        before_match = re.search(rf"\|\s*{re.escape(key)}\s*=\s*([^|\r\n}}]*)", before_box)
+    if not after_match:
+        after_match = re.search(rf"\|\s*{re.escape(key)}\s*=\s*([^|\r\n}}]*)", after_box)
     before_value = before_match.group(0) if before_match else None
     after_value = after_match.group(0) if after_match else None
     return before_value != after_value

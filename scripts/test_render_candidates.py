@@ -40,6 +40,14 @@ class RenderCandidateTests(unittest.TestCase):
             renderer.render_expression("t.getShieldBonus(self, t)", SOURCE, {}),
             "{{ctstd|Str|80|400}}",
         )
+        self.assertEqual(
+            renderer.render_expression(
+                "(damage + damage / 3) / 2",
+                SOURCE,
+                {"damage": "self:combatTalentSpellDamage(t, 15, 45)"},
+            ),
+            "{{ctspd|10|30}}",
+        )
 
     def test_complement_and_percent_cap(self):
         self.assertEqual(
@@ -108,6 +116,54 @@ class RenderCandidateTests(unittest.TestCase):
         )
         self.assertEqual(renderer.render_expression("self:getTalentRadius(t)", SOURCE, {}), "10")
 
+    def test_optional_scale_parameters_and_leading_offset(self):
+        self.assertEqual(
+            renderer.render_expression('self:combatTalentScale(t, 3, 7, "log", 0, 2)', SOURCE, {}),
+            "{{cts|3|7|log|0|2}}",
+        )
+        self.assertEqual(
+            renderer.render_expression("self:combatTalentLimit(t, 6, 1.1, 2.5, false, 1.0)", SOURCE, {}),
+            "{{ctl|6|1.1|2.5|false|1}}",
+        )
+        self.assertEqual(
+            renderer.render_expression('self:combatStatScale("dex", 10, 100, 0.75)', SOURCE, {}),
+            "{{css|Dex|10|100|0.75}}",
+        )
+        self.assertEqual(
+            renderer.render_expression("1 + math.floor(self:combatTalentScale(t, 2, 6))", SOURCE, {}),
+            "{{cts|3|7}}",
+        )
+        self.assertEqual(
+            renderer.render_expression("self:combatTalentLimit(t, 30, 5, 25, true)", SOURCE, {}),
+            "{{ctl|30|5|25|raw}}",
+        )
+
+    def test_generic_talent_helper_and_local_radius_do_not_collide(self):
+        source = r'''radius = function(self, t) return self:combatTalentScale(t, 2, 4) end,
+summonTime = function(self, t) return math.floor(self:combatTalentScale(t, 3, 7)) end,'''
+        self.assertEqual(
+            renderer.render_expression("t.summonTime(self, t)", source, {}),
+            "{{cts|3|7}}",
+        )
+        self.assertEqual(
+            renderer.render_expression("radius", source, {"radius": "self:getTalentRadius(t)"}),
+            "{{cts|2|4}}",
+        )
+
+    def test_bare_source_helper_fields_resolve_only_when_defined(self):
+        source = r'''chance = function(self, t) return self:combatTalentScale(t, 20, 50) end,'''
+        self.assertEqual(renderer.render_expression("chance", source, {}), "{{cts|20|50}}")
+        with self.assertRaisesRegex(renderer.Unsupported, "unsupported interpolation expression: unknown"):
+            renderer.render_expression("unknown", source, {})
+
+    def test_static_string_format_arguments_and_localized_long_strings(self):
+        info = r'''info = function(self, t)
+            local slot = _t"not prepared"
+            return (_t[[The %s slot is ready.]]) :tformat(slot)
+        end,'''
+        self.assertEqual(renderer.split_info(info), "The not prepared slot is ready.")
+        self.assertEqual(renderer.split_info('info = function(self,t) return (_t[[Plain text.]]) end,'), "Plain text.")
+
     def test_rank_color_placeholders_and_extra_tformat_args(self):
         info_block = r'''info = function(self, t)
             local _, color_normal = self:textRank(2)
@@ -138,6 +194,24 @@ class RenderCandidateTests(unittest.TestCase):
         _, _, before_box = renderer.extract_box(before)
         _, _, after_box = renderer.extract_box(after)
         self.assertTrue(renderer.key_parameter_changed(before_box, after_box, "desc"))
+
+    def test_missing_desc_parameter_is_added_without_reformatting_existing_fields(self):
+        box = "{{Ability box\n|name=Example\n|category=Test\n}}"
+        self.assertEqual(
+            renderer.set_desc(box, "Source description."),
+            "{{Ability box\n|name=Example\n|category=Test\n|desc=\nSource description.\n}}",
+        )
+
+    def test_single_line_ability_box_can_receive_version_and_desc_updates(self):
+        box = "{{Ability_box|name=Example|desc=Old text.}}"
+        updated = renderer.set_param(box, "game_version", "1.7.6")
+        self.assertIn("{{Ability_box|game_version=1.7.6|name=Example", updated)
+        _, _, before_box = renderer.extract_box(box)
+        _, _, ability_box = renderer.extract_box(updated)
+        self.assertTrue(renderer.key_parameter_changed(before_box, ability_box, "game_version"))
+        self.assertEqual(renderer.current_description(ability_box), "Old text.")
+        updated = renderer.set_desc(ability_box, "Source description.")
+        self.assertIn("|desc=\nSource description.\n}}", updated)
 
     def test_unsupported_arithmetic_fails_closed(self):
         with self.assertRaises(renderer.Unsupported):
