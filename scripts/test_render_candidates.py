@@ -15,6 +15,8 @@ getBleedMult = function(self, t) return self:combatTalentScale(t, 1.4, 2.8) end,
 getEnergyDrain = function(self, t) return self:combatTalentScale(t, 40, 70) end,
 getEnergyCap = function(self, t) return 4000 end,
 getSpillThreshold = function(self, t) return 40 end,
+getDur = function(self, t) return math.floor(self:combatTalentScale(t, 5, 10)) end,
+radius = 10,
 '''
 
 
@@ -80,6 +82,47 @@ class RenderCandidateTests(unittest.TestCase):
         end,'''
         with self.assertRaisesRegex(renderer.Unsupported, r"dynamic %s"):
             renderer.split_info(dynamic_block)
+
+    def test_inert_clamps_raw_levels_physical_damage_and_talent_methods(self):
+        self.assertEqual(
+            renderer.render_expression("math.max(1, math.floor(self:combatTalentLimit(t, 5, 1, 3)))", SOURCE, {}),
+            "{{ctl|5|1|3}}",
+        )
+        self.assertEqual(
+            renderer.render_expression("math.min(13, math.floor(self:combatTalentScale(t, 5, 9)))", SOURCE, {}),
+            "{{cts|5|9}}",
+        )
+        with self.assertRaisesRegex(renderer.Unsupported, "changes scaling endpoints"):
+            renderer.render_expression("math.max(1, self:combatTalentScale(t, 0, 4))", SOURCE, {})
+        self.assertEqual(
+            renderer.render_expression("math.min(4, self:getTalentLevelRaw(t))", SOURCE, {}),
+            "{{gtl|1|4|raw}}",
+        )
+        self.assertEqual(
+            renderer.render_expression("self:combatTalentPhysicalDamage(t, 15, 100)", SOURCE, {}),
+            "{{ctpd|15|100}}",
+        )
+        self.assertEqual(
+            renderer.render_expression("t:_getDur(self)", SOURCE, {}),
+            "{{cts|5|10}}",
+        )
+        self.assertEqual(renderer.render_expression("self:getTalentRadius(t)", SOURCE, {}), "10")
+
+    def test_rank_color_placeholders_and_extra_tformat_args(self):
+        info_block = r'''info = function(self, t)
+            local _, color_normal = self:textRank(2)
+            return ([[Ranks: %sNormal#LAST#; fixed %d.]]) :tformat(color_normal, 5, 99)
+        end,'''
+        self.assertEqual(renderer.split_info(info_block), "Ranks: Normal; fixed 5.")
+
+    def test_symbolic_steam_formula_and_multi_return_helper(self):
+        source = r'''getPower = function(self, t)
+            return (60 + self:combatTalentSteamDamage(t, 15, 450)) / 7, 7, self:combatTalentLimit(t, 100, 27, 55)
+        end,'''
+        self.assertEqual(
+            renderer.render_expression("t.getPower(self, t)", source, {}, percent=True),
+            "(60% + {{ctstmd|15|450%}})/7",
+        )
 
     def test_unsupported_arithmetic_fails_closed(self):
         with self.assertRaises(renderer.Unsupported):

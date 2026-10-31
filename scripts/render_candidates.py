@@ -246,7 +246,7 @@ def scale_value(
         low, high = fmt_number(str(float(low) + value_offset)), fmt_number(str(float(high) + value_offset))
         return f"{{{{ctwd|{low}|{high}%}}}}"
 
-    if template in ("cts", "ctspd", "ctmd", "ctstmd"):
+    if template in ("cts", "ctspd", "ctmd", "ctstmd", "ctpd"):
         if len(args) < 3:
             raise Unsupported(f"{template} lacks low/high arguments")
         if template == "cts" and len(args) > 4:
@@ -274,7 +274,7 @@ def scale_value(
             params.append(power)
         if template == "cts" and len(args) == 4:
             params.append(fmt_number(args[3]))
-        if percent and template not in ("ctspd", "ctmd", "ctstmd"):
+        if percent and template not in ("ctspd", "ctmd", "ctstmd", "ctpd"):
             params[1 if template == "cts" and len(args) == 4 else -1] += "%"
         return "{{" + template + "|" + "|".join(params) + "}}"
 
@@ -343,6 +343,12 @@ def scale_value(
 def source_helper(block: str, name: str) -> str:
     match = re.search(rf"\b{re.escape(name)}\s*=\s*function\b", block)
     if not match:
+        field = re.search(
+            rf"(?m)^\s*{re.escape(name)}\s*=\s*(-?\d+(?:\.\d+)?)\s*,?\s*(?:--[^\n]*)?$",
+            block,
+        )
+        if field:
+            return f"return {field.group(1)}"
         raise Unsupported(f"source helper {name} not found")
     body_start = match.end()
     # Current supported helper definitions end at `end,` on the same or later line.
@@ -407,23 +413,16 @@ def render_expression(
             value_offset=value_offset + offset_value,
         )
 
-    offset = re.fullmatch(r"(.+?)\s*([+-])\s*(-?[\d.]+)", expr)
-    if offset:
-        base, operator, literal = offset.groups()
-        offset_value = float(literal) * (1 if operator == "+" else -1)
-        return render_expression(
-            base, block, locals_map, seen, percent,
-            value_multiplier=value_multiplier,
-            percentage_multiplier=percentage_multiplier,
-            complement_constant=complement_constant,
-            value_offset=value_offset + offset_value,
-        )
-
     # Carry literal multiplication/division through helper-based scaling. This
     # covers values such as damage / 10 and a stat-scaled value multiplied by 4.
+    symbolic_steam_formula = re.fullmatch(
+        r"\(?\s*(-?\d+(?:\.\d+)?)\s*\+\s*(?:self:)?combatTalentSteamDamage\s*\((.*?)\)\s*\)?\s*/\s*(\d+(?:\.\d+)?)",
+        expr,
+        re.S,
+    )
     scalar = re.fullmatch(r"(.+?)\s*([*/])\s*(-?[\d.]+)", expr)
     scalar_left = re.fullmatch(r"(-?[\d.]+)\s*\*\s*(.+)", expr)
-    if scalar or scalar_left:
+    if (scalar or scalar_left) and not symbolic_steam_formula:
         if scalar:
             base, operator, literal = scalar.groups()
             factor = float(literal) if operator == "*" else 1 / float(literal)
@@ -438,14 +437,74 @@ def render_expression(
             value_offset=value_offset * factor,
         )
 
-    if has_unsupported_top_level_arithmetic(expr):
-        raise Unsupported(f"unsupported arithmetic expression: {expr}")
-
     floor = ceil = False
     m = re.fullmatch(r"math\.(floor|ceil)\s*\((.*)\)", expr, re.S)
     if m:
         floor, ceil = m.group(1) == "floor", m.group(1) == "ceil"
         expr = strip_outer_parens(m.group(2))
+
+    # These bounds are common around scaling helpers. Preserve only when the
+    # monotone helper's full endpoint range proves bound cannot change result.
+    clamp = re.fullmatch(r"math\.(min|max)\s*\((.*)\)", expr, re.S)
+    if clamp:
+        kind = clamp.group(1)
+        args = split_args(clamp.group(2))
+        if len(args) != 2:
+            raise Unsupported(f"unsupported math.{kind} arguments")
+        literal_index = next((i for i, arg in enumerate(args) if re.fullmatch(r"-?\d+(?:\.\d+)?", arg)), None)
+        if literal_index is None:
+            raise Unsupported(f"math.{kind} needs one literal bound")
+        bound = float(args[literal_index])
+        inner = args[1 - literal_index]
+        if floor:
+            inner = f"math.floor({inner})"
+        elif ceil:
+            inner = f"math.ceil({inner})"
+        rendered = render_expression(
+            inner, block, locals_map, seen, percent,
+            value_multiplier=value_multiplier,
+            percentage_multiplier=percentage_multiplier,
+            complement_constant=complement_constant,
+            value_offset=value_offset,
+        )
+        if kind == "min" and re.fullmatch(r"\{\{gtl\|1\|5\|raw\}\}", rendered):
+            if 1 <= bound <= 5 and bound.is_integer():
+                return f"{{{{gtl|1|{int(bound)}|raw}}}}"
+            raise Unsupported("unsupported raw talent-level clamp")
+        numeric_args = re.fullmatch(r"\{\{(?:cts|ctl|ctwd|ctspd|ctmd|ctstmd|ctpd|ctstd|css)\|([^{}]+)\}\}", rendered)
+        if not numeric_args:
+            raise Unsupported(f"cannot prove math.{kind} clamp is inert")
+        values = []
+        for value in numeric_args.group(1).split("|"):
+            numeric = re.fullmatch(r"(-?\d+(?:\.\d+)?)(?:%)?", value)
+            if numeric:
+                values.append(float(numeric.group(1)))
+        if not values or not (all(v >= bound for v in values) if kind == "max" else all(v <= bound for v in values)):
+            raise Unsupported(f"math.{kind} clamp changes scaling endpoints")
+        return rendered
+
+    # Preserve affine steam-damage formulas symbolically. Mecharachnid's
+    # percentage is (60 + steam damage) / 7; flattening to template endpoints
+    # would lose the Spellpower-dependent scaling semantics.
+    formula = symbolic_steam_formula
+    if formula:
+        constant, helper_args, divisor = formula.groups()
+        scaling = render_expression(
+            f"self:combatTalentSteamDamage({helper_args})", block, locals_map, seen,
+            value_multiplier=value_multiplier,
+            percentage_multiplier=percentage_multiplier,
+            complement_constant=complement_constant,
+            value_offset=value_offset,
+        )
+        if not scaling.startswith("{{ctstmd|"):
+            raise Unsupported("steam damage formula did not resolve to ctstmd")
+        if percent:
+            scaling = scaling[:-2] + "%}}"
+            constant = fmt_number(constant) + "%"
+        return f"({constant} + {scaling})/{fmt_number(divisor)}"
+
+    if has_unsupported_top_level_arithmetic(expr):
+        raise Unsupported(f"unsupported arithmetic expression: {expr}")
 
     if re.fullmatch(r"-?\d+(?:\.\d+)?", expr):
         value = float(expr) * value_multiplier * percentage_multiplier + value_offset
@@ -468,13 +527,18 @@ def render_expression(
         )
 
     helper_match = re.search(r"(?:\bt\.|\bself:)(get[A-Za-z0-9_]+)\s*\(", expr)
+    if not helper_match:
+        helper_match = re.search(r"\bt:(_get[A-Za-z0-9_]+)\s*\(", expr)
     if helper_match:
         name = helper_match.group(1)
-        if name == "getTalentLevel":
+        if name in ("getTalentLevel", "getTalentLevelRaw"):
             args = call_args(expr, name) or []
             if args and args[-1].strip() == "t":
-                return "{{gtl|1|5}}"
+                suffix = "|raw" if name == "getTalentLevelRaw" else ""
+                return f"{{{{gtl|1|5{suffix}}}}}"
             raise Unsupported("unsupported getTalentLevel arguments")
+        if name.startswith("_get"):
+            name = name[1:]
         name = {'getTalentRadius': 'radius', 'getTalentRange': 'range'}.get(name, name)
         helper = source_helper(block, name)
         branch = re.search(
@@ -487,7 +551,10 @@ def render_expression(
         ret = re.search(r"\breturn\s+(.+)$", helper, re.S)
         if not ret:
             raise Unsupported(f"cannot resolve helper {name}")
-        helper_expr = re.sub(r"\s+end\s*$", "", ret.group(1).strip())
+        helper_expr = re.sub(r"\s+end\s*$", "", strip_lua_comments(ret.group(1).strip()))
+        # Lua uses only first result when a multi-return call is not final
+        # tformat argument; helpers like getPower may return extra values.
+        helper_expr = split_args(helper_expr)[0]
         return render_expression(
             helper_expr, block, locals_map, seen | {name}, percent,
             value_multiplier, percentage_multiplier, complement_constant, value_offset,
@@ -498,6 +565,7 @@ def render_expression(
         ("combatTalentSpellDamage", "ctspd"),
         ("combatTalentMindDamage", "ctmd"),
         ("combatTalentSteamDamage", "ctstmd"),
+        ("combatTalentPhysicalDamage", "ctpd"),
         ("combatTalentStatDamage", "ctstd"),
         ("combatTalentLimit", "ctl"),
         ("combatTalentScale", "cts"),
@@ -542,10 +610,27 @@ def split_info(block: str):
     source_lines = [line.strip() for line in raw.splitlines()]
     source_text = wiki_bullets("\n".join(source_lines).strip())
     tokens = list(re.finditer(r"%(?:0)?\.\d+f|%d|%f|%s|%%", source_text))
-    if any(token.group() == "%s" for token in tokens):
+    value_placeholders = sum(token.group() not in ("%%", "%s") for token in tokens)
+    required_placeholders = sum(token.group() != "%%" for token in tokens)
+    if len(args) < required_placeholders:
+        raise Unsupported(f"format argument mismatch: {value_placeholders} value placeholders, {len(args)} args")
+
+    rank_colors = {
+        name for name in re.findall(r"(?m)^\s*local\s+_,\s*(color_[A-Za-z0-9_]+)\s*=\s*self:textRank\s*\(", block)
+    }
+    dynamic_color_tokens = []
+    arg_cursor = 0
+    for token in tokens:
+        if token.group() == "%%":
+            continue
+        if token.group() == "%s" and args[arg_cursor].strip() not in rank_colors:
+            dynamic_color_tokens.append(token)
+        arg_cursor += 1
+    if dynamic_color_tokens:
         raise Unsupported("dynamic %s formatting is unsupported")
-    if len(args) != sum(token.group() != "%%" for token in tokens):
-        raise Unsupported(f"format argument mismatch: {len(tokens)} placeholders, {len(args)} args")
+    if any(token.group() == "%s" for token in tokens):
+        source_text = source_text.replace("#LAST#", "")
+        tokens = list(re.finditer(r"%(?:0)?\.\d+f|%d|%f|%s|%%", source_text))
 
     result = []
     pos = 0
@@ -556,6 +641,12 @@ def split_info(block: str):
         result.append(source_text[pos : token.start()])
         if token.group() == "%%":
             result.append("%")
+            pos = token.end()
+            token_index += 1
+            continue
+        if token.group() == "%s":
+            result.append("")  # textRank color codes are presentation-only
+            arg_index += 1
             pos = token.end()
             token_index += 1
             continue
