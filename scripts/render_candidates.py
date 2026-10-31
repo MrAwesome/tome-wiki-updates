@@ -63,6 +63,34 @@ def skip_comment(text: str, pos: int):
     return len(text) if end < 0 else end + 1
 
 
+def strip_lua_comments(text: str) -> str:
+    result = []
+    i = 0
+    while i < len(text):
+        if text[i] in "'\"":
+            end = skip_quoted(text, i)
+            result.append(text[i:end])
+            i = end
+            continue
+        comment_end = skip_comment(text, i)
+        if comment_end is not None:
+            result.append(" ")
+            i = comment_end
+            continue
+        if text[i] == "[":
+            lb = long_bracket(text, i)
+            if lb:
+                body, closer = lb
+                end = text.find(closer, body)
+                end = len(text) if end < 0 else end + len(closer)
+                result.append(text[i:end])
+                i = end
+                continue
+        result.append(text[i])
+        i += 1
+    return "".join(result).strip()
+
+
 def matching(text: str, open_pos: int, opening: str, closing: str) -> int:
     depth = 0
     i = open_pos
@@ -114,10 +142,10 @@ def split_args(text: str) -> list[str]:
         elif stack and text[i] == stack[-1]:
             stack.pop()
         elif text[i] == "," and not stack:
-            args.append(text[start:i].strip())
+            args.append(strip_lua_comments(text[start:i]))
             start = i + 1
         i += 1
-    tail = text[start:].strip()
+    tail = strip_lua_comments(text[start:])
     if tail:
         args.append(tail)
     return args
@@ -206,24 +234,31 @@ def scale_value(
     value_multiplier: float = 1.0,
     percentage_multiplier: float = 1.0,
     complement_constant: float | None = None,
+    value_offset: float = 0.0,
 ) -> str:
     if complement_constant is not None and template != "ctl":
         raise Unsupported("complement arithmetic is only supported for ctl scaling")
     if template == "ctwd":
         if len(args) < 3 or len(args) > 3:
             raise Unsupported("weapon damage helper has extra scaling arguments")
-        low, high = fmt_number(args[1], 100 * value_multiplier), fmt_number(args[2], 100 * value_multiplier)
+        low = fmt_number(args[1], 100 * value_multiplier)
+        high = fmt_number(args[2], 100 * value_multiplier)
+        low, high = fmt_number(str(float(low) + value_offset)), fmt_number(str(float(high) + value_offset))
         return f"{{{{ctwd|{low}|{high}%}}}}"
 
     if template in ("cts", "ctspd", "ctmd", "ctstmd"):
         if len(args) < 3:
             raise Unsupported(f"{template} lacks low/high arguments")
+        if template == "cts" and len(args) > 4:
+            raise Unsupported("talent scale helper has too many arguments")
+        if template != "cts" and len(args) > 3 and not (template in ("ctspd", "ctmd") and len(args) == 4):
+            raise Unsupported(f"unsupported extra arguments to {template}")
         low, high = args[1], args[2]
         power = None
         if template in ("ctspd", "ctmd") and len(args) >= 4:
             power_arg = args[3].lower()
             power = "PM" if "paradox" in power_arg else "Mindpower" if "mind" in power_arg else "Spellpower"
-        elif len(args) > 3:
+        elif template in ("ctspd", "ctmd") and len(args) > 4:
             raise Unsupported(f"unsupported extra arguments to {template}")
         if floor:
             low, high = fmt_number(low, 1), fmt_number(high, 1)
@@ -231,11 +266,16 @@ def scale_value(
         elif ceil:
             low, high = str(int(-(-float(low) // 1))), str(int(-(-float(high) // 1)))
         scale = value_multiplier * percentage_multiplier
-        params = [fmt_number(low, scale), fmt_number(high, scale)]
+        params = [
+            fmt_number(str(float(fmt_number(low, scale)) + value_offset)),
+            fmt_number(str(float(fmt_number(high, scale)) + value_offset)),
+        ]
         if power:
             params.append(power)
+        if template == "cts" and len(args) == 4:
+            params.append(fmt_number(args[3]))
         if percent and template not in ("ctspd", "ctmd", "ctstmd"):
-            params[-1] += "%"
+            params[1 if template == "cts" and len(args) == 4 else -1] += "%"
         return "{{" + template + "|" + "|".join(params) + "}}"
 
     if template == "ctstd":
@@ -244,6 +284,7 @@ def scale_value(
         stat = args[1].strip(" '\"").capitalize()
         scale = value_multiplier * percentage_multiplier
         low, high = fmt_number(args[2], scale), fmt_number(args[3], scale)
+        low, high = fmt_number(str(float(low) + value_offset)), fmt_number(str(float(high) + value_offset))
         if floor:
             low, high = str(int(float(low) // 1)), str(int(float(high) // 1))
         if ceil:
@@ -255,6 +296,9 @@ def scale_value(
             raise Unsupported("talent limit helper has unsupported arguments")
         scale = value_multiplier * percentage_multiplier
         max_value, low, high = (fmt_number(x, scale) for x in args[1:4])
+        max_value, low, high = (
+            fmt_number(str(float(x) + value_offset)) for x in (max_value, low, high)
+        )
         if complement_constant is not None:
             max_value, low, high = (
                 fmt_number(str(complement_constant - float(x))) for x in (max_value, low, high)
@@ -273,6 +317,7 @@ def scale_value(
             raise Unsupported("talent scale helper has unsupported arguments")
         scale = value_multiplier * percentage_multiplier
         low, high = fmt_number(args[1], scale), fmt_number(args[2], scale)
+        low, high = fmt_number(str(float(low) + value_offset)), fmt_number(str(float(high) + value_offset))
         if floor:
             low, high = str(int(float(low) // 1)), str(int(float(high) // 1))
         if ceil:
@@ -287,6 +332,7 @@ def scale_value(
         stat = args[1].strip(" '\"").capitalize()
         scale = value_multiplier * percentage_multiplier
         low, high = fmt_number(args[2], scale), fmt_number(args[3], scale)
+        low, high = fmt_number(str(float(low) + value_offset)), fmt_number(str(float(high) + value_offset))
         if percent:
             high += "%"
         return f"{{{{css|{stat}|{low}|{high}}}}}"
@@ -315,13 +361,14 @@ def render_expression(
     value_multiplier: float = 1.0,
     percentage_multiplier: float = 1.0,
     complement_constant: float | None = None,
+    value_offset: float = 0.0,
 ) -> str:
-    expr = strip_outer_parens(expr)
+    expr = strip_outer_parens(strip_lua_comments(expr))
     seen = set() if seen is None else seen
     if expr in locals_map and expr not in seen:
         return render_expression(
             locals_map[expr], block, locals_map, seen | {expr}, percent,
-            value_multiplier, percentage_multiplier, complement_constant,
+            value_multiplier, percentage_multiplier, complement_constant, value_offset,
         )
 
     # Percent damage multipliers are commonly multiplied by 100 before tformat.
@@ -332,6 +379,7 @@ def render_expression(
             value_multiplier=value_multiplier,
             percentage_multiplier=percentage_multiplier * 100,
             complement_constant=complement_constant,
+            value_offset=value_offset,
         )
 
     complement = re.fullmatch(r"(-?[\d.]+)\s*-\s*(.+)", expr)
@@ -344,6 +392,31 @@ def render_expression(
             value_multiplier=value_multiplier,
             percentage_multiplier=percentage_multiplier,
             complement_constant=float(constant),
+            value_offset=value_offset,
+        )
+
+    offset = re.fullmatch(r"(.+?)\s*([+-])\s*(-?[\d.]+)", expr)
+    if offset:
+        base, operator, literal = offset.groups()
+        offset_value = float(literal) * (1 if operator == "+" else -1)
+        return render_expression(
+            base, block, locals_map, seen, percent,
+            value_multiplier=value_multiplier,
+            percentage_multiplier=percentage_multiplier,
+            complement_constant=complement_constant,
+            value_offset=value_offset + offset_value,
+        )
+
+    offset = re.fullmatch(r"(.+?)\s*([+-])\s*(-?[\d.]+)", expr)
+    if offset:
+        base, operator, literal = offset.groups()
+        offset_value = float(literal) * (1 if operator == "+" else -1)
+        return render_expression(
+            base, block, locals_map, seen, percent,
+            value_multiplier=value_multiplier,
+            percentage_multiplier=percentage_multiplier,
+            complement_constant=complement_constant,
+            value_offset=value_offset + offset_value,
         )
 
     # Carry literal multiplication/division through helper-based scaling. This
@@ -362,6 +435,7 @@ def render_expression(
             value_multiplier=value_multiplier * factor,
             percentage_multiplier=percentage_multiplier,
             complement_constant=complement_constant,
+            value_offset=value_offset * factor,
         )
 
     if has_unsupported_top_level_arithmetic(expr):
@@ -373,6 +447,16 @@ def render_expression(
         floor, ceil = m.group(1) == "floor", m.group(1) == "ceil"
         expr = strip_outer_parens(m.group(2))
 
+    if re.fullmatch(r"-?\d+(?:\.\d+)?", expr):
+        value = float(expr) * value_multiplier * percentage_multiplier + value_offset
+        if complement_constant is not None:
+            value = complement_constant - value
+        rendered = fmt_number(str(value))
+        return rendered + "%" if percent else rendered
+
+    if re.fullmatch(r"-?\d+(?:\.\d+)?", expr):
+        return fmt_number(str(float(expr) + value_offset))
+
     if expr.startswith("damDesc"):
         args = call_args(expr, "damDesc")
         if not args:
@@ -380,12 +464,17 @@ def render_expression(
         # Damage type is already named in source prose; damDesc supplies numeric value.
         return render_expression(
             args[-1], block, locals_map, seen, percent, value_multiplier,
-            percentage_multiplier, complement_constant,
+            percentage_multiplier, complement_constant, value_offset,
         )
 
     helper_match = re.search(r"(?:\bt\.|\bself:)(get[A-Za-z0-9_]+)\s*\(", expr)
     if helper_match:
         name = helper_match.group(1)
+        if name == "getTalentLevel":
+            args = call_args(expr, name) or []
+            if args and args[-1].strip() == "t":
+                return "{{gtl|1|5}}"
+            raise Unsupported("unsupported getTalentLevel arguments")
         name = {'getTalentRadius': 'radius', 'getTalentRange': 'range'}.get(name, name)
         helper = source_helper(block, name)
         branch = re.search(
@@ -401,7 +490,7 @@ def render_expression(
         helper_expr = re.sub(r"\s+end\s*$", "", ret.group(1).strip())
         return render_expression(
             helper_expr, block, locals_map, seen | {name}, percent,
-            value_multiplier, percentage_multiplier, complement_constant,
+            value_multiplier, percentage_multiplier, complement_constant, value_offset,
         )
 
     helper_specs = (
@@ -420,7 +509,7 @@ def render_expression(
         template = dict(helper_specs)[helper]
         return scale_value(
             template, args, percent, floor, ceil, value_multiplier, percentage_multiplier,
-            complement_constant,
+            complement_constant, value_offset,
         )
 
     raise Unsupported(f"unsupported interpolation expression: {expr}")
@@ -452,7 +541,9 @@ def split_info(block: str):
     # Convert the source's indentation-only whitespace, preserving wording and blank lines.
     source_lines = [line.strip() for line in raw.splitlines()]
     source_text = wiki_bullets("\n".join(source_lines).strip())
-    tokens = list(re.finditer(r"%0\.\d+f|%d|%f|%%", source_text))
+    tokens = list(re.finditer(r"%(?:0)?\.\d+f|%d|%f|%s|%%", source_text))
+    if any(token.group() == "%s" for token in tokens):
+        raise Unsupported("dynamic %s formatting is unsupported")
     if len(args) != sum(token.group() != "%%" for token in tokens):
         raise Unsupported(f"format argument mismatch: {len(tokens)} placeholders, {len(args)} args")
 
@@ -565,6 +656,34 @@ def note_content(value: str) -> str:
     return re.sub(r"\s+", " ", value).strip().casefold()
 
 
+def preserve_wiki_links(current: str | None, rendered: str) -> str:
+    """Retain existing links/typed damage markup when source prose has same label."""
+    if not current:
+        return rendered
+    markup = re.compile(
+        r"\{\{(?:t|c|ct)\|[^{}]+\}\}|\{\{(?:physical|fire|lightning|darkness|acid|cold|ice|nature|temporal|blight|light|arcane|mind)\}\}|\[\[[^\[\]]+\]\]",
+        re.I,
+    )
+    result = rendered
+    for match in markup.finditer(current):
+        token = match.group(0)
+        if token.startswith("[["):
+            target = token[2:-2]
+            label = target.split("|", 1)[-1]
+        elif token.startswith("{{") and "|" in token:
+            label = token[2:-2].split("|", 1)[1]
+        elif token.startswith("{{"):
+            label = token[2:-2]
+        else:
+            continue
+        if not label or token in result:
+            continue
+        plain = re.search(re.escape(label), result, re.I)
+        if plain:
+            result = result[:plain.start()] + token + result[plain.end():]
+    return result
+
+
 def preserved_wiki_notes(current: str | None, rendered: str) -> list[str]:
     """Keep explicit notes and italicized wiki asides absent from source info()."""
     if not current:
@@ -653,8 +772,11 @@ def build_candidate(directory: Path, tengine_root: Path, core_tag: str):
         elif meta['addon_id'] == 'tome-ashes-urhrok':
             candidate_box = set_param(candidate_box, 'ashes_version', meta['addon_version'])
         elif meta['addon_id'] == 'tome-cults':
-            raise Unsupported('wiki addon-version parameter for tome-cults is not established')
+            forbidden_version = re.search(r'(?m)^\s*\|\s*forbidden_version\s*=', candidate_box)
+            if forbidden_version and meta.get('addon_version'):
+                candidate_box = set_param(candidate_box, 'forbidden_version', meta['addon_version'])
         current_desc = current_description(candidate_box)
+        desc = preserve_wiki_links(current_desc, desc)
         notes = preserved_wiki_notes(current_desc, desc)
         desc = append_preserved_notes(desc, notes)
         patched_desc = patch_templates_only(current_desc, desc) if current_desc is not None else None
@@ -674,7 +796,7 @@ def build_candidate(directory: Path, tengine_root: Path, core_tag: str):
             raise Unsupported('candidate changed text outside Ability_box')
         return {
             **common, 'status': 'candidate' if after != before else 'no_change',
-            'updated_fields': [key for key in ('game_version', 'embers_version', 'ashes_version', 'desc')
+            'updated_fields': [key for key in ('game_version', 'embers_version', 'ashes_version', 'forbidden_version', 'desc')
                                if key_parameter_changed(box, candidate_box, key)],
             'preserved_wiki_notes': [
                 {'field': 'desc', 'text': note, 'review_status': 'needs_review_1.7.6'}
