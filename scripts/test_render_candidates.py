@@ -124,6 +124,21 @@ class RenderCandidateTests(unittest.TestCase):
             "(60% + {{ctstmd|15|450%}})/7",
         )
 
+    def test_recursive_source_helper_fails_closed(self):
+        source = r'''getStatBonus = function(self, t)
+            local t = self:getTalentFromId(self.T_DEPLOY_TURRET)
+            return t.getStatBonus(self, t)
+        end,'''
+        with self.assertRaisesRegex(renderer.Unsupported, "recursive source helper: getStatBonus"):
+            renderer.render_expression("t.getStatBonus(self, t)", source, {})
+
+    def test_changed_desc_is_reported_when_ability_box_closes_inline(self):
+        before = "{{Ability box\n|desc=old text}}"
+        after = "{{Ability box\n|desc=new text}}"
+        _, _, before_box = renderer.extract_box(before)
+        _, _, after_box = renderer.extract_box(after)
+        self.assertTrue(renderer.key_parameter_changed(before_box, after_box, "desc"))
+
     def test_unsupported_arithmetic_fails_closed(self):
         with self.assertRaises(renderer.Unsupported):
             renderer.render_expression("t.getDamage(self, t) + t.getDamage(self, t)", SOURCE, {})

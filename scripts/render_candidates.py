@@ -540,6 +540,8 @@ def render_expression(
         if name.startswith("_get"):
             name = name[1:]
         name = {'getTalentRadius': 'radius', 'getTalentRange': 'range'}.get(name, name)
+        if name in seen:
+            raise Unsupported(f"recursive source helper: {name}")
         helper = source_helper(block, name)
         branch = re.search(
             r"if\b.*?then\s*return\s*(-?[\d.]+)\s*else\s*return\s*(-?[\d.]+)\s*end",
@@ -901,7 +903,7 @@ def build_candidate(directory: Path, tengine_root: Path, core_tag: str):
 
 def key_parameter_changed(before_box: str, after_box: str, key: str) -> bool:
     if key == 'desc':
-        pattern = r'(?ms)^\s*\|\s*desc\s*=.*?(?=^\s*\|\s*[A-Za-z_][\w.-]*\s*=|^\s*\}\})'
+        return current_description(before_box) != current_description(after_box)
     else:
         pattern = rf'(?m)^\s*\|\s*{re.escape(key)}\s*=.*$'
     before_match = re.search(pattern, before_box)
