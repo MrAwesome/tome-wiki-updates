@@ -439,6 +439,42 @@ def current_description(box: str):
     return box[start:end]
 
 
+def note_content(value: str) -> str:
+    """Normalize note text enough to recognize source wording with different markup."""
+    value = re.sub(r"#\{/?(?:italic|normal|bold)\}#", " ", value, flags=re.I)
+    value = re.sub(r"'''|''", "", value)
+    value = re.sub(r"\[\[[^\]|]+\|([^\]]+)\]\]", r"\1", value)
+    value = re.sub(r"\[\[([^\]]+)\]\]", r"\1", value)
+    value = re.sub(r"\{\{(?:t|ct|c)\|([^}|]+)(?:\|[^}]*)?\}\}", r"\1", value, flags=re.I)
+    return re.sub(r"\s+", " ", value).strip().casefold()
+
+
+def preserved_wiki_notes(current: str | None, rendered: str) -> list[str]:
+    """Keep explicit notes and italicized wiki asides absent from source info()."""
+    if not current:
+        return []
+    rendered_text = note_content(rendered)
+    notes = []
+    for paragraph in re.split(r"\n\s*\n", current.strip()):
+        paragraph = paragraph.strip()
+        if not paragraph:
+            continue
+        explicit_note = re.match(r"(?is)^(?:'''|''|\s)*note\b", paragraph)
+        italic_aside = paragraph.startswith("''") and paragraph.endswith("''")
+        if not explicit_note and not italic_aside:
+            continue
+        normalized = note_content(paragraph)
+        if normalized and normalized not in rendered_text:
+            notes.append(paragraph)
+    return notes
+
+
+def append_preserved_notes(description: str, notes: list[str]) -> str:
+    if not notes:
+        return description
+    return description.rstrip() + "\n\n" + "\n\n".join(notes)
+
+
 def patch_templates_only(current: str, rendered: str):
     """Patch changed Scaling calls in place when prose and template positions agree."""
     token = re.compile(r"\{\{[^{}]*\}\}")
@@ -503,6 +539,8 @@ def build_candidate(directory: Path, tengine_root: Path, core_tag: str):
         elif meta['addon_id'] == 'tome-cults':
             raise Unsupported('wiki addon-version parameter for tome-cults is not established')
         current_desc = current_description(candidate_box)
+        notes = preserved_wiki_notes(current_desc, desc)
+        desc = append_preserved_notes(desc, notes)
         patched_desc = patch_templates_only(current_desc, desc) if current_desc is not None else None
         if patched_desc is not None:
             if patched_desc != current_desc:
@@ -522,6 +560,10 @@ def build_candidate(directory: Path, tengine_root: Path, core_tag: str):
             **common, 'status': 'candidate' if after != before else 'no_change',
             'updated_fields': [key for key in ('game_version', 'embers_version', 'ashes_version', 'desc')
                                if key_parameter_changed(box, candidate_box, key)],
+            'preserved_wiki_notes': [
+                {'field': 'desc', 'text': note, 'review_status': 'needs_review_1.7.6'}
+                for note in notes
+            ],
             'before_wikitext': before, 'after_wikitext': after,
         }
     except (Unsupported, subprocess.CalledProcessError, OSError) as error:
