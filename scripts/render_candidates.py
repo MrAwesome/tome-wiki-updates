@@ -123,6 +123,37 @@ def split_args(text: str) -> list[str]:
     return args
 
 
+def has_unsupported_top_level_arithmetic(text: str) -> bool:
+    pairs = {"(": ")", "{": "}", "[": "]"}
+    stack = []
+    i = 0
+    while i < len(text):
+        if text[i] in "'\"":
+            i = skip_quoted(text, i)
+            continue
+        comment_end = skip_comment(text, i)
+        if comment_end is not None:
+            i = comment_end
+            continue
+        if text[i] == "[":
+            lb = long_bracket(text, i)
+            if lb:
+                body, closer = lb
+                end = text.find(closer, body)
+                i = len(text) if end < 0 else end + len(closer)
+                continue
+        if text[i] in pairs:
+            stack.append(pairs[text[i]])
+        elif stack and text[i] == stack[-1]:
+            stack.pop()
+        elif not stack and text[i] in "+-":
+            previous = text[:i].rstrip()[-1:] or ""
+            if previous not in "(+−-*/%,":
+                return True
+        i += 1
+    return False
+
+
 def call_args(expr: str, name: str):
     match = re.search(rf"\b{re.escape(name)}\s*\(", expr)
     if not match:
@@ -166,11 +197,22 @@ def fmt_number(value: str, multiplier: float = 1.0) -> str:
     return format(number, ".10g")
 
 
-def scale_value(template: str, args: list[str], percent: bool, floor: bool = False, ceil: bool = False) -> str:
+def scale_value(
+    template: str,
+    args: list[str],
+    percent: bool,
+    floor: bool = False,
+    ceil: bool = False,
+    value_multiplier: float = 1.0,
+    percentage_multiplier: float = 1.0,
+    complement_constant: float | None = None,
+) -> str:
+    if complement_constant is not None and template != "ctl":
+        raise Unsupported("complement arithmetic is only supported for ctl scaling")
     if template == "ctwd":
         if len(args) < 3 or len(args) > 3:
             raise Unsupported("weapon damage helper has extra scaling arguments")
-        low, high = fmt_number(args[1], 100), fmt_number(args[2], 100)
+        low, high = fmt_number(args[1], 100 * value_multiplier), fmt_number(args[2], 100 * value_multiplier)
         return f"{{{{ctwd|{low}|{high}%}}}}"
 
     if template in ("cts", "ctspd", "ctmd", "ctstmd"):
@@ -188,7 +230,8 @@ def scale_value(template: str, args: list[str], percent: bool, floor: bool = Fal
             low, high = str(int(float(low) // 1)), str(int(float(high) // 1))
         elif ceil:
             low, high = str(int(-(-float(low) // 1))), str(int(-(-float(high) // 1)))
-        params = [fmt_number(low), fmt_number(high)]
+        scale = value_multiplier * percentage_multiplier
+        params = [fmt_number(low, scale), fmt_number(high, scale)]
         if power:
             params.append(power)
         if percent and template not in ("ctspd", "ctmd", "ctstmd"):
@@ -199,7 +242,8 @@ def scale_value(template: str, args: list[str], percent: bool, floor: bool = Fal
         if len(args) < 4 or len(args) > 4:
             raise Unsupported("stat damage helper has unsupported arguments")
         stat = args[1].strip(" '\"").capitalize()
-        low, high = fmt_number(args[2]), fmt_number(args[3])
+        scale = value_multiplier * percentage_multiplier
+        low, high = fmt_number(args[2], scale), fmt_number(args[3], scale)
         if floor:
             low, high = str(int(float(low) // 1)), str(int(float(high) // 1))
         if ceil:
@@ -209,19 +253,26 @@ def scale_value(template: str, args: list[str], percent: bool, floor: bool = Fal
     if template == "ctl":
         if len(args) < 4 or len(args) > 4:
             raise Unsupported("talent limit helper has unsupported arguments")
-        max_value, low, high = (fmt_number(x) for x in args[1:4])
+        scale = value_multiplier * percentage_multiplier
+        max_value, low, high = (fmt_number(x, scale) for x in args[1:4])
+        if complement_constant is not None:
+            max_value, low, high = (
+                fmt_number(str(complement_constant - float(x))) for x in (max_value, low, high)
+            )
         if floor:
             low, high = str(int(float(low) // 1)), str(int(float(high) // 1))
         if ceil:
             low, high = str(int(-(-float(low) // 1))), str(int(-(-float(high) // 1)))
         if percent:
+            max_value += "%"
             high += "%"
         return f"{{{{ctl|{max_value}|{low}|{high}}}}}"
 
     if template == "cts":
         if len(args) < 3 or len(args) > 3:
             raise Unsupported("talent scale helper has unsupported arguments")
-        low, high = fmt_number(args[1]), fmt_number(args[2])
+        scale = value_multiplier * percentage_multiplier
+        low, high = fmt_number(args[1], scale), fmt_number(args[2], scale)
         if floor:
             low, high = str(int(float(low) // 1)), str(int(float(high) // 1))
         if ceil:
@@ -234,7 +285,8 @@ def scale_value(template: str, args: list[str], percent: bool, floor: bool = Fal
         if len(args) < 4 or len(args) > 4:
             raise Unsupported("stat scale helper has unsupported arguments")
         stat = args[1].strip(" '\"").capitalize()
-        low, high = fmt_number(args[2]), fmt_number(args[3])
+        scale = value_multiplier * percentage_multiplier
+        low, high = fmt_number(args[2], scale), fmt_number(args[3], scale)
         if percent:
             high += "%"
         return f"{{{{css|{stat}|{low}|{high}}}}}"
@@ -254,16 +306,66 @@ def source_helper(block: str, name: str) -> str:
     return block[body_start : body_start + end_match.start()]
 
 
-def render_expression(expr: str, block: str, locals_map: dict[str, str], seen=None, percent=False) -> str:
+def render_expression(
+    expr: str,
+    block: str,
+    locals_map: dict[str, str],
+    seen=None,
+    percent=False,
+    value_multiplier: float = 1.0,
+    percentage_multiplier: float = 1.0,
+    complement_constant: float | None = None,
+) -> str:
     expr = strip_outer_parens(expr)
     seen = set() if seen is None else seen
     if expr in locals_map and expr not in seen:
-        return render_expression(locals_map[expr], block, locals_map, seen | {expr}, percent)
+        return render_expression(
+            locals_map[expr], block, locals_map, seen | {expr}, percent,
+            value_multiplier, percentage_multiplier, complement_constant,
+        )
 
     # Percent damage multipliers are commonly multiplied by 100 before tformat.
     mul = re.fullmatch(r"(.+?)\s*\*\s*100", expr) or re.fullmatch(r"100\s*\*\s*(.+)", expr)
     if mul:
-        return render_expression(mul.group(1), block, locals_map, seen, percent=True)
+        return render_expression(
+            mul.group(1), block, locals_map, seen, percent=True,
+            value_multiplier=value_multiplier,
+            percentage_multiplier=percentage_multiplier * 100,
+            complement_constant=complement_constant,
+        )
+
+    complement = re.fullmatch(r"(-?[\d.]+)\s*-\s*(.+)", expr)
+    if complement:
+        constant, base = complement.groups()
+        if complement_constant is not None:
+            raise Unsupported("nested complement arithmetic is unsupported")
+        return render_expression(
+            base, block, locals_map, seen, percent,
+            value_multiplier=value_multiplier,
+            percentage_multiplier=percentage_multiplier,
+            complement_constant=float(constant),
+        )
+
+    # Carry literal multiplication/division through helper-based scaling. This
+    # covers values such as damage / 10 and a stat-scaled value multiplied by 4.
+    scalar = re.fullmatch(r"(.+?)\s*([*/])\s*(-?[\d.]+)", expr)
+    scalar_left = re.fullmatch(r"(-?[\d.]+)\s*\*\s*(.+)", expr)
+    if scalar or scalar_left:
+        if scalar:
+            base, operator, literal = scalar.groups()
+            factor = float(literal) if operator == "*" else 1 / float(literal)
+        else:
+            literal, base = scalar_left.groups()
+            factor = float(literal)
+        return render_expression(
+            base, block, locals_map, seen, percent,
+            value_multiplier=value_multiplier * factor,
+            percentage_multiplier=percentage_multiplier,
+            complement_constant=complement_constant,
+        )
+
+    if has_unsupported_top_level_arithmetic(expr):
+        raise Unsupported(f"unsupported arithmetic expression: {expr}")
 
     floor = ceil = False
     m = re.fullmatch(r"math\.(floor|ceil)\s*\((.*)\)", expr, re.S)
@@ -276,7 +378,10 @@ def render_expression(expr: str, block: str, locals_map: dict[str, str], seen=No
         if not args:
             raise Unsupported("cannot parse damDesc")
         # Damage type is already named in source prose; damDesc supplies numeric value.
-        return render_expression(args[-1], block, locals_map, seen, percent)
+        return render_expression(
+            args[-1], block, locals_map, seen, percent, value_multiplier,
+            percentage_multiplier, complement_constant,
+        )
 
     helper_match = re.search(r"(?:\bt\.|\bself:)(get[A-Za-z0-9_]+)\s*\(", expr)
     if helper_match:
@@ -294,7 +399,10 @@ def render_expression(expr: str, block: str, locals_map: dict[str, str], seen=No
         if not ret:
             raise Unsupported(f"cannot resolve helper {name}")
         helper_expr = re.sub(r"\s+end\s*$", "", ret.group(1).strip())
-        return render_expression(helper_expr, block, locals_map, seen | {name}, percent)
+        return render_expression(
+            helper_expr, block, locals_map, seen | {name}, percent,
+            value_multiplier, percentage_multiplier, complement_constant,
+        )
 
     helper_specs = (
         ("combatTalentWeaponDamage", "ctwd"),
@@ -310,7 +418,10 @@ def render_expression(expr: str, block: str, locals_map: dict[str, str], seen=No
     if parsed_call:
         helper, args = parsed_call
         template = dict(helper_specs)[helper]
-        return scale_value(template, args, percent, floor, ceil)
+        return scale_value(
+            template, args, percent, floor, ceil, value_multiplier, percentage_multiplier,
+            complement_constant,
+        )
 
     raise Unsupported(f"unsupported interpolation expression: {expr}")
 
@@ -340,7 +451,7 @@ def split_info(block: str):
 
     # Convert the source's indentation-only whitespace, preserving wording and blank lines.
     source_lines = [line.strip() for line in raw.splitlines()]
-    source_text = "\n".join(source_lines).strip()
+    source_text = wiki_bullets("\n".join(source_lines).strip())
     tokens = list(re.finditer(r"%0\.\d+f|%d|%f|%%", source_text))
     if len(args) != sum(token.group() != "%%" for token in tokens):
         raise Unsupported(f"format argument mismatch: {len(tokens)} placeholders, {len(args)} args")
@@ -437,6 +548,11 @@ def current_description(box: str):
     close = box.rfind("}}")
     end = start + next_param.start() if next_param else close
     return box[start:end]
+
+
+def wiki_bullets(value: str) -> str:
+    """Render leading dash-list markers as MediaWiki bullets."""
+    return re.sub(r"(?m)^-\s+", "*", value)
 
 
 def note_content(value: str) -> str:
