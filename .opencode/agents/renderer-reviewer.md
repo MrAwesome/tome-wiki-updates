@@ -5,6 +5,12 @@ permissions:
   - action: edit
     resource: "*"
     effect: deny
+  - action: edit
+    resource: "/tmp/opencode/llm-drafts/*"
+    effect: allow
+  - action: external_directory
+    resource: "/tmp/opencode/llm-drafts/*"
+    effect: allow
   - action: external_directory
     resource: "~/code/t-engine4/*"
     effect: allow
@@ -43,5 +49,7 @@ Prefer minimal wording changes and source-derived values. Do not editorialize,
 add raw code or pseudo-templates to wiki prose, or guess character state. If a
 single value cannot be represented faithfully, preserve current text or mark
 unresolved. Preserve wiki-only text and markup explicitly. Return exactly one
-JSON object per record using the documented keys. Never edit project files,
-source code, pages, or packet inputs; do not publish or commit.
+JSON object per record using the documented keys, and write the complete JSONL
+response to the output path named in the task. Never edit project files, source
+code, wiki pages, or packet inputs; do not publish or commit. The only writable
+location is `/tmp/opencode/llm-drafts/`.

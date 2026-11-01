@@ -35,7 +35,13 @@ def read_source(root: Path, record: dict) -> tuple[str, dict]:
         raw = source_path.read_bytes()
         parts = Path(relative).parts
         addon_id = parts[2]
-        addon_root = root / "game" / "addons" / addon_id / addon_id
+        addon_roots = (
+            root / "game" / "addons" / addon_id / addon_id,
+            root / "game" / "addons" / addon_id,
+        )
+        addon_root = next((candidate for candidate in addon_roots if (candidate / "init.lua").is_file()), None)
+        if addon_root is None:
+            raise FileNotFoundError(f"addon init.lua not found for {addon_id}")
         init_text = (addon_root / "init.lua").read_text(encoding="utf-8")
         compatibility = re.search(r"(?m)^\s*version\s*=\s*(\{[^}]+\})", init_text)
         addon_version = re.search(r"(?m)^\s*addon_version\s*=\s*(\{[^}]+\})", init_text)
