@@ -1,18 +1,1 @@
-{{Ability box
-|image=Forgery of haze.png
-|name=Forgery of Haze
-|category_type={{ct|Spell}}
-|category={{c|Shades}}
-|require={{TalentReq/SpellsReqHigh3}}
-|cost=70 Mana
-|cooldown=30
-|range=10
-|desc=
-Through the shadows, you forge a temporary copy of yourself, existing for {{ctl|30|4|8.1}} turns.
-
-The copy possesses your exact talents and stats.
-
-It will have a percentage of your life equal to {{cl|{{ctspd|20|500}}|100%|20|0|58%|384}}.
-
-All damage dealt by your copy will be multiplied by {{cl|{{ctspd|10|500}}|140%|40|0|76%|361}}.
-}}
+DELETE

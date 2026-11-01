@@ -1,7 +1,7 @@
 {{Ability_box
 |image=Dirty_fighting_2017.png
 |name=Dirty fighting
-|game_version=1.5.2
+|game_version=1.7.6
 |category_type=[[Cunning (category type)|Cunning]]
 |category=[[Dirty fighting (category)|Dirty fighting]]
 |require={{TalentReq/CunsReq1}}
@@ -11,6 +11,6 @@
 |travel_speed=Instantaneous
 |use_speed=Weapon
 |desc=
-You make a low blow against a sensitive point on the target, dealing {{cTWD|150|210%}} unarmed damage. If your attack hits, the target is left reeling and vulnerable, reducing their physical save by {{cTS|5|25}} and their stun, blind, confusion, and pin immunities to 50% of normal for {{cTL|10|4|8}} turns.<br>
+You make a low blow against a sensitive point on the target, dealing {{ctwd|150|210%}} unarmed damage. If your attack hits, the target is left reeling and vulnerable, reducing their physical save by {{cts|5|25}} and their stun, blind, confusion and pin immunities to 50% of normal for 4 turns.
 This effect bypasses saves.
 }}

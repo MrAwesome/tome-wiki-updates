@@ -1,5 +1,5 @@
 {{Ability box
-|game_version=1.5.10
+|game_version=1.7.6
 |image=Giant leap.png
 |name=Giant Leap
 |category_type=[[Prodigies]]
@@ -10,6 +10,4 @@
 |desc=
 You accurately jump to the target and deal 200% weapon damage to all foes within radius 1 on impact as well as dazing them for 3 turns.
 When you jump you free yourself from any stun, daze and pinning effects.
-
-The daze effect can be prevented with stun resistance or immunity, but will otherwise ignore physical saves.
 }}

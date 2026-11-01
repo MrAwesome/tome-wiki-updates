@@ -8,11 +8,11 @@
 |cost=25 Psi
 |cooldown=10
 |desc=
-You learn to devote a portion of your attention to mentally swatting, grabbing, or otherwise deflecting incoming projectiles.
+XXX CHECKME XXX You learn to devote a portion of your attention to mentally swatting, grabbing, or otherwise deflecting incoming projectiles.
 
-All projectiles targeting you have a {{ctl|100%|17|45%}} chance to instead target another spot within radius 1, or radius 2 if the talent level is 4 or greater.
+All projectiles targeting you have a {{ctl|90%|20|40%}} chance to instead target another spot within radius 1, or radius 2 if the talent level is 4 or greater.
 
-If you choose, you can use your mind to grab all projectiles within radius 10 of you and hurl them toward any location within range {{cts|3|5|log}} of you, but this will break your concentration.
+If you choose, you can use your mind to grab all projectiles within radius 10 of you and hurl them toward any location within range {{cts|4|8|log}} of you, but this will break your concentration.
 
 To do this, deactivate this sustained talent.
 }}

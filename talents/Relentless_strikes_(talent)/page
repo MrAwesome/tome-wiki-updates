@@ -1,4 +1,5 @@
 {{Ability_box|image=Relentless strikes.png|name=Relentless strikes
+|game_version=1.7.6
 |category_type=[[Technique (category type)|Technique]]
 |category=[[Pugilism (category)|Pugilism]]
 |require=Strength (20, 22, 24, 26, 28)
@@ -8,4 +9,6 @@
 |cost=n/a
 |cooldown=n/a
 |use_speed=n/a
-|desc=Reduces the cooldown on all your Pugilism talents by 8 to 43% (talent_level/15). Additionally, every time you earn a combo point, you will regain 0.25 stamina per talent level. Note that stamina gains from combo points occur before any talent stamina costs.}}
+|desc=
+When gaining a combo point, you have a {{ctl|70%|25|60%}} chance to gain an extra combo point. Additionally, every time you earn a combo point, you will regain {{ctl|6|1|4}} stamina, or {{ctl|12|2|8}} stamina if you would exceed 5 combo points.
+}}

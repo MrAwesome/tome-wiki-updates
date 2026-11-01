@@ -1,4 +1,6 @@
 {{Ability box
+|ashes_version=1.1.4
+|game_version=1.7.6
 |name=Infernal Breath
 |image=Infernal_breath.png
 |category_type={{ct|Corruption}}
@@ -8,8 +10,7 @@
 |cooldown=12
 |range=1
 |desc=
-Exhale a wave of dark fire with a radius of {{cts|6|10}}, lasting 4 turns. Any non-demon caught in the area will take 46.20-86.63 fire damage, and flames will be left dealing a further 10.56-19.97 each turn. Demons will be healed for the same amount.
-
-The damage will increase with your Strength stat, but critically hit as a spell.
+Exhale a wave of dark fire with radius {{cts|5|9}}, lasting 4 turns. Any non-demon caught in the area will take {{ctstd|Str|30|375}} fire damage, and flames will be left dealing a further {{ctstd|Str|30|75}} each turn. Demons will be healed for the same amount.
+The damage will increase with your Strength Stat, but critically hit as a spell.
 |avail.classes=[[Doombringer]]
 }}

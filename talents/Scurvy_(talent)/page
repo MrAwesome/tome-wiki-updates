@@ -1,10 +1,1 @@
-{{Ability_box
-|image=Epidemic.png
-|name=Scurvy
-|category_type=[[Cunning (category type)|Cunning]]
-|category=[[Piracy (category)|Piracy]]
-|require={{TalentReq/CunsReq3}}
-|use_mode=Passive 
-|desc=
-You gain resistance and affinity to blight, and percentage disease immunity.
-}}
+DELETE

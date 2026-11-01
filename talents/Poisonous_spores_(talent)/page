@@ -1,5 +1,5 @@
 {{Ability box
-|game_version=1.7.4
+|game_version=1.7.6
 |name=Poisonous Spores
 |image=Poisonous spores.png
 |category_type={{ct|Wild-Gift}}
@@ -10,16 +10,7 @@
 |range=10
 |use_speed=Mind
 |desc=
-Releases poisonous spores at an area of radius {{cts|1|2.7}}, infecting the foes inside with a random poison doing {{ctmd|30|390}} Nature damage over 10 turns.
-
-This attack can crit and deals {{ctmd|10|40%}} additional critical damage.
-
+Releases poisonous spores at an area of radius {{cts|1|2}}, infecting the foes inside with a random poison doing {{ctmd|30|390}} Nature damage over 10 turns.
+This attack can crit and deals {{ctmd|10|40}} additional critical damage.
 The damage and critical bonus increase with your Mindpower.
-
-The random poison is chosen from four options
-* '''Spydric Poison''': pins enemy in place
-* '''Insidious Poison''': reduces healing factor by {{ctl|100%|25|40%}}
-* '''Crippling Poison''': {{ctl|100%|7|12%}} chance to fail talent use
-* '''Numbing Poison''': reduces all damage by {{ctl|100%|12.5|25%}}
-
 }}

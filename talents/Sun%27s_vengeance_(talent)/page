@@ -1,4 +1,5 @@
 {{Ability_box
+|game_version=1.7.6
 |image=sun_vengeance.png
 |name=Sun's vengeance
 |category_type=[[Celestial (category type)|Celestial]]
@@ -8,7 +9,7 @@
 |desc=
 Infuse yourself with the raging fury of the Sun, increasing your physical and spell critical chance by {{cts|2|10%|0.75}}.
 
-Each time you crit with a physical attack or a spell you have {{ctl|100%|30|75%}} chance to gain Sun's Vengeance for 2 turns.
+Each time you crit with a physical attack or a spell you have {{ctl|100%|40|75%}} chance to gain Sun's Vengeance for 2 turns.
 
 While affected by Sun's Vengeance, your {{t|Sun Ray}} will take no time to use and will deal 25% more damage.
 

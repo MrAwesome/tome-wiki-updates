@@ -1,8 +1,8 @@
 {{Ability box
 |image=Punishment.png
 |name=Punishment
-|game_version=1.4.6
-|embers_version=1.0.3
+|game_version=1.7.6
+|embers_version=1.1.10
 |category_type={{ct|Steamtech}}
 |category={{c|Battlefield Management}}
 |require={{TalentReq/SteamReq3}}
@@ -11,6 +11,7 @@
 |cost=30 Steam
 |use_speed=Steamsaw speed
 |desc=
-Slam your saws into your target, dealing 100% weapon damage + {{ctl|60|10|30}}% per physical, magical, or mental effect on them (up to 7 effects).
+Slam your saws into your target, dealing 100% weapon damage + {{ctl|60%|10|30%}} per physical, magical, or mental effect on them (up to 7 effects).
 Sustains are not effects.
+#{italic}#The Metal Punisher!#{normal}#
 }}

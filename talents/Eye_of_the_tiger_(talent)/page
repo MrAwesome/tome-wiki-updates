@@ -7,7 +7,7 @@
 |require=Cunning 50
 |use_mode=Passive
 |desc=
-All spell criticals reduce the remaining cooldown of a random {{ct|spell}}/{{ct|corruption}}/{{ct|celestial}}/{{ct|chronomancy}} talent by 2.
+XXX CHECKME XXX All spell criticals reduce the remaining cooldown of a random {{ct|spell}}/{{ct|corruption}}/{{ct|celestial}}/{{ct|chronomancy}} talent by 2.
 
 All mind criticals reduce the remaining cooldown of a random {{ct|Wild-Gift|wild gift}}/{{ct|psionic}}/{{ct|Cursed|afflicted}} talent by 2.
 
@@ -15,7 +15,7 @@ All physical criticals reduce the remaining cooldown of a random {{ct|technique}
 
 ''If [[Embers of Rage]] is enabled:'' All steamtech criticals reduce the remaining cooldown of a random {{ct|steamtech}} talent by 1.
 
-This can only happen once per turn, and cannot affect the talent that triggers it.
+This can only happen once per turn per type, and cannot affect the talent that triggers it.
 
-'''''Warning''': Talents not in the specified categories are unaffected by this prodigy. In particular, all {{ct|Demented}} talents will see no benefit.''
+''' ''Warning''': Talents not in the specified categories are unaffected by this prodigy. In particular, all {{ct|Demented}} talents will see no benefit.'''
 }}

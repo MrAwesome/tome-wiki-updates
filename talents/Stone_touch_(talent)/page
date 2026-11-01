@@ -7,19 +7,14 @@
 |range={{cts|1|5}}
 |cost=45 Mana
 |cooldown=15
-|game_version=1.7.4
+|game_version=1.7.6
 |desc=
-Touch your foe and turn it to stone for {{cts|3.6|6.3}} turns.
-
-Stoned creatures are unable to act or regenerate life, and are very brittle.
-
+Touch your foe and turn it to stone for {{cts|3|6}} turns.
+Stoned creatures are unable to act or regen life, and are very brittle.
 If a stoned creature is hit by an attack that deals more than 30% of its life, it will shatter and be destroyed.
-
-Stoned creatures will gain 20% physical resistance, 50% lightning resistance, and 80% fire resistance.
-
+Stoned creatures are highly resistant to fire and lightning, and somewhat resistant to physical attacks.
 At level 3 the touch will become a beam.
-
-This spell may fail against creatures resistant to being stunned, that are specifically immune to stoning or instant kills.
+This spell may fail against creatures resistant to being stunned, that are specifically immune to stoning, or certain bosses.
 
 ''Note: the beam effect only requires that the effective talent level is at least 3, so talent mastery levels and the {{t|Adept}} prodigy can help here.''
 |avail.classes=[[Alchemist]], [[Stone Warden]]

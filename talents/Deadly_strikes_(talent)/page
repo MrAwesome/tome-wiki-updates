@@ -1,4 +1,5 @@
 {{Ability_box
+|game_version=1.7.6
 |image=Deadly strikes.png
 |name=Deadly strikes
 |category_type=[[Cunning (category type)|Cunning]]
@@ -9,5 +10,6 @@
 |cooldown=12
 |use_speed=Instant
 |desc=
-You hit your target, doing {{CTWD|80|140%}} damage. If your attack hits, you gain {{CTSTD|Cun|5|45}} armour penetration for {{CTL|12|6|10}} turns.
+You hit your target, doing {{ctwd|80|140%}} damage. If your attack hits, you gain {{ctstd|Cun|5|45}} armor penetration (APR) for {{ctl|12|6|10}} turns.
+The APR will increase with your Cunning.
 }}

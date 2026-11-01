@@ -1,15 +1,15 @@
 {{Ability box
 |image=Pulse detonator.png
 |name=Pulse detonator
-|game_version=1.4.6
-|embers_version=1.0.3
+|game_version=1.7.6
+|embers_version=1.1.10
 |category_type={{ct|Steamtech}}
 |category={{c|Automation}}
 |require={{TalentReq/SteamReq1}}
 |cooldown=12
 |cost=25 Steam
 |range=6
-|desc=Sends a pulse detonator to the target. Upon arrival it explodes in radius 4 cone, dealing {{ctstmd|20|230}} physical damage, knocking back foes by 3 and dazing them for (math.floor(TalentLevel / 2) * 2 + 1) turns.
-
+|desc=
+Sends a pulse detonator to the target. Upon arrival it explodes in radius 4 cone, dealing {{ctstmd|20|230}} physical damage, knocking back foes by 3 and dazing them for {{gtl|1|5}} turns.
 Damage increases with your steampower.
 }}

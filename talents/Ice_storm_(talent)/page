@@ -7,9 +7,10 @@
 |range=0
 |cost=25 Mana
 |cooldown=20
-|desc=A furious ice storm rages around the caster ,doing {{ctspd|5|90}} {{cold}} damage in a radius of 3 each turn for X turns.
+|desc=
+XXX CHECKME XXX A furious ice storm rages around the caster, doing {{ctspd|5|90}} {{cold}} damage in a radius of 3 each turn for a duration that increases with talent level and Spellpower.
 It has a 25% chance to freeze damaged targets.
 If the target is wet the damage increases by 30% and the freeze chance increases to 50%.
-The damage and duration will increase with your Spellpower.
+The damage will increase with your Spellpower.
 }}
 :

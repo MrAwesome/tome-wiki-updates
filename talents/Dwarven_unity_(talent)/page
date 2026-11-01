@@ -1,5 +1,5 @@
 {{Ability_box
-|game_version=1.4.3
+|game_version=1.7.6
 |image=Dwarven_unity.png
 |name=Dwarven unity
 |category_type={{ct|Wild-gift}}
@@ -10,7 +10,7 @@
 |use_mode=Activated
 |desc=
 You call upon the immediate help of your Halves.
-Your Stone Half will trade places with you and all creatures currently targeting you in a radius of {{cts|4|8}} will target it instead.
-Your Crystalline Half will instantly fire a volley of level {{gtl|1|5|raw}} earthen missiles at all foes near the stone half (or you if the stone half is dead) in radius {{cts|4|8}}.
-
+Your Stone Half will trade places (if in sight) with you and all creatures currently targetting you in a radius of {{cts|4|8}} will target it instead.
+Your Crystaline Half will instantly fire a volley of level {{gtl|1|5|raw}} earthen missiles at all foes near the stone half (or you if the stone half is dead) in radius {{cts|4|8}}.
+In addition, as passive effect, your halves now also learn your level of Combat Accuracy.
 }}

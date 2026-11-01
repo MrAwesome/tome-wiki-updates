@@ -1,5 +1,5 @@
 {{Ability box
-|game_version=1.5.10
+|game_version=1.7.6
 |image=Anarchic_Walk.png
 |name=Anarchic Walk
 |category_type={{ct|Demented}}
@@ -10,5 +10,5 @@
 |cooldown=6
 |desc=
 You consume the chaotic forces of 2 chaos orbs, randomly teleporting you in a general direction up to 8 tiles away.
-		You will always travel at least {{CTL|8|1|5}} tiles away if possible.
+		You will always travel at least {{cts|3|10}} tiles away if possible.
 }}

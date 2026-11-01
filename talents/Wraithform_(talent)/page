@@ -8,9 +8,9 @@
 |cooldown=30
 |use_speed=Instant
 |desc=
-Turn into a wraith, allowing you to walk through walls and removing the need to breath for {{ctl|30|5|9}} turns.
+XXX CHECKME XXX Turn into a wraith, allowing you to walk through walls and removing the need to breath for {{ctl|15|4|10}} turns.
 
-Also increases your Defense by {{ctspd|5|19}} and Armour by {{ctspd|5|15}}.
+Also increases your Defense by {{ctspd|5|20}} and Armour by {{ctspd|5|16}}.
 
 If you are still in a wall when the effect ends you will randomly teleport.
 }}

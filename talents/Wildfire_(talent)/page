@@ -8,5 +8,5 @@
 |cost=50 Mana
 |cooldown=30
 |desc=
-Surround yourself with Wildfire, increasing all your fire damage by (2 * Raw Talent Level)%, ignoring {{ctl|100%|17|50%}} fire resistance of your targets and reducing self-inflicted fire damage by (14 * Talent Level)%.
+XXX CHECKME XXX Surround yourself with Wildfire, increasing your fire damage by 2.5–10% based on talent level, ignoring 20–50% of your targets' fire resistance (up to a 60% limit), and reducing self-inflicted fire damage by 14% per talent level (up to 100%).
 }}

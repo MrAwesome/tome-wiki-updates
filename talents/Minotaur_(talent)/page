@@ -8,9 +8,9 @@
 |cooldown=15
 |range=5
 |desc=
-Summon a Minotaur to attack your foes. Minotaurs cannot stay summoned for long, but they deal a lot of damage.
+XXX CHECKME XXX Summon a Minotaur to attack your foes. Minotaurs cannot stay summoned for long, but they deal a lot of damage.
 
-The Minoatur will last for a duration of {{cs|(Talent Level)|2|0|7|5}}.
+The Minotaur will last for a duration of {{cs|(Talent Level)|2|0|7|5}}, increased by any duration bonus from Resilience.
 
 It will receive the following stats:
 *Strength: 25 + {{cts|2|10|0.75}} + 2.1 * Mindpower * {{cts|0.2|1|0.75}}

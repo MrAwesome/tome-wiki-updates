@@ -6,4 +6,6 @@
 |cost=10 stamina
 |cooldown=12
 |use_speed=1 turn
-|desc=Grapples the target and inflicts X physical damage. If the target is already grappled, the target will be maimed as well, reducing damage by X and global speed by 30% for 3-8 turns (2+talent_level, rounded down). The grapple effects will be based off your Grapple talent, if you have it, and the damage will scale with your Physical Power.}}
+|desc=
+XXX CHECKME XXX Grapples the target and inflicts physical damage. If the target is already grappled, it is also maimed, reducing damage by an amount that scales with talent level and global speed by 30% for 3–7 turns. The grapple effects are based on your Grapple talent, if you have it; damage scales with Physical Power and Unarmed Training.
+}}

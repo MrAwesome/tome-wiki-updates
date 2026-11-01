@@ -1,4 +1,5 @@
 {{Ability_box
+|game_version=1.7.6
 |image=brainfreeze.png
 |name=Brainfreeze
 |category_type={{ct|Psionic}}
@@ -9,7 +10,7 @@
 |cooldown=8
 |range={{cts|4|6}}
 |desc=
-Quickly drain the heat from your target's brain, dealing {{Ctmd|12|340}} Cold damage.
+Quickly drain the heat from your target's brain, dealing {{ctmd|12|300}} Cold damage.
 
 Affected creatures will also be brainlocked for 4 turns, putting a random talent on cooldown, and freezing cooldowns.
 

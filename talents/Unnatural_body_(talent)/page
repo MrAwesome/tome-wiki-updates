@@ -6,9 +6,9 @@
 |require={{TalentReq/CursedWilReq1}}
 |use_mode=Passive
 |desc=
-Your body's strength is fed by your hatred. This causes most forms of healing to be between 50% effective (at 0 Hate) to 100% effective (at 100+ Hate).
+XXX CHECKME XXX Your body's strength is fed by your hatred. This causes most forms of healing to be between 50% effective (at 0 Hate) to 100% effective (at 100+ Hate).
 
-In addition, after each kill, you store the waning life force to invigorate yourself, restoring {{ctspd|15|50|CF}} life. The amount healed is limited by the foe's maximum life, and cannot exceed (2 * {{ctspd|15|50|CF}} + {{ctl|50%|1|3%}} * Max Life) at any time.
+In addition, after each kill, you store the waning life force to invigorate yourself, restoring {{ctspd|15|50|CF}} life. The amount healed is limited by the foe's maximum life, and cannot exceed twice the healing per kill plus 3–5.5% of Max Life, depending on talent level (up to a 50% cap).
 
 You can heal no more than (3 + {{ctspd|15|25|CF}}) life per turn this way, and it is not affected by your hatred level or other effects.
 

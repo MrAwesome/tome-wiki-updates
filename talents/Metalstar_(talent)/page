@@ -9,7 +9,7 @@
 |cooldown=15
 |cost=20 Steam + 6 Psi
 |use_speed=Steamtech
-|desc=Quickly aggregate particles of metal around your mindstar and focus psionic energies into it.
-
-The metal explodes like shrapnel, knocking back ({{CTS|2|4}} away) and dazing ({{CTS|4|9}} duration) all foes in radius {{CTS|3|7}}. (Round up)
+|desc=
+Quickly aggregate particles of metal around your mindstar and focus psionic energies into it.
+The metal explodes like shrapnel, knocking back ({{cts|2|4}} away) and dazing ({{cts|4|9}} duration) all foes in radius {{cts|3|7}}.
 }}

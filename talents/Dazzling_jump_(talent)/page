@@ -1,8 +1,8 @@
 {{Ability box
 |image=Dazzling jump.png
 |name=Dazzling jump
-|game_version=1.4.6
-|embers_version=1.0.3
+|game_version=1.7.6
+|embers_version=1.1.10
 |category_type={{ct|Steamtech}}
 |category={{c|Elusiveness}}
 |require={{TalentReq/SteamReq4}}
@@ -11,5 +11,5 @@
 |use_speed=0
 |desc=While your foes are distracted by your Awesome Toss, you use powerful steam motors to jump into the air and kick a target {{CTS|3|5}} tiles away.
 
-The impact is so great that it ripples outwards, slowing all creatures in radius 3 by {{CTL|70|20|52%}} for 4 turns while the reaction force propels you {{CTS|4|9}} tiles backwards.
+The impact is so great that it ripples outwards, slowing all creatures in radius 3 by {{ctl|70%|20|52%}} for 4 turns while the reaction force propels you {{CTS|4|9}} tiles backwards.
 }}

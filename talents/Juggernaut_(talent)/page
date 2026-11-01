@@ -1,4 +1,5 @@
 {{Ability_box
+|game_version=1.7.6
 |image=Juggernaut_2017.png
 |name=Juggernaut
 |category_type=[[Technique (category type)|Technique]]
@@ -9,6 +10,5 @@
 |cooldown=40
 |desc=
 Concentrate on the battle, ignoring some of the damage you take.
-
-Improves physical damage reduction by {{CTS|15|35%}} and provides {{CTS|8|20%|0.75}} chances to shrug off critical damage for 20 turns.
+Improves physical damage reduction by {{cts|15|35%}} and provides a {{cts|8|20%|0.75}} chance to shrug off critical damage for 20 turns.
 }}

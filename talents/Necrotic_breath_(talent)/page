@@ -10,7 +10,9 @@
 |travel_speed=Instantaneous
 |use_speed=Spell
 |desc=
-You breathe a wave of deathly miasma in a cone of radius {{cTS|5|9}}. Any target caught in the area will take {{ctstd|Mag|30|550}} darkness damage over 4 turns and receive either a bane of confusion or a bane of blindness for 4 turns.
+XXX CHECKME XXX You breathe a wave of deathly miasma in a cone of radius {{cTS|5|9}}. Any target caught in the area will take {{ctstd|Mag|30|550}} darkness damage over 4 turns and receive either a bane of confusion or a bane of blindness for 4 turns.
+
+If you know Chromatic Fury, this damage is increased by {{ctstd|Wil|30|550}}.
 
 The damage will increase with your Magic, and the critical chance is based on your Spell crit chance.
 }}

@@ -1,12 +1,1 @@
-{{Ability box
-|image=Golem taunt.png
-|name=Golem Taunt
-|category_type={{ct|Golem}}
-|category={{c|Golem Fighting}}
-|require={{TalentReq/TechsReq2}}
-|cooldown={{ctl|0|18|10|raw}}
-|range=10
-|cost=5 Stamina
-|desc=
-The golem taunts targets in a radius of {{cts|0.5|2.5}}, forcing them to attack it.
-}}
+DELETE

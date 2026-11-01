@@ -9,6 +9,6 @@
 |desc=
 While Highers are not meant to rule other humans - and show no particular will to do so - they are frequently called to higher duties.
 Their nature grants them better senses than other humans.
-Increase blindness immunity by {{ctl|100%|15|50%}}, maximum sight range by {{cts|1|5|log}}, and increases existing infravision, and heightened senses range by {{cts|0,3|2,3|log|0|2}}.
+Increase blindness immunity by {{ctl|100%|15|50%|false|1}}, maximum sight range by {{cts|1|5|log}}, and increases existing infravision, and heightened senses range by {{cts|1|3|log|0|2}}.
 At talent level 5, each time you hit a target you gain telepathy to all similar creatures in radius 15 for 5 turns.
 }}

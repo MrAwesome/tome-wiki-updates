@@ -1,4 +1,5 @@
 {{Ability_box
+|game_version=1.7.6
 |image=Extract gems.png
 |name=Extract gems
 |category_type=[[Spell (category type)|Spell]]
@@ -7,7 +8,7 @@
 |use_mode=Activated
 |cooldown=0
 |desc=
-Extract magical gems from metal weapons and armours. At this skill level you can work with materials up to tier (Raw Talent Level).
+Extract magical gems from metal weapons and armours. At this skill level you can work with metals of at maximum tier {{gtl|1|5|raw}}.
 
 ''Note: Grants the [[Stone alchemy (category)|Stone Alchemy]]/[[Create alchemist gems (talent)|Create Alchemist Gems]] talent.''
 |avail.classes=[[Alchemist]], [[Stone Warden]]

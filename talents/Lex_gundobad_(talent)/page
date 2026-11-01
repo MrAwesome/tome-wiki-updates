@@ -1,14 +1,1 @@
-{{Ability_box
-|image=Daunting presence.png
-|name=Lex Gundobad
-|category_type=[[Technique (category type)|Technique]]
-|category=[[Kenning (category)|Kenning]]
-|require= {{TalentReq/SpellsReq1}}
-|use_mode=Activated
-|cost=60 Stamina
-|cooldown=40
-|desc=
-You invoke the Pronouncement of King Gundobad, a declaration of freedom.
-Improves resistance to stuns, pins, and dazing and provides a {{CTS|12|60%|0.75}} chance to shrug off critical damage for 20 turns.
-You can use this technique even when silenced, and it will remove any silence debuff when it is invoked.
-}}
+DELETE

@@ -8,11 +8,9 @@
 |use_mode=Passive
 |cooldown=10
 |desc=
-When a single hit deals more than {{ctl|10%|30|15%}} of your maximum life another you appears and takes {{ctl|40%|30|15%}} of the damage as well as {{ctl|20%|15|30%}} of all damage you take for the next 2 turns.
+XXX CHECKME XXX When a single hit deals more than {{ctl|10%|30|15%}} of your maximum life another you appears and takes {{ctl|40%|10|30%}} of the damage as well as {{ctl|20%|15|30%}} of all damage you take for about 2 turns, with duration modified by your Paradox and Extension Spellbinding if active.
 
 The clone is out of phase with this reality and deals 50% less damage but its arrows will pass through friendly targets.
 
 This talent has a cooldown.
-
-
 }}

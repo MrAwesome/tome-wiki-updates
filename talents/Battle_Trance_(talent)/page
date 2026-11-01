@@ -1,4 +1,5 @@
 {{Ability_box
+|game_version=1.7.6
 |image=Clarity.png
 |name=Battle Trance
 |use_mode=sustained
@@ -7,9 +8,8 @@
 |cooldown=15
 |require=-
 |range=personal
-|desc=You enter into a fighting trance, gaining 15% resist all, losing 15 mindpower, but gaining 20 mental save. However, each turn after the fifth that this talent is active, there is a chance that you will be overcome and become confused.
-
-{Chance is (turns_active-5)*2%. Turns Battle Trance then off and gives Confusion 40% for 4 turns}
-
+|desc=
+You enter into a fighting trance, gaining 15% resist all, losing 15 mindpower, but gaining 20 mental save. However, each turn after the fifth that this talent is active, there is a chance that you will be overcome and become confused.
+This does not take a turn to use.
 |avail=Artifact: Honeywood Chalice
 }}

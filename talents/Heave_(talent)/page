@@ -1,4 +1,5 @@
 {{Ability_box
+|game_version=1.7.6
 |image=Heave.png
 |name=Heave
 |category_type=[[Technique (category type)|Technique]]
@@ -8,9 +9,7 @@
 |cost=5 Stamina
 |cooldown=15
 |desc=
-A mighty kick that pushes your target away {{CTS|3|7}} grids.
-
+A mighty kick that pushes your target away {{cts|3|7}} grids.
 If another creature is in the way, it will also be pushed away.
-
-The Knockback chance increase with your Accuracy or your Physical Power, whichever is greater.
+The Knockback chance increases with your Accuracy or your Physical Power, whichever is greater.
 }}

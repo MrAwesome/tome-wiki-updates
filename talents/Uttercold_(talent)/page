@@ -8,7 +8,7 @@
 |cost=50 Mana
 |cooldown=30
 |desc=
-Surround yourself with Uttercold, increasing all your cold damage by (2 * Raw Talent Level)% and ignoring {{ctl|100%|17|50%}} cold resistance of your targets
+XXX CHECKME XXX Surround yourself with Uttercold, increasing all your cold damage by {{cts|2.5|10}}% and ignoring {{ctl|60%|20%|50%}} cold resistance of your targets.
 
-In addition you pierce through iceblocks easily, reducing damage absorbed from your attacks by iceblocks by (20 * Raw Talent Level)%.
+In addition you pierce through iceblocks easily, reducing damage absorbed from your attacks by iceblocks by up to 100% (20 percentage points per raw talent level).
 }}

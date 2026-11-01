@@ -1,14 +1,1 @@
-{{Ability box
-|image=Shadow tunnel.png
-|name=Shadow Tunnel
-|category_type={{ct|Spell}}
-|category={{c|Shades}}
-|require={{TalentReq/SpellsReqHigh1}}
-|cost=25 Mana
-|cooldown=20
-|range=10
-|desc=
-Surround your minions in a veil of darkness. The darkness will teleport them to you, and grant them (20 + {{ctspd|15|60}})% evasion for 5 turns.
-
-The evasion chance will increase with your Spellpower.
-}}
+DELETE

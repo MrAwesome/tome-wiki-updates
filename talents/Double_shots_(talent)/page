@@ -1,8 +1,8 @@
 {{Ability box
 |image=Double shots.png
 |name=Double Shots
-|game_version=1.4.6
-|embers_version=1.0.3
+|game_version=1.7.6
+|embers_version=1.1.10
 |category_type={{ct|Steamtech}}
 |category={{c|Gunner training}}
 |require={{TalentReq/SteamReq2}}
@@ -12,6 +12,6 @@
 |use_speed=Steamgun speed
 |desc=
 In an overpowering display of marksmanship, you fire your steamgun(s) twice in rapid succession.
-Each shot (targeted separately) deals {{ctwd|20|70%}} damage and stuns its target for {{ctl|6|1|2.5}} turns.
+Each shot (targeted separately) deals {{ctwd|20|70%}} damage and stuns its target for {{ctl|6|1.1|2.5|false|1}} turns.
 The stun chance increases with your Steampower.
 }}

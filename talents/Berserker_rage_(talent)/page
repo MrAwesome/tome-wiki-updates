@@ -11,7 +11,7 @@
 |travel_speed=instantaneous
 |use_speed=0
 |desc=
-You enter an aggressive battle rage, increasing Accuracy by {{cs|(0.07 * Dex * Talent Level)|5|0|40|35}} and Physical Power by {{cs|(0.07 * Str * Talent Level)|5|0|40|35}} and making you nearly unstoppable, granting {{ctl|100%|17|50%}} stun and pinning resistance.
+XXX CHECKME XXX You enter an aggressive battle rage, increasing Accuracy by {{cs|(0.07 * Dex * Talent Level)|5|0|40|35}} and Physical Power by {{cs|(0.07 * Str * Talent Level)|5|0|40|35}} and making you nearly unstoppable, granting stun and pinning resistance that scales from 22% to 55%.
 
 Sustaining this rage takes its toll on your body, decreasing your life by 2% each turn, but for every 1% of life missing you gain 0.5% critical hit chance.
 

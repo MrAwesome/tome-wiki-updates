@@ -1,4 +1,5 @@
 {{Ability box
+|game_version=1.7.6
 |image=Hymn of moonlight.png
 |name=Hymn of Moonlight
 |category_type={{ct|Celestial}}
@@ -10,11 +11,9 @@
 |use_speed=0
 |range=5
 |desc=
-Chant the glory of the Moon, conjuring a shroud of dancing shadows that follows you as long as this spell is active.
-
+Chant the glory of the Moons, conjuring a shroud of dancing shadows that follows you as long as this spell is active.
 Each turn, a shadowy beam will hit up to {{cts|1|5}} of your foes within radius 5 for 1 to {{ctspd|7|80}} damage.
-
-This powerful spell will drain {{ctl|0|8|3}} negative energy for each beam; no beam will fire if your negative energy is too low.
-
+This powerful spell will drain {{ctl|0|7|3}} negative energy for each beam; no beam will fire if your negative energy is too low.
+You may only have one Hymn active at once.
 The damage will increase with your Spellpower.
 }}

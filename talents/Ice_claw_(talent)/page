@@ -1,5 +1,5 @@
 {{Ability box
-|game_version=1.6.4
+|game_version=1.7.6
 |image=Ice claw.png
 |name=Ice Claw
 |category_type={{ct|Wild-Gift}}
@@ -9,9 +9,9 @@
 |cooldown=7
 |range=0
 |desc=
-You call upon the mighty claw of a cold drake, doing {{cts|110|170%}} weapon damage as ice damage in a cone of 3. Ice damage gives a chance of freezing the target.
-
-Every level in Ice Claw additionally raises your Physical save by 2.
-
+You call upon the mighty claw of a cold drake and rake a wave of freezing cold in front of you, doing {{ctwd|110|170%}} weapon damage as Ice damage in a cone of radius 3. Ice damage gives a chance of freezing the target.
+Every level in Ice Claw additionally raises your Physical Save by 2.
 Each point in cold drake talents also increases your cold resistance by 1%.
+
+This talent will also attack with your shield, if you have one equipped.
 }}

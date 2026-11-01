@@ -8,9 +8,9 @@
 |cost=32 Mana
 |cooldown=10
 |desc=
-Crush together two alchemist gems, making them extremely unstable.
+XXX CHECKME XXX Crush together two alchemist gems, making them extremely unstable.
 
-You then throw them to a target area of radius 2, where they explode on impact, dealing {{ctspd|15|120}} physical damage, based on the average of your spellpower and the gem's spellpower (20/35/50/65/70 per tier), and knocking back any creatures in the blast radius.
+You then throw them to a target area of radius 2, where they explode on impact, dealing {{ctspd|15|120}} physical damage, based on the average of your spellpower and the gem's spellpower (20/35/50/65/70 per tier), with further damage scaling from the bomb's power, and knocking back any creatures in the blast radius.
 
 Each kind of gem will also provide a specific effect.
 }}

@@ -6,13 +6,13 @@
 |require={{TalentReq/TechsDexReq2}}
 |use_mode=Passive
 |desc=
-You have learned to block incoming blows with your weapons.  When dual wielding, your defense is increased by {{CS|(Dex * Talent Level)|4|0|45.7|500}}.
+You have learned to block incoming blows with your weapons. When dual wielding, your defense is increased based on your Dexterity and talent level.
 
 The Defense bonus scales with your Dexterity.
 
 At talent levels higher than 5, you may parry melee attacks with your offhand weapon (except mindstars).
 
-You will have a {{CTL|100%|16.7|50%}} chance to deflect up to {{CTL|100%|10|40%}} of your offhand weapon damage from approximately {{CSS|Cun|0|2.25}} melee attacks (based on your Cunning) each turn.
+Your chance to deflect attacks scales with Dexterity and talent level, up to a limit below 90%; the amount deflected depends on your offhand weapon damage, and the number of attacks depends on your Cunning.
 
 The deflection chance and deflection amount scale with (Talent Level - 5).
 }}

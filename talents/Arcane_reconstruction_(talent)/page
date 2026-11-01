@@ -1,4 +1,5 @@
 {{Ability_box
+|game_version=1.7.6
 |image=Heal.png
 |name=Arcane reconstruction
 |category_type={{Ct|Spell}}
@@ -7,8 +8,7 @@
 |cost=25 Mana
 |cooldown=16
 |desc=
-Imbues your body with arcane forces, reconstructing it to a default state, healing for (40 + {{ctspd|10|520}}) life.
-
+Imbues your body with arcane forces, reconstructing it to a default state, healing for {{ctspd|50|560}} life.
 The life healed will increase with your Spellpower.
 }}
 

@@ -1,5 +1,5 @@
 {{Ability box
-|game_version=1.4.5
+|game_version=1.7.6
 |image=Piercing arrow.png
 |name=Piercing Arrow
 |category_type={{ct|Technique}}
@@ -9,5 +9,5 @@
 |cost=15 Stamina
 |cooldown=8
 |desc=
-You fire an arrow that cuts right through anything, piercing multiple targets if possible with 1,000 armor penetration, doing {{ctwd|100|150%}} damage.
+You fire an arrow that cuts right through anything, piercing multiple targets if possible with nigh infinite armor penetration, doing {{ctwd|100|150%}} damage.
 }}

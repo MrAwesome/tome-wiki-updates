@@ -1,5 +1,5 @@
 {{Ability box
-|game_version = 1.7.4
+|game_version = 1.7.6
 |image=Wild summon.png
 |name=Wild Summon
 |category_type={{ct|Wild-Gift}}
@@ -11,25 +11,18 @@
 |use_speed=0
 |desc=
 For {{ctl|15|3|7}} turn(s), you have 100% chance that your summons appear as a wild version.
-
-The chance diminishes to 66% of its existing value each turn.
-
+Each turn the chance disminishes.
 Wild creatures have one more talent/power than the base versions:
-
-*{{t|Ritch Flamespitter}}: Can fly in the air, spitting its {{t|Flamespit}} past creatures in the path of its target (replaces the normal Flamespit)
+*{{t|Ritch {{t|Flamespit}}ter}}: Can fly in the air, spitting its Flamespit past creatures in the path of its target
 *{{t|Hydra}}: Can concentrate its breath into spits when allies would be caught in a breath, instead spitting a bolt
-**Gains new talents {{t|Lightning Spit}}, {{t|Acid Spit}}, and {{t|Poison Spit}}, which are identical to their corresponding breaths except for targeting, and share their cooldowns with their corresponding breaths.
-*{{t|Rimebark}}: {{t|Winter's Grasp}} – Can grab foes, pulling them into range of its ice storm
-*{{t|Fire Drake}}: {{t|Antimagic Zone}} – Can emit a powerful roar to silence its foes
-*{{t|War Hound}}: {{t|Total Thuggery}} – Can rage, increasing its critical chance and armour penetration
-*{{t|Jelly}}: {{t|Mitotic Split}} – Can split into an additional jelly upon taking a large hit (jellies formed by splitting do not count against your summon cap)
-*{{t|Minotaur}}: {{t|Rush}} – Can rush toward its target
-*{{t|Stone Golem}}: {{t|Disarm}} – Can disarm its foes
-*{{t|Turtle}}: {{t|Battle Call}} – Can force all foes in a radius into melee range
-*{{t|Spider}}: Can use Infusion: Insidious Poison to deal (60 * Talent Level) nature damage over 7 turns at range 6, reducing healing by 60%, with a cooldown of 12 turns.
-**This uses the effective level of the Spider talent, not the raw talent level.
-
+*{{t|Rimebark}}: Can grab foes, pulling them into range of its ice storm
+*{{t|Fire Drake}}: Can emit a powerful roar to silence its foes
+*{{t|War Hound}}: Can rage, inreasing its critical chance and gaining armour penetration
+*{{t|Jelly}}: Can split into an additional jelly upon taking a large hit (jellies formed by splitting do not count against your summon cap)
+*{{t|Minotaur}}: Can {{t|Rush}} toward its target
+*{{t|Stone Golem}}: Can {{t|Disarm}} its foes
+*{{t|Turtle}}: Can force all foes in a radius into melee range
+*{{t|Spider}}: Can project an insidious poison at its foes, reducing their healing
 This talent requires {{t|Master Summoner}} to be active to be used.
-
-For each type of wild creature, the level of the new talent(s) equals the raw level of the summon talent. The exception is the wild Spider, whose scaling is described above.
+Effects scale with levels in summon talents.
 }}

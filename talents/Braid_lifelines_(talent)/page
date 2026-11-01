@@ -8,6 +8,5 @@
 |use_mode=Passive
 |desc=
 Your {{t|Rethread}} now braids the lifelines of all targets it hits for {{cts|3|7|PM}} turns.  Braided targets take {{ctspd|25|40%|PM}} of all damage dealt to other braided targets.
-The amount of damage shared will scale with your Spellpower.
-
+The amount of damage shared will scale with your Spellpower. Duration also depends on your current Paradox and whether Extension is set to affect this talent.
 }}

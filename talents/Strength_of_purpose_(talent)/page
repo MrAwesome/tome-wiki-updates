@@ -7,7 +7,7 @@
 |require=Mag (18, 24, 30, 36, 42)
 |use_mode=Passive
 |desc=
-Increases Physical Power by 30, and increases weapon damage by (29.8 * √Talent Level)% when using swords, axes, maces, knives, or bows.
+Increases weapon damage by {{gtl|1|5}} and physical power by 30 when using swords, axes, maces, knives, or bows.
 You now also use your [[Magic]] in place of [[Strength]] when equipping weapons and ammo as well as when calculating weapon damage.
 These bonuses override rather than stack with weapon mastery, dagger mastery, and bow mastery.
 

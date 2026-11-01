@@ -9,9 +9,9 @@
 |travel_speed=Instantaneous
 |use_speed=Standard
 |desc=
-With some advanced preparation, you learn to create and equip one of a number of useful tools (at Talent Level):
+With some advanced preparation, you learn to create and equip one of a number of useful tools (at your current talent level):
 
-'''{{t|Dart Launcher}}''':<br> 
+'''{{t|Dart Launcher}}''':<br>
 Fire a poisoned dart dealing 15 + {{ctstd|Cun|12|150}} physical damage that puts the target to sleep for 4 turns. 10 turn cooldown.
 
 '''{{t|Smokescreen}}''':<br>

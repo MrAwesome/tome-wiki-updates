@@ -9,9 +9,9 @@
 |cost=32 Psi
 |cooldown=13
 |desc=
-Cast a net of static electricity in a radius of {{cts|2|5}} for {{cts|3|9}} turns.
+XXX CHECKME XXX Cast a net of static electricity in a radius of {{cts|2|4}} for {{cts|3|6}} turns.
 
-Enemies standing in the net will take {{ctmd|20|130}} Lightning damage and be slowed by {{cl|{{ctmd|5|50}}|50%|4|4|34%|34}}.
+Enemies standing in the net will take {{ctmd|20|100}} Lightning damage and be slowed by {{cl|{{ctmd|5|50}}|50%|4|4|34%|34}}.
 
 When you move through the net, a static charge will accumulate on your weapon which will add {{ctmd|10|50}} additional Lightning damage to your next attack for each turn you spend within its area.
 

@@ -1,4 +1,6 @@
 {{Ability box
+|ashes_version=1.1.4
+|game_version=1.7.6
 |name=Maw of Urh'rok
 |image=Maw_of_urh'rok.png
 |category_type={{ct|Corruption}}
@@ -9,8 +11,7 @@
 |cooldown=20
 |range=1
 |desc=
-Your body becomes a nexus for the Fearscape, causing you to drag enemies towards you in a cone with a radius of {{cts|5|9}}, dealing 45.72-99.68 fire damage every turn.
-
-The damage will increase with your spellpower.
+Your body becomes a nexus for the Fearscape, causing you to drag enemies towards you in a cone with a radius of {{cts|4|8}}, dealing {{ctspd|35|150}} fire damage every turn.
+The damage will increase with your Spellpower.
 |avail.classes=[[Doombringer]]
 }}

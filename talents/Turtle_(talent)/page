@@ -8,9 +8,9 @@
 |cooldown=10
 |range=5
 |desc=
-Summon a Turtle to distract your foes. Turtles are resilient, but not very powerful. However, they will periodically force any foes to attack them, and can protect themselves with their shell.
+XXX CHECKME XXX Summon a Turtle to distract your foes. Turtles are resilient, but not very powerful. However, they will periodically force any foes to attack them, and can protect themselves with their shell.
 
-The Turtle will last for a duration of {{cs|(Talent Level)|5|0|10|5}}.
+The Turtle will last for a duration of {{cs|(Talent Level)|5|0|10|5}}, increased by any duration bonus from Resilience.
 
 It will receive the following stats:
 *Dexterity: 10 + {{cts|2|10|0.75}}

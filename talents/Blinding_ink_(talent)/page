@@ -1,6 +1,9 @@
 {{Ability_box
+|game_version=1.7.6
 |name=Blinding Ink
 |category_type=[[NPC Only (category type)|NPC Only]]
 |category=-
 |image=Blinding ink.png
+|desc=
+You project thick black ink, blinding targets in a radius {{cts|5|9}} cone for {{cts|3|7}} turns.  The chance to blind improves with Physical Power.
 }}

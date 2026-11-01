@@ -1,4 +1,5 @@
 {{Ability_box
+|game_version=1.7.6
 |image=Rockwalk.png
 |name=Rockwalk
 |category_type={{ct|Wild-gift}}
@@ -10,5 +11,8 @@
 |cooldown={{ctl|0|11|7}}
 |travel_speed=instantaneous
 |use_speed=1 turn
-|desc=Merge with one of your stone vines, traversing it to emerge near to an entangled creature (maximum range 20). Merging with the stone is beneficial for you, healing 100 + {{ctstd|Wil|40|630}} life (increases with Willpower). This will not break 'body of stone'. 
+|desc=
+Merge with one of your stone vines, traversing it to emerge near an entangled creature (maximum range 20).
+Merging with the stone is beneficial for you, healing {{ctstd|Wil|140|730}} life (increases with Willpower).
+This will not break Body of Stone.
 }}

@@ -1,12 +1,1 @@
-{{Ability box
-|image=Golem pound.png
-|name=Golem Pound
-|category_type={{ct|Golem}}
-|category={{c|Golem Fighting}}
-|require={{TalentReq/TechsReq4}}
-|cooldown=15
-|range=5
-|cost=5 Stamina
-|desc=
-Your golem rushes to the target and creates a shockwave with radius 2, dazing all foes for {{cts|3|7}} turns and doing {{ctwd|40|110%}} damage.
-}}
+DELETE

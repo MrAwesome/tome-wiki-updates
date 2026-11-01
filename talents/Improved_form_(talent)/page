@@ -7,6 +7,6 @@
 |require={{TalentReq/PsiWilReq3}}
 |use_mode=Passive
 |desc=
-When you assume the form of another body you gain {{CTL|100%|40|90%}} of the values (defences, crits, powers, save, ...) of the body.<br>
-In addition talents gained from bodies are limited to level floor({{gtl|1|5}}).
+XXX CHECKME XXX When you assume the form of another body you gain {{CTL|100%|40|90%}} of the values (defences, crits, powers, save, ...) of the body.<br>
+In addition, talents gained from bodies are limited to level 1 or the floor of your talent level, whichever is higher.
 }}

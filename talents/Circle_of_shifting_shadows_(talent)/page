@@ -1,7 +1,7 @@
 {{Ability box
 |name=Circle of Shifting Shadows
 |image=Circle of shifting shadows.png
-|game_version=1.7.4
+|game_version=1.7.6
 |category_type={{ct|Celestial}}
 |category={{c|Circles}}
 |require={{TalentReq/DiviReqHigh1}}
@@ -10,8 +10,7 @@
 |use_speed=0
 |range=0
 |desc=
-Creates a circle of radius {{cts|2.5|4.5}} at your feet (max radius 5); the circle increases your defense and all saves by {{ctspd|4|30}} while dealing {{ctspd|4|30}} darkness damage per turn to everyone else within its radius. The circle lasts {{cts|4|8}} turns (max 10 turns).
-
+Creates a circle of radius {{cts|2|4}} at your feet; the circle increases your defense and all saves by {{ctspd|4|30}} while dealing {{ctspd|4|30}} darkness damage per turn to everyone else within its radius. The circle lasts {{cts|4|8}} turns.
 The damage will increase with your Spellpower.
 }}
 

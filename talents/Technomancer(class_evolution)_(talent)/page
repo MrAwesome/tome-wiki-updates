@@ -1,4 +1,5 @@
 {{Ability box
+|embers_version=1.1.10
 |game_version=1.7.6
 |image=technomancer.png
 |name=Technomancer(Class Evolution)
@@ -8,13 +9,12 @@
 |use_mode=Passive
 |desc=
 Technomancers are Archmages that dabble in steam technology to enhance their already formidable arsenal of spells.
-
 Once this class evolution is taken, you gain the following:
 *Arcane Dynamo tinker schematic
-*{{c|Physics}} category (unlocked)
-*{{c|Chemistry}} category (locked)
+*Steamtech/{{c|Physics}} category (unlocked)
+*Steamtech/{{c|Chemistry}} category (locked)
 *An [[Automated Portable Extractor]] (A.P.E.)
-*One point in Physics/{{t|Smith}}, two in Physics/{{t|Mechanical}} and two in Physics/{{t|Electricity}}
+*One point in the Physics talent {{t|Smith}} and two in {{t|Mechanical}} and {{t|Electricity}}
 *Spell/{{c|Galvanic Technomancy}} category (locked) - deals with fire and lightning
 *Spell/{{c|Terrene Technomancy}} category (locked) - deals with earth and water
 *Spell/{{c|Occult Technomancy}} category (locked) - deals with time and arcane
@@ -22,7 +22,7 @@ Once this class evolution is taken, you gain the following:
 
 Once put in a robe, the Arcane Dynamo will regenerate Steam each time mana is spent and increase Spellpower based on current steam level.
 
-'''As soon as this evolution is used you will need to craft the Arcane Dynamo to place in a robe to benefit from all the powers of the Technomancer.'''
+#{bold}#As soon as this evolution is used you will need to craft the Arcane Dynamo to place in a robe to benefit from all the powers of the Technomancer.#{normal}#
 |avail.classes=[[Archmage]]
 }}
 ===Notes===

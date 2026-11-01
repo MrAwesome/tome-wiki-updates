@@ -1,4 +1,5 @@
 {{Ability_box
+|game_version=1.7.6
 |image=Precision.png
 |name=Precision
 |category_type=[[Technique (category type)|Technique]]
@@ -8,5 +9,6 @@
 |cost=20 Stamina
 |cooldown=10
 |desc=
-You have learned to hit the right spot. When dual wielding, your armor penetration is increased by {{CS|(Dex * Talent Level)|4|0|25|500|0.75}}.
+You have learned to hit the right spot, increasing your armor penetration by {{gtl|1|5}} when dual wielding.
+The Armour penetration bonus will increase with your Dexterity.
 }}

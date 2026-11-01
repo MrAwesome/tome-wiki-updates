@@ -8,7 +8,7 @@
 |cost=12 Hate
 |cooldown=14
 |desc=
-You rage coalesces at a single point, and then explodes outward, blasting enemies within a radius of {{cts|2.3|3.7}} in all directions. The blast causes {{ctmd|0|300}} damage and 2 knockback at the center, that decreases with distance. Anyone caught in the explosion will also be dazed for 3 turns.
+XXX CHECKME XXX You rage coalesces at a single point, and then explodes outward, blasting enemies within a radius of 2 to 3, depending on talent level, in all directions. The blast causes {{ctmd|0|300}} damage and 2 knockback at the center, that decreases with distance. Anyone caught in the explosion will also be dazed for 3 turns.
 
 In addition, your ability to channel force with this talent increases all critical damage by {{cts|4|15%}}.
 

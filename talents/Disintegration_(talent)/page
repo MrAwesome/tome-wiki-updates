@@ -1,5 +1,5 @@
 {{Ability box
-|game_version=1.4.3
+|game_version=1.7.6
 |image=Disintegration.png
 |name=Disintegration
 |category_type={{ct|Chronomancy}}
@@ -10,8 +10,7 @@
 |cooldown=10
 |range=
 |desc=
-While active your physical and temporal damage has a {{ctl|50|10|40}}% chance to remove one beneficial physical or magical temporary effect (respectively) from targets you hit.
+While active your physical and temporal damage has a {{ctl|50%|10|40%}} chance to remove one beneficial physical or magical temporary effect (respectively) from targets you hit.
 Only one physical and one magical effect may be removed per turn from each target.
 Additionally your Dust to Dust spell now digs up to {{cts|1|5|log}} tiles into walls.
-
 }}

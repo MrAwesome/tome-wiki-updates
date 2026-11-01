@@ -1,4 +1,5 @@
 {{Ability_box
+|game_version=1.7.6
 |image=Rockswallow.png
 |name=Rockswallow
 |category_type={{ct|Wild-gift}}
@@ -12,6 +13,6 @@
 |use_speed=Standard
 |desc=
 Merge your target (within range 20) with one of your stone vines that has seized it, forcing it to traverse the vine and reappear near you.
-Merging with the stone is detrimental for the target, dealing 80 + {{ctstd|Wil|40|330}} physical damage.
+Merging with the stone is detrimental for the target, dealing {{ctstd|Wil|120|410}} nature damage.
 The damage will increases with your Willpower.
 }}

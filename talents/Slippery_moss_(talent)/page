@@ -1,5 +1,5 @@
 {{Ability box
-|game_version=1.7.4
+|game_version=1.7.6
 |image=Slippery moss.png
 |name=Slippery Moss
 |category_type={{ct|Wild-Gift}}
@@ -10,7 +10,7 @@
 |range=0
 |use_speed=0
 |desc=
-Instantly grow a moss circle of radius {{cts|2.35|4.25}} at your feet.
+Instantly grow a moss circle of radius {{cts|2|4}} at your feet.
 
 Each turn the moss deals {{ctmd|6|40}} nature damage to each foe within its radius.
 

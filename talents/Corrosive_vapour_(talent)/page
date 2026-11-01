@@ -1,6 +1,10 @@
 {{Ability_box
+|game_version=1.7.6
 |name=Corrosive Vapour
 |category_type=[[NPC Only (category type)|NPC Only]]
 |category=-
 |image=Corrosive vapour.png
+|desc=
+Corrosive fumes rise from the ground doing {{ctspd|4|50}} acid damage in a radius of 3 each turn for {{cts|3|7}} turns.
+The damage will increase with your Spellpower.
 }}

@@ -6,9 +6,9 @@
 |require={{TalentReq/TechsConReq2}}
 |use_mode=Passive
 |desc=
-You've learned to recover quickly from effects that would disable you. Each turn, you have a ({{csl|Con|1|0.28|0.745}} * {{ctl|100%|28|74.8%}}) chance to recover from a single stun effect.
+XXX CHECKME XXX You've learned to recover quickly from effects that would disable you. Each turn, you have a ({{csl|Con|1|0.28|0.745}} * {{ctl|100%|45|80%}}) chance to recover from a single stun effect.
 
-At talent level 2 you may also recover from blindness, at level 3 confusion, level 4 pins, and level 5 slows and wounds. 
+At talent level 2 you may also recover from blindness, at level 3 confusion, level 4 pins, and level 5 slows and wounds.
 
 Only one effect may be recovered from each turn, and the chance to recover from an effect scales with your Constitution.
 |avail.escorts=[[Escorts#Warrior|Warrior]], +1 to talent or via revealing the locked {{c|Conditioning}} category

@@ -1,4 +1,5 @@
 {{Ability box
+|game_version=1.7.6
 |image=Icy skin.png
 |name=Icy Skin
 |category_type={{ct|Wild-Gift}}
@@ -9,9 +10,8 @@
 |cost=30 Equilibrium
 |range=10
 |desc=
-Your skin forms icy scales, damaging anyone that hits you for (0.1 * {{ctstd|Wil|10|700}}) cold damage and increasing your Armour by (0.1 * {{ctstd|Wil|6|600}}).
-
+Your skin forms icy scales and your flesh toughens, increasing your Maximum Life by {{ctl|100%|5|15%}} and your Armour by {{ctmd|5|25}}.
+You also deal {{ctmd|20|40}} cold damage to any enemies that physically strike you.
 Each point in cold drake talents also increases your cold resistance by 1%.
-
-The damage and Armor will scale with your Willpower.
+The life increase will scale with your Talent Level, and your Armour and retaliation cold damage will scale with Mindpower.
 }}

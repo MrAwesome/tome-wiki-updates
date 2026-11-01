@@ -1,5 +1,5 @@
 {{Ability box
-|game_version=1.4.5
+|game_version=1.7.6
 |image=Foresight.png
 |name=Foresight
 |category_type={{ct|Chronomancy}}
@@ -7,7 +7,7 @@
 |require={{TalentReq/ChronoReq2}}
 |use_mode=Passive
 |desc=
-Gain {{ctstd|Mag|10|50}} defense and {{ctstd|Mag|2|10%}} chance to shrug off critical hits.
+Gain {{ctstd|Mag|10|50}} defense and {{ctstd|Mag|2|10}} chance to shrug off critical hits.
 If you have {{t|Precognition}} or {{t|See the Threads}} active these bonuses will be added to those effects, granting additional defense and chance to shrug off critical hits.
 These bonuses scale with your Magic stat.
 |avail.escorts=[[Escorts#Temporal_Explorer_.28Arcane.29|Temporal Explorer (Arcane)]] (Normal Escort Reward), +1 to talent or via revealing the locked {{c|Chronomancy}} category

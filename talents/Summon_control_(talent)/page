@@ -1,18 +1,1 @@
-{{Ability box
-|image=Summon control.png
-|name=Summon Control
-|category_type={{ct|Wild-Gift}}
-|category={{c|Summoning (Utility)}}
-|require={{TalentReq/GiftsReq4}}
-|use_mode=Passive
-|desc=
-Allows you to take direct control of any of your summons.
-
-The summons will appear on the interface; a simple click on them will let you switch control.
-
-You can also press control+tab to switch.
-
-When taking control, your summon has its lifetime increased by {{cts|5|17|log|4S}} turns, and the damage it takes is reduced by {{cl|(0.07 * Raw Cunning * Raw Talent Level)|100%|0|0|35%|35}}.
-
-The damage reduction is based on your Cunning.
-}}
+DELETE

@@ -1,4 +1,5 @@
 {{Ability_box
+|game_version=1.7.6
 |image=Momentum.png
 |name=Momentum
 |category_type=[[Technique (category type)|Technique]]
@@ -8,5 +9,5 @@
 |cost=50 Stamina
 |cooldown=30
 |desc=
-When dual wielding, increases attack speed by {{CTS|11|40%|0.75}}, but drains stamina quickly (-6 stamina/turn).
+When dual wielding, increases attack speed by {{cts|11|40%}}, but drains stamina quickly (-6 stamina/turn).
 }}

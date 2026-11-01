@@ -6,6 +6,8 @@
 |category={{c|Higher Draconic Abilities}}
 |require={{TalentReq/GiftsReqHigh3}}
 |use_mode=Passive
-|desc=You have mastered your draconic nature.<br />You gain {{ctl|100%|20|50%}} knockback resistance, and your blindness and stun resistances are increased by {{ctl|100%|10|25%}}.
+|desc=
+You have mastered your draconic nature.
+You gain {{ctl|100%|20|50%}} knockback resistance, and your blindness and stun resistances are increased by {{ctl|100%|10|25%}}.
 |avail.classes=[[Wyrmic]]
 }}

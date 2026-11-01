@@ -11,7 +11,7 @@
 |use_speed=1 turn
 |desc=
 Vomit on the ground around you, healing any undead in the area and damaging anyone else.
-Lasts 10 turns and deals {{ctstd|Con|10|60}}+10 blight damage or heals 1.5*({{ctstd|Con|10|60}}+10) life.<br>
-Creatures standing in the retch also have {{ctl|100%|10|33%|false|1,1}} chance to remove a physical effect each turn; undeads will be stripped from a detrimental effect while others will be stripped from a beneficial effect.<br>
+Lasts 10 turns and deals {{ctstd|Con|20|70}} blight damage or heals {{ctstd|Con|25|100}} life.
+Creatures standing in the retch also have {{ctl|100%|10|33%|false|1.1}} chance to remove a physical effect each turn; undeads will be stripped from a detrimental effect while others will be stripped from a beneficial effect.
 When you stand in your own retch your racial -20% global speed is cancelled.
 }}

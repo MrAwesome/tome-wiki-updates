@@ -8,7 +8,7 @@
 |cooldown=10
 |use_speed=0
 |desc=
-While active, every swing of your weapon has a chance of striking a second nearby target.
+XXX CHECKME XXX While active, every swing of your weapon has a chance of striking a second nearby target.
 
 The chance for a second strike with a one-handed weapon is {{cl|{{ctid|Str|10|38|0.4}}|100%|0|0|25.18%|25.18}}.
 
@@ -18,9 +18,9 @@ The damage dealt at 0 Hate is {{cl|(0.5 * Str * Talent Level)|100%|0|0|79%|500}}
 
 The damage dealt at 100+ Hate is {{cl|(Str * Talent Level)|100%|0|0|79%|500}}.
 
-The damage dealt is 25% higher if using a two-handed weapon.
+Using a two-handed weapon adds 25 percentage points to the damage multiplier.
 
-The recklessness of your attacks reduces your luck by 3. 
+The recklessness of your attacks reduces your luck by 3.
 
 {{t|Cleave}}, {{t|Repel}} and {{t|Surge}} cannot be active simultaneously, and activating one will place the others on cooldown.
 

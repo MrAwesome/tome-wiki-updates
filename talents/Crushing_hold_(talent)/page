@@ -6,11 +6,11 @@
 |require={{TalentReq/TechsReq2}}
 |use_mode=Passive
 |desc=
-Enhances your grapples with additional effects.  All additional effects will apply to every grapple with no additional save or resist check.
+XXX CHECKME XXX Enhances your grapples with additional effects. All additional effects will apply to every grapple with no additional save or resist check.
 
-Talent Level 1:  Reduces base weapon damage by {{CTPD|1|15}}
+Talent Level 1: Reduces base weapon damage by {{CTPD|1|15}}
 
-Talent Level 3:  Silences
+Talent Level 3: Silences
 
-Talent Level 5:  Reduces global action speed by {{CTPD|5|65%}}
+Talent Level 5: Reduces global action speed by {{CTPD|5|45%}}
 }}

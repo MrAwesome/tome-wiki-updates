@@ -10,9 +10,9 @@
 |cooldown=10
 |use_speed=Mind
 |desc=
-Inflicts {{ctmd|5|50}} {{darkness}} damage each turn for {{cts|5|9}} turns, and has a chance to randomly cause blindness, stun, or confusion (lasting 3 turns).
+XXX CHECKME XXX Inflicts {{ctmd|5|50}} {{darkness}} damage each turn for {{cts|5|9}} turns, and has a chance to randomly cause blindness, stun, or confusion (lasting 3 turns).
 
-The chance to inflict a debuff is {{cl|{{ctmd|15|50}}|100%|0|0|35.75%|35.75}}.
+The chance to inflict a debuff, after Mind Crit, is {{cl|{{ctmd|15|50}}|100%|0|0|35.75%|35.75}}.
 
 If the target is sleeping, the chance of avoiding a negative effect will be halved and fear immunity will be ignored.
 

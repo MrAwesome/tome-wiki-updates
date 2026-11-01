@@ -1,4 +1,5 @@
 {{Ability_box
+|game_version=1.7.6
 |image=Fireflash.png
 |name=Fireflash
 |category_type={{ct|Spell}}
@@ -10,7 +11,7 @@
 |cooldown=8
 |travel_speed=4
 |desc=
-Conjures up a bolt of fire that moves toward the target and explodes into a flash of fire, doing {{Ctspd|28|328}} fire damage in a radius of {{cts|2|6|raw}}.
+Conjures up a bolt of fire that moves toward the target and explodes into a flash of fire, doing {{ctspd|28|330}} fire damage in a radius of {{cts|2|5}}.
 
 The damage will increase with your Spellpower.
 }}

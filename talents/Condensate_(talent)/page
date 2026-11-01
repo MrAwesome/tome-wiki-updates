@@ -11,7 +11,7 @@
 |cost=10 Steam + 10 Psi
 |cooldown=5
 |use_speed=Mind
-|desc=Condensate hot steam around your foes in radius {{CTL|4|1|3.3}}(round up), burning them for {{CTMD|25|300}} {{fire}} damage and applying the wet effect for 4 turns, halving their stun resistances.
-
+|desc=
+Condensate hot steam around your foes in radius {{ctl|4|1|4}}, burning them for {{ctmd|25|300}} {{fire}} damage and applying the wet effect for 4 turns, halving their stun resistances.
 The damage will increase with your Mindpower.
 }}

@@ -8,11 +8,11 @@
 |desc=
 Each turn, those caught in your gloom must save against your Mindpower, or have a chance to be crippled by fear and have their damage reduced for 3 turns. The first time you melee strike a foe after they have been weakened will give you 2 hate.
 
-The chance to inflict Weakness is {{cl|√ ( Talent Level )|100%|7|1|15.65%|2.23}}.
+The chance to inflict Weakness is {{cl|√ ( Talent Level )|100%|7|1|15.65%|2.23}}; it increases with your mind speed and is capped at 25%.
 
 The damage reduction is {{cl|√ ( Talent Level )|65%|12|1|26.8%|2.23}}.
 
-Each point in Weakness increases the Mindpower of all {{t|Gloom}} effects.
+Each point in Gloom talents increases the Mindpower of all {{t|Gloom}} effects.
 
 The total mindpower bonus is {{cs|(Total Talent Levels in {{c|Gloom}} category)|1|1|20|20|0.75}}.
 }}

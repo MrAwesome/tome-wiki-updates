@@ -1,5 +1,5 @@
 {{Ability box
-|game_version=1.5.10
+|game_version=1.7.6
 |image=Secrets of telos.png
 |name=Secrets of Telos
 |category_type=[[Prodigies]]
@@ -7,5 +7,5 @@
 |require=Cunning 50<br />Possess [[Telos's Staff Crystal]], [[Telos's Staff (Top Half)]] and [[Telos's Staff (Bottom Half)]]
 |use_mode=Passive
 |desc=
-You have obtained the three parts of the Staff of Telos and studied them carefully. You believe that you can merge them back into a single highly potent staff: [[Telos Spire of Power]].
+You have obtained the three parts of the Staff of Telos and studied them carefully. You believe that you can merge them back into a single highly potent staff.
 }}

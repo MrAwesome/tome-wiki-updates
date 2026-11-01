@@ -3,7 +3,7 @@
 |image = Netherblast.png
 |category_type = {{ct|Demented}}
 |category = {{c|Nether}}
-|game_version = 1.7.4
+|game_version = 1.7.6
 |forbidden_version = 1.0.12
 |require = {{TalentReq/DementedReq1}}
 |use_mode = Activated
@@ -12,8 +12,8 @@
 |cooldown = 3 
 |travel_speed = 1000%
 |use_speed = Spell
-|desc = Fire a burst of unstable void energy, dealing 30+{{ctspd|20|250}} darkness damage and 30+{{ctspd|20|250}} temporal damage to the target. The power of this spell inflicts entropic backlash on you, causing you to take 10% of the damage dealt over 8 turns. This damage counts as entropy for the purpose of {{t|Entropic Gift}}.
-
+|desc =
+Fire a burst of unstable void energy, dealing {{ctspd|40|155}} darkness and {{ctspd|40|155}} temporal damage to the target. The power of this spell inflicts entropic backlash on you, causing you to take {{ctspd|32|55}} damage over 8 turns. This damage counts as entropy for the purpose of {{t|Entropic Gift}}.
 The damage will increase with your Spellpower.
 
 ''Note 1: the darkness and temporal damage can be boosted by elemental damage bonuses, but the backlash will remain at 10% of the base damage dealt''

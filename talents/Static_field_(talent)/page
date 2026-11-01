@@ -8,7 +8,7 @@
 |cooldown=20
 |range=0
 |desc=
-Generate an electrical field around you in a radius of 1. Any creature caught inside will lose a percentage of its current life. This effect cannot kill creatures.
+XXX CHECKME XXX Generate an electrical field around you in a radius of {{cts|1|6}}. Any creature caught inside will lose a percentage of its current life. This effect cannot kill creatures.
 
 The percentage loss is equal to {{cl|{{ctmd|10|45}}|90%|0|0|31%|31}}.
 

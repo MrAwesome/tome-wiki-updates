@@ -11,6 +11,11 @@
 |range=6
 |radius=3
 |desc=
-You breathe a wave of dead maggots in a cone of radius {{cts|5|9}}. Any target caught in the area will take {{ctstd|Mag|30|550}} blight damage and be infected with a crippling disease for 10 turns.
-Crippling disease slows creatures by ({{ctstd|Mag|30|550}}*0.75/10) and deals {{ctl|0.7|0.15|0.5}} blight damage per turn.
-The damage will increase with your Magic, and the critical chance is based on your Spell crit rate.}}
+XXX CHECKME XXX You breathe a wave of dead maggots in a cone of radius {{cts|5|9}}. Any target caught in the area will take {{ctstd|Mag|30|550}} blight damage and be infected with a crippling disease for 10 turns.
+
+If you know Chromatic Fury, the damage is increased by {{ctstd|Wil|30|550}}.
+
+Crippling disease slows creatures by {{ctl|70%|15|50%}} and deals {{ctstd|Mag|30|550}}*0.75/10 blight damage per turn.
+
+The damage will increase with your Magic, and the critical chance is based on your Spell crit rate.
+}}

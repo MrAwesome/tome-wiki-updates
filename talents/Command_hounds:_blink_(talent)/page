@@ -1,5 +1,5 @@
 {{Ability box
-|game_version=1.4.5
+|game_version=1.7.6
 |image=command_hounds_blink.png
 |name=Command Hounds: Blink
 |category_type={{ct|Chronomancy}}
@@ -11,7 +11,7 @@
 |desc=
 Command your Temporal Hounds to teleport to the targeted location.  If you target an enemy your hounds will set that enemy as their target.
 
-When you learn this talent, your hounds gain {{ctspd|10|40|PM}} defense and {{ctspd|10|40%|PM}} resist all after any teleport.
+When you learn this talent, your hounds gain {{ctspd|10|40|PM}} defense and {{ctspd|10|40|PM}} resist all after any teleport.
 
 At talent level five, if you're not at your maximum number of hounds when you cast this spell a new one will be summoned.
 The teleportation bonuses scale with your Spellpower.

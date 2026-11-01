@@ -8,9 +8,9 @@
 |cooldown=18
 |range=5
 |desc=
-Summon a 3-headed Hydra to destroy your foes. 3-headed hydras are able to breathe poison, acid and lightning.
+XXX CHECKME XXX Summon a 3-headed Hydra to destroy your foes. 3-headed hydras are able to breathe poison, acid and lightning.
 
-The Hydra will last for a duration of {{cs|(Talent Level)|5|0|10|5}}.
+The Hydra will last for a duration of {{cs|(Talent Level)|5|0|10|5}}, increased by {{t|Resilience}}.
 
 It will receive the following stats:
 *Strength: 18

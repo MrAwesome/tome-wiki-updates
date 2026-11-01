@@ -10,5 +10,6 @@
 |cost = 10 Positive energy
 |range = {{cts|2|8|0.75}}
 |use_speed = Spell
-|desc = Create a distortion at the target tile (radius 3), knocking back all projectiles and changing their direction to face away if possible.
+|desc =
+Create a distortion at the target tile, knocking back all projectiles and changing their direction to face away if possible.
 }}

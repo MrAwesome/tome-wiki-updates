@@ -7,9 +7,8 @@
 |category = {{c|Artillery}}
 |require = {{TalentReq/DexSteamReqHigh2}}
 |use_mode = Passive
-|desc = Augment your rockets with highly flammable materials, causing them to burn targets for {{ctstmd|15|150}} {{fire}} damage over 3 turns. Subsequent shots against burning targets refresh the effect of the duration[sic] (but do not stack) and inflict additional {{fire}} damage equal to half of the burn damage.
-
+|desc =
+Augment your rockets with highly flammable materials, causing them to burn targets for {{ctstmd|15|150}} {{fire}} damage over 3 turns. Subsequent shots against burning targets refresh the effect of the duration (but do not stack) and inflict {{ctstmd|7.5|75}} additional fire damage.
 Targets affected by this burning that fall below 25% life enter a state of panic, giving them a {{cts|15|30%}} chance each turn to flee in terror from you.
-
-The {{fire}} damage will increase with your Steampower.
+The fire damage will increase with your Steampower.
 }}

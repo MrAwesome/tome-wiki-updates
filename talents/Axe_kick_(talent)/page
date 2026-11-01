@@ -6,7 +6,7 @@
 |cost=20 Stamina
 |cooldown=20
 |desc=
-Deliver a devastating axe kick dealing {{ctwd|80|200%}} damage.  If the blow connects your target is brain damaged, causing all talents to fail for {{ctl|5|1|4}} turns and earning 2 combo points.
+Deliver a devastating axe kick dealing {{ctwd|80|200%}} damage. Striking Stance adds its damage bonus while active. If the blow connects your target is brain damaged, causing all talents to fail for {{ctl|5|1|4}} turns and earning 2 combo points.
 
 This effect cannot be saved against, though it can be dodged and checks confusion immunity.
 }}

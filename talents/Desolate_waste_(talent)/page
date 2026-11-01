@@ -1,17 +1,14 @@
 {{Ability_box
-|game_version = 1.7.4
+|game_version = 1.7.6
 |name = Desolate Waste
 |image = desolate waste.png
 |category_type={{ct|Spell}}
 |category={{c|Glacial Waste}}
 |require = {{TalentReq/SpellsReq2}}
 |use_mode = Passive
-|desc = 
+|desc =
 Every time your shield loses 25% of its original value a circle of desolate waste will spawn under you, lasting 6 turns, and dealing {{ctspd|10|40}} cold damage per turn to foes within radius {{cts|3|6}}.
-
 If a creature is hit by your {{t|Hiemal Shield}}'s retribution bolt while on the waste, the shield feeds of the wasteland to regenerate {{cts|2|5%}} of its original value.
-
-No more than 100 / {{cts|2|5}} desolate wastes can trigger per shield activation.
-
+No more than 25 desolate wastes can trigger per shield activation.
 The damage will increase with your Spellpower.
 }}

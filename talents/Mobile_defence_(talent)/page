@@ -1,4 +1,5 @@
 {{Ability_box
+|game_version=1.7.6
 |image=Mobile defence.png
 |name=Mobile Defence
 |category_type={{ct|Technique}}
@@ -6,5 +7,5 @@
 |require={{TalentReq/TechsDexReq2}}
 |use_mode=Passive
 |desc=
-Whilst wearing leather or lighter armour, you gain (8 * Talent Level)% Defense and (6 * Talent Level)% Armour hardiness.
+Whilst wearing leather or lighter armour, you gain {{ctl|100%|10|40%}} Defense and {{gtl|1|5}} Armour hardiness.
 }}

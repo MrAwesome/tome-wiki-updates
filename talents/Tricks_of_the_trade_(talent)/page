@@ -1,5 +1,5 @@
 {{Ability box
-|game_version=1.7.4
+|game_version=1.7.6
 |image=Tricks of the trade.png
 |name=Tricks of the Trade
 |category_type=[[Prodigies]]
@@ -8,9 +8,7 @@
 |use_mode=Passive
 |desc=
 You have friends in low places and have learned some underhanded tricks.
-
-Gain 0.2 Category Mastery to the Cunning/{{c|Stealth}} Category (or unlock it, if locked), and either gain +0.1 to the Cunning/{{c|Scoundrel}} category or learn and unlock the category at 0.9 if you lack it.
-
+Gain 0.2 Category Mastery to the Cunning/{{c|Stealth}} Category (or unlock it, if you have the tree and it is locked), and either gain +0.1 to the Cunning/{{c|Scoundrel}} category or learn and unlock the category at 0.9 if you lack it.
 Additionally, all of your damage penalties from invisibility are permanently halved.
 }}
 ===Notes===

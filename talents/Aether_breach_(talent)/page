@@ -1,4 +1,5 @@
 {{Ability box
+|game_version=1.7.6
 |image=Aether_breach_2017.png
 |name=Aether Breach
 |category_type={{ct|Spell}}
@@ -8,9 +9,8 @@
 |cooldown=8
 |range=7
 |desc=
-Rupture reality to temporarily open a passage to the aether, triggering {{cts|3.3|4.7}} random arcane explosions in the target area.
-
+Rupture reality to temporarily open a passage to the aether, triggering {{cts|3|4}} random arcane explosions in the target area.
 Each explosion does {{ctspd|20|180}} arcane damage in radius 2, and will each trigger at one turn intervals.
-
+Subsequent casts will stack but the explosions will still only occur once per turn and will be centered at the last area targeted.
 The damage will increase with your Spellpower.
 }}

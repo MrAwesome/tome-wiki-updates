@@ -6,5 +6,5 @@
 |require={{TalentReq/TechsWilReq1}}
 |use_mode=Passive
 |desc=
-Any time you do not have an opponent in a square adjacent to you, you gain {{cts|1.5|6|0.75}} Stamina regeneration. With the third talent point, you also gain an equal amount of life regen when Breathing Room is active.
+Any time you do not have an opponent in a square adjacent to you, you gain {{cts|1.5|6|0.75}} Stamina regeneration. If you know The Eternal Warrior, this amount is multiplied by that talent's multiplier. With the third talent point, you also gain an equal amount of life regen while Breathing Room is active; this amount receives the same multiplier.
 }}

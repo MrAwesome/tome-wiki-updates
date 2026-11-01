@@ -11,13 +11,10 @@
 |travel_speed=20
 |use_speed=Spell
 |desc=
-Channel raw mana through your staff, projecting a bolt of your staff's damage type, doing {{ctwd|40|110}} staff damage.
-
+Channel raw mana through your staff, projecting a bolt of your staff's damage type, doing {{ctwd|40|110%}} staff damage.
 The bolt will only hurt hostile targets, and pass safely through friendly ones.
-
 This attack always has a 100% chance to hit, and ignores the target's Armour.
-
-When projecting a bolt with your staff, it gains a 20% damage modifier from your Magic stat.
+When projecting a bolt with your staff its damage modifier is increased by 20%.
 |avail.shops=[[Angolwen]] ([[Age of Ascendancy]]) via [[Talent#Additional Talent Sources|purchasing]] {{c|Staff Combat}}
 |avail.escorts=[[Escorts#Alchemist_.28Arcane.29|Alchemist (Arcane)]] (Normal Escort Reward), +1 to talent or via revealing the locked {{c|Staff Combat}} category
 }}

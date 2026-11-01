@@ -1,4 +1,5 @@
 {{Ability_box
+|game_version=1.7.6
 |image=Mindhook.png
 |name=Mindhook
 |category_type={{ct|Psionic}}
@@ -9,10 +10,8 @@
 |cost=10 Psi
 |cooldown={{ctl|5|18|10}}
 |desc=
-Briefly extend your telekinetic reach to grab an enemy and haul them towards you.
-
-Works on enemies up to {{ctl|10|3|7}} squares away. 
-
+Briefly extend your telekinetic reach to grab an enemy, haul them towards you and daze them for 1 turn.
+Works on enemies up to {{ctl|10|4|7}} squares away.
 The cooldown decreases, and the range increases, with additional talent points spent.
 
 ''Note: Affected enemies have a chance to be dazed based on your mindpower.''

@@ -9,10 +9,10 @@
 |cooldown=8
 |cost=6 Steam
 |desc=
-You have learned to fire while moving.
+XXX CHECKME XXX You have learned to fire while moving.
 In one motion, you fire your double steamguns (100% weapon damage, 1 tile range penalty) and may then move to an adjacent tile (unless pinned to the ground or immobilized).
 
 This talent can be activated for up to {{ctl|8|1.5|3.6}} consecutive turns before it goes on cooldown, and takes time according to your steamtech speed or movement speed (if you move), whichever is slower.
 
-When Strafe ends you may instantly reload between X and Y ammo (based on the number of strafes you performed and your ammo capacity).
+When Strafe ends you may instantly reload ammo equal to {{ctl|8|1.5|5}} plus a bonus that increases with the number of strafes you performed, up to your ammo capacity.
 }}

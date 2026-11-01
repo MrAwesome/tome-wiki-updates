@@ -8,7 +8,7 @@
 |cost=12 Stamina
 |cooldown=8
 |desc=
-Attack your foes in a frontal arc with a spinning backhand, doing {{ctwd|100|170%}} damage. If you're not adjacent to the target, you'll step forward as you spin, gaining a damage bonus equal to {{cs|charge distance|15|1|50%|5}}.
+Attack your foes in a frontal arc with a spinning backhand, doing {{ctwd|100|170%}} damage. Striking Stance adds its damage bonus while active. If you're not adjacent to the target, you'll step forward as you spin, gaining a damage bonus equal to {{cs|charge distance|15|1|50%|5}}.
 
 This attack will remove any grapples you're maintaining, and earn one combo point (or one combo point per attack that connects, if the talent level is 4 or greater).
 }}

@@ -1,4 +1,5 @@
 {{Ability_box
+|game_version=1.7.6
 |image=Mind storm.png
 |name=Mind storm
 |category_type=[[Psionic (category type)|Psionic]]
@@ -12,11 +13,8 @@
 |use_speed=1
 |desc=
 Unleash your subconscious on the world around you.  While active, you fire up to {{cts|1|5|log}} bolts each turn (one per hostile target) that deal {{ctmd|10|100}} mind damage.  Each bolt consumes 5 Feedback.
-
-Feedback gains beyond your maximum allowed amount may generate extra bolts (one bolt per {{ctl|10|19|15}} excess Feedback per target), but no more then {{cts|1|5|log}} extra bolts per turn.
-
-This effect is a psionic channel, and will break if you move.
-
+Feedback gains beyond your maximum allowed amount may generate extra bolts (one bolt per {{ctl|10|19|15}} excess Feedback per target), but no more than {{cts|1|5|log}} extra bolts per turn.
+This effect is a psionic channel, increasing the range of Mind Sear, Psychic Lobotomy, and Sunder Mind to 10 but will break if you move.
 The damage will scale with your Mindpower.
 
 ''Note: Bolts will pass harmlessly through friendly units.''

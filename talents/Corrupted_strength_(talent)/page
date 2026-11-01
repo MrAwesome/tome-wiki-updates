@@ -1,7 +1,7 @@
 {{Ability box
 |image=Corrupted strength.png
 |name=Corrupted Strength
-|game_version=1.7.4
+|game_version=1.7.6
 |category_type={{ct|Corruption}}
 |category={{c|Reaving Combat}}
 |require={{TalentReq/StrCorrsReq1}}

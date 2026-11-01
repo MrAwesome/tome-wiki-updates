@@ -1,4 +1,5 @@
 {{Ability box
+|game_version=1.7.6
 |image=Demon_plane_2017.png
 |name=Fearscape
 |category_type={{ct|Corruption}}
@@ -11,16 +12,10 @@
 |use_speed=Spell
 |desc=
 Summon a part of the Fearscape to intersect with the current level.
-
-Your target and yourself are taken to the Fearscape, trapped there until you end the spell or until your target dies.
-
-While inside, a constant aura of flames will burn both of you (and heal demons) for {{ctspd|12|140}} fire damage (demons are healed instead) each turn.
-
-When the spell ends, only you, the target (if still alive), and any loose objects are taken back to your home plane; all summons are left in the Fearscape.
-
+You and your target are taken to the Fearscape, trapped there until you end the spell or until your target dies.
+While inside, a constant aura of flames will burn both of you for {{ctspd|12|140}} fire damage (demons are healed instead) each turn.
+When the spell ends, only you and the target (if still alive) plus any loose objects are taken back to your home plane; all summons are left in the Fearscape.
 This powerful spell drains 5 vim per turn initially, increasing by +1 for each turn it has been active, and ends when your vim is depleted.
-
-This spell has no effect if cast when already inside the Fearscape.
-
+It has no effect if cast from within the Fearscape.
 The damage will increase with your Spellpower.
 }}

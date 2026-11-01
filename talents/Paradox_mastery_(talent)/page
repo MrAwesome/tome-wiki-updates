@@ -1,12 +1,1 @@
-{{Ability box
-|image=Paradox mastery.png
-|name=Paradox Mastery
-|category_type={{ct|Chronomancy}}
-|category={{c|Paradox}}
-|require={{TalentReq/ChronoReqHigh1}}
-|use_mode=Passive
-|desc=
-You've learned to focus your control over the spacetime continuum, and quell anomalous effects.
-
-Increases your Temporal resistance by {{cts|10|35%}}, extends the duration of the {{t|Static History}} stability effect by {{cts|0.4|2.7|log}} turns, and increases your effective willpower for failure, anomaly, and backfire calculations by {{cts|15|50%}}.
-}}
+DELETE

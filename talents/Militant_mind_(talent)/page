@@ -8,6 +8,5 @@
 |use_mode=Passive
 |desc=
 Halflings have always been a very organised and methodical race; the more foes they face, the more organised they are.
-
-If two or more foes are in sight your Physical Power, Physical Save, Spellpower, Spell Save, Mental Save, and Mindpower are increased by (2 * Talent Level) per foe (up to 5 foes).
+If two or more foes are in sight your Physical Power, Physical Save, Spellpower, Spell Save, Mental Save, and Mindpower are increased by {{gtl|1|5}} per foe (up to 5 foes).
 }}

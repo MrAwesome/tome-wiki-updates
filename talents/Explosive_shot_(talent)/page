@@ -1,7 +1,7 @@
 {{Ability_box
 |image=explosive_shot.png
 |name=Explosive Shot
-|game_version=1.5.2
+|game_version=1.7.6
 |category_type={{ct|Technique}}
 |category={{c|Munitions}}
 |require={{TalentReq/TechsDexReqHigh2}}
@@ -12,13 +12,9 @@
 |travel_speed=Instantaneous
 |use_speed=Weapon
 |desc=
-Fires a special shot based on currently loaded ammo:
-
-[[Incendiary ammunition (talent)|Incendiary]] - Fire a shot that deals {{cTWD|50|150%}} weapon damage as fire and covers targets in radius {{cTS|1.3|2.7}} in sticky pitch for {{cTS|3.3|5.5}} turns, reducing global speed by {{cTL|40%|10|25%}} and increasing fire damage taken by {{cTS|10|40%}}.
-
-[[Venomous ammunition (talent)|Venomous]] - Fire a shot that deals {{cTWD|50|150%}} weapon damage as nature and explodes into a radius {{cTS|1.3|2.7}} cloud of crippling poison for {{cTS|3.3|5.5}} turns, dealing {{cTPD|15|100}} nature damage each turn and giving affected targets a {{cTS|10|35%}} chance to fail talent usage.
-
-[[Piercing ammunition (talent)|Piercing]] - Fire a shot that explodes into a radius {{cTS|1.3|2.7}} burst of shredding shrapnel, dealing {{cTWD|50|150%}} weapon damage as physical and removing {{cTL|4|1|2.5}} beneficial physical effects or sustains.
-
+Fires a special shot based on your currently loaded ammo:
+[[Incendiary ammunition (talent)|Incendiary]] - Fire a shot that deals {{ctwd|50|150%}} weapon damage as fire and covers targets in radius {{cts|1|2}} in sticky pitch for {{cts|3|5}} turns, reducing global speed by {{ctl|40%|10|25%}} and increasing fire damage taken by {{cts|10|40%}}.
+[[Venomous ammunition (talent)|Venomous]] - Fire a shot that deals {{ctwd|50|150%}} weapon damage as nature and explodes into a radius {{cts|1|2}} cloud of crippling poison for {{cts|3|5}} turns, dealing {{ctpd|15|100}} nature damage each turn and giving affected targets a {{cts|10|35%}} chance to fail talent usage.
+[[Piercing ammunition (talent)|Piercing]] - Fire a shot that explodes into a radius {{cts|1|2}} burst of shredding shrapnel, dealing {{ctwd|50|150%}} weapon damage as physical and removing {{ctl|4|1|2.5}} beneficial physical effects or sustains.
 The poison damage dealt increases with your Physical Power, and status chance increases with your Accuracy.
 }}

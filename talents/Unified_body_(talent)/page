@@ -7,5 +7,5 @@
 |require={{TalentReq/TechsCunReq2}}
 |use_mode=Passive
 |desc=
-Your mastery of unarmed combat unifies your body.  Increases your Strength by ({{CTS|1.5|7.5|0.75}} + {{CTSTD|Cun|2|10}}) based on Cunning and your Constitution by ({{CTS|1.5|7.5|0.75}} + {{CTSTD|Dex|5|25}}) based on Dexterity.
+Your mastery of unarmed combat unifies your body. Increases your Strength by ({{CTS|1.5|7.5|0.75}} + {{CTSTD|Cun|2|10}}) based on Cunning and your Constitution by ({{CTS|1.5|7.5|0.75}} + {{CTSTD|Dex|5|25}}) based on Dexterity; both bonuses are rounded up.
 }}

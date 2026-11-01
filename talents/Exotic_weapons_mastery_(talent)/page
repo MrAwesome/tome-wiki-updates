@@ -7,9 +7,7 @@
 |require=Str (16,22,28,34,40) Dex (16,22,28,34,40)
 |use_mode=Passive
 |desc=
-Increases Physical Power by 30, and increases weapon damage by (√ Talent Level / 5) / 1.5 % when using exotic weapons.
-
-
+Increases weapon damage by {{gtl|1|5}} and physical power by 30 when using exotic weapons.
 |avail=This talent can be acquired by taking the [[Prodigies#Strength|Legacy of the Naloren]] prodigy, as well as from:
 |avail.escorts=[[Escorts#Warrior|Warrior]], +1 to talent
 }}

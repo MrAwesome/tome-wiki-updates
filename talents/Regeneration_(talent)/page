@@ -1,6 +1,10 @@
 {{Ability_box
+|game_version=1.7.6
 |name=Regeneration
 |category_type=[[NPC Only (category type)|NPC Only]]
 |category=-
 |image=Regeneration.png
+|desc=
+Call upon the forces of nature to regenerate your body for {{ctspd|10|30}} life every turn for 10 turns.
+The life healed increases with Spellpower.
 }}

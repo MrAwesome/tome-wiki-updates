@@ -1,5 +1,5 @@
 {{Ability_box
-|game_version=1.4.5
+|game_version=1.7.6
 |image=Reflex defense.png
 |name=Reflex defense
 |category_type={{ct|Technique}}
@@ -7,5 +7,5 @@
 |require={{TalentReq/TechsCunReq3}}
 |use_mode=Passive
 |desc=
-Your understanding of physiology allows you to apply your reflexes in new ways.  Whenever you would receive damage (from any source) greater than {{CTL|10%|30|15%}} of your maximum life you reduce that damage by ({{CTL|1|0.15|0.5}} * {{CL|Defense|100%|15|10|50%|50}}).
+Your understanding of physiology allows you to apply your reflexes in new ways, increasing the flat damage reduction granted by Striking Stance by {{cts|30|70%|0.75}} and causing direct critical hits (physical, mental, spells) against you to have a {{cts|8|25%|0.75}} lower Critical multiplier (but always do at least normal damage).
 }}

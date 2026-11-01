@@ -1,8 +1,8 @@
 {{Ability box
 |image=Mow down.png
 |name=Mow Down
-|game_version=1.4.6
-|embers_version=1.0.3
+|game_version=1.7.6
+|embers_version=1.1.10
 |category_type={{ct|Steamtech}}
 |category={{c|Automated Butchery}}
 |require={{TalentReq/SteamReqHigh3}}
@@ -11,9 +11,7 @@
 |cooldown=10
 |desc=
 When you kill a foe with a melee strike you quickly throw some of their remains in your steam engine, instantly regenerating {{cts|3|12}} steam.
-
-When you deal a critical melee strike you also have a {{ctl|50%|12|32%}} chance to cut a part of your foe and use it in your steam engine.
-
+When you deal a critical melee strike you also have a {{ctl|50%|10|32%}} chance to cut a part of your foe and use it in your steam engine.
 When either of those happens this strikes fear in all foes in radius 4 of the victim, brainlocking them for {{cts|1|4}} turns.
-
+#{italic}#To the meat grinder!#{normal}#
 }}

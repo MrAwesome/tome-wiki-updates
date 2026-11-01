@@ -9,7 +9,7 @@
 |cooldown=10
 |use_speed=0
 |desc=
-Enhances your Deadly Poison with a volatile agent, causing the poison to deal {{cTL|100%|15|50%}} increased damage and damage to all adjacent enemies.
+XXX CHECKME XXX Enhances your Deadly Poison with a volatile agent, causing the poison to deal {{cTL|100%|22|50%}} increased damage and damage all adjacent enemies for 50%.
 
 Poison effects scale with your {{t|Vile Poisons}} talent.
 }}

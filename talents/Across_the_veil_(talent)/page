@@ -1,17 +1,14 @@
 {{Ability_box
-|game_version = 1.7.4
+|game_version = 1.7.6
 |name = Across the Veil
 |image = across the veil.png
 |category_type={{ct|Spell}}
 |category={{c|Necrosis}}
 |require = {{TalentReq/SpellsReq2}}
 |use_mode = Passive
-|desc = 
-The line between life and death blurs for you.
-
-You can only die when you reach negative {{ctstd|Con|30|1000}} life but your maximum life is reduced by 0.5 * {{ctstd|Con|30|1000}}.
-
-When you are below 1 life you gain {{cts|6|12%}} to all resistances.
-
-The life amount is based on your Constitution attribute.
+|desc =
+As you learn to tiptoe across the veil of death you learn to master the dark forces.
+Each time you cross the 1 life threshold you automatically unleash a blast of {{ctspd|30|260}} frostdusk damage in radius {{ctl|10|2|6}}.
+For each creature that takes damage from the blast one of your talent's cooldown is reduced by {{ctl|12|2|8}} turns.
+The damage will increase with your Spellpower.
 }}

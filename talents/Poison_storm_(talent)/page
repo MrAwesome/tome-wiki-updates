@@ -8,7 +8,7 @@
 |cost=36 Vim
 |range=0
 |desc=
-A furious poison storm rages around the caster in a radius of 4 for {{cts|6|10}} turns.  Each creature hit by the storm is poisoned for {{ctspd|12|130}} nature damage over 6 turns.
+A furious poison storm rages around the caster in a radius of 4 for {{cts|6|10}} turns. Each creature hit by the storm is poisoned for {{ctspd|12|130}} nature damage over 6 turns. The poison reduces healing by about 35–67% and gives spells an 18–30% chance to fail.
 
 Poisoning is cumulative; the longer they stay in the storm, the higher the poison damage they take.
 

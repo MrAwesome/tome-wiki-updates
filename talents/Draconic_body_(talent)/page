@@ -1,5 +1,5 @@
 {{Ability box
-|game_version=1.5.10
+|game_version=1.7.6
 |image=Draconic body.png
 |name=Draconic Body
 |category_type=[[Prodigies]]
@@ -8,5 +8,5 @@
 |use_mode=Passive
 |cooldown=15
 |desc=
-Your body hardens and recovers quickly. When pushed below 30% life, you are healed for 40% of your total life.
+Your body hardens and recovers quickly. When pushed below 30% life, you instantly restore 40% of your total life.
 }}

@@ -1,7 +1,7 @@
 {{Ability_box
 |name=Searing Light
 |image=Searing light.png
-|game_version=1.7.4
+|game_version=1.7.6
 |category_type={{ct|Celestial}}
 |category={{c|Sunlight}}
 |require={{TalentReq/DiviReq1}}
@@ -10,7 +10,6 @@
 |cooldown=5
 |use_speed=Spell
 |desc=
-Calls the power of the Sun into a searing lance, doing {{ctspd|15|170}} damage to the target and leaving a radius 1 area of searing light on the ground for 4 turns that does {{ctspd|15|170}} / 2 light damage to all foes within it.
-
+Calls the power of the Sun into a searing lance, doing {{ctspd|15|170}} damage to the target and leaving a radius 1 area of searing light on the ground for 4 turns that does {{ctspd|7.5|85}} light damage to all foes within it.
 The damage dealt will increase with your Spellpower.
 }}

@@ -1,7 +1,7 @@
 {{Ability_box
 |name=Sunburst
 |image=Sunburst.png
-|game_version=1.7.4
+|game_version=1.7.6
 |category_type={{ct|Celestial}}
 |category={{c|Sunlight}}
 |require={{TalentReq/DiviReq4}}

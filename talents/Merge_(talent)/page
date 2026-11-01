@@ -1,4 +1,5 @@
 {{Ability_box
+|game_version=1.7.6
 |image=merge.png
 |name=Merge
 |category_type={{ct|Cursed}}
@@ -11,7 +12,6 @@
 |travel_speed=Instantaneous
 |use_speed=Mind
 |desc=
-Target a nearby shadow, and command it to merge into a nearby enemy, reducing their damage by (100 * Talent Level)% for 5 turns.
-
-Killing your shadow releases some of your inner hatred restoring 8 Hate to yourself.
+Target a nearby shadow, and command it to merge into a nearby enemy, reducing their damage by {{cts|10|40%}} for 5 turns.
+Killing your shadow releases some of your inner hatred, restoring 8 Hate to yourself.
 }}

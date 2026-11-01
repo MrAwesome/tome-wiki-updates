@@ -7,5 +7,5 @@
 |require={{t|Master Artificer}} and {{t|Dart Launcher}}
 |use_mode=Passive
 |desc=
-The sleeping poison of your Dart Launcher becomes potent enough to ignore immunity, and upon waking the target is slowed by {{cTL|50%|15|40%}} for 4 turns.
+XXX CHECKME XXX The sleeping poison of your Dart Launcher becomes potent enough to ignore immunity, and upon waking the target is slowed by {{cTL|50%|20|40%}} for 4 turns. The slow strength scales with Master Artificer level.
 }}

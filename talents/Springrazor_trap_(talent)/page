@@ -8,11 +8,11 @@
 |cost=15 Stamina
 |range=Trap Range
 |desc=
-Lay a pressure triggered trap that explodes into a radius 2 wave of razor sharp wire, doing %0.2f physical damage. 
+XXX CHECKME XXX Lay a pressure triggered trap that explodes into a radius 2 wave of razor sharp wire, dealing physical damage based on trap effectiveness.
 
-Those struck by the wire may be shredded, reducing accuracy, armor and defence by %d for 3 turns.
+Those struck by the wire may be shredded, reducing accuracy, armor and defence by an amount based on trap effectiveness for 3 turns.
 
-Trap Power is determined by your raw talent level in {{t|Trap Mastery}}.
+Trap effectiveness depends on your Cunning and the level of {{t|Trap Mastery}} or {{t|Trap Priming}} controlling the trap.
 
 The trap will last for a duration of (5 + {{t|Trap Mastery}} Level) turns or until it is triggered.
 

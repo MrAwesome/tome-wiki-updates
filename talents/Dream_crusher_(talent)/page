@@ -1,4 +1,5 @@
 {{Ability box
+|game_version=1.7.6
 |image=Dream crusher.png
 |name=Dream Crusher
 |category_type={{ct|Psionic}}
@@ -8,6 +9,5 @@
 |cooldown=12
 |desc=
 Crush your enemy with your Dream Hammer, inflicting {{ctwd|100|150%}} weapon damage.  If the attack hits, the target is stunned for {{cts|3|7}} turns.
-
-Stun chance improves with your Mindpower.
+Stun chance improves with your Mindpower.  Learning this talent increases your Physical Power for Dream Hammer damage calculations by 30 and all damage with Dream Hammer attacks by {{gtl|1|5}}.
 }}

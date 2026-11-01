@@ -1,4 +1,5 @@
 {{Ability box
+|game_version=1.7.6
 |image=Tornado.png
 |name=Tornado
 |category_type={{ct|Wild-Gift}}
@@ -9,15 +10,10 @@
 |range={{cts|5|9}}
 |travel_speed=2
 |desc=
-Summons a tornado that moves slowly toward its target, following it if it changes position.
-
-Any foe caught in its path takes {{ctmd|10|110}} lightning damage.
-
-When it reaches its target, it explodes in a radius of 1 for {{ctmd|15|190}} lightning damage and {{ctmd|15|190}} physical damage. All affected creatures will be knocked back, and the targeted creature will be stunned for 4 turns.
-
-The tornado will last for {{cts|5|9}} turns, or until it reaches its target.
-
+Summon a tornado that moves very slowly towards the target, following it if it changes position.
+Each time it moves every foes within radius 2 takes {{ctmd|10|30}} lightning damage and is knocked back 2 spaces.
+When it reaches the target it explodes in a radius of {{cts|2|4}}, knocking back targets and dealing {{ctmd|10|150}} lightning and {{ctmd|10|150}} physical damage.
+The tornado will move a maximum of 20 times.
 Damage will increase with your Mindpower.
-
 Each point in storm drake talents also increases your lightning resistance by 1%.
 }}

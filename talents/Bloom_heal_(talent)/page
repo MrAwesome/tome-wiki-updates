@@ -7,6 +7,7 @@
 |cooldown=50
 |use_speed = 0
 |desc=
-Call upon the power of nature to regenerate your body for 7+0.5*Wil life every turn for 6 turns.
+Call upon the power of nature to regenerate your body for 7 plus half your Willpower in life every turn for 6 turns.
 
-The life healed will increase with the Willpower stat.}}
+The life healed will increase with the Willpower stat.
+}}

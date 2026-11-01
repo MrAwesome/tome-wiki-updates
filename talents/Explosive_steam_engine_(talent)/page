@@ -1,8 +1,8 @@
 {{Ability box
 |image=Explosive steam engine.png
 |name=Explosive Steam Engine
-|game_version=1.4.6
-|embers_version=1.0.3
+|game_version=1.7.6
+|embers_version=1.1.10
 |category_type={{ct|Steamtech}}
 |category={{c|Battle Machinery}}
 |require={{TalentReq/SteamReq1}}
@@ -13,9 +13,8 @@
 |use_speed=Global Speed
 |desc=
 Throw a small, unstable steam engine on the battlefield that will go critical after 2 turns.
-
 It will then create an explosion of hot vapour in radius {{cts|1|3|log}}, burning all foes for {{ctstmd|20|300}} fire damage.
-
 Any bleeding foe caught in the flames will take 40% more damage.
 Damage scales with your Steampower.
+#{italic}#Tick Tock Tick BOOM!#{normal}#
 }}

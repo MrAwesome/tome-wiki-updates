@@ -10,8 +10,7 @@
 |range = {{cts|3|7|0.5}}
 |cooldown = 12
 |use_speed = Spell
-|desc = 
-Fade into the darkness and reappear elsewhere within range %d.  When you emerge from the shadows, you are accompanied by a bright flash, dealing {{ctspd|28|200}} light damage to enemies in radius 1.
-
+|desc =
+Fade into the darkness and reappear elsewhere within range {{cts|3|7|0.5|0|1}}.  When you emerge from the shadows, you are accompanied by a bright flash, dealing {{ctspd|28|200}} light damage to enemies in radius 1.
 The damage will increase with your Spellpower.
 }}

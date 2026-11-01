@@ -8,7 +8,7 @@
 |cooldown=60
 |use_speed=Instant
 |desc=
-For {{CTL|60|5|11.1}} turns, you put all your will into your blows, adding {{CSS|Wil|4|40|0.75}} physical power to each strike.
+XXX CHECKME XXX For {{CTL|60|5|11.1}} turns, you put all your will into your blows, adding {{CSS|Wil|4|40|0.75}} + {{CSS|Cun|4|40|0.75}} physical power to each strike.
 
 The effect will improve with your Cunning and Willpower stats.
 }}

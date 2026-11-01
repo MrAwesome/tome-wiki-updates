@@ -1,4 +1,5 @@
 {{Ability box
+|game_version=1.7.6
 |image=Darkfire_2017.png
 |name=Darkfire
 |category_type={{ct|Corruption}}
@@ -9,7 +10,6 @@
 |range=6
 |travel_speed=4
 |desc=
-Conjures up a bolt of shadowflame that moves toward the target and explodes into a flash of darkness and fire that deals {{ctspd|28|220}} damage, split evenly between fire damage and darkness damage, in a radius of {{cts|2|6}}.
-
+Conjures up a bolt of shadowflame that moves toward the target and explodes into a flash of darkness and fire, doing {{ctspd|14|110}} fire damage and {{ctspd|14|110}} darkness damage in a radius of {{cts|2|6}}.
 The damage will increase with your Spellpower.
 }}

@@ -10,7 +10,7 @@
 |cost = 15 Steam
 |range = 0
 |use_speed = 0
-|desc = Enhance your vision for {{cts|5|9}} turns, giving you vision of all targets in range {{cts|10|25}}, even through walls. While the goggles are active you also spot flaws in your opponent's defenses, increasing your resistance penetration by {{ctl|100|15|50%}}.
+|desc = Enhance your vision for {{cts|5|9}} turns, giving you vision of all targets in range {{cts|10|25}}, even through walls. While the goggles are active you also spot flaws in your opponent's defenses, increasing your resistance penetration by {{ctl|100%|15|50%}}.
 
 In addition, the goggles passively increase your stealth, invisibility and trap detection by {{ctl|80|10|40}}.
 }}

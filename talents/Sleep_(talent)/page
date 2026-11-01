@@ -16,6 +16,6 @@ When Sleep ends, the target will suffer from Insomnia for a number of turns equa
 
 At talent level 5 Sleep will become contagious and has a 25%% chance to spread to nearby targets each turn.
 
-The damage threshold will scale with your Mindpower.
+The damage threshold scales with your Mindpower and is increased by Sandman, if known.
 |avail.escorts=[[Escorts#Temporal_Explorer_.28Arcane.29|Temporal Explorer (Arcane)]] ([[Escorts#Betraying_to_Zigur|Betray Escort to Zigur]]), +1 to talent or via revealing the locked {{c|Dreaming}} category
 }}

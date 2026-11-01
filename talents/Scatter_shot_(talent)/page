@@ -11,6 +11,5 @@
 |use_speed=Archery
 |desc=
 Fires a wave of projectiles in a radius {{cTL|10|5.5|7.5}} cone, dealing {{cTWD|70|150%}} weapon damage. All targets struck by this will be knocked back to the maximum range of the cone and stunned for {{cTL|10|3|5}} turns.<br>
-Each target struck has a 20% chance to be marked.<br>
-The chance to knockback and stun increases with your Accuracy.
+Each target struck has a base 20% chance to be marked. Trueshot and Aim can increase this chance when active.
 }}

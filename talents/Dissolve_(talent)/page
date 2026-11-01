@@ -1,4 +1,5 @@
 {{Ability box
+|game_version=1.7.6
 |image=Dissolve.png
 |name=Dissolve
 |category_type={{ct|Wild-Gift}}
@@ -9,8 +10,8 @@
 |range=1
 |desc=
 You strike the enemy with a rain of fast, acidic blows. You strike four times for pure acid damage. Every blow does {{ctwd|10|60%}} damage.
-
-Every two talent levels (2/4/6/8), one of your strikes becomes blinding acid instead of normal acid, blinding the target 25% of the time if it hits.
-
+Every two talent levels, one of your strikes becomes blinding acid instead of normal acid, blinding the target 25% of the time if it hits.
 Each point in acid drake talents also increases your acid resistance by 1%.
+
+This talent will also attack with your shield, if you have one equipped.
 }}

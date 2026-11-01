@@ -1,4 +1,5 @@
 {{Ability box
+|game_version=1.7.6
 |image=Shadow mages.png
 |name=Shadow Mages
 |category_type={{ct|Cursed}}
@@ -7,10 +8,7 @@
 |use_mode=Passive
 |desc=
 Infuse magic into your shadows to give them fearsome spells. Your shadows receive a bonus of {{cts|3|15|0.75}} to their Spellpower.
-
-Your shadows can strike adjacent foes with level (Raw Talent Level) Lightning. The chance to use Lightning is {{cl|√ Talent Level|100%|7|1|15.65%|2.23}}.
-
-At talent level 3 your shadows can sear their enemies with level (Raw Talent Level) Flames within range 6. The chance to use Flames, provided Lightning was not used first, is {{cl|√ Talent Level|100%|7|1|15.65%|2.23}}.
-
-At level 5, when your shadows are struck down they will attempt to Reform, becoming whole again (50% chance).
+Your shadows can strike adjacent foes with Lightning (level {{gtl|1|5|raw}}, {{gtl|1|5}} chance at range 1).
+At level 3 your shadows can sear their enemies from a distance with Flames (level {{gtl|1|5|raw}}, {{gtl|1|5}} chance at range 2 to 6).
+At level 5 when your shadows are struck down they will attempt to Reform, becoming whole again (50% chance).
 }}

@@ -1,4 +1,5 @@
 {{Ability box
+|game_version=1.7.6
 |image=Synaptic static.png
 |name=Synaptic Static
 |category_type={{ct|Psionic}}
@@ -8,7 +9,8 @@
 |cost=10 Psi
 |cooldown=10
 |desc=
-Sends out a blast of telepathic static in a (2 + Talent Level / 2) radius, inflicting {{ctmd|20|200}} mind damage.  This attack can brainlock affected targets.
+Sends out a blast of telepathic static in a {{cts|2|6}} radius, inflicting {{ctmd|10|250}} mind damage.  This attack can brainlock affected targets.
+The damage will increase with your Mindpower.
 
 ''Note: Synaptic Static will not damage your thought-forms.''
 }}

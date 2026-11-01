@@ -11,9 +11,10 @@
 |range = 7
 |travel_speed = {{cts|2|4|log}}
 |use_speed = Spell
-|desc = Fire an orb of negative energy towards a spot within range {{cts|4|7.5|0.5}}.
+|desc =
+Fire an orb of negative energy towards a spot within range {{cts|4|7.5|0.5}}.
 
 When the orb reaches its destination, it will teleport you to its location.
 
-The speed of the projectile increases with your movement speed.
+The speed of the projectile ({{cts|200|400%|log}}) increases with your movement speed.
 }}

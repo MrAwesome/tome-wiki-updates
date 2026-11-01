@@ -8,7 +8,7 @@
 |use_speed=0
 |cooldown={{ctl|5|45|25}}
 |desc=
-Summons your lust for blood and destruction; especially when the odds are against you.  
-You increase your damage by 10% + {{cSS|con|1%|6%}} per enemy you can see in line of sight of you (maximum 5 enemies, 10% + ({{cSS|con|1%|6%}} * 5) bonus) for 3 turns.
+Summons your lust for blood and destruction; especially when the odds are against you.
+You increase your damage by 10% + {{css|Con|1|6%}} per enemy you can see in line of sight of you (maximum 5 enemies, {{css|Con|55|80%}} bonus) for 3 turns.
 The damage bonus will increase with your Constitution.
 }}

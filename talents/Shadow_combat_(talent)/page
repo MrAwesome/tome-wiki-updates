@@ -1,4 +1,5 @@
 {{Ability_box
+|game_version=1.7.6
 |image=Shadow combat.png
 |name=Shadow Combat
 |category_type={{ct|Cunning}}
@@ -8,7 +9,6 @@
 |cost=20 Stamina
 |cooldown=5
 |desc=
-Channel raw magical energy into your melee attacks; each blow you land will do an additional (2 + {{ctspd|2|50}}) darkness damage and cost 2 mana.
-
+Channel raw magical energy into your melee attacks; each blow you land will do an additional {{ctspd|11|80}} darkness damage.
 The damage will improve with your Spellpower.
 }}

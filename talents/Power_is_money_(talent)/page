@@ -8,8 +8,6 @@
 |use_mode=Passive
 |desc=
 Money is the heart of the Dwarven Empire; it rules over all other considerations.
-
 Increases Physical, Mental and Spell Saves based on the amount of gold you possess.
-
-Every {{ctl|40|85|65}} gold grants +1 to all saves, up to a maximum of {{cts|8|50}}.
++1 save every {{ctl|40|85|60|false|1}} gold, up to +{{cts|8|50}}. (currently +{{ctl|40|85|60|false|1}})
 }}

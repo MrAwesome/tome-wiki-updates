@@ -10,5 +10,6 @@
 |cost=50 Psi
 |range=10
 |use_speed=0
-|desc=Entering the mind of your foe you manipulate it to make it loose hope of defeating you, reducing all its damage by 40% for {{CTL|15|3|8}} turns.
+|desc=
+Entering the mind of your foe you manipulate it to make it lose hope of defeating you, reducing all its damage by 40% for {{ctl|15|3|8}} turns.
 }}

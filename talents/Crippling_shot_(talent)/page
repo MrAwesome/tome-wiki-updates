@@ -1,5 +1,5 @@
 {{Ability_box
-|game_version=1.4.5
+|game_version=1.7.6
 |image=Crippling shot.png
 |name=Crippling shot
 |category_type={{ct|Technique}}
@@ -11,9 +11,8 @@
 |cooldown=10
 |use_speed=Archery Speed
 |desc=
-You fire a crippling shot, doing {{cTWD|100|150%}} damage and reducing your target's speed by 10-40% for 7 turns.
+You fire a crippling shot, doing {{ctwd|100|150%}} damage and reducing your target's speed by {{gtl|1|5}} for 7 turns.
 The status power and status hit chance improve with your Accuracy.
-The slow effect scales as (Accuracy * 0.15 * Talent Level)% within the given bounds.
 
 ''Note: Be careful of overinvesting in this talent as the slow effect is capped at 40%. This cap will be reached with accuracies of 267, 133, 89, 67, 53 for talent levels 1 through 5 respectively.''
 }}

@@ -10,7 +10,7 @@
 |cost = 40 Steam
 |range = 0
 |use_speed = Steamtech
-|desc = Project a radius 3 electric field from your shield lasting 4 turns. Enemies within this field will take an automatic shield strike for {{ctwd|20|60%}} {{lightning}} damage each turn, while allies will gain flat damage reduction equal to {{ctl|100|15|50%}} of block value.
-
+|desc =
+Project a radius 3 electric field from your shield lasting 4 turns. Enemies within this field will take an automatic shield strike for {{ctwd|20|60%}} {{lightning}} damage each turn, while allies will gain flat damage reduction equal to {{ctl|100%|15|50%}} (0) of block value.
 All damage reduced by this effect will be stored for Capacitor Discharge.
 }}

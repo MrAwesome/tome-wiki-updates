@@ -1,4 +1,5 @@
 {{Ability box
+|game_version=1.7.6
 |image=Hymn of shadows.png
 |name=Hymn of Shadows
 |category_type={{ct|Celestial}}
@@ -9,11 +10,8 @@
 |cooldown=12
 |use_speed=0
 |desc=
-Chant the glory of the Moon, empowering your dark elemental attacks so that they do {{ctspd|5|25%}} additional darkness damage.
-
-In addition, this talent surrounds you with a shield of shadows, dealing {{ctspd|10|50}} darkness damage to anything that attacks you.
-
+Chant the glory of the Moons, gaining the agility of shadows.
+This increases your movement speed by {{ctspd|20|50}} and your spell speed by {{ctspd|7|20}}.
 You may only have one Hymn active at once.
-
 The effects will increase with your Spellpower.
 }}

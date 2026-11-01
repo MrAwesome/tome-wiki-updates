@@ -1,4 +1,5 @@
 {{Ability box
+|game_version=1.7.6
 |image=Paradox clone.png
 |name=Paradox Clone
 |category_type={{ct|Chronomancy}}
@@ -8,9 +9,6 @@
 |cost=25 Paradox
 |range=2
 |desc=
-You summon your future self to fight alongside you for {{ctl|50|4|8|PM}} turns. At some point in the future between (3 * Duration) and (5 * Duration) turns after you activate this talent, you will be pulled into the past for (Duration - 2) turns to fight alongside your past self after the initial effect ends.
-
+You summon your future self to fight alongside you for {{ctl|50|4|8}} turns.  At some point in the future, you'll be pulled into the past to fight alongside your past self after the initial effect ends.
 This spell splits the timeline.  Attempting to use another spell that also splits the timeline while this effect is active will be unsuccessful.
-
-The duration will scale with your Paradox.
 }}

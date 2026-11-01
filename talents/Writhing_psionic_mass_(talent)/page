@@ -10,7 +10,10 @@
 |cooldown=18
 |travel_speed=Instantaneous
 |use_speed=Instant
-|desc=Your physical form is but a mere extension of your mind, you can bend it at will for {{cts|3|5}} turns.<br />While under the effect you gain {{cts|12|40}}% all resistances and have {{cts|12|30}}% chance to ignore all critical hits.<br />On activation you also remove up to {{cts|1|2}} physical or mental effects.
+|desc=
+Your physical form is but a mere extension of your mind, you can bend it at will for {{cts|3|5}} turns.
+While under the effect you gain {{cts|12|40%}} all resistances and have {{cts|12|30%}} chance to ignore all critical hits.
+On activation you also remove up to {{cts|1|2}} physical or mental effects.
 |avail.classes=[[Possessor]]
 }}
 ===Notes===

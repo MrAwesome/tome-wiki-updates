@@ -8,9 +8,9 @@
 |cooldown=10
 |range=5
 |desc=
-Summon a Fire Drake to burn and crush your foes to death. Fire Drakes are behemoths that can burn your foes from afar with their fiery breath.
+XXX CHECKME XXX Summon a Fire Drake to burn and crush your foes to death. Fire Drakes are behemoths that can burn your foes from afar with their fiery breath.
 
-The Fire Drake will last for a duration of {{cs|(Talent Level)|2|0|7|5}}.
+The Fire Drake will last for a duration of {{cs|(Talent Level)|2|0|7|5}}, increased by {{t|Resilience}}.
 
 It will receive the following stats:
 *Strength: 15 + 2 * Mindpower * {{cts|0.2|1|0.75}}

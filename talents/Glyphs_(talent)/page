@@ -11,10 +11,10 @@
 |cooldown = 5
 |travel_speed = 
 |use_speed = Spell
-|desc = 
-When one of your spells goes critical, you bind glyphs in radius 1 centered on a random target in range 10 at the cost of 5 positive and 5 negative energy.
+|desc =
+XXX CHECKME XXX When one of your spells goes critical, you bind glyphs in radius 1 centered on a random target in range 10 at the cost of 5 positive and 5 negative energy.
 
-Glyphs last for {{ctl|6|2|5}} turns and cause various effects when an enemy enters their grid.
+Glyphs last for {{ctl|6|2|5}} turns, plus the duration granted by {{t|Glyphs of Fury}} if you know it, and cause various effects when an enemy enters their grid.
 
 Glyphs will only spawn on enemies that aren't adjacent to an existing glyph.
 

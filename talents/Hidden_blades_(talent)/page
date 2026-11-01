@@ -1,16 +1,14 @@
 {{Ability_box
 |image=hidden_blades.png
 |name=Hidden Blades
-|game_version=1.5.2
+|game_version=1.7.6
 |category_type=[[Cunning (category type)|Cunning]]
 |category=[[Tools (category)|Tools]]
 |require={{t|Rogue's Tools}}, {{t|Cunning Tools}}, or {{t|Intricate Tools}}
 |use_mode=Passive
 |cooldown=4
 |desc=
-You conceal spring loaded blades within your equipment. 
-On scoring a critical strike against an adjacent target, you follow up with your blades for {{cTWD|100|180%}} damage (as an unarmed attack).
-
+You conceal spring loaded blades within your equipment. On scoring a critical strike, you follow up with your blades for {{ctwd|100|180%}} damage (as an unarmed attack).
 This talent has a cooldown.
-
+#YELLOW#Prepared with: not prepared#LAST#
 }}

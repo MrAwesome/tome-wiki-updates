@@ -1,18 +1,1 @@
-{{Ability box
-|game_version=1.4.6
-|ashes_version=1.0.5
-|image=Suffuse life.png
-|name=Suffuse Life
-|category_type={{ct|Corruption}}
-|category={{c|Demonic pact}}
-|require={{TalentReq/CorrsReq4}}
-|use_mode=Passive
-|desc=
-You drain life of your foes to replenish your and those of your demon seeds.
-
-Each time you kill a creature a random worn demon seed with less than 100% life will be healed for {{cts|2|10%}} life.
-
-If the creature is an elite or more, you also have a {{cts|10|30%}} chance to resurrect a dead demon seed.
-
-At level 5, you also start to leech energies to heal yourself, all damage you do heals you for {{cts|3|8%}}
-}}
+DELETE

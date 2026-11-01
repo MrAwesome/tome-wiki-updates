@@ -1,4 +1,5 @@
 {{Ability_box
+|game_version=1.7.6
 |image=Pyrokinesis.png
 |name=Pyrokinesis
 |category_type=[[Psionic (category type)|Psionic]]
@@ -8,5 +9,5 @@
 |cost=20 Psi
 |cooldown=15
 |desc=
-Telekinetically energize the matter of all foes within {{cts|4|6}} squares at the molecular level, setting them ablaze. This does {{ctmd|20|450}} fire damage over 6 turns.
+Telekinetically energize the matter of all foes within {{cts|4|6}} squares at the molecular level, setting them ablaze. This does {{ctmd|20|450}} fire damage over six turns.
 }}

@@ -1,24 +1,11 @@
 {{Ability_box
 |image=Shield expertise.png
 |name=Shield Expertise
-|game_version=1.7.4
+|game_version=1.7.6
 |category_type={{ct|Technique}}
 |category={{c|Shield Defense}}
 |require={{TalentReq/TechsReq3}}
 |use_mode=Passive
 |desc=
-Improves your damage with shield-based skills, and increases your Spell Save by {{CTS|3|10|0.75}} and Physical Save by {{CTS|5|20|0.75}}.
-
-The way that this talent increases your damage is by adding half of this talent's level to the level of many talents that specifically attack with a shield, when using combatTalentWeaponDamage (cTWD), for the purpose of all shield damage calculations. e.g. {{t|Shield Pummel}} at level 1 with level 4 Shield Expertise does equal damage to Shield Pummel at level 3 without Shield Expertise.
-
-Affects the following talents:
-* {{c|Shield Offense}} talents: {{t|Shield Pummel}}, {{t|Shield Slam}}, {{t|Assault}}
-* {{c|Shield Defense}} talents: {{t|Repulsion}}
-* {{c|Guardian}} talents: {{t|Shield of Light}}, {{t|Brandish}}, {{t|Crusade}}
-* {{ct|Technique}}/{{c|Other}} talents: {{t|Overpower}}
-* {{c|Demonic Pact}} talents: {{t|Demon Seed}}
-* {{c|Doom Shield}} talents: {{t|Demonic Madness}}
-* {{c|Infernal Combat}} talents: {{t|Demon Horns}}
-
-Does not affect every talent that attacks with a shield. Talents not listed here are unaffected.
+Improves your damage with shield-based skills, and increases your Spell (+{{cts|3|10|0.75}}) and Physical (+{{cts|5|20|0.75}}) Saves.
 }}

@@ -1,5 +1,5 @@
 {{Ability_box
-|game_version=1.4.5
+|game_version=1.7.6
 |image=Hurricane throw.png
 |name=Hurricane throw
 |category_type={{ct|Technique}}
@@ -9,5 +9,7 @@
 |cost=20 Stamina
 |cooldown=8
 |desc=
-In a mighty show of strength you whirl your grappled victim around and throw them into the air causing {{CTWD|100|350%}} damage to them and any nearby enemies they collide with on landing.
+In a mighty show of strength you whirl your grappled victim around and throw them into the air causing {{ctwd|100|350%}} damage to them and enemies in radius 1 on landing.
+If at least 1 other enemy is hit the thrown enemy will be shaken by the impact losing a full turn.
+You can only throw enemies that could move normally.
 }}

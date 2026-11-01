@@ -1,5 +1,5 @@
 {{Ability_box
-|game_version=1.4.9
+|game_version=1.7.6
 |name=Water Bolt
 |category_type=[[NPC Only (category type)|NPC Only]]
 |category=-
@@ -7,6 +7,7 @@
 |range = 10
 |cost = 10 Mana
 |cooldown = 3
-|desc = Condenses ambient water on a target, inflicting X {{cold}} damage.
+|desc =
+Condenses ambient water on a target, inflicting {{gtl|1|5}} {{cold}} damage.
 The damage will increase with your Spellpower.
 }}

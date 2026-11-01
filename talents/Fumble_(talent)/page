@@ -1,18 +1,15 @@
 {{Ability_box
 |image=fumble.png
 |name=Fumble
-|game_version=1.7.4
+|game_version=1.7.6
 |category_type={{ct|Cunning}}
 |category={{c|Scoundrel}}
 |require={{TalentReq/CunsReq4}}
 |use_mode=Passive
 |desc=
-Your melee and ranged attacks leave your foes unable to focus on any complex actions, giving them a stacking 3% chance of failure the next time they try to use a talent (to a maximum of 3 * {{ctl|20%|5|15%}}).
-
+Your melee and ranged attacks leave your foes unable to focus on any complex actions, giving them a stacking 3% chance of failure the next time they try to use a talent (to a maximum of {{ctl|60%|15|45%}}).
 If any effect causes the target's turn to fail they fumble and injure themself, taking {{ctstd|Cun|25|400}} physical damage.
-
 If the turn loss was caused by this effect then Fumble is removed.
-
 The damage dealt increases with your Cunning.
 |avail.escorts=[[Escorts#Thief|Thief]], via revealing the locked {{c|Scoundrel}} category
 }}

@@ -1,16 +1,1 @@
-{{Ability box
-|image=Curse of the meek.png
-|name=Curse of the Meek
-|category_type={{ct|Spell}}
-|category={{c|Shades}}
-|require={{TalentReq/SpellsReqHigh2}}
-|cost=50 Mana
-|cooldown=30
-|range=10
-|desc=
-Reaches through the shadows into quieter places, summoning (Talent Level) harmless creatures.
-
-Those creatures are then cursed with a Curse of Hate, making all hostile foes try to kill them.
-
-If the summoned creatures are killed by hostile foes, you have 70% chance to gain a soul.
-}}
+DELETE

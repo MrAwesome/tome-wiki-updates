@@ -1,6 +1,7 @@
 This talent was part of the Chronomancy/Chronomancy talent tree, but was replaced with Contingency.
 
 {{Ability box
+|game_version=1.7.6
 |image=Moment of prescience.png
 |name=Moment of Prescience
 |category_type={{ct|Chronomancy}}
@@ -10,9 +11,7 @@ This talent was part of the Chronomancy/Chronomancy talent tree, but was replace
 |cooldown=18
 |use_speed=0
 |desc=
-You pull your awareness fully into the moment, increasing your stealth detection, see invisibility, defense and accuracy by {{cts|4|15}} for {{ctl|18|3|10.5}} turns.
-
+You pull your awareness fully into the moment, increasing your stealth detection, see invisibility, defense, and accuracy by {{cts|4|15}} for {{ctl|18|3|10}} turns.
 If you have {{t|Spin Fate}} active when you cast this spell, you'll gain a bonus to these values equal to 50% of your spin.
-
 This spell takes no time to cast.
 }}

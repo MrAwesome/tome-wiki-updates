@@ -1,5 +1,5 @@
 {{Ability_box
-|game_version=1.5.10
+|game_version=1.7.6
 |name=Call Lightning
 |category_type={{ct|Wild-Gift}}
 |category={{c|other}}
@@ -7,6 +7,6 @@
 |range=10
 |cost=4 Equilibrium
 |desc=
-Calls forth a powerful beam of lightning doing {{ctmd|20|350}}/3 to {{ctmd|20|350}} lightning damage.
+Calls forth a powerful beam of lightning doing {{ctmd|6.666666667|116.6666667}} to {{ctmd|20|350}} lightning damage ({{ctmd|13.33333333|233.3333333}} average).
 The damage will increase with your Mindpower.
 }}

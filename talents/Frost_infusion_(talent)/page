@@ -1,4 +1,5 @@
 {{Ability box
+|game_version=1.7.6
 |image=Frost infusion.png
 |name=Frost Infusion
 |category_type={{ct|Spell}}
@@ -9,8 +10,6 @@
 |cooldown=30
 |desc=
 When you throw your alchemist bombs, you infuse them with cold damage that can freeze your foes.
-
 In addition all cold damage you do is increased by {{cts|5|25%}}.
-
-Only one of {{t|Flame Infusion}}, {{t|Frost Infusion}} and {{t|Acid Infusion}} can be active.
+You cannot have more than one alchemist infusion sustain active at once.
 }}

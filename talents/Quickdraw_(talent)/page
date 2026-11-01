@@ -1,7 +1,7 @@
 {{Ability box
 |name=Quickdraw
 |image=quickdraw.png
-|game_version=1.5.2
+|game_version=1.7.6
 |category_type={{ct|Technique}}
 |category={{c|Throwing Knives}}
 |require={{TalentReq/TechsDexReq4}}
@@ -12,6 +12,6 @@
 |travel_speed=Instantaneous
 |use_speed=Weapon
 |desc=
-You can throw knives with lightning speed, increasing your attack speed with them by {{cTL|100%|10|35%}} and giving you a {{cTL|100%|8|25%}} chance when striking a target in melee to throw a knife at a random foe within 7 tiles for 100% damage.
+You can throw knives with lightning speed, increasing your attack speed with them by {{ctl|100%|15|35%}} and giving you a {{ctl|100%|10|25%}} chance when striking a target in melee to throw a knife at a random foe within 7 tiles for 100% damage.
 This bonus attack can only trigger once per turn, and does not trigger from throwing knife attacks.
 }}

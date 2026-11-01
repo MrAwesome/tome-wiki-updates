@@ -9,10 +9,9 @@
 |range = 10
 |cooldown = 20
 |use_speed = Instant
-|desc = 
+|desc =
 You create an orb attuned to thaumaturgy for {{cts|2|6}} turns.
-
-While it lasts, any beam spell you cast will be duplicated and also cast for free at the orb for 45–75% (100% - {{ctl|0|55|25}}%) of the normal damage.
+While it lasts, any beam spell you cast will be duplicated and also cast for free at the orb for {{ctl|100%|45|75%}} of the normal damage.
 }}
 
 [[Category:Talents]]

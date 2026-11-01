@@ -1,4 +1,6 @@
 {{Ability box
+|ashes_version=1.1.4
+|game_version=1.7.6
 |image=Hardened core.png
 |name=Hardened core
 |category_type={{ct|Corruption}}
@@ -6,7 +8,6 @@
 |require={{TalentReq/SpellsReq2}}
 |use_mode=Passive
 |desc=
-Taking example from Mal'Rok, the demon's homeworld, you harden yourself.
-
-Increases total armor by {{cts|10%|60%}} + 10 and spellpower by {{cts|20%|40%|0.75}} of your Strength
+Taking example from Mal'Rok, the demon's homeworld you harden yourself.
+Increases total armour by {{cts|99|129%}} + 10 and spellpower by {{cts|20|40|0.75}}.
 }}

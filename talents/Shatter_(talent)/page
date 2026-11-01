@@ -8,7 +8,7 @@
 |cooldown=15
 |range=10
 |desc=
-Shatter all frozen targets in your line of sight, doing {{ctspd|10|320}} cold damage.
+XXX CHECKME XXX Shatter all frozen targets in your line of sight, doing {{ctspd|10|320}} cold damage.
 
 Depending on the target's rank, there will also be an additional effect:
 
@@ -18,7 +18,7 @@ Depending on the target's rank, there will also be an additional effect:
 
 All affected foes will get the wet effect.
 
-At most, it will affect (2 + Talent Level) foes.
+The maximum number of affected foes is 2 plus your talent level, rounded up.
 
 The damage will increase with your Spellpower.
 }}

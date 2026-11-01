@@ -1,11 +1,11 @@
 {{Ability box
 |image=bullseye.png
 |name=Bullseye
-|game_version=1.5.2
+|game_version=1.7.6
 |category_type={{ct|Technique}}
 |category={{c|Archery Prowess}}
 |require={{TalentReq/TechsDexReq4}}
 |use_mode=Passive
 |desc=
-Each time you consume a mark, you gain {{cTL|25%|5|15%}} increased attack speed for 2 turns and the cooldown of {{cTL|4|1|2.5}} random technique(s) are reduced by {{cTL|5|1|3}} turn(s).
+Each time you consume a mark, you gain {{ctl|25%|5|15%}} increased attack speed for 2 turns and the cooldown of {{ctl|4|1|3}} random techniques are reduced by {{ctl|5|2|4}} turns.
 }}

@@ -1,4 +1,5 @@
 {{Ability box
+|game_version=1.7.6
 |image=Chant of light.png
 |name=Chant of Light
 |category_type={{ct|Celestial}}
@@ -10,7 +11,7 @@
 |cooldown=12
 |use_speed=0
 |desc=
-You chant the glory of the Sun, empowering your light and fire elemental attacks so that they do {{ctspd|20|50%}} additional damage.
+You chant the glory of the Sun, empowering your light and fire elemental attacks so that they do {{ctspd|20|50}} additional damage.
 
 In addition, this talent surrounds you with a shield of light, dealing {{ctspd|5|25}} light damage to anything that hits you in melee.
 

@@ -8,11 +8,11 @@
 |cost=20 Psi
 |cooldown=30
 |desc=
-For {{ctl|30|5|10}} turns your telekinesis transcends your normal limits, increasing your Physical damage by {{ctmd|10|30%}} and you Physical resistance penetration by {{cl|{{ctmd|10|20}}|100%|4.2|4.2|13.4%|13.4}}.
+XXX CHECKME XXX For 5 turns your telekinesis transcends your normal limits, increasing your Physical damage by {{ctmd|10|30%}} and your Physical resistance penetration by {{cl|{{ctmd|10|20}}|100%|4.2|4.2|13.4%|13.4}}.
 
 In addition:
 
-The cooldowns of {{t|Kinetic Shield}}, {{t|Kinetic Leech}}, {{t|Kinetic Aura}} and {{t|Mindlash}} are reset.
+The cooldowns of {{t|Kinetic Shield}}, {{t|Kinetic Leech}}, {{t|Kinetic Aura}}, {{t|Mindlash}}, and {{t|Kinetic Strike}} are reset.
 
 {{t|Kinetic Aura}} will either increase in radius to 2, or apply its damage bonus to all of your weapons, whichever is applicable.
 

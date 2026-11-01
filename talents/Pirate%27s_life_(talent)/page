@@ -1,12 +1,1 @@
-{{Ability_box
-|image=Displacement shield.png
-|name=Pirate's Life
-|category_type={{ct|Cunning}}
-|category={{c|Piracy}}
-|require={{TalentReq/CunsReq4}}
-|use_mode=Passive
-|desc=You apply your cunning to a very important topic - saving your skin! 
-You gain bonus health and defense that scale with your Cunning.
-
-You also have learned to use your cunning to reduce damage, and convert {{ctl|100%|5|25%}} of all damage you receive into stamina.
-}}
+DELETE

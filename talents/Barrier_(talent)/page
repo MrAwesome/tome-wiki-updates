@@ -9,7 +9,7 @@
 |cooldown=15
 |use_speed=1.7.4
 |desc=
-A protective shield forms around you that lasts for up to 10 turns and negates {{ctspd|30|370}} damage.
+A protective shield forms around you that lasts for up to 10 turns and negates {{ctspd|30|370}} damage. Your shield modifiers can also change its duration and absorption.
 
 The total damage the barrier can absorb will increase with your Spellpower.
 }}

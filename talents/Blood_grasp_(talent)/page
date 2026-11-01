@@ -1,7 +1,7 @@
 {{Ability box
 |image=Blood grasp.png
 |name=Blood Grasp
-|game_version=1.7.4
+|game_version=1.7.6
 |category_type={{ct|Corruption}}
 |category={{c|Blood}}
 |require={{TalentReq/CorrsReq2}}
@@ -12,8 +12,6 @@
 |use_speed=Spell
 |desc=
 Project a bolt of corrupted blood, doing {{ctspd|10|190}} blight damage and healing you for 20% the damage dealt.
-
 50% of the damage dealt will be gained as maximum life for 7 turns (before the healing).
-
-The damage will increase with your Spellpower
+The damage will increase with your Spellpower.
 }}

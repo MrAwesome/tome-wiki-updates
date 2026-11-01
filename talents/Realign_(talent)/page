@@ -1,5 +1,5 @@
 {{Ability_box
-|game_version=1.7.4
+|game_version=1.7.6
 |image=realign.png
 |name=Realign
 |category_type={{ct|Psionic}}
@@ -10,7 +10,6 @@
 |cooldown=15
 |use_speed=Mind
 |desc=
-Realign and readjust your body with the power of your mind, curing up to {{cts|1|3|log}} detrimental physical effects and healing you for (40 + {{ctmd|20|290}}) life.
-
+Realign and readjust your body with the power of your mind, curing up to {{cts|1|3|log}} detrimental physical effects and healing you for {{ctmd|60|330}} life.
 The life healed increases with your Mindpower.
 }}

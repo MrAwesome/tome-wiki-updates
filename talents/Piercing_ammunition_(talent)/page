@@ -9,7 +9,7 @@
 |cost=12 Stamina
 |cooldown=10
 |desc=
-Load piercing ammunition, causing attacks to reduce the target's armor and saves by {{cTL|30|5|25}} for 3 turns, and your physical penetration is increased by {{cTL|35%|10|25%}}.
-		
-The armor and save reduction will scale with your Physical Power.
+XXX CHECKME XXX Load piercing ammunition, causing attacks to reduce the target's armor and saves by {{cTL|30|5|25|raw}} for 3 turns, and your physical penetration is increased by {{cTL|35%|10|25%|raw}}.
+
+The armor and save reduction scale with Exotic Munitions talent level.
 }}

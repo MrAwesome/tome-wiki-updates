@@ -9,12 +9,12 @@
 |cost=-15 Positive
 |cooldown=15
 |desc=
-You wrap yourself in a cloak of sunlight that empowers your magic and protects you for 6 turns.
+XXX CHECKME XXX You wrap yourself in a cloak of sunlight that empowers your magic and protects you for 6 turns.
 
 While the cloak is active
-*Your spell casting speed is increased by {{ctspd|10|40%}} up to a of maximum 50%.
-*Your spell cooldown are reduced by {{cl|{{ctspd|5|450}}|50%|3|32|35%|350}}.
-*You cannot take more than {{ctl|30%|90|70%}} of your maximum life from a single blow.
+*Your spell casting speed is increased by {{ctspd|10|40%}} to a maximum of 50%.
+*Your spell cooldown are reduced by {{cl|{{ctspd|5|450}}|50%|6.5%|32|38%|350}}.
+*You cannot take more than {{ctl|30%|85|55%}} of your maximum life from a single blow.
 
 The effects will increase with your Spellpower.
 }}

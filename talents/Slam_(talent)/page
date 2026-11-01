@@ -8,7 +8,7 @@
 |cost=3 Hate
 |cooldown=6
 |desc=
-While rampaging, you slam up to (2 + 0.5 * Talent Level) adjacent opponents (maximum 5), stunning them for 2 turns and damaging them for between (0.5 * {{ctpd|10|140}}) and {{ctpd|10|140}} physical damage. Your first slam of at least two opponents increases the rampage duration by 1.
+XXX CHECKME XXX While rampaging, you slam up to 2 adjacent opponents at Talent Level 1, 3 at levels 2–3, 4 at levels 4–5, and 5 at level 6 or higher (maximum 5), stunning them for 2 turns and damaging them for between (0.5 * {{ctpd|10|140}}) and {{ctpd|10|140}} physical damage. Your first slam of at least two opponents increases the rampage duration by 1.
 
 Damage increases with your Physical Power.
 }}

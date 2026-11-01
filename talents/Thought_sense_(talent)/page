@@ -8,9 +8,9 @@
 |cost=20 Psi
 |cooldown=30
 |desc=
-Detect the mental activity of creatures for {{cts|6|12}} turns in a radius of {{cs|(0.1 * Wil * Talent Level)|10|0|15|50}}.
+XXX CHECKME XXX Detect the mental activity of creatures for {{cts|6|12}} turns in a radius that scales with your Willpower and talent level.
 
 This reveals their location and boosts your defense by {{ctmd|20|40}}.
 
-The duration, defense, and radius scale with your Mindpower.
+The duration scales with talent level, the defense with your Mindpower, and the radius with your Willpower and talent level.
 }}

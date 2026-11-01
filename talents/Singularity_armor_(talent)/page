@@ -9,6 +9,6 @@
 |cost = 20 Positive
 |cooldown = 10
 |use_speed = Spell
-|desc = 
-Create a gravity field around you that converts {{ctl|80|10|40}}% of all damage you deal into physical damage, slows incoming projectiles by {{ctl|80|10|50}}%, and causes your gravity damage to reduce the target's knockback resistance by half for two turns.
+|desc =
+Create a gravity field around you that converts {{ctl|80%|10|40%}} of all damage you deal into physical damage, slows incoming projectiles by {{ctl|80%|10|50%}}, and causes your gravity damage to reduce the target's knockback resistance by half for two turns.
 }}

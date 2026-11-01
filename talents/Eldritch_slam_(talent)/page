@@ -1,14 +1,16 @@
 {{Ability_box
 |image=Eldritch slam.png
 |name=Eldritch slam
-|game_version=1.5.5
+|game_version=1.7.6
 |category_type=[[Spell (category type)|Spell]]
 |category=[[Eldritch shield (category)|Eldritch shield]]
 |require={{TalentReq/SpellsReq4}}
 |use_mode=Activated
 |cost=30 Mana + 10 Equilibium
 |cooldown=20
-|desc=Slam your shield on the ground creating a shockwave.
-
-You perform a melee attack for {{ctwd|130|260%}} Arcane damage against everyone within radius {{CTS|2|6}}.
+|desc=
+Slam your shield on the ground creating a shockwave.
+You perform a melee attack for {{ctwd|130|260%}} arcane damage against everyone within radius {{cts|2|6}}.
+Any creature hit by the attack will be submitted to a Counterstrike effect for 3 turns, as if you had blocked against them.
+At level 5 your Block cooldown is reset.
 }}

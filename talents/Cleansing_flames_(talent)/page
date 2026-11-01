@@ -1,4 +1,5 @@
 {{Ability box
+|game_version=1.7.6
 |image=Cleansing flames_2017.png
 |name=Cleansing Flames
 |category_type={{ct|Spell}}
@@ -6,9 +7,9 @@
 |require={{TalentReq/SpellsReqHigh3}}
 |use_mode=Passive
 |desc=
-When your {{t|Burning Wake}} talent is active, your {{t|Inferno}} and {{t|Burning Wake}} effects have a (10 * Raw Talent Level)% chance, each turn, to remove a status effect (physical, magical, curse or hex) from the targets.
-
+When you stand in your {{t|Burning Wake}} or {{t|Inferno}} ground effect, you can self immolate to trigger Cleansing Flames for {{cts|6|15}} turns.
+While the effect lasts you will take {{ctspd|10|55}} fire damage per turn.
+Each turn there is a {{gtl|1|5|raw}} chance for any creature taking damage from Burning Wake, Inferno or Cleansing Flames to remove a status effect (physical or magical).
 If the target is hostile, it will remove a beneficial effect.
-
-If the target is friendly, it will remove a detrimental effect (but still burn).
+If the target is friendly, it will remove a detrimental effect.
 }}

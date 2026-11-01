@@ -1,4 +1,5 @@
 {{Ability box
+|game_version=1.7.6
 |image=Daunting_presence_2017.png
 |name=Daunting Presence
 |category_type={{ct|Technique}}
@@ -8,10 +9,8 @@
 |cost=20 Stamina
 |cooldown=8
 |desc=
-Enemies are intimidated by how composed you remain under fire.  When you take more then 5% of your maximum life in a single hit, all enemies in a radius of {{cts|0.25|2.3}} will be intimidated, reducing their Physical Power, Mindpower, and Spellpower by {{ctpd|5|36}} for 4 turns.
-
-If your health drops below {{ctl|1%|45|25%}} of your max life, you'll be unable to maintain your daunting presence, and the sustain will deactivate.  
-
-The power of the intimidation effect improves with your Physical power, and it's chance to affect your enemies improves with your Strength.
+Enemies are intimidated by your very presence.
+Enemies within radius 6 have their Physical Power, Mindpower, and Spellpower reduced by {{ctpd|5|36}}.
+The power of the intimidation effect improves with your Physical power
 |avail.escorts=[[Escorts#Warrior|Warrior]], via revealing the locked {{c|Conditioning}} category
 }}

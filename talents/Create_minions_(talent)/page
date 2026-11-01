@@ -1,16 +1,1 @@
-{{Ability box
-|image=Create minions.png
-|name=Create Minions
-|category_type={{ct|Spell}}
-|category={{c|Necrotic Minions}}
-|require={{TalentReq/SpellsReq1}}
-|cost=5 Mana
-|cooldown=14
-|range=0
-|desc=
-Fires powerful undead energies through your necrotic aura. For each recent death that happened inside your aura, you will raise an undead minion (up to {{cts|1|5|log}} minions). These minions will be raised within a cone that extends to the edge of your necrotic aura.
-
-The minions level is your level plus {{cs|(Talent Level)|-6|0.9|2|5}}.
-
-''Note: Learning this talent will automatically grant you the {{t|Necrotic Aura}} talent as well.''
-}}
+DELETE

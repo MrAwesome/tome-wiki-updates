@@ -9,7 +9,7 @@
 |range=10
 |use_speed=Instant
 |desc=
-Your body overflows with the power of the Fearscape, turning you into a powerful demon for {{cts|4|7}} turns. This increases your stamina regen and physical power by 8-12, and your disarm and stun immunity by 20-30%.
+XXX CHECKME XXX Your body overflows with the power of the Fearscape, turning you into a powerful demon for {{cts|4|7}} turns. This increases your stamina regen and physical power by 5 + {{ctspd|6|30}}, and your disarm and stun immunity by 2.5% per point of that power, up to 100%.
 
 The physical power, stamina regen, and status resistances increase with your spellpower.
 

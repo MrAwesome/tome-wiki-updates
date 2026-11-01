@@ -1,4 +1,6 @@
 {{Ability box
+|ashes_version=1.1.4
+|game_version=1.7.6
 |image=Flame leash.png
 |name=Flame Leash
 |category_type={{ct|Corruption}}
@@ -10,8 +12,6 @@
 |cooldown=8
 |desc=
 Tendrils of flame fire from your hands in a narrow cone. Any foes caught inside will be pulled in towards you and have its movement speed reduced by {{ctl|50%|20|40%}} for 4 turns.
-
-Each tendril will leave a trail of fire in its path dealing {{ctspd|5|700}} / 10 fire damage for 4 turns.
-
-The damage increases with Spellpower.
+Each tendril will leave a trail of fire in its path dealing {{ctspd|0.5|70}} fire damage for 4 turns.
+The damage increases with spellpower.
 }}

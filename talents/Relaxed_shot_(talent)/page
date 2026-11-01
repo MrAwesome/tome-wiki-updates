@@ -1,4 +1,5 @@
 {{Ability box
+|game_version=1.7.6
 |image=Relaxed shot.png
 |name=Relaxed Shot
 |category_type={{ct|Technique}}
@@ -9,6 +10,5 @@
 |cooldown=14
 |desc=
 You fire a shot without putting much strength into it, doing {{ctwd|50|110%}} damage.
-
-That brief moment of relief allows you to regain (12 + 8 * Talent Level) stamina.
+That brief moment of relief allows you to regain {{gtl|1|5}} stamina.
 }}

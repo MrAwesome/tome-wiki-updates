@@ -1,4 +1,6 @@
 {{Ability box
+|ashes_version=1.1.4
+|game_version=1.7.6
 |image=Only ashes left.png
 |name=Only Ashes Left
 |category_type={{ct|Corruption}}
@@ -6,11 +8,8 @@
 |require={{TalentReq/SpellsReq2}}
 |use_mode=Passive
 |desc=
-Bringing about the darkest days of the Spellblaze, you hasten the death of your foes.
-
-When you deal damage to creature in radius {{ctl|10|4|7}} or less around you and it dips below 33% life, you automatically unleash the fury of the Spellblaze. 
-
-Affected foes will start taking {{ctspd|10|350}} / 10 darkness damage each turn until it dies as long as it remains in radius {{ctl|10|4|7}} of you.
-
-The damage increases with Spellpower.
+Bringing about the darkest days of the Spellblaze you hasten the death of your foes.
+When you deal damage to a creature in radius {{ctl|10|4|7}} or less around you and it dips below 33% life you automatically unleash the fury of the Spellblaze.
+Affected foes will start taking {{ctspd|2|36}} darkness damage each turn until it dies as long as it remains in radius {{ctl|10|4|7}} of you.
+The damage increases with spellpower.
 }}

@@ -1,5 +1,5 @@
 {{Ability_box
-|game_version=1.6.7
+|game_version=1.7.6
 |name=Execution
 |image=Execution.png
 |category_type={{ct|Technique}}
@@ -12,6 +12,6 @@
 |use_speed=Weapon
 |desc=
 Takes advantage of a wounded foe to perform a killing strike. This attack is an automatic critical hit that does {{cts|1|2.5%|log}} extra weapon damage for each % of life the target is below maximum.
-(A victim with 30% remaining life (70% damaged) would take {{cts|170|275%|log}} weapon damage.)
+(A victim with 30% remaining life (70% damaged) would take {{cts|7070|7175%|log}} weapon damage.)
 If an enemy dies from this attack then two of your talent cooldowns are reduced by 2 turns and Execution's cooldown is reset.
 }}

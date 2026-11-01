@@ -1,6 +1,6 @@
 {{Ability box
 |name=Tumble
-|game_version=1.5.2
+|game_version=1.7.6
 |image=Skirmisher cunning roll.png
 |category_type={{ct|Technique}}
 |category={{c|Mobility}}
@@ -11,7 +11,6 @@
 |travel_speed=Instantaneous
 |use_speed=Instant
 |desc=
-In an extreme feat of agility, you move to a spot you can see within range, bounding around, over or through any enemies in the way.
-
-This talent cannot be used while wearing heavy armor, and leaves you exhausted. The exhaustion increases the cost of your activated Mobility talents by {{cTL|25|75|40}} (stacking) but fades over {{cTL|6|25|15}} turns.
+In an extreme feat of agility, you move to a spot you can see within range, bounding around, over, or through any enemies in the way.
+This talent cannot be used while wearing heavy armor, and leaves you exhausted.  The exhaustion increases the cost of your activated Mobility talents by {{ctl|25%|75|40%}} (stacking), but fades over {{ctl|6|25|15}} turns.
 }}

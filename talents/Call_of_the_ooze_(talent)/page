@@ -9,9 +9,9 @@
 |cooldown=20
 |use_speed=Mind
 |desc=
-Instantly call all of your bloated oozes to your aid.
+XXX CHECKME XXX Instantly call all of your bloated oozes to your aid.
 
-If you have less than the maximum number of oozes allowed by the {{t|Mitosis}} talent, up to {{cts|0.5|2.5}} will be created with {{ctl|100%|46|70%}} of the maximum life allowed by {{t|Mitosis}}.
+If you have less than the maximum number of oozes allowed by the {{t|Mitosis}} talent, up to 2 will be created, with the number depending on this talent's level and limited by your Mitosis and summoning limits.
 
 Each ooze created will form near a random foe in sight (no more than one ooze per target) and grab its attention.
 

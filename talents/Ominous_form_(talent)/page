@@ -1,7 +1,7 @@
 {{Ability_box
 |image=ominous_form.png
 |name=Ominous Form
-|game_version=1.7.2
+|game_version=1.7.6
 |category_type={{ct|Psionic}}
 |category={{c|Deep Horror}}
 |require={{TalentReq/PsiWilHigh4}}

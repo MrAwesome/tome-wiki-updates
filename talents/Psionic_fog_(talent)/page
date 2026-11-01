@@ -11,8 +11,8 @@
 |cost=30 Steam + 10 Psi
 |cooldown=10
 |use_speed=Mind
-|desc=Using the steam of your generators you shape it into a psionic fog that lasts {{CTS|3|7}}(round down) turns. Any foes caught inside will take {{CTMD|10|75}} {{mind}} damage per turn and be seared, reducing their {{fire}} resistance by {{CTS|10|30%}} and and mind save by {{CTS|10|30}}.
-
+|desc=
+Using the steam of your generators you shape it into a psionic fog that lasts {{cts|3|7}} turns. Any foes caught inside will take {{ctmd|10|75}} damage per turn and be seared, reducing their {{fire}} resistance by {{cts|10|30%}} and and {{mind}} save by {{cts|10|30}}.
 The damage will increase with your Mindpower.
 
 ''The in game description does not state that the damage type is {{mind}}.''

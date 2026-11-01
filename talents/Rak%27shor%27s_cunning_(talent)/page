@@ -1,4 +1,5 @@
 {{Ability box
+|embers_version=None
 |game_version=1.7.6
 |image=Rakshor cunning.png
 |name=Rak'Shor's Cunning
@@ -8,13 +9,9 @@
 |use_mode=Passive
 |desc=
 Set up some cunning contingency plans in case of death.
-
 If you die you will have the option to raise back from the dead once, by becoming a [[Ghoul|ghoul]] or a [[Skeleton|skeleton]] (you can choose which).
-
-When rising this way you will keep access to your racial tree and gain access to the ghoul or skeleton racial tree with 2 levels of each talent already learnt.
-
-As an undead, you will no longer be able to use infusions.
-
+When rising this way you will keep access to your racial tree and gain access to the ghoul or skeleton racial tree with 2 levels of each talents already learnt.
+As undead will not able to use infusions anymore.
 If you choose to become a skeleton, the [[Re-assemble (talent)|Re-assemble]] talent will consider that you already used your resurrection.
 }}
 ===Notes===

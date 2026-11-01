@@ -1,5 +1,7 @@
 
 {{Ability box
+|ashes_version=1.1.4
+|game_version=1.7.6
 |name=Fearfeast
 |category_type={{ct|Corruption}}
 |category={{c|Oppression}}
@@ -8,5 +10,5 @@
 |range=1
 |cooldown=20
 |desc=
-You consume the fear of enemies in a radius of 10, healing for 7-28 life and gaining {{cts|4.2|7.5}}% of a turn for each stack up to a max of 4.0 turns.
+You consume the fear of enemies in radius 10, healing for {{cts|5|25}} life and gaining {{cts|4|7%}} of a turn for each stack up to a max of 4 turns.
 }}

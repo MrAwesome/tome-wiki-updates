@@ -11,6 +11,6 @@
 |range=archery range
 |speed=Weapon Speed
 |desc=
-Attack the target with either your ranged or melee weapons for 120% weapon damage.  For the next 10 turns random targeting, such as from {{t|Blink Blade}} and {{t|Warden's Call}}, will focus on this target.
+XXX CHECKME XXX Attack the target with either your ranged or melee weapons for 120% weapon damage. For about 10 turns, modified by your Paradox and Extension Spellbinding if active, random targeting, such as from {{t|Blink Blade}} and {{t|Warden's Call}}, will focus on this target.
 Attacks against this target gain {{ctl|40%|10|30%}} critical chance and critical strike power while you take {{ctl|40%|10|30%}} less damage from all enemies whose rank is lower then that of your focus target.
 }}

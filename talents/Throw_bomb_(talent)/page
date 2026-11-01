@@ -8,9 +8,9 @@
 |cost=5 Mana
 |cooldown=4
 |desc=
-Imbue an alchemist gem with an explosive charge of mana and throw it.
+XXX CHECKME XXX Imbue an alchemist gem with an explosive charge of mana and throw it.
 
-The gem will explode for {{ctspd|15|150}} physical damage in a radius of 1, with effective spellpower equal to the average of your spellpower and the gem's spellpower (20/35/50/65/70 per tier).
+The gem will explode for {{ctspd|15|150}} damage in a radius of 1, with effective spellpower equal to the average of your spellpower and the gem's spellpower (20/35/50/65/70 per tier). Damage type depends on your active infusion (acid, lightning, cold, or fire; otherwise physical).
 
 Each kind of gem will also provide a specific effect.
 }}

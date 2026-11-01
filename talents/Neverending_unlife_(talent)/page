@@ -1,21 +1,16 @@
 {{Ability box
 |image=lichform.png
 |name=Neverending Unlife
-|game_version=1.7.4
+|game_version=1.7.6
 |category_type={{ct|Undead}}
 |category={{c|Lich}}
 |require={{TalentReq/UndeadsReqHigh1}}
 |use_mode=Passive
 |desc=
-A Lich's body is extremely hard to fully destroy. You only die with your life reaches negative {{ctl|150|20|100}}.
-
+A Lich's body is extremely hard to fully destroy. You only die with your life reaches -{{ctl|150|20|100}}.
 In addition even when destroyed your body regenerates to full life.
-
 The first time this happens, your transformation into a Lich is completed, granting you all the powers of Lichdom.
-
 Any further death will still regenerate you but you will need to consume the essence of a creature of unique/boss/elite boss or more rank within {{ctl|300|40|130}} turns to sustain yourself.
-
 If you have not killed one when the duration expires or if you are killed again in this duration, you die permanently.
-
 If this happens this power can never re-activate, even if you managed to resurrect by other means.
 }}

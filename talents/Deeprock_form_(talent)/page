@@ -9,9 +9,9 @@
 |cooldown=30
 |use_speed=Spell
 |desc=
-You call upon the very core of the world, harnessing its power to transform your body.
+XXX CHECKME XXX You call upon the very core of the world, harnessing its power to transform your body.
 
-For %d turns you become a Deeprock Elemental, gaining two size categories.
+For a duration that increases with Spellpower, up to 30 turns, you become a Deeprock Elemental, gaining two size categories.
 
 This increases your Physical damage by 5 + {{ctspd|10|250}}/10 and Physical damage penetration by {{ctl|100|6.6|13}}, and armour by {{cts|7.3|11.5|0.75}}.
 

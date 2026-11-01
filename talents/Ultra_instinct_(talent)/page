@@ -7,5 +7,6 @@
 |require={{TalentReq/RacialReq2}}
 |use_mode=Passive
 |desc=
-Without the distraction of "thoughts" or "self" your body reacts faster and better to aggressions. Increases global speed by {{cTL|40|5|25%}}.
+Without the distraction of #{bold}#thoughts#{normal}# or #{bold}#self#{normal}# your body reacts faster and better to aggressions.
+Increases global speed by {{ctl|40%|5|25%}}.
 }}

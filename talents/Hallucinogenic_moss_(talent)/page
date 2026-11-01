@@ -1,5 +1,5 @@
 {{Ability box
-|game_version=1.7.4
+|game_version=1.7.6
 |image=Hallucinogenic moss.png
 |name=Hallucinogenic Moss
 |category_type={{ct|Wild-Gift}}
@@ -10,15 +10,10 @@
 |range=0
 |use_speed=0
 |desc=
-Instantly grow a moss circle of radius {{cts|2.35|4.25}} at your feet.
-
+Instantly grow a moss circle of radius {{cts|2|4}} at your feet.
 Each turn the moss deals {{ctmd|6|40}} nature damage to each foe within its radius.
-
-This moss is coated with strange fluids and has a {{ctl|100%|25.5|47.5%}} chance to confuse (power {{ctl|50%|20|40%}}) foes passing through it for 2 turns.
-
-The moss lasts for {{ctl|16|4|10}} turns.
-
+This moss is coated with strange fluids and has a {{ctl|100%|26|48%}} chance to confuse (power {{ctl|50%|20|40%}}) foes passing through it for 2 turns.
+The moss lasts {{ctl|16|4|10}} turns.
 Moss talents are instant but place all other moss talents on cooldown for 3 turns.
-
 The damage will increase with your Mindpower.
 }}

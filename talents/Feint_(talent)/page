@@ -10,7 +10,7 @@
 |travel_speed=Instantaneous
 |use_speed=Weapon
 |desc=
-Make a cunning feint that tricks your target into swapping places with you. While moving, you take the opportunity to trip them, pinning and dazing them for 2 turns.
-Switching places distracts your foes and allows you to improve your defenses: For {{ctl|6|2|3.4}} turns, Dual Weapon Master yields one extra parry each turn and you are {{ctl|75|15|50%}} less likely to miss your parry opportunities.
+XXX CHECKME XXX Make a cunning feint that tricks your target into swapping places with you. While moving, you take the opportunity to trip them, pinning and dazing them for 2 turns.
+Switching places distracts your foes and allows you to improve your defenses: For 2–4 turns, Dual Weapon Mastery yields one extra parry each turn and you are {{CTL|75|20|50%}} less likely to miss your parry opportunities.
 The chance to pin and to daze increases with your Accuracy.
 }}

@@ -6,7 +6,7 @@
 |require={{TalentReq/PsiWilReq3}}
 |cost=20 Psi
 |desc=
-Activate to project your mind from your body for {{cts|6|14}} turns.  In this state you can see invisible and stealthed creatures with a detection power of {{ctmd|5|40}}, are invisible (at half your detection power), can move through walls, and do not need air to survive.
+XXX CHECKME XXX Activate to project your mind from your body for {{cts|6|14}} turns. In this state you can see invisible and stealthed creatures with a detection power equal to half (rounded up) of the Mindpower-scaled value represented by {{ctmd|5|40}}, are invisible (at half your detection power), can move through walls, and do not need air to survive.
 
 All damage you suffer is shared with your physical body, and while in this form you may only deal damage to 'ghosts' or through an active mind link (mind damage only in the second case.)
 

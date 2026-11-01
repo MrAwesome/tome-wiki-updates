@@ -8,7 +8,7 @@
 |range=3 + math.ceil((self.is_destroyer or 0)/4)
 |cooldown=18
 |desc=
-Swing your weapon with incredible force, striking all enemies in a radius (3 + math.ceil((self.is_destroyer or 0)/4)) semicircle, dealing {{ctwd|30|179%}} weapon damage to all targets.
-Starting from talent level 5, all targets hit will have their armour and saves reduced by {{CTS|10|20}}.
+XXX CHECKME XXX Swing your weapon with incredible force, striking all enemies in a radius 3 semicircle, increased by 1-2 while in Destroyer form, dealing {{ctwd|30|179%}} weapon damage to all targets.
+Starting from talent level 5, all targets hit will have their armour and saves reduced by {{cts|10|20}}.
 This attack can not miss.
 }}

@@ -1,14 +1,13 @@
 {{Ability_box
-|game_version = 1.7.4
+|game_version = 1.7.6
 |name = Permafrost
 |image = permafrost.png
 |category_type={{ct|Spell}}
 |category={{c|Rime Wraith}}
 |require = {{TalentReq/SpellsReqHigh4}}
 |use_mode = Passive
-|desc = 
+|desc =
 Hoarfrost now has additional effects:
-
-* if friendly: magical and physical saves increased by {{cts|10|30}}, at level 5 healing factor is also increased by 15%.
-* if hostile: magical and physical saves reduced by {{cts|10|30}}, at level 5 all talents cool down 15% slower.
+*if friendly: magical and physical saves increased by {{cts|10|30}}, at level 5 healing factor is also increased by 15%.
+*if hostile: magical and physical saves reduced by {{cts|10|30}}, at level 5 all talents cool down 15% slower.
 }}

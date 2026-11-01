@@ -6,9 +6,9 @@
 |require={{TalentReq/CursedWilReq4}}
 |use_mode=Passive
 |desc=
-Your gloom has become a sanctuary from the outside world. Damage from any attack that originates beyond the boundary of your gloom is reduced by (3.32 * √ Talent Level)%.
+XXX CHECKME XXX Your gloom has become a sanctuary from the outside world. Damage from any attack that originates beyond the boundary of your gloom is reduced by 11% at Talent Level 1, rising to 24% at Talent Level 5 and capped at 35%.
 
-Each point in Sanctuary increases the Mindpower of all {{t|Gloom}} effects.
+Each point in Gloom talents increases the Mindpower of all {{t|Gloom}} effects.
 
 The total mindpower bonus is {{cs|(Total Talent Levels in {{c|Gloom}} category)|1|1|20|20|0.75}}.
 }}

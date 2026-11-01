@@ -1,8 +1,8 @@
 {{Ability box
 |image=Awesome toss.png
 |name=Awesome toss
-|game_version=1.4.6
-|embers_version=1.0.3
+|game_version=1.7.6
+|embers_version=1.1.10
 |category_type={{ct|Steamtech}}
 |category={{c|Elusiveness}}
 |require={{TalentReq/SteamReq3}}
@@ -15,5 +15,5 @@ Each turn, they will fire twice at random targets in range, dealing {{ctwd|100|2
 
 While the guns are airborne, you are disarmed and cannot attack.
 
-The spectacle is so distracting that your foes have a hard time concentrating on you, increasing all of your resistances by {{CTL|35|5|20%}}.
+The spectacle is so distracting that your foes have a hard time concentrating on you, increasing all of your resistances by {{ctl|35%|5|20%}}.
 }}

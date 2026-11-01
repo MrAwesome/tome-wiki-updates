@@ -2,13 +2,12 @@
 |name=Void Blast 
 |image=Void blast.png
 |category_type=[[NPC Only (category type)|NPC Only]]
-|game_version=1.4.9
+|game_version=1.7.6
 |range= 10
 |cost= 3 Mana
 |cooldown= 2
 |travel_speed= 2
-|desc=<span>
-Fires a blast of void energies that slowly travel to their target, dealing X {{arcane}} damage on impact.
-<br/>The damage will increase with your Spellpower.
-</span>
+|desc=
+Fires a blast of void energies that slowly travel to their target, dealing {{ctspd|15|240}} {{arcane}} damage on impact.
+The damage will increase with your Spellpower.
 }}

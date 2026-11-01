@@ -9,7 +9,7 @@
 |cooldown = 9
 |range = Steamgun range
 |use_mode = Passive
-|desc = You mount a grenade launcher on your steamgun that launches high explosive rounds. Each time you make a basic attack with your steamgun or a heavy weapon, you fire a grenade at the target that explodes for {{ctwd|60|160%}} steamgun damage in radius {{cts|1|2.6}}.
+|desc = You mount a grenade launcher on your steamgun that launches high explosive rounds. Each time you make a basic attack with your steamgun or a heavy weapon, you fire a grenade at the target that explodes for {{ctwd|60|160%}} steamgun damage in radius {{cts|1|2}}.
 
 This talent also reinforces the armor of you and your minions to give you immunity to your own grenades.
 

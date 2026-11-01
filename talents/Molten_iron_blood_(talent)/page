@@ -13,7 +13,7 @@
 |use_speed=Steamtech
 |desc=Using psionic energies you temporarily alter your blood, turning it into molten iron.
 
-When affected by molten blood all creatures that hit you in melee take {{ctstmd|2|50}} {{fire}} damage, all your resistances are increased by {{CTL|40|5|20%}} and all new detrimental effects on you have their duration reduced by {{CTL|40|5|25%}}.
+When affected by molten blood all creatures that hit you in melee take {{ctstmd|2|50}} {{fire}} damage, all your resistances are increased by {{ctl|40%|5|20%}} and all new detrimental effects on you have their duration reduced by {{ctl|40%|5|25%}}.
 
 Damage increases with your Steampower.
 }}

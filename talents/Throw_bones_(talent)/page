@@ -6,7 +6,9 @@
 |category=Other
 |range=10
 |cooldown=6
-|desc=<span>
-Throws a pack of bones at your target doing {{physical}} damage as bleeding.
+|desc=
+XXX CHECKME XXX <span>
+Throws a pack of bones at your target doing {{physical}} damage as bleeding within radius 2.
 <br/>The damage will increase with the Strength stat: {{CS|(Str * Talent Level)|20|0|420|500}}
-</span>}}
+</span>
+}}

@@ -1,4 +1,5 @@
 {{Ability_box
+|game_version=1.7.6
 |image=Shock_hands_2017.png
 |name=Shock Hands
 |category_type={{ct|Spell}}
@@ -8,9 +9,7 @@
 |cooldown=10
 |cost=40 Mana
 |desc=
-Engulfs your hands (and weapons) in a sheath of lightning, dealing {{ctspd|3|20}} lightning damage with a chance to daze (25%) per melee attack and increasing all lightning damage dealt by {{ctspd|5|14%}}.
-
-Each hit will also regenerate (Talent Level / 3) mana.
-
+Engulfs your hands (and weapons) in a sheath of lightning, dealing {{ctspd|3|20}} lightning damage with a chance to daze (25%) per melee attack and increasing all lightning damage dealt by {{ctspd|5|14}}.
+Each hit will also regenerate {{gtl|1|5}} mana.
 The effects will increase with your Spellpower.
 }}

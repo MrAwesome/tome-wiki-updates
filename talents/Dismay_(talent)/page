@@ -1,4 +1,5 @@
 {{Ability box
+|game_version=1.7.6
 |image=Dismay.png
 |name=Dismay
 |category_type={{ct|Cursed}}
@@ -6,11 +7,5 @@
 |require={{TalentReq/CursedWilReq3}}
 |use_mode=Passive
 |desc=
-Each turn, those caught in your gloom must save against your Mindpower or have a chance of becoming dismayed for 3 turns. When dismayed, the first melee attack against the foe will result in a critical hit.
-
-The chance to inflict dismay is {{cl|√ ( Talent Level )|100%|3.5|1|7.83%|2.23}}.
-
-Each point in Dismay increases the Mindpower of all {{t|Gloom}} effects.
-
-The total mindpower bonus is {{cs|(Total Talent Levels in {{c|Gloom}} category)|1|1|20|20|0.75}}.
+Each turn, those caught in your {{t|{{c|Gloom}}}} must save against your Mindpower or have an {{gtl|1|5}} chance of becoming dismayed for 3 turns. When dismayed, the first melee attack against the foe will result in a critical hit.
 }}

@@ -1,5 +1,5 @@
 {{Ability_box
-|game_version=1.7.4
+|game_version=1.7.6
 |image=Consume soul.png
 |name=Consume Soul
 |category_type={{ct|Spell}}
@@ -11,9 +11,7 @@
 |cost=1 Soul
 |cooldown=15
 |desc=
-Consume a soul whole to rebuild your body, healing you for (20 + {{ctspd|40|450}}) and generating (10 + {{ctspd|40|180}}) mana.
-
+Consume a soul whole to rebuild your body, healing you for {{ctspd|60|470}} and generating {{ctspd|50|190}} mana.
 If used below 1 life the surge increases your spellpower by {{cts|15|50}} for 10 turns.
-
 The heal and mana increases with your Spellpower.
 }}

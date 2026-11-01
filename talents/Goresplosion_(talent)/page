@@ -1,8 +1,8 @@
 {{Ability box
 |image=Goresplosion.png
 |name=Goresplosion
-|game_version=1.4.6
-|embers_version=1.0.3
+|game_version=1.7.6
+|embers_version=1.1.10
 |category_type={{ct|Steamtech}}
 |category={{c|Sawmaiming}}
 |require={{TalentReq/SteamReq4}}
@@ -12,5 +12,6 @@
 |use_mode=Sustained
 |desc=
 When you kill a foe you place small explosives with shrapnels inside its body, making it explode in radius 5.
-Any foes hit will bleed for ({{ctstmd|20|150}}/6) damage per turn for 6 turns. The shrapnels also damage the vocal cords (or related organ), silencing them for {{ctl|6|1|4}} turns.		
+Any foes hit will bleed for {{ctstmd|3.333333333|25}} damage per turn for 6 turns. The shrapnels also damage the vocal cords (or related organ), silencing them for {{ctl|6|1|4}} turns.
+#{italic}#Use the finest of wartech now: shrapnels. For blood and mayhem!#{normal}#
 }}

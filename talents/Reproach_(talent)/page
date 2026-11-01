@@ -1,4 +1,5 @@
 {{Ability box
+|game_version=1.7.6
 |image=Reproach.png
 |name=Reproach
 |category_type={{ct|Cursed}}
@@ -8,7 +9,7 @@
 |cost=5 Hate
 |cooldown=5
 |desc=
-You unleash your hateful mind on any who dare approach you, inflicting {{ctmd|0|280}} mind damage. The attack will hit all targets within range, but the damage will be multiplied by 80% for each additional target beyond the first (e.g. with three targets in range, each target will only take 64% damage).
+Utter a terrible curse against any who dare approach you, inflicting {{ctmd|0|320}} mind damage to targets in radius 3. Each affected target (ordered at random) takes {{ctl|-94%|-69|-84%}} less damage than the last, and has a 25% chance of suffering Brainlock.
 
-There is a 25% chance of inflicting cross tier effects. The damage increases with your Mindpower.
+The damage increases with your Mindpower.
 }}

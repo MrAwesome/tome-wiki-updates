@@ -6,5 +6,5 @@
 |require={{TalentReq/TechsWilReq3}}
 |use_mode=Passive
 |desc=
-When the going gets tough, you get tougher. You gain {{cts|0.3|1.5|0.75}} Stamina regen per enemy in sight, and beginning with the third talent point, you also gain {{cts|1|5|0.75}} life regen per enemy. The bonuses cap at 4 enemies.
+When the going gets tough, you get tougher. You gain {{cts|0.3|1.5|0.75}} Stamina regen per enemy in sight, and beginning with the third talent point, you also gain {{cts|1|5|0.75}} life regen per enemy. The bonuses cap at 4 enemies. If you know The Eternal Warrior, both regeneration amounts are multiplied by that talent's multiplier.
 }}

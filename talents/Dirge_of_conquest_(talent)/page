@@ -9,8 +9,6 @@
 |use_speed = Instant
 |desc =
 Sing a song of violence and victory (mostly violence) and sustain yourself through cruelty.
-
 Each time you deal a critical strike you gain 10% of a turn (only once per turn).
-
-Each time you kill a creature you gain {{ctl|100|33|67}}% of a turn (only once per turn).
+Each time you kill a creature you gain {{ctl|100%|33|67%}} of a turn (only once per turn).
 }}

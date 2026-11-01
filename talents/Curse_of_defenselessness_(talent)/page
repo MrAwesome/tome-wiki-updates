@@ -1,7 +1,7 @@
 {{Ability box
 |image=Curse of defenselessness.png
 |name=Curse of Defenselessness
-|game_version=1.7.4
+|game_version=1.7.6
 |category_type={{ct|Corruption}}
 |category={{c|Curses}}
 |require={{TalentReq/CorrsReq1}}

@@ -10,5 +10,6 @@
 |cost=-20 Insanity
 |range=7
 |desc=
-You target a single creature with all your hatred and insanity, augmenting its despair, increasing the duration of detrimental effects by {{cts|1|5}} turns and dealing {{ctspd|15|120}} or {{ctmd|15|120}} blight damage per detrimental effect (each effect deals 75%% of the previous one).
-The damage will scale with the highest of your spell or mind power.}}
+You target a single creature with all your hatred and insanity, augmenting its despair, increasing the duration of detrimental effects by {{cts|1|5}} turns and dealing {{ctspd|15|120}} or {{ctmd|15|120}} blight damage per detrimental effect (each effect deals 75% of the previous one).
+The damage will scale with the highest of your spell or mind power.
+}}

@@ -10,7 +10,6 @@
 |cost=12 Paradox
 |desc=
 Attack the target with either your ranged or melee weapons for {{ctwd|100|150%}} damage.
-If the attack hits you'll breach the target's immunities, reducing armor hardiness, stun, pin, blindness, and confusion immunity by 50% for {{cts|3|7}} turns.
+If the attack hits you'll breach the target's immunities, reducing armor hardiness, stun, pin, blindness, and confusion immunity by 50% for {{cts|3|7}} turns, modified by your current Paradox and by Extension when this talent is selected.
 Breach chance scales with your Spellpower.
-
 }}

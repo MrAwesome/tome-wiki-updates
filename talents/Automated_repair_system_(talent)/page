@@ -8,7 +8,7 @@
 |require = {{TalentReq/DexSteamReq4}}
 |cooldown = 40
 |use_mode = Passive
-|desc = On falling below 0 life, you engage an automated repair mode. While in this mode you cannot act, but can survive below -{{cts|50|650}} life, heal for {{cts|10|110}} life each turn and have all resistances increased by {{ctl|70|10|40%}}. This will last until you are destroyed or until you are fully healed.
+|desc = On falling below 0 life, you engage an automated repair mode. While in this mode you cannot act, but can survive below -{{cts|50|650}} life, heal for {{cts|10|110}} life each turn and have all resistances increased by {{ctl|70%|10|40%}}. This will last until you are destroyed or until you are fully healed.
 
 This effect has a cooldown.
 }}

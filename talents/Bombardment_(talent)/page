@@ -1,5 +1,5 @@
 {{Ability_box
-|game_version=1.4.6
+|game_version=1.7.6
 |name=Bombardment
 |image=Skirmisher bombardment.png
 |category_type={{ct|Technique}}
@@ -9,6 +9,5 @@
 |cooldown=10
 |use_speed=Instant
 |desc=
-While activated, your basic {{t|Shoot}} talent now fires 3 sling bullets, each dealing {{ctwd|10|60%}} Ranged damage, at a cost of 25 Stamina per attack.
-'''Note''': This means each use of {{t|Shoot}} will attempt to fire 3 bullets, at 25 Stamina ''per bullet'', for a total of 75 Stamina if all three fire.
+Your {{t|Shoot}} talent now costs 20 stamina but fires 3 times for {{ctwd|10|60%}} damage per shot.
 }}

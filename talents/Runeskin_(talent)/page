@@ -6,8 +6,8 @@
 |category={{c|Necrosis}}
 |require = {{TalentReq/SpellsReq3}}
 |use_mode = Passive
-|desc = 
+|desc =
 As you continue to attune your body to undeath you reject nature as a whole.
 
-As long as you have no natural infusion on your skin, each rune on it adjusts your minimum negative life by negative {{cts|8|30}} and your spells critical chance by {{cts|1|1.8%}}.
+As long as you have no natural infusion on your skin, each spell rune adjusts your minimum negative life by negative {{cts|8|30}} and your spells' critical chance by {{cts|1|1.8%}}.
 }}

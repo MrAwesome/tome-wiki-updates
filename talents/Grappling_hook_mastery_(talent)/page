@@ -7,6 +7,6 @@
 |require={{t|Master Artificer}} and {{t|Grappling Hook}}
 |use_mode=Passive
 |desc=
-Your grappling hook is tipped with vicious, venomous barbs. 
-Creatures struck by it will be hit for {{cTWD|100|190%}} unarmed damage, bleed for 30 + {{ctstd|Cun|15|200}} physical damage and be poisoned for 30 + {{ctstd|Cun|15|200}} nature damage over 4 turns.
+XXX CHECKME XXX Your grappling hook is tipped with vicious, venomous barbs.
+Creatures struck by it will be hit for {{cTWD|100|190%}} unarmed damage, bleed for 30 + {{ctstd|Cun|15|200}} physical damage and be poisoned for 30 + {{ctstd|Cun|15|200}} nature damage over 4 turns. These damage values scale with Master Artificer level and Cunning.
 }}

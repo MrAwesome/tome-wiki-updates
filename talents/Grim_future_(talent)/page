@@ -7,10 +7,12 @@
 |use_mode=Passive
 |cooldown=24-xx
 |desc=
-The future looks grim indeed... for your foes.
+XXX CHECKME XXX The future looks grim indeed... for your foes.
 
-When you kill a creature afflicted with Bleak Outcome, all creatures allied to it in radius {{ctl|8|2|7}} will be dazed for 2 turns.
+You can target a creature affected by Bleak Outcome to consume up to {{cts|3|9}} stacks, dealing {{ctspd|2|20}} darkness damage to it for every stack and increasing your Spellpower by 4 per stack for 6 turns.
 
-This effect will only trigger every {{ctl|6|25|15}} turns (after a successful daze has been applied).
+While powered-up you can not apply new Bleak Outcome stacks.
+
+Damage is based on your Spellpower.
 |avail.classes=[[Demonologist]]
 }}

@@ -1,5 +1,5 @@
 {{Ability_box
-|game_version=1.4.6
+|game_version=1.7.6
 |name=Meteor Rain
 |category_type=[[NPC Only (category type)|NPC Only]]
 |category=Spell
@@ -7,7 +7,7 @@
 |cooldown=30
 |cost=70 Mana
 |desc=
-Uses arcane forces to summon {{cts|3.3|4.8|log}} meteors that fall on the ground, smashing all around in a radius 2 for {{ctspd|15|250}} fire and {{ctspd|15|250}} physical damage.
-The hit zone will also turn into lava for 8 turns.
-The effects will increase with your Spellpower.
+Use arcane forces to summon {{cts|3|4|log}} meteors that fall to the ground within range 2 of the target.
+Each meteor smashes everything within radius 2, dealing {{ctspd|7.5|125}} fire and {{ctspd|7.5|125}} physical damage to creatures other than yourself, while liquefying some of the terrain into lava for 8 turns.
+The damage increases with your Spellpower.
 }}

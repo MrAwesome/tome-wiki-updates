@@ -1,15 +1,1 @@
-{{Ability box
-|image=Undeath link.png
-|name=Undeath Link
-|category_type={{ct|Spell}}
-|category={{c|Necrosis}}
-|require={{TalentReq/SpellsReq3}}
-|cost=30 Mana
-|cooldown=18
-|desc=
-Absorb a percentage of the maximum life of each of your necrotic minions (even into negative life, possibly destroying them). This will heal you for the greatest amount absorbed.
-
-The percentage absorbed is {{cl|{{ctspd|10|70}}|100%|20|0|66.7%|46.7}}.
-
-The healing will increase with your Spellpower.
-}}
+DELETE

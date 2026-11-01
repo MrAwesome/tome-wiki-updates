@@ -9,7 +9,7 @@
 |cooldown=50
 |use_speed=Activated
 |desc=
-You peer into three possible futures, allowing you to explore each for {{cts|4|16}} turns.  When the effect expires, you'll choose which of the three futures becomes your present.
+XXX CHECKME XXX You peer into three possible futures, allowing you to explore each for {{cts|4|16}} turns; duration is modified by paradox and by Extension when it applies to this talent.  When the effect expires, you'll choose which of the three futures becomes your present.
 If you know {{t|Foresight}} you'll gain additional defense and chance to shrug off critical hits (equal to your Foresight values) while See the Threads is active.
 
 This spell splits the timeline.  Attempting to use another spell that also splits the timeline while this effect is active will be unsuccessful.

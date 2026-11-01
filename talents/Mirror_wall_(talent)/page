@@ -10,5 +10,6 @@
 |cost = 20 Positive Energy
 |range = 6
 |use_speed = Spell
-|desc = Creates a wall 3 units long for {{cts|5|15}} turns, reflecting all projectiles that hit it and blocking sight.
+|desc =
+Creates a wall 4 units long for {{cts|5|15}} turns, reflecting all projectiles that hit it and blocking sight.
 }}

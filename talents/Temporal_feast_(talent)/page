@@ -3,12 +3,11 @@
 |image = Temporal_feast.png
 |category_type = {{ct|Demented}}
 |category = {{c|Chronophage}}
-|game_version = 1.7.4
+|game_version = 1.7.6
 |forbidden_version = 1.0.12
 |require = {{TalentReq/DementedReqHigh3}}
 |use_mode = Passive
-|desc = 
-You drink deeper from the timeline of others. Each time you apply {{t|atrophy}} you gain {{cts|0.7|1.75}}% spell speed per {{t|atrophy}} stack on the target and cause them to lose {{ctl|10|2.6|6.5}}% of a turn.
-
-The highest {{t|atrophy}} stack found will be used for the spell speed calculation.
+|desc =
+You drink deeper from the timeline of others. Each time you apply {{t|atrophy}} you gain {{cts|0.7|1.75%}} spell speed per atrophy stack on the target and cause them to lose {{ctl|10%|2|6%}} of a turn.
+The highest atrophy stack found will be used for the spell speed calculation.
 }}

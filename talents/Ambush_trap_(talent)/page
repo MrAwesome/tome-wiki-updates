@@ -7,6 +7,8 @@
 |cooldown= 25
 |cost=20 Stamina
 |range=Trap Range
-|desc= Lay a magical trap that summons a trio of shadowy rogues to attack the target.
+|desc=
+XXX CHECKME XXX Lay a magical trap that summons a trio of shadowy rogues to attack the target.
 The rogues receive your damage bonuses and are permanently stealthed.
-They disappear after %d turns or when their work is done.}}
+They disappear after 3–7 turns, depending on your Trap Mastery level, or when their work is done.
+}}

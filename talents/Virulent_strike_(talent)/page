@@ -1,7 +1,7 @@
 {{Ability box
 |image=Rend.png
 |name=Virulent Strike
-|game_version=1.7.4
+|game_version=1.7.6
 |category_type={{ct|Corruption}}
 |category={{c|Scourge}}
 |require={{TalentReq/CorrsReq1}}
@@ -11,5 +11,5 @@
 |travel_speed=instantaneous
 |use_speed=Weapon
 |desc=
-Strike the target with both weapons dealing {{ctwd|80|160%}} damage with each hit.  Each strike that hits will increase the duration of the lowest duration disease effect by {{ctl|4|1.5|3.5}}.
+Strike the target with both weapons dealing {{ctwd|80|160%}} damage with each hit.  Each strike that hits will increase the duration of the lowest duration disease effect by {{ctl|4|1|3}}.
 }}

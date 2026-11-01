@@ -1,13 +1,12 @@
 {{Ability_box
-|game_version = 1.7.4
+|game_version = 1.7.6
 |name = Bleak Guard
 |image = bleak guard.png
 |category_type={{ct|Spell}}
 |category={{c|Glacial Waste}}
 |require = {{TalentReq/SpellsReq4}}
 |use_mode = Passive
-|desc = 
+|desc =
 Your {{t|Hiemal Shield}} is stronger, taking {{ctl|50%|10|25%}} less damage from all attacks.
-
-When under 1 life this effect is multiplied by a factor of 1.33.
+When under 1 life this effect is increased to {{ctl|66.5%|13.3|33.25%}}.
 }}

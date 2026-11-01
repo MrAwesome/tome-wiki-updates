@@ -9,7 +9,6 @@
 |cost=20 Paradox
 |cooldown=6
 |desc=
-Inflicts {{ctspd|25|250|PM}} temporal damage.  If your target survives, it may be removed from time for 2+ {{cts|0.3|2.3}} turns.
-The damage will scale with your Spellpower.
-
+XXX CHECKME XXX Inflicts {{ctspd|25|250|PM}} temporal damage.  If your target survives, it may be removed from time for {{cts|3|5}} turns; actual duration also depends on your current Paradox and whether Extension is set to affect this talent.
+The damage will scale with your Spellpower, which is modified by your current Paradox.
 }}

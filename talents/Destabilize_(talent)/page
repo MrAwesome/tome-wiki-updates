@@ -1,4 +1,5 @@
 {{Ability box
+|game_version=1.7.6
 |image=Destabilize.png
 |name=Destabilize
 |category_type={{ct|Chronomancy}}
@@ -8,9 +9,7 @@
 |cooldown=10
 |range=10
 |desc=
-Destabilizes the target, inflicting {{ctspd|10|60|PM}} temporal damage per turn for 10 turns.  If the target dies while destabilized, it will explode, doing ({{ctspd|20|230|PM}} / 2) temporal damage and ({{ctspd|20|230|PM}} / 2) physical damage in a radius of 4.
-
+Destabilizes the target, inflicting {{ctspd|10|60|PM}} temporal damage per turn for 10 turns.  If the target dies while destabilized, it will explode, doing {{ctspd|10|115|PM}} temporal damage and {{ctspd|10|115|PM}} physical damage in a radius of 4.
 If the target dies while also under the effects of continuum destabilization, all explosion damage will be done as temporal damage.
-
-The damage will scale with your Paradox and Spellpower.
+The damage will scale with your Spellpower.
 }}

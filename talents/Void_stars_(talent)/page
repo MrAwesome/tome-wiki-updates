@@ -3,15 +3,14 @@
 |image = Void_stars.png
 |category_type = {{ct|Demented}}
 |category = {{c|Void}}
-|game_version = 1.7.4
+|game_version = 1.7.6
 |forbidden_version = 1.0.12
 |require = {{TalentReq/DementedReq1}}
 |use_mode = Sustained
 |cooldown = 10
 |use_speed = Spell
-|desc = Conjure void stars that orbit you, defending you from incoming attacks. Each time an attack deals more than 10% of your maximum life, a star will be consumed to reduce the damage taken by factor of {{ctl|0.75|0.15|0.45}}, of which 40% will be dealt to you as entropic backlash.
-
-You regenerate 1 star every {{cts|14|9}} turns (with a minimum of 5 turns), stacking up to 4 times. This does not happen on the [[worldmap]]. 
-
+|desc =
+Conjure void stars that orbit you, defending you from incoming attacks. Each time an attack deals more than 10% of your maximum life, a star will be consumed to reduce the damage taken by {{ctl|75%|15|45%}}, of which 40% will be dealt to you as entropic backlash.
+You regenerate 1 star every {{cts|14|9}} turns, stacking up to 4 times.
 This talent will only function in light armor.
 }}

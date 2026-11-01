@@ -10,9 +10,6 @@
 |use_speed=Instant
 |desc=
 Call upon the will of all of the Orc Prides to survive this battle.
-
-You remove up to {{cts|0.5|3|log|0A|3S}} detrimental effect(s) then heal for {{ctstd|Wil|100|500}} + 50 life.
-
-The healing will increase with your talent level and Willpower.
-
+You remove up to {{cts|1|3|log|0|3}} detrimental effect(s) then heal for {{ctstd|Wil|150|550}} life.
+The healing will increase with talent level and your Willpower.
 }}

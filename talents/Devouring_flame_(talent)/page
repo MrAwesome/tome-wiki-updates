@@ -1,5 +1,5 @@
 {{Ability box
-|game_version=1.4.3
+|game_version=1.7.6
 |image=Devouring flame.png
 |name=Devouring Flame
 |category_type={{ct|Wild-Gift}}
@@ -11,10 +11,7 @@
 |use_speed=Mind speed
 |desc=
 Spit a cloud of flames, doing {{ctmd|15|60}} fire damage in a radius of {{cts|2|5}} each turn for {{cts|5|9}} turns.
-
 The flames will ignore the caster, and will drain 10% of the damage dealt as the flames consume enemies life force and transfer it to the user.
-
-The damage will increase with your Willpower, and can critical.
-
+The damage will increase with your Mindpower, and can critical.
 Each point in fire drake talents also increases your fire resistance by 1%.
 }}

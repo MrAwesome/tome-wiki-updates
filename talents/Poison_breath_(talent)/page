@@ -8,7 +8,7 @@
 |cost = 10 Equilibrium
 |range = 5
 |use_speed = Mind
-|desc = Breathe poison on your foes, doing {{ctstd|Wil|30|460}} {{nature}} damage over a few turns.
-
+|desc =
+Breathe poison on your foes, doing {{ctstd|Wil|30|460}} damage over a few turns.
 The damage will increase with your Willpower.
 }}

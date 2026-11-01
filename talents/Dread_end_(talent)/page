@@ -1,4 +1,6 @@
 {{Ability box
+|ashes_version=1.1.4
+|game_version=1.7.6
 |image=Dread_end.png
 |name=Dread End
 |category_type={{ct|Corruption}}
@@ -7,16 +9,10 @@
 |use_mode=Passive
 |desc=
 You learn to use death around you to an even greater advantage.
-
-Each time you kill or deal damage above 10% of a creature's max life with non-darkness damage while Dark Reign is active, the death will create a pool of dark energies of radius 1 for 5 turns.
-
+Each time you kill or deal damage above 10% of a creatures max life with non-darkness damage while Dark Reign is active the death will create a pool of dark energies of radius 1 for 5 turns.
 This pool spawns on top of a random enemy within radius 8.
-
 Any foes standing inside will take {{ctspd|10|40}} darkness damage each turn.
-
 This effect can only happen once per turn.
-
-The damage increases with Spellpower.
-
-At talent level 3, your Dark Reign buff also protects you from death until reaching {{ctspd|15|60}} life per stack.
+The damage increases with spellpower.
+At talent level 3 your Dark Reign buff also protects you from death until reaching {{ctspd|15|60}} life per stack.
 }}

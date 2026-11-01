@@ -10,6 +10,6 @@
 |cost=36 Paradox
 |cooldown=10
 |desc=
-When you teleport you fire a pulse that jolts enemies out of phase in a radius of {{cts|1|2}} around both the start and the destination point. 
-Each target has a 2%+{{cts|2|10%}} chance per tile you traveled to be stunned, blinded, confused, or pinned for {{cts|2|4}} turns.
+When you teleport you fire a pulse that jolts enemies out of phase in a radius of {{cts|1|2}} around both the start and the destination point.
+Each target has a 2%+{{cts|2|10%}} chance per tile you traveled to be stunned, blinded, confused, or pinned for {{cts|2|4}} turns. The duration varies with your current Paradox and with Extension when this talent is selected.
 }}

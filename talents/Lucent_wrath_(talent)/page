@@ -10,5 +10,6 @@
 |cost = 15 Positive energy
 |range = 7
 |use_speed = Spell
-|desc = After {{ctl|0|4|2}} turns (min 1), the target area in (radius 2) is blasted with a beam of light, dealing {{ctspd|40|300}} damage and lighting the area.
+|desc =
+After {{ctl|0|4|2}} turns, the target area in (radius 2) is blasted with a beam of light, dealing {{ctspd|40|300}} damage and lighting the area
 }}

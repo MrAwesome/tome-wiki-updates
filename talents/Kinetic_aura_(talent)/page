@@ -10,7 +10,7 @@
 |desc=
 Fills the air around you with reactive currents of force.
 
-If you have a gem or mindstar in your psionically wielded slot, this will do {{ctmd|10|40}} Physical damage to all who approach. 
+If you have a gem or mindstar in your psionically wielded slot, this will do {{ctmd|10|40}} Physical damage to all who approach within radius 1 (radius 2 with Transcendent Telekinesis).
 
 All damage done by the aura will drain one point of energy per (9 + Talent Level) points of damage dealt.
 
@@ -20,5 +20,5 @@ When deactivated, if you have at least 6.67 energy, a massive spike of kinetic e
 
 Activating the aura takes no time but de-activating it does.
 
-To turn off an aura without spiking it, deactivate it and target yourself.  The damage will improve with your Mindpower.
+To turn off an aura without spiking it, deactivate it and target yourself. The damage will improve with your Mindpower.
 }}

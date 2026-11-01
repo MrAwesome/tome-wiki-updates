@@ -10,10 +10,8 @@
 |range = 10
 |cooldown = 20
 |use_speed = Mind
-|desc = 
-Dooms all enemies within a radius 2 ball for 20 turns. Each time an affected target uses a talent, it takes {{ctspd|5|100}} physical damage as its life is drawn out. In addition, any bleed applied to the target will have its power increased by {{cts|15|50}}%.
-
+|desc =
+Dooms all enemies within a radius 2 ball for 20 turns. Each time an affected target uses a talent, it takes {{ctspd|5|100}} physical damage as its life is drawn out. In addition, any bleed applied to the target will have its power increased by {{cts|15|50%}}.
 The damage will increase with your Spellpower.
-
 The chance to apply will increase with your Spellpower.
 }}

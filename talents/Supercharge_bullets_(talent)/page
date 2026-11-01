@@ -1,8 +1,8 @@
 {{Ability box
 |image=Supercharge bullets.png
 |name=Supercharge bullets
-|game_version=1.5.5
-|embers_version=1.0.4
+|game_version=1.7.6
+|embers_version=1.1.10
 |category_type={{ct|Steamtech}}
 |category={{c|Bullets mastery}}
 |require={{TalentReq/SteamReq2}}

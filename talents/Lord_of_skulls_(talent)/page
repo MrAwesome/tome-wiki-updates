@@ -1,5 +1,5 @@
 {{Ability box
-|game_version =  1.7.4
+|game_version =  1.7.6
 |image=lord_of_skulls.png
 |name=Lord of Skulls
 |category_type={{ct|Spell}}
@@ -11,15 +11,11 @@
 |use_speed = Spell
 |desc=
 Consume a soul to empower one of your skeleton, making it into a Lord of Skulls.
-
 The Lord of Skulls gains {{cts|30|80}} more life and is instantly healed to full.
-
 There can be only one active Lord of Skulls, casting this spell on another skeleton removes the effect from the current one.
-
 It also gains a new talent if high enough:
-
-* At level 2 Warriors learn {{t|Giant Leap}}, a powerful jump attack that deals damage and dazes on impact and frees the skeleton from any stun, daze and pin effects they may have
-* At level 3 Archers learn {{t|Vital Shot}}, a devastating attack that can stun and cripple their foes
-* At level 5 Mages learn {{t|Meteoric Crash}}, a destructive spell that crushes and burns foes in a big radius for multiple turns and stuns them
-* At level 6 Bone Giants learn {{t|You Shall Be My Weapon}}, a massive attack that deals high damage, knockbacks foes and stuns them
+At level 2 Warriors learn {{t|Giant Leap}}, a powerful jump attack that deals damage and dazes on impact and frees the skeleton from any stun, daze and pin effects they may have
+At level 3 Archers learn {{t|Vital Shot}}, a devastating attack that can stun and cripple their foes
+At level 5 Mages learn {{t|Meteoric Crash}}, a destructive spell that crushes and burns foes in a big radius for multiple turns and stuns them
+At level 6 Bone Giants learn {{t|You Shall Be My Weapon}}!, a massive attack that deals high damage, knockbacks foes and stuns them
 }}

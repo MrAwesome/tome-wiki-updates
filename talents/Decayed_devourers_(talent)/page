@@ -11,8 +11,8 @@
 |range=7
 |radius=2
 |desc=
-You use your bond with horrors to summon three decaying devourers for floor({{CTL|11|4|8}}) turns. ''(radius 2)'' <br>
+XXX CHECKME XXX You use your bond with horrors to summon three decaying devourers for floor({{CTL|11|4|8}}) turns. ''(radius 2)'' <br>
 The decaying horrors cannot move and will attack all hostile creatures around them. They possess the talents Bloodbath, Gnashing Teeth and Frenzied Bite.
-All its primary stats will be set to getMag() (based on your Magic stat), life rating increased by {{CTS|1|6}}, and all talent levels set to floor({{gtl|1|5}}).  Many other stats will scale with level.
+All its primary stats will be set to your Magic stat, life rating increased by {{CTS|1|6}}, and all talent levels set to floor({{gtl|1|5}}).  Many other stats will scale with level.
 Your increased damage, damage penetration, critical strike chance, and critical strike multiplier stats will all be inherited.
 }}

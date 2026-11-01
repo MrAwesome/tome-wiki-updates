@@ -1,5 +1,5 @@
 {{Ability box
-|game_version=1.4.5
+|game_version=1.7.6
 |image=Spin fate.png
 |name=Spin Fate
 |category_type={{ct|Chronomancy}}
@@ -8,5 +8,5 @@
 |use_mode=Passive
 |desc=
 Each time you would take damage from someone else you gain one Spin, increasing your defense and saves by {{cts|2|8|0.75}} for three turns.
-This effect may occur once per turn and stacks up to three Spin (for a maximum bonus of {{cts|2|8|0.75}}*3).
+This effect may occur once per turn and stacks up to three Spin (for a maximum bonus of {{cts|6|24|0.75}}).
 }}

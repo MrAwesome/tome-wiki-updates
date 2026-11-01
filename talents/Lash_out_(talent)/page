@@ -1,5 +1,5 @@
 {{Ability box
-|game_version=1.5.10
+|game_version=1.7.6
 |image=Lash_Out.png
 |name=Lash Out
 |category_type={{ct|Demented}}
@@ -9,11 +9,9 @@
 |cooldown=8
 |desc=
 Spin around, extending your weapon and damaging all targets around you for {{ctwd|140|210%}} weapon damage while your tentacle hand extends and hits all targets in radius 3 for {{ctwd|120|190%}} tentacle damage.
-				
-If the mainhand attack hits at least one enemy you gain 15 insanity.
 
+If the mainhand attack hits at least one enemy you gain 15 insanity.
 If the tentacle attack hits at least one enemy you gain 5 insanity.
-		
-When constricting: Your tentacle attack is centered around your constricted target (but not your weapon attack) and only in radius 1 but it also dazes anything hit for 5 turns.
-		
+
+#YELLOW_GREEN#When constricting:#WHITE# Your tentacle attack is centered around your constricted target (but not your weapon attack) and only in radius 1 but it also dazes anything hit for 5 turns.
 }}

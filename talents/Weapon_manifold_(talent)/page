@@ -8,15 +8,13 @@
 |use_mode=Passive
 |cooldown=8
 |desc=
-You now have a {{ctl|40%|10|30%}} chance to Fold Fate, Gravity, or Warp into your Weapon Folding damage.
-		
-Fold Fate: Deals (7 + * (Paradox-modified Spellpower * 9.2%) * {{cts|1|7}}) temporal damage to enemies in a radius of 1-2<sup>if talent level is 4 or better</sup>.  Affected targets may lose 30% physical and temporal resistance for (getExtensionModifier(self, t, 2)) turns.
+XXX CHECKME XXX You now have a {{ctl|40%|10|30%}} chance to Fold Fate, Gravity, or Warp into your Weapon Folding damage.
 
-Fold Warp: Deals (7 + (Paradox-modified Spellpower * 9.2%) * {{cts|1|7}})/2 physical and (7 +  (Paradox-modified Spellpower * 9.2%) * {{cts|1|7}})/2 temporal damage to enemies in a radius of 1-2<sup>if talent level is 4 or better</sup>.  Affected targets may be stunned, blinded, confused, or pinned for 2  turns.
+Fold Fate: Deals temporal damage equal to 7 plus Paradox-modified Spellpower at a 9.2% rate, multiplied by {{cts|1|7}}, to enemies in a radius of 1-2<sup>if talent level is 4 or better</sup>. Affected targets may lose 30% physical and temporal resistance for 2 turns, modified by your current Paradox and by Extension when this talent is selected.
 
-Fold Gravity: Deals (7 + (Paradox-modified Spellpower * 9.2%) * {{cts|1|7}}) physical damage to enemies in a radius of 1-2<sup>if talent level is 4 or better</sup>. Affected targets will be slowed (30%) for 2 turns.
-		
+Fold Warp: Deals half of the damage equal to 7 plus Paradox-modified Spellpower at a 9.2% rate, multiplied by {{cts|1|7}}, as physical damage and half as temporal damage to enemies in a radius of 1-2<sup>if talent level is 4 or better</sup>. Affected targets may be stunned, blinded, confused, or pinned for 2 turns, modified by your current Paradox and by Extension when this talent is selected.
+
+Fold Gravity: Deals physical damage equal to 7 plus Paradox-modified Spellpower at a 9.2% rate, multiplied by {{cts|1|7}}, to enemies in a radius of 1-2<sup>if talent level is 4 or better</sup>. Affected targets will be slowed (30%) for 2 turns.
+
 Each Fold has an eight turn cooldown.  If an effect would be triggered while on cooldown it will reduce the cooldown of the other two Folds by one turn.
-
-
 }}

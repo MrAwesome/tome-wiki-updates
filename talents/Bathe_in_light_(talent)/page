@@ -10,7 +10,7 @@
 |range=0
 |use_speed=Spell
 |desc=
-A magical zone of Sunlight appears around you, healing and shielding all within a radius of 2 for 0.75 * {{ctspd|4|80}} per turn and increasing healing effects on everyone within by Heal Amount / (Heal Amount + 50). The effect lasts for {{cts|4|7}} turns.
+A magical zone of Sunlight appears around you, healing and shielding all within a radius of 2 each turn. The healing and increase to healing effects scale with Spellpower and the amount healed; the effect lasts for {{cts|4|7}} turns.
 
 Existing damage shields will be added to instead of overwritten and have their duration set to 2 if it isn't higher.
 
