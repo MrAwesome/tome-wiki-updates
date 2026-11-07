@@ -10,6 +10,8 @@ closed.
 - `scripts/build_renderer_review_packet.py` — verifies source hashes and builds
   compact packets for unsupported cases.
 - `docs/renderer-subagent-review.md` — subagent review prompt and workflow.
+- `docs/deterministic-renderer-state.md` — current coverage snapshot and
+  source-backed deterministic expansion leads.
 - `talents/` — mapped wiki pages and source metadata.
 
 Run renderer tests with:
