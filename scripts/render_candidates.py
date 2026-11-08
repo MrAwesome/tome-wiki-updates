@@ -11,10 +11,24 @@ import argparse
 import difflib
 import hashlib
 import json
+import os
 import re
 import subprocess
 import sys
+import tempfile
+from datetime import datetime, timezone
 from pathlib import Path
+
+from review_workflow import (
+    ReviewRecordError,
+    identity_from_metadata,
+    initialize_review,
+    load_review,
+    merge_owned_fields,
+    review_path,
+    validate_review,
+    write_review,
+)
 
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -1063,6 +1077,310 @@ def build_candidate(directory: Path, tengine_root: Path, core_tag: str):
         return {**common, 'status': 'unsupported_info', 'error': str(error)}
 
 
+def build_skipped_candidate(directory: Path):
+    """Build a non-parsing record for a page with deterministic mode=skip."""
+    meta = json.loads((directory / 'metadata.json').read_text(encoding='utf-8'))
+    before = (directory / 'page').read_text(encoding='utf-8')
+    return {
+        'title': meta['wiki_title'], 'filename': meta['filename'],
+        'pageid': meta['pageid'], 'revid': meta['revid'],
+        'source_file': meta['source_file'],
+        'source_lines': [meta['source_start_line'], meta['source_end_line']],
+        'source_sha256': meta['source_sha256'], 'talent_id': meta['talent_id'],
+        'source_match_status': meta['source_match_status'],
+        'before_wikitext': before, 'after_wikitext': before,
+        'status': 'skipped_by_review',
+    }
+
+
+class WorkApplicationError(ValueError):
+    """Work application failed preflight; no work files were written."""
+
+
+def sha256(raw: bytes) -> str:
+    return hashlib.sha256(raw).hexdigest()
+
+
+def _safe_work_target(work_dir: Path, filename: str, leaf: str) -> Path:
+    target = review_path(work_dir, filename).with_name(leaf)
+    root = work_dir.resolve()
+    resolved = target.resolve(strict=False)
+    if not resolved.is_relative_to(root):
+        raise WorkApplicationError(f'work path escapes --work-dir: {target}')
+    if target.is_symlink():
+        raise WorkApplicationError(f'refusing symlink work target: {target}')
+    return target
+
+
+def _paths_overlap(left: Path, right: Path) -> bool:
+    return left == right or left.is_relative_to(right) or right.is_relative_to(left)
+
+
+def validate_work_dir(work_dir: Path) -> Path:
+    """Reject work roots whose talent tree could touch the baseline tree."""
+    work_talents = (Path(work_dir) / 'talents').resolve(strict=False)
+    baseline_talents = (ROOT / 'talents').resolve(strict=False)
+    if _paths_overlap(work_talents, baseline_talents):
+        raise WorkApplicationError(
+            f'--work-dir talents path overlaps baseline talents: {work_talents}'
+        )
+    return Path(work_dir)
+
+
+def _atomic_write(path: Path, raw: bytes) -> None:
+    path.parent.mkdir(parents=True, exist_ok=True)
+    temp_name = None
+    try:
+        with tempfile.NamedTemporaryFile(
+            mode='wb', dir=path.parent, prefix=f'.{path.name}.', suffix='.tmp', delete=False,
+        ) as stream:
+            temp_name = stream.name
+            stream.write(raw)
+            stream.flush()
+            os.fsync(stream.fileno())
+        os.replace(temp_name, path)
+    finally:
+        if temp_name is not None and os.path.exists(temp_name):
+            os.unlink(temp_name)
+
+
+def _utc_now() -> str:
+    return datetime.now(timezone.utc).replace(microsecond=0).isoformat().replace('+00:00', 'Z')
+
+
+def _normalized_newlines(value: str) -> str:
+    return value.replace('\r\n', '\n').replace('\r', '\n')
+
+
+def _jsonl_bytes(records: list[dict]) -> bytes:
+    return ''.join(json.dumps(record, ensure_ascii=False) + '\n' for record in records).encode('utf-8')
+
+
+def _prepare_jsonl_output(output: Path, records: list[dict], plans: list[dict], work_dir: Path) -> Path:
+    """Validate destination and stage complete JSONL before work-tree mutation."""
+    output = Path(output)
+    output_path = output.resolve(strict=False)
+    baseline_root = (ROOT / 'talents').resolve(strict=False)
+    work_talents_root = (Path(work_dir) / 'talents').resolve(strict=False)
+    protected_paths = {
+        path.resolve(strict=False)
+        for plan in plans
+        for path in (plan['page_target'], plan['review_target'])
+    }
+    protected_paths.update({baseline_root, work_talents_root})
+    if any(_paths_overlap(output_path, path) for path in protected_paths):
+        raise WorkApplicationError(f'JSONL output conflicts with protected page/review path: {output}')
+    if output.is_symlink():
+        raise WorkApplicationError(f'refusing symlink JSONL output: {output}')
+
+    output.parent.mkdir(parents=True, exist_ok=True)
+    if output.exists() and not output.is_file():
+        raise WorkApplicationError(f'JSONL output is not a regular file: {output}')
+
+    temp_name = None
+    try:
+        with tempfile.NamedTemporaryFile(
+            mode='wb', dir=output.parent, prefix=f'.{output.name}.', suffix='.tmp', delete=False,
+        ) as stream:
+            temp_name = stream.name
+            stream.write(_jsonl_bytes(records))
+            stream.flush()
+            os.fsync(stream.fileno())
+        return Path(temp_name)
+    except Exception:
+        if temp_name is not None and os.path.exists(temp_name):
+            os.unlink(temp_name)
+        raise
+
+
+def candidate_page_bytes(baseline_bytes: bytes, before_wikitext: str, after_wikitext: str) -> bytes:
+    """Apply rendered Ability_box while retaining exact baseline bytes outside it."""
+    baseline_text = baseline_bytes.decode('utf-8')
+    if _normalized_newlines(baseline_text) != _normalized_newlines(before_wikitext):
+        raise WorkApplicationError('candidate baseline text does not match baseline page')
+    before_start, before_end, before_box = extract_box(baseline_text)
+    after_start, after_end, after_box = extract_box(after_wikitext)
+    if (
+        _normalized_newlines(baseline_text[:before_start])
+        != _normalized_newlines(after_wikitext[:after_start])
+        or _normalized_newlines(baseline_text[before_end:])
+        != _normalized_newlines(after_wikitext[after_end:])
+    ):
+        raise WorkApplicationError('candidate changed text outside Ability_box')
+    if _normalized_newlines(before_box) == _normalized_newlines(after_box):
+        return baseline_bytes
+    start_byte = len(baseline_text[:before_start].encode('utf-8'))
+    end_byte = len(baseline_text[:before_end].encode('utf-8'))
+    return baseline_bytes[:start_byte] + after_box.encode('utf-8') + baseline_bytes[end_byte:]
+
+
+def _review_skip(work_dir: Path, metadata: dict) -> bool:
+    path = _safe_work_target(work_dir, metadata['filename'], 'review.json')
+    if not path.exists():
+        return False
+    review = load_review(path, metadata)
+    return review['automation']['deterministic']['mode'] == 'skip'
+
+
+def render_directory(directory: Path, tengine_root: Path, core_tag: str, *, work_dir=None):
+    """Render one baseline directory, bypassing source parsing for human skip."""
+    if work_dir is not None:
+        metadata = json.loads((directory / 'metadata.json').read_text(encoding='utf-8'))
+        if _review_skip(Path(work_dir), metadata):
+            return build_skipped_candidate(directory)
+    return build_candidate(directory, tengine_root, core_tag)
+
+
+def plan_work_application(records: list[dict], work_dir: Path) -> list[dict]:
+    """Validate all records/targets and prepare write operations without mutation."""
+    work_dir = validate_work_dir(Path(work_dir))
+    plans = []
+    seen = set()
+    seen_identity = set()
+    protected_states = {'keep', 'ignore', 'defer', 'mark_out_of_date'}
+    protected_workflows = {
+        'approved', 'finalized', 'rejected', 'blocked',
+        'needs_human_review', 'needs_source_review',
+    }
+    for candidate in records:
+        filename = candidate.get('filename')
+        if not isinstance(filename, str) or filename in seen:
+            raise WorkApplicationError(f'missing or duplicate candidate identity: {filename!r}')
+        seen.add(filename)
+        review_target = _safe_work_target(work_dir, filename, 'review.json')
+        page_target = _safe_work_target(work_dir, filename, 'page')
+        baseline_dir = ROOT / 'talents' / filename
+        metadata = json.loads((baseline_dir / 'metadata.json').read_text(encoding='utf-8'))
+        canonical_identity = identity_from_metadata(metadata)
+        identity = tuple(canonical_identity[key] for key in ('kind', 'filename', 'wiki_title', 'pageid'))
+        if (
+            identity in seen_identity
+            or metadata.get('filename') != filename
+            or candidate.get('pageid') != metadata.get('pageid')
+            or candidate.get('title', metadata.get('wiki_title')) != metadata.get('wiki_title')
+        ):
+            raise WorkApplicationError(f'candidate identity does not match baseline metadata: {filename}')
+        seen_identity.add(identity)
+        baseline_bytes = (baseline_dir / 'page').read_bytes()
+        baseline_hash = sha256(baseline_bytes)
+        if review_target.exists():
+            try:
+                review = load_review(review_target, metadata)
+            except ReviewRecordError as error:
+                raise WorkApplicationError(str(error)) from error
+            if review['baseline']['page_sha256'] != baseline_hash:
+                raise WorkApplicationError(f'baseline page hash conflict: {filename}')
+        else:
+            review = initialize_review(
+                metadata, baseline_bytes, state='update', workflow_status='queued',
+            )
+
+        current_bytes = page_target.read_bytes() if page_target.exists() else None
+        managed_hash = review['work_page']['last_managed_sha256']
+        if current_bytes is not None:
+            if managed_hash is None or sha256(current_bytes) != managed_hash:
+                raise WorkApplicationError(f'work page hash conflict: {page_target}')
+        elif managed_hash is not None:
+            raise WorkApplicationError(f'managed work page is missing: {page_target}')
+
+        status = candidate.get('status')
+        if status not in {'candidate', 'no_change', 'unsupported_info', 'unmatched_source', 'skipped_by_review'}:
+            raise WorkApplicationError(f'unsupported candidate status for {filename}: {status!r}')
+        skip = status == 'skipped_by_review'
+        protected = (
+            review['state'] in protected_states
+            or review['workflow_status'] in protected_workflows
+            or (
+                current_bytes is not None
+                and review['work_page']['last_writer'] != 'deterministic_renderer'
+            )
+        )
+        if skip:
+            rendered_bytes = None
+            page_bytes = None
+            application_status = 'skipped_by_review'
+        elif status in {'unsupported_info', 'unmatched_source'}:
+            rendered_bytes = baseline_bytes
+            page_bytes = None if protected else rendered_bytes
+            application_status = 'not_applied_human_state' if protected else 'baseline_preserved'
+        else:
+            rendered_bytes = candidate_page_bytes(
+                baseline_bytes, candidate['before_wikitext'], candidate['after_wikitext'],
+            )
+            page_bytes = None if protected else rendered_bytes
+            application_status = 'not_applied_human_state' if protected else 'applied'
+
+        page_changed = page_bytes is not None and current_bytes != page_bytes
+        desired_page_hash = sha256(page_bytes) if page_bytes is not None else None
+        candidate_page_hash = sha256(rendered_bytes) if rendered_bytes is not None else None
+        render = {
+            'application_status': application_status,
+            'source_sha256': metadata['source_sha256'],
+            'candidate_page_sha256': candidate_page_hash,
+        }
+        render['status'] = 'no_change' if skip else status
+        existing_render = review.get('render', {})
+        render_changed = any(existing_render.get(key) != value for key, value in render.items())
+        review_changed = not review_target.exists() or render_changed or page_changed
+        if render_changed:
+            render['updated_at'] = _utc_now()
+        elif 'updated_at' in existing_render and not skip:
+            render['updated_at'] = existing_render['updated_at']
+
+        event = None
+        if review_changed:
+            event = {
+                'at': _utc_now(), 'actor': 'deterministic_renderer',
+                'event': 'deterministic_render_applied' if page_bytes is not None else 'deterministic_render_recorded',
+                'reason': application_status,
+            }
+        updated_review = None
+        if review_changed:
+            updated_review = merge_owned_fields(
+                review, 'renderer', {'render': render},
+                history_events=[event] if event else (),
+            )
+            if page_bytes is not None:
+                updated_review['work_page'] = {
+                    **updated_review['work_page'],
+                    'last_managed_sha256': desired_page_hash,
+                    'last_writer': 'deterministic_renderer',
+                }
+            validate_review(updated_review, metadata)
+        plans.append({
+            'filename': filename, 'metadata': metadata, 'review_target': review_target,
+            'page_target': page_target, 'baseline_bytes': baseline_bytes,
+            'review': review, 'render': render, 'event': event,
+            'updated_review': updated_review,
+            'page_bytes': page_bytes, 'page_changed': page_changed,
+            'review_changed': review_changed, 'desired_page_hash': desired_page_hash,
+            'current_bytes': current_bytes,
+        })
+    return plans
+
+
+def apply_work_candidates(records: list[dict], work_dir: Path) -> list[Path]:
+    """Preflight entire batch, then atomically write pages and renderer-owned review data."""
+    plans = plan_work_application(records, work_dir)
+    return apply_work_plan(plans)
+
+
+def apply_work_plan(plans: list[dict]) -> list[Path]:
+    """Apply an already validated, complete work write plan."""
+    touched = []
+    for plan in plans:
+        if plan['review_changed']:
+            if plan['page_changed']:
+                _atomic_write(plan['page_target'], plan['page_bytes'])
+                touched.append(plan['page_target'])
+            write_review(plan['review_target'], plan['updated_review'], plan['metadata'])
+            touched.append(plan['review_target'])
+        elif plan['page_changed']:
+            # Defensive: page changes always count as a review change above.
+            raise WorkApplicationError(f'internal plan error for {plan["filename"]}')
+    return touched
+
+
 def key_parameter_changed(before_box: str, after_box: str, key: str) -> bool:
     if key == 'desc':
         return current_description(before_box) != current_description(after_box)
@@ -1086,7 +1404,17 @@ def main() -> int:
     parser.add_argument('--title', action='append', default=[], help='wiki title; repeat to select samples')
     parser.add_argument('--limit', type=int, help='limit processed pages after filtering')
     parser.add_argument('--output', type=Path, default=DEFAULT_OUTPUT)
+    parser.add_argument('--work-dir', type=Path, help='explicit work batch root')
+    parser.add_argument('--apply', action='store_true', help='write candidates into --work-dir')
     args = parser.parse_args()
+
+    if args.apply and args.work_dir is None:
+        parser.error('--apply requires --work-dir')
+    if args.work_dir is not None:
+        try:
+            validate_work_dir(args.work_dir)
+        except WorkApplicationError as error:
+            parser.error(str(error))
 
     resolved_commit = subprocess.run(
         ['git', '-C', str(args.t_engine_root), 'rev-parse', f'{args.core_tag}^{{commit}}'],
@@ -1106,11 +1434,39 @@ def main() -> int:
     if args.limit is not None:
         dirs = dirs[:args.limit]
 
-    records = [build_candidate(d, args.t_engine_root, args.core_tag) for d in dirs]
-    args.output.parent.mkdir(parents=True, exist_ok=True)
-    with args.output.open('w', encoding='utf-8', newline='\n') as stream:
-        for record in records:
-            stream.write(json.dumps(record, ensure_ascii=False) + '\n')
+    records = []
+    for directory in dirs:
+        if args.apply:
+            try:
+                record = render_directory(
+                    directory, args.t_engine_root, args.core_tag, work_dir=args.work_dir,
+                )
+            except (ReviewRecordError, WorkApplicationError) as error:
+                parser.error(str(error))
+        else:
+            record = render_directory(directory, args.t_engine_root, args.core_tag)
+        records.append(record)
+
+    if args.apply:
+        staged_output = None
+        try:
+            plans = plan_work_application(records, args.work_dir)
+            staged_output = _prepare_jsonl_output(args.output, records, plans, args.work_dir)
+            touched = apply_work_plan(plans)
+            os.replace(staged_output, args.output)
+            staged_output = None
+        except (ReviewRecordError, WorkApplicationError, OSError, ValueError) as error:
+            print(f'Work application refused: {error}', file=sys.stderr)
+            return 2
+        finally:
+            if staged_output is not None and staged_output.exists():
+                staged_output.unlink()
+        print(f'Applied work records: {len(touched)} files changed under {args.work_dir}')
+
+    if not args.apply:
+        args.output.parent.mkdir(parents=True, exist_ok=True)
+        with args.output.open('w', encoding='utf-8', newline='\n') as stream:
+            stream.write(_jsonl_bytes(records).decode('utf-8'))
     counts = {}
     for record in records:
         counts[record['status']] = counts.get(record['status'], 0) + 1

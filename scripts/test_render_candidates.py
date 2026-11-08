@@ -1,6 +1,12 @@
+import hashlib
+import json
+import tempfile
 import unittest
+from pathlib import Path
+from unittest import mock
 
 import render_candidates as renderer
+from review_workflow import initialize_review, load_review, write_review
 
 
 SOURCE = r'''
@@ -237,6 +243,260 @@ summonTime = function(self, t) return math.floor(self:combatTalentScale(t, 3, 7)
 
     def test_source_dash_lists_become_wiki_bullets(self):
         self.assertEqual(renderer.wiki_bullets("- Fire\n- Cold"), "*Fire\n*Cold")
+
+
+class WorkApplicationTests(unittest.TestCase):
+    filename = 'Example_(talent)'
+    baseline = b'Intro\n{{Ability_box\n|desc=Old text\n}}\nTail\n'
+    candidate_page = 'Intro\n{{Ability_box\n|desc=New text\n}}\nTail\n'
+
+    def setUp(self):
+        self.temp = tempfile.TemporaryDirectory()
+        self.addCleanup(self.temp.cleanup)
+        self.root = Path(self.temp.name)
+        self.baseline_root = self.root / 'catalog'
+        self.work_dir = self.root / 'work' / 'batch'
+        talent_dir = self.baseline_root / 'talents' / self.filename
+        talent_dir.mkdir(parents=True)
+        self.metadata = {
+            'filename': self.filename,
+            'wiki_title': 'Example (talent)',
+            'pageid': 42,
+            'revid': 84,
+            'source_file': 'game/modules/tome/data/talents/example.lua',
+            'source_start_line': 1,
+            'source_end_line': 5,
+            'source_sha256': 'a' * 64,
+            'talent_id': 'T_EXAMPLE',
+            'source_match_status': 'matched',
+            'addon_id': None,
+            'addon_version': None,
+        }
+        (talent_dir / 'metadata.json').write_text(json.dumps(self.metadata), encoding='utf-8')
+        (talent_dir / 'page').write_bytes(self.baseline)
+        self.root_patch = mock.patch.object(renderer, 'ROOT', self.baseline_root)
+        self.root_patch.start()
+        self.addCleanup(self.root_patch.stop)
+
+    def record(self, status='candidate', after=None):
+        return {
+            'filename': self.filename,
+            'title': self.metadata['wiki_title'],
+            'pageid': self.metadata['pageid'],
+            'status': status,
+            'before_wikitext': self.baseline.decode(),
+            'after_wikitext': self.candidate_page if after is None else after,
+        }
+
+    def paths(self):
+        target = self.work_dir / 'talents' / self.filename
+        return target / 'page', target / 'review.json'
+
+    def test_work_dir_without_apply_is_dry_run(self):
+        output = self.root / 'render.jsonl'
+        with mock.patch.object(renderer.sys, 'argv', [
+            'render_candidates.py', '--work-dir', str(self.work_dir), '--output', str(output),
+        ]), mock.patch.object(renderer.subprocess, 'run') as run, mock.patch.object(
+            renderer, 'build_candidate', return_value=self.record(),
+        ):
+            run.return_value.stdout = renderer.CORE_COMMIT + '\n'
+            self.assertEqual(renderer.main(), 0)
+        self.assertTrue(output.exists())
+        self.assertFalse(self.work_dir.exists())
+
+    def test_apply_requires_work_dir(self):
+        with mock.patch.object(renderer.sys, 'argv', ['render_candidates.py', '--apply']):
+            with self.assertRaises(SystemExit) as error:
+                renderer.main()
+        self.assertEqual(error.exception.code, 2)
+
+    def test_repo_root_work_dir_is_rejected_before_any_processing(self):
+        baseline_page = self.baseline_root / 'talents' / self.filename / 'page'
+        original = baseline_page.read_bytes()
+        with mock.patch.object(renderer.sys, 'argv', [
+            'render_candidates.py', '--work-dir', str(self.baseline_root),
+        ]), mock.patch.object(renderer.subprocess, 'run', side_effect=AssertionError('source lookup ran')):
+            with self.assertRaises(SystemExit) as error:
+                renderer.main()
+        self.assertEqual(error.exception.code, 2)
+        self.assertEqual(baseline_page.read_bytes(), original)
+
+    def test_apply_writes_complete_candidate_and_record(self):
+        touched = renderer.apply_work_candidates([self.record()], self.work_dir)
+        page, review_path = self.paths()
+        self.assertEqual(page.read_text(encoding='utf-8'), self.candidate_page)
+        review = load_review(review_path, self.metadata)
+        self.assertEqual(review['render']['status'], 'candidate')
+        self.assertEqual(review['render']['application_status'], 'applied')
+        self.assertEqual(review['work_page']['last_managed_sha256'], hashlib.sha256(page.read_bytes()).hexdigest())
+        self.assertEqual(review['workflow_status'], 'queued')
+        self.assertIn(page, touched)
+
+    def test_candidate_splice_preserves_exact_bytes_outside_ability_box(self):
+        baseline = b'Header\r\n{{Ability_box\r\n|desc=Old\r\n}}\r\nFooter\r\n'
+        before = baseline.decode().replace('\r\n', '\n')
+        after = before.replace('|desc=Old', '|desc=New')
+        result = renderer.candidate_page_bytes(baseline, before, after)
+        self.assertTrue(result.startswith(b'Header\r\n'))
+        self.assertTrue(result.endswith(b'\r\nFooter\r\n'))
+        self.assertIn(b'|desc=New', result)
+
+    def test_review_merge_preserves_human_and_unknown_fields(self):
+        review = initialize_review(self.metadata, self.baseline, workflow_status='in_progress')
+        review['state'] = 'update'
+        review['notes'] = 'Human note stays.'
+        review['automation']['llm']['instructions'] = ['Keep wording.']
+        review['human_extension'] = {'keep': True}
+        review['history'].append({
+            'at': '2026-11-08T00:00:00Z', 'actor': 'human:unknown',
+            'event': 'human_note_added',
+        })
+        _, review_path = self.paths()
+        write_review(review_path, review, self.metadata)
+        renderer.apply_work_candidates([self.record()], self.work_dir)
+        merged = load_review(review_path, self.metadata)
+        self.assertEqual(merged['state'], 'update')
+        self.assertEqual(merged['workflow_status'], 'in_progress')
+        self.assertEqual(merged['notes'], 'Human note stays.')
+        self.assertEqual(merged['automation']['llm']['instructions'], ['Keep wording.'])
+        self.assertEqual(merged['human_extension'], {'keep': True})
+        self.assertEqual(merged['history'][0]['event'], 'human_note_added')
+
+    def test_deterministic_skip_bypasses_source_parser_and_writes_no_page(self):
+        review = initialize_review(self.metadata, self.baseline, workflow_status='queued')
+        review['automation']['deterministic'] = {'mode': 'skip', 'notes': 'Human requested skip.'}
+        _, review_path = self.paths()
+        write_review(review_path, review, self.metadata)
+        directory = self.baseline_root / 'talents' / self.filename
+        with mock.patch.object(renderer, 'build_candidate', side_effect=AssertionError('parser called')):
+            candidate = renderer.render_directory(directory, Path('/unused'), 'tag', work_dir=self.work_dir)
+        self.assertEqual(candidate['status'], 'skipped_by_review')
+        renderer.apply_work_candidates([candidate], self.work_dir)
+        page, _ = self.paths()
+        self.assertFalse(page.exists())
+        self.assertEqual(load_review(review_path, self.metadata)['render']['application_status'], 'skipped_by_review')
+
+    def test_human_out_of_date_state_and_work_page_are_never_overwritten(self):
+        review = initialize_review(
+            self.metadata, self.baseline, state='mark_out_of_date',
+            workflow_status='needs_human_review', notes='Human decision stays.',
+        )
+        page, review_path = self.paths()
+        page.parent.mkdir(parents=True)
+        page.write_bytes(self.baseline)
+        review['work_page']['last_managed_sha256'] = hashlib.sha256(self.baseline).hexdigest()
+        review['work_page']['last_writer'] = 'deterministic_renderer'
+        write_review(review_path, review, self.metadata)
+        renderer.apply_work_candidates([self.record()], self.work_dir)
+        merged = load_review(review_path, self.metadata)
+        self.assertEqual(page.read_bytes(), self.baseline)
+        self.assertEqual(merged['state'], 'mark_out_of_date')
+        self.assertEqual(merged['notes'], 'Human decision stays.')
+        self.assertEqual(merged['render']['application_status'], 'not_applied_human_state')
+
+    def test_llm_managed_page_is_preserved_even_when_managed_hash_matches(self):
+        review = initialize_review(self.metadata, self.baseline, workflow_status='queued')
+        page, review_path = self.paths()
+        page.parent.mkdir(parents=True)
+        draft = b'LLM draft\n{{Ability_box\n|desc=Draft text\n}}\nTail\n'
+        page.write_bytes(draft)
+        review['work_page']['last_managed_sha256'] = hashlib.sha256(draft).hexdigest()
+        review['work_page']['last_writer'] = 'llm_applier'
+        write_review(review_path, review, self.metadata)
+
+        renderer.apply_work_candidates([self.record()], self.work_dir)
+
+        merged = load_review(review_path, self.metadata)
+        self.assertEqual(page.read_bytes(), draft)
+        self.assertEqual(merged['work_page']['last_writer'], 'llm_applier')
+        self.assertEqual(merged['work_page']['last_managed_sha256'], hashlib.sha256(draft).hexdigest())
+        self.assertEqual(merged['render']['application_status'], 'not_applied_human_state')
+
+    def test_review_workflow_statuses_protect_existing_page(self):
+        for workflow_status in ('needs_human_review', 'needs_source_review'):
+            with self.subTest(workflow_status=workflow_status):
+                work_dir = self.root / 'work' / workflow_status
+                page = work_dir / 'talents' / self.filename / 'page'
+                review_path = page.with_name('review.json')
+                page.parent.mkdir(parents=True)
+                page.write_bytes(self.baseline)
+                review = initialize_review(
+                    self.metadata, self.baseline, workflow_status=workflow_status,
+                )
+                review['work_page']['last_managed_sha256'] = hashlib.sha256(self.baseline).hexdigest()
+                review['work_page']['last_writer'] = 'deterministic_renderer'
+                write_review(review_path, review, self.metadata)
+
+                renderer.apply_work_candidates([self.record()], work_dir)
+
+                merged = load_review(review_path, self.metadata)
+                self.assertEqual(page.read_bytes(), self.baseline)
+                self.assertEqual(merged['workflow_status'], workflow_status)
+                self.assertEqual(merged['render']['application_status'], 'not_applied_human_state')
+
+    def test_invalid_output_is_preflighted_before_work_writes(self):
+        output_dir = self.root / 'output-is-directory'
+        output_dir.mkdir()
+        with mock.patch.object(renderer.sys, 'argv', [
+            'render_candidates.py', '--apply', '--work-dir', str(self.work_dir),
+            '--output', str(output_dir),
+        ]), mock.patch.object(renderer.subprocess, 'run') as run, mock.patch.object(
+            renderer, 'build_candidate', return_value=self.record(),
+        ):
+            run.return_value.stdout = renderer.CORE_COMMIT + '\n'
+            self.assertEqual(renderer.main(), 2)
+        self.assertFalse(self.work_dir.exists())
+        self.assertTrue(output_dir.is_dir())
+
+    def test_unsupported_and_unmatched_copy_baseline_without_delete_marker(self):
+        for status in ('unsupported_info', 'unmatched_source'):
+            with self.subTest(status=status):
+                batch = self.work_dir / status
+                renderer.apply_work_candidates([self.record(status)], batch)
+                page = batch / 'talents' / self.filename / 'page'
+                review = load_review(page.with_name('review.json'), self.metadata)
+                self.assertEqual(page.read_bytes(), self.baseline)
+                self.assertNotIn(b'DELETE', page.read_bytes())
+                self.assertEqual(review['state'], 'update')
+                self.assertEqual(review['render']['status'], status)
+
+    def test_rerun_is_idempotent(self):
+        record = self.record()
+        renderer.apply_work_candidates([record], self.work_dir)
+        page, review_path = self.paths()
+        page_before = page.read_bytes()
+        review_before = review_path.read_bytes()
+        self.assertEqual(renderer.apply_work_candidates([record], self.work_dir), [])
+        self.assertEqual(page.read_bytes(), page_before)
+        self.assertEqual(review_path.read_bytes(), review_before)
+
+    def test_conflict_refuses_entire_batch_before_writes(self):
+        renderer.apply_work_candidates([self.record()], self.work_dir)
+        page, review_path = self.paths()
+        original_review = review_path.read_bytes()
+        page.write_bytes(b'Human edit\n')
+        first_filename = 'First_(talent)'
+        first_dir = self.baseline_root / 'talents' / first_filename
+        first_dir.mkdir()
+        first_meta = {**self.metadata, 'filename': first_filename, 'wiki_title': 'First (talent)', 'pageid': 43}
+        (first_dir / 'metadata.json').write_text(json.dumps(first_meta), encoding='utf-8')
+        (first_dir / 'page').write_bytes(self.baseline)
+        first_record = {
+            **self.record(), 'filename': first_filename, 'title': 'First (talent)', 'pageid': 43,
+        }
+        with self.assertRaisesRegex(renderer.WorkApplicationError, 'work page hash conflict'):
+            renderer.apply_work_candidates([first_record, self.record()], self.work_dir)
+        self.assertFalse((self.work_dir / 'talents' / first_filename).exists())
+        self.assertEqual(review_path.read_bytes(), original_review)
+        self.assertEqual(page.read_bytes(), b'Human edit\n')
+
+    def test_absent_unmatched_page_is_retained_not_deleted(self):
+        renderer.apply_work_candidates([self.record('unmatched_source')], self.work_dir)
+        page, review_path = self.paths()
+        self.assertTrue(page.exists())
+        self.assertNotIn(b'DELETE', page.read_bytes())
+        review = load_review(review_path, self.metadata)
+        self.assertNotEqual(review['state'], 'mark_out_of_date')
 
 
 if __name__ == "__main__":
