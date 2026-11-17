@@ -1,8 +1,9 @@
 # ToME wiki talent updates
 
-Deterministic tooling for source-faithful ToME 1.7.6 talent `Ability_box`
-candidates. Rendered page changes are review-only; unsupported formulas fail
-closed.
+Tooling for best-effort ToME talent `Ability_box` description candidates that
+closely match in-game text. Exact reconstruction is not required; small
+discrepancies are acceptable. Rendered page changes are review-only, and the
+deterministic renderer fails closed on unsupported expressions.
 
 - `scripts/render_candidates.py` — renders source `info()` descriptions and
   version fields to review-only JSONL.
@@ -12,6 +13,8 @@ closed.
 - `docs/renderer-subagent-review.md` — subagent review prompt and workflow.
 - `docs/deterministic-renderer-state.md` — current coverage snapshot and
   source-backed deterministic expansion leads.
+- `docs/source-preprocessing.md` — design rules for reviewed talent-specific
+  source preprocessing when renderer support is not cost-effective.
 - `talents/` — mapped wiki pages and source metadata.
 
 ## Render and iterate
@@ -46,8 +49,11 @@ python3 -B scripts/apply_llm_drafts.py \
 
 Baseline `talents/` pages stay unchanged throughout iteration. No workflow
 automatically deletes pages, publishes wiki edits, approves LLM drafts, or
-extends renderer support. Review unmatched/missing source manually; never treat
-it as deletion evidence.
+extends renderer support. Unsupported descriptions may use LLM drafts or
+reviewed per-talent preprocessing; complete renderer coverage is not a goal by
+itself. Preserve human-added notes unless evidence shows they are stale or
+inaccurate. Review unmatched/missing source manually; never treat it as deletion
+evidence.
 
 ## Review and promote
 

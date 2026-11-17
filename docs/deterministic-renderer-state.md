@@ -1,7 +1,9 @@
 # Deterministic talent renderer: current state
 
-Snapshot: 2026-11-07. This is a roadmap, not a renderer specification; rerun
-the renderer for fresh counts.
+Snapshot: 2026-11-07. This is a coverage snapshot, not a requirement to support
+every description deterministically; rerun the renderer for fresh counts.
+Project goal is useful best-effort descriptions close to in-game text; small
+discrepancies are acceptable.
 
 ## Current coverage
 
@@ -36,9 +38,10 @@ Keep regression coverage in `scripts/test_render_candidates.py`. Current support
 includes talent/stat scaling templates, logarithmic scaling, supported optional
 helper arguments, local source-helper resolution, safe arithmetic, selected
 inert clamps, static formatted strings, inline or missing descriptions, and
-recursive-helper fail-closed checks. Do not extend these from rendered
-Tometips text; derive values from exact source arguments and the documented
-wiki template semantics.
+recursive-helper fail-closed checks. Use version-correct source as strongest
+evidence for current mechanics and exact numeric scaling. Tometips can guide
+wording and interpretation of formatting or `%s` fragments; account for version
+differences and avoid presenting uncertain values with false precision.
 
 ## High-value unsupported cases
 
@@ -51,7 +54,8 @@ error groups in the 551 unsupported records include:
 - Remaining cases include helper/stat dependencies, dynamic interpolation,
   composite arithmetic, and format/parser edge cases.
 
-Promising deterministic investigations from prior source review:
+Potential deterministic investigations from prior source review (leads, not
+commitments; compare cost with preprocessing and reviewed drafts first):
 
 1. Resolve `%s` values only when the source expression is provably static,
    including local constants such as trap `instant`; preserve runtime-dependent
@@ -66,18 +70,24 @@ Promising deterministic investigations from prior source review:
 5. Trace unresolved `getStr`/`getWil`/shield helpers to their actual definitions;
    do not infer endpoints from helper names.
 
-For each new pattern: trace source-file-by-source-file, document its exact
-semantics, add positive and fail-closed regression tests, then rerun the full
-render and review changed counts. LLM best guesses from the earlier accuracy
-experiment were often unreliable; they are not evidence for renderer support.
+For each proposed renderer feature, weigh reuse and maintenance cost against
+reviewed LLM drafts or talent-specific preprocessing. Do not pursue complete
+renderer coverage for its own sake. For reusable patterns: trace source,
+document semantics, add positive and fail-closed regression tests, then rerun
+the full render. For per-talent preprocessing, follow
+[`source-preprocessing.md`](source-preprocessing.md). LLM drafts and Tometips
+are candidate-generation evidence, not proof of deterministic renderer
+semantics.
 
 ## Source and page cautions
 
 - Core source must come from tag `tome-1.7.6` at the commit above. DLC source
   uses the local addon files and must retain file hash, addon ID, compatibility
   version, and addon version.
-- Keep renderer candidate changes review-only. Never let an LLM add renderer
-  support or silently invent endpoints.
-- Preserve wiki-only notes and all page text outside `Ability_box`.
+- Keep candidate changes review-only. Never let an LLM silently add renderer
+  support or invent precise endpoints.
+- Preserve human-added notes and all page text outside the description. Remove
+  a note only with evidence that it is inaccurate or obsolete; otherwise flag
+  it for human review.
 - A wiki page lacking a unique current source match is not automatically
   deleted; distinguish absent, renamed, ambiguous, and confirmed-removed cases.

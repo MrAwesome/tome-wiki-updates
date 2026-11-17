@@ -3,6 +3,7 @@
 ## Scope and method
 
 - Re-audited **551 unsupported renderer entries** against version-correct source `info()` excerpts, current wiki `Ability_box` text, each talent’s `tometips-1.7.4-1.0`, and the wiki `game_version` field.
+- This audit used the project’s earlier, narrower Tometips policy. Findings remain useful evidence, but renderer-route recommendations are triage—not a mandate to add renderer support. Current workflow follows broader best-effort policy in `AGENTS.md`.
 - Core source authority: ToME 1.7.6 tag/commit `624a67329fe2ad440c5b344785a9c73fcf22ae63`; DLC source authority: local addon files and recorded provenance/hash in each JSONL row.
 - Tometips used only as an inclusion/omission and wording cross-check. Bracketed values were not used as renderer endpoints.
 - Missing or non-1.7.6 wiki version treated only as staleness signal. Current page version counts: 100 listed 1.7.6; 211 listed older/other version; 240 absent.

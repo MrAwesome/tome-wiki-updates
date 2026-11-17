@@ -1,8 +1,9 @@
 # ToME wiki talent renderer
 
-This repository owns source-faithful `Ability_box` candidate rendering and
-review. Generate candidates for human review only; never publish or rewrite wiki
-pages automatically.
+This repository generates and reviews best-effort `Ability_box` description
+candidates that closely match what ToME displays in game. Exact reconstruction
+is not required; small discrepancies are acceptable. Generate candidates for
+human review only; never publish or rewrite wiki pages automatically.
 
 ## Source authority
 
@@ -12,26 +13,42 @@ pages automatically.
 - DLC talent text comes from local addon trees under
   `~/code/t-engine4/game/addons/`, as project decision. Record exact file hash,
   addon ID, compatibility version, and addon version.
-- Tometips is an index/cross-check only. Never derive scaling endpoints from its
-  rendered `info_text`; use raw `combatTalent*` / `combatStat*` source arguments.
+- Use ToME 1.7.6 source as strongest evidence for current mechanics and numeric
+  scaling. Tometips is an accepted reference for in-game wording and a useful
+  guide to ambiguous formatting, `%s` fragments, and rendered descriptions.
+  Account for its version when applying it to 1.7.6; do not present a Tometips
+  value as an exact 1.7.6 scaling endpoint unless source supports it. A
+  source-grounded best effort is preferable to leaving a clearly stale
+  description untouched solely because exact reconstruction is difficult.
 
 ## Renderer and review
 
 - Talent metadata and current page wikitext live under `talents/<slug>/`.
-- Renderer must fail closed on unsupported expressions. Do not invent values or
-  let an LLM silently extend renderer support.
+- Deterministic renderer must fail closed on unsupported expressions. Do not
+  silently invent values or let an LLM extend renderer support. Unsupported
+  cases may use reviewed LLM drafts or explicit per-talent preprocessing when
+  those produce useful candidates more cheaply than generic renderer work.
+- Preprocessing must be reviewable and fail closed: scope each transformation
+  to talent and source provenance, match expected source context exactly, record
+  intent, and test patched input and output. Prefer focused patch deltas to
+  duplicated source files. Never transform upstream source in place or silently
+  change mechanics. See `docs/source-preprocessing.md`.
 - Preserve wiki-only notes in `extras.json`, not `metadata.json`. Keep current
   wiki version fields in extras with exact presence rules: omit
   `wiki_game_version` when page has no `game_version`; omit `wiki_dlc_versions`
   for core talents; for DLC talents, use an object of listed DLC fields, or
   `null` only when no DLC version field is listed. Wiki DLC fields are
   `embers_version`, `ashes_version`, and `forbidden_version`.
-- Preserve existing wiki markup, notes, page layout, and all text outside the
-  `Ability_box`. Candidate page changes remain review-only and uncommitted until
-  explicitly approved.
+- Preserve human-added wiki notes, markup, page layout, and all text outside the
+  `Ability_box`. Remove a note only when evidence shows it is inaccurate or
+  obsolete (for example, it documents behavior since fixed); explain the reason
+  for review. If unsure, preserve it and flag for a human. Candidate page
+  changes remain review-only and uncommitted until explicitly approved.
 - Use LLM review source-file-by-source-file, not one agent per talent. For
   unsupported renderer cases use
   `docs/renderer-subagent-review.md` and the read-only `renderer-reviewer`
-  subagent. Treat its output as a draft; verify every value against source.
+  subagent. Treat its output as a draft; verify material mechanics against
+  source where feasible and flag uncertainty rather than implying false
+  precision.
 
 See `README.md` and `docs/renderer-subagent-review.md` for workflows.
