@@ -25,5 +25,6 @@
   "wiki_category_id": "technique/finishing-moves",
   "source_category_id": "technique/other",
   "talent_id_method": "engine_default_name",
-  "source_match_confidence": "exact_name_and_source_span"
+  "source_match_confidence": "exact_name_and_source_span",
+  "tometips_info_text": "tometips-1.7.4-1.0"
 }

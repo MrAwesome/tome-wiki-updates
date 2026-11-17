@@ -26,5 +26,6 @@
   "source_match_confidence": "high",
   "source_category_id": "technique/strength-of-the-berserker",
   "talent_id_method": "tometips_source_id",
-  "source_match_note": "Wiki category Berserker's Strength and fixed 50% confusion power match the Strength of the Berserker definition."
+  "source_match_note": "Wiki category Berserker's Strength and fixed 50% confusion power match the Strength of the Berserker definition.",
+  "tometips_info_text": "tometips-1.7.4-1.0"
 }

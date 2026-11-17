@@ -26,5 +26,6 @@
   "source_match_confidence": "unique_definition",
   "source_category_id": "uber/cunning",
   "talent_id_method": "source_short_name",
-  "source_category_id_method": "uberTalent_file_path_and_wiki_category"
+  "source_category_id_method": "uberTalent_file_path_and_wiki_category",
+  "tometips_info_text": "tometips-1.7.4-1.0"
 }

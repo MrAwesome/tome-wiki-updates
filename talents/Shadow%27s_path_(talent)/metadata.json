@@ -25,5 +25,6 @@
   "wiki_category_id": "cursed/advanced-shadowmancy",
   "source_match_confidence": "unique_definition",
   "source_category_id": "cursed/advanced-shadowmancy",
-  "talent_id_method": "tometips_source_path_name"
+  "talent_id_method": "tometips_source_path_name",
+  "tometips_info_text": "tometips-1.7.4-1.0"
 }

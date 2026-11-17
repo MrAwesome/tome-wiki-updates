@@ -26,5 +26,6 @@
   "source_match_confidence": "high",
   "source_category_id": "golem/arcane",
   "talent_id_method": "source_short_name",
-  "source_match_note": "Wiki prepends “Golem”; source category, source ID, and matching description identify definition."
+  "source_match_note": "Wiki prepends \u201cGolem\u201d; source category, source ID, and matching description identify definition.",
+  "tometips_info_text": "tometips-1.7.4-1.0"
 }

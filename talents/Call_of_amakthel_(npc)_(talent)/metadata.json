@@ -26,5 +26,6 @@
   "source_match_confidence": "high",
   "source_category_id": "technique/other",
   "talent_id_method": "engine_default_name",
-  "source_match_note": "Wiki NPC suffix, canonical ID, cooldown, and pull description identify core NPC definition."
+  "source_match_note": "Wiki NPC suffix, canonical ID, cooldown, and pull description identify core NPC definition.",
+  "tometips_info_text": "tometips-1.7.4-1.0"
 }

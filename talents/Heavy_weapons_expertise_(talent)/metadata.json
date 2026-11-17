@@ -26,5 +26,6 @@
   "source_match_confidence": "high",
   "source_category_id": "steamtech/heavy-weapons",
   "talent_id_method": "engine_default_name",
-  "source_match_note": "Tometips source path and engine ID identify singular source name; wiki page uses plural and matching Heavy Weapons category/behavior."
+  "source_match_note": "Tometips source path and engine ID identify singular source name; wiki page uses plural and matching Heavy Weapons category/behavior.",
+  "tometips_info_text": "tometips-1.7.4-1.0"
 }

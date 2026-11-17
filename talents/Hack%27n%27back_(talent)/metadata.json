@@ -26,5 +26,6 @@
   "source_match_confidence": "unique_definition",
   "source_category_id": "other/other",
   "talent_id_method": "tometips_source_path_name",
-  "source_match_note": "Tometips source path and definition description identify current misc/npcs.lua entry; wiki lists older Technique/Mobility category, while source registers other/other."
+  "source_match_note": "Tometips source path and definition description identify current misc/npcs.lua entry; wiki lists older Technique/Mobility category, while source registers other/other.",
+  "tometips_info_text": "tometips-1.7.4-1.0"
 }

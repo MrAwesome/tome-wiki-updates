@@ -26,5 +26,6 @@
   "source_match_confidence": "high",
   "source_category_id": "golem/golem",
   "talent_id_method": "source_short_name",
-  "source_match_note": "Wiki prefixes source name with “Golem”; source category and description match. Source short_name is GOLEM_DESTRUCT, while wiki canonical ID is GOLEM_SELF_DESTRUCTION."
+  "source_match_note": "Wiki prefixes source name with \u201cGolem\u201d; source category and description match. Source short_name is GOLEM_DESTRUCT, while wiki canonical ID is GOLEM_SELF_DESTRUCTION.",
+  "tometips_info_text": "tometips-1.7.4-1.0"
 }

@@ -26,5 +26,6 @@
   "source_match_confidence": "high",
   "source_category_id": "psionic/other",
   "talent_id_method": "tometips_source_id",
-  "source_match_note": "NPC-only page maps to generic Silence in misc/npcs.lua; Demon Seed Silence has a distinct corruption/demon-seeds source definition."
+  "source_match_note": "NPC-only page maps to generic Silence in misc/npcs.lua; Demon Seed Silence has a distinct corruption/demon-seeds source definition.",
+  "tometips_info_text": "tometips-1.7.4-1.0"
 }

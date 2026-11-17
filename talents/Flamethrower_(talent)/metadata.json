@@ -26,5 +26,6 @@
   "source_match_confidence": "high",
   "source_category_id": "steamtech/other",
   "talent_id_method": "tometips_source_id",
-  "source_match_note": "Wiki Heavy Weapons category and sustained cooldown-10 steamgun behavior match the Heavy Weapons source definition."
+  "source_match_note": "Wiki Heavy Weapons category and sustained cooldown-10 steamgun behavior match the Heavy Weapons source definition.",
+  "tometips_info_text": "tometips-1.7.4-1.0"
 }

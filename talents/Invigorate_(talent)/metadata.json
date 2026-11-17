@@ -25,5 +25,6 @@
   "wiki_category_id": "chronomancy/temporal-combat",
   "source_category_id": "chronomancy/temporal-combat",
   "talent_id_method": "tometips_source_id",
-  "source_match_confidence": "verified_source_span"
+  "source_match_confidence": "verified_source_span",
+  "tometips_info_text": "tometips-1.7.4-1.0"
 }

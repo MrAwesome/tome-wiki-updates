@@ -25,5 +25,6 @@
   "wiki_category_id": "psionic/psychic-blows",
   "source_match_confidence": "unique_definition",
   "source_category_id": "psionic/psychic-blows",
-  "talent_id_method": "engine_default_name"
+  "talent_id_method": "engine_default_name",
+  "tometips_info_text": "tometips-1.7.4-1.0"
 }

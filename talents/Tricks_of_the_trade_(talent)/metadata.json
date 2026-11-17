@@ -26,5 +26,6 @@
   "source_category_id": "uber/cunning",
   "talent_id_method": "tometips_source_id",
   "source_match_confidence": "verified_source_span",
-  "source_category_method": "uber_source_file_mapping"
+  "source_category_method": "uber_source_file_mapping",
+  "tometips_info_text": "tometips-1.7.4-1.0"
 }

@@ -25,5 +25,6 @@
   "wiki_category_id": "corruption/bone",
   "source_category_id": "corruption/bone",
   "talent_id_method": "tometips_source_id",
-  "source_match_confidence": "verified_source_span"
+  "source_match_confidence": "verified_source_span",
+  "tometips_info_text": "tometips-1.7.4-1.0"
 }

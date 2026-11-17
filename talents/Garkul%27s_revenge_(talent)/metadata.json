@@ -26,5 +26,6 @@
   "source_match_confidence": "unique_definition",
   "source_category_id": "uber/willpower",
   "talent_id_method": "tometips_source_path_name",
-  "source_category_id_method": "tometips_category"
+  "source_category_id_method": "tometips_category",
+  "tometips_info_text": "tometips-1.7.4-1.0"
 }
