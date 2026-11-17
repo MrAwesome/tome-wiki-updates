@@ -1,0 +1,23 @@
+{{Ability box
+|game_version=1.7.4
+|image=Meditation.png
+|name=Meditation
+|category_type={{ct|Wild-Gift}}
+|category={{c|Call of the Wild}}
+|require={{TalentReq/GiftsReq1}}
+|use_mode=Sustained
+|cooldown=20
+|range=10
+|use_speed=0
+|desc=
+Meditate on your link with Nature.
+
+While meditating, your equilibrium decreases by (2 + {{ctmd|20|120}} / 10) per turn, your Mental Save is increased by (5 + {{ctmd|10|40}}), and your healing factor increases by (5 + {{ctmd|12|30}})%.
+
+Your deep meditation does not let you deal damage correctly, reducing the damage you and your summons deal by 50%.
+
+Also, any time you are resting (even with Meditation not sustained) you enter a simple meditative state that lets you regenerate {{cts|0.5|2.5|0.75}} equilibrium per turn.
+
+The activated effects increase with your Mindpower.
+|avail.escorts=[[Escorts#Seer_.28Arcane.29|Seer (Arcane)]] ([[Escorts#Betraying_to_Zigur|Betray Escort to Zigur]]), via revealing the locked {{c|Call of the Wild}} category
+}}

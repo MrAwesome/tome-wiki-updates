@@ -1,0 +1,19 @@
+{{Ability box
+|image=Overcharge saws.png
+|name=Overcharge Saws
+|game_version=1.7.6
+|embers_version=1.1.10
+|category_type={{ct|Steamtech}}
+|category={{c|Butchery}}
+|require={{TalentReq/SteamReq4}}
+|use_mode=Activated
+|cost=20 Steam
+|cooldown=15
+|use_speed=0
+|desc=
+You temporarily overcharge the saw motors, increasing the effective talent level of all saw talents by {{ctl|50%|26|36%}} for {{ctl|20|3|9}} turns.
+#{italic}#The pain shall never stop!#{normal}#
+}}
+
+NOTES:
+1. Duration scales up to 11 turns at effective level 9. Next breakpoint is at effective level 11;  2. Talent mastery increase is softcapped at 40%. Even at mastery 2.5 it's still only 41%.

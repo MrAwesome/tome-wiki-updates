@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "51b522c50b68217135088e9e4152ef539289607bb205b39a277773bcf12a8782",
+    "revid": 19366
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:58Z",
+      "event": "deterministic_render_applied",
+      "reason": "baseline_preserved"
+    }
+  ],
+  "identity": {
+    "filename": "Assemble_(talent)",
+    "kind": "talent",
+    "pageid": 1636,
+    "wiki_title": "Assemble (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "baseline_preserved",
+    "candidate_page_sha256": "51b522c50b68217135088e9e4152ef539289607bb205b39a277773bcf12a8782",
+    "source_sha256": "4318c0328da28c7a7767bf96027d8ccc449ab120b17558d8af699a6a6a05d170",
+    "status": "unsupported_info",
+    "updated_at": "2026-11-08T16:08:58Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "51b522c50b68217135088e9e4152ef539289607bb205b39a277773bcf12a8782",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

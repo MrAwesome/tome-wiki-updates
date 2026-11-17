@@ -1,0 +1,9 @@
+{{Ability_box
+|game_version=1.7.6
+|name=Restoration
+|category_type=[[NPC Only (category type)|NPC Only]]
+|category=-
+|image=Restoration.png
+|desc=
+Call upon the forces of nature to cure your body of {{cts|1|5|log}} poisons and diseases.
+}}

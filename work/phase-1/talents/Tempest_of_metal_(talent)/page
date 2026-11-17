@@ -1,0 +1,16 @@
+{{Ability box
+|image=Tempest of metal.png
+|name=Tempest of Metal
+|game_version=1.7.6
+|embers_version=1.1.10
+|category_type={{ct|Steamtech}}
+|category={{c|Butchery}}
+|require={{TalentReq/SteamReq3}}
+|use_mode=Sustained
+|cost=10 Steam drain
+|desc=
+Continuously swing your steamsaws around you, dealing 30% weapon damage to adjacent foes each time you attack.
+Your chaotic motions make it difficult for anything to hit you, granting {{ctstmd|1|19.5}} chance to completely negate all damage.
+Damage avoidance chance increases with Steampower.
+#{italic}#Make the metal talk!#{normal}#
+}}

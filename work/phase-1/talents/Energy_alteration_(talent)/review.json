@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "119bdc390d66a8c0b56bfd1257f609ff0c935adab9886e0b88ec357ec24c0871",
+    "revid": 19566
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Energy_alteration_(talent)",
+    "kind": "talent",
+    "pageid": 1600,
+    "wiki_title": "Energy alteration (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "cb18471519495e63d6573e245c41e3feaa235558ad086c9314f39b54e15a075c",
+    "source_sha256": "fc9fe66d0a01a8a5902bfc39620e5f862291a0ff7b8b64806e33d703ab038f9f",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "cb18471519495e63d6573e245c41e3feaa235558ad086c9314f39b54e15a075c",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

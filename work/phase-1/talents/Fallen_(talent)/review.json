@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "4db553f868ccb704a208af09661d65b8df6b8f9a01e68e6a6dc2d4129523b296",
+    "revid": 22818
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Fallen_(talent)",
+    "kind": "talent",
+    "pageid": 5650,
+    "wiki_title": "Fallen (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "d7e73059702d2aba68b5445bccc1ff34d8147626bfd516637291531db0dba865",
+    "source_sha256": "bde073032f50b20d456193dd79131b7e54e2dcdfc42ca92736e6f406e8c28931",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "d7e73059702d2aba68b5445bccc1ff34d8147626bfd516637291531db0dba865",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

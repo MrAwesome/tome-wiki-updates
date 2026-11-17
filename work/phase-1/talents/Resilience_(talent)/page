@@ -1,0 +1,11 @@
+{{Ability box
+|game_version=1.7.6
+|image=Resilience.png
+|name=Resilience
+|category_type={{ct|Wild-Gift}}
+|category={{c|Summoning (Augmentation)}}
+|require={{TalentReq/GiftsReq3}}
+|use_mode=Passive
+|desc=
+Increases all your summons' max life by {{ctl|100%|12.5|25%}} and extends your summons' maximum lifetime by {{ctl|6|2|5}} turns.
+}}

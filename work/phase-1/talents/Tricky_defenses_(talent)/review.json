@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "061238807e802dc9507f88eb24b8f07905ec291b60609d04060f10e100303738",
+    "revid": 14981
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Tricky_defenses_(talent)",
+    "kind": "talent",
+    "pageid": 3476,
+    "wiki_title": "Tricky defenses (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "41914af461333ee4f2648f021c066464e8c4f9b34acc0459271c0f632f09239e",
+    "source_sha256": "e8f5d9281e0eed2b487a52666a6e8551d29371627cd1a604154296c3ae8b6979",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "41914af461333ee4f2648f021c066464e8c4f9b34acc0459271c0f632f09239e",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "228f2ca23f576d30a3c9e3b842600c0a6cda102552ae22043f12b5ac4d38dbc6",
+    "revid": 22369
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Psy_worm_(talent)",
+    "kind": "talent",
+    "pageid": 5174,
+    "wiki_title": "Psy worm (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "cfdda39fe0eb89fcb2bf230f7302697b865e116243563e640a369bb9338a910e",
+    "source_sha256": "b23cf87ff058cb74d4673ce4ba68bcbca28b86b229c91864dbb07e7e534ecb8b",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "cfdda39fe0eb89fcb2bf230f7302697b865e116243563e640a369bb9338a910e",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

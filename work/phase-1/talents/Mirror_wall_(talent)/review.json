@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "fa501810a39389cef2487a5b8d3f885c2ec4acd202246eea5849397b984a16fb",
+    "revid": 22549
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Mirror_wall_(talent)",
+    "kind": "talent",
+    "pageid": 6972,
+    "wiki_title": "Mirror wall (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "13d61222cf747b918aee003f7d07cf4b1049e26ae18af297a247230543b246aa",
+    "source_sha256": "972f949d6cab2c8040bf554bb944d96ecc4ca79d4b25363ba43a1c980bf04eff",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "13d61222cf747b918aee003f7d07cf4b1049e26ae18af297a247230543b246aa",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

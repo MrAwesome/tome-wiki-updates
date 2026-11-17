@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "bc0a3e108f97366b238fcd4852e2538c37723a63baeef47575cc169377a0c083",
+    "revid": 13824
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Enhanced_munitions_(talent)",
+    "kind": "talent",
+    "pageid": 4695,
+    "wiki_title": "Enhanced munitions (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "376131190785f34249cee5635f2611ef340ea9fb9080255fd7a044793e79ec23",
+    "source_sha256": "6675712c498b0de1bd51049059d7459f7d275c755c9bb9cfb4caed9f69536aa6",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "376131190785f34249cee5635f2611ef340ea9fb9080255fd7a044793e79ec23",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

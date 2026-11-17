@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "7db5eef2e5859c19369646f5b3f9b7d3ccffe28cf8cf223de3455d333204816e",
+    "revid": 18552
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:58Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Blood_spray_(talent)",
+    "kind": "talent",
+    "pageid": 1187,
+    "wiki_title": "Blood spray (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "f2f5cf755132d4e76ab7648626afac11971faef9a5313ace531bef059415f037",
+    "source_sha256": "dc39f43d1a40f9a5497c936f9d164de7a94e3c13a94e6394289349b3ae12da4a",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:58Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "f2f5cf755132d4e76ab7648626afac11971faef9a5313ace531bef059415f037",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

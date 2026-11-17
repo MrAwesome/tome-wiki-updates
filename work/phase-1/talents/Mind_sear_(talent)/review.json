@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "516aecf12ecbf05ce76c380de164eec2149b012a7eecb9fe8b9f7a86cf7e8340",
+    "revid": 23029
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Mind_sear_(talent)",
+    "kind": "talent",
+    "pageid": 1445,
+    "wiki_title": "Mind sear (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "e4c72276dfcff6adc0c7f31fe1d712569a1fa0cb6ff5cb9d0f3149403bb861fc",
+    "source_sha256": "4bf3db5af289d8102e7cc3afd3e99c92f53233392cc7a0fba912da463cb15466",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "e4c72276dfcff6adc0c7f31fe1d712569a1fa0cb6ff5cb9d0f3149403bb861fc",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

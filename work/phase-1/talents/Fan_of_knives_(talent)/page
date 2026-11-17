@@ -1,0 +1,15 @@
+{{Ability box
+|name=Fan of Knives
+|image=fan_of_knives.png
+|game_version=1.7.6
+|category_type={{ct|Technique}}
+|category={{c|Throwing Knives}}
+|require={{TalentReq/TechsDexReq2}}
+|cost=20 Stamina
+|cooldown=10
+|travel_speed=1000% of base
+|use_speed=Throwing
+|desc=
+You keep a special stash of {{cTS|8|20}} throwing knives in your bandolier, which you can throw all at once at enemies within a radius 5 cone, for {{cTL|100%|40|75%}} damage each.
+Each target can be hit up to 5 times, if the number of knives exceeds the number of enemies. Creatures block knives from hitting targets behind them.
+}}

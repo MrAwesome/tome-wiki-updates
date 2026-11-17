@@ -1,0 +1,17 @@
+{{Ability box
+|ashes_version=1.1.4
+|game_version=1.7.6
+|name=Cauterize Spirit
+|image=Cauterize_spirit.png
+|category_type={{ct|Corruption}}
+|category={{c|Fearfire}}
+|require=Level (14,15,16,17,18) Magic (30,32,34,36,38)
+|cooldown=15
+|range=1
+|use_speed=Instant
+|desc=
+Removes all detrimental effects but causes you to burn for {{cts|15|5%}} of your max health per effect, over 7 turns.
+This ignores all resists, defenses, and affinities.
+This does not take a turn.
+|avail.classes=[[Doombringer]]
+}}

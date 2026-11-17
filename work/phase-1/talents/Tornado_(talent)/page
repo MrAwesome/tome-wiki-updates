@@ -1,0 +1,19 @@
+{{Ability box
+|game_version=1.7.6
+|image=Tornado.png
+|name=Tornado
+|category_type={{ct|Wild-Gift}}
+|category={{c|Storm Drake Aspect}}
+|require={{TalentReq/GiftsReq3}}
+|cost=14 Equilibrium
+|cooldown=15
+|range={{cts|5|9}}
+|travel_speed=2
+|desc=
+Summon a tornado that moves very slowly towards the target, following it if it changes position.
+Each time it moves every foes within radius 2 takes {{ctmd|10|30}} lightning damage and is knocked back 2 spaces.
+When it reaches the target it explodes in a radius of {{cts|2|4}}, knocking back targets and dealing {{ctmd|10|150}} lightning and {{ctmd|10|150}} physical damage.
+The tornado will move a maximum of 20 times.
+Damage will increase with your Mindpower.
+Each point in storm drake talents also increases your lightning resistance by 1%.
+}}

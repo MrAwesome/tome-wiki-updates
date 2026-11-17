@@ -1,0 +1,21 @@
+{{Ability box
+|game_version=1.7.6
+|ashes_version=1.0.6
+|image=Doomelf haste.png
+|name=Haste of the Doomed
+|category_type={{ct|Race}}
+|category={{c|Doomelf}}
+|require={{TalentReq/RacialReq1}}
+|cooldown={{ctl|10|50|22}}
+|range=4
+|use_speed=0
+|desc=
+Hasten yourself out of phase, teleporting you to a specific location up to 4 spaces away.
+
+You can activate this talent up to twice within the same turn, but the second activation will not be instant.
+
+Afterwards you stay out of phase for 5 turns. In this state your defense is increased by {{css|Wil|7|25}} and all your resistances by {{css|Wil|7|25%}}.
+
+The bonus will increase with your Willpower.
+}}
+*[[Helm of the Dominated]] ([[Ashes of Urh'Rok]] DLC) increases the range of Haste of the Doomed by 1.

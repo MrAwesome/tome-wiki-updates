@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "404992dfc5966e5be7381ea5aad73eed7be86cd4910c0a5db3db16d78c92841d",
+    "revid": 22069
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Power_is_money_(talent)",
+    "kind": "talent",
+    "pageid": 1561,
+    "wiki_title": "Power is money (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "4eb1b288a0f341785ca023e65e6a1ff1dc45703b067c74e08e94feb3dc5f0689",
+    "source_sha256": "958b207fd24723fa3b1613c62048b19012df2e24e9b82152eb1ef2485a88aed1",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "4eb1b288a0f341785ca023e65e6a1ff1dc45703b067c74e08e94feb3dc5f0689",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

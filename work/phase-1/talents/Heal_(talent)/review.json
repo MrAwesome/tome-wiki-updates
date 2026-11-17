@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "2202beae07703646d1b20e4d9732b640610b0378d36c15a9b369cb2a51c4bf71",
+    "revid": 9927
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Heal_(talent)",
+    "kind": "talent",
+    "pageid": 2966,
+    "wiki_title": "Heal (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "d2491672d50d886077e0e8a2d763abcb31826acc0821655beaa857f9a0813fad",
+    "source_sha256": "dc640c1af5d22a45472d843380c9de01334530b3831bd2b9fe88ee0cba3abc23",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "d2491672d50d886077e0e8a2d763abcb31826acc0821655beaa857f9a0813fad",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

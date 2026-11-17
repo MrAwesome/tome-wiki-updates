@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "0085d6ef64dce1fef5a40c553305e005fbe46a7491cbc7bd9766fd95edcf15f0",
+    "revid": 23205
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:58Z",
+      "event": "deterministic_render_applied",
+      "reason": "baseline_preserved"
+    }
+  ],
+  "identity": {
+    "filename": "Anomaly_gravity_pull_(talent)",
+    "kind": "talent",
+    "pageid": 7136,
+    "wiki_title": "Anomaly gravity pull (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "baseline_preserved",
+    "candidate_page_sha256": "0085d6ef64dce1fef5a40c553305e005fbe46a7491cbc7bd9766fd95edcf15f0",
+    "source_sha256": "cc36f9e9f4aaec5230730e339ec389d2185f125afad3bd5fc061d2a0631aca25",
+    "status": "unsupported_info",
+    "updated_at": "2026-11-08T16:08:58Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "0085d6ef64dce1fef5a40c553305e005fbe46a7491cbc7bd9766fd95edcf15f0",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

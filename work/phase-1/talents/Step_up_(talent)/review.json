@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "8c6ff0be7ef4f3fea0a212e789ef57ca920e024428fc7c106c160a7b67a72fe2",
+    "revid": 7684
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "baseline_preserved"
+    }
+  ],
+  "identity": {
+    "filename": "Step_up_(talent)",
+    "kind": "talent",
+    "pageid": 1084,
+    "wiki_title": "Step up (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "baseline_preserved",
+    "candidate_page_sha256": "8c6ff0be7ef4f3fea0a212e789ef57ca920e024428fc7c106c160a7b67a72fe2",
+    "source_sha256": "f86a3908a248be89dcc2cac7ee341ccd307fcedf5fddc04fde46cd9edfad9603",
+    "status": "unsupported_info",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "8c6ff0be7ef4f3fea0a212e789ef57ca920e024428fc7c106c160a7b67a72fe2",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

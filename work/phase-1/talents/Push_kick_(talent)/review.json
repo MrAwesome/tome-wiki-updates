@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "4332b13bc648d510837bb110b75163a4091e6bd01b4f8cc18d879ad91c4b2ec7",
+    "revid": 5340
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "baseline_preserved"
+    }
+  ],
+  "identity": {
+    "filename": "Push_kick_(talent)",
+    "kind": "talent",
+    "pageid": 1539,
+    "wiki_title": "Push kick (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "baseline_preserved",
+    "candidate_page_sha256": "4332b13bc648d510837bb110b75163a4091e6bd01b4f8cc18d879ad91c4b2ec7",
+    "source_sha256": null,
+    "status": "unmatched_source",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "4332b13bc648d510837bb110b75163a4091e6bd01b4f8cc18d879ad91c4b2ec7",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

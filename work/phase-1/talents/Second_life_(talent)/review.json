@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "61e7937c22d08517dff8066127d16ce3114652fb6ac11afcee0ab1bed95e3a10",
+    "revid": 22777
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "baseline_preserved"
+    }
+  ],
+  "identity": {
+    "filename": "Second_life_(talent)",
+    "kind": "talent",
+    "pageid": 145,
+    "wiki_title": "Second life (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "baseline_preserved",
+    "candidate_page_sha256": "61e7937c22d08517dff8066127d16ce3114652fb6ac11afcee0ab1bed95e3a10",
+    "source_sha256": "af245231a506d8169ca124f83e624e5f88212b736a7895309e6350e83ee923d8",
+    "status": "unsupported_info",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "61e7937c22d08517dff8066127d16ce3114652fb6ac11afcee0ab1bed95e3a10",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

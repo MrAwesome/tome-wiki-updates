@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "cfdf2127ca010ef88346d57701ef7684da4230db022735385e65f0d3554fbce1",
+    "revid": 14181
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:58Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Aether_breach_(talent)",
+    "kind": "talent",
+    "pageid": 1347,
+    "wiki_title": "Aether breach (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "3115671e0ffae10e8062a44fc11e9a361a8259e6e8519208cbc266e6d776dcbf",
+    "source_sha256": "f40adf8a89c61643ec20e4d2fdd4a910ad53cfbb9139f5d096833d6750fa25cb",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:58Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "3115671e0ffae10e8062a44fc11e9a361a8259e6e8519208cbc266e6d776dcbf",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

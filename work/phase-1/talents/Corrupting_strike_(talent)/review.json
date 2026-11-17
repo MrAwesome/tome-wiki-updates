@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "d7f51ee2bc1f252cc9bb58755f62813cb118ed9c22593536104c50e60524b0e8",
+    "revid": 18529
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:58Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Corrupting_strike_(talent)",
+    "kind": "talent",
+    "pageid": 5884,
+    "wiki_title": "Corrupting strike (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "521825a71b555656b0ac8fb933b6889d490173a2420d3c94d740477fe770da35",
+    "source_sha256": "3b7068e844306823ae2aed4c1b2c3a9ce24e35e6dda31d42958f84bc1fd852d9",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:58Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "521825a71b555656b0ac8fb933b6889d490173a2420d3c94d740477fe770da35",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

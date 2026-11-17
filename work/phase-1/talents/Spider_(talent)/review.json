@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "2fbd950b6fc443ca73d47a1ea69fa8876501d89cdf0281440e28fe39a9cb21b3",
+    "revid": 8372
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "baseline_preserved"
+    }
+  ],
+  "identity": {
+    "filename": "Spider_(talent)",
+    "kind": "talent",
+    "pageid": 1175,
+    "wiki_title": "Spider (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "baseline_preserved",
+    "candidate_page_sha256": "2fbd950b6fc443ca73d47a1ea69fa8876501d89cdf0281440e28fe39a9cb21b3",
+    "source_sha256": "b7f9b25c89954bcf7b8affbaf2b05c6715777e6b69652079fb9bad36c2bb1540",
+    "status": "unsupported_info",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "2fbd950b6fc443ca73d47a1ea69fa8876501d89cdf0281440e28fe39a9cb21b3",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

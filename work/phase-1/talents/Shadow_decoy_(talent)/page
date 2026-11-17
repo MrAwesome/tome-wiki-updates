@@ -1,0 +1,16 @@
+{{Ability box
+|game_version=1.7.6
+|image=shadow_decoy.png
+|name=Shadow Decoy
+|category_type={{ct|Cursed}}
+|category={{c|One With Shadows}}
+|require={{TalentReq/CursedCunReqHigh4}}
+|use_mode=Sustained
+|cost=40 Hate
+|cooldown=50
+|desc=
+Your shadows guard you with their lives.
+When you would receive a fatal blow, you instantly transpose with a random shadow that takes the blow instead, putting this talent on cooldown.
+For the next 4 turns you only die if you reach -{{ctmd|10|710}} life.
+Effect increases with Mindpower.
+}}

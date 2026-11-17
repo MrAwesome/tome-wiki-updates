@@ -1,0 +1,32 @@
+{{Ability box
+|game_version=1.7.6
+|image=Drain.png
+|name=Drain
+|category_type={{ct|Corruption}}
+|category={{c|Sanguisuge}}
+|require={{TalentReq/CorrsReq1}}
+|cost=0 Vim
+|cooldown=5
+|travel_speed=15
+|use_speed=Spell
+|range={{ctl|10|6|10}}
+|desc=
+Fires a bolt of blight, doing {{ctspd|25|200}} blight damage and replenishing 20% of it as vim energy.
+The amount of vim regained depends on the target's rank (higher ranks give more vim).
+The effect will increase with your Spellpower.
+}}
+
+{| class=wikitable
+! Rank !! Multiplier !! Monster Type
+|-
+| 1 || 0.7 || Normal
+|-
+| 2 || 1 || Rare
+|-
+| 3 || 1.2 || Unique
+|-
+| 3.2 || 1.2 || Boss
+|-
+| 3.5 || 2.2 || Elite Boss
+|-
+|}

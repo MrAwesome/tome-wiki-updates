@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "f6ecee706e6d4d48af0b4f98ca15640e502bbbb008db620bdb130f43cf18402c",
+    "revid": 22329
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Instant_channeling_(talent)",
+    "kind": "talent",
+    "pageid": 5193,
+    "wiki_title": "Instant channeling (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "f6ecee706e6d4d48af0b4f98ca15640e502bbbb008db620bdb130f43cf18402c",
+    "source_sha256": "a9467b5e48458013d77dce1a687e79ec9eccad178746db4efe086075a0d57184",
+    "status": "no_change",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "f6ecee706e6d4d48af0b4f98ca15640e502bbbb008db620bdb130f43cf18402c",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

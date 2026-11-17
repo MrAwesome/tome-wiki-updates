@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "21eafcb740cde2da3eefacfea449745da663058aa8d16b0690f4d7fef1f3b95f",
+    "revid": 5719
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "baseline_preserved"
+    }
+  ],
+  "identity": {
+    "filename": "Kinetic_folding_(talent)",
+    "kind": "talent",
+    "pageid": 1653,
+    "wiki_title": "Kinetic folding (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "baseline_preserved",
+    "candidate_page_sha256": "21eafcb740cde2da3eefacfea449745da663058aa8d16b0690f4d7fef1f3b95f",
+    "source_sha256": null,
+    "status": "unmatched_source",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "21eafcb740cde2da3eefacfea449745da663058aa8d16b0690f4d7fef1f3b95f",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

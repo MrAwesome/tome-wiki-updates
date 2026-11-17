@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "cd617a3d471c9b98fb85cf5e9c69abd3ffaa343ee21e16ed11ec2ccc48784ce5",
+    "revid": 8185
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "baseline_preserved"
+    }
+  ],
+  "identity": {
+    "filename": "Harass_prey_(talent)",
+    "kind": "talent",
+    "pageid": 1144,
+    "wiki_title": "Harass prey (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "baseline_preserved",
+    "candidate_page_sha256": "cd617a3d471c9b98fb85cf5e9c69abd3ffaa343ee21e16ed11ec2ccc48784ce5",
+    "source_sha256": "38eae0c3f4ab833c0e9ab2699bcc9090ba8828fb32dd800bedcc202ed7a25fea",
+    "status": "unsupported_info",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "cd617a3d471c9b98fb85cf5e9c69abd3ffaa343ee21e16ed11ec2ccc48784ce5",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

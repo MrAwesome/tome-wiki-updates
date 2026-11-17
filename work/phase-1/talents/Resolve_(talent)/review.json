@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "54e7849eb488d3e25a9df0cd1c30a3a0b629346853603151945186575fe10a9b",
+    "revid": 19187
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "baseline_preserved"
+    }
+  ],
+  "identity": {
+    "filename": "Resolve_(talent)",
+    "kind": "talent",
+    "pageid": 1202,
+    "wiki_title": "Resolve (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "baseline_preserved",
+    "candidate_page_sha256": "54e7849eb488d3e25a9df0cd1c30a3a0b629346853603151945186575fe10a9b",
+    "source_sha256": "b8ef21bb203132d962387658dd9cca3fcc3bea08da8c2ff52a26fed74fd66082",
+    "status": "unsupported_info",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "54e7849eb488d3e25a9df0cd1c30a3a0b629346853603151945186575fe10a9b",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "c8f3ba8764a84536976908ccdfd02ce35b852afd5cffc751a422010e673bb2cf",
+    "revid": 19460
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "baseline_preserved"
+    }
+  ],
+  "identity": {
+    "filename": "Runeskin_(talent)",
+    "kind": "talent",
+    "pageid": 6090,
+    "wiki_title": "Runeskin (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "baseline_preserved",
+    "candidate_page_sha256": "c8f3ba8764a84536976908ccdfd02ce35b852afd5cffc751a422010e673bb2cf",
+    "source_sha256": "6cee58bfb87aa38e5e79ecf03570cfbbde5de0c5ad7faf2268955b2b12927dc9",
+    "status": "unsupported_info",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "c8f3ba8764a84536976908ccdfd02ce35b852afd5cffc751a422010e673bb2cf",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

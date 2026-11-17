@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "9a413f295ba34c9cfde51c39b811f7d9cbb12e2a23986db6713443f730c7399f",
+    "revid": 12183
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Flame_infusion_(talent)",
+    "kind": "talent",
+    "pageid": 3261,
+    "wiki_title": "Flame infusion (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "7bea257f423d8d007917fbea54b28b76fd0e4f643cbc6a691137578d1ba38fc7",
+    "source_sha256": "960cd7fd46c1344be4e56277d23eed1f3950e8975f860de5ba4c3990eac36f07",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "7bea257f423d8d007917fbea54b28b76fd0e4f643cbc6a691137578d1ba38fc7",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

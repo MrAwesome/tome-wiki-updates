@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "a8767f92108682560527d1e7db7f2094fbdf840fbd8555adce4aea15545f8782",
+    "revid": 14019
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Onslaught_(talent)",
+    "kind": "talent",
+    "pageid": 1292,
+    "wiki_title": "Onslaught (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "135b35384b904e6316201c4ee31065553a90d9a80a76b8df8e6aa067f4481615",
+    "source_sha256": "cfb24e66594c7d059b466e73eede07c64963f5659147f6774095d3e4bfa23903",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "135b35384b904e6316201c4ee31065553a90d9a80a76b8df8e6aa067f4481615",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

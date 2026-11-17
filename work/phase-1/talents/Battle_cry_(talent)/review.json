@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "bad42392dc68fcc06cc7b1cec824a0f7e85c146ce7638de959cda2a68d21e08e",
+    "revid": 14065
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:58Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Battle_cry_(talent)",
+    "kind": "talent",
+    "pageid": 1502,
+    "wiki_title": "Battle cry (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "f05e18ae9362122023e6b7025f4705f1b262469f0f7cdd569b39cafb0c6aca5c",
+    "source_sha256": "fabb2618fcab9a25cce43473e048b2ab64d5c7f92cbd68b9bbeaa3b6799f3e3e",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:58Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "f05e18ae9362122023e6b7025f4705f1b262469f0f7cdd569b39cafb0c6aca5c",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

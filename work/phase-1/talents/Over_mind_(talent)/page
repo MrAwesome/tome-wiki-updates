@@ -1,0 +1,19 @@
+{{Ability_box
+|game_version=1.7.6
+|image=Over mind.png
+|name=Over mind
+|category_type=[[Psionic (category type)|Psionic]]
+|category=[[Thought-forms (category)|Thought-forms]]
+|require={{TalentReq/PsiWilReq3}}
+|use_mode=Sustained
+|cost=50 Psi
+|cooldown=24
+|desc=
+Take direct control of your active thought-form, improving its damage, attack speed, and maximum life by {{ctmd|5|50}}, but leaving your body a defenseless shell.
+
+At talent level 1, any Feedback your Thought-Forms gain will be given to you as well. At level 3, your Thought-Forms gain a bonus to all saves equal to your Mental Save. At level 5, they gain a bonus to all damage equal to your bonus mind damage.
+
+The secondary bonuses apply whether or not this talent is currently active.
+
+The life, damage, and speed bonus will improve with your Mindpower.
+}}

@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "871fccf65816da34585a1ae608200bde68c05705d612f611683c23c4e4c25594",
+    "revid": 13869
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "baseline_preserved"
+    }
+  ],
+  "identity": {
+    "filename": "Sun_ray_(talent)",
+    "kind": "talent",
+    "pageid": 3334,
+    "wiki_title": "Sun ray (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "baseline_preserved",
+    "candidate_page_sha256": "871fccf65816da34585a1ae608200bde68c05705d612f611683c23c4e4c25594",
+    "source_sha256": "35afd14eba69d96a9a2742ecc52046618d170c6d6ae04b6a2a28d2edbdf76686",
+    "status": "unsupported_info",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "871fccf65816da34585a1ae608200bde68c05705d612f611683c23c4e4c25594",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

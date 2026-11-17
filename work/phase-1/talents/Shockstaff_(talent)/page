@@ -1,0 +1,17 @@
+{{Ability box
+|image = Shockstaff.png
+|name = Shockstaff
+|game_version = 1.7.6
+|embers_version = 1.1.10
+|category_type = {{ct|Steamtech}}
+|category = {{c|Heavy Weapons}}
+|cooldown = 10
+|range = Steamgun range
+|use_mode = Sustained
+|use_speed = Steamtech
+|desc = You replace your steamgun and attack with a lightning-charged staff to engage in close combat.
+
+Deals {{ctwd|120|150%}} steamgun damage as {{lightning}} to enemies in a frontal arc, as well as reducing the damage they deal by {{ctl|50|10|25%}} for 3 turns. This counts as a melee attack but triggers ammunition on-hit effects. All shockstaff attacks will also make a shield slam for the same damage as {{lightning}}.
+
+You can charge up to your steamgun's range to make shockstaff attacks.
+}}

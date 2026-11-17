@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "d21f32aeed22a4c6aab0457f0c189d60ed0d3cba4a526ceafa64b387f9af6aff",
+    "revid": 13077
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Mountainhewn_(talent)",
+    "kind": "talent",
+    "pageid": 4613,
+    "wiki_title": "Mountainhewn (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "ca68e33e1227aa69fcf2b6a6f8cf4f833ee485b84eacb5bed9b00f568c3fb9e1",
+    "source_sha256": "f9713df0c187e411be339aeb177f316babac03974d9bb0cab6f3af6b6d485274",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "ca68e33e1227aa69fcf2b6a6f8cf4f833ee485b84eacb5bed9b00f568c3fb9e1",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

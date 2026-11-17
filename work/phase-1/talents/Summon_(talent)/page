@@ -1,0 +1,10 @@
+{{Ability_box
+|name=Summon
+|image=Summon.png
+|category_type=NPC only
+|game_version=1.7.6
+|range=10
+|cost=18 Equilibrium
+|cooldown=1
+|desc=Summon allies.
+}}

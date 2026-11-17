@@ -1,0 +1,16 @@
+{{Ability box
+|image=Wraithform_2017.png
+|name=Wraithform
+|category_type={{ct|Corruption}}
+|category={{c|Shadowflame}}
+|require={{TalentReq/CorrsReq1}}
+|cost=12 Vim
+|cooldown=30
+|use_speed=Instant
+|desc=
+Turn into a wraith, allowing you to walk through walls and removing the need to breath for {{ctl|30|5|9}} turns.
+
+Also increases your Defense by {{ctspd|5|19}} and Armour by {{ctspd|5|15}}.
+
+If you are still in a wall when the effect ends you will randomly teleport.
+}}

@@ -1,0 +1,18 @@
+{{Ability box
+|image = Supernova.png
+|name = Supernova
+|game_version = 1.7.6
+|embers_version = 1.1.10
+|category_type = {{ct|Celestial}}
+|category = {{c|Cosmic}}
+|require = {{TalentReq/DiviReq4}}
+|cooldown = {{ctl|15|40|25}}
+|cost = 30 Negative energy
+|range = 6
+|use_speed = Spell
+|desc = Expend all of your negative energy to create a massive burst of dark energy (radius {{cs|({{gtl|1|5}} * Negative energy)|1|0|4|1000}}) at a target location within range 6.
+
+This deals {{ctspd|40|260}} * (0.5 + Negative energy / 100) {{darkness}} damage and pins targets hit for {{cs|({{gtl|1|5}} * Negative energy)|2|0|8 turns|1000}}.
+
+The damage and pin chance increase with your spellpower, and the damage, radius and pin duration all increase with negative energy and talent level
+}}

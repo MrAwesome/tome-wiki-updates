@@ -1,0 +1,13 @@
+{{Ability box
+|game_version=1.7.6
+|image=Phase summon.png
+|name=Phase Summon
+|category_type={{ct|Wild-Gift}}
+|category={{c|Summoning (Augmentation)}}
+|require={{TalentReq/GiftsReq4}}
+|cost=5 Equilibrium
+|cooldown=25
+|range=10
+|desc=
+Switches places with one of your summons. This disorients your foes, granting both you and your summon 50% evasion for {{cts|2|6}} turns.
+}}

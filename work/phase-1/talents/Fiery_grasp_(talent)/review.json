@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "ad2943fb389766f08fedc3d7c5fb85e037eb51c7e1f73687a1a6e02116533ccd",
+    "revid": 16905
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Fiery_grasp_(talent)",
+    "kind": "talent",
+    "pageid": 3745,
+    "wiki_title": "Fiery grasp (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "a2b66787a48cd64e2fbeb47d854ea24ab5d076ea7ca29701d7fd804aa579b9d0",
+    "source_sha256": "98445e8d729b25a81d276add49387ac07a1ce10b7cc8c5feae4a62e645c2552d",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "a2b66787a48cd64e2fbeb47d854ea24ab5d076ea7ca29701d7fd804aa579b9d0",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

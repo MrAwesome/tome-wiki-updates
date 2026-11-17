@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "db8edb2753aa3926d50d59bf17de2657cd94fc2023674df17843d05f0f329c7a",
+    "revid": 8307
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "baseline_preserved"
+    }
+  ],
+  "identity": {
+    "filename": "Poison_storm_(talent)",
+    "kind": "talent",
+    "pageid": 1124,
+    "wiki_title": "Poison storm (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "baseline_preserved",
+    "candidate_page_sha256": "db8edb2753aa3926d50d59bf17de2657cd94fc2023674df17843d05f0f329c7a",
+    "source_sha256": "ef262a77f0a27f826412d273af6b3f61a1f3f8eccfaa97f58b8b8a5f1f6b7d7b",
+    "status": "unsupported_info",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "db8edb2753aa3926d50d59bf17de2657cd94fc2023674df17843d05f0f329c7a",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

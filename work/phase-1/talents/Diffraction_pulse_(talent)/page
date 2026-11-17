@@ -1,0 +1,15 @@
+{{Ability box
+|image = Diffraction pulse.png
+|name = Diffraction Pulse
+|game_version = 1.7.6
+|embers_version = 1.1.10
+|category_type = {{ct|Celestial}}
+|category = {{c|Reflection}}
+|require = {{TalentReq/DiviReq1}}
+|cooldown = {{ctl|3|23|8}}
+|cost = 10 Positive energy
+|range = {{cts|2|8|0.75}}
+|use_speed = Spell
+|desc =
+Create a distortion at the target tile, knocking back all projectiles and changing their direction to face away if possible.
+}}

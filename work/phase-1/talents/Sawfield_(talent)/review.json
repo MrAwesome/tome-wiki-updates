@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "9cd8a08bf5e2784b06bfd295613ac966112ae61fe3a9d8932f104afdf7f8ce88",
+    "revid": 14561
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Sawfield_(talent)",
+    "kind": "talent",
+    "pageid": 5171,
+    "wiki_title": "Sawfield (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "98d60a8bd047a95cc12ea16f11f7ea1e10f54453fee6a1936b58e02dd59d6144",
+    "source_sha256": "a6a503ad9f3f8fd9a72539d8dbfa39d015002d678d54f7497a3911af1258b441",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "98d60a8bd047a95cc12ea16f11f7ea1e10f54453fee6a1936b58e02dd59d6144",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

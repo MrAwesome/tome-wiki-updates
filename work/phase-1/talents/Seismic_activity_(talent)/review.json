@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "75e75c3eb49b804cdc1071ae5c57a848cd4c9a8ca802314914ad9300a1609d57",
+    "revid": 12169
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Seismic_activity_(talent)",
+    "kind": "talent",
+    "pageid": 4477,
+    "wiki_title": "Seismic activity (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "da94e7e88d7ce8d256c58d81fd4d8c34a332e28d184cf8632ee3e8378e1c2465",
+    "source_sha256": "c213a3c5b3d968fd0d6fe23b7427d1aeba965157923639faa04a377e1e9d465b",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "da94e7e88d7ce8d256c58d81fd4d8c34a332e28d184cf8632ee3e8378e1c2465",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

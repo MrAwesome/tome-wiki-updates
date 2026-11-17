@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "fa84ae33f6075f96913bcf51242f58a10b8b1e992051aee523f386385c7b1fdb",
+    "revid": 19037
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "baseline_preserved"
+    }
+  ],
+  "identity": {
+    "filename": "Shadow_simulacrum_(talent)",
+    "kind": "talent",
+    "pageid": 140,
+    "wiki_title": "Shadow simulacrum (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "baseline_preserved",
+    "candidate_page_sha256": "fa84ae33f6075f96913bcf51242f58a10b8b1e992051aee523f386385c7b1fdb",
+    "source_sha256": "6ba661780800c736c0fbdc10560fcf413516d7dad60f5d4c84cf843053b78d70",
+    "status": "unsupported_info",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "fa84ae33f6075f96913bcf51242f58a10b8b1e992051aee523f386385c7b1fdb",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

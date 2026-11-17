@@ -1,0 +1,24 @@
+{{Ability_box
+|name = Revelation
+|image = Revelation.png
+|category_type = {{ct|Demented}}
+|category = {{c|Doom}}
+|game_version = 1.7.4
+|forbidden_version = 1.0.12
+|require = {{TalentReq/DementedReq4}}
+|use_mode = Sustained
+|cooldown=10
+|use_speed = Spell
+|desc = 
+As you speak the chosen prophecy whispers from the void guide you in how to bring about the downfall of your foe. The chosen prophecy will grant one of the following effects.
+
+{{t|Prophecy of Madness}}: Each time the target uses a talent one of your talents on cooldown has its cooldown reduced by {{cts|1|4.5}} turns.
+
+{{t|Prophecy of Ruin}}: Each time the target takes damage you are healed for {{cts|5|15}}% of the damage dealt.
+
+{{t|Prophecy of Treason}}: {{cts|5|20}}% of all damage you take is redirected to a random target affected by {{t|Prophecy of Treason}}.
+
+A prophecy can only be affected by one of {{t|Grand Oration}}, {{t|Twofold Curse}} or {{t|Revelation}}.
+
+''Note: the player can target themselves with {{t|Prophecy of Madness}} and benefit from the cooldown reduction provided by this talent''
+}}

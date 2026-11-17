@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "e29ddf211cd252e781b4e4009c80bba890de5707e9e3ae37f97e8375982a5ff9",
+    "revid": 14162
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Metaflow_(talent)",
+    "kind": "talent",
+    "pageid": 1599,
+    "wiki_title": "Metaflow (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "ed6eb970e0bbe51de0c56688c4aad582e43dd58a0c074405eced4beb33835f39",
+    "source_sha256": "fc9fe66d0a01a8a5902bfc39620e5f862291a0ff7b8b64806e33d703ab038f9f",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "ed6eb970e0bbe51de0c56688c4aad582e43dd58a0c074405eced4beb33835f39",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "c0d003d734d00fec1364dbcfa20e3241c8bc2606ee27ef831c6157a743d61ec8",
+    "revid": 22984
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:58Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Defensive_posture_(talent)",
+    "kind": "talent",
+    "pageid": 1705,
+    "wiki_title": "Defensive posture (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "c0d003d734d00fec1364dbcfa20e3241c8bc2606ee27ef831c6157a743d61ec8",
+    "source_sha256": "c68a316b764d54da527c0b2a3a502a0e93664ee26bc9938824f5ed9290827da9",
+    "status": "no_change",
+    "updated_at": "2026-11-08T16:08:58Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "c0d003d734d00fec1364dbcfa20e3241c8bc2606ee27ef831c6157a743d61ec8",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

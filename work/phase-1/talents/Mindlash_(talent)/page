@@ -1,0 +1,15 @@
+{{Ability_box
+|game_version=1.7.6
+|image=Mindlash.png
+|name=Mindlash
+|category_type=[[Psionic (category type)|Psionic]]
+|category=[[Focus (category)|Focus]]
+|require={{TalentReq/PsiWilReq1}}
+|use_mode=Activated
+|range={{cts|4|6}}
+|cost=10 Psi
+|cooldown=3
+|desc=
+Focus energies into a beam to lash all creatures in a line with physical force, doing {{ctmd|10|240}} Physical damage and knocking them off balance (-15% damage penalty) for 2 turns.
+The damage will scale with your Mindpower.
+}}

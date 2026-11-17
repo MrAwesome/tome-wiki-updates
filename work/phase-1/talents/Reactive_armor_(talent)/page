@@ -1,0 +1,18 @@
+{{Ability box
+|image = Reactive armor.png
+|name = Reactive Armor
+|game_version = 1.7.6
+|embers_version = 1.1.10
+|category_type = {{ct|Steamtech}}
+|category = {{c|Demolition}}
+|require = {{TalentReq/DexSteamReq2}}
+|cooldown = 10 - Talent level, rounded down (min 3)
+|use_mode = Passive
+|desc = You line your armor with explosive plating that detonates when struck. On taking a melee or ranged hit that deals more than 8% of your maximum life a plate detonates, reducing the damage taken by {{ctl|100|15|40%}} and triggering a basic grenade attack in a radius {{cts|3|7}} cone projected at the target dealing 25% of its usual damage.
+
+This cannot trigger more than once per turn.
+
+Blocking an attack with your shield will also trigger the retaliation damage, if it has not already triggered this turn.
+
+You have up to 3 plates at a time, and regain one every (10 - Talent level, rounded down) turns (min 3).
+}}

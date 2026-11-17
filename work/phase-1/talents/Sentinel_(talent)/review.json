@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "0bcf3f69baacbefd4d0c3d7966d6d8705e1f7c628651cbadd58cb46e837ea2f4",
+    "revid": 13768
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Sentinel_(talent)",
+    "kind": "talent",
+    "pageid": 4690,
+    "wiki_title": "Sentinel (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "d998d4a4cb9556b66d90b0d695d25ed5a263f069ada9f49cc7de50790c41bde3",
+    "source_sha256": "0a5387018a676d2b4dc2a913202410a39e21b76df8003057bdf488409353820f",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "d998d4a4cb9556b66d90b0d695d25ed5a263f069ada9f49cc7de50790c41bde3",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

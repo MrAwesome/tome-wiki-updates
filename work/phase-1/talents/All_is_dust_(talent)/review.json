@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "62bfca2903d14b3e0d730ca6e3d2d3ef14990bfca98752fc4693205522c3af8e",
+    "revid": 18702
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:58Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "All_is_dust_(talent)",
+    "kind": "talent",
+    "pageid": 5943,
+    "wiki_title": "All is dust (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "cbe2f45a4b9a45a7fbc47f424c54fa62b8439605eb65dc4a6b1568c9842ad350",
+    "source_sha256": "3242012a234a5b9a8c9ebfdb57556803619c8b752954e150d2b653806cb1d44b",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:58Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "cbe2f45a4b9a45a7fbc47f424c54fa62b8439605eb65dc4a6b1568c9842ad350",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

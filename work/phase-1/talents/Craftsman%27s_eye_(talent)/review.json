@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "893178601c92742e7ad6442fcad18e8c441456125c6b15977ceeef36e5f5c000",
+    "revid": 23063
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:58Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Craftsman%27s_eye_(talent)",
+    "kind": "talent",
+    "pageid": 4409,
+    "wiki_title": "Craftsman's eye (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "15a24acf5ec3728bfdb0a3ebbf7db0978bd36f8bb66931f74aefa3f04f314a7a",
+    "source_sha256": "0ec9dc9025bb72d3017c4ab18950a7e35950de7819ebc5385e8e327bf055b772",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:58Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "15a24acf5ec3728bfdb0a3ebbf7db0978bd36f8bb66931f74aefa3f04f314a7a",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

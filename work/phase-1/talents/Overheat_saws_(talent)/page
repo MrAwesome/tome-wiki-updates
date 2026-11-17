@@ -1,0 +1,14 @@
+{{Ability box
+|image=Overheat saws.png
+|name=Overheat saws
+|game_version=1.7.6
+|embers_version=1.1.10
+|category_type={{ct|Steamtech}}
+|category={{c|Butchery}}
+|require={{TalentReq/SteamReq2}}
+|use_mode=Sustained
+|cost=3 Steam drain
+|desc=
+Channel hot steam around your saws, burning foes you strike in melee for {{ctstmd|20|120}} fire damage over 3 turns (which can stack)!
+#{italic}#Hot, steamy maiming!#{normal}#
+}}

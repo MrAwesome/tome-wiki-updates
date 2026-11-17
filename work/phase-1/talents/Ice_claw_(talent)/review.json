@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "fcbcdcef948ba039e32d0cc59c6a3ec4e360e1e2a309adbf82e6c552df13bd39",
+    "revid": 16429
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Ice_claw_(talent)",
+    "kind": "talent",
+    "pageid": 1605,
+    "wiki_title": "Ice claw (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "69e7e0d9a5185f4c579bd6692dbfbd1d85fc801d2541ea728c2862c32b1e97ae",
+    "source_sha256": "e88b6d927b12f1890098811affb3fd1326d57ff3a79b6a551ebb564dad991b7b",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "69e7e0d9a5185f4c579bd6692dbfbd1d85fc801d2541ea728c2862c32b1e97ae",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

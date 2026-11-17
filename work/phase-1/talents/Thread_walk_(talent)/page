@@ -1,0 +1,16 @@
+{{Ability box
+|game_version=1.7.6
+|image=Thread walk.png
+|name=Thread Walk
+|category_type={{ct|Chronomancy}}
+|category={{c|Threaded Combat}}
+|require={{TalentReq/ChronoReqHigh1}}
+|cost=10 Paradox
+|cooldown=10
+|desc=
+Attack with your bow or dual-weapons for {{ctwd|100|150%}} damage.  If you shoot an arrow you'll teleport near the target location.  If you use your dual-weapons you'll teleport up to your bow's range away.
+
+Additionally you now go Out of Phase for five turns after any teleport, gaining {{ctstd|Mag|10|25}} defense and {{ctstd|Mag|5|15}} resist all.
+
+The Out of Phase bonuses will scale with your Magic stat.
+}}

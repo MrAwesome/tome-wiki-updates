@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "41890edef69ffe23ee5788a94623b317f042ce885d34f7a5774a4140c5dc17ba",
+    "revid": 22059
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "baseline_preserved"
+    }
+  ],
+  "identity": {
+    "filename": "Grace_of_the_eternals_(talent)",
+    "kind": "talent",
+    "pageid": 1484,
+    "wiki_title": "Grace of the eternals (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "baseline_preserved",
+    "candidate_page_sha256": "41890edef69ffe23ee5788a94623b317f042ce885d34f7a5774a4140c5dc17ba",
+    "source_sha256": "958b207fd24723fa3b1613c62048b19012df2e24e9b82152eb1ef2485a88aed1",
+    "status": "unsupported_info",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "41890edef69ffe23ee5788a94623b317f042ce885d34f7a5774a4140c5dc17ba",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

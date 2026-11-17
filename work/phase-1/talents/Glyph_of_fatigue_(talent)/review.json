@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "017639f71aee514e794f03c5f581f3a5a2b2f9ef705d6fef1e2c919b471d9f3d",
+    "revid": 8336
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "baseline_preserved"
+    }
+  ],
+  "identity": {
+    "filename": "Glyph_of_fatigue_(talent)",
+    "kind": "talent",
+    "pageid": 126,
+    "wiki_title": "Glyph of fatigue (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "baseline_preserved",
+    "candidate_page_sha256": "017639f71aee514e794f03c5f581f3a5a2b2f9ef705d6fef1e2c919b471d9f3d",
+    "source_sha256": "a23e1716240c831103adaef4912428f406fc6c23e9078ca024756985fa0621ed",
+    "status": "unsupported_info",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "017639f71aee514e794f03c5f581f3a5a2b2f9ef705d6fef1e2c919b471d9f3d",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

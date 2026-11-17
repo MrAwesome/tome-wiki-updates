@@ -1,0 +1,14 @@
+{{Ability box
+|image=Balance.png
+|name=Balance
+|category_type={{ct|Psionic}}
+|category={{c|Solipsism}}
+|require={{TalentReq/PsiWilReq2}}
+|use_mode=Passive
+|desc=
+You now substitute (10 + 10 * Talent Level)% of your Mental Save for (10 + 10 * Talent Level)% of your Physical and Spell Saves throws (so at 100%, you would effectively use mental save for all saving throw rolls).
+
+The first talent point invested will also increase the amount of Psi you gain from Willpower by 0.5, but reduce the amount of life you gain from Constitution by 0.25.
+
+Learning this talent also increases your solipsism threshold by 10%.
+}}

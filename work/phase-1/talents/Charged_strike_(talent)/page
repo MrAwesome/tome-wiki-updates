@@ -1,0 +1,17 @@
+{{Ability_box
+|game_version=1.7.6
+|image=charged_strike.png
+|name=Charged Strike
+|category_type=[[Psionic (category type)|Psionic]]
+|category={{c|Augmented Striking}}
+|require={{TalentReq/PsiWilReq3}}
+|use_mode=Activated
+|cost=10 Psi
+|cooldown=8
+|desc=
+Focus charged energy and strike an enemy for {{ctwd|50|200%}} weapon damage as lightning.
+Energy will then discharge from your weapon, doing an extra {{ctmd|20|200}} lightning damage and halving their stun/daze/freeze/pin resistance for {{cts|2|6}} turns.
+If the target is pinned and {{t|Charged Shield}} is sustained, its absorb value will be increased by {{ctmd|30|300}}.
+If the target is frozen, the ice will melt in a flash of vapour, knocking back all creatures around it in radius 2.
+The discharge damage will scale with your Mindpower.
+}}

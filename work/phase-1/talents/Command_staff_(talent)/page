@@ -1,0 +1,29 @@
+{{Ability_box
+|image=Command staff.png
+|name=Command Staff
+|game_version=1.7.6
+|category_type={{ct|Spell}}
+|category=[[Spell (category type)#Objects|Object spells]]
+|require=A staff that grants Command Staff equipped in the main hand
+|use_mode=Activated
+|range=Personal
+|cost=-
+|cooldown=5
+|use_speed=Spell
+|desc=
+Alter the flow of energies through a staff.
+|avail=Granted by staves.
+}}
+===Notes===
+*Command Staff can be used while silenced, but not while disarmed.
+
+The standard aspects offer the following damage types. Some artifact staves have a restricted or different selection.
+{| class="wikitable"
+! Aspect !! Damage types
+|-
+| Mage || {{fire}}, {{cold}}, {{lightning}}, {{arcane}}
+|-
+| Star || {{light}}, {{darkness}}, {{temporal}}, {{physical}}
+|-
+| Vile || {{darkness}}, {{blight}}, {{acid}}, {{fire}}
+|}

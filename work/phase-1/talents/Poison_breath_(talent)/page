@@ -1,0 +1,14 @@
+{{Ability box
+|name = Poison Breath
+|game_version = 1.7.6
+|embers_version = 1.1.10
+|category_type = {{ct|Wild-gift}}
+|category = {{c|Other}}
+|cooldown = 8
+|cost = 10 Equilibrium
+|range = 5
+|use_speed = Mind
+|desc =
+Breathe poison on your foes, doing {{ctstd|Wil|30|460}} damage over a few turns.
+The damage will increase with your Willpower.
+}}

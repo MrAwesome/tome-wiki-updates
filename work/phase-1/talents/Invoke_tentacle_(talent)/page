@@ -1,0 +1,9 @@
+{{Ability_box
+|game_version=1.7.6
+|name=Invoke Tentacle
+|category_type=[[NPC Only (category type)|NPC Only]]
+|category=-
+|image=Invoke tentacle.png
+|desc=
+Invoke a tentacle to assault your foes.  If the tentacle is killed, you will lose life equal to 2/3 of it's maximum life.
+}}

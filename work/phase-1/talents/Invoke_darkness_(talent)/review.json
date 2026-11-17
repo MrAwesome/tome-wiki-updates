@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "6c66fd782d4efbbf2b98864c8630eb83bea873e6d23feffc78222390ae1c78e0",
+    "revid": 19376
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Invoke_darkness_(talent)",
+    "kind": "talent",
+    "pageid": 1511,
+    "wiki_title": "Invoke darkness (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "2282c29773015d01c247f4f56bf34f0b2bddad8831bd6783fb4fd18eb5c54a8f",
+    "source_sha256": "04bc75de4d86a0231b1b3a65e4be5344e2ac559a80b89fc09c3e0a1619a26c28",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "2282c29773015d01c247f4f56bf34f0b2bddad8831bd6783fb4fd18eb5c54a8f",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "24ac35bc34776f17a993609cd593cc4d329e210785b2dd87ccaf7bed163f6983",
+    "revid": 15147
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Psychic_crush_(talent)",
+    "kind": "talent",
+    "pageid": 5280,
+    "wiki_title": "Psychic crush (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "df8e3bee3d925636d83e643f6edec0ff1e9dd65abd46847fc2c42d2f16ba5bb0",
+    "source_sha256": "b477d52609e6d06f48a70d7163f172c24e1ab9a8cd66baa9305da15ff3bf09f4",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "df8e3bee3d925636d83e643f6edec0ff1e9dd65abd46847fc2c42d2f16ba5bb0",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

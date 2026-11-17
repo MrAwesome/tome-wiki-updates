@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "4f49839aec93e96e1a6ec697d116de605eaf4a5a262557ef62b3e9d345f833c0",
+    "revid": 20498
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Tricks_of_the_trade_(talent)",
+    "kind": "talent",
+    "pageid": 3482,
+    "wiki_title": "Tricks of the trade (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "f602d253afb508dbc21930ac14207b915f5dc8b9420bb1c4247752639a6d4182",
+    "source_sha256": "e8f5d9281e0eed2b487a52666a6e8551d29371627cd1a604154296c3ae8b6979",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "f602d253afb508dbc21930ac14207b915f5dc8b9420bb1c4247752639a6d4182",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

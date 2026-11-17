@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "dd70d7872e1a735041c118353d4303c673f1ce484d0289c792f98338a5c0ddf9",
+    "revid": 22074
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Indomitable_(talent)",
+    "kind": "talent",
+    "pageid": 1609,
+    "wiki_title": "Indomitable (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "76cbd3a1c08acca207253330ff4ed8fe1a10d4b348ea93be7a9bad7e2d9f0849",
+    "source_sha256": "958b207fd24723fa3b1613c62048b19012df2e24e9b82152eb1ef2485a88aed1",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "76cbd3a1c08acca207253330ff4ed8fe1a10d4b348ea93be7a9bad7e2d9f0849",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

@@ -1,0 +1,14 @@
+{{Ability box
+|game_version=1.7.6
+|image=Stun.png
+|name=Stun
+|category_type={{ct|Technique}}
+|category={{c|Other}}
+|require=Str 12
+|cooldown=6
+|cost=8 Stamina
+|desc=
+Hits the target doing {{ctwd|50|100%}} damage. If the attack hits, the target is stunned for {{cts|3|7}} turns.
+
+The chance to stun improves with your Physical Power.
+}}

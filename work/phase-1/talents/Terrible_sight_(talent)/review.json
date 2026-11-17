@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "07ec99163c951cca96dcce3046e6ba72a1018153fe0ab432cc0ce8e045c51580",
+    "revid": 22701
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Terrible_sight_(talent)",
+    "kind": "talent",
+    "pageid": 5334,
+    "wiki_title": "Terrible sight (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "4529a09de7e7f7608a47a295d593fec3150be829c3eb0809f7ace079f9762b2d",
+    "source_sha256": "e8c4508aa632de865c89ae398406cc6cad34b49349142c43bdf06fb8b68a1ed1",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "4529a09de7e7f7608a47a295d593fec3150be829c3eb0809f7ace079f9762b2d",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

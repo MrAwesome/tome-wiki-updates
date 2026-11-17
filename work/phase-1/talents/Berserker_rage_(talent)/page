@@ -1,0 +1,21 @@
+{{Ability box
+|game_version=1.6.7
+|image=berserker_2017.png
+|name=Berserker Rage
+|category_type={{ct|Technique}}
+|category={{c|Berserker's Strength}}
+|require={{TalentReq/TechsReq2}}
+|use_mode=Sustained
+|cost=20 Stamina
+|cooldown=10
+|travel_speed=instantaneous
+|use_speed=0
+|desc=
+You enter an aggressive battle rage, increasing Accuracy by {{cs|(0.07 * Dex * Talent Level)|5|0|40|35}} and Physical Power by {{cs|(0.07 * Str * Talent Level)|5|0|40|35}} and making you nearly unstoppable, granting {{ctl|100%|17|50%}} stun and pinning resistance.
+
+Sustaining this rage takes its toll on your body, decreasing your life by 2% each turn, but for every 1% of life missing you gain 0.5% critical hit chance.
+
+Even when sustained, this talent is only active when foes are in sight.
+
+The Accuracy bonus increases with your Dexterity, and the Physical Power bonus with your Strength.
+}}

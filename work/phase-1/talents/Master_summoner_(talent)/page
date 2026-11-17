@@ -1,0 +1,14 @@
+{{Ability box
+|game_version=1.7.6
+|image=Master summoner.png
+|name=Master Summoner
+|category_type={{ct|Wild-Gift}}
+|category={{c|Summoning (Advanced)}}
+|require={{TalentReq/GiftsReqHigh1}}
+|use_mode=Sustained
+|cost=20 Equilibrium
+|cooldown=10
+|range=10
+|desc=
+Reduces the cooldown of all summons by {{gtl|1|5|raw}}.
+}}

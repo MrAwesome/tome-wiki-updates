@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "fff427cb52fddde5bb990d41a7b14304e3946c68bb298710bbb18d4e6a82eaf7",
+    "revid": 14607
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Overheat_bullets_(talent)",
+    "kind": "talent",
+    "pageid": 5145,
+    "wiki_title": "Overheat bullets (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "03abc9e8f15719e6e456f0193fbbbb10181efbad7c25ff52478071bb2bc80923",
+    "source_sha256": "a2d50b662791d71a2343aa175f71383b1d4e9d24031ed5c70084a3ee2214f31c",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "03abc9e8f15719e6e456f0193fbbbb10181efbad7c25ff52478071bb2bc80923",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

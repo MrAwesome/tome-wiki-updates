@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "2ad9200153aa78c6f039000f7e9d8519bbf497fab9ca3417c986364161e870fa",
+    "revid": 16751
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Relentless_fury_(talent)",
+    "kind": "talent",
+    "pageid": 3247,
+    "wiki_title": "Relentless fury (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "da18f210d79f040d37d745733956e327c8b591d4cb9d622b1aa035278a747615",
+    "source_sha256": "125b9014b3c3699bd749f2567b32420a275d6d69cb0fe11a660c02d3db75999f",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "da18f210d79f040d37d745733956e327c8b591d4cb9d622b1aa035278a747615",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

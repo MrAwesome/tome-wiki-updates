@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "3d653c0e3e36461cde8e8c0dc1537f7954f268139e91867649b381923bf13501",
+    "revid": 22091
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Faceless_(talent)",
+    "kind": "talent",
+    "pageid": 5236,
+    "wiki_title": "Faceless (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "3d653c0e3e36461cde8e8c0dc1537f7954f268139e91867649b381923bf13501",
+    "source_sha256": "59b9b67cb0a3752d9e66dc28f587dcaa40a6ffd16bfdc85bdd17ab803c80b05f",
+    "status": "no_change",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "3d653c0e3e36461cde8e8c0dc1537f7954f268139e91867649b381923bf13501",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

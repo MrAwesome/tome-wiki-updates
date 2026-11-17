@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "cad6d2fdccb86b8fb2ae2611a63622fd9666abb0383793806b797e838f207f71",
+    "revid": 13891
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Frenzied_focus_(talent)",
+    "kind": "talent",
+    "pageid": 3390,
+    "wiki_title": "Frenzied focus (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "5841bba35b818d2ef13a340d7d335a5429103a21529b6d64b56e58b950e571cb",
+    "source_sha256": "cad1b014a59af12f9ee250b02417cf27b2a67368601d2042a0eedcd3997587c3",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "5841bba35b818d2ef13a340d7d335a5429103a21529b6d64b56e58b950e571cb",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

@@ -1,0 +1,16 @@
+{{Ability box
+|game_version=1.4.3
+|image=Banish.png
+|name=Banish
+|category_type={{ct|Chronomancy}}
+|category={{c|Spacetime Folding}}
+|require={{TalentReq/ChronoReq3}}
+|cost=12 Paradox
+|cooldown=4
+|range={{cts|5|9|0.5|0A|1S}}
+|use_speed=Spell speed
+|desc=
+Randomly teleports all enemies within a radius of three.  Enemies will be teleported between {{cts|8|16}}/2 and {{cts|8|16}} tiles from you and may be stunned, blinded, confused, or pinned for {{cts|2|4}} turns.
+The chance of teleportion will scale with your Spellpower.
+
+}}

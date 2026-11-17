@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "0f954038aa36c9dbdd92bd4c1cdf9ce5b77296601a63f843dd6ad10a644f9765",
+    "revid": 8815
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:58Z",
+      "event": "deterministic_render_applied",
+      "reason": "baseline_preserved"
+    }
+  ],
+  "identity": {
+    "filename": "Axe_kick_(talent)",
+    "kind": "talent",
+    "pageid": 3276,
+    "wiki_title": "Axe kick (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "baseline_preserved",
+    "candidate_page_sha256": "0f954038aa36c9dbdd92bd4c1cdf9ce5b77296601a63f843dd6ad10a644f9765",
+    "source_sha256": "2bd78bf7b1fb297d558a1cd70f49a206b43bec72ef268aa12bc1732ce601bb4a",
+    "status": "unsupported_info",
+    "updated_at": "2026-11-08T16:08:58Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "0f954038aa36c9dbdd92bd4c1cdf9ce5b77296601a63f843dd6ad10a644f9765",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

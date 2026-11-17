@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "5060667515c42ed381c8f5b70ec058f837f9c327a2de1efaed120e239caf2281",
+    "revid": 8335
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Glyph_of_explosion_(talent)",
+    "kind": "talent",
+    "pageid": 127,
+    "wiki_title": "Glyph of explosion (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "656ca9d60c441c42022db61f30fb4bc34e00e8f495d31c1a0287a3a30e8acff6",
+    "source_sha256": "a23e1716240c831103adaef4912428f406fc6c23e9078ca024756985fa0621ed",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "656ca9d60c441c42022db61f30fb4bc34e00e8f495d31c1a0287a3a30e8acff6",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

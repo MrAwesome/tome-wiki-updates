@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "e1398399e2de5088542ca5ad4ce5f0e130b6f15a6fe2cf58a6c15dfb22a632bf",
+    "revid": 13784
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Toxic_death_(talent)",
+    "kind": "talent",
+    "pageid": 1317,
+    "wiki_title": "Toxic death (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "a4742069a41fccc4432ef1ff6a8a3961a47fe46e9068ac87cc01f6c72940a7db",
+    "source_sha256": "17e3498c48ce0e05b8e99349419b6f859706745ec4de69277959628a113ffc16",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "a4742069a41fccc4432ef1ff6a8a3961a47fe46e9068ac87cc01f6c72940a7db",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

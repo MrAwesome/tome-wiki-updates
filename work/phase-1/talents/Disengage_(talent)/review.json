@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "fa4e000e8cbfe7d90024867887bb7329606200af362a5826682cabf48373cbbb",
+    "revid": 13751
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:58Z",
+      "event": "deterministic_render_applied",
+      "reason": "baseline_preserved"
+    }
+  ],
+  "identity": {
+    "filename": "Disengage_(talent)",
+    "kind": "talent",
+    "pageid": 1211,
+    "wiki_title": "Disengage (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "baseline_preserved",
+    "candidate_page_sha256": "fa4e000e8cbfe7d90024867887bb7329606200af362a5826682cabf48373cbbb",
+    "source_sha256": "b08f8864ee2ab415c1ab0f9c4b7d0155b4511a0a994034fb20654f4ab9b54037",
+    "status": "unsupported_info",
+    "updated_at": "2026-11-08T16:08:58Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "fa4e000e8cbfe7d90024867887bb7329606200af362a5826682cabf48373cbbb",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

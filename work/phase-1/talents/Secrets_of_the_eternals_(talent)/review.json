@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "10dd8c9119fa6678448576230c57c017e581bf43a1be2731061b5a35f7137ecb",
+    "revid": 22061
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Secrets_of_the_eternals_(talent)",
+    "kind": "talent",
+    "pageid": 1486,
+    "wiki_title": "Secrets of the eternals (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "12cdbd300992f2619b7757863f8e740857813bdff461eb211e92bed920f54456",
+    "source_sha256": "958b207fd24723fa3b1613c62048b19012df2e24e9b82152eb1ef2485a88aed1",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "12cdbd300992f2619b7757863f8e740857813bdff461eb211e92bed920f54456",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

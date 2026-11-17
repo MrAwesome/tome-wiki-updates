@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "6bc900cd8b5fd2e5fe6717b6f50f654c9f0c42f7679147433c324ee01d1eee83",
+    "revid": 14067
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Unstoppable_(talent)",
+    "kind": "talent",
+    "pageid": 1170,
+    "wiki_title": "Unstoppable (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "8755db091abd93bf8adfdb6baadef3ae53dd43528d1cfad7dcae35d2a4a40415",
+    "source_sha256": "a8859b92ae2bb79be0cf0710303642fbc211d9c7d9cce0840ed4a27cac9f71b1",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "8755db091abd93bf8adfdb6baadef3ae53dd43528d1cfad7dcae35d2a4a40415",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

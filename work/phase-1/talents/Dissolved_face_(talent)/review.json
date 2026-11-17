@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "71a97f06d8aa2e0f5cbf37a9b9e301090f6873d9bf524d94ef55991cd169189f",
+    "revid": 15155
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:58Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Dissolved_face_(talent)",
+    "kind": "talent",
+    "pageid": 5286,
+    "wiki_title": "Dissolved face (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "df184410fcb55d406d559d7a4a12cfb00b8fb73e0e08e8f24815033b2445f0a4",
+    "source_sha256": "92e1c785090559761bc7cbc0b3542816a1c0a1f3c91b2e4cd421302a2caa6c36",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:58Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "df184410fcb55d406d559d7a4a12cfb00b8fb73e0e08e8f24815033b2445f0a4",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

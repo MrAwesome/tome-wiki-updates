@@ -1,0 +1,24 @@
+{{Ability box
+|image=Dream hammer.png
+|name=Dream Smith's Hammer
+|category_type={{ct|Psionic}}
+|category={{c|Dream Smith}}
+|require={{TalentReq/PsiWilReq1}}
+|cost=5 Psi
+|cooldown=6
+|desc=
+Smith a hammer from the dream forge and strike a nearby foe, inflicting {{ctwd|140|210%}} weapon damage.  If the attack hits, it will bring one random {{c|Dream Smith}} talent off cooldown.
+
+At talent level 5, you'll bring a second random talent off cooldown.
+
+Current Dream Hammer Stats:
+
+*Base Power (minimum): 16 + {{ctmd|0|60}}
+*Base Power (maximum): 1.5 times minimum
+*Uses Stats: 120% Wil
+*Damage Type: Physical
+*Accuracy is based on willpower for this weapon.
+*Accuracy Bonus: {{ctmd|0|20}} + (10 * {{t|Hammer Toss}} Level)
+*Armour Penetration: {{ctmd|0|20}}
+*Physical Crit. Chance: {{ctmd|0|20}}
+}}

@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "82ea85ae99563e2fa7e8debe38e657b00efad9b743a5e2184fa3e15bdc028550",
+    "revid": 19386
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Souleater_(talent)",
+    "kind": "talent",
+    "pageid": 5640,
+    "wiki_title": "Souleater (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "22918fa47d08b77984bab00ed044fda208c9f425efca237742d2b5577102e827",
+    "source_sha256": "115b87f434828dcb22c236b229834b94f3fabf52523af47503a0276937117c80",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "22918fa47d08b77984bab00ed044fda208c9f425efca237742d2b5577102e827",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

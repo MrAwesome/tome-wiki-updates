@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "38fc9b3536ebba390d341ce53e2938346ea5b24c817ea8943996558f39fea3fc",
+    "revid": 14930
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Steamroller_(talent)",
+    "kind": "talent",
+    "pageid": 3437,
+    "wiki_title": "Steamroller (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "5ce0a8f5afcfccd94bbe8e560de48d2843f90d9dd01c08b37b1d21d87cd628e2",
+    "source_sha256": "f9eb9c5960f2c4fcfa7fdaffb41ea0b0ba1c11d5111023d9668ddeeba8ff3004",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "5ce0a8f5afcfccd94bbe8e560de48d2843f90d9dd01c08b37b1d21d87cd628e2",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

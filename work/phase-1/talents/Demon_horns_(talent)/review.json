@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "b03ada8263a84c2507c7cb0984e83836d04b010e9e77f5c9fbf8052e691a9ee1",
+    "revid": 12475
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:58Z",
+      "event": "deterministic_render_applied",
+      "reason": "baseline_preserved"
+    }
+  ],
+  "identity": {
+    "filename": "Demon_horns_(talent)",
+    "kind": "talent",
+    "pageid": 3684,
+    "wiki_title": "Demon horns (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "baseline_preserved",
+    "candidate_page_sha256": "b03ada8263a84c2507c7cb0984e83836d04b010e9e77f5c9fbf8052e691a9ee1",
+    "source_sha256": "8de1db047d8a879585ef1a99e08039c4c9a664880fc18c51a8aaa0144a49ec55",
+    "status": "unsupported_info",
+    "updated_at": "2026-11-08T16:08:58Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "b03ada8263a84c2507c7cb0984e83836d04b010e9e77f5c9fbf8052e691a9ee1",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

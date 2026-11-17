@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "d595540275cabadf0c650d30479d93d351e6ddc00dbeb26f9f3e77c4168cbecd",
+    "revid": 19470
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Path_to_beyond_(talent)",
+    "kind": "talent",
+    "pageid": 6101,
+    "wiki_title": "Path to beyond (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "14b88909d5c5bf1925041abf22f88f09669b39ca4e0e96efc19ac5c1d085f2b0",
+    "source_sha256": "d351491314d385e633f965607307c01413993af87557d1e9f8d9a6eef057078f",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "14b88909d5c5bf1925041abf22f88f09669b39ca4e0e96efc19ac5c1d085f2b0",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

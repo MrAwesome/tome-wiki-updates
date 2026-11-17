@@ -1,0 +1,16 @@
+{{Ability_box
+|name = Zero Point Energy
+|image = Zero_point_energy.png
+|category_type = {{ct|Demented}}
+|category = {{c|Rift}}
+|game_version = 1.7.6
+|forbidden_version = 1.0.12
+|require = {{TalentReq/DementedReqHigh4}}
+|use_mode = Passive
+|desc =
+You draw power from the depths of the void causing your {{t|Reality Fracture}} to enhance any existing rifts.
+#GREY#Void Rift:#LAST# Deals {{cts|20|100%}} increased damage and projectiles explode in radius 1.
+#PURPLE#Nether Breach:#LAST# Deals {{cts|20|100%}} increased damage and chains to 3 targets.
+#PURPLE#Temporal Vortex:#LAST# Deals {{cts|20|100%}} increased damage, radius increased by 1, and slow increased to 50%.
+#PURPLE#Dimensional Gate:#LAST# Voidling Skitterers will be frenzied, increasing their global speed by {{cts|20|100%}}.
+}}

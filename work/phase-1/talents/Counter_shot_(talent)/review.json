@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "a3b245c6f6e329aeff1b805dd326dfcd7024fa0b7bfb90455f09f06d765843f3",
+    "revid": 12106
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:58Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Counter_shot_(talent)",
+    "kind": "talent",
+    "pageid": 3222,
+    "wiki_title": "Counter shot (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "f62041215e88cd8ab4c12f33646744d1caa98b4b8c302ce088e9268753299693",
+    "source_sha256": "1f5392c98082bc88d6f2840ea095542618facc75a78082886b9c0efa8a77e86c",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:58Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "f62041215e88cd8ab4c12f33646744d1caa98b4b8c302ce088e9268753299693",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

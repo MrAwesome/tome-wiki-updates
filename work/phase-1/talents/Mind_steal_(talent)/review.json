@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "b53fdc82495d5e1080c0262fe73c494444cf9b7c4ed9a3532d3c51248c495871",
+    "revid": 16987
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "baseline_preserved"
+    }
+  ],
+  "identity": {
+    "filename": "Mind_steal_(talent)",
+    "kind": "talent",
+    "pageid": 5601,
+    "wiki_title": "Mind steal (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "baseline_preserved",
+    "candidate_page_sha256": "b53fdc82495d5e1080c0262fe73c494444cf9b7c4ed9a3532d3c51248c495871",
+    "source_sha256": "6479763a29136a4ae791e7f6b72ce7e18381a4e090a7c5a56d6a7f03d94cc2c5",
+    "status": "unsupported_info",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "b53fdc82495d5e1080c0262fe73c494444cf9b7c4ed9a3532d3c51248c495871",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

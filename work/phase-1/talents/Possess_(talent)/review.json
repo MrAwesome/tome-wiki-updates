@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "bc8b103ec160d298244009be2ce968b805544b31738d25274e91cd5d188c79ba",
+    "revid": 15117
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "baseline_preserved"
+    }
+  ],
+  "identity": {
+    "filename": "Possess_(talent)",
+    "kind": "talent",
+    "pageid": 4848,
+    "wiki_title": "Possess (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "baseline_preserved",
+    "candidate_page_sha256": "bc8b103ec160d298244009be2ce968b805544b31738d25274e91cd5d188c79ba",
+    "source_sha256": "f40e059220d4975e17152cf14b43e91dac498c7dfb916540fced850b04e75024",
+    "status": "unsupported_info",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "bc8b103ec160d298244009be2ce968b805544b31738d25274e91cd5d188c79ba",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

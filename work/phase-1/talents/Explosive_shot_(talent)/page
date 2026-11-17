@@ -1,0 +1,20 @@
+{{Ability_box
+|image=explosive_shot.png
+|name=Explosive Shot
+|game_version=1.7.6
+|category_type={{ct|Technique}}
+|category={{c|Munitions}}
+|require={{TalentReq/TechsDexReqHigh2}}
+|use_mode=Activated
+|range=Archery Range
+|cost=18 Stamina
+|cooldown=12
+|travel_speed=Instantaneous
+|use_speed=Weapon
+|desc=
+Fires a special shot based on your currently loaded ammo:
+[[Incendiary ammunition (talent)|Incendiary]] - Fire a shot that deals {{ctwd|50|150%}} weapon damage as fire and covers targets in radius {{cts|1|2}} in sticky pitch for {{cts|3|5}} turns, reducing global speed by {{ctl|40%|10|25%}} and increasing fire damage taken by {{cts|10|40%}}.
+[[Venomous ammunition (talent)|Venomous]] - Fire a shot that deals {{ctwd|50|150%}} weapon damage as nature and explodes into a radius {{cts|1|2}} cloud of crippling poison for {{cts|3|5}} turns, dealing {{ctpd|15|100}} nature damage each turn and giving affected targets a {{cts|10|35%}} chance to fail talent usage.
+[[Piercing ammunition (talent)|Piercing]] - Fire a shot that explodes into a radius {{cts|1|2}} burst of shredding shrapnel, dealing {{ctwd|50|150%}} weapon damage as physical and removing {{ctl|4|1|2.5}} beneficial physical effects or sustains.
+The poison damage dealt increases with your Physical Power, and status chance increases with your Accuracy.
+}}

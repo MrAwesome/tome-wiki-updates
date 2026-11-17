@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "4baa66373848a48f5f6ae315bbac06f241bf5848430d16a67445fca631ed1b72",
+    "revid": 23048
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:58Z",
+      "event": "deterministic_render_applied",
+      "reason": "baseline_preserved"
+    }
+  ],
+  "identity": {
+    "filename": "Device_mastery_(talent)",
+    "kind": "talent",
+    "pageid": 4667,
+    "wiki_title": "Device mastery (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "baseline_preserved",
+    "candidate_page_sha256": "4baa66373848a48f5f6ae315bbac06f241bf5848430d16a67445fca631ed1b72",
+    "source_sha256": "2cb1dbfc4f169a3b254ba4b68d6fe180a1885ffb0503d67cb1c4a05d76c74267",
+    "status": "unsupported_info",
+    "updated_at": "2026-11-08T16:08:58Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "4baa66373848a48f5f6ae315bbac06f241bf5848430d16a67445fca631ed1b72",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "d46a273e99875c54f69fe4bfacbf9bf17f2d1ad5045599d7a9b1f7f3ac8ca980",
+    "revid": 8149
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "baseline_preserved"
+    }
+  ],
+  "identity": {
+    "filename": "Paradox_mastery_(talent)",
+    "kind": "talent",
+    "pageid": 1284,
+    "wiki_title": "Paradox mastery (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "baseline_preserved",
+    "candidate_page_sha256": "d46a273e99875c54f69fe4bfacbf9bf17f2d1ad5045599d7a9b1f7f3ac8ca980",
+    "source_sha256": null,
+    "status": "unmatched_source",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "d46a273e99875c54f69fe4bfacbf9bf17f2d1ad5045599d7a9b1f7f3ac8ca980",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

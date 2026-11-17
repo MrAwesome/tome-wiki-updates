@@ -1,0 +1,20 @@
+{{Ability_box
+|game_version=1.7.6
+|image=Arcane_combat_2017.png
+|name=Arcane Combat
+|category_type={{ct|Technique}}
+|category={{c|Magical Combat}}
+|require={{TalentReq/TechsReq1}}
+|use_mode=Sustained
+|cost=20 Stamina
+|cooldown=5
+|use_speed=0
+|desc=
+Allows you to use melee weapons to focus your spells, granting a {{gtl|1|5}} chance per melee attack to cast an offensive spell as a free action on the target.
+Delivering the spell this way will not trigger a spell cooldown.
+You may select an allowed spell to trigger this way, or choose to have one randomly selected for each attack.
+While dual wielding or using a shield the chance is halved.
+The chance increases with your Cunning.
+
+Allowed spells:
+}}

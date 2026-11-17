@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "a8abe801eee573a56f20359baa14417a83e1054b18282ea5f4fb830351b3cdc4",
+    "revid": 10437
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "baseline_preserved"
+    }
+  ],
+  "identity": {
+    "filename": "Fire_breath_(talent)",
+    "kind": "talent",
+    "pageid": 1387,
+    "wiki_title": "Fire breath (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "baseline_preserved",
+    "candidate_page_sha256": "a8abe801eee573a56f20359baa14417a83e1054b18282ea5f4fb830351b3cdc4",
+    "source_sha256": "41115da033196dc5b613039f566e1d6ab7827d1116107bf2f68434fa7c1417d5",
+    "status": "unsupported_info",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "a8abe801eee573a56f20359baa14417a83e1054b18282ea5f4fb830351b3cdc4",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

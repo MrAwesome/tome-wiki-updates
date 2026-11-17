@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "4a8738a8200b553e7ca1f1174fd335f07decf93dde0561a56660658916be87ac",
+    "revid": 7596
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "baseline_preserved"
+    }
+  ],
+  "identity": {
+    "filename": "Take_down_(talent)",
+    "kind": "talent",
+    "pageid": 1313,
+    "wiki_title": "Take down (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "baseline_preserved",
+    "candidate_page_sha256": "4a8738a8200b553e7ca1f1174fd335f07decf93dde0561a56660658916be87ac",
+    "source_sha256": "673d746fc2eeec72962afaa52d4e00f644b3d855a0ebb749c30af2ac9ff752eb",
+    "status": "unsupported_info",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "4a8738a8200b553e7ca1f1174fd335f07decf93dde0561a56660658916be87ac",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

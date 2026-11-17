@@ -1,0 +1,17 @@
+{{Ability_box
+|name=Blade flurry
+|image=blade_flurry.png
+|game_version=1.7.6
+|category_type=[[Cunning (category type)|Cunning]]
+|category=[[Lethality (category)|Lethality]]
+|require={{TalentReq/CunsReq3}}
+|use_mode=Sustained
+|cost=50 Stamina
+|range=Melee/Personal
+|cooldown=30
+|travel_speed=Instantaneous
+|use_speed=Instant
+|desc=
+Become a whirling storm of blades, increasing attack speed by {{cts|10|30%}} and causing melee attacks to strike an additional adjacent target other than your primary target for 100% weapon damage.
+This talent is exhausting to use, draining 4 stamina each turn.
+}}

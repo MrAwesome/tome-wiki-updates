@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "335ee47aafc1b620f16aaff717a5791b8eab0870054b0d812d19fbe82afaa31d",
+    "revid": 19055
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:58Z",
+      "event": "deterministic_render_applied",
+      "reason": "baseline_preserved"
+    }
+  ],
+  "identity": {
+    "filename": "Bathe_in_light_(talent)",
+    "kind": "talent",
+    "pageid": 119,
+    "wiki_title": "Bathe in light (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "baseline_preserved",
+    "candidate_page_sha256": "335ee47aafc1b620f16aaff717a5791b8eab0870054b0d812d19fbe82afaa31d",
+    "source_sha256": "79afdedd145d2904cc8d4f067e189779b6125fa0b9ab11ddf3725052c235fdc5",
+    "status": "unsupported_info",
+    "updated_at": "2026-11-08T16:08:58Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "335ee47aafc1b620f16aaff717a5791b8eab0870054b0d812d19fbe82afaa31d",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

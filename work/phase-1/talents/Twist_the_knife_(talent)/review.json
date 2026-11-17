@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "f30128a796a44b868aac75f26743f0ebf06d5fe415ac1e55fefd5925d0bd1bde",
+    "revid": 13730
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Twist_the_knife_(talent)",
+    "kind": "talent",
+    "pageid": 4660,
+    "wiki_title": "Twist the knife (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "19b5cc6748c5f90b4adbba8ed9bdfdf626f8a24ae3861696978f4886f70f4d64",
+    "source_sha256": "4e7c7ee933a0602176449bfda6f5d94ed7503ee9e9a83bb472091da37f60b683",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "19b5cc6748c5f90b4adbba8ed9bdfdf626f8a24ae3861696978f4886f70f4d64",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

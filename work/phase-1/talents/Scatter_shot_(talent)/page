@@ -1,0 +1,16 @@
+{{Ability_box
+|game_version=1.5.2
+|image=Scatter_shot_2017.png
+|name=Scatter shot
+|category_type={{ct|Technique}}
+|category={{c|Archery Training}}
+|require={{TalentReq/TechsDexReq4}}
+|cost=15 Stamina
+|cooldown=12
+|travel_speed=Instantaneous
+|use_speed=Archery
+|desc=
+Fires a wave of projectiles in a radius {{cTL|10|5.5|7.5}} cone, dealing {{cTWD|70|150%}} weapon damage. All targets struck by this will be knocked back to the maximum range of the cone and stunned for {{cTL|10|3|5}} turns.<br>
+Each target struck has a 20% chance to be marked.<br>
+The chance to knockback and stun increases with your Accuracy.
+}}

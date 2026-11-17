@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "ae51cc7c1357c7182e276b4d69ae992af2eec1e6e4966c9bca625bc23522931f",
+    "revid": 19228
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:58Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Acidfire_(talent)",
+    "kind": "talent",
+    "pageid": 3164,
+    "wiki_title": "Acidfire (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "aa9dd0546324945a95c85647a5b650f4df2322a28ef53e0b7403a888bc562aaf",
+    "source_sha256": "61f5c34ce7b88bbd3ceff36eaa6b6238d2d1649ad1641508158509a2c0627a5f",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:58Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "aa9dd0546324945a95c85647a5b650f4df2322a28ef53e0b7403a888bc562aaf",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "81974d728d80980e0f7f909d25d3f22f04250be2d54e46239d5c66945727f742",
+    "revid": 16432
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Tentacled_wings_(talent)",
+    "kind": "talent",
+    "pageid": 5463,
+    "wiki_title": "Tentacled wings (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "05990c8bfab3157b478cc37dbed0c899d9da583fb1a817745e0f4ccc3f2cc4b1",
+    "source_sha256": "4dfe91fbc940619caf2b6d5c3b1c8004f96c042c70a96f3f931d1caf6c89b874",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "05990c8bfab3157b478cc37dbed0c899d9da583fb1a817745e0f4ccc3f2cc4b1",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

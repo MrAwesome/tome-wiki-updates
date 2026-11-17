@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "9d3a8e23d9669abe2360e39cc27ad91d4a132248b9e2a1f326faaad5ccb1cdef",
+    "revid": 23302
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Range_amplification_device_(talent)",
+    "kind": "talent",
+    "pageid": 4223,
+    "wiki_title": "Range amplification device (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "5733ea6c87bca048c6f4dec6604b8233c9edc2d3452d9a842de1dda5afdf77c9",
+    "source_sha256": "f4d21540ee6110093a06fc4738629ff29dabb2b02abb837a702d37fe2293cc40",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "5733ea6c87bca048c6f4dec6604b8233c9edc2d3452d9a842de1dda5afdf77c9",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

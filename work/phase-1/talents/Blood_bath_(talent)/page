@@ -1,0 +1,15 @@
+{{Ability_box
+|game_version = 1.7.6
+|name = Blood Bath
+|image = Blood_bath.png
+|category_type = {{ct|Cursed}}
+|category = {{c|Bloodstained}}
+|require = {{TalentReq/CursedStrReq3}}
+|use_mode = Sustained
+|cost = 20 Positive
+|use_speed = Mind
+|desc =
+Your melee attacks also cause the target to bleed for {{cts|25|95%}} of the damage dealt over five turns.
+
+Each point in Bloodstained talents reduces the amount of damage you take from bleed effects by 2%
+}}

@@ -1,0 +1,9 @@
+{{Ability_box
+|game_version=1.7.6
+|name=Mind Disruption
+|category_type=[[NPC Only (category type)|NPC Only]]
+|category=-
+|image=Mind disruption.png
+|desc=
+Try to confuse the target's mind for {{cts|3|7}} (power {{ctl|50%|15|45%}}) turns.
+}}

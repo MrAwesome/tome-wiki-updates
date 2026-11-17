@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "ed340881fd0c67541e4f8e17ec2699bf7585eff57f6dc76a286768a94c9fbce7",
+    "revid": 8147
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:58Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Destabilize_(talent)",
+    "kind": "talent",
+    "pageid": 1257,
+    "wiki_title": "Destabilize (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "3242e315ec53893de45b6601c5675ebc88a9f10ace1391445f6282686715aaf2",
+    "source_sha256": "d65367d33fedbe507f377497449e86409aab95d3b4cd535466e49a27144381ea",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:58Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "3242e315ec53893de45b6601c5675ebc88a9f10ace1391445f6282686715aaf2",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

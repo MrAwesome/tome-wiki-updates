@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "7394d5f5e6da96dda4ebce9cd4ba80b9fbbeb0d4b8fd55bb90d0b011ed29f469",
+    "revid": 22441
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:58Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Aed_(talent)",
+    "kind": "talent",
+    "pageid": 6885,
+    "wiki_title": "Aed (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "90f42cb6f958e5e8938291348df11480881f82d1d1327229db0bde197320b5e3",
+    "source_sha256": "98a8e098a8139165186936596609f00a843578667a01233588489d9f3941848a",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:58Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "90f42cb6f958e5e8938291348df11480881f82d1d1327229db0bde197320b5e3",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

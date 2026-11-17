@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "8dd87f2093e403737266a2be61e886295c942b9425174fb7f1b451d2ae4de747",
+    "revid": 22483
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Incendiary_powder_(talent)",
+    "kind": "talent",
+    "pageid": 6920,
+    "wiki_title": "Incendiary powder (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "17989cb43c1da19e0040dde7c4f9ac1a190b934e01f3978b07419014e74215da",
+    "source_sha256": "ac57d7e21377d333c198f9259ad576a25f8e4b42658cf92e1333b78473b06db3",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "17989cb43c1da19e0040dde7c4f9ac1a190b934e01f3978b07419014e74215da",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

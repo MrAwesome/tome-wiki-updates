@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "2afbbe69406cf2a4552cd4fe552dc9cd54e5658a8d0dfe8b66bb02596977e008",
+    "revid": 23068
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "baseline_preserved"
+    }
+  ],
+  "identity": {
+    "filename": "Unflinching_resolve_(talent)",
+    "kind": "talent",
+    "pageid": 1394,
+    "wiki_title": "Unflinching resolve (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "baseline_preserved",
+    "candidate_page_sha256": "2afbbe69406cf2a4552cd4fe552dc9cd54e5658a8d0dfe8b66bb02596977e008",
+    "source_sha256": "7942d057c4bcaeb11335c86204628b825477a15c985290736de2b1e61666c799",
+    "status": "unsupported_info",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "2afbbe69406cf2a4552cd4fe552dc9cd54e5658a8d0dfe8b66bb02596977e008",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

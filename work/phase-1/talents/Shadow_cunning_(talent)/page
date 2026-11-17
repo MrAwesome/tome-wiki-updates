@@ -1,0 +1,10 @@
+{{Ability_box
+|image=Shadow cunning.png
+|name=Shadow Cunning
+|category_type={{ct|Cunning}}
+|category={{c|Shadow Magic}}
+|require={{TalentReq/CunsReq2}}
+|use_mode=Passive
+|desc=
+Your preparations give you greater magical capabilities. You gain a bonus to Spellpower equal to {{cts|20|40%|0.75}} of your Cunning.
+}}

@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "f32a54ed83877e670334c970655b1872dc59bfece157613d5fbe63458393c6a9",
+    "revid": 8659
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Forge_echoes_(talent)",
+    "kind": "talent",
+    "pageid": 1515,
+    "wiki_title": "Forge echoes (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "6642a2bbac51f7e5efa34fd8237efc12252fee64c0418c610272a76c1e619c83",
+    "source_sha256": "c1e654bde716e1fbae70ce41cf432f32f682e63c0003bab73989130d76e3e482",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "6642a2bbac51f7e5efa34fd8237efc12252fee64c0418c610272a76c1e619c83",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

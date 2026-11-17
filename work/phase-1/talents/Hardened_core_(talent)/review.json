@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "9525bc68954f3d1a0f2d972e8fccbb2e5e2c4d0b92caaa8ab26fc288db135280",
+    "revid": 12469
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Hardened_core_(talent)",
+    "kind": "talent",
+    "pageid": 3673,
+    "wiki_title": "Hardened core (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "ca38096377e3d0de914020a8e45c7bce5b6449d1ec66fd8eb281d6740348ff78",
+    "source_sha256": "f1a7dc7a6f111f9c5d9d3448fd16797aef05cec7838b79a5209e57106277e59d",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "ca38096377e3d0de914020a8e45c7bce5b6449d1ec66fd8eb281d6740348ff78",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

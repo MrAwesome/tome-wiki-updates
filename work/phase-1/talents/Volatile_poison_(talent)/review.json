@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "6aeddc45db991dbab5f27380a41dd598935cc71cec9cbb9dc81a18471f305d73",
+    "revid": 13799
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "baseline_preserved"
+    }
+  ],
+  "identity": {
+    "filename": "Volatile_poison_(talent)",
+    "kind": "talent",
+    "pageid": 4857,
+    "wiki_title": "Volatile poison (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "baseline_preserved",
+    "candidate_page_sha256": "6aeddc45db991dbab5f27380a41dd598935cc71cec9cbb9dc81a18471f305d73",
+    "source_sha256": "17e3498c48ce0e05b8e99349419b6f859706745ec4de69277959628a113ffc16",
+    "status": "unsupported_info",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "6aeddc45db991dbab5f27380a41dd598935cc71cec9cbb9dc81a18471f305d73",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

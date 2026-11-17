@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "7ca86756ece618b5c9f073abcaac675c3628d469f2cb0c9ac909620e5cb712f6",
+    "revid": 13836
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Hidden_blades_(talent)",
+    "kind": "talent",
+    "pageid": 4881,
+    "wiki_title": "Hidden blades (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "99480787beb11a47ba08cc91a91f566fc479f7a53390013f643064cfa76bc337",
+    "source_sha256": "8a1d55511ff0273bfc9f4193b98de2269372475ffafc5c8185257d59bb7ad4d3",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "99480787beb11a47ba08cc91a91f566fc479f7a53390013f643064cfa76bc337",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

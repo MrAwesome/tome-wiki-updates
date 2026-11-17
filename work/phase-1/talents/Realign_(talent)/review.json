@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "4ca9833862523f0de3aa2a7319b00556aee0bd3ec71dfc086ab6abdeec156f10",
+    "revid": 20443
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Realign_(talent)",
+    "kind": "talent",
+    "pageid": 3411,
+    "wiki_title": "Realign (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "3103606c13ce1f5fc910fc8c187a958ad2ec753c24f10eb2f57fab8165104f6c",
+    "source_sha256": "e712960df49b75fd22e09b071e468ccf496958bd1fa7709ec861dfb0d5f216e8",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "3103606c13ce1f5fc910fc8c187a958ad2ec753c24f10eb2f57fab8165104f6c",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

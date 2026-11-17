@@ -1,0 +1,15 @@
+{{Ability box
+|game_version=1.7.6
+|image=Strength of purpose.png
+|name=Strength of Purpose
+|category_type={{ct|Chronomancy}}
+|category={{c|Temporal Guardian}}
+|require=Mag (18, 24, 30, 36, 42)
+|use_mode=Passive
+|desc=
+Increases weapon damage by {{gtl|1|5}} and physical power by 30 when using swords, axes, maces, knives, or bows.
+You now also use your [[Magic]] in place of [[Strength]] when equipping weapons and ammo as well as when calculating weapon damage.
+These bonuses override rather than stack with weapon mastery, dagger mastery, and bow mastery.
+
+''Note: The prodigy [[Arcane_might_(talent)|Arcane Might]] stacks additively with this, so a weapon that normally scales off 100% Strength would have 150% Magic scaling instead with both these active.''
+}}

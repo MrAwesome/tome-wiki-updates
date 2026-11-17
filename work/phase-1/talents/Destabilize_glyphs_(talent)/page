@@ -1,0 +1,18 @@
+{{Ability_box
+|name = Destabilize Glyphs
+|image = twilight glyph.png
+|category_type = {{ct|Celestial}}
+|category = {{c|Glyphs}}
+|game_version = 1.7.6
+|require = {{TalentReq/DiviReqHigh1}}
+|range = 10
+|cost = 10 Positive and 10 Negative
+|cooldown = 20
+|use_speed = Spell
+|desc =
+Destabilize your glyphs, triggering every glyph in radius 10 with an enemy standing on it.
+At talent level 2 glyphs triggered this way will leave a residue of themselves on the ground, dealing damage each turn for {{cts|0|5}} turns.
+#ffd700#Sunlight#LAST#:  {{ctspd|0|70}} light damage.
+#7f7f7f#Moonlight#LAST#:  {{ctspd|0|70}} darkness damage.
+#9D9DC9#Twilight#LAST#:  {{ctspd|0|35}} light and {{ctspd|0|35}} darkness damage
+}}

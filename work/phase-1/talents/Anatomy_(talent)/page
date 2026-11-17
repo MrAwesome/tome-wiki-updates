@@ -1,0 +1,16 @@
+{{Ability box
+|image=Anatomy.png
+|name=Anatomy
+|category_type={{ct|Cursed}}
+|category={{c|Predator}}
+|require={{TalentReq/CursedLevReq2}}
+|use_mode=Passive
+|desc=
+Your knowledge of your prey allows you to strike with extra precision. Attacks against the marked sub-type gain +{{cts|5|15.4|0.75}} Accuracy, while those against the marked type but different sub-type gain +{{cts|2|9.2|0.75}} Accuracy.
+
+Melee hits gain a chance to stun targets of the marked sub-type for 3 turns with each attack. The chance to stun is {{cl|√ Talent Level|100%|3.1|1|6.93%|2.23}}.
+
+Each point in Anatomy reduces the kill experience required to reach 100% effectivess as a Predator.
+}}
+
+[[Category: Removed Talents]]

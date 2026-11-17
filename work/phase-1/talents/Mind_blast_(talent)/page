@@ -1,0 +1,15 @@
+{{Ability box
+|name=Mind Blast
+|image=Mind blast.png
+|game_version=1.7.4
+|category_type={{ct|Celestial}}
+|category={{c|Twilight}}
+|require={{TalentReq/DiviReq3}}
+|cost=20 Negative
+|cooldown=15
+|use_speed=Spell
+|desc=
+Let out a mental cry that shatters the will of your targets within radius 10, dealing {{ctspd|1|100}} darkness damage and confusing ({{cts|20|45%}} to act randomly) them for a duration of {{cs|(0.05 * Cun + Talent Level)|2|0|12|10}} (maximum 10 turns).
+
+The damage will improve with your spellpower and the duration will improve with your Cunning.
+}}

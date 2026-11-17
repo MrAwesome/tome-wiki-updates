@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "ee118600b9cc2bf02d9a280ef1fff4cf70df6d874276768b12728a7b7e100fa9",
+    "revid": 16912
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Grave_mistake_(talent)",
+    "kind": "talent",
+    "pageid": 5583,
+    "wiki_title": "Grave mistake (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "a6432a2263b549597a8af7a09c2685e3f577351d4e5ca3c1df4915e686c06528",
+    "source_sha256": "9b1026424020329039b8eb7fe6db66f92758840156894114bcdba7173c2dea11",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "a6432a2263b549597a8af7a09c2685e3f577351d4e5ca3c1df4915e686c06528",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

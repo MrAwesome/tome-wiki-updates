@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "b673e8e87d88e3a54adaf252c00746d0afd290a60232da9d1e47258747e1d861",
+    "revid": 8036
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Hack%27n%27back_(talent)",
+    "kind": "talent",
+    "pageid": 1596,
+    "wiki_title": "Hack'n'back (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "4647af28810b4df589ea932226bfc46927453ff4ca3c35084ae998da62f2f976",
+    "source_sha256": "dc640c1af5d22a45472d843380c9de01334530b3831bd2b9fe88ee0cba3abc23",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "4647af28810b4df589ea932226bfc46927453ff4ca3c35084ae998da62f2f976",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

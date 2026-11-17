@@ -1,0 +1,14 @@
+{{Ability box
+|game_version=1.4.5
+|image=Webs of fate.png
+|name=Webs of Fate
+|category_type={{ct|Chronomancy}}
+|category={{c|Fate Weaving}}
+|require={{TalentReq/ChronoReq4}}
+|use_mode=Activated
+|cost=24 Paradox
+|cooldown=12
+|desc=
+For the next 5 turns you displace {{ctl|50%|10|30%}} of any damage you receive onto a random enemy.
+While Webs of Fate is active you may gain one additional Spin per turn and your maximum Spin is doubled.
+}}

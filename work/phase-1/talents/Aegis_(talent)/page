@@ -1,0 +1,17 @@
+{{Ability_box
+|game_version=1.7.6
+|image=Aegis_2017.png
+|name=Aegis
+|category_type={{Ct|Spell}}
+|category={{c|Aegis}}
+|require={{TalentReq/SpellsReq4}}
+|cost=50 Mana
+|cooldown=25
+|use_speed=0
+|desc=
+Release arcane energies into most magical shields currently protecting you.
+It will affect at most {{cts|3|7|log}} shield effects.
+Damage Shield, {{t|Time Shield}}, {{t|Displacement Shield}}:  Increase the damage absorption value by {{ctspd|4.5|54}}.
+{{t|Disruption Shield}}: Tap into the stored energies to restore the shield (at a rate of 2 energy per 1 shield power). Any leftover energy is converted back into mana at a rate of {{ctspd|21|60}} energy per mana.
+The charging will increase with your Spellpower.
+}}

@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "f659243f3dc18343c3f03e39ae3c0b9ff16147246ce3c0c9643c05f37ffc1914",
+    "revid": 16749
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:58Z",
+      "event": "deterministic_render_applied",
+      "reason": "baseline_preserved"
+    }
+  ],
+  "identity": {
+    "filename": "Berserker_rage_(talent)",
+    "kind": "talent",
+    "pageid": 3245,
+    "wiki_title": "Berserker rage (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "baseline_preserved",
+    "candidate_page_sha256": "f659243f3dc18343c3f03e39ae3c0b9ff16147246ce3c0c9643c05f37ffc1914",
+    "source_sha256": "125b9014b3c3699bd749f2567b32420a275d6d69cb0fe11a660c02d3db75999f",
+    "status": "unsupported_info",
+    "updated_at": "2026-11-08T16:08:58Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "f659243f3dc18343c3f03e39ae3c0b9ff16147246ce3c0c9643c05f37ffc1914",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

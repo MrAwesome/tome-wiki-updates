@@ -1,0 +1,9 @@
+{{Ability_box|image=Maim.png|name=Maim|category_type=[[Technique (category type)|Technique]]|category=[[Grappling (category)|Grappling]]
+|require=Strength (20, 22, 24, 26, 28)
+(4, 5, 6, 7, 8) level
+|use_mode=activated
+|range=melee/personal
+|cost=10 stamina
+|cooldown=12
+|use_speed=1 turn
+|desc=Grapples the target and inflicts X physical damage. If the target is already grappled, the target will be maimed as well, reducing damage by X and global speed by 30% for 3-8 turns (2+talent_level, rounded down). The grapple effects will be based off your Grapple talent, if you have it, and the damage will scale with your Physical Power.}}

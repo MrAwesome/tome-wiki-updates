@@ -1,0 +1,13 @@
+{{Ability box
+|image=Willful_tormenter_2017.png
+|name=Willful Tormenter
+|game_version=1.7.6
+|category_type={{ct|Corruption}}
+|category={{c|Torment}}
+|require={{TalentReq/CorrsReq1}}
+|use_mode=Passive
+|desc=
+You set your mind toward a single goal: the destruction of all your foes.
+
+Increases the maximum amount of vim you can store by {{cts|20|95|0.75}}.
+}}

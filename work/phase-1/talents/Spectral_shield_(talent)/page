@@ -1,0 +1,11 @@
+{{Ability box
+|game_version=1.7.6
+|image=Spectral shield.png
+|name=Spectral Shield
+|category_type=[[Prodigies]]
+|category=[[Prodigies#Magic|Magic]]
+|require=Magic 50<br />Know the {{t|Block}} talent<br />Have a block value over 200<br />Have cast 100 spells
+|use_mode=Passive
+|desc=
+By infusing your shield with raw magic, your block can now block any damage type.
+}}

@@ -1,0 +1,11 @@
+{{Ability_box
+|game_version=1.7.6
+|image=stoic.png
+|name=Soul Purge
+|category=objects
+|category_type=misc
+|cooldown=3
+|require=[[Morrigor]]
+|desc=Remove any talent [[Morrigor]] has absorbed.
+|use_mode=activated
+}}

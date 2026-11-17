@@ -1,0 +1,15 @@
+{{Ability_box
+|game_version=1.7.6
+|image=Bleeding edge.png
+|name=Bleeding edge
+|category_type=[[Technique (category type)|Technique]]
+|category=[[Battle tactics (category)|Battle tactics]]
+|require={{TalentReq/TechsReqHigh3}}
+|use_mode=Activated
+|cost=24 Stamina
+|cooldown=12
+|desc=
+Lashes at the target, doing {{CTWD|100|170%}} weapon damage.
+
+If the attack hits, the target will bleed for {{CTWD|200|320%}} weapon damage over 7 turns, and all healing will be reduced by {{ctl|150%|40|75%}}.
+}}

@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "837b85c1ecca6b3f9404e16706adfd4e8303b543ed7095d1b8c5f7734141c99b",
+    "revid": 22125
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "baseline_preserved"
+    }
+  ],
+  "identity": {
+    "filename": "Slam_(talent)",
+    "kind": "talent",
+    "pageid": 1259,
+    "wiki_title": "Slam (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "baseline_preserved",
+    "candidate_page_sha256": "837b85c1ecca6b3f9404e16706adfd4e8303b543ed7095d1b8c5f7734141c99b",
+    "source_sha256": "870514df4dc01d893b7c1c40c8037fe32218360944914a4bc4f77452a08fe9c0",
+    "status": "unsupported_info",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "837b85c1ecca6b3f9404e16706adfd4e8303b543ed7095d1b8c5f7734141c99b",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

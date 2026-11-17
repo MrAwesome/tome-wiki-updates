@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "a372344192df49223c4797b7512ef4c66644e3002be5ead195da3be297826be9",
+    "revid": 13719
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Shadow_dance_(talent)",
+    "kind": "talent",
+    "pageid": 4675,
+    "wiki_title": "Shadow dance (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "c8335dc6e74622dae1d393261d244d6342b9f1217cb038a4b0cf7ef3479ee93e",
+    "source_sha256": "38accb83ed9f8124b05924589b576a0afaf61625c3e0ad4481a08e19299fa63d",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "c8335dc6e74622dae1d393261d244d6342b9f1217cb038a4b0cf7ef3479ee93e",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

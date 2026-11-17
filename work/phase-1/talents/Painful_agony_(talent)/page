@@ -1,0 +1,18 @@
+{{Ability box
+|game_version = 1.7.6
+|forbidden_version = 1.0.12
+|image=Painful_Agony.png
+|name=Painful Agony
+|category_type={{ct|Demented}}
+|category={{c|Slow Death}}
+|require={{TalentReq/SpellsReq2}}
+|use_mode=Passive
+|desc=
+The pain you inflict to the victim you are digesting is so intense something breaks inside it, giving you a way into its mind.
+When you digest you can steal a random talent from your victim and can use it for yourself at talent level {{gtl|1|5}}.
+At talent level 5 you can choose which talent to use.
+You may not steal a talent which you already know.
+The stolen talent will not use any resources to activate.
+
+''Only activated talents are eligible. Talents that cannot be used by the player (none currently exist), some talents relating to permanent minions, some prodigies, inscriptions, hidden talents, talents that permanently alter the world (and hence can't be unlearned), and talents from {{ct|Misc}}/{{c|Object Techniques}} are not eligible to be stolen.''
+}}

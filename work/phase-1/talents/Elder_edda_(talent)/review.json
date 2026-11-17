@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "1f9c15518623d4fe237d85288279d5e795e0dae40ab80b4048e61fcf5299a7ce",
+    "revid": 13205
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:58Z",
+      "event": "deterministic_render_applied",
+      "reason": "baseline_preserved"
+    }
+  ],
+  "identity": {
+    "filename": "Elder_edda_(talent)",
+    "kind": "talent",
+    "pageid": 4631,
+    "wiki_title": "Elder edda (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "baseline_preserved",
+    "candidate_page_sha256": "1f9c15518623d4fe237d85288279d5e795e0dae40ab80b4048e61fcf5299a7ce",
+    "source_sha256": null,
+    "status": "unmatched_source",
+    "updated_at": "2026-11-08T16:08:58Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "1f9c15518623d4fe237d85288279d5e795e0dae40ab80b4048e61fcf5299a7ce",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

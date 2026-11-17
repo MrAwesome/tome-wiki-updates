@@ -1,0 +1,13 @@
+{{Ability box
+|game_version=1.5.10
+|image=Pustulent_Growth.png
+|name=Pustulent Growth
+|category_type={{ct|Demented}}
+|category={{c|Horrific Body}}
+|require={{TalentReq/SpellsReq2}}
+|use_mode=Passive
+|desc=
+Each time your shed skin looses {{ctl|10%|45|20%}} of its max power or you take damage over 15% of your maximum life a black putrescent pustule grows on your body for 5 turns.
+		Each pustule increases all your resistances by ceil({{ctspd|1|50}}/10). You can have up to floor({{cts|3|7}}) pustules at once.
+		Resistance scales with your Spellpower.
+}}

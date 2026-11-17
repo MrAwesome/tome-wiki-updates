@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "a59e36c85d5fc15b3f370f17268dfdf6f2aa44c0c014d0dd2a1e4ae5bb2c32a7",
+    "revid": 22457
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:58Z",
+      "event": "deterministic_render_applied",
+      "reason": "baseline_preserved"
+    }
+  ],
+  "identity": {
+    "filename": "Chemical_grenade_(talent)",
+    "kind": "talent",
+    "pageid": 6895,
+    "wiki_title": "Chemical grenade (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "baseline_preserved",
+    "candidate_page_sha256": "a59e36c85d5fc15b3f370f17268dfdf6f2aa44c0c014d0dd2a1e4ae5bb2c32a7",
+    "source_sha256": "66e61a2898f55d9b4ab85cf6284022701c3dc70c7c0bd318e26e9dd5e3712f32",
+    "status": "unsupported_info",
+    "updated_at": "2026-11-08T16:08:58Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "a59e36c85d5fc15b3f370f17268dfdf6f2aa44c0c014d0dd2a1e4ae5bb2c32a7",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

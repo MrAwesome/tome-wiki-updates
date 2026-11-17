@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "505037faed5596989d7677ca143abb9c55574df98462efac0ff84ad56ab35916",
+    "revid": 23044
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:58Z",
+      "event": "deterministic_render_applied",
+      "reason": "baseline_preserved"
+    }
+  ],
+  "identity": {
+    "filename": "Contingency_(talent)",
+    "kind": "talent",
+    "pageid": 3789,
+    "wiki_title": "Contingency (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "baseline_preserved",
+    "candidate_page_sha256": "505037faed5596989d7677ca143abb9c55574df98462efac0ff84ad56ab35916",
+    "source_sha256": "0c61afbcd99a9df41a0a1d203822784782a78722efb59ec593b4878f6a129faf",
+    "status": "unsupported_info",
+    "updated_at": "2026-11-08T16:08:58Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "505037faed5596989d7677ca143abb9c55574df98462efac0ff84ad56ab35916",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

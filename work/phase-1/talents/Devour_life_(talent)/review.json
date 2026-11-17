@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "2b498f9fc3d0e4cf1cf58ae4df0561d37f1eba906f54bfb1a3b993ab73d2c654",
+    "revid": 8249
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:58Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Devour_life_(talent)",
+    "kind": "talent",
+    "pageid": 1251,
+    "wiki_title": "Devour life (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "6f404ea280bb11d106056cee6f5b57ad309d7aaf6ed54144c82bad0db751e8c9",
+    "source_sha256": "d4aeee3a3af35aad4576eadb78e716ab026f62c61dcbb878056042ad1295d02e",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:58Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "6f404ea280bb11d106056cee6f5b57ad309d7aaf6ed54144c82bad0db751e8c9",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

@@ -1,0 +1,16 @@
+{{Ability_box
+|name=Frenzy drem
+|image=drem_frenzy.png
+|category_type={{ct|Race}}
+|category={{c|Drem}}
+|game_version=1.7.6
+|require={{TalentReq/RacialReq1}}
+|cooldown={{CTL|8|45|25}}
+|use_speed=0
+|desc=Enter a killing frenzy for 3 turns.
+
+During the frenzy the first time you use a class talent it has no cooldown (but does if used twice).
+
+This does not work for inscriptions, talents that take no turn to use, or have fixed cooldowns.
+}}
+*Note: there are 2 Frenzy talents in game: Drem Frenzy, and Cursed [[Frenzy (talent)|Frenzy]].

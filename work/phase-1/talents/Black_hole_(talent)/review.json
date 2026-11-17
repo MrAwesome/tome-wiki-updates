@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "35da07ed3959e8e702c12558e99f933bd4c8bc10efabb20aa084ded653432579",
+    "revid": 18662
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:58Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Black_hole_(talent)",
+    "kind": "talent",
+    "pageid": 5925,
+    "wiki_title": "Black hole (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "cc99e51bdbc1a10c6e9ea138dfd9b4995d2569a763074b06c6f3ff48412e1463",
+    "source_sha256": "e8046402a99f3611d9f63cbc57bc060c9ce1039461e5bdfcbf5a64598fbcb69c",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:58Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "cc99e51bdbc1a10c6e9ea138dfd9b4995d2569a763074b06c6f3ff48412e1463",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

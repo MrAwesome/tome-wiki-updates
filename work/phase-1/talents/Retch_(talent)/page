@@ -1,0 +1,17 @@
+{{Ability_box
+|game_version=1.7.6
+|image=Retch_2017.png
+|name=Retch
+|category_type={{ct|Undead}}
+|category={{c|Ghoul}}
+|require={{TalentReq/UndeadsReq3}}
+|use_mode=Activated
+|range=0
+|cooldown=20
+|use_speed=1 turn
+|desc=
+Vomit on the ground around you, healing any undead in the area and damaging anyone else.
+Lasts 10 turns and deals {{ctstd|Con|20|70}} blight damage or heals {{ctstd|Con|25|100}} life.
+Creatures standing in the retch also have {{ctl|100%|10|33%|false|1.1}} chance to remove a physical effect each turn; undeads will be stripped from a detrimental effect while others will be stripped from a beneficial effect.
+When you stand in your own retch your racial -20% global speed is cancelled.
+}}

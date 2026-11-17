@@ -1,0 +1,15 @@
+{{Ability_box
+|game_version=1.7.6
+|image=Battle_cry_2017.png
+|name=Battle cry
+|category_type=[[Technique (category type)|Technique]]
+|category=[[Warcries (category)|Warcries]]
+|require={{TalentReq/TechsReqHigh4}}
+|use_mode=Activated
+|cost=40 Stamina
+|cooldown=30
+|desc=
+Your battle cry shatters the will of your foes within a radius of {{cts|4|8}}, lowering their Defense by {{gtl|1|5}} for 7 turns, making them easier to hit.
+All evasion and concealment bonuses are also disabled.
+The chance to hit increases with your Physical Power.
+}}

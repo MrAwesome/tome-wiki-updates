@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "730e51a7e2439a189b548f5a4b5ed3ea6687f3b56ba408d54db8647b441830de",
+    "revid": 22963
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Shoot_(talent)",
+    "kind": "talent",
+    "pageid": 1719,
+    "wiki_title": "Shoot (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "e3ff00b1a38bcf85ec1ab1244775e5c39e068943637ac960d2e30ae3bc094238",
+    "source_sha256": "4c26268cd967d35171d9854350db863fa31306bb2c90ae324ed7dfad644f11ea",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "e3ff00b1a38bcf85ec1ab1244775e5c39e068943637ac960d2e30ae3bc094238",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

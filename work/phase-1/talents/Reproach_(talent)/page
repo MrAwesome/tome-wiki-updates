@@ -1,0 +1,15 @@
+{{Ability box
+|game_version=1.7.6
+|image=Reproach.png
+|name=Reproach
+|category_type={{ct|Cursed}}
+|category={{c|Punishments}}
+|require={{TalentReq/CursedCunReq1}}
+|range=2
+|cost=5 Hate
+|cooldown=5
+|desc=
+Utter a terrible curse against any who dare approach you, inflicting {{ctmd|0|320}} mind damage to targets in radius 3. Each affected target (ordered at random) takes {{ctl|-94%|-69|-84%}} less damage than the last, and has a 25% chance of suffering Brainlock.
+
+The damage increases with your Mindpower.
+}}

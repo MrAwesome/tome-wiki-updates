@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "446260dfce11d9405128eac03575782a66c44e3dce73e750d840d61cf3fb5018",
+    "revid": 16982
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Ghastly_wail_(talent)",
+    "kind": "talent",
+    "pageid": 5596,
+    "wiki_title": "Ghastly wail (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "46f7188be2ee842b44339afc7c605268343e57554035a7610111cd448b0380d1",
+    "source_sha256": "ce34a6e5f5b91f2b91177576337ae70f227e9e043431c15f01591b47d9cf362c",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "46f7188be2ee842b44339afc7c605268343e57554035a7610111cd448b0380d1",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

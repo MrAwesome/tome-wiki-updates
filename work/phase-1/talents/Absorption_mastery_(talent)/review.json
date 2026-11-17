@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "aded6209a2625364b06e649ad7d55cbbfd03ee2c381e54693dc5cbad8b513f3c",
+    "revid": 20242
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:58Z",
+      "event": "deterministic_render_applied",
+      "reason": "baseline_preserved"
+    }
+  ],
+  "identity": {
+    "filename": "Absorption_mastery_(talent)",
+    "kind": "talent",
+    "pageid": 1275,
+    "wiki_title": "Absorption mastery (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "baseline_preserved",
+    "candidate_page_sha256": "aded6209a2625364b06e649ad7d55cbbfd03ee2c381e54693dc5cbad8b513f3c",
+    "source_sha256": null,
+    "status": "unmatched_source",
+    "updated_at": "2026-11-08T16:08:58Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "aded6209a2625364b06e649ad7d55cbbfd03ee2c381e54693dc5cbad8b513f3c",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

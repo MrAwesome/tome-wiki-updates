@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "3a690f7bdd293f5c969a85073d7722cb62ff71458323efe18ab192dc4c904b2f",
+    "revid": 22102
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Thick_fur_(talent)",
+    "kind": "talent",
+    "pageid": 3986,
+    "wiki_title": "Thick fur (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "bd2734ff7fe06071a095488764efe7736472a7971c3fded4164a4ab58a6adcf2",
+    "source_sha256": "f4c50d76acf3466c75f743bfe9ba09c84019dfaa071e536873f70f45a01907d8",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "bd2734ff7fe06071a095488764efe7736472a7971c3fded4164a4ab58a6adcf2",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

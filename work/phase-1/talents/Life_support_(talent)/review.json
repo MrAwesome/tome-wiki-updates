@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "b4f5aea08394ffe2856f73ef33e6ee087986a9f1cf7053ce3448f26197af7602",
+    "revid": 16484
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "baseline_preserved"
+    }
+  ],
+  "identity": {
+    "filename": "Life_support_(talent)",
+    "kind": "talent",
+    "pageid": 5473,
+    "wiki_title": "Life support (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "baseline_preserved",
+    "candidate_page_sha256": "b4f5aea08394ffe2856f73ef33e6ee087986a9f1cf7053ce3448f26197af7602",
+    "source_sha256": "4a12c05410e5f47e466f2ba9f110c9346964a83a2812bad062dc4650c1992970",
+    "status": "unsupported_info",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "b4f5aea08394ffe2856f73ef33e6ee087986a9f1cf7053ce3448f26197af7602",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

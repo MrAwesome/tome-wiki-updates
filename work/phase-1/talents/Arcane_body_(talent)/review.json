@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "e962c0a4d713fab548523e68026da1acabf5744342740db63b72efd50c743def",
+    "revid": 13202
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:58Z",
+      "event": "deterministic_render_applied",
+      "reason": "baseline_preserved"
+    }
+  ],
+  "identity": {
+    "filename": "Arcane_body_(talent)",
+    "kind": "talent",
+    "pageid": 4628,
+    "wiki_title": "Arcane body (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "baseline_preserved",
+    "candidate_page_sha256": "e962c0a4d713fab548523e68026da1acabf5744342740db63b72efd50c743def",
+    "source_sha256": null,
+    "status": "unmatched_source",
+    "updated_at": "2026-11-08T16:08:58Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "e962c0a4d713fab548523e68026da1acabf5744342740db63b72efd50c743def",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

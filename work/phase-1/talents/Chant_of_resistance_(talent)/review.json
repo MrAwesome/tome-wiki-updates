@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "4c2b22266c5122e3fbf41cab0250c07b109ff70954201f6fdd693a2f070e52f8",
+    "revid": 18997
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:58Z",
+      "event": "deterministic_render_applied",
+      "reason": "baseline_preserved"
+    }
+  ],
+  "identity": {
+    "filename": "Chant_of_resistance_(talent)",
+    "kind": "talent",
+    "pageid": 108,
+    "wiki_title": "Chant of resistance (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "baseline_preserved",
+    "candidate_page_sha256": "4c2b22266c5122e3fbf41cab0250c07b109ff70954201f6fdd693a2f070e52f8",
+    "source_sha256": "7ee865627f3703747aa429823533ac5a92522e8ce59ccbfa9e7bee2068a7abe5",
+    "status": "unsupported_info",
+    "updated_at": "2026-11-08T16:08:58Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "4c2b22266c5122e3fbf41cab0250c07b109ff70954201f6fdd693a2f070e52f8",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "fcae10129652313b7b5362a664a4add3e08c075a943d888671eb6de65eb7a12d",
+    "revid": 18279
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:58Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Adept_(talent)",
+    "kind": "talent",
+    "pageid": 5833,
+    "wiki_title": "Adept (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "d2b7775b69b664956939b07f019e0a51deac05e97aede6678697474ed851b8cc",
+    "source_sha256": "e8f5d9281e0eed2b487a52666a6e8551d29371627cd1a604154296c3ae8b6979",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:58Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "d2b7775b69b664956939b07f019e0a51deac05e97aede6678697474ed851b8cc",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

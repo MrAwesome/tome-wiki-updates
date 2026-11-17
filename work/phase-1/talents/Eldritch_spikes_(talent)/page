@@ -1,0 +1,12 @@
+{{Ability_box
+|game_version=1.7.6
+|image=Eldritch spikes.png
+|name=Eldritch spikes
+|category_type={{ct|Spell}}
+|category={{c|Eldritch stone}}
+|require={{TalentReq/SpellsReq3}}
+|use_mode=Passive
+|desc=
+Imbues your stone spikes with arcane forces, dealing {{ctspd|10|180}} Arcane damage and silencing each target hit for {{ctl|12|4|9}} turns.
+The damage increases with Spellpower and the chance to silence increases with either Spellpower or Physical Power, whichever is greater.
+}}

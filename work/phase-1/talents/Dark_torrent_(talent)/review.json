@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "03b5a9eec5b39330024bf5c5d9126fc0496e4f085ad853f6ffd349232729552c",
+    "revid": 8230
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:58Z",
+      "event": "deterministic_render_applied",
+      "reason": "baseline_preserved"
+    }
+  ],
+  "identity": {
+    "filename": "Dark_torrent_(talent)",
+    "kind": "talent",
+    "pageid": 1199,
+    "wiki_title": "Dark torrent (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "baseline_preserved",
+    "candidate_page_sha256": "03b5a9eec5b39330024bf5c5d9126fc0496e4f085ad853f6ffd349232729552c",
+    "source_sha256": "b31c041e646a6187220fadbdb003053fb6ec737f5bbbd7709386f3987691aba6",
+    "status": "unsupported_info",
+    "updated_at": "2026-11-08T16:08:58Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "03b5a9eec5b39330024bf5c5d9126fc0496e4f085ad853f6ffd349232729552c",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "bf39b1e2dfc9c4a9f0027ff66f6b29557d5049a0c56a71fe9d1dd4b7e8230470",
+    "revid": 13230
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:58Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Blurred_mortality_(talent)",
+    "kind": "talent",
+    "pageid": 1588,
+    "wiki_title": "Blurred mortality (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "30e5aca9c612137e8ea8f0e0c2787d346b2fbb578f209cd6babb631485e37d85",
+    "source_sha256": "6cee58bfb87aa38e5e79ecf03570cfbbde5de0c5ad7faf2268955b2b12927dc9",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:58Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "30e5aca9c612137e8ea8f0e0c2787d346b2fbb578f209cd6babb631485e37d85",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

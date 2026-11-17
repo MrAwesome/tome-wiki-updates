@@ -1,0 +1,16 @@
+{{Ability_box
+|game_version=1.7.6
+|image=Earthen_missiles_2017.png
+|name=Earthen Missiles
+|category_type={{ct|Spell}}
+|category={{c|Stone}}
+|require={{TalentReq/SpellsReqHigh1}}
+|cost=10 Mana
+|cooldown=6
+|range=10
+|travel_speed=20
+|desc=
+Conjures 2 missile-shaped rocks that you target individually at any target or targets in range.  Each missile deals {{ctspd|10|100}} physical damage, and an additional {{ctspd|1.666666667|16.66666667}} bleeding damage every turn for 5 turns.
+At talent level 5, you can conjure one additional missile.
+The damage will increase with your Spellpower.
+}}

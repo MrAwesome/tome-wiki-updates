@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "9a1adfccaea90485092ee7a8fe61348ab5c1ac7b020ca46c35d440392638d6c9",
+    "revid": 17149
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Relentless_pursuit_(talent)",
+    "kind": "talent",
+    "pageid": 5646,
+    "wiki_title": "Relentless pursuit (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "431293daa3cbe1d64eac2cd6c9edc788063dc42ae0b99e12eb1d0c4d14e4ba82",
+    "source_sha256": "9f0d3e4186c3795ae002964c9c08d53383ddd0011cbaf862b1a388885880e334",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "431293daa3cbe1d64eac2cd6c9edc788063dc42ae0b99e12eb1d0c4d14e4ba82",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

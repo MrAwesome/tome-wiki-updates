@@ -1,0 +1,18 @@
+{{Ability box
+|game_version=1.7.6
+|image=Oozebeam.png
+|name=Oozebeam
+|category_type={{ct|Wild-Gift}}
+|category={{c|Oozing Blades}}
+|require={{TalentReq/GiftsReqHigh1}}
+|cost=4 Equilibrium
+|cooldown=3
+|range=10
+|use_speed=Mind
+|desc=
+Channel slime through your psiblades, extending their reach to create a beam doing {{ctmd|20|290}} Slime damage.
+
+The damage increases with your Mindpower.
+
+''Note: this talent will not damage friendly units''
+}}

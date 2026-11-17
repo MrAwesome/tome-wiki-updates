@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "40bc3db1f64a8b384cae9362d6add90274e0f2240ad23351ca919db266706960",
+    "revid": 8079
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Tidal_wave_(talent)",
+    "kind": "talent",
+    "pageid": 1428,
+    "wiki_title": "Tidal wave (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "083f59ab8273b4b88a2f26ddb242322a65ae2aa2a8af49ebcf84ee89592c8cdd",
+    "source_sha256": "228b100851e332611a9726539e76381bbc3549a41602a1556e117d7e62fc02e0",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "083f59ab8273b4b88a2f26ddb242322a65ae2aa2a8af49ebcf84ee89592c8cdd",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

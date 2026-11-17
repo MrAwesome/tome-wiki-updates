@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "2a5e4167c1190fb8d6d14a0ab18144b8ded0d963441c00113575550daddd5da2",
+    "revid": 15187
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:58Z",
+      "event": "deterministic_render_applied",
+      "reason": "baseline_preserved"
+    }
+  ],
+  "identity": {
+    "filename": "Decayed_devourers_(talent)",
+    "kind": "talent",
+    "pageid": 5303,
+    "wiki_title": "Decayed devourers (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "baseline_preserved",
+    "candidate_page_sha256": "2a5e4167c1190fb8d6d14a0ab18144b8ded0d963441c00113575550daddd5da2",
+    "source_sha256": "a123514fa090c6d4d714dfb3ff977ade6c62d079aac1e7e4a101035bc3ee1399",
+    "status": "unsupported_info",
+    "updated_at": "2026-11-08T16:08:58Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "2a5e4167c1190fb8d6d14a0ab18144b8ded0d963441c00113575550daddd5da2",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

@@ -1,0 +1,19 @@
+{{Ability box
+|embers_version=1.1.10
+|game_version=1.7.6
+|image=Arcane amplification drone.png
+|name=Arcane Amplification Drone Effect
+|category_type={{ct|Spell}}
+|category={{c|Other}}
+|require=None
+|use_mode=Passive
+|desc=
+Spell damage done to it ripples in radius 4 doing 130% {{arcane}} damage.
+|avail=[[NPC Only (category type)|NPC only]]
+}}
+===Notes===
+*This talent cannot be learned by the player. It is the passive talent carried by the drone created by the {{t|Arcane Amplification Drone}} prodigy, and is what produces the ripple.
+*Only spell damage dealt by the drone's summoner is amplified. All other damage dealt to the drone is simply negated.
+*See {{t|Arcane Amplification Drone}} for the full details of how the ripple works.
+
+<noinclude>[[Category: Embers of Rage]]</noinclude>

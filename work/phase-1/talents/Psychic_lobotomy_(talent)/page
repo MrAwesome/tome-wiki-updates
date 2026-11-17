@@ -1,0 +1,16 @@
+{{Ability box
+|game_version=1.7.6
+|image=Psychic lobotomy.png
+|name=Psychic Lobotomy
+|category_type={{ct|Psionic}}
+|category={{c|Psychic Assault}}
+|require={{TalentReq/PsiWilReq2}}
+|range=7
+|cost=10 Psi
+|cooldown=8
+|desc=
+Inflicts {{ctmd|10|200}} mind damage and cripples the target's higher mental functions, reducing cunning by {{ctmd|5|25}} and confusing ({{ctmd|10|50}} power) the target for {{cts|2|6}} turns.
+The damage, cunning penalty, and confusion power will scale with your Mindpower.
+
+''Note: Confusion resistance can prevent both the damage and confusion effect.''
+}}

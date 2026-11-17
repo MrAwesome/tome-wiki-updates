@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "6fec56ec64b771675a0d89fcc7730e2f6cb2dfb643f9a50a7b5e30c7626b3cd1",
+    "revid": 19149
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Mucus_(talent)",
+    "kind": "talent",
+    "pageid": 1379,
+    "wiki_title": "Mucus (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "49ae027302fef90eafc822c6e68531a77cd37bd5a03aa4dcfc3fd6753698759b",
+    "source_sha256": "5c18b293d180b321a6afc0cf859a97373c9f25a09e150bb19e20a6681ac67156",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "49ae027302fef90eafc822c6e68531a77cd37bd5a03aa4dcfc3fd6753698759b",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

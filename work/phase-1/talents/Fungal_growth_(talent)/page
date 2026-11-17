@@ -1,0 +1,15 @@
+{{Ability box
+|image=Fungal growth.png
+|name=Fungal Growth
+|category_type={{ct|Wild-Gift}}
+|category={{c|Fungus}}
+|game_version=1.7.6
+|require={{TalentReq/GiftsReq2}}
+|use_mode=Passive
+|desc=
+The fungus on your body allows regeneration effects to last longer.
+Each time you gain a beneficial effect with the regeneration subtype you increase its duration by {{ctmd|1|100}} + 1 rounded up.
+The effect will increase with your Mindpower.
+|avail.classes=[[Oozemancer]], [[Wyrmic]]
+|avail.shops=[[Zigur]] ([[Age of Ascendancy]]) — after completing [[Storming the city]], speaking to [[Myssil|Protector Myssil]] and killing [[Urkis]], the {{c|Fungus}} category is revealed (locked)
+}}

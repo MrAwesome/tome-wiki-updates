@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "9b9f9547ec1f5b00987505726c30f23a87a803c42fc690322edc0ee8ea245bf2",
+    "revid": 7603
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:58Z",
+      "event": "deterministic_render_applied",
+      "reason": "baseline_preserved"
+    }
+  ],
+  "identity": {
+    "filename": "Defensive_throw_(talent)",
+    "kind": "talent",
+    "pageid": 1538,
+    "wiki_title": "Defensive throw (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "baseline_preserved",
+    "candidate_page_sha256": "9b9f9547ec1f5b00987505726c30f23a87a803c42fc690322edc0ee8ea245bf2",
+    "source_sha256": "dc640c1af5d22a45472d843380c9de01334530b3831bd2b9fe88ee0cba3abc23",
+    "status": "unsupported_info",
+    "updated_at": "2026-11-08T16:08:58Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "9b9f9547ec1f5b00987505726c30f23a87a803c42fc690322edc0ee8ea245bf2",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

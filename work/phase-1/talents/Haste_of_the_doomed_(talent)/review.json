@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "1e08d9c10a8a374b6cf53bdb8fffaca6f6215531278ca0066d9af5a7834ee4e3",
+    "revid": 22118
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "baseline_preserved"
+    }
+  ],
+  "identity": {
+    "filename": "Haste_of_the_doomed_(talent)",
+    "kind": "talent",
+    "pageid": 3709,
+    "wiki_title": "Haste of the doomed (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "baseline_preserved",
+    "candidate_page_sha256": "1e08d9c10a8a374b6cf53bdb8fffaca6f6215531278ca0066d9af5a7834ee4e3",
+    "source_sha256": "66694c6705237debcb294c93b961f88711ac365f840f2b6fc5603ea65635e544",
+    "status": "unsupported_info",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "1e08d9c10a8a374b6cf53bdb8fffaca6f6215531278ca0066d9af5a7834ee4e3",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

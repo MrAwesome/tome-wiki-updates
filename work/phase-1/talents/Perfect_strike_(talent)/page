@@ -1,0 +1,15 @@
+{{Ability_box
+|game_version=1.7.6
+|image=Perfect_strike_2017.png
+|name=Perfect strike
+|category_type=[[Technique (category type)|Technique]]
+|category=[[Combat techniques (category)|Combat techniques]]
+|require={{TalentReq/TechsStrDexReq3}}
+|use_mode=Activated
+|range=Melee/Personal
+|cost=10 Stamina
+|cooldown=25
+|use_speed=Instant
+|desc=
+You have learned to focus your blows to hit your target, granting +{{CTS|40|100|0.75}} accuracy and allowing you to attack creatures you cannot see without penalty for the next {{ctl|8|3|6}} turns.
+}}

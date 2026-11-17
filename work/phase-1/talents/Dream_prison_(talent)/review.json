@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "b2e1e5316b5805a60e6335b0d40bb815e4679ee12c2b81beda5e72495e838d2c",
+    "revid": 23023
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:58Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Dream_prison_(talent)",
+    "kind": "talent",
+    "pageid": 1184,
+    "wiki_title": "Dream prison (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "3cff142d62c4a57c41ae0ff5b01e2af33f4e3250cefecf020e797eeff7fc1b6c",
+    "source_sha256": "57cdfadb3cc978657a6d86a74cd2451d35beddc1b8002819cc279772155041bd",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:58Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "3cff142d62c4a57c41ae0ff5b01e2af33f4e3250cefecf020e797eeff7fc1b6c",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

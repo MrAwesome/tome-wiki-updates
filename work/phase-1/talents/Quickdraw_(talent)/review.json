@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "271e82ab1bfe8b5f475eb9c3d7d536afb7948ede328db021758a46aca701e9e0",
+    "revid": 13713
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Quickdraw_(talent)",
+    "kind": "talent",
+    "pageid": 4638,
+    "wiki_title": "Quickdraw (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "3b5e68760cca5af5cd9b3f23ad0b1b230c98355c3982d280f1c532a4eacd89c5",
+    "source_sha256": "e3c2a768aa86e1394f7087e2b1e292c7fa8f05d2d18ae473a253bce7b99e1601",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "3b5e68760cca5af5cd9b3f23ad0b1b230c98355c3982d280f1c532a4eacd89c5",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

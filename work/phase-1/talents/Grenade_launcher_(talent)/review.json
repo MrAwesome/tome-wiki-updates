@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "5b05d513b2432f87e8cb6b13eb554d06b1831477e13954aa7cde50b00f4d5fcb",
+    "revid": 22445
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Grenade_launcher_(talent)",
+    "kind": "talent",
+    "pageid": 6888,
+    "wiki_title": "Grenade launcher (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "d08005c903f97d0d35d40633b8c21e6112ce4cef016cd85081957b39a11e6e2c",
+    "source_sha256": "66e61a2898f55d9b4ab85cf6284022701c3dc70c7c0bd318e26e9dd5e3712f32",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "d08005c903f97d0d35d40633b8c21e6112ce4cef016cd85081957b39a11e6e2c",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

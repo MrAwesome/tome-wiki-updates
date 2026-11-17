@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "13e44685f13ebee366de361c641a366dd50653fa700e2161f6b3b52ae8cf104e",
+    "revid": 12190
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:58Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Dissolving_acid_(talent)",
+    "kind": "talent",
+    "pageid": 3260,
+    "wiki_title": "Dissolving acid (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "f007c1338a1fd07e853f326500cfe64567f1a3da12e77677d47ea2ec9287cccf",
+    "source_sha256": "007f86d6e014eaada42f99c41f0283322d50bf6d57f89e0efa2c694c2ce36cc7",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:58Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "f007c1338a1fd07e853f326500cfe64567f1a3da12e77677d47ea2ec9287cccf",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

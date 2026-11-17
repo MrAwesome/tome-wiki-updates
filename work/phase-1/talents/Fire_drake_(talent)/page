@@ -1,0 +1,23 @@
+{{Ability box
+|image=Fire drake.png
+|name=Fire Drake
+|category_type={{ct|Wild-Gift}}
+|category={{c|Summoning (Distance)}}
+|require={{TalentReq/GiftsReq4}}
+|cost=15 Equilibrium
+|cooldown=10
+|range=5
+|desc=
+Summon a Fire Drake to burn and crush your foes to death. Fire Drakes are behemoths that can burn your foes from afar with their fiery breath.
+
+The Fire Drake will last for a duration of {{cs|(Talent Level)|2|0|7|5}}.
+
+It will receive the following stats:
+*Strength: 15 + 2 * Mindpower * {{cts|0.2|1|0.75}}
+*Constitution: 20 + 1.5 * Mindpower * {{cts|0.2|1|0.75}}
+*Willpower: 38
+
+Your summons inherit some of your stats: increased damage %, stun/pin/confusion/blindness resistance, armour penetration.
+
+Their Strength and Constitution will increase with your Mindpower.
+}}

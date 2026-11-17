@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "92ac47611e9474ac8c58eab38fae2f45e88bb95fdcd76e10eb3f9d683e259bb0",
+    "revid": 8658
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:58Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Dream_crusher_(talent)",
+    "kind": "talent",
+    "pageid": 1514,
+    "wiki_title": "Dream crusher (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "90b88bcbc2bb7153ccc2a5a73499d94bbf3275a04c83ac76b69b6ebc0427179d",
+    "source_sha256": "c1e654bde716e1fbae70ce41cf432f32f682e63c0003bab73989130d76e3e482",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:58Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "90b88bcbc2bb7153ccc2a5a73499d94bbf3275a04c83ac76b69b6ebc0427179d",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "1b71febc99e0dab1adb50e10ce416eb1279f9af8bab5662c9ee1cf2d5c54c6e9",
+    "revid": 18289
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:58Z",
+      "event": "deterministic_render_applied",
+      "reason": "baseline_preserved"
+    }
+  ],
+  "identity": {
+    "filename": "Bunny_hop_(talent)",
+    "kind": "talent",
+    "pageid": 5845,
+    "wiki_title": "Bunny hop (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "baseline_preserved",
+    "candidate_page_sha256": "1b71febc99e0dab1adb50e10ce416eb1279f9af8bab5662c9ee1cf2d5c54c6e9",
+    "source_sha256": null,
+    "status": "unmatched_source",
+    "updated_at": "2026-11-08T16:08:58Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "1b71febc99e0dab1adb50e10ce416eb1279f9af8bab5662c9ee1cf2d5c54c6e9",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

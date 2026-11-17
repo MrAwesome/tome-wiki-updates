@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "a27ac53938db0e8302b3cc9adaf6d4b856fb1990255e550e39d45ca72375356a",
+    "revid": 18528
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:58Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Acid_strike_(talent)",
+    "kind": "talent",
+    "pageid": 1278,
+    "wiki_title": "Acid strike (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "14bfd91c7a3c07220a664ae2a85b3115d3a8a7633d3178891d6fad3b7def92d8",
+    "source_sha256": "3b7068e844306823ae2aed4c1b2c3a9ce24e35e6dda31d42958f84bc1fd852d9",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:58Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "14bfd91c7a3c07220a664ae2a85b3115d3a8a7633d3178891d6fad3b7def92d8",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "43bb9101c52d9d923943b7a83e947b1ea4512860671970aff5fbf329acd173dd",
+    "revid": 15113
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:58Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Constrict_(talent)",
+    "kind": "talent",
+    "pageid": 2923,
+    "wiki_title": "Constrict (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "a6f9c472933046c4f1049a0849f66bb3b5968b67d340b599a385c4f6a51041a9",
+    "source_sha256": "038841bc39a9c1ca209651fb5c8cbe248ef0abab6596c528407063eefbe25906",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:58Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "a6f9c472933046c4f1049a0849f66bb3b5968b67d340b599a385c4f6a51041a9",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

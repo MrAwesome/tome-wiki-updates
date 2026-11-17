@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "503c7808896104433023332b7d767d7abbe7c20630899f34591aa16272f82252",
+    "revid": 19479
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:58Z",
+      "event": "deterministic_render_applied",
+      "reason": "baseline_preserved"
+    }
+  ],
+  "identity": {
+    "filename": "Corrosive_nature_(talent)",
+    "kind": "talent",
+    "pageid": 1107,
+    "wiki_title": "Corrosive nature (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "baseline_preserved",
+    "candidate_page_sha256": "503c7808896104433023332b7d767d7abbe7c20630899f34591aa16272f82252",
+    "source_sha256": "56f36db3ff46a0954b636d9c50a81073854bd1e5d29dadbf37b8194abd5f2df4",
+    "status": "unsupported_info",
+    "updated_at": "2026-11-08T16:08:58Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "503c7808896104433023332b7d767d7abbe7c20630899f34591aa16272f82252",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

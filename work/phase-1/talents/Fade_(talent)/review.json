@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "0ec004be18c147c2f51e3ae681708918f94940f896938fed1bf38a1c84572ee5",
+    "revid": 11536
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "baseline_preserved"
+    }
+  ],
+  "identity": {
+    "filename": "Fade_(talent)",
+    "kind": "talent",
+    "pageid": 2968,
+    "wiki_title": "Fade (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "baseline_preserved",
+    "candidate_page_sha256": "0ec004be18c147c2f51e3ae681708918f94940f896938fed1bf38a1c84572ee5",
+    "source_sha256": null,
+    "status": "unmatched_source",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "0ec004be18c147c2f51e3ae681708918f94940f896938fed1bf38a1c84572ee5",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

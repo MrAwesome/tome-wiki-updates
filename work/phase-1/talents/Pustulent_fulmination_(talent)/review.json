@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "3880e7a4596f0fb1cd635bbf2c93c56e8e803e6f3530f2646d93f83e61e02878",
+    "revid": 15285
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Pustulent_fulmination_(talent)",
+    "kind": "talent",
+    "pageid": 5342,
+    "wiki_title": "Pustulent fulmination (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "aa3b3a47d0d32835be44f2257d6849efb21b0d4f493817998008add6ca03ef71",
+    "source_sha256": "a3cfef7315f72cbd3957346e9194a906f93e3e25b242690e20f09727e14d57b9",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "aa3b3a47d0d32835be44f2257d6849efb21b0d4f493817998008add6ca03ef71",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

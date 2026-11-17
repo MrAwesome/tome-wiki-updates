@@ -1,0 +1,16 @@
+{{Ability_box
+|game_version=1.7.6
+|image=Pinning shot.png
+|name=Pinning shot
+|category_type={{ct|Technique}}
+|category={{c|Archery Prowess}}
+|require={{TalentReq/TechsDexReq3}}
+|use_mode=Activated
+|cost=15 Stamina
+|cooldown=10
+|use_speed=Archery Speed
+|range=Archery Range
+|desc=
+You fire a pinning shot, doing {{ctwd|100|140%}} damage and pinning your target to the ground for {{cts|2|5}} turns.
+The pinning chance increases with your Dexterity.
+}}

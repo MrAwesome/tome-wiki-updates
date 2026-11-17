@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "0278d2f6d6fc2f7b6afe3585dd8cef45250513eddc7af8e2d4dccedeccbf5f08",
+    "revid": 19029
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Sunburst_(talent)",
+    "kind": "talent",
+    "pageid": 128,
+    "wiki_title": "Sunburst (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "39f5d1b469e81b20c09df6c18cdb82ae0fa41fb675ca8f4556a2c2339c9dbd20",
+    "source_sha256": "41215a37c807d42e22106d4a41b47075cc90237b409411cc44b2dd12e1cad221",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "39f5d1b469e81b20c09df6c18cdb82ae0fa41fb675ca8f4556a2c2339c9dbd20",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

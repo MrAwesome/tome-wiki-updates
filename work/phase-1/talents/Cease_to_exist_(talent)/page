@@ -1,0 +1,18 @@
+{{Ability box
+|game_version=1.7.6
+|image=Cease to exist.png
+|name=Cease to Exist
+|category_type={{ct|Chronomancy}}
+|category={{c|Timeline Threading}}
+|require={{TalentReq/ChronoReqHigh4}}
+|cooldown=24
+|cost=24 Paradox
+|range=10
+|use_speed=Spell
+|use_mode=Activated
+|desc=
+Over the next {{cts|5|9}} turns, you attempt to remove the target from the timeline, lowering its resistance to physical and temporal damage by {{cts|20|50%}}.
+If you manage to kill the target while the spell is in effect, you'll be returned to the point in time you cast this spell and the target will be slain.
+This spell splits the timeline.  Attempting to use another spell that also splits the timeline while this effect is active will be unsuccessful.
+The resistance penalty will scale with your Spellpower.
+}}

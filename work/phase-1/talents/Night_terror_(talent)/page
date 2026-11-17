@@ -1,0 +1,18 @@
+{{Ability box
+|image=Night terror.png
+|name=Night Terror
+|game_version=1.7.6
+|category_type={{ct|Psionic}}
+|category={{c|Nightmare}}
+|require={{TalentReq/PsiWilHigh4}}
+|use_mode=Sustained
+|cost=50 Psi
+|cooldown=24
+|use_speed=Mind
+|desc=
+Increases your damage and resistance penetration on sleeping targets by {{cl|{{ctmd|10|50}}|100%|0|0|34.7%|34.7}}.
+
+Additionally, every time you slay a sleeping enemy, a Night Terror will be summoned for {{cts|2|10}} turns.
+
+The Night Terror's stats will scale with your Mindpower, as will the damage bonus to sleeping targets.
+}}

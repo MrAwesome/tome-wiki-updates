@@ -1,0 +1,16 @@
+{{Ability_box
+|image=rogue_s_brew.png
+|name=Rogue's Brew
+|game_version=1.5.2
+|category_type=[[Cunning (category type)|Cunning]]
+|category=[[Tools (category)|Tools]]
+|require={{t|Rogue's Tools}}, {{t|Cunning Tools}}, or {{t|Intricate Tools}}
+|cooldown=8
+|range={{cTS|4|7}}
+|cost=14 Stamina
+|travel_speed=Instantaneous
+|use_speed=Standard
+|desc=
+Imbibe a potent mixture of energizing and restorative substances, restoring {{cSS|Cun|10|200|0.7}} + {{cTS|20|200|0.7}} life, {{cSS|Cun|5|50|0.75}} + {{cTS|5|50|0.75}} stamina and curing {{cTS|1|3|log}} detrimental physical effects.  
+The restorative effects improve with your Cunning.
+}}

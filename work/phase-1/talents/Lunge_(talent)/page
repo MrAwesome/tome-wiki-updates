@@ -1,0 +1,16 @@
+{{Ability box
+|name=Lunge
+|image=lunge.png
+|game_version=1.7.6
+|category_type={{ct|Technique}}
+|category={{c|Duelist}}
+|require={{TalentReq/TechsDexReq4}}
+|cost=12 Stamina
+|cooldown=18
+|travel_speed=Instantaneous
+|use_speed=Weapon
+|desc=
+Exploiting a gap in your target's defenses, you make a lethal strike with your offhand weapon for {{ctwd|180|350%}} damage that causes them to drop their weapon, disarming them for {{ctl|10|3|7}} turns.
+Tempo will reduce the cooldown of this talent by 1 turn each time it is triggered defensively.
+The chance to disarm increases with your Accuracy.
+}}

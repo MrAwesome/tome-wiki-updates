@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "155c787858255f5d2723e6f602cb345de82e3c3cfdec0f6586c7c400f2dc4db1",
+    "revid": 14062
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Shattering_shout_(talent)",
+    "kind": "talent",
+    "pageid": 1503,
+    "wiki_title": "Shattering shout (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "559e9c1f5007a444e1297cf637067bbda0cd3a63805f3065699a8893c26838b3",
+    "source_sha256": "fabb2618fcab9a25cce43473e048b2ab64d5c7f92cbd68b9bbeaa3b6799f3e3e",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "559e9c1f5007a444e1297cf637067bbda0cd3a63805f3065699a8893c26838b3",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

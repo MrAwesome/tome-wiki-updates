@@ -1,0 +1,16 @@
+{{Ability box
+|image=Dismissal.png
+|name=Dismissal
+|category_type={{ct|Psionic}}
+|category={{c|Solipsism}}
+|require={{TalentReq/PsiWilReq4}}
+|use_mode=Passive
+|desc=
+Each time you take damage, you roll {{cts|25|60%}} of your mental save against it.  A successful saving throw can crit and will reduce the damage by at least 50%.
+
+The first talent point invested will also increase the amount of Psi you gain from Willpower by 0.5, but reduce the amount of life you gain from Constitution by 0.25.
+
+The first talent point also increases your solipsism threshold by 10%.
+
+''Note: A bug in version 1.2.3 causes critical hits to actually reduce the amount of dismissed damage rather than increase it.''
+}}

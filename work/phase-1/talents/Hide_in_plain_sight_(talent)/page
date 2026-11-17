@@ -1,0 +1,21 @@
+{{Ability_box
+|image=Hide in plain sight.png
+|name=Hide in plain sight
+|category_type=[[Cunning (category type)|Cunning]]
+|category=[[Stealth (category)|Stealth]]
+|require={{TalentReq/CunsReq3}}
+|use_mode=Activated
+|cost=20 Stamina
+|cooldown=40
+|use_speed=Instant
+|desc=
+You have learned how to be stealthy even when in plain sight of your foes.  You may attempt to enter stealth regardless of how close you are to your enemies, but success is more likely against fewer opponents that are farther away.
+
+Your chance to succeed is determined by comparing {{CTS|0.9|2.7}} times your stealth power to the stealth detection of all enemies (reduced by 10% per tile distance) that have a clear line of sight to you.
+
+You always succeed if you are not directly observed.
+
+If successful, all creatures currently following you will lose track of your position.
+
+This also resets the cooldown of your Stealth talent.
+}}

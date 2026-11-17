@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "92b21363478b7e61531346d4e93f1ea674e3733bfb24a1b242d8cc341abe3bbf",
+    "revid": 22107
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Lifeless_rush_(talent)",
+    "kind": "talent",
+    "pageid": 4094,
+    "wiki_title": "Lifeless rush (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "d5117bbed44cdb16ce19450dd8a992f7bd0356982bee1a79da577c6e44f09de8",
+    "source_sha256": "f4c50d76acf3466c75f743bfe9ba09c84019dfaa071e536873f70f45a01907d8",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "d5117bbed44cdb16ce19450dd8a992f7bd0356982bee1a79da577c6e44f09de8",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "62a471003419a97a7a2488d584a57aa928964b2855a0d30914bd4e856e6541b3",
+    "revid": 12200
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Thunderclap_(talent)",
+    "kind": "talent",
+    "pageid": 3268,
+    "wiki_title": "Thunderclap (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "aa474ef2509b07f6fc24f900a8d527736bf32071adb33279794367caeb58c20a",
+    "source_sha256": "2d30fba73df6fe47db26ec339416e7fda9ace6ac27c274a520ef450cb97f8c10",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "aa474ef2509b07f6fc24f900a8d527736bf32071adb33279794367caeb58c20a",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

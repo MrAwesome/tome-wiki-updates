@@ -1,0 +1,13 @@
+{{Ability box
+|game_version=1.7.6
+|image=Giant leap.png
+|name=Giant Leap
+|category_type=[[Prodigies]]
+|category=[[Prodigies#Dexterity|Dexterity]]
+|require=Dexterity 50<br />Have dealt over 50,000 damage with any weapon or unarmed attacks
+|cooldown=20
+|range=10
+|desc=
+You accurately jump to the target and deal 200% weapon damage to all foes within radius 1 on impact as well as dazing them for 3 turns.
+When you jump you free yourself from any stun, daze and pinning effects.
+}}

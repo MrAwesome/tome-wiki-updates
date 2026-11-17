@@ -1,0 +1,16 @@
+{{Ability box
+|image=Pacification hex.png
+|name=Pacification Hex
+|category_type={{ct|Corruption}}
+|category={{c|Hexes}}
+|require={{TalentReq/CorrsReq1}}
+|cooldown=20
+|cost=30 Vim
+|range=10
+|desc=
+Hexes your target, dazing it and everything in a 2 radius ball around it for 3 turns, and giving a chance to daze affected targets again each turn for 20 turns.
+
+The chance to daze is {{cl|{{ctspd|30|50}}|100%|0|0|36.8%|36.8}}.
+
+The chance will increase with your Spellpower.
+}}

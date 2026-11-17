@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "8022498a4d7ec4fc67626173a86e89afb229fa34c26d57b06e43d0ab916024f2",
+    "revid": 22513
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:58Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Automated_repair_system_(talent)",
+    "kind": "talent",
+    "pageid": 6942,
+    "wiki_title": "Automated repair system (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "7e73af79858c52d7872347bd33353c5a5ff64e5f7e7c7b4886e42a284ef817e7",
+    "source_sha256": "d4a229c033179400bfeecdf22a6d8c7d8b890754f25cecd82908d413c3fa5102",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:58Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "7e73af79858c52d7872347bd33353c5a5ff64e5f7e7c7b4886e42a284ef817e7",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

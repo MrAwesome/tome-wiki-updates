@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "329ce79bac61ea196dd42bcf36ba3c2e9e9f6690cd8e0db3b31f307f8ff5f759",
+    "revid": 23007
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Resonance_field_(talent)",
+    "kind": "talent",
+    "pageid": 1691,
+    "wiki_title": "Resonance field (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "e0de5c988cf0a63810e94bb9e53b63bfd152ddfd4b33a82620fa4514619061fd",
+    "source_sha256": "cd09c7e7820e903eb640242242dded6f54afca2db6a9beacc2dc1256f782f76d",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "e0de5c988cf0a63810e94bb9e53b63bfd152ddfd4b33a82620fa4514619061fd",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

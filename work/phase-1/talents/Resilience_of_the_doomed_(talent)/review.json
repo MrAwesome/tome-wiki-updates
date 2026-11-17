@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "5ba652736f357bdbdc1453027429893af19895374fcc44d771d77843014a6743",
+    "revid": 22119
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Resilience_of_the_doomed_(talent)",
+    "kind": "talent",
+    "pageid": 3713,
+    "wiki_title": "Resilience of the doomed (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "1f1f1652efd3478234e6da8b668bface76d5e3c802c51dfe078ee82bb1d8eda9",
+    "source_sha256": "66694c6705237debcb294c93b961f88711ac365f840f2b6fc5603ea65635e544",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "1f1f1652efd3478234e6da8b668bface76d5e3c802c51dfe078ee82bb1d8eda9",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

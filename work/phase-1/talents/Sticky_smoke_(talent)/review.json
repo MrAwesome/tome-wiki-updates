@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "af74722cb9913487beb0292beec7a309746f47873339aa6c027d65bcb75fdab6",
+    "revid": 7708
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Sticky_smoke_(talent)",
+    "kind": "talent",
+    "pageid": 1411,
+    "wiki_title": "Sticky smoke (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "13ba1ecfc33940f630c1aedfde518faff1c3ee8b47ef7eeec2b53ff4ce213c78",
+    "source_sha256": "dc640c1af5d22a45472d843380c9de01334530b3831bd2b9fe88ee0cba3abc23",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "13ba1ecfc33940f630c1aedfde518faff1c3ee8b47ef7eeec2b53ff4ce213c78",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

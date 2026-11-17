@@ -1,0 +1,16 @@
+{{Ability_box
+|game_version = 1.7.6
+|name = Self-Sacrifice
+|image = Self_sacrifice.png
+|category_type = {{ct|Cursed}}
+|category = {{c|Hatred}}
+|require = {{TalentReq/CursedWilReq1}}
+|use_mode = Activated
+|cost = 10–5% max life, Gain 8 Hate
+|cooldown = {{ctl|5|14|6}}
+|use_speed = Instant
+|desc = 
+At the start of each turn, if you're bleeding, you gain 2 hate.
+
+You can activate this talent to use your own life for power, bleeding yourself for (100 / {{ctl|50|10|20}})% of your maximum life over the next 5 turns. This bleed cannot be resisted or removed, but can be reduced by {{c|Bloodstained}}.
+}}

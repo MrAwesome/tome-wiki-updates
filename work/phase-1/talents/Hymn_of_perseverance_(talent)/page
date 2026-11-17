@@ -1,0 +1,15 @@
+{{Ability box
+|game_version=1.7.6
+|image=Hymn of perseverance.png
+|name=Hymn of Perseverance
+|category_type={{ct|Celestial}}
+|category={{c|Hymns}}
+|require={{TalentReq/DiviReq3}}
+|use_mode=Sustained
+|cost=20 Negative
+|cooldown=12
+|use_speed=0
+|desc=
+Chant the glory of the Moons, granting you {{ctl|100%|20|45%}} stun, blindness and confusion resistance.
+You may only have one Hymn active at once.
+}}

@@ -1,0 +1,21 @@
+{{Ability box
+|image=circle_of_death.png
+|game_version=1.7.6
+|name=Night Sphere
+|category_type={{ct|Spell}}
+|category={{c|Nightfall}}
+|require={{TalentReq/SpellsReq2}}
+|cost=40 Mana
+|cooldown=16
+|range=6
+|radius={{cts|3|4}}
+|use_speed=Spell
+|desc=
+Dark fumes erupt from the ground in radius {{cts|3|4}} for 5 turns. Any creature entering the circle will receive either a bane of confusion or a bane of blindness.
+
+Only one bane can affect a creature.
+
+Banes last for {{cts|4|6}} turns, and also deal {{ctspd|15|60}} darkness damage.
+
+The damage will increase with your Spellpower.
+}}

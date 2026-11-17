@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "6413ffd984480f0ccfe63dd6fdde0fce63431743c493069e2f2ea872cd367150",
+    "revid": 22836
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:58Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Dirge_of_conquest_(talent)",
+    "kind": "talent",
+    "pageid": 7026,
+    "wiki_title": "Dirge of conquest (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "636af8523d29cc84b0a23d51fed8e433050cf778e9d96e25a733ad7a1fb5dfa0",
+    "source_sha256": "d9f8e153ac9d7c92ea670616aa88d9d410b4b14e1e521173dd86d419e5ef7e3a",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:58Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "636af8523d29cc84b0a23d51fed8e433050cf778e9d96e25a733ad7a1fb5dfa0",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

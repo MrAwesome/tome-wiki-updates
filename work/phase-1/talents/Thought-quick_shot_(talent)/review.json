@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "f03223925c5b8f89dc0c80ee6df5df9bba026a5ab850fb70db48f5ad7cf08cac",
+    "revid": 2514
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Thought-quick_shot_(talent)",
+    "kind": "talent",
+    "pageid": 1671,
+    "wiki_title": "Thought-quick shot (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "25b953975642c772a024fbc79132093f15d4568bcadb7d6b08ca52ec7c6b4900",
+    "source_sha256": "e43019d76e48860b5d970fe9a4b89a4a9d1722ab21c2eb34729c9d77edbab062",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "25b953975642c772a024fbc79132093f15d4568bcadb7d6b08ca52ec7c6b4900",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "06836dd7b23713a6e2e10b405a5a2f432c01c3daf60466671939e7ce9e8b45e3",
+    "revid": 18499
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Worm_rot_(talent)",
+    "kind": "talent",
+    "pageid": 4711,
+    "wiki_title": "Worm rot (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "af363561c145e06e2bee7ce94aacb06782f0ade27a55120687c553d7cc119603",
+    "source_sha256": "05702ee27a51c8b814d897755d8017ad914f017431b755289d763dddf635c36e",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "af363561c145e06e2bee7ce94aacb06782f0ade27a55120687c553d7cc119603",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

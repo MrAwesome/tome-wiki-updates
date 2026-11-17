@@ -1,0 +1,15 @@
+{{Ability box
+|game_version=1.5.2
+|image=Insidious_poison_2017.png
+|name=Insidious Poison
+|category_type={{ct|Cunning}}
+|category=Poisons Effects
+|require={{t|Vile Poisons}} Level 2
+|use_mode=Sustained
+|cooldown=10
+|use_speed=0
+|desc=
+Enhances your Deadly Poison with an insidious agent, causing it to reduce the healing taken by enemies by {{cTL|150%|45|70%}}.
+
+Poison effects scale with your {{t|Vile Poisons}} talent.
+}}

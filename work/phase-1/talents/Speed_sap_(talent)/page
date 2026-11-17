@@ -1,0 +1,9 @@
+{{Ability_box
+|game_version=1.7.6
+|name=Speed Sap
+|category_type=[[NPC Only (category type)|NPC Only]]
+|category=-
+|image=Speed sap.png
+|desc=
+Saps 30% of the target's speed (increasing yours by the same amount) and inflicts {{ctspd|20|220|PM}} temporal damage for three turns.
+}}

@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "361867e551b9300837d06440567dd72cb9bff64bc48e0b6c8bbe5489c4900989",
+    "revid": 15327
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "baseline_preserved"
+    }
+  ],
+  "identity": {
+    "filename": "Fatebreaker_(talent)",
+    "kind": "talent",
+    "pageid": 5354,
+    "wiki_title": "Fatebreaker (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "baseline_preserved",
+    "candidate_page_sha256": "361867e551b9300837d06440567dd72cb9bff64bc48e0b6c8bbe5489c4900989",
+    "source_sha256": "7a65b4d2d7a91f83f32472a330aeff48e7ac983914fd672dc09673a812a06d80",
+    "status": "unsupported_info",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "361867e551b9300837d06440567dd72cb9bff64bc48e0b6c8bbe5489c4900989",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

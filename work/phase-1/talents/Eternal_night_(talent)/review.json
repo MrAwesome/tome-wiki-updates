@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "27ddfeabcafc27ebc1de3e0e33b8838bf3bb2d87d209433e82845a4038da84de",
+    "revid": 19437
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Eternal_night_(talent)",
+    "kind": "talent",
+    "pageid": 5730,
+    "wiki_title": "Eternal night (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "b8e97899e01700e01a8e745754c4d184d3fc76b255d1af04b7b9e538f2875a9e",
+    "source_sha256": "52831b8501e7a724ed3691875e4a6a7757fe3b2f0a859a4e8e4dd673cd9007d6",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "b8e97899e01700e01a8e745754c4d184d3fc76b255d1af04b7b9e538f2875a9e",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

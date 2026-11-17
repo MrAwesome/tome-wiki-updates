@@ -1,0 +1,15 @@
+{{Ability_box
+|image=Take down.png
+|name=Take down
+|category_type=[[Technique (category type)|Technique]]
+|category=[[Grappling (category)|Grappling]]
+|require={{TalentReq/TechsReq3}}
+|use_mode=Activated
+|range={{CTS|2.3|3.7}}
+|cost=15 Stamina
+|cooldown=10
+|desc=
+Rushes forward and attempts to take the target to the ground, making a melee attack for {{CTWD|10|100%}} damage then attempting to grapple them. If you're already grappling the target you'll instead slam them into the ground creating a radius 5 shockwave for {{CTPD|10|400}} physical damage and breaking your grapple.
+
+The grapple effects and duration will be based off your grapple talent, if you have it, and the damage will scale with your Physical Power.
+}}

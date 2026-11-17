@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "8f19f9409a3d3815c5507b98d021f893d0983b225c6f5f0208d9ed4e160fc54f",
+    "revid": 8869
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Mental_shielding_(talent)",
+    "kind": "talent",
+    "pageid": 1613,
+    "wiki_title": "Mental shielding (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "aa914fa7f4c70d925e173657423871f2ce8338b2d0683bc20f1482907ccdde89",
+    "source_sha256": "cf49b7d74fbf410c0a1c8d62c9737d05b8d04de0b70334e11a8bc4c1f46eb4db",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "aa914fa7f4c70d925e173657423871f2ce8338b2d0683bc20f1482907ccdde89",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

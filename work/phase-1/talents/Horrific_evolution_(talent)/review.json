@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "9e6d685a61d4d7003b6a675e480cf5fd766f0bf30d000984e76239272215d65c",
+    "revid": 15170
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Horrific_evolution_(talent)",
+    "kind": "talent",
+    "pageid": 5295,
+    "wiki_title": "Horrific evolution (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "b5182e50c02984ef37978f3bda051b13355a01a0b81cd9e4b595d78cee5b5d17",
+    "source_sha256": "e688d681d04434c01cf5246a35de54b0a91aa8e9df43243fded8732f5e72ad7f",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "b5182e50c02984ef37978f3bda051b13355a01a0b81cd9e4b595d78cee5b5d17",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

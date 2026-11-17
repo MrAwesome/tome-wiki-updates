@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "f09cc77dcc1724e2c1412a7a81cb649c360f6b0468d25c5cd24e39c189292bbd",
+    "revid": 12462
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Rain_of_fire_(talent)",
+    "kind": "talent",
+    "pageid": 3694,
+    "wiki_title": "Rain of fire (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "534db8e5e7991a76e061022076afd56b9cb913705e1d3c3064741e08cdf8c326",
+    "source_sha256": "7121480755bd462ee8d5b57b26f762a2d5db0098bd42be4c7ed348ba69b59d3b",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "534db8e5e7991a76e061022076afd56b9cb913705e1d3c3064741e08cdf8c326",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "f9f5ac51b00f2a0ba51713fe07a190f9ed39d847d1a4c2e562efa0fbd8bdad98",
+    "revid": 13742
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Volley_(talent)",
+    "kind": "talent",
+    "pageid": 4682,
+    "wiki_title": "Volley (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "cd6f61e55e8a0aeca0985cff40806968ea9dcde639108867b0311f75ef8b2501",
+    "source_sha256": "4c26268cd967d35171d9854350db863fa31306bb2c90ae324ed7dfad644f11ea",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "cd6f61e55e8a0aeca0985cff40806968ea9dcde639108867b0311f75ef8b2501",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "2a23751863d27da06d359e35cdce2c060d0e58ef91ffb13eb6ce55bfce7d0cc8",
+    "revid": 22456
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "baseline_preserved"
+    }
+  ],
+  "identity": {
+    "filename": "Incendiary_grenade_(talent)",
+    "kind": "talent",
+    "pageid": 6893,
+    "wiki_title": "Incendiary grenade (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "baseline_preserved",
+    "candidate_page_sha256": "2a23751863d27da06d359e35cdce2c060d0e58ef91ffb13eb6ce55bfce7d0cc8",
+    "source_sha256": "66e61a2898f55d9b4ab85cf6284022701c3dc70c7c0bd318e26e9dd5e3712f32",
+    "status": "unsupported_info",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "2a23751863d27da06d359e35cdce2c060d0e58ef91ffb13eb6ce55bfce7d0cc8",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

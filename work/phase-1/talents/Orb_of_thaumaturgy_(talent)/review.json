@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "1cbd389d372047122f446f5e040ced716ff0dea127d659903f3a7bf7a2d7bd81",
+    "revid": 22802
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Orb_of_thaumaturgy_(talent)",
+    "kind": "talent",
+    "pageid": 7006,
+    "wiki_title": "Orb of thaumaturgy (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "fcc64c4635bc30ed5f926e94b1f77c679f9b28be3f2eaa3c8cdebe690cabb091",
+    "source_sha256": "02aab560ab3ab9cf7d4aa2188d0e0d4d92ae60247099f7838750ddf2d189967d",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "fcc64c4635bc30ed5f926e94b1f77c679f9b28be3f2eaa3c8cdebe690cabb091",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

@@ -1,0 +1,16 @@
+{{Ability box
+|game_version=1.7.6
+|image=Resilient body.png
+|name=Resilient Body
+|category_type={{ct|Race}}
+|category={{c|Kruk Yeti}}
+|require={{TalentReq/RacialReq3}}
+|use_mode=Passive
+|cooldown=
+|desc=
+Your yeti's body is very resilient to detrimental effects.
+Each time you are hit by a physical, magical, or mental detrimental effect your body reacts with a burst of healing.
+This effect heals for  ( ({{ctl|0.9|0.2|0.6}} * Con) + 20) and can only occur up to 3 times per turn.
+It increases with your Constitution stat.
+
+}}

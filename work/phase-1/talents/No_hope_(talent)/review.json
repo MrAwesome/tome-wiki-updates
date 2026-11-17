@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "f58e2465c1dc45be19a9e11d08d9a99d45548edf64fad5a9406750b9ff3d0bc8",
+    "revid": 22370
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "No_hope_(talent)",
+    "kind": "talent",
+    "pageid": 5175,
+    "wiki_title": "No hope (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "487ae222c20b75283860e3f896cf350f28c8a10721fad6e1e6a4c11f14f3dede",
+    "source_sha256": "b23cf87ff058cb74d4673ce4ba68bcbca28b86b229c91864dbb07e7e534ecb8b",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "487ae222c20b75283860e3f896cf350f28c8a10721fad6e1e6a4c11f14f3dede",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "1dff067b6912c96e33568ead705c03dd52bf03142e46b3e5732248b96fe5eeaf",
+    "revid": 16981
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Mind_whip_(talent)",
+    "kind": "talent",
+    "pageid": 5594,
+    "wiki_title": "Mind whip (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "cdab9bc4e9887515bbf3ca022caa25abfc8c654b643e021bc34d671990d88641",
+    "source_sha256": "ce34a6e5f5b91f2b91177576337ae70f227e9e043431c15f01591b47d9cf362c",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "cdab9bc4e9887515bbf3ca022caa25abfc8c654b643e021bc34d671990d88641",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

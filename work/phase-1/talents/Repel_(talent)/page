@@ -1,0 +1,22 @@
+{{Ability box
+|image=Repel.png
+|name=Repel
+|category_type={{Ct|Cursed}}
+|category={{c|Strife}}
+|require={{TalentReq/CursedStrReq4}}
+|use_mode=Sustained
+|cooldown=10
+|use_speed=0
+|desc=
+Rather than hide from the onslaught, you face down every threat, giving you a chance to repel melee attacks.
+
+The chance to repel is {{cl|{{ctstd|Str|12|36}}|50%|0|0|26.45%|26.45}}.
+
+The repel chance is increased by 6% if you are using a shield.
+
+The recklessness of your defense reduces your luck by 3. 
+
+{{t|Cleave}}, {{t|Repel}} and {{t|Surge}} cannot be active simultaneously, and activating one will place the others in cooldown.
+
+Repel chance increases with your Strength, and when equipped with a shield.
+}}

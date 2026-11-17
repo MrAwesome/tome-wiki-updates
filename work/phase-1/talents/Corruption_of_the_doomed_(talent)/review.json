@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "024c1284b7ec65130d2b767479132c6e6c69535e96cd3efb9ce4955bcb206df4",
+    "revid": 22120
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:58Z",
+      "event": "deterministic_render_applied",
+      "reason": "baseline_preserved"
+    }
+  ],
+  "identity": {
+    "filename": "Corruption_of_the_doomed_(talent)",
+    "kind": "talent",
+    "pageid": 3715,
+    "wiki_title": "Corruption of the doomed (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "baseline_preserved",
+    "candidate_page_sha256": "024c1284b7ec65130d2b767479132c6e6c69535e96cd3efb9ce4955bcb206df4",
+    "source_sha256": "66694c6705237debcb294c93b961f88711ac365f840f2b6fc5603ea65635e544",
+    "status": "unsupported_info",
+    "updated_at": "2026-11-08T16:08:58Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "024c1284b7ec65130d2b767479132c6e6c69535e96cd3efb9ce4955bcb206df4",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

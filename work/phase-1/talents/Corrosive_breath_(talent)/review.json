@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "8acf518793667390fd76398531b01bbb7b12692639d9ea99414844d127ee19c8",
+    "revid": 9776
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:58Z",
+      "event": "deterministic_render_applied",
+      "reason": "baseline_preserved"
+    }
+  ],
+  "identity": {
+    "filename": "Corrosive_breath_(talent)",
+    "kind": "talent",
+    "pageid": 1135,
+    "wiki_title": "Corrosive breath (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "baseline_preserved",
+    "candidate_page_sha256": "8acf518793667390fd76398531b01bbb7b12692639d9ea99414844d127ee19c8",
+    "source_sha256": "0257cfedc80888acc505219169b2d10bfae0de46189ff2507033f79f7e91a973",
+    "status": "unsupported_info",
+    "updated_at": "2026-11-08T16:08:58Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "8acf518793667390fd76398531b01bbb7b12692639d9ea99414844d127ee19c8",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

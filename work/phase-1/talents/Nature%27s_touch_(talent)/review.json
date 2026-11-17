@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "c158fdd8378940e8ecd0a81d3db3fa7756c0d2d049833594fdc9cf65cfffae9c",
+    "revid": 23012
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Nature%27s_touch_(talent)",
+    "kind": "talent",
+    "pageid": 1166,
+    "wiki_title": "Nature's touch (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "7c7c5aad6a9e134f9e7d26f66292e1bf483f95d51a4733ebf330ed8bd4d57a30",
+    "source_sha256": "b2df31016f55fb32b4e989d1fcb6e094f9c39e3d2cb9431e87be77f5f476e6b9",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "7c7c5aad6a9e134f9e7d26f66292e1bf483f95d51a4733ebf330ed8bd4d57a30",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

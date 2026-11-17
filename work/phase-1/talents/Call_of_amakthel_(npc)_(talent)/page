@@ -1,0 +1,9 @@
+{{Ability_box
+|name=Call of Amakthel (NPC)
+|category_type=[[NPC Only (category type)|NPC Only]]
+|image=Call of amakthel.png
+|game_version=1.7.6
+|cooldown=2
+|desc=
+Pull all foes within radius 10 1 grid towards you.
+}}

@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "1796f245dfce5a6f1fdb90d9828ff19be91d90735cf20185d3f56f8cf338d056",
+    "revid": 22355
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:58Z",
+      "event": "deterministic_render_applied",
+      "reason": "baseline_preserved"
+    }
+  ],
+  "identity": {
+    "filename": "Automated_cloak_tessellation_(talent)",
+    "kind": "talent",
+    "pageid": 5158,
+    "wiki_title": "Automated cloak tessellation (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "baseline_preserved",
+    "candidate_page_sha256": "1796f245dfce5a6f1fdb90d9828ff19be91d90735cf20185d3f56f8cf338d056",
+    "source_sha256": "1c30987300f12e9c1b0056c95d7765d985c80f85adf2fca9bd6121f6fbb2d3f0",
+    "status": "unsupported_info",
+    "updated_at": "2026-11-08T16:08:58Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "1796f245dfce5a6f1fdb90d9828ff19be91d90735cf20185d3f56f8cf338d056",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

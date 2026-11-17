@@ -1,0 +1,13 @@
+{{Ability box
+|game_version=1.7.6
+|image=Skeleton_reassemble_2017.png
+|name=Re-Assemble
+|category_type={{ct|Undead}}
+|category={{c|Skeleton}}
+|require={{TalentReq/UndeadsReq4}}
+|cooldown={{ctl|10|30|15}}
+|desc=
+Re-position some of your bones, healing yourself for ({{cts|100|500}} + Max Life * {{ctl|10%|1|5%}}).
+
+At level 5, you will gain the ability to completely re-assemble your body should it be destroyed (can only be used once).
+}}

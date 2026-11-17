@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "b2426401df6c1fe493b7ee0f0e2474488530645399de8f5ae5265b17e4fa2257",
+    "revid": 13871
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Sun%27s_vengeance_(talent)",
+    "kind": "talent",
+    "pageid": 3336,
+    "wiki_title": "Sun's vengeance (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "8e2d5fc4b18e4dd6f41c2ce4facfcde84b93a5b0999919fcec872fe0a91262fc",
+    "source_sha256": "35afd14eba69d96a9a2742ecc52046618d170c6d6ae04b6a2a28d2edbdf76686",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "8e2d5fc4b18e4dd6f41c2ce4facfcde84b93a5b0999919fcec872fe0a91262fc",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

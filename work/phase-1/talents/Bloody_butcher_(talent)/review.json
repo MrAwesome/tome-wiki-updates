@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "165fb66443fe71af2ea518aff957c7f62ac401d394b99647580aa6ecfd469cc7",
+    "revid": 11114
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:58Z",
+      "event": "deterministic_render_applied",
+      "reason": "baseline_preserved"
+    }
+  ],
+  "identity": {
+    "filename": "Bloody_butcher_(talent)",
+    "kind": "talent",
+    "pageid": 3415,
+    "wiki_title": "Bloody butcher (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "baseline_preserved",
+    "candidate_page_sha256": "165fb66443fe71af2ea518aff957c7f62ac401d394b99647580aa6ecfd469cc7",
+    "source_sha256": "a8859b92ae2bb79be0cf0710303642fbc211d9c7d9cce0840ed4a27cac9f71b1",
+    "status": "unsupported_info",
+    "updated_at": "2026-11-08T16:08:58Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "165fb66443fe71af2ea518aff957c7f62ac401d394b99647580aa6ecfd469cc7",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

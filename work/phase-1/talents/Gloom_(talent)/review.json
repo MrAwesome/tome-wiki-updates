@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "6a5781b7f896025f17ef55f65e5698cf4c6161a319efa2ab5b27bcd75b969759",
+    "revid": 8167
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "baseline_preserved"
+    }
+  ],
+  "identity": {
+    "filename": "Gloom_(talent)",
+    "kind": "talent",
+    "pageid": 1508,
+    "wiki_title": "Gloom (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "baseline_preserved",
+    "candidate_page_sha256": "6a5781b7f896025f17ef55f65e5698cf4c6161a319efa2ab5b27bcd75b969759",
+    "source_sha256": "10c08a0250ecf5034db9efba72630cc6e67ad79f28b452c3386ba2956bfaaeb8",
+    "status": "unsupported_info",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "6a5781b7f896025f17ef55f65e5698cf4c6161a319efa2ab5b27bcd75b969759",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

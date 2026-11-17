@@ -1,0 +1,22 @@
+{{Ability box
+|game_version=1.6.4
+|image=Metaphasic Spin.png
+|name=Metaphasic Spin
+|category_type={{ct|Spell}}
+|category={{c|Occult Technomancy}}
+|require=Arcane Dynamo
+|cost=40 mana, 10 steam sustained
+|cooldown=7
+|range=0
+|desc=
+You imbue a steamsaw with arcane and temporal forces, making it spin very fast around your waist (ignoring requirements).
+The saw spins so fast it it disturbs spacetime around you, increasing your spellpower by up to {{cts|10|50}}, your spell critical chance by up to {{cts|3|10}} and your mana regen by up to {{cts|0.5|4}} (depending on steamsaw tier).{{break}}
+Any successful melee attack against you also triggers an automatic steamsaw attack that cannot miss dealing (√(talentlevel/5))/1.5 weapon damage as occult damage (arcane and temporal).{{break}}
+The steamsaw used will provide its bonus as if it was worn, but you can not Block with it.{{break}}
+Increases steamsaws weapon damage by (√(talentlevel/5))/1.5 and uses Magic instead of Strength to determine their damage.{{break}}
+If using Aether Avatar, all Occult Technomancy spells become usable for its duration and all occult damage becomes pure arcane.
+
+When you first learn this talent you also learn the Steamsaw tinker creation if you didn't already know it.
+}}
+
+Editors note: I think this adds +30 phys power in addition to what is written here.

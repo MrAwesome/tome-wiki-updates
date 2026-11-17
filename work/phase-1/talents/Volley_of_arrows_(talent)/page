@@ -1,0 +1,13 @@
+{{Ability box
+|game_version=1.7.6
+|image=Volley of arrows.png
+|name=Volley of Arrows
+|category_type={{ct|Technique}}
+|category={{c|Archery - Bows}}
+|require={{TalentReq/TechsDexReq4}}
+|range=Archery Range
+|cost=35 Stamina
+|cooldown=12
+|desc=
+You fire multiple arrows at an area of {{cts|2|3}} radius, doing {{ctwd|60|130%}} damage with each arrow.
+}}

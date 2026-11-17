@@ -1,0 +1,12 @@
+{{Ability box
+|game_version=1.7.6
+|image=Feed strengths.png
+|name=Feed Strengths
+|category_type={{ct|Cursed}}
+|category={{c|Dark Sustenance}}
+|require={{TalentReq/CursedWilReq4}}
+|use_mode=Passive
+|desc=
+Enhances your feeding by reducing your targeted foe's resistances, multiplying them by {{gtl|1|5}} and increasing your resistances by the amount drained. Resistance to "all" is not affected.
+Improves with your Mindpower.
+}}

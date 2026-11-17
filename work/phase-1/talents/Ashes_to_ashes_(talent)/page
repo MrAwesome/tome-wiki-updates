@@ -1,0 +1,16 @@
+<noinclude>'''This talent was removed from player use on/around version 1.3.0'''</noinclude>
+
+{{Ability box
+|game_version=1.7.6
+|image=Ashes to ashes.png
+|name=Ashes to Ashes
+|category_type={{ct|Chronomancy}}
+|category={{c|Age Manipulation}}
+|require={{TalentReq/ChronoReq3}}
+|cost=20 Paradox
+|cooldown=14
+|range=0
+|desc=
+You surround yourself with a radius {{cts|3|4}} distortion of time, which deals {{ctspd|8|135|PM}} stacking temporal damage over 3 turns to all other creatures.  The effect lasts {{gtl|1|5}} turns.
+The damage dealt will scale with your Spellpower.
+}}

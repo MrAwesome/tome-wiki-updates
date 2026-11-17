@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "a6f7aabe5ab6ea00df70e3ab295fda409b9077e5fd78a32c706366d9771469a5",
+    "revid": 12471
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:58Z",
+      "event": "deterministic_render_applied",
+      "reason": "baseline_preserved"
+    }
+  ],
+  "identity": {
+    "filename": "Blighted_shield_(talent)",
+    "kind": "talent",
+    "pageid": 3675,
+    "wiki_title": "Blighted shield (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "baseline_preserved",
+    "candidate_page_sha256": "a6f7aabe5ab6ea00df70e3ab295fda409b9077e5fd78a32c706366d9771469a5",
+    "source_sha256": "f1a7dc7a6f111f9c5d9d3448fd16797aef05cec7838b79a5209e57106277e59d",
+    "status": "unsupported_info",
+    "updated_at": "2026-11-08T16:08:58Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "a6f7aabe5ab6ea00df70e3ab295fda409b9077e5fd78a32c706366d9771469a5",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

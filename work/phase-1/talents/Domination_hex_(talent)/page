@@ -1,0 +1,15 @@
+{{Ability box
+|game_version=1.7.6
+|image=Domination hex.png
+|name=Domination Hex
+|category_type={{ct|Corruption}}
+|category={{c|Hexes}}
+|require={{TalentReq/CorrsReq4}}
+|cooldown=20
+|cost=30 Vim
+|range=10
+|desc=
+Hexes your target, forcing it to be your thrall for {{cts|3|7}} turns.
+
+If you damage the target, it will be freed from the hex.
+}}

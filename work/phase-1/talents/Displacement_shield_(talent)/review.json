@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "036d1168fedeccffd20b551ac8fbf9ac703623fa1ef099a3d78306691a0db9e9",
+    "revid": 14043
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:58Z",
+      "event": "deterministic_render_applied",
+      "reason": "baseline_preserved"
+    }
+  ],
+  "identity": {
+    "filename": "Displacement_shield_(talent)",
+    "kind": "talent",
+    "pageid": 1340,
+    "wiki_title": "Displacement shield (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "baseline_preserved",
+    "candidate_page_sha256": "036d1168fedeccffd20b551ac8fbf9ac703623fa1ef099a3d78306691a0db9e9",
+    "source_sha256": "562478a613ee9b60787e2d7e3d16c8b5b1c6348702fa4e458f6e1f8199395c13",
+    "status": "unsupported_info",
+    "updated_at": "2026-11-08T16:08:58Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "036d1168fedeccffd20b551ac8fbf9ac703623fa1ef099a3d78306691a0db9e9",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

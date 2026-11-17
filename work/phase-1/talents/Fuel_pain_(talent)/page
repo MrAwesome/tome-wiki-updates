@@ -1,0 +1,13 @@
+{{Ability_box
+|name=Fuel Pain
+|image=fuel_pain.png
+|category_type={{ct|Race}}
+|category={{c|Krog}}
+|game_version=1.7.6
+|require={{TalentReq/RacialReq3}}
+|use_mode=Passive
+|cooldown={{CTL|8|25|10}}
+|desc=Your body is used to pain. When you take a hit of 20% or more of your max life one of your inscriptions is taken off cooldown and infusion saturation is removed.
+
+This effect has a cooldown of {{CTL|8|25|10}} turns.
+}}

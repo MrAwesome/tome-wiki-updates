@@ -1,0 +1,14 @@
+{{Ability box
+|game_version=1.7.6
+|image=Halfling luck_2017.png
+|name=Luck of the Little Folk
+|category_type={{ct|Race}}
+|category={{c|Halfling}}
+|require={{TalentReq/RacialReq1}}
+|cooldown={{ctl|5|45|25}}
+|use_speed=0
+|desc=
+Call upon the luck and cunning of the Little Folk to increase your physical, mental, and spell critical strike chance by {{css|Cun|15|60%|0.75}} and your saves by {{css|Cun|15|60|0.75}} for 5 turns.
+
+The bonus will increase with your Cunning.
+}}

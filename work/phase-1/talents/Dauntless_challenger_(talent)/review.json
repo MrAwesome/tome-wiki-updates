@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "31cf31f2e9bd291478fc51a430c495e89402791abdfd345a11a3574e6284e4a9",
+    "revid": 14116
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:58Z",
+      "event": "deterministic_render_applied",
+      "reason": "baseline_preserved"
+    }
+  ],
+  "identity": {
+    "filename": "Dauntless_challenger_(talent)",
+    "kind": "talent",
+    "pageid": 3371,
+    "wiki_title": "Dauntless challenger (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "baseline_preserved",
+    "candidate_page_sha256": "31cf31f2e9bd291478fc51a430c495e89402791abdfd345a11a3574e6284e4a9",
+    "source_sha256": "c46ef2bb07cc43087f4306ce6036d3e62ac00db56d223f4d91cd708eae075bc5",
+    "status": "unsupported_info",
+    "updated_at": "2026-11-08T16:08:58Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "31cf31f2e9bd291478fc51a430c495e89402791abdfd345a11a3574e6284e4a9",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

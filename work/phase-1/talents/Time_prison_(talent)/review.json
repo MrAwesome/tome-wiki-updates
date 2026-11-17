@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "ec1616fb66a3f81662b1769fc754f214daa2c09ddb1ab85ed8f73096d96196d0",
+    "revid": 14144
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Time_prison_(talent)",
+    "kind": "talent",
+    "pageid": 1192,
+    "wiki_title": "Time prison (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "f36725e21d9c73fced49bbd0b4890bb0fca6989692bc37730d02a164e9d706e4",
+    "source_sha256": "16b894065533a547c2c55b2a98be49e2276d2688d90a9957af89a425df40d457",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "f36725e21d9c73fced49bbd0b4890bb0fca6989692bc37730d02a164e9d706e4",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

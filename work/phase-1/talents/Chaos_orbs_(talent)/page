@@ -1,0 +1,15 @@
+{{Ability box
+|game_version=1.5.10
+|image=Chaos_Orbs.png
+|name=Chaos Orbs
+|category_type={{ct|Demented}}
+|category={{c|Beyond Sanity}}
+|require={{TalentReq/SpellsReq1}}
+|use_mode=Sustained
+|cooldown=10
+|desc=
+
+You harness the chaos created by high insanity.
+		Each time you trigger an insanity chaotic effect with a power higher than {{CTL|5|25|9}} or lower than {{CTL|5|25|9}} you gain a chaos orb for 10 turns (This effect can only happen once per turn).
+		Each orb increases your damage by 3% and can stack up to floor(1+{{CTS|1|5}}).
+}}

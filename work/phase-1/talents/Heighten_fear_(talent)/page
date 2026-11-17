@@ -1,0 +1,18 @@
+{{Ability box
+|image=Heighten fear.png
+|name=Heighten Fear
+|category_type={{ct|Cursed}}
+|category={{c|Fears}}
+|require={{TalentReq/CursedWilReq2}}
+|use_mode=Passive
+|range=3 * √ Talent Level
+|desc=
+Heighten the fears of everyone around you. Any foe you inflict at least one fear upon and who remains within a range of (3 * √ Talent Level) and in sight of you for 5 (non-consecutive) turns, will gain a new fear that lasts for 8 turns. The target can save versus Mindpower to resist the effect, and each added fear reduces the chances of another by 10%. 
+
+You gain 2 new fears:
+
+*The Terrified effect causes talents and attacks to fail {{ctmd|20|45%}} of the time (maximum 50%).
+*The Distressed effect reduces all saves by {{ctmd|15|30}}.
+
+Fear effects improve with your Mindpower.
+}}

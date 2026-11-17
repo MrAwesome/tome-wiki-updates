@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "667504e01e341fb0708b4c420cd5d02fad16bab0d3b7b5cf549ee10a10b1712f",
+    "revid": 15144
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "baseline_preserved"
+    }
+  ],
+  "identity": {
+    "filename": "Smokescreen_mastery_(talent)",
+    "kind": "talent",
+    "pageid": 4884,
+    "wiki_title": "Smokescreen mastery (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "baseline_preserved",
+    "candidate_page_sha256": "667504e01e341fb0708b4c420cd5d02fad16bab0d3b7b5cf549ee10a10b1712f",
+    "source_sha256": "8a1d55511ff0273bfc9f4193b98de2269372475ffafc5c8185257d59bb7ad4d3",
+    "status": "unsupported_info",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "667504e01e341fb0708b4c420cd5d02fad16bab0d3b7b5cf549ee10a10b1712f",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

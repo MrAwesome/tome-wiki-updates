@@ -1,0 +1,19 @@
+{{Ability box
+|name=Circle of Warding
+|image=Circle of warding.png
+|game_version=1.7.6
+|category_type={{ct|Celestial}}
+|category={{c|Circles}}
+|require={{TalentReq/DiviReqHigh3}}
+|cost=10 Positive and 10 Negative
+|cooldown=20
+|range=0
+|use_speed=0
+|desc=
+Creates a circle of radius {{cts|2|4}} at your feet; the circle slows incoming projectiles by {{ctspd|10|100}} and attempts to push all creatures other than yourself out of its radius, inflicting {{ctspd|2|20}} light damage and {{ctspd|2|20}} darkness damage per turn as it does so.  The circle lasts {{cts|4|8}} turns.
+The effects will increase with your Spellpower.
+}}
+
+The visual effect of this circle is shown below, at the maximum radius of 5:
+
+[[File: circle of warding (ground effect).png|left]]

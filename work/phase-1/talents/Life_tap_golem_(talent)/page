@@ -1,0 +1,15 @@
+{{Ability box
+|image=golemancy_life_tap.png
+|name=Life Tap Golem
+|category_type={{ct|Spell}}
+|category={{c|Advanced Golemancy}}
+|require=Have an Alchemist Golem<br />Lvl (10,11,12,13,14) Mag (22,24,26,28,30), 
+|use_mode=Activated
+|cost=25 Mana
+|cooldown=12
+|use_speed=1 turn
+|desc=
+You tap into your golem's life energies to replenish your own. Drains (70 + {{ctspd|15|450}}) life.
+
+''This talent's actual name is just "Life Tap", but there's already {{t|Life Tap|another talent with that name}}, so the name had to be changed for this wiki page.''
+}}

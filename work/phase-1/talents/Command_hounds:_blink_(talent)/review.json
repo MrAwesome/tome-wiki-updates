@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "17777d6340582ba8da3938dba1e7b08b87d853f5f362b2e889e054262695d374",
+    "revid": 11606
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:58Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Command_hounds:_blink_(talent)",
+    "kind": "talent",
+    "pageid": 4310,
+    "wiki_title": "Command hounds: blink (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "9bd77c5a146a13184ae77cad5e89d515b2f6de1c187f99fced9eeba98ddf3bff",
+    "source_sha256": "cebc15291b3ebe60c9c7c9cba979279ae0994bdae20ccfe0d73ca214a5fde68f",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:58Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "9bd77c5a146a13184ae77cad5e89d515b2f6de1c187f99fced9eeba98ddf3bff",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

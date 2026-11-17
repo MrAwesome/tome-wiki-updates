@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "0d949d8ac1297a7ba16250c47765f8cb9b80d10ccb2d3b194fb29cf5519197aa",
+    "revid": 16421
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Flame_fury_(talent)",
+    "kind": "talent",
+    "pageid": 5458,
+    "wiki_title": "Flame fury (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "c8b2c34e84a9fd21ab2e92347daf38c904dc8d81131d69a86c9f4d2698411e5a",
+    "source_sha256": "647fa41f0891735435261fb1b75a9f3ab2e9be16288e14ed3ed5c5562eec59f0",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "c8b2c34e84a9fd21ab2e92347daf38c904dc8d81131d69a86c9f4d2698411e5a",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

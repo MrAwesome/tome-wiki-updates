@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "2971a4accd13aab188613a170e7c8623ddc0cd2b718013e6b7b9435c59447323",
+    "revid": 23209
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Temporal_form_(talent)",
+    "kind": "talent",
+    "pageid": 3463,
+    "wiki_title": "Temporal form (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "23627a1fcab777675acf78039e5ec4ee18eedf7be20d9607b53099208f2d924c",
+    "source_sha256": "a4e0877b7e12cdb59d2e9f974fe7579811d56479e20fcea071effad38a44caea",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "23627a1fcab777675acf78039e5ec4ee18eedf7be20d9607b53099208f2d924c",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

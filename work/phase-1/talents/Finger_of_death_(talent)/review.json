@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "609757734df023d11ac530d68a556cae92c0eb6722f215afcaf19f344ba052af",
+    "revid": 16983
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Finger_of_death_(talent)",
+    "kind": "talent",
+    "pageid": 5597,
+    "wiki_title": "Finger of death (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "7e9af9eef3dd11aa118c751353af40738a5303a66a8441a3211e74c1ed05b3a8",
+    "source_sha256": "ce34a6e5f5b91f2b91177576337ae70f227e9e043431c15f01591b47d9cf362c",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "7e9af9eef3dd11aa118c751353af40738a5303a66a8441a3211e74c1ed05b3a8",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

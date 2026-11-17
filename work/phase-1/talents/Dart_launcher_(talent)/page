@@ -1,0 +1,17 @@
+{{Ability_box
+|image=dart_launcher.png
+|name=Dart Launcher
+|game_version=1.7.6
+|category_type=[[Cunning (category type)|Cunning]]
+|category=[[Tools (category)|Tools]]
+|require={{t|Rogue's Tools}}, {{t|Cunning Tools}}, or {{t|Intricate Tools}}
+|cost=5 Stamina
+|range=5
+|cooldown=10
+|travel_speed=Instantaneous
+|use_speed=Instant
+|desc=
+Fire a poisoned dart from a silent, concealed launcher on your person that deals {{ctstd|Cun|27|165}} physical damage and puts the target (living only) to sleep for 4 turns, rendering them unable to act. Every {{ctstd|Cun|30|195}} points of damage the target takes brings it closer to waking by 1 turn.
+This can be used without breaking stealth.
+#YELLOW#Prepared with: not prepared#LAST#
+}}

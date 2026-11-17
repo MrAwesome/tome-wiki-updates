@@ -1,0 +1,16 @@
+{{Ability_box
+|game_version=1.7.6
+|image=Chain_lightning_2017.png
+|name=Chain Lightning
+|category_type={{ct|Spell}}
+|category={{c|Air}}
+|require={{TalentReq/SpellsReq2}}
+|use_mode=Activated
+|range=10
+|cost=40 Mana
+|cooldown=8
+|desc=
+Invokes an arc of lightning doing {{ctspd|9.333333333|110}} to {{ctspd|28|330}} damage ({{ctspd|18.66666667|220}} average) and chaining to another target.
+The arc can jump to {{cts|4|8|log}} targets at most, up to 10 grids apart, and will never jump to the same target twice, or to the caster. The arc will also strike all creatures between each target.
+The damage will increase with your Spellpower.
+}}

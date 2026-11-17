@@ -1,0 +1,14 @@
+{{Ability box
+|image=Compact steam tank.png
+|name=Compact Steam Tank
+|game_version=1.7.6
+|embers_version=1.1.10
+|category_type={{ct|Steamtech}}
+|category={{c|Physics}}
+|require={{TalentReq/SteamReq4}}
+|use_mode=Passive
+|desc=
+Increases the capacity of your steam tank by {{gtl|1|5}}.
+|avail.shops=[[Kruk Pride]] ([[Embers of Rage]]) via [[Talent#Additional Talent Sources|purchasing]] {{c|Physics}}
+|avail.escorts=[[Escorts#Tinker|Tinker]], see the escorts page for details on unlocking the {{c|Physics}} category in [[Age of Ascendancy]] / the Main campaign
+}}

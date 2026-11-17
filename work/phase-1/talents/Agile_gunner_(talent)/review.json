@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "39a11feefb585c41738ba186e94ff01c518128c155dfdb997b2697925e067e35",
+    "revid": 18166
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:58Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Agile_gunner_(talent)",
+    "kind": "talent",
+    "pageid": 5166,
+    "wiki_title": "Agile gunner (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "57dbfd8e11d81b304c3dd496cec1184eaefec76871a4741d1bbdc5b89d612cab",
+    "source_sha256": "a32a2aa6489e4aae99d2daa9f055435cc049a7a7b21bd84e39927c7c2cafa424",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:58Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "57dbfd8e11d81b304c3dd496cec1184eaefec76871a4741d1bbdc5b89d612cab",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

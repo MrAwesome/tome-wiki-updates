@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "adee307842e6aa93fddb45562be50d210db2708d0893c0323ec1af301d884a3d",
+    "revid": 14064
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:58Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Battle_shout_(talent)",
+    "kind": "talent",
+    "pageid": 1500,
+    "wiki_title": "Battle shout (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "02d93fe3fdbcce8cb0b99e4bd9bd5f2918522557e9b239d90930aac8ff277ab5",
+    "source_sha256": "fabb2618fcab9a25cce43473e048b2ab64d5c7f92cbd68b9bbeaa3b6799f3e3e",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:58Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "02d93fe3fdbcce8cb0b99e4bd9bd5f2918522557e9b239d90930aac8ff277ab5",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

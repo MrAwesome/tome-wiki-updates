@@ -1,0 +1,12 @@
+{{Ability box
+|game_version=1.5.10
+|image=
+|name=Luckdrinker
+|category_type={{ct|Demented}}
+|category={{c|Calamity}}
+|require={{TalentReq/SpellsReq3}}
+|use_mode=Passive
+|desc=
+Each time you apply Jinx to an enemy, you have a {{CTL|100|40|70}} chance to siphon some of their luck for yourself for 10 turns. This stacks up to 10 times, increasing saves and defense by {{gtl|1|3|raw}} and critical strike chance by {{gtl|1|2%|raw}}.
+		If you know Preordain, stacks beyond 6 also grant a {{gtl|2|6%}} chance for you to entirely avoid damage taken.
+}}

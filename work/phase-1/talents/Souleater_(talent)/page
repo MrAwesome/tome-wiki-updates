@@ -1,0 +1,13 @@
+{{Ability box
+|game_version = 1.7.6
+|image=Souleater.png
+|name=Souleater
+|category_type={{ct|Spell}}
+|category={{c|Dreadmaster}}
+|require={{TalentReq/SpellsReq2}}
+|use_mode= Passive
+|desc=
+Any time one of your minions dies or expires, and even if it is resurrected by a boneyard, the dread feeds on it.
+Each time it feeds it gets healed for {{ctspd|40|210}} and reduces remaining cooldown of its spells by {{cts|1|4}}.
+Every 10 minion deaths it casts a random hex on up to {{cts|2|8}} foes at once, instantly and without triggering a cooldown.
+}}

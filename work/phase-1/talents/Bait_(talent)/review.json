@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "a8975805586940de3b378a3982ecd107e3a80fa657b795a179a62dbcffd4a12d",
+    "revid": 5657
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:58Z",
+      "event": "deterministic_render_applied",
+      "reason": "baseline_preserved"
+    }
+  ],
+  "identity": {
+    "filename": "Bait_(talent)",
+    "kind": "talent",
+    "pageid": 1530,
+    "wiki_title": "Bait (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "baseline_preserved",
+    "candidate_page_sha256": "a8975805586940de3b378a3982ecd107e3a80fa657b795a179a62dbcffd4a12d",
+    "source_sha256": null,
+    "status": "unmatched_source",
+    "updated_at": "2026-11-08T16:08:58Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "a8975805586940de3b378a3982ecd107e3a80fa657b795a179a62dbcffd4a12d",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

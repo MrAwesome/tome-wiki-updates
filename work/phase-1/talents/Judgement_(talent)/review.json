@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "9d5b9271ace9d9ef316a5cfbdfd02b85edd843f0bb813fe26bebbe6ce48c92d7",
+    "revid": 13876
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Judgement_(talent)",
+    "kind": "talent",
+    "pageid": 3347,
+    "wiki_title": "Judgement (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "5e05c1e64f89b7916523b7689726d2ecbd9cd250a091cb5e75943e62e2b45a78",
+    "source_sha256": "4c06e43285731d14454096b7b1252fd68db785dc8dff77b18370911aebe21194",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "5e05c1e64f89b7916523b7689726d2ecbd9cd250a091cb5e75943e62e2b45a78",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

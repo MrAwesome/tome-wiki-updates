@@ -1,0 +1,15 @@
+{{Ability_box
+|image=pestilent_blight.png
+|name=Pestilent Blight
+|game_version=1.7.6
+|category_type={{ct|Corruption}}
+|category={{c|Rot}}
+|require={{TalentReq/SpellsReqHigh3}}
+|use_mode=Passive
+|cooldown=5
+|desc=
+You have a {{cts|15|45%}} chance on dealing blight damage to cause the target to rot away, silencing, disarming, blinding or pinning them for {{cts|2|5}} turns. This effect has a cooldown.
+At talent level 4, this affects targets in a radius 1 ball.
+Your worms also have a {{cts|7.5|22.5%}} chance to blind, silence, disarm or pin with their melee attacks, lasting 2 turns.
+The chance to apply this effect will increase with your Spellpower.
+}}

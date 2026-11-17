@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "7723f303883bd21e0f7cc996a277690f67a5d47eb6175d2dcd6429a90212ae1d",
+    "revid": 14608
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Overcharge_saws_(talent)",
+    "kind": "talent",
+    "pageid": 4360,
+    "wiki_title": "Overcharge saws (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "d1e0c2aae2c0b2bd76b6560409360b34ec9077beb390f48c9f576081d0f12673",
+    "source_sha256": "bfa25b61b72b50db05c1488b8c62b8d9c4a3222a2b822a97dd1e964e6a8ea603",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "d1e0c2aae2c0b2bd76b6560409360b34ec9077beb390f48c9f576081d0f12673",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

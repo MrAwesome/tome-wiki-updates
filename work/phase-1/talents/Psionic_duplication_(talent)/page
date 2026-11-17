@@ -1,0 +1,17 @@
+{{Ability_box
+|image=psionic_duplication.png
+|name=Psionic Duplication
+|game_version=1.7.2
+|category_type={{ct|Psionic}}
+|category={{c|Body Snatcher}}
+|require={{TalentReq/PsiWilReq3}}
+|use_mode=Passive
+|range=-
+|cost=-
+|cooldown=-
+|travel_speed=-
+|use_speed=-
+|desc=
+When you store a body you also store ceil({{gtl|1|5}}) + 1 more identical copies of it that you can use later.
+		When you store a rare/unique/boss or higher rank creature you only get a third of the uses (but never less than one).
+}}

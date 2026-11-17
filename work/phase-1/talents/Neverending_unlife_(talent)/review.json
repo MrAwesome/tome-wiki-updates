@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "51b151336790be3255451bae4690f2a85cc2be2e1e31e7857491018173b9997b",
+    "revid": 19471
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Neverending_unlife_(talent)",
+    "kind": "talent",
+    "pageid": 5890,
+    "wiki_title": "Neverending unlife (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "897c698b798a366af586cdb47cf5176c74915992ee24848426de55b2124cc2c0",
+    "source_sha256": "3895af829ea22be1525d24470e8bb862619ab41ebc78ff859b5df3f9f42e60ce",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "897c698b798a366af586cdb47cf5176c74915992ee24848426de55b2124cc2c0",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

@@ -1,0 +1,14 @@
+{{Ability_box
+|name=Mecharachnid piloting
+|image=Mecharachnid piloting.png
+|game_version=1.7.6
+|embers_version=1.1.10
+|category_type=[[Steamtech (category type)|Steamtech]]
+|category=[[Mecharachnid (category)|Mecharachnid]]
+|require={{TalentReq/SteamReqHigh4}}
+|cooldown=30
+|cost=40 Steam
+|use_speed=Steamtech
+|desc=
+Leap into your mecharachnid, assuming direct control of it for {{cts|6|10}} turns. While piloting it, all damage dealt is increased by {{ctl|100%|10|50%}}, resistances are increased by {{ctl|70%|10|40%}}, and all of its talents cooldown twice as fast.
+}}

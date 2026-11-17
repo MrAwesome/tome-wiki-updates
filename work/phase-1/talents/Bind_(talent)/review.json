@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "6cb7c39e1fcf3f35fe2c7c3b6c59dd76bbfa8d1a357da86d8b4a06f5ce7e7d05",
+    "revid": 1842
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:58Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Bind_(talent)",
+    "kind": "talent",
+    "pageid": 1492,
+    "wiki_title": "Bind (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "eb41918146e08bdf3f9bc0f89f08b794d3133e8f1cba280b0d207f73d53306bf",
+    "source_sha256": "7a9c6b9de1228b8732548ce20de37064a1afac2f00e160faf007be938d9998d1",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:58Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "eb41918146e08bdf3f9bc0f89f08b794d3133e8f1cba280b0d207f73d53306bf",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

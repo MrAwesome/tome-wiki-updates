@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "dbb4e6a0baa951fa6be419cce1cc45183ecf759c94e8d0dace77f7385428a094",
+    "revid": 19219
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:58Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Acid_splash_(talent)",
+    "kind": "talent",
+    "pageid": 1376,
+    "wiki_title": "Acid splash (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "144714054f2323412abbaa11a7d2362bbcb1e7b00609d9a90201a8564357e95b",
+    "source_sha256": "5c18b293d180b321a6afc0cf859a97373c9f25a09e150bb19e20a6681ac67156",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:58Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "144714054f2323412abbaa11a7d2362bbcb1e7b00609d9a90201a8564357e95b",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

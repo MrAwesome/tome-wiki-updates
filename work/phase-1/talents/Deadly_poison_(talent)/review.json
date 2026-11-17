@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "b838712447e67b1fd77e16ef6acb9cc026631fe276f058e571cbff162f68649c",
+    "revid": 8602
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:58Z",
+      "event": "deterministic_render_applied",
+      "reason": "baseline_preserved"
+    }
+  ],
+  "identity": {
+    "filename": "Deadly_poison_(talent)",
+    "kind": "talent",
+    "pageid": 3485,
+    "wiki_title": "Deadly poison (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "baseline_preserved",
+    "candidate_page_sha256": "b838712447e67b1fd77e16ef6acb9cc026631fe276f058e571cbff162f68649c",
+    "source_sha256": null,
+    "status": "unmatched_source",
+    "updated_at": "2026-11-08T16:08:58Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "b838712447e67b1fd77e16ef6acb9cc026631fe276f058e571cbff162f68649c",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

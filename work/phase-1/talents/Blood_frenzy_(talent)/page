@@ -1,0 +1,16 @@
+{{Ability_box
+|game_version=1.7.6
+|image=Blood frenzy.png
+|name=Blood frenzy|category_type=[[Technique (category type)|Technique]]
+|category=[[Two-handed maiming (category)|Two-handed maiming]]
+|require=Level: (12, 13, 14, 15, 16)
+(36, 38, 40, 42, 44) Str
+|use_mode=sustained
+|range=melee/personal
+|cost=70 Stamina
+|cooldown=15
+|use_speed=instant
+|desc=
+Enter a blood frenzy, draining stamina quickly (-2 stamina/turn). Each time you kill a foe while in the blood frenzy, you gain a cumulative bonus to Physical Power of {{cts|2|10|0.5|0|2}}.
+Each turn, this bonus decreases by 2.
+}}

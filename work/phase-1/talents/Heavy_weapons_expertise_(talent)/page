@@ -1,0 +1,26 @@
+{{Ability box
+|image = Heavy weapons expertise.png
+|name = Heavy Weapons Expertise
+|game_version = 1.7.6
+|embers_version = 1.1.10
+|category_type = {{ct|Steamtech}}
+|category = {{c|Heavy Weapons}}
+|require = {{TalentReq/SteamReq2}}
+|cooldown = 7
+|cost = 15 Steam
+|range = Steamgun range
+|use_speed = Steamtech
+|desc = Your advanced training unlocks specialised techniques, triggering an effect based on your current heavy weapon at the cost of 1 heavy weapon ammunition.
+
+'''{{t|Flamethrower}}''': Sweep your flamethrower across the ground, dealing {{ctl|200|120|150%}} of your flamethrower's damage as {{fire}} and raising a length 7 wall of fire for 5 turns. Those inside the wall take {{ctstmd|10|90}} {{fire}} damage and have their {{fire}} resistance reduced by {{ctl|50|15|35%}} for 2 turns.
+
+'''{{t|Shockstaff}}''': Slam your staff into the target, creating a radius 3 shockwave that deals {{ctl|200|120|150%}} of your shockstaff's damage as {{lightning}} and stuns those within for {{cts|3|5}} turns (no more than 9).
+
+'''{{t|Boltgun}}''': Fire 4 boltgun shots dealing {{ctl|80|48|60%}} of your boltgun's damage as {{acid}} and disarming the target for 5 turns.
+
+
+The damage dealt by the fire wall and the chance to apply effects will increase with your Steampower.
+
+
+''Note: The shockstaff attack seems to do much less damage than I was expecting. I'm not sure if I'm reading the code wrong or if it's bugged.''
+}}

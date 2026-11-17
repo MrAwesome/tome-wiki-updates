@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "5cf9ab041906e0bf67b6f8eaee4095e9ceb3334121f406c6533a32d38d14f499",
+    "revid": 22988
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Gem_portal_(talent)",
+    "kind": "talent",
+    "pageid": 1404,
+    "wiki_title": "Gem portal (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "78cf03cb398808c05f64011b9b44a416e1bb6406af96abd886b9d426db3e03b2",
+    "source_sha256": "a11363e3eeedd88555a1a7f927b8a4b722fd9937e4f57e915432650b5640d389",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "78cf03cb398808c05f64011b9b44a416e1bb6406af96abd886b9d426db3e03b2",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

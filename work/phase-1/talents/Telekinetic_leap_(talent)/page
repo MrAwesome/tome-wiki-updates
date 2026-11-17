@@ -1,0 +1,15 @@
+{{Ability_box
+|game_version=1.7.6
+|image=Telekinetic leap.png
+|name=Telekinetic Leap
+|category_type={{ct|Psionic}}
+|category={{c|Augmented Mobility}}
+|require={{TalentReq/PsiWilReq4}}
+|use_mode=Activated
+|range={{ctl|10|2|7.5}}
+|cost=10 Psi
+|cooldown=15
+|desc=
+You perform a precise, telekinetically-enhanced leap, landing up to {{ctl|10|3|7}} squares from your starting point.
+|avail.escorts=[[Escorts#Sun_Paladin_.28Arcane.29|Sun Paladin (Arcane)]] ([[Escorts#Betraying_to_Zigur|Betray Escort to Zigur]]), +1 to talent or via revealing the locked {{c|Augmented Mobility}} category
+}}

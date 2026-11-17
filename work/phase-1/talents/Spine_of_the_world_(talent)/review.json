@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "7c29beaaf0703b2480afae2d983ecb7433b9f3d221ad54b072b4e2c22fd16393",
+    "revid": 14950
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Spine_of_the_world_(talent)",
+    "kind": "talent",
+    "pageid": 3456,
+    "wiki_title": "Spine of the world (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "7e44df5441c80986fc34106ad409d1daca5adc71825d778318c273f572081db8",
+    "source_sha256": "b260bc4a014c91d3ee733275ca1d2671d56db3fbe4afb6cd58b4bd9d8ced33eb",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "7e44df5441c80986fc34106ad409d1daca5adc71825d778318c273f572081db8",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

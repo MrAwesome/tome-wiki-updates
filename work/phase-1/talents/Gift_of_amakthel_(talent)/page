@@ -1,0 +1,10 @@
+{{Ability_box
+|name=Gift of Amakthel
+|category_type=[[NPC Only (category type)|NPC Only]]
+|image=Gift of amakthel.png
+|game_version=1.7.6
+|range=10
+|cooldown=6
+|desc=
+Invoke a slimy crawler for 10 turns.
+}}

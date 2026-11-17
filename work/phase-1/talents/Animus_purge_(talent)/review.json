@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "e97d4fab14c55c1838a64f9fe1246e3c6eee7c0910c0d99223868778e5fba32b",
+    "revid": 17806
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:58Z",
+      "event": "deterministic_render_applied",
+      "reason": "baseline_preserved"
+    }
+  ],
+  "identity": {
+    "filename": "Animus_purge_(talent)",
+    "kind": "talent",
+    "pageid": 3381,
+    "wiki_title": "Animus purge (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "baseline_preserved",
+    "candidate_page_sha256": "e97d4fab14c55c1838a64f9fe1246e3c6eee7c0910c0d99223868778e5fba32b",
+    "source_sha256": null,
+    "status": "unmatched_source",
+    "updated_at": "2026-11-08T16:08:58Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "e97d4fab14c55c1838a64f9fe1246e3c6eee7c0910c0d99223868778e5fba32b",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

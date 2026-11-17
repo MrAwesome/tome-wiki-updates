@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "8c8d31d3952558eb8066d501a2ef3a6fd90bfbd597181085bafa2d3ad7cea0c4",
+    "revid": 18518
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:58Z",
+      "event": "deterministic_render_applied",
+      "reason": "baseline_preserved"
+    }
+  ],
+  "identity": {
+    "filename": "Bone_shield_(talent)",
+    "kind": "talent",
+    "pageid": 1663,
+    "wiki_title": "Bone shield (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "baseline_preserved",
+    "candidate_page_sha256": "8c8d31d3952558eb8066d501a2ef3a6fd90bfbd597181085bafa2d3ad7cea0c4",
+    "source_sha256": "b6fc561adf09dfda092291b9e2bf14c9063e70e175b7473242a2ebef3c7a8ff7",
+    "status": "unsupported_info",
+    "updated_at": "2026-11-08T16:08:58Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "8c8d31d3952558eb8066d501a2ef3a6fd90bfbd597181085bafa2d3ad7cea0c4",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

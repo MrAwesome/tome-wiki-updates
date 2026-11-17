@@ -1,0 +1,11 @@
+{{Ability_box
+|image=dart_launcher.png
+|name=Dart Launcher Mastery
+|game_version=1.5.2
+|category_type=[[Cunning (category type)|Cunning]]
+|category=[[Tools (category)|Tools]]
+|require={{t|Master Artificer}} and {{t|Dart Launcher}}
+|use_mode=Passive
+|desc=
+The sleeping poison of your Dart Launcher becomes potent enough to ignore immunity, and upon waking the target is slowed by {{cTL|50%|15|40%}} for 4 turns.
+}}

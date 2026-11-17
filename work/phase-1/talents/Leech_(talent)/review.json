@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "e89edb458f303f4c36876cbd7b961345971a8fdc4ab835d6e8970f979eb14e16",
+    "revid": 18546
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Leech_(talent)",
+    "kind": "talent",
+    "pageid": 1646,
+    "wiki_title": "Leech (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "5a466f3f99a38fbd4771f3370274513d23dab37fae5d37acd3daa8ad514d1c28",
+    "source_sha256": "dc446094ace709d5c1a5d470cfaeca2c236e94a290d8667d59772e3d52845a71",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "5a466f3f99a38fbd4771f3370274513d23dab37fae5d37acd3daa8ad514d1c28",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

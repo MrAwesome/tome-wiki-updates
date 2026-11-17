@@ -1,0 +1,10 @@
+{{Ability_box
+|image=Shield pummel.png
+|name=Swashbuckling
+|category_type={{ct|Cunning}}
+|category={{c|Piracy}}
+|require={{TalentReq/CunsReq2}}
+|use_mode=Passive
+|desc=
+Your expertise in the art of shield use grows. Shield cooldowns are all reduced by X turns, and the block value a shield offers you is increased by X.
+}}

@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "10d87cdcd1ef3fa46bc43b447bd319014b2f08680c8f361618e169e0aa6572c5",
+    "revid": 16887
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Surge_of_power_(talent)",
+    "kind": "talent",
+    "pageid": 3756,
+    "wiki_title": "Surge of power (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "f6eae69237dcfd6c5d4bd204ac565543d60e04fb6c7d5f47b4d24111ddf34701",
+    "source_sha256": "cc3daff1eb60ecbb48a2dde25106a4ff82673aa25fa8f94db822e437d0aef8f8",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "f6eae69237dcfd6c5d4bd204ac565543d60e04fb6c7d5f47b4d24111ddf34701",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

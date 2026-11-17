@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "add7a1bc58486f519e584a9068acb3c9be846e19403a3d2f72038f3387b766eb",
+    "revid": 23268
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Panic_(talent)",
+    "kind": "talent",
+    "pageid": 1632,
+    "wiki_title": "Panic (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "d6cf6d15929e365c9c48b09a44af427ea83ffd0f9ef11c23d52b9978cbfdad2b",
+    "source_sha256": "d8cb82323bb3678be598dffb219bed45d102640cbd8afeaea01474d162825807",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "d6cf6d15929e365c9c48b09a44af427ea83ffd0f9ef11c23d52b9978cbfdad2b",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

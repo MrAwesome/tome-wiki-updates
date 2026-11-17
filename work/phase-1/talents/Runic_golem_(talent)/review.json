@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "79d3525b7658fabcfdbbf04eb03c743631e3ed86b0b3510b9d6646519fb9e0a9",
+    "revid": 8928
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Runic_golem_(talent)",
+    "kind": "talent",
+    "pageid": 1386,
+    "wiki_title": "Runic golem (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "790dbb4ef2d4ec2846b1c1f5515dcea911a4acda01e488db4a8c1c6651c3872c",
+    "source_sha256": "ffd9fffa394cc4b9b216b1e44d7a996d8e945812d5241a241f1ba1de0a7f4a8e",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "790dbb4ef2d4ec2846b1c1f5515dcea911a4acda01e488db4a8c1c6651c3872c",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

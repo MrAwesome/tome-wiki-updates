@@ -1,0 +1,16 @@
+{{Ability_box
+|game_version = 1.7.6
+|name = To The Grave
+|image = to the grave.png
+|category_type={{ct|Spell}}
+|category={{c|Eradication}}
+|require = {{TalentReq/SpellsReqHigh2}}
+|cost = 28 Mana, 1 Soul
+|range = 0
+|cooldown = 20
+|use_speed = Spell
+|desc = 
+Teleport all foes in radius {{cts|3|9}} to your boneyard, as close to its center as possible.
+
+Up to {{cts|1|5}} ghouls or skeletons are created around them by the boneyard, without any additional soul cost, but they only last 5 turns.
+}}

@@ -1,0 +1,14 @@
+{{Ability box
+|image=Swap.png
+|name=Swap
+|category_type={{ct|Chronomancy}}
+|category={{c|Spacetime Folding}}
+|require={{TalentReq/TemporalReq2}}
+|range={{cts|3|7}}
+|cost=5 Paradox
+|cooldown=10
+|desc=
+You manipulate the spacetime continuum in such a way that you switch places with another creature with in a range of {{cts|3|7}}. The targeted creature will be confused with a power of (10 * Raw Talent Level)% for {{cts|3|7|PM}} turns.
+
+The spell's hit chance will increase with your Spellpower.
+}}

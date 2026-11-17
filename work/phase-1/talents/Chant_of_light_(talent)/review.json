@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "c42a3c4cecd7df013bc320c940f519747e52b8259bd5c656742311ae73bbea01",
+    "revid": 8340
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:58Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Chant_of_light_(talent)",
+    "kind": "talent",
+    "pageid": 110,
+    "wiki_title": "Chant of light (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "6863cde9d9279da7600e3db6d800760a04fa7b40da2201434585cd7ac7db426c",
+    "source_sha256": "7ee865627f3703747aa429823533ac5a92522e8ce59ccbfa9e7bee2068a7abe5",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:58Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "6863cde9d9279da7600e3db6d800760a04fa7b40da2201434585cd7ac7db426c",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

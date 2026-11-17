@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "c378307c7942c9cc20eca6396a4ec91b5c216677a542219615bcb546edb4d4e3",
+    "revid": 22985
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:58Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Blunt_thrust_(talent)",
+    "kind": "talent",
+    "pageid": 1704,
+    "wiki_title": "Blunt thrust (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "c378307c7942c9cc20eca6396a4ec91b5c216677a542219615bcb546edb4d4e3",
+    "source_sha256": "c68a316b764d54da527c0b2a3a502a0e93664ee26bc9938824f5ed9290827da9",
+    "status": "no_change",
+    "updated_at": "2026-11-08T16:08:58Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "c378307c7942c9cc20eca6396a4ec91b5c216677a542219615bcb546edb4d4e3",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

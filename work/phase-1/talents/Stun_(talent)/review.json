@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "62d296031109eae81e058cbef5d7bfe55a5daaede79599a52b0e33d3156fdd3c",
+    "revid": 8952
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Stun_(talent)",
+    "kind": "talent",
+    "pageid": 2921,
+    "wiki_title": "Stun (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "1bcdab0f2f6ded70208b48cca9f460fb858c24257be77ee463e296830eeb9ddd",
+    "source_sha256": "dc640c1af5d22a45472d843380c9de01334530b3831bd2b9fe88ee0cba3abc23",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "1bcdab0f2f6ded70208b48cca9f460fb858c24257be77ee463e296830eeb9ddd",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

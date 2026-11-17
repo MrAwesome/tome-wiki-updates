@@ -1,0 +1,20 @@
+{{Ability_box
+|game_version=1.4.9
+|image=Eldritch stone.png
+|name=Eldritch stone
+|category_type={{ct|Wild-gift}}
+|category={{c|Earthen power}}
+|require={{TalentReq/GiftsReq4}}
+|cost=20 Equilibrium
+|cooldown=10
+|use_mode=Activated
+|use_speed=Standard
+|desc=
+Creates a shield of impenetrable stone around you for 7 turns, absorbing up to {{cts|150|500}} damage.
+Your equilibrium will increase by twice the damage absorbed.
+When the effect ends, all equilibrium above minimum will be converted to mana in a storm of arcane energy.
+The storm inflicts Arcane damage equal to the converted equilibrium (maximum {{cts|150|500}}) against everyone around you in a radius {{cts|2.5|4.5}}.
+Also while resting you will passively regenerate {{cts|0.25|1|0.75}} mana each turn.
+The shield strength will increase with Willpower.
+
+}}

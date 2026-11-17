@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "add8a0ddb7f3dba9eb50ddfd8d29e069188a019b3bc87b4946e6e63b71efb5c0",
+    "revid": 18705
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Pierce_the_veil_(talent)",
+    "kind": "talent",
+    "pageid": 5949,
+    "wiki_title": "Pierce the veil (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "b6f3b4817149f026be81826afca3aa601dbee267b719b9f9317fa5dec8524ae0",
+    "source_sha256": "23ca78691a34de2e7cc9b589d19f244cf85596d15947688dddfd376e04455bde",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "b6f3b4817149f026be81826afca3aa601dbee267b719b9f9317fa5dec8524ae0",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

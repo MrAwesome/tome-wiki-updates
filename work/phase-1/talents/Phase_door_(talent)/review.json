@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "56b04e5913c0bedfe429aeda8b37dd9f43e02e972aa9b260bc3d4d69f904ba47",
+    "revid": 22676
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "baseline_preserved"
+    }
+  ],
+  "identity": {
+    "filename": "Phase_door_(talent)",
+    "kind": "talent",
+    "pageid": 1343,
+    "wiki_title": "Phase door (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "baseline_preserved",
+    "candidate_page_sha256": "56b04e5913c0bedfe429aeda8b37dd9f43e02e972aa9b260bc3d4d69f904ba47",
+    "source_sha256": "562478a613ee9b60787e2d7e3d16c8b5b1c6348702fa4e458f6e1f8199395c13",
+    "status": "unsupported_info",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "56b04e5913c0bedfe429aeda8b37dd9f43e02e972aa9b260bc3d4d69f904ba47",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

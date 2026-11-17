@@ -1,0 +1,21 @@
+{{Ability box
+|image=Golem reflective skin.png
+|name=Golem Reflective Skin
+|category_type={{ct|Golem}}
+|category={{c|Golem Arcane}}
+|require={{TalentReq/SpellsReq2}}
+|use_mode=Sustained
+|cooldown=70
+|range=10
+|cost=30 Mana
+|desc=
+Your golem's skin shimmers with eldritch energies.
+
+Any damage it takes is partly reflected to the attacker.
+
+The percentage of damage reflected is {{cl|{{ctspd|12|40}}|100%|20|0|46.5%|26.5}}.
+
+The golem still takes full damage.
+
+Damage returned will increase with your golem's Spellpower.
+}}

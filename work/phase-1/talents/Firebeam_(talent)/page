@@ -1,0 +1,19 @@
+{{Ability_box
+|image=Firebeam.png
+|name=Firebeam
+|game_version=1.7.6
+|category_type={{ct|Celestial}}
+|category={{c|Sunlight}}
+|require={{TalentReq/DiviReq3}}
+|range=10
+|cost=30 Positive
+|cooldown=12
+|use_speed=Spell
+|desc=
+Call forth the Sun to summon a fiery beam that pierces to the farthest enemy dealing {{ctspd|11|60}} fire damage to all enemies hit.
+This spell will automatically cast again at the start of your next two turns.
+You will gain {{cts|2.75|4.94}} positive energy each time firebeam or an instant damage proc caused by firebeam deals damage.
+The damage done will increase with your Spellpower.
+
+''Note: this spell can only be cast if there is an enemy in range, so it can be used to scout for stealth/cloaked enemies''
+}}

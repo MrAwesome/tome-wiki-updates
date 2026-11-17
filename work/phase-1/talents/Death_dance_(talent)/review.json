@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "0743c3ea36fe76b2e206ea84715be32387706d52f4515c562e2c3cd242dd85e7",
+    "revid": 16746
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:58Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Death_dance_(talent)",
+    "kind": "talent",
+    "pageid": 53,
+    "wiki_title": "Death dance (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "3589b4a54e95755e744d92d8386f378411e011a486cfc96de9d1cdb62c1e701b",
+    "source_sha256": "4b0eeb3f32feae757a2e0d720b3791fbb9ee3ab8a098fd63844ab41df54474c9",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:58Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "3589b4a54e95755e744d92d8386f378411e011a486cfc96de9d1cdb62c1e701b",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

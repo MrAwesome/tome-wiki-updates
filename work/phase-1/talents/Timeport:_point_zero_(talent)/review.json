@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "f3df922d07720127a80213c2ce55562f1ccf046f8793c6a214dbd4c2437f83a6",
+    "revid": 11594
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "baseline_preserved"
+    }
+  ],
+  "identity": {
+    "filename": "Timeport:_point_zero_(talent)",
+    "kind": "talent",
+    "pageid": 4301,
+    "wiki_title": "Timeport: point zero (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "baseline_preserved",
+    "candidate_page_sha256": "f3df922d07720127a80213c2ce55562f1ccf046f8793c6a214dbd4c2437f83a6",
+    "source_sha256": "9f0d3e4186c3795ae002964c9c08d53383ddd0011cbaf862b1a388885880e334",
+    "status": "unsupported_info",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "f3df922d07720127a80213c2ce55562f1ccf046f8793c6a214dbd4c2437f83a6",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

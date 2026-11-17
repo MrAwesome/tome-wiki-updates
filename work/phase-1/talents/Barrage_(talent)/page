@@ -1,0 +1,18 @@
+{{Ability box
+|image = Barrage.png
+|name = Barrage
+|game_version = 1.7.6
+|embers_version = 1.1.10
+|category_type = {{ct|Steamtech}}
+|category = {{c|Demolition}}
+|require = {{TalentReq/DexSteamReq4}}
+|cooldown = 12
+|cost = 30 Steam
+|range = 10
+|use_speed = Steamtech
+|desc = You load a magazine of {{cts|3|4}} grenades into your launcher, causing your next {{cts|3|4}} shots to fire a random grenade type in place of your usual Grenade Launcher, dealing 50% of the usual grenade damage.
+
+While the magazine is loaded your attack speed is increased by {{ctl|75%|15|50%}}.
+
+Your Grenade Launcher talent must be on cooldown to use this talent, and the magazine will only last for 6 turns.
+}}

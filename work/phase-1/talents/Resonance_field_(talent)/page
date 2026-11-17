@@ -1,0 +1,17 @@
+{{Ability_box
+|game_version=1.7.6
+|image=Resonance field.png
+|name=Resonance field
+|category_type={{ct|Psionic}}
+|category={{c|Feedback}}
+|require={{TalentReq/PsiWilReq2}}
+|cost=25 Feedback
+|cooldown=15
+|use_speed=1
+|use_mode=Activated
+|desc=
+Activate to create a resonance field that will absorb 50% of all damage you take ({{ctmd|30|470}} max absorption).  The field will not interfere with Feedback gain.
+
+The max absorption value will scale with your Mindpower, and the effect lasts up to ten turns.
+|avail.escorts=[[Escorts#Defiler_.28Arcane.29|Defiler (Arcane)]] ([[Escorts#Betraying_to_Zigur|Betray Escort to Zigur]]), +1 to talent or via revealing the locked {{c|Feedback}} category
+}}

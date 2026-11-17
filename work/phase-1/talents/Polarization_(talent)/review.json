@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "0069c71de498b1d3cf38392ae516f5effdde2db9efc02f45eb97f1ac7928ded9",
+    "revid": 22543
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "baseline_preserved"
+    }
+  ],
+  "identity": {
+    "filename": "Polarization_(talent)",
+    "kind": "talent",
+    "pageid": 6967,
+    "wiki_title": "Polarization (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "baseline_preserved",
+    "candidate_page_sha256": "0069c71de498b1d3cf38392ae516f5effdde2db9efc02f45eb97f1ac7928ded9",
+    "source_sha256": "2439377daeeb689c7373bd980352e347002e6a724881c0d6236f0cf78b651340",
+    "status": "unsupported_info",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "0069c71de498b1d3cf38392ae516f5effdde2db9efc02f45eb97f1ac7928ded9",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

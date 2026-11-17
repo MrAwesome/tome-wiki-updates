@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "5f038530bceb06b2c5dcf2c1f3ad0215374c0746b3d37d5274e75ec514c673ca",
+    "revid": 23352
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Rak%27shor%27s_cunning_(talent)",
+    "kind": "talent",
+    "pageid": 4225,
+    "wiki_title": "Rak'shor's cunning (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "bc8e5aa3a238405f55ae217e3c7b24f09daad103e3bb544006005208a4ced241",
+    "source_sha256": "5ceb8d4c9c3fccc3a71240fa9b27d8cd29416fe6d303eca9ebe66b495f658cd8",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "bc8e5aa3a238405f55ae217e3c7b24f09daad103e3bb544006005208a4ced241",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

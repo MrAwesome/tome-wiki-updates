@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "f983cc9f88d9be7e55572fb52d27b725b4d1af8ca06402cd27fe442bc177f545",
+    "revid": 7692
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:58Z",
+      "event": "deterministic_render_applied",
+      "reason": "baseline_preserved"
+    }
+  ],
+  "identity": {
+    "filename": "Dual_weapon_defense_(talent)",
+    "kind": "talent",
+    "pageid": 1348,
+    "wiki_title": "Dual weapon defense (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "baseline_preserved",
+    "candidate_page_sha256": "f983cc9f88d9be7e55572fb52d27b725b4d1af8ca06402cd27fe442bc177f545",
+    "source_sha256": "aa6d54f5e30aa27c881120dee2c47a5e24b69e556442ac0958275e387972493d",
+    "status": "unsupported_info",
+    "updated_at": "2026-11-08T16:08:58Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "f983cc9f88d9be7e55572fb52d27b725b4d1af8ca06402cd27fe442bc177f545",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

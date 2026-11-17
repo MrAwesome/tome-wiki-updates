@@ -1,0 +1,15 @@
+{{Ability box
+|image=Warshout_2017.png
+|game_version=1.7.6
+|name=Warshout
+|category_type={{ct|Technique}}
+|category={{c|Berserker's Strength}}
+|require={{TalentReq/TechsReq1}}
+|range=0
+|cost=30 Stamina
+|cooldown=18
+|travel_speed=instantaneous
+|use_speed=Weapon
+|desc=
+Shout your warcry in a frontal cone of radius {{cts|4|8}}. Any targets caught inside will be confused (50% confusion power) for {{cts|4|8}} turns.
+}}

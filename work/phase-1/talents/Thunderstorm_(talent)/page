@@ -1,0 +1,16 @@
+{{Ability_box
+|game_version=1.7.6
+|image=Thunderstorm_2017.png
+|name=Thunderstorm
+|category_type={{ct|Spell}}
+|category={{c|Air}}
+|require={{TalentReq/SpellsReq1}}
+|use_mode=Sustained
+|range=6
+|cost=100 Mana
+|cooldown=15
+|desc=
+Conjures a furious, raging lightning storm with a radius of 6 that follows you as long as this spell is active.
+Each turn, a random lightning bolt will hit up to {{gtl|1|5}} of your foes for 1.00 to {{ctspd|15|80}} damage ({{ctspd|7.5|40}} average) in a radius of 1.
+The damage will increase with your Spellpower.
+}}

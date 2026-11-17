@@ -1,0 +1,18 @@
+{{Ability_box
+|game_version=1.7.6
+|image=Thought_forms.png
+|name=Thought-forms
+|category_type=[[Psionic (category type)|Psionic]]
+|category=[[Thought-forms (category)|Thought-forms]]
+|require={{TalentReq/PsiWilReq1}}
+|use_mode=Sustained
+|range=10
+|cooldown=24
+|desc=
+Forge a guardian from your thoughts alone.  Your guardian's primary stat will be improved by {{ctmd|5|50}}, its two secondary stats by {{ctmd|2.5|25}}, and it will have Magic, Cunning, and Willpower equal to your own.
+At talent level one, you may forge a mighty bowman clad in leather armor; at level three a powerful warrior wielding a two-handed weapon; and at level five a strong defender using a sword and shield.
+Thought forms can only be maintained up to a range of 10, and will rematerialize next to you if this range is exceeded.
+Only one thought-form may be active at a time, and the stat bonuses will improve with your Mindpower.
+
+''Note: The summon thought form talents go on cooldown whenever another one is summoned or when an existing thought form of the same type is destroyed.''
+}}

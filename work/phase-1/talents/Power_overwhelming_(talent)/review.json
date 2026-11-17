@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "d161c7cc3fced48ed70400f33d8ccac21f23927f411e259d742b6aaadccc451a",
+    "revid": 18664
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Power_overwhelming_(talent)",
+    "kind": "talent",
+    "pageid": 5927,
+    "wiki_title": "Power overwhelming (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "a66beefee1443f0ff7379c209c5a52f2eba2faad55d0a899b6ad77261f4a997a",
+    "source_sha256": "e8046402a99f3611d9f63cbc57bc060c9ce1039461e5bdfcbf5a64598fbcb69c",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "a66beefee1443f0ff7379c209c5a52f2eba2faad55d0a899b6ad77261f4a997a",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

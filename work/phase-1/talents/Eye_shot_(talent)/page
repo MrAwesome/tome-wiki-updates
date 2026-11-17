@@ -1,0 +1,16 @@
+{{Ability_box
+|game_version=1.7.6
+|image=Eye shot.png
+|name=Eye Shot
+|category_type={{ct|Technique}}
+|category={{c|Archery - Slings}}
+|require={{TalentReq/TechsDexReq2}}
+|use_mode=Activated
+|range=Archery Range
+|cost=15 Stamina
+|cooldown=8
+|desc=
+You fire a shot into your target's eyes, blinding it for {{cts|3|7}} turns and doing {{ctwd|100|150%}} damage.
+
+The blind chance increases with your Accuracy.
+}}

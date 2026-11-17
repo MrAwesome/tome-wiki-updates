@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "a1d6a9346748622d1fc62d7c0172f534e3a0865ebd70529100f22df60db6798e",
+    "revid": 23187
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Psiblades_(talent)",
+    "kind": "talent",
+    "pageid": 1479,
+    "wiki_title": "Psiblades (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "80adaec7b3ef95a7cb03b0639262b5bf945fab6f568d635588fa69c9e92b8f87",
+    "source_sha256": "63c2d1b792fcf77aeca8643cd0ffbb8d55325f1ce0aed7edd3db08cd8a26227e",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "80adaec7b3ef95a7cb03b0639262b5bf945fab6f568d635588fa69c9e92b8f87",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

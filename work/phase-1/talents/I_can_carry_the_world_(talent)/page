@@ -1,0 +1,12 @@
+{{Ability box
+|game_version=1.7.6
+|image=I can carry the world.png
+|name=I Can Carry The World
+|category_type=[[Prodigies]]
+|category=[[Prodigies#Strength|Strength]]
+|require=Strength 50<br />Be able to use massive armours (i.e. have level 3 {{t|Heavy Armour Training}})
+|use_mode=Passive
+|desc=
+Your strength is legendary; fatigue and physical exertion mean nothing to you.
+
+Your fatigue is permanently set to 0, carrying capacity increased by 500, and strength increased by 50 and you gain a size category.}}

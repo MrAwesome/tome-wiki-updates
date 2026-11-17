@@ -1,0 +1,14 @@
+{{Ability box
+|game_version=1.7.6
+|image=Entropic field.png
+|name=Entropic Field
+|category_type={{ct|Chronomancy}}
+|category={{c|Energy}}
+|require={{TalentReq/ChronoReq2}}
+|use_mode=Sustained
+|cost=100 Paradox
+|cooldown=10
+|desc=
+You encase yourself in a field that slows incoming projectiles by {{ctspd|20|60|PM}}, and increases your physical resistance by {{ctspd|15|35|PM}}.
+The effect will scale with your Spellpower.
+}}

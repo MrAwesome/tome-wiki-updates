@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "9d3cd4851d72e24e07cfe1295ecf924b38a417b6dbcdce0f7d2f590f8195b25d",
+    "revid": 13201
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "baseline_preserved"
+    }
+  ],
+  "identity": {
+    "filename": "Tv%C3%ADkent_(talent)",
+    "kind": "talent",
+    "pageid": 4630,
+    "wiki_title": "Tvíkent (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "baseline_preserved",
+    "candidate_page_sha256": "9d3cd4851d72e24e07cfe1295ecf924b38a417b6dbcdce0f7d2f590f8195b25d",
+    "source_sha256": null,
+    "status": "unmatched_source",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "9d3cd4851d72e24e07cfe1295ecf924b38a417b6dbcdce0f7d2f590f8195b25d",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

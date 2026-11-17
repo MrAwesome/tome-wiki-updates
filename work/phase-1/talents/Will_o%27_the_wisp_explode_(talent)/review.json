@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "af45dd286d5e9d2bb67d174e3105d84bd686268257f86e284c83dad8859fb1f7",
+    "revid": 11963
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "baseline_preserved"
+    }
+  ],
+  "identity": {
+    "filename": "Will_o%27_the_wisp_explode_(talent)",
+    "kind": "talent",
+    "pageid": 2952,
+    "wiki_title": "Will o' the wisp explode (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "baseline_preserved",
+    "candidate_page_sha256": "af45dd286d5e9d2bb67d174e3105d84bd686268257f86e284c83dad8859fb1f7",
+    "source_sha256": "dc640c1af5d22a45472d843380c9de01334530b3831bd2b9fe88ee0cba3abc23",
+    "status": "unsupported_info",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "af45dd286d5e9d2bb67d174e3105d84bd686268257f86e284c83dad8859fb1f7",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

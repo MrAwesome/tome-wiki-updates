@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "21383f5f01750f49ba7f55531a5c5f28ef4822746a9cbccc2bd42f9ca3ad4812",
+    "revid": 14464
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Mow_down_(talent)",
+    "kind": "talent",
+    "pageid": 4363,
+    "wiki_title": "Mow down (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "4ad752fc8fdc63d2ef748fa7df60a049ed500d4b4950ecb405fe158763601cf5",
+    "source_sha256": "a429d63fbf7d283ff2e0c23f8bc9667ee2f4c2a31811612ef89cb479dcb5d6f1",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "4ad752fc8fdc63d2ef748fa7df60a049ed500d4b4950ecb405fe158763601cf5",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

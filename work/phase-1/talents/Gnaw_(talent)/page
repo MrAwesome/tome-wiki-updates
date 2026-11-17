@@ -1,0 +1,18 @@
+{{Ability_box
+|game_version=1.7.6
+|image=Gnaw_2017.png
+|name=Gnaw
+|category_type={{ct|Undead}}
+|category={{c|Ghoul}}
+|require={{TalentReq/UndeadsReq4}}
+|use_mode=Activated
+|range=1
+|cooldown=10
+|use_speed=1 turn
+|desc=
+Gnaw your target for {{cts|100|160%}} damage.  If your attack hits, the target may be infected with Ghoul Rot for {{ctl|10|3|7|false|1.1}} turns.
+Each turn, Ghoul Rot inflicts {{ctstd|Con|10|70}} blight damage.
+Targets suffering from Ghoul Rot rise as friendly ghouls when slain.
+Ghouls last for {{ctl|10|3|7|false|1.1}} turns and can use Gnaw, Ghoulish Leap, Stun, and Rotting Disease.
+The blight damage scales with your Constitution.
+}}

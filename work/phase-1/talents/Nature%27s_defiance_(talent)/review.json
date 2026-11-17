@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "ddd2cb9b89788ec8b80beec23e01a3ec8692097c043d8e532dd558a76cd0fadc",
+    "revid": 19227
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Nature%27s_defiance_(talent)",
+    "kind": "talent",
+    "pageid": 3163,
+    "wiki_title": "Nature's defiance (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "a4b56d25c94e895469b4eeaa032b9a934dafe4560c2f94378a9f1beb96da909e",
+    "source_sha256": "61f5c34ce7b88bbd3ceff36eaa6b6238d2d1649ad1641508158509a2c0627a5f",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "a4b56d25c94e895469b4eeaa032b9a934dafe4560c2f94378a9f1beb96da909e",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

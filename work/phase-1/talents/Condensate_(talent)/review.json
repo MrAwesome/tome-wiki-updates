@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "d7ed275fb2291d9ef0df2a80f6c130f205c3c81ae61f404ef090540578e4aa76",
+    "revid": 22819
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:58Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Condensate_(talent)",
+    "kind": "talent",
+    "pageid": 5194,
+    "wiki_title": "Condensate (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "a6e3447fef417027a608710ced97f06f9cda51130e595edefede5d601c14cfab",
+    "source_sha256": "dd6a1ba6bfb4de89349a71150a80432f1ab5c8aa1ca102b071ee9c26be09f42f",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:58Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "a6e3447fef417027a608710ced97f06f9cda51130e595edefede5d601c14cfab",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

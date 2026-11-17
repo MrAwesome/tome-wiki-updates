@@ -1,0 +1,11 @@
+{{Ability box
+|game_version=1.7.6
+|image=Crafty hands.png
+|name=Crafty Hands
+|category_type=[[Prodigies]]
+|category=[[Prodigies#Dexterity|Dexterity]]
+|require=Dexterity 50<br />Know {{t|Imbue Item}} to level 5
+|use_mode=Passive
+|desc=
+You are very crafty. You can now also embed [[Gem|gems]] into helms and belts.
+}}

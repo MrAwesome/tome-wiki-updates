@@ -1,0 +1,19 @@
+{{Ability box
+|image=Gesture of pain.png
+|name=Gesture of Pain
+|category_type={{ct|Cursed}}
+|category={{c|Gestures}}
+|require={{TalentReq/CursedCunReq1}}
+|use_mode=Sustained
+|use_speed=0
+|desc=
+Use a gesture of pain in place of a normal attack to assault the minds of your enemies, inflicting between (0.5 * {{ctmd|0|130}}) and {{ctmd|0|130}} mind damage. If the attack succeeds, there is a {{ctl|50%|12|20%}} chance to stun your opponent for 3 turns.
+
+This strike replaces your melee physical and checks your Mindpower against your opponent's Mental Save, and is thus not affected by your Accuracy or the enemy's Defense. It also does not trigger any physical on-hit effects. However, the base damage and the critical chance of any Mindstars equipped are added in when this attack is performed.
+
+This talent requires two free or mindstar-equipped hands and has a 25% chance to inflict cross tier effects which can be critical hits. The damage will increase with your Mindpower.
+
+Bonus damage from mindstars: (Sum of Mindstar Base Damages)%
+
+Bonus critical chance from mindstars: (Sum of Mindstar Critical Chances)%
+}}

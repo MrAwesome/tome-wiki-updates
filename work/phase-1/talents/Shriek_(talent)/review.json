@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "3d0becafd34c84c54836b11b926f4329c2589d441ce13a89b4f5ac8b2ee41359",
+    "revid": 12865
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Shriek_(talent)",
+    "kind": "talent",
+    "pageid": 2945,
+    "wiki_title": "Shriek (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "52addeeb3328d7bba8cd24beaee59df614f53b5c4bddd839eb749f20d4468fab",
+    "source_sha256": "dc640c1af5d22a45472d843380c9de01334530b3831bd2b9fe88ee0cba3abc23",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "52addeeb3328d7bba8cd24beaee59df614f53b5c4bddd839eb749f20d4468fab",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

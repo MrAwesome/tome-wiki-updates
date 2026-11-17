@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "fad4e79876cb68af8e4329939e750f09b7bff846449366557164f95e3878b90b",
+    "revid": 13837
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "baseline_preserved"
+    }
+  ],
+  "identity": {
+    "filename": "Rogue%27s_brew_(talent)",
+    "kind": "talent",
+    "pageid": 4882,
+    "wiki_title": "Rogue's brew (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "baseline_preserved",
+    "candidate_page_sha256": "fad4e79876cb68af8e4329939e750f09b7bff846449366557164f95e3878b90b",
+    "source_sha256": "8a1d55511ff0273bfc9f4193b98de2269372475ffafc5c8185257d59bb7ad4d3",
+    "status": "unsupported_info",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "fad4e79876cb68af8e4329939e750f09b7bff846449366557164f95e3878b90b",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

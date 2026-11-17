@@ -1,0 +1,18 @@
+{{Ability box
+|game_version=1.7.6
+|image=Acidic spray.png
+|name=Acidic Spray
+|category_type={{ct|Wild-Gift}}
+|category={{c|Venom Drake Aspect}}
+|require={{TalentReq/GiftsReq1}}
+|cost=3 Equilibrium
+|cooldown={{ctl|3|6.9|5.5}}
+|range={{cts|5.5|7.5}}
+|desc=
+Spray forth a glob of acidic moisture at your enemy.
+The target will take {{ctmd|25|250}} Mindpower-based acid damage.
+Enemies struck have a 25% chance to be Disarmed for three turns, as their weapon is rendered useless by an acid coating.
+At Talent Level 5, this becomes a piercing line of acid.
+Every level in Acidic Spray additionally raises your Mindpower by 4, passively.
+Each point in acid drake talents also increases your acid resistance by 1%.
+}}

@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "d3f6099cb3f150026d440da0c044959ae53dc2dbb5fc7c9dc358c2b8142b9602",
+    "revid": 22781
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Telekinetic_smash_(talent)",
+    "kind": "talent",
+    "pageid": 1246,
+    "wiki_title": "Telekinetic smash (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "27ff60d7792dacedc0b3b0cb02463b0719424b4a64823d7fc2676633afccd18a",
+    "source_sha256": "d3ccd0f303b95b3c0deaeaa88c4604d87a210b1fd3af2c36eaff58edfec11f95",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "27ff60d7792dacedc0b3b0cb02463b0719424b4a64823d7fc2676633afccd18a",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

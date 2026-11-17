@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "38c6a91b15ca52435a60a279509d5583e255055316046388e44482237f8e8c3d",
+    "revid": 23082
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Fungal_growth_(talent)",
+    "kind": "talent",
+    "pageid": 1420,
+    "wiki_title": "Fungal growth (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "9c7b2922d192ae6d0cf4e4b00c94942b1d5d6bcaa98d0cc35882747078479873",
+    "source_sha256": "46f01e0b97855e5b1010ff94d2d56a52e51a28d5d9fd4ebbdcbb90bf2c273c8c",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "9c7b2922d192ae6d0cf4e4b00c94942b1d5d6bcaa98d0cc35882747078479873",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

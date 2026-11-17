@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "428d8b87b7be3fac8dfbcf96a545cc5cb24c89ac6da48e30e9c0ec6c83588bd1",
+    "revid": 22501
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "baseline_preserved"
+    }
+  ],
+  "identity": {
+    "filename": "Fumigate_(talent)",
+    "kind": "talent",
+    "pageid": 6933,
+    "wiki_title": "Fumigate (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "baseline_preserved",
+    "candidate_page_sha256": "428d8b87b7be3fac8dfbcf96a545cc5cb24c89ac6da48e30e9c0ec6c83588bd1",
+    "source_sha256": "f03404a27dfa0fd5e0f7a8cbf0d6ab93234f69d23e4d4a09abfec09c34c50af0",
+    "status": "unsupported_info",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "428d8b87b7be3fac8dfbcf96a545cc5cb24c89ac6da48e30e9c0ec6c83588bd1",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

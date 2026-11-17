@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "b55590d7ddef036abc8d8af7bea290ee83a343eeb72c6e5f001eae1e11b765ff",
+    "revid": 8074
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:58Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Arcane_power_(talent)",
+    "kind": "talent",
+    "pageid": 1400,
+    "wiki_title": "Arcane power (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "94bae0ab899220a8e50b0dbcac0a54648b814d283ae81cbc3bc4a37f36086e78",
+    "source_sha256": "b1b1401244611b4bf3bd1ae39c8a6a44256c16e5792a81c21a71d80ceb2fc835",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:58Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "94bae0ab899220a8e50b0dbcac0a54648b814d283ae81cbc3bc4a37f36086e78",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

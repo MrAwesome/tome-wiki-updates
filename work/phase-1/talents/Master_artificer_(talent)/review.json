@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "ca7dbab2448eb055b02270c631db13a9175335b51e055413cd283ee5642bb9fb",
+    "revid": 15145
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "baseline_preserved"
+    }
+  ],
+  "identity": {
+    "filename": "Master_artificer_(talent)",
+    "kind": "talent",
+    "pageid": 4664,
+    "wiki_title": "Master artificer (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "baseline_preserved",
+    "candidate_page_sha256": "ca7dbab2448eb055b02270c631db13a9175335b51e055413cd283ee5642bb9fb",
+    "source_sha256": "8a1d55511ff0273bfc9f4193b98de2269372475ffafc5c8185257d59bb7ad4d3",
+    "status": "unsupported_info",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "ca7dbab2448eb055b02270c631db13a9175335b51e055413cd283ee5642bb9fb",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

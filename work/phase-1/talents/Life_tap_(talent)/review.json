@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "fe41081291a59c73ad867a317aaf379630f189708c9c07acb9f001c4d7d01d00",
+    "revid": 20090
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Life_tap_(talent)",
+    "kind": "talent",
+    "pageid": 2102,
+    "wiki_title": "Life tap (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "8e51616f8d657750f27c9b7a8528439b87f7757d5f02cae1905190c3bc152281",
+    "source_sha256": "ec2130a4fd34f03b1dbf17afd72633429ff34fe78e72af1593128d640d9ae12c",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "8e51616f8d657750f27c9b7a8528439b87f7757d5f02cae1905190c3bc152281",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

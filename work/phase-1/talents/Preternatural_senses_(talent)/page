@@ -1,0 +1,15 @@
+{{Ability box
+|image=Preternatural senses.png
+|name=Preternatural Senses
+|category_type={{Ct|Cursed}}
+|category={{c|Strife}}
+|require={{TalentReq/CursedStrReq2}}
+|use_mode=Passive
+|range={{cts|2.5|6.6}}
+|desc=
+Your preternatural senses aid you in your hunt for the next victim. You sense foes in a radius of {{cts|2.5|6.6}}. You will always sense a stalked victim in a radius of 10.
+
+Also increases stealth detection and invisibility detection by {{cs|(0.15 * Wil * Talent Level)|5|0|80|75}}.
+
+Stealth and invisibility detection improves with your Willpower.
+}}

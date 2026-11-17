@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "71dfca3d9e699abfd49a7a7c4eb1012923ca81cfb8c21c27103b1bb5997e215a",
+    "revid": 14167
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Tempest_(talent)",
+    "kind": "talent",
+    "pageid": 1499,
+    "wiki_title": "Tempest (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "2100fb075c6f947b4ad35a71b2320d714251e04b84314cfe7268c5a9d3bfdd1c",
+    "source_sha256": "bbe63756da846fcbe26e427e86aeeb67d82e9e9ab399f141cf8e6cd9fbdfe941",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "2100fb075c6f947b4ad35a71b2320d714251e04b84314cfe7268c5a9d3bfdd1c",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

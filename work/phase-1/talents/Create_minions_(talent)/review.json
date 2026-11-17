@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "f2036ce86c101a0b6e5d30770d60a563484501c70208f4a969fa9f278bf49e64",
+    "revid": 8116
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:58Z",
+      "event": "deterministic_render_applied",
+      "reason": "baseline_preserved"
+    }
+  ],
+  "identity": {
+    "filename": "Create_minions_(talent)",
+    "kind": "talent",
+    "pageid": 1644,
+    "wiki_title": "Create minions (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "baseline_preserved",
+    "candidate_page_sha256": "f2036ce86c101a0b6e5d30770d60a563484501c70208f4a969fa9f278bf49e64",
+    "source_sha256": null,
+    "status": "unmatched_source",
+    "updated_at": "2026-11-08T16:08:58Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "f2036ce86c101a0b6e5d30770d60a563484501c70208f4a969fa9f278bf49e64",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

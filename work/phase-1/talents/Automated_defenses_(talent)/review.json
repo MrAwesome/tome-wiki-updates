@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "90392293e5853ffa13b0c370b07dc2ff2a3f30acd8d51fa18a8b7ddde4243aad",
+    "revid": 22425
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:58Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Automated_defenses_(talent)",
+    "kind": "talent",
+    "pageid": 6874,
+    "wiki_title": "Automated defenses (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "ba963c4914bf2f0e14d8f8c3728dde8ec4db1b0b7f98c8204fd5d4d406b74086",
+    "source_sha256": "0b4f50fb9226192436c2c2d6265cb7c6237c3cff4bb9e07d55e37faaa04fb1dd",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:58Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "ba963c4914bf2f0e14d8f8c3728dde8ec4db1b0b7f98c8204fd5d4d406b74086",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

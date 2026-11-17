@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "f4993c2b08692326e7dd53fc780e1f83c56b84f56ff351a9a6dfa7d7cc9b2544",
+    "revid": 22983
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Staff_mastery_(talent)",
+    "kind": "talent",
+    "pageid": 1703,
+    "wiki_title": "Staff mastery (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "a27b90012164dd23f6aea3fc98255c428cfadb87375bec2b023d76deef4d2180",
+    "source_sha256": "c68a316b764d54da527c0b2a3a502a0e93664ee26bc9938824f5ed9290827da9",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "a27b90012164dd23f6aea3fc98255c428cfadb87375bec2b023d76deef4d2180",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "7bc58da8661a96c9a123084fa0ccdbf197ba97df7e07da0ac62d7d6eee457629",
+    "revid": 19443
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "baseline_preserved"
+    }
+  ],
+  "identity": {
+    "filename": "Mitosis_(talent)",
+    "kind": "talent",
+    "pageid": 1244,
+    "wiki_title": "Mitosis (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "baseline_preserved",
+    "candidate_page_sha256": "7bc58da8661a96c9a123084fa0ccdbf197ba97df7e07da0ac62d7d6eee457629",
+    "source_sha256": "20889794d7c014f4472eb3e12d0635db4f161b2b61e139d54c3e5fa53e0f9d99",
+    "status": "unsupported_info",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "7bc58da8661a96c9a123084fa0ccdbf197ba97df7e07da0ac62d7d6eee457629",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

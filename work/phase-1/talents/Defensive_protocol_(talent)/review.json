@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "2dafa40549755d4407d4c3f8bfff08cd8f5d12f17b4792c8d9db5d0c66194008",
+    "revid": 22508
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:58Z",
+      "event": "deterministic_render_applied",
+      "reason": "baseline_preserved"
+    }
+  ],
+  "identity": {
+    "filename": "Defensive_protocol_(talent)",
+    "kind": "talent",
+    "pageid": 6938,
+    "wiki_title": "Defensive protocol (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "baseline_preserved",
+    "candidate_page_sha256": "2dafa40549755d4407d4c3f8bfff08cd8f5d12f17b4792c8d9db5d0c66194008",
+    "source_sha256": "d4a229c033179400bfeecdf22a6d8c7d8b890754f25cecd82908d413c3fa5102",
+    "status": "unsupported_info",
+    "updated_at": "2026-11-08T16:08:58Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "2dafa40549755d4407d4c3f8bfff08cd8f5d12f17b4792c8d9db5d0c66194008",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

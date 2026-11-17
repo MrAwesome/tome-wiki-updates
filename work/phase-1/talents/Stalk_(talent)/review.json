@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "33862ca0222b243e2eebd1a968bf6c19b4eca8640453f313876a3cae87a0c133",
+    "revid": 8183
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "baseline_preserved"
+    }
+  ],
+  "identity": {
+    "filename": "Stalk_(talent)",
+    "kind": "talent",
+    "pageid": 1143,
+    "wiki_title": "Stalk (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "baseline_preserved",
+    "candidate_page_sha256": "33862ca0222b243e2eebd1a968bf6c19b4eca8640453f313876a3cae87a0c133",
+    "source_sha256": "38eae0c3f4ab833c0e9ab2699bcc9090ba8828fb32dd800bedcc202ed7a25fea",
+    "status": "unsupported_info",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "33862ca0222b243e2eebd1a968bf6c19b4eca8640453f313876a3cae87a0c133",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

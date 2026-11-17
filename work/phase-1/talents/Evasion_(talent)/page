@@ -1,0 +1,18 @@
+{{Ability_box
+|game_version=1.5.2
+|image=Evasion_2017.png
+|name=Evasion
+|category_type={{ct|Cunning}}
+|category={{c|Mobility}}
+|require={{TalentReq/TechsDexReq2}}
+|use_mode=Activated
+|range=Melee/Personal
+|cost=25 Stamina
+|cooldown={{cTL|10|28|15}}
+|travel_speed=Instantaneous
+|use_speed=Instant
+|desc=
+Your quick wit and reflexes allow you to anticipate attacks against you, granting you a chance to evade melee and ranged attacks and increased defense for 4 turns.
+
+The chance to evade and defense bonus increase with your Dexterity.
+}}

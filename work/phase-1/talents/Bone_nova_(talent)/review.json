@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "99b64dbd737b27b8ae40416c88e53d506e9c1e5aa9711d83dcb638b0e144691f",
+    "revid": 8272
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:58Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Bone_nova_(talent)",
+    "kind": "talent",
+    "pageid": 1662,
+    "wiki_title": "Bone nova (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "58ef832c92a72a75d3fdb085ef0749972381536510471945c29a37fea3ad0392",
+    "source_sha256": "dc640c1af5d22a45472d843380c9de01334530b3831bd2b9fe88ee0cba3abc23",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:58Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "58ef832c92a72a75d3fdb085ef0749972381536510471945c29a37fea3ad0392",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

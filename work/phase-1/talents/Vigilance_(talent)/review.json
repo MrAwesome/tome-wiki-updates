@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "ec0433b3d02bb69befff289cae896692f603d806cd7b91000069230cf04550b5",
+    "revid": 11557
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Vigilance_(talent)",
+    "kind": "talent",
+    "pageid": 4297,
+    "wiki_title": "Vigilance (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "83a6f4c787a656dd744ba8bf20049332c3cd4e8344fdfc60083eba4027813a28",
+    "source_sha256": "076b3c31b0483f86935e293c1fa230df959b11fc3fa444c01e011578c7370ed2",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "83a6f4c787a656dd744ba8bf20049332c3cd4e8344fdfc60083eba4027813a28",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

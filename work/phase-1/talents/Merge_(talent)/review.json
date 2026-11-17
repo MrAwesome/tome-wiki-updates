@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "136398a70489abd66885bf727f3bf718485b5a374d3d15225c11348b0e4d1ad2",
+    "revid": 13653
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Merge_(talent)",
+    "kind": "talent",
+    "pageid": 4712,
+    "wiki_title": "Merge (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "20e3d125ac055ae92a4bc8e51848bd72baecb1ad3f7e52019613af06a86218e1",
+    "source_sha256": "1632e114e3e0cd629d78b32524bd03406a78eb31f778313211fe8a1315486f71",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "20e3d125ac055ae92a4bc8e51848bd72baecb1ad3f7e52019613af06a86218e1",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

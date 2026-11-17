@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "685d26b974984765c2f6fae7d9ee6d59feb56a8340ff072fc84d12edd0f70da9",
+    "revid": 13158
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "baseline_preserved"
+    }
+  ],
+  "identity": {
+    "filename": "Nautical_combat_(talent)",
+    "kind": "talent",
+    "pageid": 4620,
+    "wiki_title": "Nautical combat (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "baseline_preserved",
+    "candidate_page_sha256": "685d26b974984765c2f6fae7d9ee6d59feb56a8340ff072fc84d12edd0f70da9",
+    "source_sha256": null,
+    "status": "unmatched_source",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "685d26b974984765c2f6fae7d9ee6d59feb56a8340ff072fc84d12edd0f70da9",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

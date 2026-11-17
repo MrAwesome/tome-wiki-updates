@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "7ca7cd229e0286c83cbe1885c5b2b268e470f4845e7bad67f2aa2cf8906ae190",
+    "revid": 8962
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "baseline_preserved"
+    }
+  ],
+  "identity": {
+    "filename": "Throw_bomb_(talent)",
+    "kind": "talent",
+    "pageid": 1116,
+    "wiki_title": "Throw bomb (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "baseline_preserved",
+    "candidate_page_sha256": "7ca7cd229e0286c83cbe1885c5b2b268e470f4845e7bad67f2aa2cf8906ae190",
+    "source_sha256": "66ce5364f625978b3d4554f94612ea1119e3c0bfd3d1725746fe655bbcf96efa",
+    "status": "unsupported_info",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "7ca7cd229e0286c83cbe1885c5b2b268e470f4845e7bad67f2aa2cf8906ae190",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

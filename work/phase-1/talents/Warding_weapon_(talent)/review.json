@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "5b2be12a614a26c7ccabf40ac94789752b47faba2c9bf9abd3c51a5c70d5c647",
+    "revid": 22783
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "baseline_preserved"
+    }
+  ],
+  "identity": {
+    "filename": "Warding_weapon_(talent)",
+    "kind": "talent",
+    "pageid": 3391,
+    "wiki_title": "Warding weapon (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "baseline_preserved",
+    "candidate_page_sha256": "5b2be12a614a26c7ccabf40ac94789752b47faba2c9bf9abd3c51a5c70d5c647",
+    "source_sha256": "d3ccd0f303b95b3c0deaeaa88c4604d87a210b1fd3af2c36eaff58edfec11f95",
+    "status": "unsupported_info",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "5b2be12a614a26c7ccabf40ac94789752b47faba2c9bf9abd3c51a5c70d5c647",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

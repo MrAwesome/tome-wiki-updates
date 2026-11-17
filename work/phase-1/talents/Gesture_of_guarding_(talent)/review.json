@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "ee9886fd107aaba776e0ab2a2fb90629d03ae976bba1ab4ca4dc1372feff35fc",
+    "revid": 10659
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "baseline_preserved"
+    }
+  ],
+  "identity": {
+    "filename": "Gesture_of_guarding_(talent)",
+    "kind": "talent",
+    "pageid": 1337,
+    "wiki_title": "Gesture of guarding (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "baseline_preserved",
+    "candidate_page_sha256": "ee9886fd107aaba776e0ab2a2fb90629d03ae976bba1ab4ca4dc1372feff35fc",
+    "source_sha256": "ec67cf2554c7a4485d255ed73372281c8247a2b34e313c2a26daa115279264b8",
+    "status": "unsupported_info",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "ee9886fd107aaba776e0ab2a2fb90629d03ae976bba1ab4ca4dc1372feff35fc",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

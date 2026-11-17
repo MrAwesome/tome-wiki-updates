@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "c6ebe2f4ad20a22971c0de357daaec5d6b9d532a52cb8f08feebea1a5c103dd2",
+    "revid": 13030
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:58Z",
+      "event": "deterministic_render_applied",
+      "reason": "baseline_preserved"
+    }
+  ],
+  "identity": {
+    "filename": "Eldritch_stone_(talent)",
+    "kind": "talent",
+    "pageid": 4604,
+    "wiki_title": "Eldritch stone (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "baseline_preserved",
+    "candidate_page_sha256": "c6ebe2f4ad20a22971c0de357daaec5d6b9d532a52cb8f08feebea1a5c103dd2",
+    "source_sha256": "c57edc4364de619e791cdf2b43ca3f4744f4962e175410477733a50010017c03",
+    "status": "unsupported_info",
+    "updated_at": "2026-11-08T16:08:58Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "c6ebe2f4ad20a22971c0de357daaec5d6b9d532a52cb8f08feebea1a5c103dd2",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

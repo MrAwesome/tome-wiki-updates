@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "d2e1401cefefc68a09d7781a42888509da97f546b26757009bc86cc69b50dc6f",
+    "revid": 12202
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "baseline_preserved"
+    }
+  ],
+  "identity": {
+    "filename": "Living_lightning_(talent)",
+    "kind": "talent",
+    "pageid": 3269,
+    "wiki_title": "Living lightning (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "baseline_preserved",
+    "candidate_page_sha256": "d2e1401cefefc68a09d7781a42888509da97f546b26757009bc86cc69b50dc6f",
+    "source_sha256": "2d30fba73df6fe47db26ec339416e7fda9ace6ac27c274a520ef450cb97f8c10",
+    "status": "unsupported_info",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "d2e1401cefefc68a09d7781a42888509da97f546b26757009bc86cc69b50dc6f",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

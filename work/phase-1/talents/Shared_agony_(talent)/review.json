@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "77d00aebf82e95e324b887b25a922548a5850052878dc2ce95e7271394d1e66d",
+    "revid": 22887
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Shared_agony_(talent)",
+    "kind": "talent",
+    "pageid": 7066,
+    "wiki_title": "Shared agony (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "1b625607c8c174349e87bdee2f291861f4fcd90e8502d0e8d0aa45acba021b44",
+    "source_sha256": "909d08e1f26b3f38f8244c116af6e4a1e54af696abfc74816659c14c5269db18",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "1b625607c8c174349e87bdee2f291861f4fcd90e8502d0e8d0aa45acba021b44",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

@@ -1,0 +1,12 @@
+{{Ability box
+|game_version=1.7.6
+|image=Vigilance.png
+|name=Vigilance
+|category_type={{ct|Chronomancy}}
+|category={{c|Temporal Guardian}}
+|require={{TalentReq/ChronoReq3}}
+|use_mode=Passive
+|desc=
+Improves your capacity to see invisible foes by +{{ctstd|Mag|10|50}} and to see through stealth by +{{ctstd|Mag|10|50}}.  Additionally you have a {{ctl|40%|10|30%}} chance to recover from a single negative status effect each turn.
+Sense abilities will scale with your Magic stat.
+}}

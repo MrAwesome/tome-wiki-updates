@@ -1,0 +1,30 @@
+{{Ability_box
+|name=Lich
+|image=Lich.png
+|category_type=[[Prodigies]]
+|category=[[Prodigies#Magic|Magic]]
+|game_version=1.7.6
+|require=Willpower 25<br />Magic 50<br />Not already undead<br />Know a necromancy talent<br />(Only required when playing [[Maj'Eyal: The Age of Ascendancy]]) Completed [[From Death, Life]]
+|use_mode=Passive
+|desc=
+This is your true goal and the purpose of all necromancy - to become a powerful and everliving Lich!
+
+Once learnt, the next time you are killed, the arcane forces you unleash will be able to rebuild your body into the desired Lichform.
+
+Liches are immune to poisons, diseases, fear, cuts, stuns, do not need to breath and are 20% resistant to cold and darkness.
+
+Liches also gain +12 Magic, Willpower and Cunning, 60% chance to ignore critical hits, +4 life rating (not retroactive), +35 spell and mental saves and 7 mana regeneration.
+
+Liches gain a new racial tree with the following talents:
+
+*{{t|Neverending Unlife}}: A Lich body is extremely resilient, being able to go into negative life and when destroyed it can regenerate itself.
+*{{t|Frightening Presence}}: Your mere presence is enough to shatter the resolve of most, reducing their saves, damage and movement speed.
+*{{t|Doomed for Eternity}}: As a creature of doom and despair you now constantly spawn undead shadows around you.
+*{{t|Commander of the Dead}}: You are able to infuse all undead party members (including yourself) with un-natural power, increasing your physical and spellpower.
+}}
+Note: If you are unable to use any form of resurrection (e.g. in the [[Arena campaign]]), then you will immediately become a Lich upon learning the prodigy.
+
+If you have any other means of revival after taking this talent, on your next death you will not have the option of using them and will become a Lich instead.
+If you have the [[Blood of Life]] status from quaffing the item, it will be removed when you become a Lich.
+
+On rebirth, your souls, health, and mana are restored to full.

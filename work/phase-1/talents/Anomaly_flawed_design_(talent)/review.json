@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "504d8745faa6bb0c5e6345b8aaffba3f1acfb6fa0e395411bd05db9fda811dc8",
+    "revid": 23203
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:58Z",
+      "event": "deterministic_render_applied",
+      "reason": "baseline_preserved"
+    }
+  ],
+  "identity": {
+    "filename": "Anomaly_flawed_design_(talent)",
+    "kind": "talent",
+    "pageid": 7135,
+    "wiki_title": "Anomaly flawed design (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "baseline_preserved",
+    "candidate_page_sha256": "504d8745faa6bb0c5e6345b8aaffba3f1acfb6fa0e395411bd05db9fda811dc8",
+    "source_sha256": "cc36f9e9f4aaec5230730e339ec389d2185f125afad3bd5fc061d2a0631aca25",
+    "status": "unsupported_info",
+    "updated_at": "2026-11-08T16:08:58Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "504d8745faa6bb0c5e6345b8aaffba3f1acfb6fa0e395411bd05db9fda811dc8",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

@@ -1,0 +1,17 @@
+{{Ability_box
+|image=infestation.png
+|name=Infestation
+|game_version=1.7.6
+|category_type={{ct|Corruption}}
+|category={{c|Rot}}
+|require={{TalentReq/SpellsReqHigh1}}
+|use_mode=Sustained
+|cost=30 Vim
+|cooldown=15
+|travel_speed=Instantaneous
+|use_speed=Spell
+|desc=
+Your body has become a mass of living corruption, increasing your blight and acid resistance by {{cts|10|25%}} and blight affinity by {{cts|7|20%}}. On taking damage greater than 15% of your maximum health, the damage will be reduced by {{CTL|50%|15|30%}} and a carrion worm mass will burst forth onto a nearby tile, attacking your foes for 5 turns. 
+You can never have more than 5 worms active from any source at a time. 
+When a carrion worm dies it will explode into a radius 2 pool of blight for 5 turns, dealing {{ctspd|10|70}} blight damage each turn and healing you for 33% of that amount.
+}}

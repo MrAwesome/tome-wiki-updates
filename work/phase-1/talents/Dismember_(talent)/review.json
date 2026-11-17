@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "2a354b98a6f66690fdddca52c70fa4f527846798757447f3d49d4b444afc53fa",
+    "revid": 9683
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:58Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Dismember_(talent)",
+    "kind": "talent",
+    "pageid": 3755,
+    "wiki_title": "Dismember (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "a659089b9c73a5144e25a16e499794f11bdd2afee6d11bedede45a08ab8db26d",
+    "source_sha256": "cc3daff1eb60ecbb48a2dde25106a4ff82673aa25fa8f94db822e437d0aef8f8",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:58Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "a659089b9c73a5144e25a16e499794f11bdd2afee6d11bedede45a08ab8db26d",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

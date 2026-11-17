@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "d4b58e424cafd203e40fd7e3329fd3a3ce4f46b3b3dd6b422f47d04875fac55d",
+    "revid": 23020
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "baseline_preserved"
+    }
+  ],
+  "identity": {
+    "filename": "Sleep_(talent)",
+    "kind": "talent",
+    "pageid": 1182,
+    "wiki_title": "Sleep (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "baseline_preserved",
+    "candidate_page_sha256": "d4b58e424cafd203e40fd7e3329fd3a3ce4f46b3b3dd6b422f47d04875fac55d",
+    "source_sha256": "57cdfadb3cc978657a6d86a74cd2451d35beddc1b8002819cc279772155041bd",
+    "status": "unsupported_info",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "d4b58e424cafd203e40fd7e3329fd3a3ce4f46b3b3dd6b422f47d04875fac55d",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

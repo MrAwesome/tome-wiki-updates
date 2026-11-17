@@ -1,0 +1,11 @@
+{{Ability box
+|image=Bloodcasting.png
+|name=Bloodcasting
+|game_version=1.7.6
+|category_type={{ct|Corruption}}
+|category={{c|Sanguisuge}}
+|require={{TalentReq/CorrsReq2}}
+|use_mode=Passive
+|desc=
+The cost of using life instead of vim for talents is reduced to {{cts|180|100%}}.
+}}

@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "72483ff26a87ec73800e3f5c11be5758fb5c84353f80202773ab6d47190f3a39",
+    "revid": 14021
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Shattering_impact_(talent)",
+    "kind": "talent",
+    "pageid": 1290,
+    "wiki_title": "Shattering impact (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "fea9920068d77bc76fb2026eb34ef4dbc1abd9fbef19ab49acd6a966aa27a18a",
+    "source_sha256": "cfb24e66594c7d059b466e73eede07c64963f5659147f6774095d3e4bfa23903",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "fea9920068d77bc76fb2026eb34ef4dbc1abd9fbef19ab49acd6a966aa27a18a",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

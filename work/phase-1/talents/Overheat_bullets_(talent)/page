@@ -1,0 +1,17 @@
+{{Ability box
+|image=Overheat bullets.png
+|name=Overheat bullets
+|game_version=1.7.6
+|embers_version=1.1.10
+|category_type={{ct|Steamtech}}
+|category={{c|Bullets mastery}}
+|require={{TalentReq/SteamReq1}}
+|range=10
+|cooldown=15
+|cost=30 Steam
+|use_speed=0
+|desc=
+By sending a stream of hot steam over your bullets you overheat them. For the next {{ctl|15|3|8}} turns, each bullet will set the target ablaze, making it burn for {{ctstmd|10|150}} fire damage over 5 turns (most of your shooting talents fire two bullets at once).
+Damage will increase with Steampower.
+Only one bullet enhancement can be used at once.
+}}

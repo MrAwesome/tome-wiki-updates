@@ -1,0 +1,13 @@
+{{Ability box
+|game_version=1.7.6
+|image=Highborn_s_bloom_2017.png
+|name=Highborn's Bloom
+|category_type={{ct|Race}}
+|category={{c|Higher}}
+|require={{TalentReq/RacialReq4}}
+|cooldown={{ctl|20|45|30}}
+|use_speed=Instant
+|desc=
+Activate some of your inner magic, using it to power your abilities.  For the next {{ctl|10|3|7|false|1}} turns all active talents will be used without resource cost.
+		Your resources must still be high enough to initially power the talent and failure rates (etc.) still apply.
+}}

@@ -1,0 +1,15 @@
+{{Ability box
+|image=Uncanny reload.png
+|name=Uncanny Reload
+|game_version=1.7.6
+|embers_version=1.1.10
+|category_type={{ct|Steamtech}}
+|category={{c|Gunner training}}
+|require={{TalentReq/SteamReq3}}
+|cooldown=20
+|cost=15 Steam
+|range=Steamgun range
+|desc=
+You focus on managing your steamgun ammo for {{ctl|15|2|5}} turns.
+While the effect lasts your attacks do not consume shots.
+}}

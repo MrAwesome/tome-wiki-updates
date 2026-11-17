@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "c17b8ef1152ab98c6a45749d89afb0960d1e48333dc83285c60ac291b8cce0b9",
+    "revid": 11121
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Heightened_reflexes_(talent)",
+    "kind": "talent",
+    "pageid": 1463,
+    "wiki_title": "Heightened reflexes (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "223466abb0a93d2762decc9913c516ee37b7ffbfe684c8e06b88e4e0fe7a4f54",
+    "source_sha256": "f6860eae478ac6b3f2bcd2a822c3dfbcc384e50c55239d337dcc624569fb1822",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "223466abb0a93d2762decc9913c516ee37b7ffbfe684c8e06b88e4e0fe7a4f54",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

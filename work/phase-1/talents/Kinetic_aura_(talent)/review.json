@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "c05a6906993adfbe90443e61a52557177125dd9f48273357007a712f3e12baed",
+    "revid": 7875
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "baseline_preserved"
+    }
+  ],
+  "identity": {
+    "filename": "Kinetic_aura_(talent)",
+    "kind": "talent",
+    "pageid": 1269,
+    "wiki_title": "Kinetic aura (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "baseline_preserved",
+    "candidate_page_sha256": "c05a6906993adfbe90443e61a52557177125dd9f48273357007a712f3e12baed",
+    "source_sha256": "cad1b014a59af12f9ee250b02417cf27b2a67368601d2042a0eedcd3997587c3",
+    "status": "unsupported_info",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "c05a6906993adfbe90443e61a52557177125dd9f48273357007a712f3e12baed",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

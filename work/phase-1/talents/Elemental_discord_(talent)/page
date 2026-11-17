@@ -1,0 +1,25 @@
+{{Ability box
+|name=Elemental Discord
+|image=Elemental_discord.png
+|game_version=1.7.6
+|category_type={{ct|Corruption}}
+|category={{c|Vile Life}}
+|require={{TalentReq/CorrsReq2}}
+|cost=30 Vim
+|cooldown=20
+|use_mode=Sustained
+|travel_speed=instantaneous
+|use_speed=Spell
+|desc=
+Use elemental damage dealt to you to trigger terrible effects on the source:
+
+*Fire: burn for {{ctspd|10|400}} fire damage over 5 turns
+*Cold: freeze for 3 turns with {{ctspd|10|500}} iceblock power
+*Acid: blind for {{ctl|8|3|6}} turns
+*Lightning: daze for {{ctl|8|3|6}} turns
+*Nature: {{ctl|75%|25|55%}} slow for 4 turns
+
+This effect can only happen once every 10 turns per damage type.
+
+The damage will increase with your Spellpower.
+}}

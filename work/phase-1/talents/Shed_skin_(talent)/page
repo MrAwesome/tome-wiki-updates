@@ -1,0 +1,14 @@
+{{Ability box
+|game_version=1.5.10
+|image=Shed_Skin.png
+|name=Shed Skin
+|category_type={{ct|Demented}}
+|category={{c|Horrific Body}}
+|require={{TalentReq/SpellsReq1}}
+|use_mode=Active
+|cost=-10 insanity
+|cooldown=10
+|desc=
+You shed the outer layer of your mutated skin and empower it to act as a damage shield for 7 turns.
+		The shield can absorb up to {{ctspd|30|370}} damage before it crumbles.
+}}

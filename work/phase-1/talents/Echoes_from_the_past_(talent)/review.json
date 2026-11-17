@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "213f59c27738edf55ce7595ce93957d8c6be5a98b4505d46aa820da12ff02739",
+    "revid": 10324
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:58Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Echoes_from_the_past_(talent)",
+    "kind": "talent",
+    "pageid": 1221,
+    "wiki_title": "Echoes from the past (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "264a7afaf0641c928fc9520c213fe48c41360a20a8fd5e28bc5658fb115c86e3",
+    "source_sha256": "aa6ca390a27af48544efffd889c2ff020f5a482b35b682ec148890a19f3f0dec",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:58Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "264a7afaf0641c928fc9520c213fe48c41360a20a8fd5e28bc5658fb115c86e3",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

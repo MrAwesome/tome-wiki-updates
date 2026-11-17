@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "401317f4a2374e09da2ec39a45b165989f5a6aa4d49adda28811fe0f14a57a05",
+    "revid": 10317
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Temporal_bolt_(talent)",
+    "kind": "talent",
+    "pageid": 3870,
+    "wiki_title": "Temporal bolt (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "eaa1b6184382cb657be43788ea6c7bc3052d927c9ce3bc6b9ab8193033c630c2",
+    "source_sha256": "aa6ca390a27af48544efffd889c2ff020f5a482b35b682ec148890a19f3f0dec",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "eaa1b6184382cb657be43788ea6c7bc3052d927c9ce3bc6b9ab8193033c630c2",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

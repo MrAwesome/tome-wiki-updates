@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "bdd70caf12e5f70d54d0eb1e86551270d1a62672303841ab49753787e5e1e91a",
+    "revid": 8304
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:58Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Dark_ritual_(talent)",
+    "kind": "talent",
+    "pageid": 1122,
+    "wiki_title": "Dark ritual (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "06e43f1eb81542c3e5ea0b02ab10e4fa5f840899a0ee5cd9bf2f23359a663f74",
+    "source_sha256": "ef262a77f0a27f826412d273af6b3f61a1f3f8eccfaa97f58b8b8a5f1f6b7d7b",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:58Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "06e43f1eb81542c3e5ea0b02ab10e4fa5f840899a0ee5cd9bf2f23359a663f74",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

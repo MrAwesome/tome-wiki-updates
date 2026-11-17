@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "ff9eeacf5ec9aee050879503bb6f51f17d1a0a13129654114ffc1fc5beec334f",
+    "revid": 23091
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "baseline_preserved"
+    }
+  ],
+  "identity": {
+    "filename": "Grim_future_(talent)",
+    "kind": "talent",
+    "pageid": 3705,
+    "wiki_title": "Grim future (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "baseline_preserved",
+    "candidate_page_sha256": "ff9eeacf5ec9aee050879503bb6f51f17d1a0a13129654114ffc1fc5beec334f",
+    "source_sha256": "c54c2fb09bd09dd3437df50c2f2a6b5e48d8c700335d1f0212169e7ea8b6d4e9",
+    "status": "unsupported_info",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "ff9eeacf5ec9aee050879503bb6f51f17d1a0a13129654114ffc1fc5beec334f",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

@@ -1,0 +1,14 @@
+{{Ability box
+|game_version=1.7.6
+|image=Dual_strike_2017.png
+|name=Dual Strike
+|category_type={{ct|Technique}}
+|category={{c|Dual Techniques}}
+|require={{TalentReq/TechsDexReq1}}
+|cost=15 Stamina
+|cooldown=12
+|desc=
+Attack with your offhand weapon for {{ctwd|70|150%}} damage. If the attack hits, the target is stunned for {{cts|3|7}} turns, and you hit it with your mainhand weapon doing {{ctwd|70|150%}} damage.
+
+The stun chance increases with your Accuracy.
+}}

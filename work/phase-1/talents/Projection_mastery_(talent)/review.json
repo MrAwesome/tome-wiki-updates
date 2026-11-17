@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "c106b7898411ce45521b62ff0c5895b5857c069b5ec95f7db559f36c3a617edf",
+    "revid": 1599
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "baseline_preserved"
+    }
+  ],
+  "identity": {
+    "filename": "Projection_mastery_(talent)",
+    "kind": "talent",
+    "pageid": 1266,
+    "wiki_title": "Projection mastery (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "baseline_preserved",
+    "candidate_page_sha256": "c106b7898411ce45521b62ff0c5895b5857c069b5ec95f7db559f36c3a617edf",
+    "source_sha256": null,
+    "status": "unmatched_source",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "c106b7898411ce45521b62ff0c5895b5857c069b5ec95f7db559f36c3a617edf",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

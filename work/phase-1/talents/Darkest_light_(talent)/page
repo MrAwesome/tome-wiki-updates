@@ -1,0 +1,14 @@
+{{Ability box
+|name=Darkest Light
+|image=Darkest light.png
+|category_type={{ct|Celestial}}
+|category={{c|Eclipse}}
+|game_version=1.7.4
+|require={{TalentReq/DiviReq4}}
+|cost=25 Positive and 25 Negative
+|cooldown=15
+|range=0
+|use_speed=Spell
+|desc=
+Shroud foes within radius 10 in darkest light, dealing {{cts|10|50}} light and {{cts|10|50}} darkness damage per turn and converting {{cts|10|55%}} of the damage they deal between light and darkness for 5 turns.
+}}

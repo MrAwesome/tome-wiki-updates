@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "9b87c343df3a15ca64f93e9ec1fe6e1999fa83a98fa03303680d9feb1ff6c70f",
+    "revid": 19377
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Night_sphere_(talent)",
+    "kind": "talent",
+    "pageid": 5565,
+    "wiki_title": "Night sphere (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "d42e79c59e58741310a185ce46ec397c09ad469d7ec5043c5331664ef3aa04c8",
+    "source_sha256": "04bc75de4d86a0231b1b3a65e4be5344e2ac559a80b89fc09c3e0a1619a26c28",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "d42e79c59e58741310a185ce46ec397c09ad469d7ec5043c5331664ef3aa04c8",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

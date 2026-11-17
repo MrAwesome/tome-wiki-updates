@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "29b31dc23e4322ff10153a81566c1414beb79989b624ec9f2acf1d7102e3b862",
+    "revid": 13741
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Headshot_(talent)",
+    "kind": "talent",
+    "pageid": 4681,
+    "wiki_title": "Headshot (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "0947d244b6dfba92bf37c4900ca82f435fb085bb461f2adcd1bbc9914fe1ccd9",
+    "source_sha256": "4c26268cd967d35171d9854350db863fa31306bb2c90ae324ed7dfad644f11ea",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "0947d244b6dfba92bf37c4900ca82f435fb085bb461f2adcd1bbc9914fe1ccd9",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

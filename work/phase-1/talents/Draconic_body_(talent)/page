@@ -1,0 +1,12 @@
+{{Ability box
+|game_version=1.7.6
+|image=Draconic body.png
+|name=Draconic Body
+|category_type=[[Prodigies]]
+|category=[[Prodigies#Constitution|Constitution]]
+|require=Constitution 50<br />Consume the [[Heart of the Sandworm Queen]] or its corrupted counterpart<br />Consume the [[Wyrm Bile]]
+|use_mode=Passive
+|cooldown=15
+|desc=
+Your body hardens and recovers quickly. When pushed below 30% life, you instantly restore 40% of your total life.
+}}

@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "41d4d78a3926932522b575a1dbf19bb784eb432740170d16bc5209a73ce74af7",
+    "revid": 8075
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Manathrust_(talent)",
+    "kind": "talent",
+    "pageid": 1401,
+    "wiki_title": "Manathrust (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "89f1c38057b6634047406003d5f30454ba2a30ea876a9eddc319e9cf20980e66",
+    "source_sha256": "b1b1401244611b4bf3bd1ae39c8a6a44256c16e5792a81c21a71d80ceb2fc835",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "89f1c38057b6634047406003d5f30454ba2a30ea876a9eddc319e9cf20980e66",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

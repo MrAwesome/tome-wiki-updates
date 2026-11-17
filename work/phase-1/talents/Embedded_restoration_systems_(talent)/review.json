@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "b437c81f3d6e7594ac5fe0c4a2de39965a5b3ad5fd81c18aa029f5e46907b983",
+    "revid": 22357
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Embedded_restoration_systems_(talent)",
+    "kind": "talent",
+    "pageid": 5160,
+    "wiki_title": "Embedded restoration systems (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "d395f2f291e92385f12de1b9b833519b7cfd931e5925e90e6d6bb69870a91b91",
+    "source_sha256": "1c30987300f12e9c1b0056c95d7765d985c80f85adf2fca9bd6121f6fbb2d3f0",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "d395f2f291e92385f12de1b9b833519b7cfd931e5925e90e6d6bb69870a91b91",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

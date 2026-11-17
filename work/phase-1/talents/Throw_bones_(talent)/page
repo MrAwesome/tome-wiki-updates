@@ -1,0 +1,12 @@
+{{Ability_box
+|name=Throw Bones
+|image=Throw bones.png
+|game_version=1.4.9
+|category_type=Undead
+|category=Other
+|range=10
+|cooldown=6
+|desc=<span>
+Throws a pack of bones at your target doing {{physical}} damage as bleeding.
+<br/>The damage will increase with the Strength stat: {{CS|(Str * Talent Level)|20|0|420|500}}
+</span>}}

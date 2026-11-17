@@ -1,0 +1,16 @@
+{{Ability box
+|image=volley.png
+|name=Volley
+|game_version=1.7.6
+|category_type={{ct|Technique}}
+|category={{c|Archery Prowess}}
+|require={{TalentReq/TechsDexReq2}}
+|cost=16 Stamina
+|range=Archery Range
+|cooldown=8
+|travel_speed=Instantaneous
+|use_speed=Archery
+|desc=
+You fire countless shots into the sky to rain down around your target, inflicting {{ctwd|60|140%}} weapon damage to all within radius {{cts|2|4}}.
+If the primary target is marked, you consume the mark to fire a second volley of arrows for {{ctwd|45|105%}} damage at no ammo cost.
+}}

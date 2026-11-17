@@ -1,0 +1,15 @@
+{{Ability box
+|image=Net projector.png
+|name=Net projector
+|game_version=1.7.6
+|embers_version=1.1.10
+|category_type={{ct|Steamtech}}
+|category={{c|Automation}}
+|require={{TalentReq/SteamReq3}}
+|cooldown=15
+|cost=40 Steam
+|range=8
+|desc=Sends a lightly electrified net of radius 2 toward a target, all creatures caught inside will be pinned in place for 5 turns.
+
+While the electricity is not enough to do damage it does shock their body, reducing all resistances by {{ctl|70%|20|50%}}.
+}}

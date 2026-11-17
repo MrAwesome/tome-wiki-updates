@@ -1,0 +1,21 @@
+{{Ability box
+|image=Instill fear.png
+|name=Instill Fear
+|game_version=1.7.6
+|category_type={{ct|Cursed}}
+|category={{c|Fears}}
+|require={{TalentReq/CursedWilReq1}}
+|use_mode=Activated
+|range=8
+|cost=8 Hate
+|cooldown=8
+|use_speed=Mind
+|desc=Instill fear in your foes within 2 radius of a target location dealing ({{ctmd|10|75}} / 2) {{mind}} and ({{ctmd|10|75}} / 2) {{darkness}} damage and causing one of 4 possible fears that last for 8 turns.<br />The targets can save vs your [[Mindpower]] to resist the effect.<br />Fear effects improve with your Mindpower.<br /><br />Possible fears are:<br />'''Paranoid:''' Gives the target an {{ctmd|20|40}}% chance (maximum 50%) to physically attack a nearby creature, friend or foe. If hit, their target will be afflicted with Paranoia as well.<br />'''Despair:''' Reduces {{mind}} resist, mindsave, armour and defence by {{ctmd|15|40}}.<br />'''Terrified:''' Deals ({{ctmd|5|20}} / 2) {{mind}} and ({{ctmd|5|20}} / 2) {{darkness}} damage per turn and increases cooldowns by {{ctmd|25|60}}%.<br />'''Haunted:''' Causes the target to suffer ({{ctmd|10|30}} / 2) {{mind}} and ({{ctmd|10|30}} / 2) {{darkness}} damage for each detrimental mental effect every turn.
+|avail=Artifacts: [[The Face of Fear]], [[Ruthless Grip]]
+|avail.classes=[[Cursed]], [[Doomed]]
+}}
+===Notes===
+*Paranoid uses a hidden counter with a randomized starting number rather than a separate attack roll each turn. Each time the target acts, the listed chance is added to the counter, halved if it saves against your Mindpower. When the counter exceeds 100, it removes 100 and the target attempts to attack an adjacent creature.
+**Spreading Paranoia requires a successful hit, followed by the victim failing its fear immunity check and mental save. It can't spread back to the caster.
+*The fear is chosen from those the target does not already have. A target can have all four fears at once.
+*The initial damage and Terrified damage values are rounded down before being divided by 2. Terrified's cooldown increase is also rounded down.

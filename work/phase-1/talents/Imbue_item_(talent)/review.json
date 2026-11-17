@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "da77342db24d7ac414dbf16853d7d2d0f9f2d0785dcc0d872d0e18b0e58d908c",
+    "revid": 22989
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "baseline_preserved"
+    }
+  ],
+  "identity": {
+    "filename": "Imbue_item_(talent)",
+    "kind": "talent",
+    "pageid": 1407,
+    "wiki_title": "Imbue item (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "baseline_preserved",
+    "candidate_page_sha256": "da77342db24d7ac414dbf16853d7d2d0f9f2d0785dcc0d872d0e18b0e58d908c",
+    "source_sha256": "a11363e3eeedd88555a1a7f927b8a4b722fd9937e4f57e915432650b5640d389",
+    "status": "unsupported_info",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "da77342db24d7ac414dbf16853d7d2d0f9f2d0785dcc0d872d0e18b0e58d908c",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

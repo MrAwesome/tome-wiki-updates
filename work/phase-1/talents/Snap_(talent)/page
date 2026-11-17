@@ -1,0 +1,15 @@
+{{Ability_box
+|image=Snap_2017.png
+|name=Snap
+|game_version=1.5.2
+|category_type=[[Cunning (category type)|Cunning]]
+|category=[[Lethality (category)|Lethality]]
+|require={{TalentReq/CunsReq4}}
+|use_mode=Activated
+|cost=25 Stamina
+|cooldown=30
+|travel_speed=Instantaneous
+|use_speed=Combat
+|desc=
+Your quick wits allow you to reset the cooldown of up to {{CTS|2|7|log}} of your combat talents ({{ct|Cunning}} or {{ct|Technique}}) of tier (Talent Level) or less.
+}}

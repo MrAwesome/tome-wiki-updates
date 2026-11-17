@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "a63fc06447502778c59fd41a990d0529ec698ca286a64993d865b470750cbf26",
+    "revid": 19584
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Painful_agony_(talent)",
+    "kind": "talent",
+    "pageid": 5313,
+    "wiki_title": "Painful agony (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "4c3204e35e4e239da65d5dcba96432ae825b3b0fc0258b46a8583d763e4c682a",
+    "source_sha256": "469dd52ed0413b59395dc7ae46a0a8a0e4eaca5ce8c85e430df6e489e899a3d3",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "4c3204e35e4e239da65d5dcba96432ae825b3b0fc0258b46a8583d763e4c682a",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

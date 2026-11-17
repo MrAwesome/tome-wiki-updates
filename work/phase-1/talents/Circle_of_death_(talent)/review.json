@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "e90554941c8dc131a04588ca25f74b757fc9ebccb2d6f80c84de6cc44ed42a60",
+    "revid": 13236
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:58Z",
+      "event": "deterministic_render_applied",
+      "reason": "baseline_preserved"
+    }
+  ],
+  "identity": {
+    "filename": "Circle_of_death_(talent)",
+    "kind": "talent",
+    "pageid": 1512,
+    "wiki_title": "Circle of death (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "baseline_preserved",
+    "candidate_page_sha256": "e90554941c8dc131a04588ca25f74b757fc9ebccb2d6f80c84de6cc44ed42a60",
+    "source_sha256": null,
+    "status": "unmatched_source",
+    "updated_at": "2026-11-08T16:08:58Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "e90554941c8dc131a04588ca25f74b757fc9ebccb2d6f80c84de6cc44ed42a60",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

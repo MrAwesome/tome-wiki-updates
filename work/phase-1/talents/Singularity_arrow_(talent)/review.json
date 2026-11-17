@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "eeb0f33a184b2fc8cbae22d9c001d7f191b39757b2a29cdc6a0f24ccc65a91b2",
+    "revid": 11546
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Singularity_arrow_(talent)",
+    "kind": "talent",
+    "pageid": 4288,
+    "wiki_title": "Singularity arrow (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "5f49bcc109fe458a338261cdafa64dd5ff3981a74c47ef649d10ade71079dad1",
+    "source_sha256": "23fb5027225c3996c8ac0632edc123352613760ed343af1c70835a235afa6f95",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "5f49bcc109fe458a338261cdafa64dd5ff3981a74c47ef649d10ade71079dad1",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

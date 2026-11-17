@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "cbdcfd7ca97f4e14821acebff2ed0575e8f93d750d9474917b86938159914d24",
+    "revid": 22537
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:58Z",
+      "event": "deterministic_render_applied",
+      "reason": "baseline_preserved"
+    }
+  ],
+  "identity": {
+    "filename": "Astral_path_(talent)",
+    "kind": "talent",
+    "pageid": 6961,
+    "wiki_title": "Astral path (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "baseline_preserved",
+    "candidate_page_sha256": "cbdcfd7ca97f4e14821acebff2ed0575e8f93d750d9474917b86938159914d24",
+    "source_sha256": "58e81b71d6c0a26b1da120f0e94892c00d2791569c06482bc5c32e44b356219c",
+    "status": "unsupported_info",
+    "updated_at": "2026-11-08T16:08:58Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "cbdcfd7ca97f4e14821acebff2ed0575e8f93d750d9474917b86938159914d24",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

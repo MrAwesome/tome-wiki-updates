@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "2390433546d0e5e5d69ed4a06c46ca1f26b6fb69ce4fa0f4345bbc152b87338b",
+    "revid": 13661
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Shadow_senses_(talent)",
+    "kind": "talent",
+    "pageid": 3354,
+    "wiki_title": "Shadow senses (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "7b74e085b2fad55eaa0b3a2d35ec22944c0f27eb314dd83d3bdffd8ea21857d4",
+    "source_sha256": "64b3f25a00038b1f8fda7f8ced5143484c8f364bfaafd084f4726ace2d9973f0",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "7b74e085b2fad55eaa0b3a2d35ec22944c0f27eb314dd83d3bdffd8ea21857d4",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

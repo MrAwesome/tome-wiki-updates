@@ -1,0 +1,22 @@
+{{Ability box
+|game_version = 1.7.6
+|image=Forge shield.png
+|name=Forge Shield
+|category_type={{ct|Psionic}}
+|category={{c|Dream Forge}}
+|require={{TalentReq/PsiWilHigh1}}
+|use_mode=Sustained
+|cost=50 Psi
+|cooldown=12
+|use_speed = Mind
+|desc=
+When an attack would deal 15% or more of your effective total health, you forge the Dream Shield to protect yourself, reducing the damage of all attacks of that type by {{ctmd|5|30}} for the next {{cts|1|2}} turn(s).
+
+You may block multiple damage types at one time, but the base damage threshold increases by 15% per damage type the shield is already blocking.
+
+If you block all of an attack's damage, the attacker will be vulnerable to a deadly counterstrike (a normal melee or ranged attack will instead deal 200% damage) for one turn.
+
+At talent level 5, the block effect will last two turns.
+
+This damage reduction scales with your Mindpower.
+}}

@@ -1,0 +1,11 @@
+{{Ability_box
+|image=Toxic_death_2017.png
+|name=Toxic death
+|game_version=1.7.6
+|category_type=[[Cunning (category type)|Cunning]]
+|category=[[Poisons (category)|Poisons]]
+|require={{TalentReq/CunsReq2}}
+|use_mode=Passive
+|desc=
+When you kill a creature, all of your poisons affecting it will spread to foes in a radius of {{ctl|10|2|5}}.
+}}

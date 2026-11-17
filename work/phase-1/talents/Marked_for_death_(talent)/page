@@ -1,0 +1,18 @@
+{{Ability_box
+|image=marked_for_death.png
+|name=Marked for Death
+|game_version=1.5.2
+|category_type=[[Technique (category type)|Technique]]
+|category=[[Assassination (category)|Assassination]]
+|require={{TalentReq/TechsDexReqHigh4}}
+|cost=30 Stamina
+|range=10
+|cooldown=25
+|travel_speed=Instantaneous
+|use_speed=Weapon
+|desc=
+You mark a target for death for 4 turns, causing them to take {{cTS|15|40%}} increased damage from all sources. When this effect ends they will immediately take physical damage equal to {{ctstd|Dex|15|180}} plus {{cTL|50%|10|40%}} of all damage taken while marked.<br>
+If a target dies while marked, the cooldown of this ability is reset and the cost refunded.<br>
+This ability can be used without breaking stealth.
+The base damage dealt will increase with your Dexterity.
+}}

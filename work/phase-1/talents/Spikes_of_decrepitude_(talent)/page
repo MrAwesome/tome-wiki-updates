@@ -1,0 +1,24 @@
+{{Ability_box
+|game_version = 1.7.6
+|name = Spikes of Decrepitude
+|image = spikes of decrepitude.png
+|category_type={{ct|Spell}}
+|category={{c|Necrosis}}
+|require = {{TalentReq/SpellsReq4}}
+|use_mode = Sustained
+|cost = 10 Mana, 2 Soul
+|cooldown = 10
+|use_speed = Spell
+|desc = 
+Each turn you unleash dark powers through your runeskin.
+
+For each rune you have a random foe in sight will be hit by a spike of decrepitude, dealing {{ctspd|5|70}} frostdusk damage.
+
+A foe can only be hit by one spike per turn.
+
+If your life is below 1, the spikes also reduce all damage done by the targets by {{ctl|50%|8|25%}}.
+
+''Note: this talent will only target enemies within radius 10''
+
+''(This ability only works if you have 0 infusions on, it is not stated)''
+}}

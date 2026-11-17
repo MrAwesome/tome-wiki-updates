@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "eda5cecc0ab6e57a708b1392d644cdd03d027302a2d25610fe580b25c3876398",
+    "revid": 11135
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Volley_of_arrows_(talent)",
+    "kind": "talent",
+    "pageid": 1177,
+    "wiki_title": "Volley of arrows (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "6634dc315186b5cbe71bbad527ecf57e5e3c236fa545b97b4c4420e0ba97ca45",
+    "source_sha256": "f9007e3dc6f708a0c9e8bc865fde224e21250bee5534326c9405a58cfd98a970",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "6634dc315186b5cbe71bbad527ecf57e5e3c236fa545b97b4c4420e0ba97ca45",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

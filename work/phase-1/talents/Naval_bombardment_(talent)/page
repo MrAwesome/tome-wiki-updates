@@ -1,0 +1,16 @@
+{{Ability box
+|image=Explode.png
+|name=Naval Bombardment
+|category_type={{ct|Cunning}}
+|category={{c|Piracy}}
+|require={{TalentReq/CunsReq4}}
+|range=10
+|cost=5 Gold
+|cooldown=24
+|desc=
+Call forth a powerful cannonade for {{cts|5|9}} turns.  Each turn, the bombardment will pull in targets within a radius of (1 + Talent Level / 3) rounded up, to a maximum of 4, and inflict {{ctmd|100|500}} physical damage.
+
+The intense pressure of the bombardment will weaken affected targets, decrease physical resistance by (''number of talent points in {{c|Piracy}}'')% and remove up to {{cts|1|5|log}} sustains from targets.
+
+Investing in this talent will increase your physical resistance penetration.
+}}

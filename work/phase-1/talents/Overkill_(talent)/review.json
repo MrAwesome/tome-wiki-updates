@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "7a9da9b062c6d5c23902fc5882dc2e877bb7280bdf890af7b11d561f96dcd88e",
+    "revid": 18532
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "baseline_preserved"
+    }
+  ],
+  "identity": {
+    "filename": "Overkill_(talent)",
+    "kind": "talent",
+    "pageid": 1137,
+    "wiki_title": "Overkill (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "baseline_preserved",
+    "candidate_page_sha256": "7a9da9b062c6d5c23902fc5882dc2e877bb7280bdf890af7b11d561f96dcd88e",
+    "source_sha256": "bcb7d6b5c1c154dbe8844de4ad32fd7b3084424ff84d9e2d6ddeafbba98c2418",
+    "status": "unsupported_info",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "7a9da9b062c6d5c23902fc5882dc2e877bb7280bdf890af7b11d561f96dcd88e",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "2b68443759583148fc7e73d50cf14c1638b802a8aed440b09d41c9c3025ab501",
+    "revid": 13865
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:58Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Absorption_strike_(talent)",
+    "kind": "talent",
+    "pageid": 3339,
+    "wiki_title": "Absorption strike (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "1a570defa23759a1d19fe1754f83205ed1772f777bc0111efb9fb55a5b463c2c",
+    "source_sha256": "887234cdb85795b70b487d8e74bcfb8673a3cea3f96688bf823fa1834b03aed5",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:58Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "1a570defa23759a1d19fe1754f83205ed1772f777bc0111efb9fb55a5b463c2c",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

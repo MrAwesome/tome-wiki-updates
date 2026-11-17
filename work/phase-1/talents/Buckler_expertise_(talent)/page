@@ -1,0 +1,14 @@
+{{Ability_box
+|game_version=1.7.6
+|name=Buckler Expertise
+|image=Buckler expertise.png
+|category_type={{ct|Technique}}
+|category={{c|Buckler Training}}
+|require={{TalentReq/TechsDexReq1}}
+|use_mode=Passive
+|desc=
+Allows shields to be equipped, using Cunning instead of strength as a requirement.
+When you are attacked in melee, you have a {{gtl|1|5}} chance to deflect the attack with your shield, completely evading it.
+In addition, as long as you are wearing armour no heavier than leather, you gain {{ctl|20|3|15}} Armour and {{ctl|30%|10|25%}} Armour hardiness.
+The chance to deflect increases with your Cunning.
+}}

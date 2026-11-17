@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "747391b3ebab69734d6995b994a5c8dd6b82d94b8eed47e6c59cf3c1263d9a09",
+    "revid": 11272
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:58Z",
+      "event": "deterministic_render_applied",
+      "reason": "baseline_preserved"
+    }
+  ],
+  "identity": {
+    "filename": "Celerity_(talent)",
+    "kind": "talent",
+    "pageid": 1323,
+    "wiki_title": "Celerity (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "baseline_preserved",
+    "candidate_page_sha256": "747391b3ebab69734d6995b994a5c8dd6b82d94b8eed47e6c59cf3c1263d9a09",
+    "source_sha256": "9caddc463d9858a91c0f47f7852c2665cac1d765a52f6f7a82d059faaa34769f",
+    "status": "unsupported_info",
+    "updated_at": "2026-11-08T16:08:58Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "747391b3ebab69734d6995b994a5c8dd6b82d94b8eed47e6c59cf3c1263d9a09",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

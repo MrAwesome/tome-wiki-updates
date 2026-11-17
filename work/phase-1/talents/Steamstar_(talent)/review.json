@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "282ac1ae328f086f9e5d7094fa93d5e15ddf7fc9e99fb66858a837e89133751c",
+    "revid": 22325
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Steamstar_(talent)",
+    "kind": "talent",
+    "pageid": 5188,
+    "wiki_title": "Steamstar (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "cddac41eab79d0d2a2f7b9f5d5364584148e54550e80ed89ad85ed060b1057dc",
+    "source_sha256": "e6e5f57a088fe6f750d2ef8daeef2b37f4dd255ba5bdcb81f24a04f67e23229b",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "cddac41eab79d0d2a2f7b9f5d5364584148e54550e80ed89ad85ed060b1057dc",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

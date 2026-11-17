@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "782c9e4f1adbadea408b8cca6fb88758343a6a8db68add3f09b547d7d35d0deb",
+    "revid": 11600
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "baseline_preserved"
+    }
+  ],
+  "identity": {
+    "filename": "Phase_pulse_(talent)",
+    "kind": "talent",
+    "pageid": 4305,
+    "wiki_title": "Phase pulse (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "baseline_preserved",
+    "candidate_page_sha256": "782c9e4f1adbadea408b8cca6fb88758343a6a8db68add3f09b547d7d35d0deb",
+    "source_sha256": "71dfb0690a1f36b6189188259bcda0f1a6cb13796ade69a3b9b11d098783ab41",
+    "status": "unsupported_info",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "782c9e4f1adbadea408b8cca6fb88758343a6a8db68add3f09b547d7d35d0deb",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

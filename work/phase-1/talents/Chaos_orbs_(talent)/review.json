@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "a679e08459c1be894d5fbb7f5b94f722e4c6012db42f316649a0bcc0291a1408",
+    "revid": 15208
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:58Z",
+      "event": "deterministic_render_applied",
+      "reason": "baseline_preserved"
+    }
+  ],
+  "identity": {
+    "filename": "Chaos_orbs_(talent)",
+    "kind": "talent",
+    "pageid": 5321,
+    "wiki_title": "Chaos orbs (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "baseline_preserved",
+    "candidate_page_sha256": "a679e08459c1be894d5fbb7f5b94f722e4c6012db42f316649a0bcc0291a1408",
+    "source_sha256": "413bd311b854a8c4b13b67dc6cb9a4433acb768ab6f865f14a75d2d904a19e97",
+    "status": "unsupported_info",
+    "updated_at": "2026-11-08T16:08:58Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "a679e08459c1be894d5fbb7f5b94f722e4c6012db42f316649a0bcc0291a1408",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

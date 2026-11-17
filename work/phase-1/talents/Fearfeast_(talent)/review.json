@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "078475a933465aad2bbac60f003fcd14537c60cc08c925b1a4ff83af1bd34432",
+    "revid": 9690
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Fearfeast_(talent)",
+    "kind": "talent",
+    "pageid": 3762,
+    "wiki_title": "Fearfeast (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "18d1bd84b5ac1084253e6d4b00894b169f8b7dc1ce9cb63c712903887babf619",
+    "source_sha256": "4df44bc89ced7fc9fdd1e5daeec8ac83cf106c835fb2faf25c175316ff5cc3b3",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "18d1bd84b5ac1084253e6d4b00894b169f8b7dc1ce9cb63c712903887babf619",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

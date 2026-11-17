@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "4b83338086000fee78d8326a7335d4723a30d5148dbb7da14e0f1e58d8fc4408",
+    "revid": 13845
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:58Z",
+      "event": "deterministic_render_applied",
+      "reason": "baseline_preserved"
+    }
+  ],
+  "identity": {
+    "filename": "Assassinate_(talent)",
+    "kind": "talent",
+    "pageid": 4886,
+    "wiki_title": "Assassinate (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "baseline_preserved",
+    "candidate_page_sha256": "4b83338086000fee78d8326a7335d4723a30d5148dbb7da14e0f1e58d8fc4408",
+    "source_sha256": "8a1d55511ff0273bfc9f4193b98de2269372475ffafc5c8185257d59bb7ad4d3",
+    "status": "unsupported_info",
+    "updated_at": "2026-11-08T16:08:58Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "4b83338086000fee78d8326a7335d4723a30d5148dbb7da14e0f1e58d8fc4408",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

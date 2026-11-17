@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "549f6804e988a852504fe9a4c2b9a7031273b03e78a63810f66fddf01f5bc8ec",
+    "revid": 19182
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Grasping_moss_(talent)",
+    "kind": "talent",
+    "pageid": 1131,
+    "wiki_title": "Grasping moss (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "816ceeecb1cf68998f7236387032092f4b3b9db3b58263541d11bb0959c4315f",
+    "source_sha256": "fb8f64f551bf86d0c54ca3e6ea50f3c4c3b8f09de7155a8b20392438bf2e0607",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "816ceeecb1cf68998f7236387032092f4b3b9db3b58263541d11bb0959c4315f",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

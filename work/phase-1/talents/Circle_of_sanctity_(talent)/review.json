@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "38503d7b178ce950e818702c0fb40b1307db18c96c0f500f34b32bcb728f0934",
+    "revid": 19087
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:58Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Circle_of_sanctity_(talent)",
+    "kind": "talent",
+    "pageid": 134,
+    "wiki_title": "Circle of sanctity (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "826e5ce24afe2de19533750963041345e70078cb591fc381cc21875811656c78",
+    "source_sha256": "5a2be93420eb9484fcf0accd9dd013c61eed865065826c0902eeb970e7b9786a",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:58Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "826e5ce24afe2de19533750963041345e70078cb591fc381cc21875811656c78",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

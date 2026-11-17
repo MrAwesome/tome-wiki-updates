@@ -1,0 +1,17 @@
+{{Ability_box
+|game_version = 1.7.6
+|name = Blood Rage
+|image = Blood_rage.png
+|category_type = {{ct|Cursed}}
+|category = {{c|Bloodstained}}
+|require = {{TalentReq/CursedStrReq2}}
+|use_mode = Activated
+|cost = 10 Hate, Gain 10 Positive
+|range = 1
+|cooldown = 8 (Fixed)
+|use_speed = Mind
+|desc =
+Cut into an enemy and twist the blade, dealing {{ctwd|80|200%}} damage and increasing the intensity of their existing bleed effects by {{cts|139|279%}}.
+
+Each point in Bloodstained talents reduces the amount of damage you take from bleed effects by 2%
+}}

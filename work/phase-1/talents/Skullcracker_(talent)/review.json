@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "6635c751d19d5c4c19c0964816c4d6556be05bd8a72d73c952828af4492161fc",
+    "revid": 8070
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "baseline_preserved"
+    }
+  ],
+  "identity": {
+    "filename": "Skullcracker_(talent)",
+    "kind": "talent",
+    "pageid": 1365,
+    "wiki_title": "Skullcracker (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "baseline_preserved",
+    "candidate_page_sha256": "6635c751d19d5c4c19c0964816c4d6556be05bd8a72d73c952828af4492161fc",
+    "source_sha256": "ab19db2fe612ebc4304972d2fcdf569932cc2988b9686990a4def94b512bbb8e",
+    "status": "unsupported_info",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "6635c751d19d5c4c19c0964816c4d6556be05bd8a72d73c952828af4492161fc",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

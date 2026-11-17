@@ -1,0 +1,15 @@
+{{Ability box
+|game_version=1.7.6
+|image=Burning wake_2017.png
+|name=Burning Wake
+|category_type={{ct|Spell}}
+|category={{c|Wildfire}}
+|require={{TalentReq/SpellsReqHigh2}}
+|use_mode=Sustained
+|cost=40 Mana
+|cooldown=30
+|desc=
+Your {{t|Flame}}, {{t|Flameshock}}, {{t|Fireflash}} and {{t|Blastwave}} spells leave a burning wake on the ground, burning all within for {{ctspd|10|55}} fire damage for 4 turns.
+
+The damage will increase with your Spellpower.
+}}

@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "7de582e435a31c9b2199ebd287a05859127db22522cbb6fca30739090081723f",
+    "revid": 16638
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:58Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Crafty_hands_(talent)",
+    "kind": "talent",
+    "pageid": 3446,
+    "wiki_title": "Crafty hands (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "d274959092f692813a2f6c0efec46686273450f42de69a95e11f0a46e0a10952",
+    "source_sha256": "2c885ee19750c56b1cf749b256add8a4f805d55a97bc0155b6724f4dccba5703",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:58Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "d274959092f692813a2f6c0efec46686273450f42de69a95e11f0a46e0a10952",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

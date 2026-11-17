@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "260a4300f78f7d3e2dbb4782127ff3e6b0d82e35bcf0c6dff0c6637cab4554f0",
+    "revid": 10965
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:58Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Charm_mastery_(talent)",
+    "kind": "talent",
+    "pageid": 1548,
+    "wiki_title": "Charm mastery (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "d8310c4464648f83c2fbd62522d78e99988b7055cb49b80b471ef01f3f5de124",
+    "source_sha256": "dc640c1af5d22a45472d843380c9de01334530b3831bd2b9fe88ee0cba3abc23",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:58Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "d8310c4464648f83c2fbd62522d78e99988b7055cb49b80b471ef01f3f5de124",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

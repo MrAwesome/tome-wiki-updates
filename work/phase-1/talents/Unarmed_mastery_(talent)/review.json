@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "a24a22cdf9d0524685d823f948564ff806ecf62fd33f528aa9525311dccb3ab7",
+    "revid": 11118
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "baseline_preserved"
+    }
+  ],
+  "identity": {
+    "filename": "Unarmed_mastery_(talent)",
+    "kind": "talent",
+    "pageid": 1462,
+    "wiki_title": "Unarmed mastery (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "baseline_preserved",
+    "candidate_page_sha256": "a24a22cdf9d0524685d823f948564ff806ecf62fd33f528aa9525311dccb3ab7",
+    "source_sha256": "f6860eae478ac6b3f2bcd2a822c3dfbcc384e50c55239d337dcc624569fb1822",
+    "status": "unsupported_info",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "a24a22cdf9d0524685d823f948564ff806ecf62fd33f528aa9525311dccb3ab7",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

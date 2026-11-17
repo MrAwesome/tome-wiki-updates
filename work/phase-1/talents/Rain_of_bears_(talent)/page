@@ -1,0 +1,19 @@
+{{Ability_box
+|name=Rain of Bears
+|image=Bearscape_rain_of_bears.png
+|category_type={{ct|Other}}
+|category={{c|Other}}
+|game_version=1.7.4
+|range=6
+|cooldown=100
+|use_speed=Global Speed
+|desc=By calling upon the ''beary'' awesome power of the '''Bearscape''' you call down floor({{cts|3.3|4.8|log}}) meteors that fall to the ground within range 2 of the target.
+
+Each meteor smashes everything within radius 2, dealing {{ctstd|Con|20|180}}/2 fire and {{ctstd|Con|20|180}}/2 physical damage to creatures other than yourself. Upon impact they explode, revealing their awesome content: a living, very angry bear that stays with you for floor({{cts|8|15}}) turns!
+
+The damage increases with your Constitution.
+
+''{{Color|Firebrick|Impawssible?!}}''
+}}
+'''Notes:''' 
+* This item is a drop from [[Borius, Avatar of Bearness]] found in the [[Bearscape]]

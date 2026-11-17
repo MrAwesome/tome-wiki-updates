@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "6fc188c0527a71996b3fbd2031fc9f860b771d837c613b466b5f9de9be492d30",
+    "revid": 20130
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Quick_recovery_(talent)",
+    "kind": "talent",
+    "pageid": 1541,
+    "wiki_title": "Quick recovery (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "fb86afc131c40bca9a20569a9150ae891270b2ae0b0cc9a917ad46c4d33c1869",
+    "source_sha256": "52577655ef879a15ae0034f7294be0be57199e63693109f9f5f4b7d3a227012f",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "fb86afc131c40bca9a20569a9150ae891270b2ae0b0cc9a917ad46c4d33c1869",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

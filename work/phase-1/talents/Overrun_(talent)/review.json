@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "458aa623ea3cc718ba17a536041537b230bed077efd5cbd2c4f749d15e1a25a0",
+    "revid": 22506
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Overrun_(talent)",
+    "kind": "talent",
+    "pageid": 6936,
+    "wiki_title": "Overrun (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "766d3a0dae5fb3d108d444d8013cf520ff0593190ae6cd0e1a2cc1411bdbd5a7",
+    "source_sha256": "d4a229c033179400bfeecdf22a6d8c7d8b890754f25cecd82908d413c3fa5102",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "766d3a0dae5fb3d108d444d8013cf520ff0593190ae6cd0e1a2cc1411bdbd5a7",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "146ec540eb537bce1960f00cc27b74f0126c50454669f323c3429a11818ba6eb",
+    "revid": 8330
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:58Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Circle_of_blazing_light_(talent)",
+    "kind": "talent",
+    "pageid": 135,
+    "wiki_title": "Circle of blazing light (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "38c40dab486b5c97165df483c5c9c5e81461881faaa27b6eb4e24fc59a165ff2",
+    "source_sha256": "dc640c1af5d22a45472d843380c9de01334530b3831bd2b9fe88ee0cba3abc23",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:58Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "38c40dab486b5c97165df483c5c9c5e81461881faaa27b6eb4e24fc59a165ff2",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

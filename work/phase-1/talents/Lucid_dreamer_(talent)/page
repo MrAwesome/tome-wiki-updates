@@ -1,0 +1,18 @@
+{{Ability_box
+|game_version=1.7.6
+|image=Lucid dreamer.png
+|name=Lucid dreamer
+|category_type={{ct|Psionic}}
+|category={{c|Dreaming}}
+|require={{TalentReq/PsiWilReq2}}
+|use_mode=Sustained
+|cost=20 Psi
+|cooldown=12
+|desc=
+Slip into a lucid dream.  While in this state, you are considered sleeping, but can still act, are immune to insomnia, inflict {{ctmd|5|25}} more damage to targets under the effects of Insomnia, and your Physical, Mental, and Spell saves are increased by {{ctmd|5|25}}.
+
+Note that being asleep may make you more vulnerable to certain effects (such as Inner Demons, Night Terror, and Waking Nightmare).
+
+The saving throw bonuses scale with your Mindpower.
+|avail.escorts=[[Escorts#Temporal_Explorer_.28Arcane.29|Temporal Explorer (Arcane)]] ([[Escorts#Betraying_to_Zigur|Betray Escort to Zigur]]), via revealing the locked {{c|Dreaming}} category
+}}

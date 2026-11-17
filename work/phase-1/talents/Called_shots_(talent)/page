@@ -1,0 +1,17 @@
+{{Ability box
+|image=called_shots.png
+|name=Called Shots
+|game_version=1.7.6
+|category_type={{ct|Technique}}
+|category={{c|Archery Prowess}}
+|require={{TalentReq/TechsDexReq3}}
+|range=Archery Range
+|cost=25 Stamina
+|cooldown=15
+|travel_speed=Instantaneous
+|use_speed=Archery
+|desc=
+You fire a disabling shot at a target's throat (or equivalent), dealing {{ctwd|40|100%}} weapon damage and silencing them for {{cts|2|5}} turns.
+If the target is marked, you consume the mark to fire two secondary shots at their arms and legs (or other appendages) dealing {{ctwd|10|25%}} damage, reducing their movement speed by 50% and disarming them for the duration.
+The status chance increases with your Accuracy.
+}}

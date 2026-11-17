@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "02f06bf4a8ba471c32a551f0a2292cb9d8bdc06a7bc5f596a0fd5f38d4b03e2b",
+    "revid": 8921
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:58Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Domination_hex_(talent)",
+    "kind": "talent",
+    "pageid": 1157,
+    "wiki_title": "Domination hex (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "6b2364e54564e242b852b381453c199fcb07f1c3098bbe8917cfc5bba14b2243",
+    "source_sha256": "fae65124cfed77d795c99532ece18857a8529d35786a0d16737bda437b16d10c",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:58Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "6b2364e54564e242b852b381453c199fcb07f1c3098bbe8917cfc5bba14b2243",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

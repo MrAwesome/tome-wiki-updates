@@ -1,0 +1,18 @@
+{{Ability_box
+|game_version=1.7.6
+|image=Create alchemist gems.png
+|name=Create alchemist gems
+|category_type=[[Spell (category type)|Spell]]
+|category=[[Stone alchemy (category)|Stone Alchemy]]
+|require={{TalentReq/SpellsReq1}}
+|use_mode=Activated
+|cost=30 [[Mana]]
+|cooldown=0
+|desc=
+Carve 40 to 80 alchemist gems out of a natural gemstone.
+Alchemist gems are used for many other spells, and each gem type creates a different effect.
+
+''Note: This talent is granted upon learning [[Stone alchemy (category)|Stone Alchemy]]/[[Extract gems (talent)|Extract Gems]]. It cannot be unlearned by itself, nor can it be improved beyond level 1.''
+|avail.classes=[[Alchemist]], [[Stone Warden]]
+|avail.escorts=[[Escorts#Alchemist_.28Arcane.29|Alchemist (Arcane)]] (Normal Escort Reward), via revealing the locked {{c|Stone Alchemy}} category
+}}

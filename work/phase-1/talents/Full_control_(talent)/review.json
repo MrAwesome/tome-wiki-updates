@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "61065d30896b1cd171a2a0c4d962cf7734b971a339bef6a509ba7c732881467b",
+    "revid": 15126
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Full_control_(talent)",
+    "kind": "talent",
+    "pageid": 5277,
+    "wiki_title": "Full control (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "ccce913850b128937f88ffca06905c7c28744b3ad4637c1a66a017ad8c8ab956",
+    "source_sha256": "f40e059220d4975e17152cf14b43e91dac498c7dfb916540fced850b04e75024",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "ccce913850b128937f88ffca06905c7c28744b3ad4637c1a66a017ad8c8ab956",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

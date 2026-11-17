@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "21714d1660ced52cd4025b7875bcbb9ea46e37bbc5830f3e0fc018a53f0c9d21",
+    "revid": 13724
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "baseline_preserved"
+    }
+  ],
+  "identity": {
+    "filename": "Expose_weakness_(talent)",
+    "kind": "talent",
+    "pageid": 4652,
+    "wiki_title": "Expose weakness (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "baseline_preserved",
+    "candidate_page_sha256": "21714d1660ced52cd4025b7875bcbb9ea46e37bbc5830f3e0fc018a53f0c9d21",
+    "source_sha256": "c7074639320e277edbaae28e4d54032f6bae8cee33f23d0c69d1b9641787918d",
+    "status": "unsupported_info",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "21714d1660ced52cd4025b7875bcbb9ea46e37bbc5830f3e0fc018a53f0c9d21",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

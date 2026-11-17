@@ -1,0 +1,20 @@
+{{Ability box
+|image = Lock on.png
+|name = Lock On
+|game_version = 1.7.6
+|embers_version = 1.1.10
+|category_type = {{ct|Steamtech}}
+|category = {{c|Artillery}}
+|require = {{TalentReq/DexSteamReqHigh3}}
+|cooldown = 12
+|cost = 30 Steam
+|range = Steamgun range
+|use_speed = 0
+|desc = Lock on to your target with your rocket pod for 5 turns.
+
+While locked on your regular rocket pod attacks are disabled. However, each turn you automatically fire a rocket barrage dealing {{cts|80|160%}} increased damage at your target.
+
+Marked targets also lose {{ctstmd|15|50}} defense and cannot benefit from concealment or evasion.
+
+The defense loss will increase with your Steampower.
+}}

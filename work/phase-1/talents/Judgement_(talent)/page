@@ -1,0 +1,14 @@
+{{Ability_box
+|game_version=1.7.6
+|image=judgement.png
+|name=Judgement
+|category_type=[[Celestial (category type)|Celestial]]
+|category={{c|Radiance}}
+|require={{TalentReq/DiviReq4}}
+|use_mode=Activated
+|cost=20 Positive
+|cooldown=25
+|desc=
+Fire a glowing orb of light at each enemy within your Radiance.  Each orb will slowly follow its target until it connects, dealing {{ctspd|3|50}} light damage to anything else it contacts along the way.  When the target is reached the orb will explode dealing {{ctspd|30|250}} light damage in radius 1 and healing you for 50% of the damage dealt.
+All targets struck by your Judgement will be blighted by light, reducing saves by {{ctspd|6|50}}, reducing critical power by {{ctspd|5|40}}, and causing light damage received to splash in radius 2 for {{ctl|100%|25|55%}} damage against all hostile targets for 4 turns.
+}}

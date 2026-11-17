@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "f81aeca8aa6bf02bcfc40bbec2ee2885aceee94ca76da4c3f8875a70a9a26f19",
+    "revid": 8225
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:58Z",
+      "event": "deterministic_render_applied",
+      "reason": "baseline_preserved"
+    }
+  ],
+  "identity": {
+    "filename": "Deflection_(talent)",
+    "kind": "talent",
+    "pageid": 1370,
+    "wiki_title": "Deflection (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "baseline_preserved",
+    "candidate_page_sha256": "f81aeca8aa6bf02bcfc40bbec2ee2885aceee94ca76da4c3f8875a70a9a26f19",
+    "source_sha256": "46631029827dac8f1525624d89491d194b26dd2056189b017ece7276f50ca732",
+    "status": "unsupported_info",
+    "updated_at": "2026-11-08T16:08:58Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "f81aeca8aa6bf02bcfc40bbec2ee2885aceee94ca76da4c3f8875a70a9a26f19",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

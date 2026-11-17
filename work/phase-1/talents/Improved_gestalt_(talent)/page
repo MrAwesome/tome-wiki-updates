@@ -1,0 +1,16 @@
+{{Ability box
+|image=Improved gestalt.png
+|name=Improved gestalt
+|game_version=1.7.6
+|embers_version=1.1.10
+|category_type={{ct|Steamtech}}
+|category={{c|Gestalt}}
+|require={{TalentReq/PsiWilReq2}}
+|use_mode=Passive
+|cooldown=5
+|desc=When you use a steamtech talent while Gestalt is active you drain some residual power to form a psionic shield.
+
+The shield forms for 3 turns and absorbs {{CTMD|10|140}} damage.
+
+The effects increase with your Mindpower.
+}}

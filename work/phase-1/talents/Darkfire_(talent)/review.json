@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "6da2ec25840c8a88a6eddfe91d0209894225eefc4cc221c579c2f5c9a89b2249",
+    "revid": 13930
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:58Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Darkfire_(talent)",
+    "kind": "talent",
+    "pageid": 1100,
+    "wiki_title": "Darkfire (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "d7bd4d2dd9536ff0590ca061006ea835c156db3229bea410702783b756bdd65c",
+    "source_sha256": "af15b07aeb12fe21cf4374d4889c8a3569bd05c0d023e6793124840ead49d843",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:58Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "d7bd4d2dd9536ff0590ca061006ea835c156db3229bea410702783b756bdd65c",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "f3b48bef59de7c4d97482fde22589c0e51b33c01d723546dc3dcf2b8c26b837d",
+    "revid": 15345
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Frost_grab_(talent)",
+    "kind": "talent",
+    "pageid": 2972,
+    "wiki_title": "Frost grab (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "b31488386957750b523a58232584931a590269421e7bd2b3093805b2c35f7656",
+    "source_sha256": "dc640c1af5d22a45472d843380c9de01334530b3831bd2b9fe88ee0cba3abc23",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "b31488386957750b523a58232584931a590269421e7bd2b3093805b2c35f7656",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

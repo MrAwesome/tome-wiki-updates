@@ -1,0 +1,11 @@
+{{Ability_box
+|name=Poisonous Crawl
+|image=Crawl poison.png
+|category_type=Technique
+|category=other
+|game_version=1.7.6
+|range=1
+|cooldown=5
+|desc=
+Crawl onto the target, doing {{cts|300|700%|log}} damage and covering it in poison.
+}}

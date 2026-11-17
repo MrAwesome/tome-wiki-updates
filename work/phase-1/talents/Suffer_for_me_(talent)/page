@@ -1,0 +1,20 @@
+{{Ability_box
+|game_version = 1.7.4
+|name = Suffer For Me
+|image = suffer for me.png
+|category_type={{ct|Spell}}
+|category={{c|Master Necromancer}}
+|require = {{TalentReq/SpellsReqHigh4}}
+|use_mode = Sustained
+|cost = 30 Mana
+|cooldown = 30
+|use_speed = Spell
+|desc = 
+By creating an arcane link with your minion army you are able to redirect parts of any damage affecting you to them.
+
+Anytime you take damage (0.1 * {{ctspd|20|330}})% of it (max 40%) is instead redirected to a random minion within your aura of undeath.
+
+The minion takes 300% damage from that effect.
+
+The damage redirected percent depends on your Spellpower.
+}}

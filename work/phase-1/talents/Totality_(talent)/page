@@ -1,0 +1,17 @@
+{{Ability box
+|name=Totality
+|image=Totality.png
+|category_type={{ct|Celestial}}
+|category={{c|Eclipse}}
+|game_version=1.7.4
+|require={{TalentReq/DiviReq2}}
+|cost=15 Positive and 15 Negative
+|cooldown=30
+|use_speed=Spell
+|desc=
+For {{cts|5|9}} turns, increase your light and darkness resistance penetration by {{cl|(Cunning * Talent Level)|100%|5|0|55%|500}}
+
+Also reduces the cooldown of all {{ct|Celestial}} skills by {{cts|3|6|log}}.
+
+The resistance penetration will increase with your Cunning.
+}}

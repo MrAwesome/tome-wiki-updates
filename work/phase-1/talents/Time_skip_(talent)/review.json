@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "1a27c7fbb05eb42c896e5f5688d6a8bfb6717cb0d58190a7da9cf87d8a01f1ca",
+    "revid": 10320
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "baseline_preserved"
+    }
+  ],
+  "identity": {
+    "filename": "Time_skip_(talent)",
+    "kind": "talent",
+    "pageid": 1225,
+    "wiki_title": "Time skip (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "baseline_preserved",
+    "candidate_page_sha256": "1a27c7fbb05eb42c896e5f5688d6a8bfb6717cb0d58190a7da9cf87d8a01f1ca",
+    "source_sha256": "aa6ca390a27af48544efffd889c2ff020f5a482b35b682ec148890a19f3f0dec",
+    "status": "unsupported_info",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "1a27c7fbb05eb42c896e5f5688d6a8bfb6717cb0d58190a7da9cf87d8a01f1ca",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

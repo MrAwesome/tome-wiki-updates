@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "e49d537a4e9660b36d4af02ac317edd457ec136548984ccedbd728246ce08779",
+    "revid": 22982
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:58Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Channel_staff_(talent)",
+    "kind": "talent",
+    "pageid": 1706,
+    "wiki_title": "Channel staff (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "50e62c965ae88d9cd9277bd82ae9d5ddddd846b0f4f98231e64b32bde863eb21",
+    "source_sha256": "c68a316b764d54da527c0b2a3a502a0e93664ee26bc9938824f5ed9290827da9",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:58Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "50e62c965ae88d9cd9277bd82ae9d5ddddd846b0f4f98231e64b32bde863eb21",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

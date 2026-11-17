@@ -1,0 +1,11 @@
+{{Ability_box
+|game_version=1.4.9
+|image=Volcanic rock.png
+|name=Volcanic Rock
+|category_type={{ct|Spell}}
+|category={{c|Deeprock}}
+|require={{TalentReq/SpellsReqHigh2}}
+|use_mode=Passive
+|desc=
+When you turn into a Deeprock elemental your Arcane damage is increased by 5 + {{ctspd|10|250}}/10, Arcane damage penetration by {{ctl|100|6.6|13}} and you gain the power to invoke volcanos.
+}}

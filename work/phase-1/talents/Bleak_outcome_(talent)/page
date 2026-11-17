@@ -1,0 +1,17 @@
+{{Ability box
+|ashes_version=1.1.4
+|game_version=1.7.6
+|image=Bleak outcome.png
+|name=Bleak Outcome
+|category_type={{ct|Corruption}}
+|category={{c|Black-magic}}
+|require={{TalentReq/CorrsReq1}}
+|use_mode=Sustained
+|cooldown=10
+|desc=
+Your actions foreshadow a bleak outcome for your foes.
+Each time you deal darkness, fire, blight or acid damage you curse your foe with an effect that stacks up to {{cts|3|9}} times (this can happen only once per creature per turn).
+The vim you get for killing the creature is increased by 100% for every stack of Bleak Outcome.
+The vim's worth of a creature depends on your Willpower.
+|avail.classes=[[Demonologist]]
+}}

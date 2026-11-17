@@ -1,0 +1,20 @@
+{{Ability box
+|game_version=1.7.6
+|image=Channel staff.png
+|name=Channel Staff
+|category_type={{ct|Spell}}
+|category={{c|Staff Combat}}
+|require={{TalentReq/SpellsReq1}}
+|cost=5 Mana
+|cooldown=0
+|range=8
+|travel_speed=20
+|use_speed=Spell
+|desc=
+Channel raw mana through your staff, projecting a bolt of your staff's damage type, doing {{ctwd|40|110%}} staff damage.
+The bolt will only hurt hostile targets, and pass safely through friendly ones.
+This attack always has a 100% chance to hit, and ignores the target's Armour.
+When projecting a bolt with your staff its damage modifier is increased by 20%.
+|avail.shops=[[Angolwen]] ([[Age of Ascendancy]]) via [[Talent#Additional Talent Sources|purchasing]] {{c|Staff Combat}}
+|avail.escorts=[[Escorts#Alchemist_.28Arcane.29|Alchemist (Arcane)]] (Normal Escort Reward), +1 to talent or via revealing the locked {{c|Staff Combat}} category
+}}

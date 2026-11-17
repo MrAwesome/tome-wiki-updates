@@ -1,0 +1,21 @@
+{{Ability box
+|image = Plasma bolt.png
+|name = Plasma Bolt
+|game_version = 1.7.6
+|category_type = {{ct|Celestial}}
+|category = {{c|Energies}}
+|require = {{TalentReq/DiviReq4}}
+|use_mode = Activated
+|cooldown = 12
+|cost = 25 energy, split between Positive and Negative
+|range = 8
+|travel_speed = 500% of base
+|use_speed = Spell
+|desc = Fires out a bolt of pure energy, dealing {{ctspd|50|270}} damage divided between {{light}} and {{darkness}} in a radius of 1, and slowing targets hit. Their movement is reduced by {{ctspd|15|95}}% (maximum 50%) and attacking, casting and mind attacks by 60% of that amount. The bolt will attune to your current positive and negative energy amounts.
+|avail = [[NPC Only (category type)|NPC only]]
+}}
+===Notes===
+*The Energies tree was made for the [[Empyreal]] class, which shipped with [[Embers of Rage]] unfinished and was never enabled for players. Despite this, a good number of their talents still work and can be found on enemies.
+*It is used by the elven astromancer, the [[Star Gazer]], the [[Sher'Tul High Priest]] and [[Council Member Tormak]].
+
+<noinclude>[[Category: Embers of Rage]]</noinclude>

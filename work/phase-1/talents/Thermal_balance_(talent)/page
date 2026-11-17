@@ -1,0 +1,19 @@
+{{Ability_box
+|image=thermal_balance.png
+|name=Thermal Balance
+|category_type={{ct|Psionic}}
+|category={{c|Thermal Mastery}}
+|require={{TalentReq/PsiWilHigh4}}
+|use_mode=Activated
+|cost=0 Psi
+|cooldown=10
+|range={{cts|4|6}}
+|desc=
+You seek balance between fire and cold based on your current Psi level.
+
+You blast your foes with ({{ctmd|50|150}} * 2 * Percentage of Current Psi Available) Fire damage, ({{Ctmd|50|150}} * Percentage of Current Psi Depleted) Cold damage, in a radius {{Cts|2|4}} ball.
+
+This sets your current Psi to half of your maximum Psi.
+
+The damage scales with your Mindpower.
+}}

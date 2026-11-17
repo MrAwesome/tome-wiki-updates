@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "0edb9ed5ab07a2144df7b204fe3f72db11283371a3bc192ce37a8bc50b1a8202",
+    "revid": 14640
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Spinal_break_(talent)",
+    "kind": "talent",
+    "pageid": 4469,
+    "wiki_title": "Spinal break (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "c13a496179cc75cf1a15156d92135ec250aa6084366038304270bcee41d7d105",
+    "source_sha256": "eb7b701da0502dfd685dff66912bd41839dca9fb9b0b7276c4507b186125f169",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "c13a496179cc75cf1a15156d92135ec250aa6084366038304270bcee41d7d105",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

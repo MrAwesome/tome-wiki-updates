@@ -1,0 +1,16 @@
+{{Ability_box
+|name=Maggot breath
+|image=Maggot Breath.png
+|game_version=1.6.4
+|category_type={{ct|Demented}}
+|category={{c|Scourge drake}}
+|require={{TalentReq/SpellsReq4}}
+|use_mode=Activated
+|cooldown=12
+|cost=25 Insanity
+|range=6
+|radius=3
+|desc=
+You breathe a wave of dead maggots in a cone of radius {{cts|5|9}}. Any target caught in the area will take {{ctstd|Mag|30|550}} blight damage and be infected with a crippling disease for 10 turns.
+Crippling disease slows creatures by ({{ctstd|Mag|30|550}}*0.75/10) and deals {{ctl|0.7|0.15|0.5}} blight damage per turn.
+The damage will increase with your Magic, and the critical chance is based on your Spell crit rate.}}

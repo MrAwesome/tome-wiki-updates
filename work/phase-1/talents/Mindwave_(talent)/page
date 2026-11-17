@@ -1,0 +1,17 @@
+{{Ability box
+|game_version=1.7.6
+|image=Mindwave.png
+|name=Mindwave
+|category_type={{ct|Race}}
+|category={{c|Kruk Yeti}}
+|require={{TalentReq/RacialReq4}}
+|use_speed=instant
+|use_mode=Activated
+|cooldown={{ctl|10|46|30}}
+|desc=
+You willingly fry a few parts of your yeti's brain to trigger a huge psionic blast in cone of radius 5.
+Any foes caught in the blast will suffer {{css|Con|50|300}} mind damage and be confused (35% power) for {{ctl|8|3|5}} turns.
+The damage will increase with your Constitution and the apply power will be the highest of your mind, spell, or physical power.
+
+
+}}

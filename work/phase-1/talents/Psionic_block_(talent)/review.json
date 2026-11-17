@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "c9a36d023bd6ed986e95f7cbb32d53c4b79560215b14bac40099a295b09b836b",
+    "revid": 16977
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Psionic_block_(talent)",
+    "kind": "talent",
+    "pageid": 5243,
+    "wiki_title": "Psionic block (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "f2e013565b8accfe4abf1f5d29023bf0c3c1f8c9382994fa29b206444129e4d1",
+    "source_sha256": "741c640c0c8f4fbeea95fa446adafcc7efb71ecdd39c1ae538119412da676704",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "f2e013565b8accfe4abf1f5d29023bf0c3c1f8c9382994fa29b206444129e4d1",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

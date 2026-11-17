@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "112f5fa7d08fc7a136b21d676491aea9a8e542de14df87788ba1d2fae8d925d2",
+    "revid": 19604
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Phantasmal_shield_(talent)",
+    "kind": "talent",
+    "pageid": 1381,
+    "wiki_title": "Phantasmal shield (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "b9b4697e2d96eb33d87483fe6345fb747f5e41c724394c3afd7982dde94463ce",
+    "source_sha256": "790a31a1c9dbb7bb765e46fac9b2980272dcab4a2225cb12ee87cfd99ef7bbd0",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "b9b4697e2d96eb33d87483fe6345fb747f5e41c724394c3afd7982dde94463ce",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

@@ -1,0 +1,18 @@
+{{Ability_box
+|game_version=1.7.6
+|image=impale.png
+|name=Impale
+|category_type=[[Psionic (category type)|Psionic]]
+|category=[[Psi-fighting (category)|Psi-fighting]]
+|require={{TalentReq/PsiCunReq4}}
+|use_mode=Activated
+|range=3
+|cost=20 Psi
+|cooldown=10
+|use_speed=Mind
+|desc=
+Focus your will into a powerful thrust of your telekinetically-wielded weapon to impale your target and then viciously rip it free.
+This deals {{ctwd|150|260%}} weapon damage and then causes the victim to bleed for {{ctmd|12|340}} Physical damage over four turns.
+At level 3 the thrust is so powerful that it has {{ctl|100%|30|85%}} chance to shatter a random temporary magical or psionic damage absorbing shield if one exists.
+The bleeding damage increases with your Mindpower.
+}}

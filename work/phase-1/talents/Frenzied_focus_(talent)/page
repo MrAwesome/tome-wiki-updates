@@ -1,0 +1,16 @@
+{{Ability_box
+|game_version=1.7.6
+|image=frenzied_focus.png
+|name=Frenzied Focus
+|category_type=[[Psionic (category type)|Psionic]]
+|category=[[Projection (category)|Projection]]
+|require={{TalentReq/PsiWilReq4}}
+|use_mode=Activated
+|cost=30 Psi
+|cooldown=20
+|desc=
+Overcharge your psionic focus with energy for {{cts|4|8}} turns, producing a different effect depending on what it is.
+A telekinetically wielded melee weapon enters a frenzy, striking up to {{cts|1|3|log}} enemies per turn, also increases the radius by {{cts|1|3|log}}.
+A mindstar will attempt to pull in all enemies within its normal range.
+A gem will fire an energy bolt at a random enemy in range 6, each turn for {{ctmd|10|200}} damage. The type is determined by the colour of the gem. Damage scales with Mindpower.
+}}

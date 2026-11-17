@@ -1,0 +1,15 @@
+{{Ability box
+|game_version=1.7.6
+|image=Overgrowth.png
+|name=Overgrowth
+|category_type={{ct|Demented}}
+|category={{c|Path of Horror}}
+|require={{TalentReq/SpellsReq3}}
+|use_mode=Active
+|cost= -20 insanity
+|cooldown=35
+|desc=
+You trigger a cascade of rapidly mutating cells in your body for {{ctl|9|3|8}} turns.
+Your body grows much bigger, gaining 2 size categories, making you able to walk through walls and increasing all your damage by {{cts|10|30%}} and all your resistances by {{cts|10|30%}}.
+Each time you take a step your monstrous form causes a small quake destroying and rearranging nearby terrain.
+}}

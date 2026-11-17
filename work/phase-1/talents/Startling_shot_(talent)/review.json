@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "74db14c08a3aba12a0ad8631e16b36f0fe5aadf695b752e5526a6cf4d50f6913",
+    "revid": 11980
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Startling_shot_(talent)",
+    "kind": "talent",
+    "pageid": 4390,
+    "wiki_title": "Startling shot (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "313f930b2d3db2654f7214293bcb20803c97cd8cb443aaa5028fd5eb1f2c2db4",
+    "source_sha256": "eaff2729974d971d8affd69162efcbbc1d93acfcc5175eb8ebc9cc5460ba2824",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "313f930b2d3db2654f7214293bcb20803c97cd8cb443aaa5028fd5eb1f2c2db4",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

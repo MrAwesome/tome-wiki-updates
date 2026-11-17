@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "b479f22134e14410a679ee276a80615a2af2cea6b0c17ba35454b7f68582d7ac",
+    "revid": 11728
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Energy_decomposition_(talent)",
+    "kind": "talent",
+    "pageid": 1666,
+    "wiki_title": "Energy decomposition (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "56f13a635e64dab9623c99868621d4972f3a624e38c5160e5977291b80342706",
+    "source_sha256": "f76808dba0874313c244b2766942279acb9e3e9b7d9fd16927c88f4bbb73fff4",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "56f13a635e64dab9623c99868621d4972f3a624e38c5160e5977291b80342706",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

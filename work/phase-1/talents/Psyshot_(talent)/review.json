@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "8a36e13025984b54ebdf399cbeff097f123fd25d16b85ec6c9292d4ccd4d1282",
+    "revid": 22340
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Psyshot_(talent)",
+    "kind": "talent",
+    "pageid": 5176,
+    "wiki_title": "Psyshot (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "54a5fb900944d71f629c3b2ff4aa2504e4d01359076cc504da3048e2bdb45514",
+    "source_sha256": "2e07b81a9c273d5b8b2ce0fcdbdfcbf4f11090ea65d23210d12446f8a4ec3523",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "54a5fb900944d71f629c3b2ff4aa2504e4d01359076cc504da3048e2bdb45514",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

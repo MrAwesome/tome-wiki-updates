@@ -1,0 +1,21 @@
+{{Ability_box
+|name=Mecharachnid chassis
+|image=Mecharachnid chassis.png
+|game_version=1.7.6
+|embers_version=1.1.10
+|category_type=[[Steamtech (category type)|Steamtech]]
+|category=[[Mecharachnid (category)|Mecharachnid]]
+|require={{TalentReq/SteamReqHigh3}}
+|cooldown=60
+|use_speed=Steamtech
+|desc=
+You craft a new chassis for your mecharachnid, allowing you to tailor it to different situations. Each chassis grants the mecharachnid a new talent category, the ability to attach a weapon to their tail, as well as granting them {{gtl|1|5|raw}} class talent points to spend in a new category based off their chassis.
+
+You can choose from the 2 chassis below by activating this talent outside of combat (default chassis: {{c|Assault}})
+*Assault: An armored chassis focused on close combat and defenses, specialising in wielding a steamsaw.
+*{{c|Armament}}: A heavily armed chassis focused on ranged combat, specialising in wielding an additional steamgun.
+
+Tail weapons do not attack by default, and are instead used for special talents.
+
+''Note: Each chassis has its own set of class talent points.''
+}}

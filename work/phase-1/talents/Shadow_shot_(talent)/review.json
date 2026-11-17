@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "bbbf1a47d9ad83f7c2d0e19a226f757af9544e411685d4e0378abf4b3172a892",
+    "revid": 13777
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Shadow_shot_(talent)",
+    "kind": "talent",
+    "pageid": 4701,
+    "wiki_title": "Shadow shot (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "2f670f9ee63a6553efb406a4ed631c24f8a8f3bb57c4d87ef0579d8a4d5ed48c",
+    "source_sha256": "a336f99b204e4ef9e0296664ff77a170c41849d9519d7997ae318b32855046b9",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "2f670f9ee63a6553efb406a4ed631c24f8a8f3bb57c4d87ef0579d8a4d5ed48c",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

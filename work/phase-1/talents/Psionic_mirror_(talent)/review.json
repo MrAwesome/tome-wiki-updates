@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "3d4dffa281e8cea0548d9358228b7d3b3f9e3280ed24a7665070a2393ce35584",
+    "revid": 22320
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Psionic_mirror_(talent)",
+    "kind": "talent",
+    "pageid": 5183,
+    "wiki_title": "Psionic mirror (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "3d4dffa281e8cea0548d9358228b7d3b3f9e3280ed24a7665070a2393ce35584",
+    "source_sha256": "84a1bba9651083af029928e78000a3d053ac5fa758824e6518b146897d899468",
+    "status": "no_change",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "3d4dffa281e8cea0548d9358228b7d3b3f9e3280ed24a7665070a2393ce35584",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

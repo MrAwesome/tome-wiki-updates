@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "45e255e3a0ec2dd4064e49a8376c8eebd278c749d26014c6fd623aa0206a6486",
+    "revid": 23156
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "baseline_preserved"
+    }
+  ],
+  "identity": {
+    "filename": "Gift_of_the_highborn_(talent)",
+    "kind": "talent",
+    "pageid": 5373,
+    "wiki_title": "Gift of the highborn (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "baseline_preserved",
+    "candidate_page_sha256": "45e255e3a0ec2dd4064e49a8376c8eebd278c749d26014c6fd623aa0206a6486",
+    "source_sha256": null,
+    "status": "unmatched_source",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "45e255e3a0ec2dd4064e49a8376c8eebd278c749d26014c6fd623aa0206a6486",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

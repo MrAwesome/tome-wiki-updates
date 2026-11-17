@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "bcb942eed055a7ae3e4f432b95b949bd073e3d27ac872ad4269aa7f8652ec9fc",
+    "revid": 23314
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "baseline_preserved"
+    }
+  ],
+  "identity": {
+    "filename": "Quantum_tunnelling_(talent)",
+    "kind": "talent",
+    "pageid": 5947,
+    "wiki_title": "Quantum tunnelling (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "baseline_preserved",
+    "candidate_page_sha256": "bcb942eed055a7ae3e4f432b95b949bd073e3d27ac872ad4269aa7f8652ec9fc",
+    "source_sha256": "23ca78691a34de2e7cc9b589d19f244cf85596d15947688dddfd376e04455bde",
+    "status": "unsupported_info",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "bcb942eed055a7ae3e4f432b95b949bd073e3d27ac872ad4269aa7f8652ec9fc",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

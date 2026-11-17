@@ -1,0 +1,16 @@
+{{Ability_box
+|game_version=1.7.6
+|name=Abyssal Shroud
+|image=Mind storm.png
+|category_type=misc
+|category=objects
+|require=[[Bindings of Eternal Night]] and [[Crown of Eternal Night]] completed [[Item set|item set]]
+|range=6
+|cost=47 power out of 80
+|use_mode=Activated
+|cooldown=-
+|use_speed=-
+|travel_speed=instantaneous
+|desc=
+Creates a shroud of darkness over a radius 3 area that lasts {{cts|5|9}} turns.  The shroud causes {{ctspd|15|40}} darkness damage each turn, reduces light radius by {{cts|1|5}}, and darkness resistance by {{ctspd|15|40}} of those within.
+}}

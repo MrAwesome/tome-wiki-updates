@@ -1,0 +1,14 @@
+{{Ability box
+|game_version=1.7.6
+|image=Chromatic fury.png
+|name=Chromatic Fury
+|category_type={{ct|Wild-Gift}}
+|category={{c|Higher Draconic Abilities}}
+|require={{TalentReq/GiftsReqHigh4}}
+|use_mode=Passive
+|desc=
+You have gained the full power of the various drakes throughout the world, and have become both resistant and attuned to physical, fire, cold, lightning, acid, nature, blight, and darkness damage.
+Your resistance to these elements is increased by {{cts|0.6|2.5%}} and all damage you deal with them is increased by {{ctl|50%|8|20%}} with {{ctl|50%|12|30%}} resistance penetration.
+
+Learning this talent will add a Willpower bonus to your breath talent damage with the same scaling as Strength, effectively doubling it when the stats are equal.
+}}

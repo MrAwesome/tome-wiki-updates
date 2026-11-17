@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "b02ce9c5d49c91ac46c9e071c81adfe355801480e959e5b6132a8c01b379aa65",
+    "revid": 19365
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Shattered_remains_(talent)",
+    "kind": "talent",
+    "pageid": 5562,
+    "wiki_title": "Shattered remains (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "850b13342f4a2787d111104ee64f22eeccb0929c438b6f7e81fee6332eaff001",
+    "source_sha256": "4318c0328da28c7a7767bf96027d8ccc449ab120b17558d8af699a6a6a05d170",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "850b13342f4a2787d111104ee64f22eeccb0929c438b6f7e81fee6332eaff001",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

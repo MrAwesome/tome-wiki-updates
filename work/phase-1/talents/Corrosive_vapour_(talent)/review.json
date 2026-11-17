@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "172a493591f67a8807497ac893138e77ec85ce6b3d7607d498681653b030852c",
+    "revid": 11969
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:58Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Corrosive_vapour_(talent)",
+    "kind": "talent",
+    "pageid": 2961,
+    "wiki_title": "Corrosive vapour (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "3f7ca6c6695fb7c55ea95e62a263e879863028b934a45a52cb22a8cc540b1d5e",
+    "source_sha256": "dc640c1af5d22a45472d843380c9de01334530b3831bd2b9fe88ee0cba3abc23",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:58Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "3f7ca6c6695fb7c55ea95e62a263e879863028b934a45a52cb22a8cc540b1d5e",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

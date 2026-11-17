@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "4f581150c64a0d797246168cb8ea9377ba3fde2376174f135d4448b4be7efa57",
+    "revid": 13987
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Fiery_hands_(talent)",
+    "kind": "talent",
+    "pageid": 1217,
+    "wiki_title": "Fiery hands (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "e73113d1024f307865c4ed06a2561438eaff7b88f184a0cd194d65e3a0e5470a",
+    "source_sha256": "0b43b5a02ca098863bcd9295304b77afca04b14916604e2639e219314d21e3e1",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "e73113d1024f307865c4ed06a2561438eaff7b88f184a0cd194d65e3a0e5470a",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

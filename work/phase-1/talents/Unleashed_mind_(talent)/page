@@ -1,0 +1,18 @@
+{{Ability_box
+|image=Unleashed_mind.png
+|name=Unleashed Mind
+|game_version=1.7.6
+|category_type={{ct|Psionic}}
+|category={{c|Psychic blows}}
+|require={{TalentReq/PsiWilReq3}}
+|use_mode=Actived
+|cost=19 Psi
+|cooldown=13
+|travel_speed=Instantaneous
+|use_speed=Mind
+|desc=
+You concentrate your powerful psionic powers on your weapon and briefly unleash your fury.
+All foes in radius {{cts|3|6}} will take a melee attack dealing {{ctwd|100|190%}} weapon damage as mind damage.
+Any psionic clones in the radius will have its remaining time extended by {{cts|5|10}} turns.
+If you do not have a two handed weapon equiped, but have it in your off set, you instantly automatically switch.
+}}

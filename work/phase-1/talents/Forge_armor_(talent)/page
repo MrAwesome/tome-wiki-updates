@@ -1,0 +1,13 @@
+{{Ability box
+|game_version=1.7.6
+|image=Forge armor.png
+|name=Forge Armor
+|category_type={{ct|Psionic}}
+|category={{c|Dream Forge}}
+|require={{TalentReq/PsiWilHigh3}}
+|use_mode=Passive
+|desc=
+Your Forge Shield talent now increases your Armour by {{ctmd|1|15}}, your Defense by {{ctmd|1|15}}, and gives you {{ctmd|1|10}} psi when you're hit by a melee or ranged attack.
+
+The bonuses will scale with your Mindpower.
+}}

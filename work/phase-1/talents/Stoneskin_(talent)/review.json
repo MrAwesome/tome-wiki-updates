@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "0310a1e716a7df7a395da0709fefba1ec11f8b990a0e1691a40bd52ba0b81d82",
+    "revid": 22068
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Stoneskin_(talent)",
+    "kind": "talent",
+    "pageid": 1562,
+    "wiki_title": "Stoneskin (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "f2b35bac16827f8f76b15d80149d39e0a9fe488bb1df0daf343b36a93e509506",
+    "source_sha256": "958b207fd24723fa3b1613c62048b19012df2e24e9b82152eb1ef2485a88aed1",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "f2b35bac16827f8f76b15d80149d39e0a9fe488bb1df0daf343b36a93e509506",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

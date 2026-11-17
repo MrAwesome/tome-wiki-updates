@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "ce75b678a6949a9bc524ff74653e0ed2e98f7d69da0bcd97c905beb0bf697e84",
+    "revid": 22523
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:58Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Advanced_targeting_system_(talent)",
+    "kind": "talent",
+    "pageid": 6951,
+    "wiki_title": "Advanced targeting system (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "a904677ea2a980fc7e85b200e90e7e31ed4f405ddf43e52ae486c144b50b9cae",
+    "source_sha256": "d4a229c033179400bfeecdf22a6d8c7d8b890754f25cecd82908d413c3fa5102",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:58Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "a904677ea2a980fc7e85b200e90e7e31ed4f405ddf43e52ae486c144b50b9cae",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "2164865fa2149e5c06321e9da5a98fa4abba193328846fe9a63f9de00f0ef4cc",
+    "revid": 22088
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "baseline_preserved"
+    }
+  ],
+  "identity": {
+    "filename": "Frenzy_drem_(talent)",
+    "kind": "talent",
+    "pageid": 5376,
+    "wiki_title": "Frenzy drem (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "baseline_preserved",
+    "candidate_page_sha256": "2164865fa2149e5c06321e9da5a98fa4abba193328846fe9a63f9de00f0ef4cc",
+    "source_sha256": null,
+    "status": "unmatched_source",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "2164865fa2149e5c06321e9da5a98fa4abba193328846fe9a63f9de00f0ef4cc",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

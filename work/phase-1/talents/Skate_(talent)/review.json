@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "6a71b70f274d37ddef8058278eca84f4ed9422de88370fed31eab5c2747a459b",
+    "revid": 23016
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Skate_(talent)",
+    "kind": "talent",
+    "pageid": 3410,
+    "wiki_title": "Skate (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "24044a135b3a811f659fdb67eca79d5b1cd462e7e1b74e29587443c65b619b8d",
+    "source_sha256": "a4c3869b3cd339c41e8ab9edbf15ac0c8401376861c03fe731d343fcafa97fe5",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "24044a135b3a811f659fdb67eca79d5b1cd462e7e1b74e29587443c65b619b8d",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

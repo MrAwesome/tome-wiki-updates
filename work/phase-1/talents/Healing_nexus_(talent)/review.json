@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "19780e1e9fcb0730ad3fe46e54425daa0915b8214eb724bf15631a2cbbd4a167",
+    "revid": 8391
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Healing_nexus_(talent)",
+    "kind": "talent",
+    "pageid": 1241,
+    "wiki_title": "Healing nexus (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "32cc1ef162c06fe83d9b8223a467e3f19818eb8ead2adc7d1aadb69544be8d5f",
+    "source_sha256": "b8af63ac0a2228d17b280154dd4b32f6dc128a603482be376d0443e4320f96d6",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "32cc1ef162c06fe83d9b8223a467e3f19818eb8ead2adc7d1aadb69544be8d5f",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

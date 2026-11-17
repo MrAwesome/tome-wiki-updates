@@ -1,0 +1,14 @@
+{{Ability_box|image=Combo string.png|name=Combo string
+|game_version=1.7.6
+|category_type=[[Technique (category type)|Technique]]
+|category=[[Unarmed training (category)|Unarmed training]]
+|require=passive
+|use_mode=-
+|range=-
+|cost=-
+|cooldown=-
+|use_speed=-
+|desc=
+When gaining a combo point, you have a {{gtl|1|5}} chance to gain an extra combo point.  Additionally, your combo points will last {{cts|1|3}} turns longer before expiring.
+The chance of building a second combo point will improve with your Cunning.
+}}

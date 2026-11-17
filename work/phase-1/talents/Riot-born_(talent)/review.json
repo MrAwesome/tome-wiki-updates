@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "a0b0b65b402691093c6fa8adecc266bf445bb181d339e379f99071139c9fe874",
+    "revid": 8071
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Riot-born_(talent)",
+    "kind": "talent",
+    "pageid": 1364,
+    "wiki_title": "Riot-born (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "d7441517f8c58061889048d9424f3c5c9803b44fb7cd6c87ae5f7f0a616c01e1",
+    "source_sha256": "ab19db2fe612ebc4304972d2fcdf569932cc2988b9686990a4def94b512bbb8e",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "d7441517f8c58061889048d9424f3c5c9803b44fb7cd6c87ae5f7f0a616c01e1",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

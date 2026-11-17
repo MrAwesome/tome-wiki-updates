@@ -1,0 +1,16 @@
+{{Ability_box
+|name=Wrath of the Wilds
+|image=krog_wrath.png
+|category_type={{ct|Race}}
+|category={{c|Krog}}
+|game_version=1.7.6
+|require={{TalentReq/RacialReq1}}
+|cooldown={{CTL|15|45|25}}
+|travel_speed=
+|use_speed=0
+|desc=
+You unleash the wrath of the wilds for 5 turns.
+When you deal damage to a creature while wrath is active you have {{css|Con|7|20%}} chance (100% for the first creature hit each turn) to stun them for 3 turns.
+This effect can only stun a creature once per turn.
+Chance scales with your Constitution and apply power is the highest or your physical or mind power.
+}}

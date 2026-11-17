@@ -1,0 +1,13 @@
+{{Ability box
+|image=psionic_block.png
+|game_version=1.7.6
+|name=Psionic Block
+|category_type={{ct|Psionic}}
+|category={{c|Battle Psionics}}
+|require={{TalentReq/TechsWilReq4}}
+|range=1
+|cost=30 Psi
+|cooldown=15
+|desc=
+You concentrate to create a psionic block field all around you for 5 turns. While the effect holds all damage against you have a {{ctl|70%|20|50%}} chance to be fully ignored. When damage is cancelled you instinctively make a retaliation mind strike against the source, dealing {{CTMD|20|230}} mind damage. (The retaliation may only happen 2 times per turn.)
+}}

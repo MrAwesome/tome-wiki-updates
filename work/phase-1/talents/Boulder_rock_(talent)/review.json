@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "630ed2faf1bc290d022c6fa06ffa8147cb1a7fc7af87942d414f4bc3653692df",
+    "revid": 13076
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:58Z",
+      "event": "deterministic_render_applied",
+      "reason": "baseline_preserved"
+    }
+  ],
+  "identity": {
+    "filename": "Boulder_rock_(talent)",
+    "kind": "talent",
+    "pageid": 4612,
+    "wiki_title": "Boulder rock (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "baseline_preserved",
+    "candidate_page_sha256": "630ed2faf1bc290d022c6fa06ffa8147cb1a7fc7af87942d414f4bc3653692df",
+    "source_sha256": "f9713df0c187e411be339aeb177f316babac03974d9bb0cab6f3af6b6d485274",
+    "status": "unsupported_info",
+    "updated_at": "2026-11-08T16:08:58Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "630ed2faf1bc290d022c6fa06ffa8147cb1a7fc7af87942d414f4bc3653692df",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

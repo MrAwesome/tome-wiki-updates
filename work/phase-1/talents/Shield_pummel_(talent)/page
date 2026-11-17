@@ -1,0 +1,16 @@
+{{Ability box
+|image=Shield_pummel_2017.png
+|name=Shield Pummel
+|category_type={{ct|Technique}}
+|category={{c|Shield Offense}}
+|game_version = 1.7.4
+|require={{TalentReq/TechsReq1}}
+|cost=8 Stamina
+|cooldown=6
+|desc=
+Hits the target with two shield strikes, doing {{ctwd|100|170%}} and {{ctwd|120|210%}} shield damage. If it hits a second time, it stuns the target for {{cts|2.5|4.5}} turns.
+
+The stun is [[Saves and To-Hit|powered by]] raw (Accuracy + Strength - 10) after [[Rescaled combat stats|rescaling]].
+
+''Note: The effective talent level here is increased by half your talent level in {{t|Shield Expertise}} for the purpose of all shield damage calculations.''
+}}

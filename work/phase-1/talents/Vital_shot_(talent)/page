@@ -1,0 +1,16 @@
+{{Ability box
+|game_version=1.7.6
+|image=Vital shot.png
+|name=Vital Shot
+|category_type=[[Prodigies]]
+|category=[[Prodigies#Dexterity|Dexterity]]
+|require=Dexterity 50<br />Have dealt over 50,000 damage with ranged weapons
+|cooldown=10
+|range=Archery Range
+|desc=
+You fire a shot straight at your enemy's vital areas, wounding them terribly.
+
+Enemies hit by this shot will take 450% weapon damage and will be stunned and crippled (losing 50% physical, magical and mental attack speeds) for five turns due to the devastating impact of the shot.
+
+The stun and cripple chances increase with your Accuracy.
+}}

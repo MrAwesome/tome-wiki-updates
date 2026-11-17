@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "f7ff95c25bbe3b28ff7a672b9286383a3d55f131170d99e18af4d92018f3d483",
+    "revid": 11887
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Uncanny_reload_(talent)",
+    "kind": "talent",
+    "pageid": 4372,
+    "wiki_title": "Uncanny reload (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "20a85dade6fd90163e43f85af25796c45bc7f8f44e34786046eee82f9feb8ddd",
+    "source_sha256": "658bc432e31d805e5eadb0795ac7ae35ecf5d3dbf2c2b7d63eca3397a10a4c69",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "20a85dade6fd90163e43f85af25796c45bc7f8f44e34786046eee82f9feb8ddd",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

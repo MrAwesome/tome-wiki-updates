@@ -1,0 +1,15 @@
+{{Ability box
+|image=Harass prey.png
+|name=Harass Prey
+|category_type={{ct|Cursed}}
+|category={{c|Endless Hunt}}
+|require={{TalentReq/CursedWilReq3}}
+|cooldown=6
+|cost=5 Hate
+|desc=
+Harass your stalked victim with two quick attacks for 35% (at 0 Hate) to 67% (at 100+ Hate) damage each. Each attack that scores a hit disrupts one talent, rune or infusion for {{cts|3.75|6.75|log|1S}} turns. Your opponent will be unnerved by the attacks, reducing the damage they deal for 2 turns.
+
+The damage reduction is {{cl|{{ctstd|Wil|0.7|0.9}}|100%|0|0|75%|0.87}}
+
+Damage reduction increases with the Willpower stat.
+}}

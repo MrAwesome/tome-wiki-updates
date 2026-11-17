@@ -1,0 +1,15 @@
+{{Ability_box
+|game_version=1.7.6
+|image=Switch place.png
+|name=Switch place
+|category_type=[[Cunning (category type)|Cunning]]
+|category=[[Dirty fighting (category)|Dirty fighting]]
+|require={{TalentReq/CunsReq3}}
+|use_mode=Activated
+|cost=15 Stamina
+|cooldown=10
+|desc=
+Using a series of tricks and maneuvers, you switch places with your target.
+Switching places will confuse your foes, granting you Evasion (50%) for 3 turns.
+While switching places, your weapon(s) will connect with the target; this will not do weapon damage, but on hit effects of the weapons can trigger.
+}}

@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "036139e7e61a95a2bba833b4db9aa91eef10da8686cf89ffb8ffad4b7597ce3e",
+    "revid": 10306
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Repulsion_blast_(talent)",
+    "kind": "talent",
+    "pageid": 1413,
+    "wiki_title": "Repulsion blast (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "ac3b32384ec16a6c6ec35b50c633677afc0cbb577197bea956258dd870c9b61f",
+    "source_sha256": "c185769f06ac118d2cf2e03f41d240cb6b25a86a3486377b0f4b05c2d900f25d",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "ac3b32384ec16a6c6ec35b50c633677afc0cbb577197bea956258dd870c9b61f",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

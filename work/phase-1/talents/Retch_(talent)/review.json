@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "6ec55bd1ef3359ac6f31d22207cff2a846993cd78007893ef79fa507d9024808",
+    "revid": 22112
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Retch_(talent)",
+    "kind": "talent",
+    "pageid": 1709,
+    "wiki_title": "Retch (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "9cfca1fce27760bde63032b84a942f3d2bd420a7c62596d65e0abbe35a259a8d",
+    "source_sha256": "036f501d24a0e0f24b96d135bb879a2a344d977473f26c460c8d1ca99f0a98d9",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "9cfca1fce27760bde63032b84a942f3d2bd420a7c62596d65e0abbe35a259a8d",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

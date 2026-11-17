@@ -1,0 +1,20 @@
+{{Ability_box
+|game_version=1.7.6
+|image=Sticky smoke.png
+|name=Sticky smoke
+|category_type=[[Cunning (category type)|Cunning]]
+|category=[[Trapping (category)|Trapping]]
+|require={{TalentReq/CunsReq3}}
+|use_mode=Activated
+|cost=10 Stamina
+|cooldown=15
+|range=10
+|desc=
+Throws a vial of sticky smoke that explodes in radius {{cts|0|2}} on your foes, reducing their vision range by {{cts|1|6|log|0|4}} for 5 turns.
+
+Creatures affected by smoke bomb can never prevent you from stealthing, even if their proximity would normally forbid it.
+
+Use of this will not break stealth.
+
+''Note: This talent can be affected by resistance to blindness.''
+}}

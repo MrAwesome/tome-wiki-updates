@@ -1,0 +1,19 @@
+{{Ability box
+|game_version=1.7.6
+|image=Hold the ground_2017.png
+|name=Hold the Ground
+|category_type={{ct|Race}}
+|category={{c|Orc}}
+|require={{TalentReq/RacialReq2}}
+|use_mode=Passive
+|cooldown=12
+|desc=
+Orcs have been the prey of the other races for thousands of years, with or without justification. They have learnt to withstand things that would break weaker races.
+When your life goes below 50% your sheer determination cleanses you of {{ctstd|Wil|1|5}} mental debuff(s) based on talent level and Willpower.  
+This can only happen once every 10 turns.
+
+Also increase physical save by +{{cTS|4|16|0.75}}. 
+
+''Base debuff removal (talent level 1): 1 debuff''
+
+}}

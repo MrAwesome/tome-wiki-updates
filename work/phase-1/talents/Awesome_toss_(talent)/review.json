@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "16d43c99b92f2ddf3733f22c72cbf7e6fce810d4394591a598fcf7bbcf4030b4",
+    "revid": 14539
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:58Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Awesome_toss_(talent)",
+    "kind": "talent",
+    "pageid": 5164,
+    "wiki_title": "Awesome toss (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "e6d4a2bf47dd6d990dee86d74a75cf7f3d9f3ce70929febf6d5b0d1e228a7513",
+    "source_sha256": "a32a2aa6489e4aae99d2daa9f055435cc049a7a7b21bd84e39927c7c2cafa424",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:58Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "e6d4a2bf47dd6d990dee86d74a75cf7f3d9f3ce70929febf6d5b0d1e228a7513",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

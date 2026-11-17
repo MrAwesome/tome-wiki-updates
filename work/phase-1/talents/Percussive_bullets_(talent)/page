@@ -1,0 +1,20 @@
+{{Ability box
+|image=Percussive_bullets.png
+|name=Percussive bullets
+|game_version=1.7.6
+|embers_version=1.1.10
+|category_type={{ct|Steamtech}}
+|category={{c|Bullets mastery}}
+|require={{TalentReq/SteamReq3}}
+|range=10
+|cooldown=15
+|cost=30 Steam
+|use_speed=0
+|desc=You swap your bullets for more massive ones for {{CTL|15|3|8}} turns.
+
+When striking a creature, these bullets have a {{ctl|100%|30|50%}} chance of knocking it back 3 tiles and a {{ctl|100%|13|30%}} chance of stunning it for 3 turns.
+
+The chances to knockback and stun increase with your Steampower.
+
+Only one bullet enhancement can be used at once.
+}}

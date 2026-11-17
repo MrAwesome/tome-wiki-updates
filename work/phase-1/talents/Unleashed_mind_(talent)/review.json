@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "70ed5426304d3b996e337e557d3ebf1ee47ea27c41533682b146863fb9957c83",
+    "revid": 15149
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Unleashed_mind_(talent)",
+    "kind": "talent",
+    "pageid": 5282,
+    "wiki_title": "Unleashed mind (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "3807119c48667764470e474acb655a7676f7a7d52a193eecd56186ebf5319d21",
+    "source_sha256": "b477d52609e6d06f48a70d7163f172c24e1ab9a8cd66baa9305da15ff3bf09f4",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "3807119c48667764470e474acb655a7676f7a7d52a193eecd56186ebf5319d21",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

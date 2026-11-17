@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "58b302a692e6b2c6a44e5b4f2b04cff41c14eed75b92d07a8b044fcd41ae4034",
+    "revid": 16924
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "baseline_preserved"
+    }
+  ],
+  "identity": {
+    "filename": "Mutated_hand_(talent)",
+    "kind": "talent",
+    "pageid": 5266,
+    "wiki_title": "Mutated hand (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "baseline_preserved",
+    "candidate_page_sha256": "58b302a692e6b2c6a44e5b4f2b04cff41c14eed75b92d07a8b044fcd41ae4034",
+    "source_sha256": "038841bc39a9c1ca209651fb5c8cbe248ef0abab6596c528407063eefbe25906",
+    "status": "unsupported_info",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "58b302a692e6b2c6a44e5b4f2b04cff41c14eed75b92d07a8b044fcd41ae4034",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

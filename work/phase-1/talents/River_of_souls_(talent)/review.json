@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "f3d434e845ccb91220108c812d1f83067b205aacf1ea7840fb5a0fd907c5fe4c",
+    "revid": 19379
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "River_of_souls_(talent)",
+    "kind": "talent",
+    "pageid": 5569,
+    "wiki_title": "River of souls (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "a6094d497208f73bc9b33130ad2859d5eeec9095d19ca964ce4362aa59232c06",
+    "source_sha256": "04bc75de4d86a0231b1b3a65e4be5344e2ac559a80b89fc09c3e0a1619a26c28",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "a6094d497208f73bc9b33130ad2859d5eeec9095d19ca964ce4362aa59232c06",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

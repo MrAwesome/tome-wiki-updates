@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "7f566704206c174df500bb62686d36d0b6b6e7044925dd85290e0cbe8ef76c09",
+    "revid": 22052
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "baseline_preserved"
+    }
+  ],
+  "identity": {
+    "filename": "Obliterating_smash_(talent)",
+    "kind": "talent",
+    "pageid": 3765,
+    "wiki_title": "Obliterating smash (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "baseline_preserved",
+    "candidate_page_sha256": "7f566704206c174df500bb62686d36d0b6b6e7044925dd85290e0cbe8ef76c09",
+    "source_sha256": "f2297854dd2c61863ac86812563e4f4021602df017ef56414fe8a3de224d93c0",
+    "status": "unsupported_info",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "7f566704206c174df500bb62686d36d0b6b6e7044925dd85290e0cbe8ef76c09",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

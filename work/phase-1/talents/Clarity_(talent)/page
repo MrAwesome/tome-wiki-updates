@@ -1,0 +1,12 @@
+{{Ability box
+|game_version=1.7.6
+|image=Clarity.png
+|name=Clarity
+|category_type={{ct|Psionic}}
+|category={{c|Solipsism}}
+|require={{TalentReq/PsiWilReq3}}
+|use_mode=Passive
+|desc=
+For every percent that your Psi pool exceeds {{ctl|0%|85|60%}}, you gain 1% global speed (up to a maximum of %+d%).
+The first talent point invested will also increase the amount of Psi you gain from Willpower by 0.5, but reduce the amount of life you gain from Constitution by 0.25 and will increase your solipsism threshold by 10% (currently {{ctl|1%|-84|-59%}}).
+}}

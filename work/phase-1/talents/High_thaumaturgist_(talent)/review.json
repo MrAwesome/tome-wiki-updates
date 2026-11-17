@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "9037426d0ab6443a2112c578a302f35fdc022408105b6c68b5b4ac881f8c3a36",
+    "revid": 22812
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "High_thaumaturgist_(talent)",
+    "kind": "talent",
+    "pageid": 5649,
+    "wiki_title": "High thaumaturgist (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "4b05abc8aa4c7a9f1abb094ddd2a62d47dbb2132ea1dfc3d0ef9f4ba72940716",
+    "source_sha256": "a4e0877b7e12cdb59d2e9f974fe7579811d56479e20fcea071effad38a44caea",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "4b05abc8aa4c7a9f1abb094ddd2a62d47dbb2132ea1dfc3d0ef9f4ba72940716",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

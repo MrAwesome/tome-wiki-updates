@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "a9e2c50a5f8bf12187353f2ea0fd472e27942a2cef125577847865b8ad791f0b",
+    "revid": 22328
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Improved_gestalt_(talent)",
+    "kind": "talent",
+    "pageid": 5191,
+    "wiki_title": "Improved gestalt (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "a9e2c50a5f8bf12187353f2ea0fd472e27942a2cef125577847865b8ad791f0b",
+    "source_sha256": "a9467b5e48458013d77dce1a687e79ec9eccad178746db4efe086075a0d57184",
+    "status": "no_change",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "a9e2c50a5f8bf12187353f2ea0fd472e27942a2cef125577847865b8ad791f0b",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

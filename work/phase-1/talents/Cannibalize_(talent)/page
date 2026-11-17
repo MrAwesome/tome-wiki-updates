@@ -1,0 +1,20 @@
+{{Ability_box
+|image=cannibalize.png
+|name=Cannibalize
+|game_version=1.7.6
+|category_type={{ct|Psionic}}
+|category={{c|Body Snatcher}}
+|require={{TalentReq/PsiWilReq4}}
+|use_mode=Activated
+|range=-
+|cost=25 Psi
+|cooldown=ceil({{ctl|15|40|25}})
+|travel_speed=Instantaneous
+|use_speed=Mind
+|desc=
+When you assume a form you may cannibalize a body in your reserve to replenish your current body.
+You can only use bodies that are of same or higher [[rank]] for the effect to work and each time you heal a body the effect will be reduced by 33% for that body.
+Your current body will heal for {{cts|40|80%}} of the max life of the cannibalized one and you will also regenerate 50% of this value as psi.
+The healing effect is more psionic in nature than a real heal. As such may things that prevent healing will not prevent cannibalize from working.
+Cannibalize is the only possible way to heal a body.
+}}

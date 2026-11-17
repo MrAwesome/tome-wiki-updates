@@ -1,0 +1,14 @@
+{{Ability box
+|image=Damage smearing.png
+|name=Damage Smearing
+|category_type={{ct|Chronomancy}}
+|category={{c|Temporal Combat}}
+|require={{TalentReq/TemporalReq4}}
+|cost=25 Paradox
+|cooldown=25
+|use_speed=0
+|desc=
+For the next {{ctl|25|3|7|PM}} turns, you convert all non-temporal damage you receive into temporal damage spread out over 6 turns.
+
+The duration will scale with your Paradox.
+}}

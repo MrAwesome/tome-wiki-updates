@@ -1,0 +1,9 @@
+{{Ability_box
+|game_version=1.7.6
+|name=Poisonous Bite
+|category_type=[[NPC Only (category type)|NPC Only]]
+|category=-
+|image=Bite poison.png
+|desc=
+Bites the target (an unarmed attack), doing {{cts|300|700%|log}} damage and injecting it with poison.
+}}

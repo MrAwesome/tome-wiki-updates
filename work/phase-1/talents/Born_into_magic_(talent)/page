@@ -1,0 +1,14 @@
+{{Ability box
+|game_version=1.7.6
+|image=Born_into_magic_2017.png
+|name=Born Into Magic
+|category_type={{ct|Race}}
+|category={{c|Higher}}
+|require={{TalentReq/RacialReq3}}
+|use_mode=Passive
+|cooldown={{ctl|0|15|5}}
+|desc=
+Highers were originally created during the Age of Allure by the human Conclave. They are imbued with magic at the very core of their being.
+Increase spell save by {{cts|5|35|0.75}}  and arcane resistance by {{cts|7|25%}}.
+Also, when you cast a spell dealing damage, you gain a 20% bonus to the damage type for 5 turns. (This effect has a cooldown.)
+}}

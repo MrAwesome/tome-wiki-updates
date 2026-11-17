@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "b28ee3a61ee8649da56e3dd353483337f73306d28cc11eec453d55dd11036832",
+    "revid": 15174
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Writhing_one_(talent)",
+    "kind": "talent",
+    "pageid": 5297,
+    "wiki_title": "Writhing one (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "233f816e4797ca25f864c835fed7631c51d3a065dc5f920e70466fc62289d4ce",
+    "source_sha256": "e688d681d04434c01cf5246a35de54b0a91aa8e9df43243fded8732f5e72ad7f",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "233f816e4797ca25f864c835fed7631c51d3a065dc5f920e70466fc62289d4ce",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

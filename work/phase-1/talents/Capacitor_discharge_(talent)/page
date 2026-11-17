@@ -1,0 +1,18 @@
+{{Ability box
+|image = Capacitor discharge.png
+|name = Capacitor Discharge
+|game_version = 1.7.6
+|embers_version = 1.1.10
+|category_type = {{ct|Steamtech}}
+|category = {{c|Magnetism}}
+|require = {{TalentReq/SteamReq3}}
+|cooldown = 4
+|cost = 15 Steam
+|range = 10
+|use_speed = Steamtech
+|desc =
+Mount capacitors to your shield that dampen the impact of attacks, increasing block value by {{cts|15|40%}} and storing 100% of the damage blocked as an electrical charge (to a maximum of {{ctstmd|40|400}}).
+Activating this ability discharges blocked damage, firing a bolt of {{lightning}} dealing {{ctwd|100|130%}} shield damage as lightning to the first target, then projecting a bolt of lightning that arcs to {{cts|2|6|log}} other targets dealing lightning damage equal to the stored amount.
+If at maximum charge, this also dazes for 2 turns and the shield strike is a guarenteed critical hit.
+The maximum damage you can absorb will increase with your Steampower.
+}}

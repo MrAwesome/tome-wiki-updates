@@ -1,0 +1,21 @@
+{{Ability box
+|game_version = 1.7.4
+|image=Dread.png
+|name=Dread
+|category_type={{ct|Spell}}
+|category={{c|Dreadmaster}}
+|require={{TalentReq/SpellsReq1}}
+|range=10
+|cost=20 Mana, 4 Souls
+|cooldown=40
+|use_speed = Spell
+|desc=
+Summon a Dread that will annoyingly blink around, hexing your foes. The Dread will have base level equal to yours, adjusted by {{cs|Talent Level|(-6)|0.9|(+2)|5}}.
+
+It knows the following spells at a level equal to this talent's level:
+* {{t|Burning Hex}}
+* {{t|Empathic Hex}}
+* {{t|Pacification Hex}}
+* {{t|Blur Sight}}
+* {{t|Phase Door}}
+}}

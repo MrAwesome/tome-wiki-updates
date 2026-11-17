@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "5a4c88cf188dd0d9f9b95894535749e472be5dc67553dc9483489d0df0b85837",
+    "revid": 22019
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Netherblast_(talent)",
+    "kind": "talent",
+    "pageid": 5871,
+    "wiki_title": "Netherblast (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "83ae4fb290d82e5d3feb55326f7d19a1170551dee418d0093c04c17651209edd",
+    "source_sha256": "4ee9687b048c9f911046444d2de07ce39515094dc7829ef5a9ab17e9b75c2688",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "83ae4fb290d82e5d3feb55326f7d19a1170551dee418d0093c04c17651209edd",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

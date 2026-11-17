@@ -1,0 +1,17 @@
+{{Ability box
+|image=Automated cloak tessellation.png
+|name=Automated cloak tessellation
+|game_version=1.7.6
+|embers_version=1.1.10
+|category_type={{ct|Steamtech}}
+|category={{c|Avoidance}}
+|require={{TalentReq/SteamReq1}}
+|use_mode=sustained
+|cost=3 Steam drain
+|cooldown=10
+|use_speed=Steamtech
+|desc=You tessellate your cloak with small pieces of metal, providing {{ctstmd|2|40}} damage reduction against all attacks.
+The myriad metal scraps also help against incoming projectiles, providing a chance of deflecting them to a nearby spot.
+
+The chance to deflect is equal to {{cl|{{ctstmd|5|40}}|65%|25|10|45%|60}}.
+}}

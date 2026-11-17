@@ -1,0 +1,14 @@
+{{Ability box
+|game_version=1.7.6
+|image=Glyph of explosion.png
+|name=Glyph of Explosion
+|category_type={{ct|Celestial}}
+|category={{c|Glyphs}}
+|require={{TalentReq/DiviReqHigh3}}
+|range={{cts|1|5|log}}
+|cost=-10 Positive
+|cooldown=20
+|use_speed=0
+|desc=
+test glyph
+}}

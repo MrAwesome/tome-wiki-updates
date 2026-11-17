@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "2c9687f15b06fb43b635618d6757e31c61ed96bbab37538f7edd95322a479d8e",
+    "revid": 14444
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Quantum_spike_(talent)",
+    "kind": "talent",
+    "pageid": 1256,
+    "wiki_title": "Quantum spike (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "3ba68b4169b8400186de56b43126f03b5f564591897d797b33c609a5af2be8e5",
+    "source_sha256": "d65367d33fedbe507f377497449e86409aab95d3b4cd535466e49a27144381ea",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "3ba68b4169b8400186de56b43126f03b5f564591897d797b33c609a5af2be8e5",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "9729abba5e3a9f237f23745394c3b22c51e1c2289628feb70d6a6f0b3aff4640",
+    "revid": 16975
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Shockstar_(talent)",
+    "kind": "talent",
+    "pageid": 5241,
+    "wiki_title": "Shockstar (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "2799ee57c727915ffbf9d8b7b5a6233f9110dd91892967164a566dd7154a0104",
+    "source_sha256": "741c640c0c8f4fbeea95fa446adafcc7efb71ecdd39c1ae538119412da676704",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "2799ee57c727915ffbf9d8b7b5a6233f9110dd91892967164a566dd7154a0104",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

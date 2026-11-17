@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "1178a0588490cd345f7c056e8811cd4c1a6489c5ad31d6b0ff2de9edfa582f00",
+    "revid": 12457
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Erupting_darkness_(talent)",
+    "kind": "talent",
+    "pageid": 3690,
+    "wiki_title": "Erupting darkness (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "76a246d6366cc57c3a175ba0ff2b87724c33548d1ede86ae8b07cb8828b7e2e5",
+    "source_sha256": "e7f8cb9df054127c61aef84b1d215c067a2e87ed9c7cb9ef9a428e3196fa3053",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "76a246d6366cc57c3a175ba0ff2b87724c33548d1ede86ae8b07cb8828b7e2e5",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

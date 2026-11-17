@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "e5163d82262773ad001e5514c2993c45a4e8159933a4ac4a46fde75ea9316ab7",
+    "revid": 22360
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "baseline_preserved"
+    }
+  ],
+  "identity": {
+    "filename": "Inner_demons_(talent)",
+    "kind": "talent",
+    "pageid": 1270,
+    "wiki_title": "Inner demons (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "baseline_preserved",
+    "candidate_page_sha256": "e5163d82262773ad001e5514c2993c45a4e8159933a4ac4a46fde75ea9316ab7",
+    "source_sha256": "5641ddaabeb28785a73e75b606e27612c44e1f63186ca2022dcc42b8a577f5d7",
+    "status": "unsupported_info",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "e5163d82262773ad001e5514c2993c45a4e8159933a4ac4a46fde75ea9316ab7",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

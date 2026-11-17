@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "adb9136e9ff6e5db8ebc47a6049bdffe21718512f5a007e086c1bcc032dc9f1d",
+    "revid": 14009
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:58Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Crystalline_focus_(talent)",
+    "kind": "talent",
+    "pageid": 1602,
+    "wiki_title": "Crystalline focus (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "be2b5baf2e858d32dd0b338c66362cd6bb735c66655e0efa8291ab64fe2c2756",
+    "source_sha256": "588e7571be426b3b2daeb3e16128c8ea37c177cd3d7904aa6fd52d937b590a74",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:58Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "be2b5baf2e858d32dd0b338c66362cd6bb735c66655e0efa8291ab64fe2c2756",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

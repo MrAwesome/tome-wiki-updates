@@ -1,0 +1,19 @@
+{{Ability box
+|image=Demon horns.png
+|name=Demon horns
+|category_type={{ct|Corruption}}
+|category={{c|Infernal Combat}}
+|require={{TalentReq/SpellsReq4}}
+|use_mode=Activated
+|range=Melee/Personal
+|cost=18 Stam 12 Vim
+|cooldown=14
+|desc=
+Demon horns temporarily grow on your shield as you bash a foe with it for {{ctwd|100|200%}} damage.
+
+If the attack hits, the creature is impaled by the horns, causing it to bleed black blood for 50% of the damage done as darkness over 5 turns.
+
+Any time you damage this foe in melee while it bleeds, you get healed for 40 + {{ctspd|10|520}} / 4 (this can only happen once per turn).
+
+The healing power increases with your Spellpower.
+}}

@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "778f64f50d2196da8d3bd7a11bb6c50186341822e94fbcd318cb42c98924a91d",
+    "revid": 11310
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "baseline_preserved"
+    }
+  ],
+  "identity": {
+    "filename": "Stop_(talent)",
+    "kind": "talent",
+    "pageid": 1322,
+    "wiki_title": "Stop (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "baseline_preserved",
+    "candidate_page_sha256": "778f64f50d2196da8d3bd7a11bb6c50186341822e94fbcd318cb42c98924a91d",
+    "source_sha256": "aceab1a17332025d477c77c3ebcd38c3320cd5ad99570c328d408fc359f8601e",
+    "status": "unsupported_info",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "778f64f50d2196da8d3bd7a11bb6c50186341822e94fbcd318cb42c98924a91d",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

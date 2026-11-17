@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "e8e7810713a02b35b67ebc62657ae42b38f4ef80e9628e97d6e4a918eaa50b65",
+    "revid": 22335
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Vaporous_step_(talent)",
+    "kind": "talent",
+    "pageid": 5201,
+    "wiki_title": "Vaporous step (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "c1f070f218d3cc3adc23361ee0f772d8dd9727d3a944eba72b4e4fc06eef1bc1",
+    "source_sha256": "6bda2c01ed42866462a028bbb2c54b0d45e0dfdbfd459f1439bc16d44b5704cc",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "c1f070f218d3cc3adc23361ee0f772d8dd9727d3a944eba72b4e4fc06eef1bc1",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

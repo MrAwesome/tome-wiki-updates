@@ -1,0 +1,11 @@
+{{Ability_box
+|image=Reshape weapon.png
+|name=Reshape weapon
+|category_type=[[Psionic (category type)|Psionic]]
+|category=[[Finer energy manipulations (category)|Finer energy manipulations]]
+|require=Level: (14, 15, 16, 17, 18)
+(30, 32, 34, 36, 38) Cun
+|use_mode=Activated
+|cooldown=1
+|use_speed=1 turn
+|desc=Manipulate forces on the molecular level to realign, rebalance, and hone your weapon. Permanently increases the Accuracy and damage of any weapon by (3-20). These values scale with your Mindpower.}}

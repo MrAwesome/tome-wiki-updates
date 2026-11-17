@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "662f832b970b00d930c9c1e02dab250925ba7cf6fdef89344ed0389a656bbb2b",
+    "revid": 8379
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Master_summoner_(talent)",
+    "kind": "talent",
+    "pageid": 1458,
+    "wiki_title": "Master summoner (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "86c9036122e5a0144ce54527f3f8ac5be01c5cb35ce4a43a686c260bab9c43ea",
+    "source_sha256": "ee8efc9c97c7ec3dbc0537b8cbc2e32b460a2c8ce0a08565286308f9f54c49b5",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "86c9036122e5a0144ce54527f3f8ac5be01c5cb35ce4a43a686c260bab9c43ea",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

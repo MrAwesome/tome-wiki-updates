@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "38ef2312edf08e3254c2bde757c5cfb41dd3a4b60957ad3000fcd756b32769d6",
+    "revid": 18564
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:58Z",
+      "event": "deterministic_render_applied",
+      "reason": "baseline_preserved"
+    }
+  ],
+  "identity": {
+    "filename": "Doomed_for_eternity_(talent)",
+    "kind": "talent",
+    "pageid": 5896,
+    "wiki_title": "Doomed for eternity (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "baseline_preserved",
+    "candidate_page_sha256": "38ef2312edf08e3254c2bde757c5cfb41dd3a4b60957ad3000fcd756b32769d6",
+    "source_sha256": "3895af829ea22be1525d24470e8bb862619ab41ebc78ff859b5df3f9f42e60ce",
+    "status": "unsupported_info",
+    "updated_at": "2026-11-08T16:08:58Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "38ef2312edf08e3254c2bde757c5cfb41dd3a4b60957ad3000fcd756b32769d6",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

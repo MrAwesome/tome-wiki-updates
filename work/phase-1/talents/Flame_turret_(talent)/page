@@ -1,0 +1,13 @@
+{{Ability_box
+|game_version = 1.7.6
+|embers_version = 1.1.10
+|name = Flame Turret
+|image = Flame turret.png
+|category_type = {{ct|Steamtech}}
+|category = {{c|Turrets}}
+|cost = 35
+|range = 3
+|cooldown = 20 
+|use_speed = Steamtech
+|desc = Deploy a turret mounted with a flamethrower, scorching nearby targets. The turret gains {{ctstmd|5|50}} Dexterity, Constitution and Cunning.
+}}

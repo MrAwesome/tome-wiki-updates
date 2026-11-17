@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "d0a75e5b100e3580cbf6e211bddb1ed90a5669725df13f6bb3893cd051b1b6ab",
+    "revid": 13541
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:58Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Blinding_speed_(talent)",
+    "kind": "talent",
+    "pageid": 1534,
+    "wiki_title": "Blinding speed (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "d62309b6b0ee9cf5dbc495923958706d0112d97c6bd2eb78f2f24c511ba76673",
+    "source_sha256": "52577655ef879a15ae0034f7294be0be57199e63693109f9f5f4b7d3a227012f",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:58Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "d62309b6b0ee9cf5dbc495923958706d0112d97c6bd2eb78f2f24c511ba76673",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

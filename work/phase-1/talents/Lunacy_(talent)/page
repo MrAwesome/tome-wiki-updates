@@ -1,0 +1,15 @@
+{{Ability_box
+|game_version = 1.7.6
+|name = Lunacy
+|image = Lunacy.png
+|category_type = {{ct|Celestial}}
+|category = {{c|Darkside}}
+|require = {{TalentReq/DiviReq2}}
+|use_mode = Passive
+|desc =
+Your curse feeds on the magic, which in turn is powered by the curse.
+You gain a bonus to Spellpower equal to {{cts|20|40%|0.75}} of your Willpower.
+You gain a bonus to Mindpower equal to {{cts|25|50%|0.75}} of your Magic.
+
+#{italic}#Something is not quite right inside you.  Your solar spells are somehow twisted, but your bloody rites make things clear as day.#{normal}#
+}}

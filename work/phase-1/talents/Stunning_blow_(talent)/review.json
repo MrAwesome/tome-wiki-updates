@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "da02665d18a25a626531e379b525bacddf7b2c04a744c069a9cc3dcf310487e3",
+    "revid": 16744
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Stunning_blow_(talent)",
+    "kind": "talent",
+    "pageid": 1164,
+    "wiki_title": "Stunning blow (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "9cf447220303e631c5f4ef1489ca723868c2390e58299a3c5bace3b9f74b2758",
+    "source_sha256": "4b0eeb3f32feae757a2e0d720b3791fbb9ee3ab8a098fd63844ab41df54474c9",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "9cf447220303e631c5f4ef1489ca723868c2390e58299a3c5bace3b9f74b2758",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

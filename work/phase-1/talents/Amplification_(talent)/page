@@ -1,0 +1,13 @@
+{{Ability_box
+|image=Amplification.png
+|name=Amplification
+|category_type={{ct|Psionic}}
+|category={{c|Feedback}}
+|require={{TalentReq/PsiWilReq3}}
+|use_mode=Passive
+|desc=
+Increases your maximum Feedback by (10 * Raw Talent Level), and increases the Feedback you gain from damage by {{cts|15|50%|0.75}}.
+
+The Feedback gain will scale with your Mindpower.
+|avail.escorts=[[Escorts#Defiler_.28Arcane.29|Defiler (Arcane)]] ([[Escorts#Betraying_to_Zigur|Betray Escort to Zigur]]), via revealing the locked {{c|Feedback}} category
+}}

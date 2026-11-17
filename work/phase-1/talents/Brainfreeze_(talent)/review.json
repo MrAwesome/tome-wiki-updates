@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "02de0981710e40851e0a3be9097e66b429352923ecb03e6ccbc04012d8c7e76f",
+    "revid": 13909
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:58Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Brainfreeze_(talent)",
+    "kind": "talent",
+    "pageid": 3407,
+    "wiki_title": "Brainfreeze (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "6c758a783574c923c7fdeb8614ae5cb2dc8c4aa8a743ca8a9743ada857b4da54",
+    "source_sha256": "6ca95112121a9f1c6cf5f85fc6be434c8ca7716b67549e916fcbe81793ef31c1",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:58Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "6c758a783574c923c7fdeb8614ae5cb2dc8c4aa8a743ca8a9743ada857b4da54",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

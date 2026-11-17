@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "cc329d4caf537ba9e18e17a97ac6f75ea4398353da73e790158318edc5cd01d1",
+    "revid": 14940
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Vital_shot_(talent)",
+    "kind": "talent",
+    "pageid": 3448,
+    "wiki_title": "Vital shot (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "6d547b3ccc885655d75d6ca1512e16f95928a74dc6c5d813e344c71540769a3c",
+    "source_sha256": "2c885ee19750c56b1cf749b256add8a4f805d55a97bc0155b6724f4dccba5703",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "6d547b3ccc885655d75d6ca1512e16f95928a74dc6c5d813e344c71540769a3c",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

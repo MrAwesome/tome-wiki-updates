@@ -1,0 +1,14 @@
+{{Ability_box
+|image=radiance.png
+|name=Radiance
+|category_type=[[Celestial (category type)|Celestial]]
+|category={{c|Radiance}}
+|require={{TalentReq/DiviReq1}}
+|use_mode=Passive
+|desc=
+You are so infused with sunlight that your body glows permanently in radius {{cts|3|7}}, even in dark places.
+
+Your vision adapts to this glow, giving you {{ctl|100%|25|75%}} blindness resistance.
+
+The light radius overrides your normal light if it is bigger (it does not stack).
+}}

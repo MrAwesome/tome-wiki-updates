@@ -1,0 +1,14 @@
+{{Ability_box
+|image=Inner_power_2017.png
+|name=Inner Power
+|category_type={{ct|Spell}}
+|category={{c|Enhancement}}
+|require={{TalentReq/SpellsReq4}}
+|use_mode=Sustained
+|cooldown=10
+|cost=75 Mana
+|desc=
+You concentrate on your inner self, increasing all your stats by {{ctspd|2|10}}.
+
+The stat increase will improve with your Spellpower.
+}}

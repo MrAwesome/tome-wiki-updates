@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "0290f1600377420cd0d594c69cbad60f82de754f127e5ff1c87f3d039239f634",
+    "revid": 12098
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:58Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Bombardment_(talent)",
+    "kind": "talent",
+    "pageid": 3362,
+    "wiki_title": "Bombardment (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "24ea8209fae255eb94ad39e8d267fc95e6b3b560fb31080a805ca76954291e3c",
+    "source_sha256": "646effbdb97ffea6d6abdd3b5a1c66ce4ac5ec6a2c268fe0b1580957d353e1d1",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:58Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "24ea8209fae255eb94ad39e8d267fc95e6b3b560fb31080a805ca76954291e3c",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

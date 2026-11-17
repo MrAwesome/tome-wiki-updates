@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "76b3402965574b15cb65d000bf21de7c60aeedda2f47896be8505161f63f632d",
+    "revid": 13834
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Smokescreen_(talent)",
+    "kind": "talent",
+    "pageid": 4879,
+    "wiki_title": "Smokescreen (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "065e7e7c704150dcf6fe7ee8756c20d12e8eda4aff5136786c9a15ec57496b73",
+    "source_sha256": "8a1d55511ff0273bfc9f4193b98de2269372475ffafc5c8185257d59bb7ad4d3",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "065e7e7c704150dcf6fe7ee8756c20d12e8eda4aff5136786c9a15ec57496b73",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

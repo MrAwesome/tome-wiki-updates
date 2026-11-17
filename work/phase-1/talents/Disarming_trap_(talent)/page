@@ -1,0 +1,18 @@
+{{Ability box
+|image=Disarming trap.png
+|name=Disarming Trap
+|category_type={{ct|Cunning}}
+|category={{c|Trapping}}
+|require={{t|Trap Mastery}} Level 4
+|cooldown=25
+|cost=25 Stamina
+|range=Trap Range
+|desc=
+Lay a tricky trap that maims the arms of creatures passing by with acid doing (60 + {{css|Cun|0.45|4.5}} * Trap Power) damage and disarming them for {{cts|2.1|4.43}} turns.
+
+Trap Power is determined by your raw talent level in {{t|Trap Mastery}}.
+
+Trap effects scale with {{t|Trap Mastery}}.
+
+The trap will last for a duration of (8 + {{t|Trap Mastery}} Level) turns or until it is triggered.
+}}

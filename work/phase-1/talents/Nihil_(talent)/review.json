@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "eaef21dcb438f5a5ac5c6adf1a00650c7d8de8d8be98a0ffd7d10a7e79fbbd51",
+    "revid": 18699
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Nihil_(talent)",
+    "kind": "talent",
+    "pageid": 5937,
+    "wiki_title": "Nihil (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "15cd7cf6a01770a312de40c86b4d40f3c44e5ee6c63461c7d2f680712c4692d3",
+    "source_sha256": "3242012a234a5b9a8c9ebfdb57556803619c8b752954e150d2b653806cb1d44b",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "15cd7cf6a01770a312de40c86b4d40f3c44e5ee6c63461c7d2f680712c4692d3",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

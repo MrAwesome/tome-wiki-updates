@@ -1,0 +1,19 @@
+{{Ability box
+|image=Soul rot.png
+|name=Soul Rot
+|game_version=1.7.6
+|category_type={{ct|Corruption}}
+|category={{c|Vim}}
+|require={{TalentReq/CorrsReq1}}
+|range=10
+|cost=10 Vim
+|cooldown=4
+|travel_speed=10
+|use_speed=Spell
+|desc=
+Projects a bolt of pure blight, doing {{ctspd|20|250}} blight damage.
+
+This spell has an improved critical strike chance of +{{cts|7|25%|0.75}}.
+
+The damage will increase with your Spellpower.
+}}

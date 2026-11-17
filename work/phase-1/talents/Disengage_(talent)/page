@@ -1,0 +1,20 @@
+{{Ability_box
+|image=Disengage_2017.png
+|name=Disengage
+|game_version=1.5.2
+|category_type=[[Technique (category type)|Technique]]
+|category=[[Mobility (category)|Mobility]]
+|require={{TalentReq/TechsDexReq1}}
+|use_mode=Activated
+|range=7
+|cost=8 Stamina
+|cooldown=10
+|travel_speed=Instantaneous
+|use_speed=Weapon
+|desc=
+Jump back up to {{cTL|10|3|7}} grids from your target, springing over any creatures in your way. You must disengage in a nearly straight line directly away from your target (which you must be able to see).
+
+After moving, you gain {{cTS|100|200%|log}} increased movement speed for 3 turns (which ends if you take any actions other than movement), and you may reload your ammo (if any).
+
+The speed and maximum distance you can move are reduced by your Fatigue level.
+}}

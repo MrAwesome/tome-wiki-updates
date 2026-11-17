@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "9183d4db8cf66e13b71c171654321b96e045f99da9594e5cc21d2202e904d42a",
+    "revid": 8644
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:58Z",
+      "event": "deterministic_render_applied",
+      "reason": "baseline_preserved"
+    }
+  ],
+  "identity": {
+    "filename": "Distortion_bolt_(talent)",
+    "kind": "talent",
+    "pageid": 1712,
+    "wiki_title": "Distortion bolt (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "baseline_preserved",
+    "candidate_page_sha256": "9183d4db8cf66e13b71c171654321b96e045f99da9594e5cc21d2202e904d42a",
+    "source_sha256": "48e9509ba306795fd9ed07b6d514551f97894d28619450960b086785101981e5",
+    "status": "unsupported_info",
+    "updated_at": "2026-11-08T16:08:58Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "9183d4db8cf66e13b71c171654321b96e045f99da9594e5cc21d2202e904d42a",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

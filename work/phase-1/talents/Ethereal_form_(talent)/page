@@ -1,0 +1,12 @@
+{{Ability_box
+|name=Ethereal Form
+|image=Displace_damage.png
+|category_type=[[Prodigies]]
+|category=[[Prodigies#Magic|Magic]]
+|game_version=1.7.4
+|require=Magic 50<br/>Have an effective defense of at least 40
+|use_mode=Passive
+|desc=You gain 25% absolute damage resistance and 25% all damage penetration. Each time you are struck by a weapon these bonuses are reduced by 5% but fully recovered after 8 turns.
+
+Additionally, you gain 70% of the highest of your Magic or Dexterity stat as defense.
+}}

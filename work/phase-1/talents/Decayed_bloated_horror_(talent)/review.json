@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "3a13fcf100433d52ba10051cdebf38cdc48d72800fedb893d549bc598bac0042",
+    "revid": 15186
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:58Z",
+      "event": "deterministic_render_applied",
+      "reason": "baseline_preserved"
+    }
+  ],
+  "identity": {
+    "filename": "Decayed_bloated_horror_(talent)",
+    "kind": "talent",
+    "pageid": 5304,
+    "wiki_title": "Decayed bloated horror (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "baseline_preserved",
+    "candidate_page_sha256": "3a13fcf100433d52ba10051cdebf38cdc48d72800fedb893d549bc598bac0042",
+    "source_sha256": "a123514fa090c6d4d714dfb3ff977ade6c62d079aac1e7e4a101035bc3ee1399",
+    "status": "unsupported_info",
+    "updated_at": "2026-11-08T16:08:58Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "3a13fcf100433d52ba10051cdebf38cdc48d72800fedb893d549bc598bac0042",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

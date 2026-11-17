@@ -1,0 +1,9 @@
+{{Ability_box
+|game_version=1.7.6
+|name=Blinding Spores
+|category_type=[[NPC Only (category type)|NPC Only]]
+|category=-
+|image=Spore blind.png
+|desc=
+Releases stinging spores at the target, blinding it for {{cts|6|10}} turns.
+}}

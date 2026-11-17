@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "9583f36c113241890741bcf96ba9804d46a7e78749da79145bacacc17a51b337",
+    "revid": 22086
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Scar-scripted_flesh_(talent)",
+    "kind": "talent",
+    "pageid": 3731,
+    "wiki_title": "Scar-scripted flesh (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "5340e12f5b5887d603a3f841d808f14f28d03d386a6d80a9f13aa9fc56694171",
+    "source_sha256": "958b207fd24723fa3b1613c62048b19012df2e24e9b82152eb1ef2485a88aed1",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "5340e12f5b5887d603a3f841d808f14f28d03d386a6d80a9f13aa9fc56694171",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

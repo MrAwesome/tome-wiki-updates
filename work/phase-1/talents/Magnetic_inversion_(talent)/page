@@ -1,0 +1,13 @@
+{{Ability box
+|image = Magnetic inversion.png
+|name = Magnetic Inversion
+|game_version = 1.7.6
+|embers_version = 1.1.10
+|category_type = {{ct|Celestial}}
+|category = {{c|Energies}}
+|require = {{TalentReq/DiviReq3}}
+|cooldown = {{gtl|65|25}}
+|range = 0
+|use_speed = 0
+|desc = Swap your current positive and negative energy levels. This spell takes no time to cast.
+}}

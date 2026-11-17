@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "9ffb19677a2f8ae6706df6b3f1f8af425e269def2d2280c8ec461deb41cbb299",
+    "revid": 13797
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:58Z",
+      "event": "deterministic_render_applied",
+      "reason": "baseline_preserved"
+    }
+  ],
+  "identity": {
+    "filename": "Crippling_poison_(talent)",
+    "kind": "talent",
+    "pageid": 3488,
+    "wiki_title": "Crippling poison (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "baseline_preserved",
+    "candidate_page_sha256": "9ffb19677a2f8ae6706df6b3f1f8af425e269def2d2280c8ec461deb41cbb299",
+    "source_sha256": "17e3498c48ce0e05b8e99349419b6f859706745ec4de69277959628a113ffc16",
+    "status": "unsupported_info",
+    "updated_at": "2026-11-08T16:08:58Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "9ffb19677a2f8ae6706df6b3f1f8af425e269def2d2280c8ec461deb41cbb299",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

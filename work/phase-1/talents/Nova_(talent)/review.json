@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "769f56f780cea6c28e297ed3421f12f33665688e63c1fb281de5c514c8194957",
+    "revid": 14169
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Nova_(talent)",
+    "kind": "talent",
+    "pageid": 1497,
+    "wiki_title": "Nova (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "417675ae66e5cc14c08e92625d1bd0514ec15fa7ec15305ed2183dcc8ba127b4",
+    "source_sha256": "bbe63756da846fcbe26e427e86aeeb67d82e9e9ab399f141cf8e6cd9fbdfe941",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "417675ae66e5cc14c08e92625d1bd0514ec15fa7ec15305ed2183dcc8ba127b4",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

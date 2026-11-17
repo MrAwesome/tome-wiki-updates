@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "2bd9252f02122a54eccfb4d6a0f37c3615e53f223f9a51066871bc217c8f7da8",
+    "revid": 23210
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Psionic_maelstrom_(talent)",
+    "kind": "talent",
+    "pageid": 4542,
+    "wiki_title": "Psionic maelstrom (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "253126977d058f47af2a7bb51c8434db978b809971a18c0c4a126590a53475e6",
+    "source_sha256": "7396731ef4718b932752a648d67726332b7b3a5b180321cbfe6ed4da2f59f7e2",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "253126977d058f47af2a7bb51c8434db978b809971a18c0c4a126590a53475e6",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

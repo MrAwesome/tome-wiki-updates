@@ -1,0 +1,13 @@
+{{Ability box
+|image=Invigorate.png
+|name=Invigorate
+|category_type={{ct|Chronomancy}}
+|category={{c|Temporal Combat}}
+|require={{TalentReq/TemporalReq2}}
+|cost=10 Paradox
+|cooldown=24
+|desc=
+For the next {{ctl|14|4|8|PM}} turns, you recover {{cts|1.5|5}} stamina each turn and all other talents on cooldown will refresh twice as fast as usual.
+
+The duration will scale with your Paradox.
+}}

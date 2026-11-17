@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "79143d267ba44a5aff24cd83a092330b7ba79ce76642b4e1c8db431f22931d3f",
+    "revid": 23301
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Technomancer(class_evolution)_(talent)",
+    "kind": "talent",
+    "pageid": 5452,
+    "wiki_title": "Technomancer(class evolution) (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "8fb995055aa34c164a2f9442ec2705109cb7706a51d0a663df236e833439475f",
+    "source_sha256": "f66debe2fe113ec88810ebaabc9a1c5674085445bc25a84a4f6175623ebd527b",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "8fb995055aa34c164a2f9442ec2705109cb7706a51d0a663df236e833439475f",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

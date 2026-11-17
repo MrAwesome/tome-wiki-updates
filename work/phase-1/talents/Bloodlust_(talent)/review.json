@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "8a6a6a8c5f415737a8ed52e9fdcbb7a602b5f8093329f6b682788346f6228038",
+    "revid": 18504
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:58Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Bloodlust_(talent)",
+    "kind": "talent",
+    "pageid": 1687,
+    "wiki_title": "Bloodlust (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "5f6eccf8ffa7f6ec9927c3d2c0b84faeb3361ebb70269391af4b28e879df6ee5",
+    "source_sha256": "187eb45879d9c1ead52c4b717e9b3abc8b760222b6fa1365790cb99fd608c019",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:58Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "5f6eccf8ffa7f6ec9927c3d2c0b84faeb3361ebb70269391af4b28e879df6ee5",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

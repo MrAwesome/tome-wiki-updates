@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "74ec00c35b705052344c9e61c8b7f57dcb1ba5762313a1dec76f892ed8d1b42a",
+    "revid": 16709
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:58Z",
+      "event": "deterministic_render_applied",
+      "reason": "baseline_preserved"
+    }
+  ],
+  "identity": {
+    "filename": "Armour_of_shadows_(talent)",
+    "kind": "talent",
+    "pageid": 3455,
+    "wiki_title": "Armour of shadows (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "baseline_preserved",
+    "candidate_page_sha256": "74ec00c35b705052344c9e61c8b7f57dcb1ba5762313a1dec76f892ed8d1b42a",
+    "source_sha256": "b260bc4a014c91d3ee733275ca1d2671d56db3fbe4afb6cd58b4bd9d8ced33eb",
+    "status": "unsupported_info",
+    "updated_at": "2026-11-08T16:08:58Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "74ec00c35b705052344c9e61c8b7f57dcb1ba5762313a1dec76f892ed8d1b42a",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

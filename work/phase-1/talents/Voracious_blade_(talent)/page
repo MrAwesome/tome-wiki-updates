@@ -1,0 +1,14 @@
+{{Ability box
+|ashes_version=1.1.4
+|game_version=1.7.6
+|name=Voracious Blade
+|image=Voracious_blade.png
+|category_type={{ct|Corruption}}
+|category={{c|Wrath}}
+|require=Level (18,19,20,21,22) Str (38,40,42,44,46)
+|use_mode=Passive
+|cooldown=10
+|desc=
+Your blade drinks in death. Whenever you score a kill with this talent off cooldown, your next {{cts|2|3|0.75}} melee attacks within 6 turns will always critically strike, and you gain {{cts|15|30%|0.75}} critical multiplier for the duration.
+Additionally, you gain an extra {{cts|1|4|0.75}} vim per kill.
+}}

@@ -1,0 +1,13 @@
+{{Ability_box
+|image=terrorize.png
+|name=Terrorize
+|game_version=1.7.6
+|category_type=[[Technique (category type)|Technique]]
+|category=[[Assassination (category)|Assassination]]
+|require={{TalentReq/TechsDexReqHigh2}}
+|use_mode=Passive
+|desc=
+When you exit stealth, you reveal yourself dramatically, intimidating foes around you.
+All foes within radius {{ctl|10|2|5}} that witness you leaving stealth will be stricken with terror, which randomly inflicts stun, slow (40% power), or confusion (50% power) for {{cts|3|5}} turns.
+The chance to terrorize improves with your combat accuracy.
+}}

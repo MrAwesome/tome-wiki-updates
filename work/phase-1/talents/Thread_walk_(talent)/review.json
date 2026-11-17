@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "c27796a54720fb88e87d2b228d82e99782dcaeaa440ccd2ee19ffd3fbf8f81ae",
+    "revid": 11716
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Thread_walk_(talent)",
+    "kind": "talent",
+    "pageid": 4316,
+    "wiki_title": "Thread walk (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "d6d55d09103632e50112707bfe6eb8587b794264ba17900cadc91f66af12be00",
+    "source_sha256": "5ca41cc4807ff73b3522beafb3a8e51baf0da867f897b92eb266bc8311402970",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "d6d55d09103632e50112707bfe6eb8587b794264ba17900cadc91f66af12be00",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

@@ -1,0 +1,15 @@
+{{Ability box
+|image=Uppercut.png
+|name=Uppercut
+|category_type={{ct|Technique}}
+|category={{c|Finishing Moves}}
+|require={{TalentReq/TechsDexReq1}}
+|cost=12 Stamina
+|cooldown=10
+|desc=
+A finishing uppercut that deals {{ctwd|110|180%}} damage, and attempts to stun your target for (2 + (0.25 + Combo Points / 5) * {{cts|1|5}}) turns.
+
+The stun chance will improve with your Physical Power.
+
+Using this talent removes your combo points.
+}}

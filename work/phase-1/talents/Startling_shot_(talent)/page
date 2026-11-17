@@ -1,0 +1,17 @@
+{{Ability box
+|image=Startling shot.png
+|name=Startling Shot
+|game_version=1.7.6
+|embers_version=1.1.10
+|category_type={{ct|Steamtech}}
+|category={{c|Gunslinging}}
+|require={{TalentReq/SteamReq2}}
+|cooldown=7
+|use_speed=Instant
+|cost=12 Steam
+|range=Steamgun Range
+|desc=
+You deliberately fire a missing shot at a target, startling it for 3 turns.
+If the target fails a mental save it instinctively recoils two steps back.
+The next shot that hits the startled creature will deal {{ctwd|150|300%}} more damage.
+}}

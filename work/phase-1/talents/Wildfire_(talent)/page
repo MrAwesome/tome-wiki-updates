@@ -1,0 +1,12 @@
+{{Ability box
+|image=Wildfire_2017.png
+|name=Wildfire
+|category_type={{ct|Spell}}
+|category={{c|Wildfire}}
+|require={{TalentReq/SpellsReqHigh4}}
+|use_mode=Sustained
+|cost=50 Mana
+|cooldown=30
+|desc=
+Surround yourself with Wildfire, increasing all your fire damage by (2 * Raw Talent Level)%, ignoring {{ctl|100%|17|50%}} fire resistance of your targets and reducing self-inflicted fire damage by (14 * Talent Level)%.
+}}

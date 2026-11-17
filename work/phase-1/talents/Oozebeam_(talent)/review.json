@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "f64cfd14b08e45ff24ca79427a859296c4824c6bf4fcae1dcc266d462810e9d0",
+    "revid": 19221
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Oozebeam_(talent)",
+    "kind": "talent",
+    "pageid": 1617,
+    "wiki_title": "Oozebeam (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "c9afdf6603c8642ebd72cb8f05f79a76fb987a0fed234d15357f8e779e4b73ef",
+    "source_sha256": "568403369da6287fb9bdc8338aeb2113eef9a2aa9dec4a24db66402859fda82d",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "c9afdf6603c8642ebd72cb8f05f79a76fb987a0fed234d15357f8e779e4b73ef",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

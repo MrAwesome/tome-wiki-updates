@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "ed0639c9869d5df7177902729fa933040a0c5a92a72bc42f84911641b4cb5a9a",
+    "revid": 8306
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:58Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Corrosive_worm_(talent)",
+    "kind": "talent",
+    "pageid": 1121,
+    "wiki_title": "Corrosive worm (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "f3bba3557c1f914f9f808eb6a7927d9fab83e2fb42793ee3ddd09e78a4ad1e8f",
+    "source_sha256": "ef262a77f0a27f826412d273af6b3f61a1f3f8eccfaa97f58b8b8a5f1f6b7d7b",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:58Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "f3bba3557c1f914f9f808eb6a7927d9fab83e2fb42793ee3ddd09e78a4ad1e8f",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

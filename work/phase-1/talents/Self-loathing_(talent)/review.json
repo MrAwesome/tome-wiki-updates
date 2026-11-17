@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "e3e63c9a3a4d2e8297ea260ca4dba22bba53f49776c8d0bb3e6f7bc5d99ac8ad",
+    "revid": 22899
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Self-loathing_(talent)",
+    "kind": "talent",
+    "pageid": 7077,
+    "wiki_title": "Self-loathing (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "a2fd60bd392178204d511cce09c29cf2d38e2583f3610ed61ab55150df68e0ae",
+    "source_sha256": "0871cb3a3b12dcdf17442f423f52ffad4462a724a3d2999cf0fc1e24fa039217",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "a2fd60bd392178204d511cce09c29cf2d38e2583f3610ed61ab55150df68e0ae",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

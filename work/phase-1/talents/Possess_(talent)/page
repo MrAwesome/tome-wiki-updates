@@ -1,0 +1,28 @@
+{{Ability_box
+|image=possess.png
+|name=Possess
+|game_version=1.5.10
+|category_type={{ct|Psionic}}
+|category={{c|Possession}}
+|require={{TalentReq/PsiWilReq1}}
+|use_mode=Activated
+|range=3
+|cost=30 Psi
+|cooldown=30
+|travel_speed=Instantaneous
+|use_speed=Mind
+|desc=
+You cast a psionic web at a target that lasts for {{cts|5|10}} turns. Each turn it deals {{ctspd|25|400}}/({{cts|5|10}}) mind damage.
+If the target dies with the web in place you will capture its body and store it in a hidden psionic reserve.
+At any further time you can use the Assume Form talent to temporarily shed your own body and assume your new form, strengths and weaknesses both.
+You may only use this power if you have room for a new body in your storage.
+
+You may only steal the body of creatures of the following rank ''normal'' or lower.<br>
+
+*At level 3 up to rank ''elite''.
+*At level 5 up to rank ''unique''.
+*At level 7 up to rank ''boss''.
+
+You may only steal the body of creatures of the following types: ''humanoid, animal, "depends on starting race"''<br>
+When you try to possess a creature of a different type you may learn this type permanently, you can do that 1+ceil(({{gtl|1|5}})*0,7) more times.
+}}

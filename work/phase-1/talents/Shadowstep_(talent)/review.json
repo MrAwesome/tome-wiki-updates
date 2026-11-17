@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "f4b43f21db63ec1990ae3f38887c5299a399319747aa0afa020f5c6960a80de7",
+    "revid": 8054
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "baseline_preserved"
+    }
+  ],
+  "identity": {
+    "filename": "Shadowstep_(talent)",
+    "kind": "talent",
+    "pageid": 1289,
+    "wiki_title": "Shadowstep (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "baseline_preserved",
+    "candidate_page_sha256": "f4b43f21db63ec1990ae3f38887c5299a399319747aa0afa020f5c6960a80de7",
+    "source_sha256": "03ad1476b0811c966efa79ba8fc192cf95055cd0dddfd21ad7942b836ad695bb",
+    "status": "unsupported_info",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "f4b43f21db63ec1990ae3f38887c5299a399319747aa0afa020f5c6960a80de7",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

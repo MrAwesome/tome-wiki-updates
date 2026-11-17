@@ -1,0 +1,14 @@
+{{Ability_box
+|game_version=1.7.6
+|name=Rushing Claws
+|category_type=[[NPC Only (category type)|NPC Only]]
+|category=
+|require=
+|image=Rushing claws.png
+|range=8
+|cost=10 Equilibrium
+|cooldown=14
+|use_speed=Standard
+|is=a nature gift
+|desc=Rushes toward your target with incredible speed. If the target is reached, you use your claws to pin it to the ground for 5 turns. You must rush from at least 2 tiles away.
+}}

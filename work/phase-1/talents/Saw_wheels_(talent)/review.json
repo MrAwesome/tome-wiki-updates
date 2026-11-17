@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "2e1957ff470b977614045e61780fb504377b7c67e83be11b1e1346a896370a23",
+    "revid": 14591
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "baseline_preserved"
+    }
+  ],
+  "identity": {
+    "filename": "Saw_wheels_(talent)",
+    "kind": "talent",
+    "pageid": 4376,
+    "wiki_title": "Saw wheels (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "baseline_preserved",
+    "candidate_page_sha256": "2e1957ff470b977614045e61780fb504377b7c67e83be11b1e1346a896370a23",
+    "source_sha256": "2799a7df70a5fc5ef6cd71fd77b9813b1fbc75e67e36426bc10f3f3c33378e28",
+    "status": "unsupported_info",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "2e1957ff470b977614045e61780fb504377b7c67e83be11b1e1346a896370a23",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

@@ -1,0 +1,26 @@
+{{Ability box
+|game_version=1.4.5
+|image=Warp_mines.png
+|name=Warp mines
+|category_type={{ct|Chronomancy}}
+|category={{c|Spacetime Folding}}
+|require={{TalentReq/ChronoReq1}}
+|cost=10 Paradox
+|cooldown=10
+|range=see below
+|use_mode=Activated
+|desc=
+Learn to lay Warp Mines in a radius of 1.  Warp Mines teleport targets that trigger them either toward you or away from you depending on the type of mine used and inflict {{ctspd|20|200|PM}}/2 physical and {{ctspd|20|200|PM}}/2 temporal (warp) damage.
+The mines are hidden traps with:
+
+Disarm Power: {{cs|(0.15 * Mag * Talent Level)|0|0|75|75}}
+
+Detection Power: 80% of Disarm Power
+
+Traps last for {{cts|6|10}} turns, and each have a ten turn cooldown.
+Investing in this talent passively improves the range of all {{c|Spacetime Folding}} talents, and the damage caused by your Warp Mines will improve with your Spellpower.
+
+Current Spacetime Folding Range: {{cts|5|9|0.5|0A|1S}}
+
+''This description has been rewritten from the in-game format for easier readability.''
+}}

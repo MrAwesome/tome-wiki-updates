@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "2e9c18a33c18313ea2d534efe69749cbc9f35d6d9a1428877f66ebc4e4810a28",
+    "revid": 22117
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "baseline_preserved"
+    }
+  ],
+  "identity": {
+    "filename": "Re-assemble_(talent)",
+    "kind": "talent",
+    "pageid": 1373,
+    "wiki_title": "Re-assemble (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "baseline_preserved",
+    "candidate_page_sha256": "2e9c18a33c18313ea2d534efe69749cbc9f35d6d9a1428877f66ebc4e4810a28",
+    "source_sha256": "89c724ec281f7383da26915360d01a8f5ba324c6df8b4818e934a8c32ee73111",
+    "status": "unsupported_info",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "2e9c18a33c18313ea2d534efe69749cbc9f35d6d9a1428877f66ebc4e4810a28",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

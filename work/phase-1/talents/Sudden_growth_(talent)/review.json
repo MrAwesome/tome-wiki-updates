@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "782e06be2f79204ac2e56ce52eeb640708d98a51fb6c161b34d0a71dad82a837",
+    "revid": 23084
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "baseline_preserved"
+    }
+  ],
+  "identity": {
+    "filename": "Sudden_growth_(talent)",
+    "kind": "talent",
+    "pageid": 1423,
+    "wiki_title": "Sudden growth (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "baseline_preserved",
+    "candidate_page_sha256": "782e06be2f79204ac2e56ce52eeb640708d98a51fb6c161b34d0a71dad82a837",
+    "source_sha256": "46f01e0b97855e5b1010ff94d2d56a52e51a28d5d9fd4ebbdcbb90bf2c273c8c",
+    "status": "unsupported_info",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "782e06be2f79204ac2e56ce52eeb640708d98a51fb6c161b34d0a71dad82a837",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

@@ -1,0 +1,15 @@
+{{Ability box
+|game_version=1.7.6
+|image=Nature_s balance.png
+|name=Nature's Balance
+|category_type={{ct|Wild-Gift}}
+|category={{c|Call of the Wild}}
+|require={{TalentReq/GiftsReq4}}
+|cost=20 Equilibrium
+|cooldown=50
+|range=10
+|use_speed=Mind
+|desc=
+Your deep link with Nature allows you to reset the cooldown of {{cts|2|7|log}} of your wild gifts of tier {{gtl|1|5}} or less.
+|avail.escorts=[[Escorts#Seer_.28Arcane.29|Seer (Arcane)]] ([[Escorts#Betraying_to_Zigur|Betray Escort to Zigur]]), via revealing the locked {{c|Call of the Wild}} category
+}}

@@ -1,0 +1,30 @@
+{{Ability box
+|game_version=1.7.4
+|image=Beyond the flesh.png
+|name=Beyond the Flesh
+|category_type={{ct|Psionic}}
+|category=Other
+|require=Learn any of the [[Mindslayer]]'s {{ct|Psionic}} talents
+|use_mode=Sustained
+|cooldown=0
+|cost= 0 Psi
+|use_speed=0
+|desc=
+Allows you to wield a physical melee or ranged weapon, a mindstar or a gem telekinetically, gaining a special effect for each.
+
+''Note: To wield a different item, use the {{t|Telekinetic Grasp}} talent.''
+
+A gem will provide +3 bonus to all primary stats per tier of the gem.
+
+A mindstar will randomly try to telekinetically grab a far away foe (10% chance and range 3 for a tier 1 mindstar, +1 range and +5% chance for each tier above 1) and pull it into melee range.
+
+A physical melee weapon will act as a semi independent entity, automatically attacking adjacent foes each turn, while a ranged weapon will fire at your target whenever you perform a ranged attack.
+''Note: Ranged weapons used this way must correspond to your equipped ammo type, and the extra shots from this consumes additional ammo if the original attack used ammo.''
+
+While this talent is active, all melee and ranged attacks ''(with all weapons)'' will use 60% of your Cunning and Willpower in place of Dexterity and Strength for accuracy and damage calculations respectively. 
+''Note: This means that for example a dagger wielded in any slot which would usually use 50% Dexterity and 50% Strength will instead use 30% Willpower and 30% Cunning.''
+
+''In-game, details of the currently-wielded item are listed here.''
+
+''Note: This is automatically learned upon learning any of the [[Mindslayer]]'s {{ct|Psionic}} talents, except for {{c|Augmented Mobility}} talents (since they are available from [[Escorts]], etc).''
+}}

@@ -1,0 +1,14 @@
+{{Ability_box
+|game_version=1.7.4
+|image=Essence_of_speed_2017.png
+|name=Essence of Speed
+|category_type={{ct|Spell}}
+|category={{c|Temporal}}
+|require={{TalentReq/SpellsReq4}}
+|use_mode=Sustained
+|cost=120 Mana
+|cooldown=20
+|use_speed=Spell
+|desc=
+Increases the caster's global speed by {{cts|7.5|26%|1/3}}.
+}}

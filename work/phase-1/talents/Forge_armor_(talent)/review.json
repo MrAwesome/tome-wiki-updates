@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "ac50b702fe7015f0d2863a96fdf2a3dc7da03e192deca10e513ec920bfdc43b2",
+    "revid": 8850
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Forge_armor_(talent)",
+    "kind": "talent",
+    "pageid": 1205,
+    "wiki_title": "Forge armor (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "c3a83c69d02954d5cad79a63d430453302bf7d87cd46e47fad7fde042ed68dc6",
+    "source_sha256": "038ef6cffb16df4810d183097d50eace33659e85a225d2e4cc1eec103b63deaa",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "c3a83c69d02954d5cad79a63d430453302bf7d87cd46e47fad7fde042ed68dc6",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

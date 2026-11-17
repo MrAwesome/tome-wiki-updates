@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "b25c8901b9f112ecf27496ba371c822cf4c5402d1cd571c47e90edd8e161e2fc",
+    "revid": 8732
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Relaxed_shot_(talent)",
+    "kind": "talent",
+    "pageid": 1361,
+    "wiki_title": "Relaxed shot (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "7790c90d878bdf6c00b2d050eaec1591860aa709c2607175604f3144a70eeef3",
+    "source_sha256": "4c26268cd967d35171d9854350db863fa31306bb2c90ae324ed7dfad644f11ea",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "7790c90d878bdf6c00b2d050eaec1591860aa709c2607175604f3144a70eeef3",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

@@ -1,0 +1,20 @@
+{{Ability box
+|game_version=1.7.6
+|image=Corpselight.png
+|name=Corpselight
+|category_type={{ct|Spell}}
+|category={{c|Grave}}
+|require={{TalentReq/SpellsReq3}}
+|cost=20 Mana & 1 SOUL (2 with Grave Mistake passive)
+|cooldown=15
+|range=7
+|travel_speed=Instantaneous
+|use_speed=Spell
+|desc=
+You summon a corpselight that radiates cold for 7 turns in radius 3.
+Every turn all foes inside take {{ctspd|4.285714286|57.14285714}} cold damage.
+Anytime you cast a spell while standing inside your corpselight's area it grows by one stack, each stack giving +1 radius and +10% damage.
+The corpselight can gain at most {{cts|3|7}} stacks and the radius will never extend beyond 10.
+If cast while under 1 life it spawns with 3 stacks.
+The damage will increase with your Spellpower.
+}}

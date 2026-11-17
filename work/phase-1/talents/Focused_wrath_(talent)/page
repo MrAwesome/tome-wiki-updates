@@ -1,0 +1,19 @@
+{{Ability_box
+|game_version=1.7.6
+|image=Focused wrath.png
+|name=Focused wrath
+|category_type=[[Psionic (category type)|Psionic]]
+|category=[[Discharge (category)|Discharge]]
+|require={{TalentReq/PsiWilHigh4}}
+|use_mode=Activated
+|range=7
+|cost=25 Feedback
+|cooldown=12
+|travel_speed=Instant
+|use_speed=1
+|desc=
+Focus your mind on a single target, diverting all offensive Discharge talent effects to it for {{ctl|12|4|8}} turns.  While this effect is active, all Discharge talents gain {{ctmd|10|50}} critical power and you ignore {{cts|15|45%}} mind resistance of your targets.
+If the target is killed, the effect will end early.
+At level level 5 your single-minded focus also resets the cooldown of Mind Storm.
+The damage bonus will scale with your Mindpower.
+}}

@@ -1,0 +1,10 @@
+{{Ability_box
+|game_version=1.7.6
+|name=Heal
+|category_type=[[NPC Only (category type)|NPC Only]]
+|category=-
+|image=heal.png
+|desc=
+Imbues your body with natural energies, healing for {{ctmd|50|560}} life.
+The life healed will increase with your Mindpower.
+}}

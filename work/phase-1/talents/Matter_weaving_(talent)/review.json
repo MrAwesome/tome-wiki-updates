@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "b455cf3d5ddce3c0529fb314e6dfff603c79af98d43f952a94a7b8cac543a272",
+    "revid": 10400
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Matter_weaving_(talent)",
+    "kind": "talent",
+    "pageid": 3911,
+    "wiki_title": "Matter weaving (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "6ae58727587ec2066abfa4618a58ce40e09e60e1cb489d656d62679174bb354e",
+    "source_sha256": "c196b7ff807dcddb97040d65ee89340472b6c2c759ba3609c38bff44381c9fd2",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "6ae58727587ec2066abfa4618a58ce40e09e60e1cb489d656d62679174bb354e",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

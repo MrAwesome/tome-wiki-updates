@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "a1de031633dd489f41a3d9cb915b8d134264517c8e6061bf8ddf376384c5be2f",
+    "revid": 22720
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Reabsorb_(talent)",
+    "kind": "talent",
+    "pageid": 1245,
+    "wiki_title": "Reabsorb (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "3990ed5ce285086348e011b990409fd6ec83693ad929aa0cf448f0ec16898aa7",
+    "source_sha256": "20889794d7c014f4472eb3e12d0635db4f161b2b61e139d54c3e5fa53e0f9d99",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "3990ed5ce285086348e011b990409fd6ec83693ad929aa0cf448f0ec16898aa7",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

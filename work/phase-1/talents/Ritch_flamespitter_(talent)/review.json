@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "2a550e49b8d5329337b42c7477d265b78cb4cbf719f53d3449b79d4506e3a113",
+    "revid": 8367
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "baseline_preserved"
+    }
+  ],
+  "identity": {
+    "filename": "Ritch_flamespitter_(talent)",
+    "kind": "talent",
+    "pageid": 1556,
+    "wiki_title": "Ritch flamespitter (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "baseline_preserved",
+    "candidate_page_sha256": "2a550e49b8d5329337b42c7477d265b78cb4cbf719f53d3449b79d4506e3a113",
+    "source_sha256": "647fa41f0891735435261fb1b75a9f3ab2e9be16288e14ed3ed5c5562eec59f0",
+    "status": "unsupported_info",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "2a550e49b8d5329337b42c7477d265b78cb4cbf719f53d3449b79d4506e3a113",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

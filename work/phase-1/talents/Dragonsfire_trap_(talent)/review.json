@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "29bda11d97778b5f84e0f5a7bac7f2bc43b4456e600cceb18b95fbe552fcef1c",
+    "revid": 19801
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:58Z",
+      "event": "deterministic_render_applied",
+      "reason": "baseline_preserved"
+    }
+  ],
+  "identity": {
+    "filename": "Dragonsfire_trap_(talent)",
+    "kind": "talent",
+    "pageid": 6169,
+    "wiki_title": "Dragonsfire trap (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "baseline_preserved",
+    "candidate_page_sha256": "29bda11d97778b5f84e0f5a7bac7f2bc43b4456e600cceb18b95fbe552fcef1c",
+    "source_sha256": "cad2fa64c07f8ae38f30c2e5d49b58356d70d052108aa419d10433e65ce08947",
+    "status": "unsupported_info",
+    "updated_at": "2026-11-08T16:08:58Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "29bda11d97778b5f84e0f5a7bac7f2bc43b4456e600cceb18b95fbe552fcef1c",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

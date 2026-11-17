@@ -1,0 +1,11 @@
+{{Ability_box
+|game_version = 1.7.6
+|name = Path to Beyond
+|image = path to beyond.png
+|category_type={{ct|Spell}}
+|category={{c|Spectre}}
+|require = {{TalentReq/SpellsReq4}}
+|use_mode = Passive
+|desc =
+On using Ghost Walk - Return, you create a portal that summons {{cts|2|4}} spirits around you for {{cts|5|9}} turns. The spirits do very little damage, but taunt all enemies in radius 3 into attacking them.
+}}

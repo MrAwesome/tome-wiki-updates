@@ -1,0 +1,15 @@
+{{Ability_box|image=Heat.png|name=Heat
+|game_version=1.7.6
+|category_type=[[Spell (category type)|Spell]]
+|category=[[Fire alchemy (category)|Fire alchemy]]
+|require=Level: (0, 1, 2, 3, 4) Magic (12, 14, 16, 18, 20)
+|use_mode=activated
+|range=10
+|cost=10 mana
+|cooldown=5
+|travel_speed=20
+|use_speed=1 turn
+|desc=
+Turn part of your target into fire, burning the rest for {{ctspd|25|620}} fire damage over 8 turns.
+The damage will increase with your Spellpower.
+}}

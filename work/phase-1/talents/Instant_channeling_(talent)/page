@@ -1,0 +1,19 @@
+{{Ability box
+|image=Instant channeling.png
+|name=Instant channeling
+|game_version=1.7.6
+|embers_version=1.1.10
+|category_type={{ct|Steamtech}}
+|category={{c|Gestalt}}
+|require={{TalentReq/PsiWilReq3}}
+|use_mode=Activated
+|cooldown=12
+|use_speed=0
+|desc=Instantly channel all of your remaining steam to replenish your psi energies and either enhance your active psionic damage shield or trigger a new one.
+
+The (new or existing) shield duration is increased by 3 turns and its power is boosted by {{CTS|80|370%}} of the steam used.
+
+You restore psi equal to {{CTS|25|50%}} of the steam used.
+
+This talent requires Gestalt to be active and either an active psionic damage shield or Improved Gestalt off cooldown.
+}}

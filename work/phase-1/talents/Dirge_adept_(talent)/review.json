@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "252465d69ef366251e5625bcca5e24b84cbc00ffeedd8676a541e5dfdef18cea",
+    "revid": 22827
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:58Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Dirge_adept_(talent)",
+    "kind": "talent",
+    "pageid": 7017,
+    "wiki_title": "Dirge adept (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "8b7f5a68d7607a3e93b94de4227f70b3c920c5fb8ed235f55d0535f8ae88c991",
+    "source_sha256": "d9f8e153ac9d7c92ea670616aa88d9d410b4b14e1e521173dd86d419e5ef7e3a",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:58Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "8b7f5a68d7607a3e93b94de4227f70b3c920c5fb8ed235f55d0535f8ae88c991",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

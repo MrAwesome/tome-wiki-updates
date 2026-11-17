@@ -1,0 +1,15 @@
+{{Ability box
+|game_version=1.7.6
+|image=Induce anomaly.png
+|name=Induce Anomaly
+|category_type={{ct|Chronomancy}}
+|category={{c|Flux}}
+|require={{TalentReq/ChronoReq1}}
+|use_mode=Activated
+|cooldown=12
+|use_speed=Instant
+|desc=
+Create an anomaly, reducing your Paradox by {{ctspd|20|80|PM}}.  This spell will never produce a major anomaly.
+Induced Anomalies may not be held by {{t|Twist Fate}}, nor do they cause held anomalies to trigger.  However upon learning Twist Fate you may target Induced Anomalies.
+The Paradox reduction will increase with your Spellpower.
+}}

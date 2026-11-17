@@ -1,0 +1,17 @@
+{{Ability box
+|game_version=1.7.6
+|image=Disjointed_Mind.png
+|name=Disjointed Mind
+|category_type={{ct|Demented}}
+|category={{c|Beyond Sanity}}
+|require={{TalentReq/SpellsReq3}}
+|use_mode=Active
+|cost=-15 insanity
+|cooldown=16
+|range=7
+|desc=
+You trigger an explosion of your chaos orbs on a target.
+The orbs do no damage but confuse it for {{ctl|15|5|10}} turns with a confusion power of 10% per orb.
+Your effective spellpower used to overcome the target's mental save is also increased by 10% per orb.
+All your orbs are always spent.
+}}

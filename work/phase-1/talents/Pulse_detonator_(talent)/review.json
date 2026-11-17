@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "76ce3664d235f882c3eba0ea66de7519a9da0c8a103174ec8ec2d39243e42e24",
+    "revid": 14560
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Pulse_detonator_(talent)",
+    "kind": "talent",
+    "pageid": 5167,
+    "wiki_title": "Pulse detonator (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "29c5baa3341b897ea67a620d004e499cddc583488b9cb2e6c07943cba8259f9a",
+    "source_sha256": "a6a503ad9f3f8fd9a72539d8dbfa39d015002d678d54f7497a3911af1258b441",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "29c5baa3341b897ea67a620d004e499cddc583488b9cb2e6c07943cba8259f9a",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

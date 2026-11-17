@@ -1,0 +1,11 @@
+{{Ability_box
+|image=Ambuscade.png
+|name=Nautical Combat
+|category_type={{ct|Cunning}}
+|category={{c|Piracy}}
+|require={{TalentReq/CunsReq1}}
+|use_mode=Passive
+|desc=
+You rock back and forth as if swaying on a deck, granting a bonus to Defense and Critical Multiplier of {{cs|(Cunning * Talent Level)|0|0|50.0%|500|0.75}}.
+
+}}

@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "d9e90941225ce9e65934bac11da2efbe6e4ac094ee6360f635c878988cc54444",
+    "revid": 13734
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Garrote_(talent)",
+    "kind": "talent",
+    "pageid": 4656,
+    "wiki_title": "Garrote (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "da1ecdba8e341718ab66f1e94593e52c9270ca031673fd9c1c210f8c1d3516a9",
+    "source_sha256": "2d3c054a8c2cbf6883daef9cf154ea734d7fc8795caf342cf028645dc8d23501",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "da1ecdba8e341718ab66f1e94593e52c9270ca031673fd9c1c210f8c1d3516a9",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

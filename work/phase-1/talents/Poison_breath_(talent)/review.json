@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "e62fd77cced56f6b4181e0501ef6fee1b8d04da36d8630d26b9a86b8f7b84ba6",
+    "revid": 22561
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Poison_breath_(talent)",
+    "kind": "talent",
+    "pageid": 6982,
+    "wiki_title": "Poison breath (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "cca502371a7ae17386ac71bd142f49393797f65721c6d3878b61f429ff77884a",
+    "source_sha256": "647fa41f0891735435261fb1b75a9f3ab2e9be16288e14ed3ed5c5562eec59f0",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "cca502371a7ae17386ac71bd142f49393797f65721c6d3878b61f429ff77884a",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

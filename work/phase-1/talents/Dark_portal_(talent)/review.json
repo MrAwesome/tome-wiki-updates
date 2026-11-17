@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "cff4478b849d428888ec1e35c214dc4b0303771ed660ee2bfbd06291d4c34b9e",
+    "revid": 18545
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:58Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Dark_portal_(talent)",
+    "kind": "talent",
+    "pageid": 1647,
+    "wiki_title": "Dark portal (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "565366213d13fc834ff5aae00f27e81a0572d31633dd80c801a91ddd0185011d",
+    "source_sha256": "dc446094ace709d5c1a5d470cfaeca2c236e94a290d8667d59772e3d52845a71",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:58Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "565366213d13fc834ff5aae00f27e81a0572d31633dd80c801a91ddd0185011d",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "3f57c59901997abd9be6d5af33cebef25b52f1145848522c67a795e7faa4b262",
+    "revid": 11369
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "baseline_preserved"
+    }
+  ],
+  "identity": {
+    "filename": "Spacetime_tuning_(talent)",
+    "kind": "talent",
+    "pageid": 2985,
+    "wiki_title": "Spacetime tuning (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "baseline_preserved",
+    "candidate_page_sha256": "3f57c59901997abd9be6d5af33cebef25b52f1145848522c67a795e7faa4b262",
+    "source_sha256": "d65367d33fedbe507f377497449e86409aab95d3b4cd535466e49a27144381ea",
+    "status": "unsupported_info",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "3f57c59901997abd9be6d5af33cebef25b52f1145848522c67a795e7faa4b262",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

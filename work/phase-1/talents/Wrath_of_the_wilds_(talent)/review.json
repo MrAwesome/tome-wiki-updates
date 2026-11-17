@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "e51bd82b954941347d6e2c5e96adcfc543a73d3ca26c0ee49b1092ed546555d3",
+    "revid": 22093
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Wrath_of_the_wilds_(talent)",
+    "kind": "talent",
+    "pageid": 5222,
+    "wiki_title": "Wrath of the wilds (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "8082dd2db73a51e75f8f82aab1d4f6b18ae5dde6f067908b979a073ccb93bb61",
+    "source_sha256": "59b9b67cb0a3752d9e66dc28f587dcaa40a6ffd16bfdc85bdd17ab803c80b05f",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "8082dd2db73a51e75f8f82aab1d4f6b18ae5dde6f067908b979a073ccb93bb61",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

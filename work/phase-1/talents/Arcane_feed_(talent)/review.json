@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "5cb947aaffb4306a5e47e25fb6e9405253c9a45c99b86d3a9dc5a364cd5a5d47",
+    "revid": 13984
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:58Z",
+      "event": "deterministic_render_applied",
+      "reason": "baseline_preserved"
+    }
+  ],
+  "identity": {
+    "filename": "Arcane_feed_(talent)",
+    "kind": "talent",
+    "pageid": 1676,
+    "wiki_title": "Arcane feed (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "baseline_preserved",
+    "candidate_page_sha256": "5cb947aaffb4306a5e47e25fb6e9405253c9a45c99b86d3a9dc5a364cd5a5d47",
+    "source_sha256": "b3e5608342bd0ba6861bc9212482b83bd0ebde1cfdbf84e08784899a871eafdc",
+    "status": "unsupported_info",
+    "updated_at": "2026-11-08T16:08:58Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "5cb947aaffb4306a5e47e25fb6e9405253c9a45c99b86d3a9dc5a364cd5a5d47",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

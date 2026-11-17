@@ -1,0 +1,19 @@
+{{Ability_box
+|game_version = 1.7.6
+|name = Rime Wraith
+|image = rime wraith.png
+|category_type={{ct|Spell}}
+|category={{c|Rime Wraith}}
+|require = {{TalentReq/SpellsReqHigh1}}
+|cost = 15 Mana, 3 Souls
+|range = 10
+|cooldown = 30 (fixed cooldown)
+|use_speed = Spell
+|desc =
+You summon a Rime Wraith inside of you, an intangible creature, that haunts both foes and allies for {{cts|10|20}} turns.
+Every turn the wraith will select a new target and jump to it.
+When the wraith enters a creature they are covered in hoarfrost for 3 turns:
+*if friendly: increases cold resistance by {{cts|10|30%}}, converts all damage done to cold and increases cold damage by {{cts|12|30%}}.
+*if hostile: reduces cold resistance by {{cts|5|15%}} and move {{cts|20|40%}} slower
+When selecting a target the wraith prefers one that is not affected by hoarfrost if possible.
+}}

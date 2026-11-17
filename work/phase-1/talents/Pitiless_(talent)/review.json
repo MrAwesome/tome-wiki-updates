@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "5122dbf938ad4842fed7a1cc44407a63ac14c1fe2302c14e5bad59397b9003a4",
+    "revid": 23312
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Pitiless_(talent)",
+    "kind": "talent",
+    "pageid": 3717,
+    "wiki_title": "Pitiless (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "24b1687068605772a353bb3b40013a25f715ab8100fdb503371eee081a7606df",
+    "source_sha256": "66694c6705237debcb294c93b961f88711ac365f840f2b6fc5603ea65635e544",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "24b1687068605772a353bb3b40013a25f715ab8100fdb503371eee081a7606df",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

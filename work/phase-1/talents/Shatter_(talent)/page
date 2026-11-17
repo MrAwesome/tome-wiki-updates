@@ -1,0 +1,24 @@
+{{Ability box
+|image=Shatter_2017.png
+|name=Shatter
+|category_type={{ct|Spell}}
+|category={{c|Ice}}
+|require={{TalentReq/SpellsReqHigh3}}
+|cost=25 Mana
+|cooldown=15
+|range=10
+|desc=
+Shatter all frozen targets in your line of sight, doing {{ctspd|10|320}} cold damage.
+
+Depending on the target's rank, there will also be an additional effect:
+
+* Critters will be instantly killed
+* +50% critical chance against Normal rank
+* +25% critical chance against Elites or Bosses
+
+All affected foes will get the wet effect.
+
+At most, it will affect (2 + Talent Level) foes.
+
+The damage will increase with your Spellpower.
+}}

@@ -1,0 +1,13 @@
+{{Ability box
+|game_version=1.7.6
+|image=Flame Fury.png
+|name=Flame Fury
+|category_type={{ct|Wild-Gift}}
+|category={{c|Other}}
+|cooldown=5
+|cost=5 Equilibrium
+|range=0
+|desc=
+A wave of fire emanates from you with radius {{cts|2|6}}, knocking back anything caught inside and setting them ablaze and doing {{ctmd|28|180}} fire damage over 3 turns.
+The damage will increase with your Mindpower.
+}}

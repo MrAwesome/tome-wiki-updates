@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "5dd2f842e03139ef034dfec3751eff25d9049ee01f1d78b91693aacc3a5baac3",
+    "revid": 22821
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Superconduction_(talent)",
+    "kind": "talent",
+    "pageid": 5198,
+    "wiki_title": "Superconduction (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "9e08be14b6ef056c300a13eb0157ff04ea988343df45b1144b239df2ae10f2d1",
+    "source_sha256": "dd6a1ba6bfb4de89349a71150a80432f1ab5c8aa1ca102b071ee9c26be09f42f",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "9e08be14b6ef056c300a13eb0157ff04ea988343df45b1144b239df2ae10f2d1",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

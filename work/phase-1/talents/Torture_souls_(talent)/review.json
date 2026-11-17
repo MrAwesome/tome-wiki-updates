@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "e8dd3b88ce8a811669b9c0c2ff5340321d07dac809de05ecad2cac0c088f40b2",
+    "revid": 18950
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Torture_souls_(talent)",
+    "kind": "talent",
+    "pageid": 5984,
+    "wiki_title": "Torture souls (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "8edb34262a5ae1c5d5548604c8b2dea5c3622e4b2bd016c5a71646b0032fdd3e",
+    "source_sha256": "7708b42e50d5494d10915483c489e7d685457bbcc0bc40da77f988677655be87",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "8edb34262a5ae1c5d5548604c8b2dea5c3622e4b2bd016c5a71646b0032fdd3e",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

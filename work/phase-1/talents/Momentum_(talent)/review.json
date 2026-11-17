@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "8e46f7b51ca6eb53fcf406909c4928de454da9e507c5d447cd347a57ea25a3e7",
+    "revid": 7694
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Momentum_(talent)",
+    "kind": "talent",
+    "pageid": 1349,
+    "wiki_title": "Momentum (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "769c7719830614a014fed5992db1330e3c29eee110ae9355d85cce2903df3047",
+    "source_sha256": "dc640c1af5d22a45472d843380c9de01334530b3831bd2b9fe88ee0cba3abc23",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "769c7719830614a014fed5992db1330e3c29eee110ae9355d85cce2903df3047",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "0b2647a80c0f4264757c7d8d049f29113c6e54b42a00b6b262b48e5d9a508823",
+    "revid": 12803
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Void_blast_(talent)",
+    "kind": "talent",
+    "pageid": 2932,
+    "wiki_title": "Void blast (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "21e2db2c0817510489be54914f72d9efd6e1ee8aac074ad88aa882147c269227",
+    "source_sha256": "dc640c1af5d22a45472d843380c9de01334530b3831bd2b9fe88ee0cba3abc23",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "21e2db2c0817510489be54914f72d9efd6e1ee8aac074ad88aa882147c269227",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

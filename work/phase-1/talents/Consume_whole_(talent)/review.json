@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "e7334affd73175f1d687f2c6dd63fc2a422178f60c8d2800a1c20365e6abe069",
+    "revid": 19582
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:58Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Consume_whole_(talent)",
+    "kind": "talent",
+    "pageid": 5315,
+    "wiki_title": "Consume whole (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "66aa2cb850a638b5efc9af42920b04c26d5124afb5ac0ecb40117ee42d686323",
+    "source_sha256": "469dd52ed0413b59395dc7ae46a0a8a0e4eaca5ce8c85e430df6e489e899a3d3",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:58Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "66aa2cb850a638b5efc9af42920b04c26d5124afb5ac0ecb40117ee42d686323",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

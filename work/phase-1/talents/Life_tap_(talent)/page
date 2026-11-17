@@ -1,0 +1,19 @@
+{{Redirect2|the [[Corruptor]] and [[Reaver]] talent|[[Alchemist]] talent|{{t|Life Tap Golem}}}}
+{{Ability box
+|image=Life tap.png
+|name=Life Tap
+|game_version=1.7.6
+|category_type={{ct|Corruption}}
+|category={{c|Sanguisuge}}
+|require={{TalentReq/CorrsReq4}}
+|cost=40 Vim
+|cooldown=20
+|travel_speed=instantaneous
+|use_speed=0
+|desc=
+Feed on the pain you cause your foes.
+
+For 2 turns you gain {{ctspd|4|30}} lifesteal on all damage dealt.
+
+The lifesteal will increase with your Spellpower.
+}}

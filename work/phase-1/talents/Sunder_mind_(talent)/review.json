@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "f8ca19b306270ff510518929e98cc7938046daa4e3548eed2e6f2c8d62ebcdea",
+    "revid": 8651
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Sunder_mind_(talent)",
+    "kind": "talent",
+    "pageid": 1444,
+    "wiki_title": "Sunder mind (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "62af507303062845744147b1141d64628856dd94f430f2f9b52d19950c0b3ad3",
+    "source_sha256": "4bf3db5af289d8102e7cc3afd3e99c92f53233392cc7a0fba912da463cb15466",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "62af507303062845744147b1141d64628856dd94f430f2f9b52d19950c0b3ad3",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

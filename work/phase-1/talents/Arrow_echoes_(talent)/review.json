@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "587cd1759606f7767984dbc3edd4555b0ed8e0c73826c0d87f37ca262f123c07",
+    "revid": 11567
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:58Z",
+      "event": "deterministic_render_applied",
+      "reason": "baseline_preserved"
+    }
+  ],
+  "identity": {
+    "filename": "Arrow_echoes_(talent)",
+    "kind": "talent",
+    "pageid": 4290,
+    "wiki_title": "Arrow echoes (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "baseline_preserved",
+    "candidate_page_sha256": "587cd1759606f7767984dbc3edd4555b0ed8e0c73826c0d87f37ca262f123c07",
+    "source_sha256": "23fb5027225c3996c8ac0632edc123352613760ed343af1c70835a235afa6f95",
+    "status": "unsupported_info",
+    "updated_at": "2026-11-08T16:08:58Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "587cd1759606f7767984dbc3edd4555b0ed8e0c73826c0d87f37ca262f123c07",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

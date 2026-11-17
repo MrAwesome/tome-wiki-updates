@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "52c30fc47753985bf9100f10ae4ba2cca174288e350e1e315d03cfc8e43a8de3",
+    "revid": 19467
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Ghost_walk_(talent)",
+    "kind": "talent",
+    "pageid": 6098,
+    "wiki_title": "Ghost walk (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "fcc12a8c879166300bf4f507d0964a440ded1656aba464537e98cc7fba198dc9",
+    "source_sha256": "d351491314d385e633f965607307c01413993af87557d1e9f8d9a6eef057078f",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "fcc12a8c879166300bf4f507d0964a440ded1656aba464537e98cc7fba198dc9",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

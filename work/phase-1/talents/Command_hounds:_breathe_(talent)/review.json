@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "256c2083f1e289e976f6342d06f516ab0587d84cb8ad23444377ad536d000775",
+    "revid": 11610
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:58Z",
+      "event": "deterministic_render_applied",
+      "reason": "baseline_preserved"
+    }
+  ],
+  "identity": {
+    "filename": "Command_hounds:_breathe_(talent)",
+    "kind": "talent",
+    "pageid": 4314,
+    "wiki_title": "Command hounds: breathe (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "baseline_preserved",
+    "candidate_page_sha256": "256c2083f1e289e976f6342d06f516ab0587d84cb8ad23444377ad536d000775",
+    "source_sha256": "cebc15291b3ebe60c9c7c9cba979279ae0994bdae20ccfe0d73ca214a5fde68f",
+    "status": "unsupported_info",
+    "updated_at": "2026-11-08T16:08:58Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "256c2083f1e289e976f6342d06f516ab0587d84cb8ad23444377ad536d000775",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

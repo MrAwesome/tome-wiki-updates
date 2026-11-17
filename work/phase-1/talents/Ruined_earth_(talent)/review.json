@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "19684cd83162c33a7ba8ec6cde91036a8685ebd5cebc50b19e11b815c1f113e0",
+    "revid": 8218
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "baseline_preserved"
+    }
+  ],
+  "identity": {
+    "filename": "Ruined_earth_(talent)",
+    "kind": "talent",
+    "pageid": 1443,
+    "wiki_title": "Ruined earth (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "baseline_preserved",
+    "candidate_page_sha256": "19684cd83162c33a7ba8ec6cde91036a8685ebd5cebc50b19e11b815c1f113e0",
+    "source_sha256": "f507f22b67613b0301b832ee4ae625b2de6349d6a10c0de2242f577a6cb94910",
+    "status": "unsupported_info",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "19684cd83162c33a7ba8ec6cde91036a8685ebd5cebc50b19e11b815c1f113e0",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

@@ -1,0 +1,22 @@
+{{Ability_box
+|game_version=1.7.4
+|image=soul_leech.png
+|name=Soul Leech
+|category_type={{ct|Spell}}
+|category={{c|Animus}}
+|require={{TalentReq/SpellsReq1}}
+|use_mode=Passive
+|desc=
+Each time you or your undead minions deal damage to a creature you apply Soul Leech to them.
+
+If a creature dies with this effect active, you steal its soul.
+
+Strong creatures and bosses are so overflowing with soul power that you steal a fragment of their soul every few turns:
+
+* {{color rank|rare|rare: at most every ({{ctl|1|10|3}} × 3) turns}}
+* {{color rank|unique|unique: at most every ({{ctl|1|10|3}} × 2.2) turns}}
+* {{color rank|boss|boss: at most every ({{ctl|1|10|3}} × 1.3) turns}}
+* {{color rank|elite boss|elite boss: at most every {{ctl|1|10|3}} turns}}
+
+Also increases your maximum souls capacity by {{cts|2|8}} .
+}}

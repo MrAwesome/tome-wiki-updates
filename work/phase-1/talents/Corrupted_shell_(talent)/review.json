@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "1eb89c7015e8196ceb19701d12fbe1e8f650a0be40f6248557e87140f7c5f97b",
+    "revid": 23181
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:58Z",
+      "event": "deterministic_render_applied",
+      "reason": "baseline_preserved"
+    }
+  ],
+  "identity": {
+    "filename": "Corrupted_shell_(talent)",
+    "kind": "talent",
+    "pageid": 3458,
+    "wiki_title": "Corrupted shell (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "baseline_preserved",
+    "candidate_page_sha256": "1eb89c7015e8196ceb19701d12fbe1e8f650a0be40f6248557e87140f7c5f97b",
+    "source_sha256": "b260bc4a014c91d3ee733275ca1d2671d56db3fbe4afb6cd58b4bd9d8ced33eb",
+    "status": "unsupported_info",
+    "updated_at": "2026-11-08T16:08:58Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "1eb89c7015e8196ceb19701d12fbe1e8f650a0be40f6248557e87140f7c5f97b",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

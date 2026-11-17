@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "b265d558205ce05e6806176fab1d44146d3c97d9b88ec34fd74b98b86be21fcf",
+    "revid": 13085
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Impaling_spikes_(talent)",
+    "kind": "talent",
+    "pageid": 4617,
+    "wiki_title": "Impaling spikes (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "e702f4a080a921a45fe0949cf3c9d0e70ff3ec04f4b86490367b85042ab93aaf",
+    "source_sha256": "cc67950ff782342bc43b8c643dfd2accfec6734b7a37c62d424a7b926ba8ff44",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "e702f4a080a921a45fe0949cf3c9d0e70ff3ec04f4b86490367b85042ab93aaf",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

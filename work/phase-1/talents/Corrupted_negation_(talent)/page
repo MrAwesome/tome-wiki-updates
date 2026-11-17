@@ -1,0 +1,15 @@
+{{Ability box
+|game_version=1.7.6
+|image=Corrupted negation.png
+|name=Corrupted Negation
+|category_type={{ct|Corruption}}
+|category={{c|Blight}}
+|require={{TalentReq/CorrsReq2}}
+|cooldown=10
+|cost=30 Vim
+|range=10
+|desc=
+Project a corrupted blast of power that removes up to {{cts|1|5|log}} magical or physical effects or any type of sustain and deals {{ctspd|28|120}} blight damage to any creatures caught in the radius 3 ball.
+For each effect, the creature has a chance to resist based on its spell save.
+The damage will increase with your Spellpower.
+}}

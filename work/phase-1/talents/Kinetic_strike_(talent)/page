@@ -1,0 +1,19 @@
+{{Ability_box
+|game_version=1.7.6
+|image=kinetic_strike.png
+|name=Kinetic Strike
+|category_type=[[Psionic (category type)|Psionic]]
+|category={{c|Augmented Striking}}
+|require={{TalentReq/PsiWilReq1}}
+|use_mode=Activated
+|cost=10 Psi
+|cooldown=8
+|desc=
+Focus kinetic energy and strike an enemy for {{ctwd|50|200%}} weapon damage as physical.
+
+They will be pinned to the ground for {{cts|2|6}} turns by the force of this attack.
+
+Any frozen creature hit by this attack will take an extra {{ctmd|20|200}} physical damage.
+
+The extra damage will scale with your Mindpower.
+}}

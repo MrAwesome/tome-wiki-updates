@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "f2e6050a6a76018aefe6fc0c4319b5a01a0b0780034256a05ca9daf4fc3f63c1",
+    "revid": 14088
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:58Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Blur_sight_(talent)",
+    "kind": "talent",
+    "pageid": 1382,
+    "wiki_title": "Blur sight (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "7bb170e9923bc13d9a8cce9d52f8cf41960cdb1b063b0cd13a6b5ad278845784",
+    "source_sha256": "dc640c1af5d22a45472d843380c9de01334530b3831bd2b9fe88ee0cba3abc23",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:58Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "7bb170e9923bc13d9a8cce9d52f8cf41960cdb1b063b0cd13a6b5ad278845784",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

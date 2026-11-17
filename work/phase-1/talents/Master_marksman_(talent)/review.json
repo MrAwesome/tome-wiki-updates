@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "24d3e96e4cccf46f454e92ae739ab740c99ea311fcdf250bd4cf0cf77cd9c6f2",
+    "revid": 13746
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "baseline_preserved"
+    }
+  ],
+  "identity": {
+    "filename": "Master_marksman_(talent)",
+    "kind": "talent",
+    "pageid": 4685,
+    "wiki_title": "Master marksman (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "baseline_preserved",
+    "candidate_page_sha256": "24d3e96e4cccf46f454e92ae739ab740c99ea311fcdf250bd4cf0cf77cd9c6f2",
+    "source_sha256": "9da4430ce4e071d05f4419777216117b7f975bbbdf78df974666b076f8e18f6f",
+    "status": "unsupported_info",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "24d3e96e4cccf46f454e92ae739ab740c99ea311fcdf250bd4cf0cf77cd9c6f2",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

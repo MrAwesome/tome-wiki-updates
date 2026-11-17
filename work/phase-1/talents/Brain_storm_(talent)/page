@@ -1,0 +1,20 @@
+{{Ability_box
+|game_version=1.7.6
+|image=brain_storm.png
+|name=Brain Storm
+|category_type=[[Psionic (category type)|Psionic]]
+|category=[[Focus (category)|Focus]]
+|require={{TalentReq/PsiWilReq3}}
+|use_mode=Activated
+|range={{cts|3|5}}
+|cost=15 Psi
+|cooldown=10
+|desc=
+Mentally focus electricity into a ball of plasma and hurl it at the target.
+
+The plasma will explode on impact, dealing {{ctmd|20|290}} Lightning damage within radius {{cts|2|3}}.
+
+This talent will apply cross tier Brainlock.
+
+The damage will increase with your Mindpower.
+}}

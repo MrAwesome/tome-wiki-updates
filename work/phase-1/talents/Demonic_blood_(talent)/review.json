@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "d70d93d8bfd846822c558cbf6660cf410bad0a778dc797c1224646e499f684e8",
+    "revid": 9685
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:58Z",
+      "event": "deterministic_render_applied",
+      "reason": "baseline_preserved"
+    }
+  ],
+  "identity": {
+    "filename": "Demonic_blood_(talent)",
+    "kind": "talent",
+    "pageid": 3757,
+    "wiki_title": "Demonic blood (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "baseline_preserved",
+    "candidate_page_sha256": "d70d93d8bfd846822c558cbf6660cf410bad0a778dc797c1224646e499f684e8",
+    "source_sha256": "cc3daff1eb60ecbb48a2dde25106a4ff82673aa25fa8f94db822e437d0aef8f8",
+    "status": "unsupported_info",
+    "updated_at": "2026-11-08T16:08:58Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "d70d93d8bfd846822c558cbf6660cf410bad0a778dc797c1224646e499f684e8",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

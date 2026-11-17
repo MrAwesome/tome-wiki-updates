@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "2b00137186ad69eb110739f14ff4fab3fbed6b50c6d18dc80dcc626c49e50384",
+    "revid": 7631
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Heave_(talent)",
+    "kind": "talent",
+    "pageid": 1209,
+    "wiki_title": "Heave (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "939b8b7e270becb46a159dd67ce6431f1a5a23d96c39a26a54b146b6ebcbfe2f",
+    "source_sha256": "b1c322accdaca3ab265cbbccb1b70df4874fa1ff2b349bbeab46c24280c6095c",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "939b8b7e270becb46a159dd67ce6431f1a5a23d96c39a26a54b146b6ebcbfe2f",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

@@ -1,0 +1,15 @@
+{{Ability box
+|game_version=1.4.5
+|image=Weapon folding.png
+|name=Weapon Folding
+|category_type={{ct|Chronomancy}}
+|category={{c|Temporal combat}}
+|require={{TalentReq/ChronoReq1}}
+|use_mode=Sustained
+|cost=12 Paradox
+|cooldown=10
+|desc=
+Folds a single dimension of your weapons (or ammo) upon itself, adding (7+(getParadoxSpellpower(self, t, 0.092) * {{cts|1|7}}) temporal damage to your strikes.
+Additionally you have a {{ctl|40%|10|30%}} chance to gain 10% of a turn when your weapons hit.
+The damage will scale with your Spellpower.
+}}

@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "dc62ec332b2246dc88d1cd31f6e1f5f79ca9cdc50520f971f21d140389b22bbd",
+    "revid": 10627
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Incinerating_blows_(talent)",
+    "kind": "talent",
+    "pageid": 3743,
+    "wiki_title": "Incinerating blows (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "4c5beb637fc17db2f19f07b1cffcaecedfbcc7a1830f72d2ff7b4aa1a0a8cbb2",
+    "source_sha256": "c9845ad5482c45ab0c2c5832950e9868bea5b9af7d4f0d1f3b31b4f03179bb66",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "4c5beb637fc17db2f19f07b1cffcaecedfbcc7a1830f72d2ff7b4aa1a0a8cbb2",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

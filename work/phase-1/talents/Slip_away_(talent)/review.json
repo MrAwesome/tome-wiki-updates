@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "e8caf20b61d967cfcf78302fc0a63acdd6afaf6828fcbf788dc7764ad0f898d7",
+    "revid": 18121
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Slip_away_(talent)",
+    "kind": "talent",
+    "pageid": 5163,
+    "wiki_title": "Slip away (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "7484090cd5e1705cbd52f817d4c12955358691961b00b15751467408c6a0611b",
+    "source_sha256": "a32a2aa6489e4aae99d2daa9f055435cc049a7a7b21bd84e39927c7c2cafa424",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "7484090cd5e1705cbd52f817d4c12955358691961b00b15751467408c6a0611b",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

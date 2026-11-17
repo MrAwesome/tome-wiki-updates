@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "507412dfca8f5c609c389c209bfcf19f5414d1baf37cc2257f27487bfc8d147a",
+    "revid": 13866
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Mark_of_light_(talent)",
+    "kind": "talent",
+    "pageid": 3340,
+    "wiki_title": "Mark of light (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "9f40ac12578498b935ff713c0601ffe6dcdaf9b380a95eb92296c7970d8f1789",
+    "source_sha256": "887234cdb85795b70b487d8e74bcfb8673a3cea3f96688bf823fa1834b03aed5",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "9f40ac12578498b935ff713c0601ffe6dcdaf9b380a95eb92296c7970d8f1789",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

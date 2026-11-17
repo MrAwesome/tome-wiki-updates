@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "ef89c587eff94916a5cebe9d65201e22aa21ecbd3d0fb1ee4d7a259376bf4f9a",
+    "revid": 8182
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:58Z",
+      "event": "deterministic_render_applied",
+      "reason": "baseline_preserved"
+    }
+  ],
+  "identity": {
+    "filename": "Cleave_(talent)",
+    "kind": "talent",
+    "pageid": 1085,
+    "wiki_title": "Cleave (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "baseline_preserved",
+    "candidate_page_sha256": "ef89c587eff94916a5cebe9d65201e22aa21ecbd3d0fb1ee4d7a259376bf4f9a",
+    "source_sha256": "614eaedd3ec4d3528192aca4a2e9f502eaffbe7ca050152c7336ddecac9b8ee9",
+    "status": "unsupported_info",
+    "updated_at": "2026-11-08T16:08:58Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "ef89c587eff94916a5cebe9d65201e22aa21ecbd3d0fb1ee4d7a259376bf4f9a",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

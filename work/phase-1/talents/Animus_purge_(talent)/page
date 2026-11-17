@@ -1,0 +1,27 @@
+{{Ability_box
+|image=animus_purge.png
+|name=Animus Purge
+|category_type={{ct|Spell}}
+|category={{c|Animus}}
+|require={{TalentReq/SpellsReq3}}
+|use_mode=Activated
+|range=4
+|cost=2 Souls and 45 Mana
+|cooldown=15
+|travel_speed=20
+|desc=
+Try to crush the soul of your foe, doing {{ctspd|35|330}} darkness damage (that can never kill the target).
+
+If the target is left with less than {{ctl|50%|10|25%}} life you try to take control of its body.
+
+Should this succeed the target becomes your permanent minion (unaffected by your aura) and you regain 2 souls.
+
+Husks prossess the same abilities as they had in life (affected by Dark Empathy), are healed to full when created but can never heal or be healed by any means.
+
+Only one husk can be controlled at any time, if this spell is cast again it will dispel the previous husk, even if no new one is created.
+
+Bosses, other undeads and summoned creatures can not be turned into husks.
+
+The damage and chance will increase with your Spellpower.
+}}
+[[Category:Removed Talents]]

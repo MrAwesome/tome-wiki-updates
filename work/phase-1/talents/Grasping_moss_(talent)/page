@@ -1,0 +1,19 @@
+{{Ability box
+|game_version=1.7.6
+|image=Grasping moss.png
+|name=Grasping Moss
+|category_type={{ct|Wild-Gift}}
+|category={{c|Moss}}
+|require={{TalentReq/GiftsReq1}}
+|cooldown=16
+|cost=5 Equilibrium
+|range=0
+|use_speed=0
+|desc=
+Instantly grow a moss circle of radius {{cts|2|4}} at your feet.
+Each turn the moss deals {{ctmd|6|40}} nature damage to each foe within its radius.
+This moss is very thick and sticky causing all foes passing through it have their movement speed reduced by {{ctl|100%|36|60%}} and have a {{ctl|100%|25|45%}} chance to be pinned to the ground for 4 turns.
+The moss lasts {{ctl|16|4|10}} turns.
+Moss talents are instant but place all other moss talents on cooldown for 3 turns.
+The damage will increase with your Mindpower.
+}}

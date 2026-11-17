@@ -1,0 +1,14 @@
+{{Ability box
+|image=Feed.png
+|name=Feed
+|category_type={{ct|Cursed}}
+|category={{c|Dark Sustenance}}
+|require={{TalentReq/CursedWilReq1}}
+|range=7
+|cooldown=6
+|cost=0 Hate
+|desc=
+Feed from the essence of your enemy. Draws (0.02 * Mindpower + 2 * √ Talent Level) hate per turn from a targeted foe, as long as they remain in your line of sight.
+
+Hate gain improves with your Mindpower.
+}}

@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "b9fe7f0add79731976df498f8e30af0046e573cac1c913865152f4538bf327b8",
+    "revid": 13993
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Pulverizing_auger_(talent)",
+    "kind": "talent",
+    "pageid": 1465,
+    "wiki_title": "Pulverizing auger (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "18ebb64d846ba348e760b713c85eb8b625e121ba13a40331e7d1bb657b642d07",
+    "source_sha256": "ad08453419b9012d3fdc4dae388c1fc42c9087ed6ecd731f2363a7246c377095",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "18ebb64d846ba348e760b713c85eb8b625e121ba13a40331e7d1bb657b642d07",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

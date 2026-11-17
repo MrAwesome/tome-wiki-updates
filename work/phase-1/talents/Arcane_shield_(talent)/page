@@ -1,0 +1,24 @@
+{{Ability_box
+|game_version=1.4.4
+|image=Arcane_shield_2017.png
+|name=Arcane Shield
+|category_type={{Ct|Spell}}
+|category={{c|Aegis}}
+|require={{TalentReq/SpellsReq3}}
+|use_mode=Sustained
+|cost=50 Mana
+|cooldown=30
+|desc=
+Surround yourself with protective arcane forces.
+
+Each time you receive a direct heal (not a life regeneration effect), you automatically get a damage shield that is proportional to the heal value for 3 turns.
+
+This will replace an existing damage shield if the new shield value and duration would be greater than or equal to the old.
+
+The strength of the damage shield as a percentage of the heal value is {{cl|combat spell damage|100%|20|0|55.4%|354}}.
+
+The shield value will increase with your Spellpower.
+
+'''Note''': Combat spell damage here is defined as: {{ctspd|5|500}}
+
+}}

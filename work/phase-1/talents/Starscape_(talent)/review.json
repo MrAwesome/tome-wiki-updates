@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "6addbe2fb446954735a634bfa748ef45666e239418d93c02b54139954d18587b",
+    "revid": 22559
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Starscape_(talent)",
+    "kind": "talent",
+    "pageid": 6980,
+    "wiki_title": "Starscape (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "6addbe2fb446954735a634bfa748ef45666e239418d93c02b54139954d18587b",
+    "source_sha256": "b6c361dedd503e479b8c16c872338a49887aa50742e3f4cade7dca4dc254d305",
+    "status": "no_change",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "6addbe2fb446954735a634bfa748ef45666e239418d93c02b54139954d18587b",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

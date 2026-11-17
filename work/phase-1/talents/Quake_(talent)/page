@@ -1,0 +1,16 @@
+{{Ability box
+|game_version=1.7.6
+|image=Quake.png
+|name=Quake
+|category_type={{ct|Wild-Gift}}
+|category={{c|Sand Drake Aspect}}
+|require={{TalentReq/GiftsReq2}}
+|range=10
+|cost=4 Equilibrium
+|cooldown=20
+|desc=
+You slam the ground, shaking the area around you in a radius of {{cts|2|4}}.
+Creatures caught by the quake will be damaged for {{ctwd|130|210%}} weapon damage, and knocked back up to 3 tiles away.
+The terrain will also be moved around within the radius, and the user will be shifted to a random square within the radius.
+Each point in sand drake talents also increases your physical resistance by 0.5%.
+}}

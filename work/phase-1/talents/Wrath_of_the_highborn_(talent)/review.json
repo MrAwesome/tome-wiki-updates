@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "084bcb6796265ed11e7c2eae52e60961899802f1a36125d7b61a4facf72fcde9",
+    "revid": 22057
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Wrath_of_the_highborn_(talent)",
+    "kind": "talent",
+    "pageid": 1678,
+    "wiki_title": "Wrath of the highborn (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "084bcb6796265ed11e7c2eae52e60961899802f1a36125d7b61a4facf72fcde9",
+    "source_sha256": "958b207fd24723fa3b1613c62048b19012df2e24e9b82152eb1ef2485a88aed1",
+    "status": "no_change",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "084bcb6796265ed11e7c2eae52e60961899802f1a36125d7b61a4facf72fcde9",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

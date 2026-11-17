@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "8853f234be352c8ae1e58eae8a8ee03fc83314a64f8d83d1a4016a070e308f83",
+    "revid": 23055
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "baseline_preserved"
+    }
+  ],
+  "identity": {
+    "filename": "Smith_(talent)",
+    "kind": "talent",
+    "pageid": 4395,
+    "wiki_title": "Smith (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "baseline_preserved",
+    "candidate_page_sha256": "8853f234be352c8ae1e58eae8a8ee03fc83314a64f8d83d1a4016a070e308f83",
+    "source_sha256": "a764c59d985d26651b6c3684914112650123a30794532f70a59e99e00bce8d0f",
+    "status": "unsupported_info",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "8853f234be352c8ae1e58eae8a8ee03fc83314a64f8d83d1a4016a070e308f83",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

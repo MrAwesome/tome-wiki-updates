@@ -1,0 +1,14 @@
+{{Ability box
+|game_version=1.7.6
+|image=Draconic will.png
+|name=Draconic Will
+|category_type=[[Prodigies]]
+|category=[[Prodigies#Willpower|Willpower]]
+|require=Willpower 50<br />Consume the [[Heart of the Sandworm Queen]] or its corrupted counterpart<br />Consume the [[Wyrm Bile]]
+|cooldown=15
+|use_speed=0
+|desc=
+Your body is like that of a drake, easily resisting detrimental effects.
+
+For 5 turns, no detrimental effects may target you.
+}}

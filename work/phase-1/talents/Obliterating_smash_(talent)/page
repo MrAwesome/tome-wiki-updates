@@ -1,0 +1,14 @@
+{{Ability box
+|name=Obliterating Smash
+|image=Obliterating_smash.png
+|category_type={{ct|Corruption}}
+|category={{c|Wrath}}
+|require=Level (10,11,12,13,14) Str (22,24,26,28,30)
+|cost=24 Stamina, 24 Vim
+|range=3 + math.ceil((self.is_destroyer or 0)/4)
+|cooldown=18
+|desc=
+Swing your weapon with incredible force, striking all enemies in a radius (3 + math.ceil((self.is_destroyer or 0)/4)) semicircle, dealing {{ctwd|30|179%}} weapon damage to all targets.
+Starting from talent level 5, all targets hit will have their armour and saves reduced by {{CTS|10|20}}.
+This attack can not miss.
+}}

@@ -1,0 +1,14 @@
+{{Ability_box
+|image=twist_the_knife.png
+|name=Twist the Knife
+|game_version=1.7.6
+|category_type=[[Cunning (category type)|Cunning]]
+|category=[[Dirty fighting (category)|Dirty fighting]]
+|require={{TalentReq/CunsReq4}}
+|cost=20 Stamina
+|cooldown=15
+|travel_speed=Instantaneous
+|use_speed=Weapon
+|desc=
+Make a painful strike dealing {{ctwd|100|150%}} weapon damage that increases the duration of up to {{cts|1|3}} negative effect(s) on the target by {{cts|2|5}} turns. For each negative effect extended this way, the duration of a beneficial effect is reduced by the same amount, possibly canceling it.
+}}

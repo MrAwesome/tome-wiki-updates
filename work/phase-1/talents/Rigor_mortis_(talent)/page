@@ -1,0 +1,22 @@
+{{Ability box
+|game_version=1.7.4
+|image=Rigor mortis.png
+|name=Rigor Mortis
+|category_type={{ct|Spell}}
+|category={{c|Death}}
+|require={{TalentReq/SpellsReq1}}
+|cost=20 Mana, 2 Souls
+|cooldown=15
+|range=10
+|use_speed=Spell
+|desc=
+Press your advantage when your foes are starting to crumble.
+
+For every detrimental effect on the target you deals {{ctspd|30|300}} frostdusk damage (with diminishing returns) and reduce its global speed by 25% for one turn per effect (up to a maximum of {{cts|1|9}} turns).
+
+The diminishing returns on damage bonus works this way:
+
+Total Damage = {{ctspd|30|300}} * ( 1 + 1.5 * log<sub>10</sub>( Number of Detrimental Effects on Target ) )
+
+Damage increases with your Spellpower.
+}}

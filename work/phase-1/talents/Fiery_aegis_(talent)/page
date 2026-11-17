@@ -1,0 +1,17 @@
+{{Ability box
+|name=Fiery Aegis
+|image=Fiery_aegis.png
+|category_type={{ct|Corruption}}
+|category={{c|Heart of Fire}}
+|require={{TalentReq/CorrsReq2}}
+|cooldown=10
+|range=1
+|desc=
+Draw in the raging fires and envelop yourself in them.
+
+Removes all burns from all enemies in a radius of 5 around you, and create a shield lasting {{cts|4|6}} turns with a power of 81-188*, increased by 15% for each burn removed.
+
+When the shield ends, it releases a burst of fire in a radius of {{cts|3|5}} around you, burning all enemies for 3 turns, doing damage equal to the initial power of the shield.
+
+''*NOTE: Shield power scales with spellpower.''
+}}

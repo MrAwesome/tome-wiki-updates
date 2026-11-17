@@ -1,0 +1,11 @@
+{{Ability_box
+|game_version=1.7.6
+|image=Dual weapon training.png
+|name=Dual weapon training
+|category_type=[[Technique (category type)|Technique]]
+|category=[[Dual weapons (category)|Dual weapons]]
+|require={{TalentReq/TechsDexReq1}}
+|use_mode=Passive
+|desc=
+Increases the damage of your off-hand weapon to {{CTL|100%|65|85%}}.
+}}

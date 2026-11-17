@@ -1,0 +1,13 @@
+{{Ability box
+|game_version=1.7.6
+|image=Thaloren wrath_2017.png
+|name=Gift of the Woods
+|category_type={{ct|Race}}
+|category={{c|Thalore}}
+|require={{TalentReq/RacialReq1}}
+|cooldown={{ctl|10|45|25}}
+|use_speed=0
+|desc=
+Call upon nature to regenerate your body for (6+max(Will;Con*0,6)) life every turn and increase healing mod by {{ctl|50%|15|30%}} for 8 turns.
+		The life healed will increase with your Willpower or Constitution (whichever is higher).
+}}

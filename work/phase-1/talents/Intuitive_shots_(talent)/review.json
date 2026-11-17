@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "f625f1cad8289792ae551886970fc2f2b98afb2f94a55084c46c273e802b7ace",
+    "revid": 13767
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Intuitive_shots_(talent)",
+    "kind": "talent",
+    "pageid": 3103,
+    "wiki_title": "Intuitive shots (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "0a8bf8badceca6f84e6e6f505059c9ad65e1ecc99965fc309a3e15571ca36664",
+    "source_sha256": "921f2118760f28e24bbb60756a012796c1ea227dc63f13eb9e97c1153c5d9889",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "0a8bf8badceca6f84e6e6f505059c9ad65e1ecc99965fc309a3e15571ca36664",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

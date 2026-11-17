@@ -1,0 +1,11 @@
+{{Ability box
+|game_version=1.7.6
+|image=Relentless.png
+|name=Relentless
+|category_type={{ct|Cursed}}
+|category={{c|Cursed Form}}
+|require={{TalentReq/CursedWilReq2}}
+|use_mode=Passive
+|desc=
+Your thirst for blood drives your movements. You gain +{{ctl|100%|22|50%}} confusion, fear, knockback and stun immunity.
+}}

@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "0252880420cb4aa770fd4b8b80b1fcb1bb6d2a5bbad9fba42a1407573a1dc615",
+    "revid": 8428
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:58Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Chromatic_fury_(talent)",
+    "kind": "talent",
+    "pageid": 1324,
+    "wiki_title": "Chromatic fury (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "dceefe23ef8b868d331cde8415438fe3fbacfa7f65edeb7c1c241896c485c13a",
+    "source_sha256": "7c3c30265a1926809c44e6b393a12a23ba8af03a342aa11fc8edcfe907c0b331",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:58Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "dceefe23ef8b868d331cde8415438fe3fbacfa7f65edeb7c1c241896c485c13a",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

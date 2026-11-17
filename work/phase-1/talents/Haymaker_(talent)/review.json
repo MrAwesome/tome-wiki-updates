@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "bca853dc2f22b87e073d93b6f11cde9664c76c7480cb40781f58182a6c7d1b23",
+    "revid": 8813
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "baseline_preserved"
+    }
+  ],
+  "identity": {
+    "filename": "Haymaker_(talent)",
+    "kind": "talent",
+    "pageid": 1700,
+    "wiki_title": "Haymaker (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "baseline_preserved",
+    "candidate_page_sha256": "bca853dc2f22b87e073d93b6f11cde9664c76c7480cb40781f58182a6c7d1b23",
+    "source_sha256": "5db9065c3c22aa606e3e5f0ce2d1bb64565c042a06efe71defe83bbf162d1f09",
+    "status": "unsupported_info",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "bca853dc2f22b87e073d93b6f11cde9664c76c7480cb40781f58182a6c7d1b23",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

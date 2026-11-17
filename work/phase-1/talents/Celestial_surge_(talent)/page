@@ -1,0 +1,20 @@
+{{Ability_box
+|name = Celestial Surge
+|image = Celestial surge.png
+|category_type = {{ct|Celestial}}
+|category = {{c|Circles}}
+|game_version = 1.7.6
+|require = {{TalentReq/DiviReqHigh4}}
+|range = 0
+|cost = 15 Positive and 15 Negative
+|cooldown = 20
+|use_speed = Spell
+|desc =
+Conjure a surge of celestial power through your circles. Any foe standing within one of your circles will be slowed by 50% for {{ctl|7|2|5}} turns and take {{ctspd|10|75}} light and {{ctspd|10|75}} darkness damage.
+Residual power from the surge will emanate from your circles for {{ctl|15|3.5|10}} turns; each circle you stand in will increase your celestial resources.
+Shifting Shadows: +1 negative.
+Sanctity: +1 postive.
+Warding: +0.5 postive and negative.
+
+''Note: enemies standing in multiple circles will take damage multiple times''
+}}

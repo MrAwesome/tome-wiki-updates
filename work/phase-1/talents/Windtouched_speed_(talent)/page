@@ -1,0 +1,14 @@
+{{Ability box
+|game_version=1.7.6
+|image=Windtouched speed.png
+|name=Windtouched Speed
+|category_type=[[Prodigies]]
+|category=[[Prodigies#Dexterity|Dexterity]]
+|require=Dexterity 50<br />Know at least 10 talent levels of equilibrium-using talents
+|use_mode=Passive
+|desc=
+You are attuned with Nature, and she helps you in your fight against the arcane forces.
+You gain 20% permanent global speed, 10% cooldowns reduction and do not trigger pressure traps.
+
+''Note: talent cooldowns will be reduced by at least 1 turn''
+}}

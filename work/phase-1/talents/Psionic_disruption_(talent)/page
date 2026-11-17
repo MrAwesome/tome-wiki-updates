@@ -1,0 +1,15 @@
+{{Ability_box
+|game_version=1.7.6
+|image=psionic_disruption.png
+|name=Psionic Disruption
+|category_type={{ct|Psionic}}
+|category={{c|Battle psionics}}
+|require={{TalentReq/PsiWilReq1}}
+|use_mode=Sustained
+|cooldown=10
+|cost=18 Psi
+|desc=
+You imbue your offhand mindstar with wild psionic forces. While active you gain {{cts|50|150%}} more of your mindstar's mindpower and mind critical chance. Each time you make a melee attack you also add a stack of Psionic Disruption to your target. Each stack lasts for 5 turns and deals {{CTMD|40|150}} mind damage over the duration (max {{cts|2|4}} stacks).
+
+If you do not have a one handed weapon and a mindstar equiped, but have them in your off set, you instantly automatically switch. The wild psionic powers are incompatible with the focused nature of psiblades.
+}}

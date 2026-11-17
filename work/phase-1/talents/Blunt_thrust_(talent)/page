@@ -1,0 +1,22 @@
+{{Ability box
+|game_version=1.7.6
+|image=Blunt thrust.png
+|name=Blunt Thrust
+|category_type={{ct|Spell}}
+|category={{c|Staff Combat}}
+|require={{TalentReq/SpellsReq4}}
+|range=1
+|cost=12 Mana
+|cooldown=12
+|use_speed=Spell
+|desc=
+Hit a target for {{ctwd|100|150%}} melee damage and stun it for {{cts|2|6}} turns.
+
+Stun chance will improve with Spellpower.
+
+At level 5, this attack cannot miss.
+
+''Note: the no-miss effect only requires that the effective talent level is at least 5, so talent mastery levels and the {{t|Adept}} prodigy can help here.''
+|avail.shops=[[Angolwen]] ([[Age of Ascendancy]]) via [[Talent#Additional Talent Sources|purchasing]] {{c|Staff Combat}}
+|avail.escorts=[[Escorts#Alchemist_.28Arcane.29|Alchemist (Arcane)]] (Normal Escort Reward), via revealing the locked {{c|Staff Combat}} category
+}}

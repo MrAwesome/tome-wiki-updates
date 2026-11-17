@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "d6821fd976aaa8417e21db8b1d5cc71965eccf82faf8a1e5cec6309c87395ead",
+    "revid": 8203
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "baseline_preserved"
+    }
+  ],
+  "identity": {
+    "filename": "Tyrant_(talent)",
+    "kind": "talent",
+    "pageid": 1629,
+    "wiki_title": "Tyrant (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "baseline_preserved",
+    "candidate_page_sha256": "d6821fd976aaa8417e21db8b1d5cc71965eccf82faf8a1e5cec6309c87395ead",
+    "source_sha256": "d8cb82323bb3678be598dffb219bed45d102640cbd8afeaea01474d162825807",
+    "status": "unsupported_info",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "d6821fd976aaa8417e21db8b1d5cc71965eccf82faf8a1e5cec6309c87395ead",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

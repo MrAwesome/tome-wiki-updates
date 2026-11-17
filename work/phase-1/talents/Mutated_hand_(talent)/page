@@ -1,0 +1,21 @@
+{{Ability box
+|image=Mutated_Hand.png
+|name=Mutated Hand
+|category_type={{ct|Demented}}
+|category={{c|Tentacles}}
+|require=Mag (18, 24, 30, 36, 42)
+|use_mode=Passive
+|desc=
+Your left hand mutates into a disgusting mass of tentacles. When you have your offhand empty you automatically hit your target and those on the side whenever you hit with a basic attack. Also increases Physical Power by {{gtl|10|50}}, and increases weapon damage by sqrt(({{gtl|1|5}})/5)*50% for your tentacles attacks. Each time you make an attack with your tentacle you gain 10 insanity. You generate a low power psionic field around you when around ''civilized people'' that prevents them from seeing you for the horror you are.
+
+Your tentacle hand currently has these stats:
+
+*Damage Type: Darkenss
+*Uses Stats: 100% Mag
+*Damage Min: {{cts|10|40}}
+*Damage Range: 1.4
+*Physical Crit. Chance: {{ctl|25|2|12}}
+*Speed: physspeed = 1
+
+(This attack doesn't count as a proc and doesn't benefit from the staff accuracy bonus.)
+}}

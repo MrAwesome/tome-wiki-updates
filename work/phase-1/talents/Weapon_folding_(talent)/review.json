@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "2c8d983319d808512c2058d4c28aa31590c2c1ed3c6ada40b3e5ce669120d7b5",
+    "revid": 11735
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "baseline_preserved"
+    }
+  ],
+  "identity": {
+    "filename": "Weapon_folding_(talent)",
+    "kind": "talent",
+    "pageid": 1656,
+    "wiki_title": "Weapon folding (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "baseline_preserved",
+    "candidate_page_sha256": "2c8d983319d808512c2058d4c28aa31590c2c1ed3c6ada40b3e5ce669120d7b5",
+    "source_sha256": "46642e4094becdb7e3477d20d78bfc06f958e426d619e6c8354c3038958afe99",
+    "status": "unsupported_info",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "2c8d983319d808512c2058d4c28aa31590c2c1ed3c6ada40b3e5ce669120d7b5",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

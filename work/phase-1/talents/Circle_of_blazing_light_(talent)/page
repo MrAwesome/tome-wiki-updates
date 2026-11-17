@@ -1,0 +1,15 @@
+{{Ability box
+|game_version=1.7.6
+|image=Circle of blazing light.png
+|name=Circle of Blazing Light
+|category_type={{ct|Celestial}}
+|category={{c|Circles}}
+|require={{TalentReq/DiviReqHigh2}}
+|cost=10 Positive
+|cooldown=20
+|use_speed=0
+|range=0
+|desc=
+Creates a circle of radius {{cts|2|4}} at your feet; the circle lights up affected tiles, increases your positive energy by {{ctspd|0.75|4}} each turn and deals {{ctspd|2|15}} light damage and {{ctspd|2|15}} fire damage per turn to everyone else within its radius.  The circle lasts {{cts|4|8}} turns.
+The damage will increase with your Spellpower.
+}}

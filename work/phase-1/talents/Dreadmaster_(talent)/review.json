@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "01d148d24980a25d8bc86ee4308759993ff6adf5d76dc1ae8752c880cab32469",
+    "revid": 19393
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:58Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Dreadmaster_(talent)",
+    "kind": "talent",
+    "pageid": 5642,
+    "wiki_title": "Dreadmaster (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "b6343e5cab2b0d3bae149df2d87f5699e467f6df2ac3f8327c95e697426d3d48",
+    "source_sha256": "115b87f434828dcb22c236b229834b94f3fabf52523af47503a0276937117c80",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:58Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "b6343e5cab2b0d3bae149df2d87f5699e467f6df2ac3f8327c95e697426d3d48",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

@@ -1,0 +1,11 @@
+{{Ability box
+|image=Golem portal.png
+|name=Golem Portal
+|category_type={{ct|Spell}}
+|category={{c|Golemancy}}
+|require={{TalentReq/SpellsReq4}}
+|cost=40 Mana
+|cooldown={{ctl|0|14|10}}
+|desc=
+Teleport to your golem, while your golem teleports to your location. Your foes will be confused, and those that were attacking you will have a (25 + 15 * Raw Talent Level)% chance to target your golem instead.
+}}

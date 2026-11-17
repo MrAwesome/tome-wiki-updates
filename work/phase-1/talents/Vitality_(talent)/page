@@ -1,0 +1,16 @@
+{{Ability box
+|image=Vitality_2017.png
+|name=Vitality
+|category_type={{ct|Technique}}
+|category={{c|Conditioning}}
+|require={{TalentReq/TechsConReq1}}
+|use_mode=Passive
+|cooldown=15
+|desc=
+You recover faster from poisons, diseases and wounds, reducing the duration of all such effects by {{ctl|100%|17|50%}}.  
+
+Additionally, when your life falls below 50%, you heal for a base ([[Life|Life Rating]] + {{ctstd|Con|2|20}}) health plus {{ctl|30%|7|16%}} of your maximum life  each turn for 8 turns. This effect can only happen once every 15 turns.
+
+The base healing scales with your Constitution.
+|avail.escorts=[[Escorts#Warrior|Warrior]], +1 to talent or via revealing the locked {{c|Conditioning}} category
+}}

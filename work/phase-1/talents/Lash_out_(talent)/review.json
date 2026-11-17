@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "54b7205f361d5cd6676c641ed09f32d6d60062d9fd8761095178eb8caeed6c4a",
+    "revid": 15105
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Lash_out_(talent)",
+    "kind": "talent",
+    "pageid": 5269,
+    "wiki_title": "Lash out (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "c254863c08640c0f891b5a5e6dfd84a704e8a95c6f4eacb5e693e3594f94010e",
+    "source_sha256": "038841bc39a9c1ca209651fb5c8cbe248ef0abab6596c528407063eefbe25906",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "c254863c08640c0f891b5a5e6dfd84a704e8a95c6f4eacb5e693e3594f94010e",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

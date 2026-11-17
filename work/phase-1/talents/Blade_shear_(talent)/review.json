@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "d8dc26f87ffdee44f5ee071ec3e97661f12f7edb8482bcb45df6bd785553541c",
+    "revid": 11518
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:58Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Blade_shear_(talent)",
+    "kind": "talent",
+    "pageid": 4281,
+    "wiki_title": "Blade shear (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "dc6498cbe74fea78c155f0e21804c3635f84006fa4e4aa9a01475154d993f811",
+    "source_sha256": "d5e804a77a6816b500926438494e2698b05e6a6c91a38b1247912a171bd2312f",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:58Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "dc6498cbe74fea78c155f0e21804c3635f84006fa4e4aa9a01475154d993f811",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

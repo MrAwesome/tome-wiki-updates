@@ -1,0 +1,14 @@
+{{Ability box
+|game_version=1.7.6
+|image=Grisly constitution.png
+|name=Grisly Constitution
+|category_type={{ct|Race}}
+|category={{c|Ogre}}
+|require={{TalentReq/RacialReq2}}
+|use_mode=Passive
+|desc=
+An ogre's body is acclimated to spells and inscriptions.
+Increases spell save by {{cts|5|20|0.75}} and improves the contribution of primary stats on infusions and runes by {{cts|15|30%}}.
+At level 5 your body is so strong you can use a two handed weapon in your main hand while still using an offhand item.
+When using a two handed weapon this way you suffer a 20% accuracy, physical power, spellpower and mindpower penalty, decreasing by 5% per size category above #{italic}#big#{normal}#; further, all damage procs from your weapons are reduced by 50%.
+}}

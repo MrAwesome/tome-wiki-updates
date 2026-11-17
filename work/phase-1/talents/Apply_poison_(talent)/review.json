@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "e48a7800523ae8505111e2bcf17e13b0ac81914ca553821a49742c20fbea09fd",
+    "revid": 13783
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:58Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Apply_poison_(talent)",
+    "kind": "talent",
+    "pageid": 4678,
+    "wiki_title": "Apply poison (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "62384ca9c4798f5d531f29d95bf6175dbbe649a6a31f618260bd94b43c0af554",
+    "source_sha256": "17e3498c48ce0e05b8e99349419b6f859706745ec4de69277959628a113ffc16",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:58Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "62384ca9c4798f5d531f29d95bf6175dbbe649a6a31f618260bd94b43c0af554",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

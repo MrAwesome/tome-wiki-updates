@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "53f6b26f6b6019db135a3a0ec20863919b9cac7ff0fbcd5b1b1c753e28871779",
+    "revid": 23064
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Last_engineer_standing_(talent)",
+    "kind": "talent",
+    "pageid": 4498,
+    "wiki_title": "Last engineer standing (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "5338d514d01ff41619f63ab8ae36f0dc8a0aa06fb109638dabc91437032bbcee",
+    "source_sha256": "0e458f7a23ac86b2935f2d448491acdfb44f6fb828286f2438b90eca5bf82689",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "5338d514d01ff41619f63ab8ae36f0dc8a0aa06fb109638dabc91437032bbcee",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

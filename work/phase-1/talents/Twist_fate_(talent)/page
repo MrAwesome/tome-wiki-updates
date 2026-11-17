@@ -1,0 +1,18 @@
+{{Ability box
+|game_version=1.7.4
+|image=Twist fate.png
+|name=Twist Fate
+|category_type={{ct|Chronomancy}}
+|category={{c|Flux}}
+|require={{TalentReq/ChronoReq4}}
+|use_mode=Activated
+|use_speed=Spell
+|cost=-
+|cooldown={{ctl|6|20|8}}
+|desc=
+If Twist Fate is not on cooldown minor anomalies will be held for {{cts|1|6|PM}} turns, allowing your spell to cast as normal.  While held you may cast Twist Fate in order to trigger the anomaly and may choose the target area.
+If a second anomaly occurs while a prior one is held or the timed effect expires the first anomaly will trigger immediately, interrupting your current turn or action.
+Paradox reductions from held anomalies occur when triggered.
+
+You must have a twisted anomaly to cast this spell.
+}}

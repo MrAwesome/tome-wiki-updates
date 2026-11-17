@@ -1,0 +1,20 @@
+{{Ability_box
+|image=Block.png
+|name=Block
+|game_version=1.7.6
+|category_type=-
+|category=-
+|require=An equipped shield
+|use_mode=Activated
+|range=Personal
+|cost=-
+|cooldown=8
+|use_speed=Shield
+|desc=Raise your shield for 2 turns, reducing incoming damage by your shield's block value. This works against all standard damage types except {{mind}}.<br />Fully blocking an attack leaves the attacker vulnerable to Counterstrike, which doubles the damage of the next weapon attack against it. Normally, each use of Block can apply Counterstrike to only one enemy.<br />If you block any damage, the blocking effect ends at the start of your next turn.
+|avail=Granted by equipped shields.
+}}
+===Notes===
+*Despite the in-game description, a shield’s damage resistances don't apply the advertised 50% bonus to block value.
+*{{t|Eternal Guard}} prevents blocking from ending at the start of your next turn and allows Counterstrike to affect multiple enemies.
+*Shield effects that trigger on blocking are checked for each blocked damage hit, including partial blocks. Individual effects may have their own chance or once-per-turn limit.
+**For example, [[Coral Spray]] has a 30% chance per blocked damage hit to spray freezing water towards the attacker.

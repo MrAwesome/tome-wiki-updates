@@ -1,0 +1,19 @@
+{{Ability box
+|image=sunder_armour_2017.png
+|name=Shattering Blow
+|game_version=1.7.6
+|category_type={{ct|Technique}}
+|category={{c|Berserker's Strength}}
+|require={{TalentReq/TechsReq3}}
+|cost=12 Stamina
+|cooldown={{ctl|5|15|8}}
+|range=1
+|travel_speed=instantaneous
+|use_speed=Weapon
+|desc=
+Hits the target with your weapon, doing {{ctwd|80|150%}} damage. If the attack hits, the target's armour and saves are reduced by {{cts|5|25|0.75}} for {{cts|5|9}} turns.
+
+Also if the target is protected by any temporary magical or psionic damage absorbing shields there is {{ctl|100%|10|85%}} chance to shatter a random shield.
+
+Armor reduction chance increases with your Physical Power.
+}}

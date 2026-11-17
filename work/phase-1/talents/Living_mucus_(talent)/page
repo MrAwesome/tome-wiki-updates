@@ -1,0 +1,34 @@
+{{Ability box
+|game_version=1.7.4
+|name=Living Mucus
+|image=Living mucus.png
+|category_type={{ct|Wild-Gift}}
+|category={{c|Mucus}}
+|require={{TalentReq/GiftsReq3}}
+|use_mode=Passive
+|desc=
+Your mucus is brought to near sentience.
+
+Each turn, a random spot of your mucus will spawn a Mucus Ooze with a chance of {{cl|{{ctmd|5|300}}|50%|12.6|26|32%|220}}.
+
+Mucus Oozes last {{cts|6|10}} turns and will attack any of your foes by spitting slime at them.
+
+You may have up to {{css|Cun|0.5|5}} Mucus Oozes active at any time (based on your Cunning).
+
+Any time you deal a mental critical, the remaining time on all of your Mucus Oozes will increase by 2.
+
+The spawn chance increases with your Mindpower.
+----
+Mucus Oozes will have the following talent and stats:
+
+'''Slime Spit''': Spits a beam of slime doing {{ctmd|8|110}} slime damage up to a range of 6. Talent level is equal to raw talent level of '''Living Mucus'''. Does not damage friendly units.
+
+ Str:    10
+ Dex:    10
+ Con:    {{cts|0.8|4|0.75}}
+ Mag:    3
+ Wil:    {{css|Wil|10|100|0.75}}
+ Cun:    {{css|Cun|10|100|0.75}}
+ G. Spd: 70%
+
+}}

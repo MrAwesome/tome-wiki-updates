@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "6a829d28ef6b8de34b56642610eb811a37d3ecb6a136596c6cdcb71c4b3eed86",
+    "revid": 23351
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "baseline_preserved"
+    }
+  ],
+  "identity": {
+    "filename": "Subcutaneous_metallisation_(talent)",
+    "kind": "talent",
+    "pageid": 4220,
+    "wiki_title": "Subcutaneous metallisation (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "baseline_preserved",
+    "candidate_page_sha256": "6a829d28ef6b8de34b56642610eb811a37d3ecb6a136596c6cdcb71c4b3eed86",
+    "source_sha256": "cd4ca74d798a334b8de94f4aeaac1940602dbfb3c92f2bbf3f8035bf63a8e65c",
+    "status": "unsupported_info",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "6a829d28ef6b8de34b56642610eb811a37d3ecb6a136596c6cdcb71c4b3eed86",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

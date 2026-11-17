@@ -1,0 +1,25 @@
+{{Ability_box
+|name = Entropic Gift
+|image = Entropic_gift.png
+|category_type = {{ct|Demented}}
+|category = {{c|Entropy}}
+|game_version = 1.7.6
+|forbidden_version = 1.0.12
+|require = {{TalentReq/DementedReq1}}
+|use_mode = Activated
+|range = 10
+|cost = Gain 10 Insanity
+|cooldown = 15
+|travel_speed = Instantaneous
+|use_speed = Spell
+|desc =
+Your unnatural existence causes the fabric of reality to reject your presence. 25% of all direct healing received damages you in the form of entropic backlash over 8 turns, which is irresistible and bypasses all shields, but cannot kill you.
+
+You may activate this talent to channel your entropy onto a nearby enemy, removing all entropic backlash to inflict darkness and temporal damage equal to {{cts|110|160%}} of your entropy over 4 turns.
+
+The damage dealt when applying this to an enemy will increase with your Spellpower.
+
+''Note 1: your total entropic backlash will be amplified by the listed percentage to become the total base darkness and temporal damage combined''
+
+''Note 2: you cannot travel up or down stairs when there is any entropic backlash affecting you, and this can make stair traps more dangerous than usual''
+}}

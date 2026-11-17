@@ -1,0 +1,15 @@
+{{Ability box
+|game_version=1.5.2
+|image=Volatile_poison.png
+|name=Volatile Poison
+|category_type={{ct|Cunning}}
+|category=Poisons Effects
+|require={{t|Vile Poisons}} Level 5
+|use_mode=Sustained
+|cooldown=10
+|use_speed=0
+|desc=
+Enhances your Deadly Poison with a volatile agent, causing the poison to deal {{cTL|100%|15|50%}} increased damage and damage to all adjacent enemies.
+
+Poison effects scale with your {{t|Vile Poisons}} talent.
+}}

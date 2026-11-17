@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "3b1f148f68e52687c05ea94ef4e5c297252bc98203352a203fb128b28055e3e3",
+    "revid": 13709
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "baseline_preserved"
+    }
+  ],
+  "identity": {
+    "filename": "Venomous_throw_(talent)",
+    "kind": "talent",
+    "pageid": 4849,
+    "wiki_title": "Venomous throw (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "baseline_preserved",
+    "candidate_page_sha256": "3b1f148f68e52687c05ea94ef4e5c297252bc98203352a203fb128b28055e3e3",
+    "source_sha256": "e3c2a768aa86e1394f7087e2b1e292c7fa8f05d2d18ae473a253bce7b99e1601",
+    "status": "unsupported_info",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "3b1f148f68e52687c05ea94ef4e5c297252bc98203352a203fb128b28055e3e3",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

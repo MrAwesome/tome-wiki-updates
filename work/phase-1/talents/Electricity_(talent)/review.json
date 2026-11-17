@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "1e8c1074e0da03280417b4ad76fe1ab1948bb8df1ede8fe129893ab5e303850d",
+    "revid": 23057
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "baseline_preserved"
+    }
+  ],
+  "identity": {
+    "filename": "Electricity_(talent)",
+    "kind": "talent",
+    "pageid": 4398,
+    "wiki_title": "Electricity (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "baseline_preserved",
+    "candidate_page_sha256": "1e8c1074e0da03280417b4ad76fe1ab1948bb8df1ede8fe129893ab5e303850d",
+    "source_sha256": "a764c59d985d26651b6c3684914112650123a30794532f70a59e99e00bce8d0f",
+    "status": "unsupported_info",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "1e8c1074e0da03280417b4ad76fe1ab1948bb8df1ede8fe129893ab5e303850d",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

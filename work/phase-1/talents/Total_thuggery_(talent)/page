@@ -1,0 +1,16 @@
+{{Ability_box
+|image=Total thuggery.png
+|name=Total Thuggery
+|category_type={{ct|Technique}}
+|category={{c|Thuggery}}
+|require={{TalentReq/TechsReq4}}
+|use_mode=Sustained
+|cost=40 Stamina
+|cooldown=30
+|range=1
+|use_speed=0
+|desc=
+You go all out, trying to burn down your foes as fast as possible.
+
+Each strike in battle drains {{ctl|0|11|6}} stamina, but has an increased critical chance of +({{ctstd|Dex|10|50}} / 1.5)% and physical resistance penetration of {{cl|{{ctstd|Str|10|50}}|100%|0|0|35.7%|35.7}}.
+}}

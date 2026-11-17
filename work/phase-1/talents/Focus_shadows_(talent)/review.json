@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "516246fcad3c1998666d8610846fd8f325d18801cee0c139cbb0ea1aa1fc1bc6",
+    "revid": 8237
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Focus_shadows_(talent)",
+    "kind": "talent",
+    "pageid": 1120,
+    "wiki_title": "Focus shadows (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "257cacbbfdcea1544d204b69df755286a6acb70a25d6d657fe28e051f686bcbb",
+    "source_sha256": "afba9045c77c2fd6c8873ba0b48d49ccf697df0bf405f25994a43843fed9fed5",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "257cacbbfdcea1544d204b69df755286a6acb70a25d6d657fe28e051f686bcbb",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

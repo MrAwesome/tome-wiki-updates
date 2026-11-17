@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "871bfc26a51dd3698bf751c0eb97264734e03a104b298f0ad60b32915e80a1a6",
+    "revid": 18953
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Reaping_(talent)",
+    "kind": "talent",
+    "pageid": 5987,
+    "wiki_title": "Reaping (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "cf60c3cb52d0de2c2a0dac22826bb19045ce1b3097236ebba882a7b11e5b2309",
+    "source_sha256": "7708b42e50d5494d10915483c489e7d685457bbcc0bc40da77f988677655be87",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "cf60c3cb52d0de2c2a0dac22826bb19045ce1b3097236ebba882a7b11e5b2309",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

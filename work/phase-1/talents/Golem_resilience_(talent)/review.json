@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "ff30166cd3d71b6b410070a71fca9a4a1fdc96cb9cf651de84312bb3bf9169d1",
+    "revid": 18787
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "baseline_preserved"
+    }
+  ],
+  "identity": {
+    "filename": "Golem_resilience_(talent)",
+    "kind": "talent",
+    "pageid": 1682,
+    "wiki_title": "Golem resilience (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "baseline_preserved",
+    "candidate_page_sha256": "ff30166cd3d71b6b410070a71fca9a4a1fdc96cb9cf651de84312bb3bf9169d1",
+    "source_sha256": "d49a29e2ccb26796d7479f8091d90c7902d362b96933c32fa13618c0fcd740bf",
+    "status": "unsupported_info",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "ff30166cd3d71b6b410070a71fca9a4a1fdc96cb9cf651de84312bb3bf9169d1",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

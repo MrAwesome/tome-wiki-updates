@@ -1,0 +1,17 @@
+{{Ability box
+|game_version=1.7.6
+|image=Mental tyranny.png
+|name=Mental Tyranny
+|category_type=[[Prodigies]]
+|category=[[Prodigies#Willpower|Willpower]]
+|require=Willpower 50<br />Have dealt over 50,000 mind damage
+|use_mode=Sustained
+|use_speed=Standard
+|cooldown=20
+|desc=
+Transcend the physical and rule over all with an iron will!
+
+While this sustain is active, 33% of your damage is converted into mind damage.
+
+Additionally, you gain +30% mind resistance penetration, and +10% mind damage.
+}}

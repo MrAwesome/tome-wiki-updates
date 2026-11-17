@@ -1,0 +1,15 @@
+{{Ability_box
+|game_version=1.7.6
+|image=Time prison_2017.png
+|name=Time Prison
+|category_type={{ct|Spell}}
+|category={{c|Temporal}}
+|require={{TalentReq/SpellsReq3}}
+|cost=100 Mana
+|cooldown=40
+|range=10
+|desc=
+Removes the target from the flow of time for {{gtl|1|5}} turns. In this state, the target can neither act nor be harmed.
+Time does not pass at all for the target, no talents will cooldown, no resources will regen, and so forth.
+The duration will increase with your Spellpower.
+}}

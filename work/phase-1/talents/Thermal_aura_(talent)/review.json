@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "65d0673d2a0280c1739c4ce8d6f7c8629afaf1966e4bfb8d51a278e7a9079e2b",
+    "revid": 7876
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "baseline_preserved"
+    }
+  ],
+  "identity": {
+    "filename": "Thermal_aura_(talent)",
+    "kind": "talent",
+    "pageid": 1268,
+    "wiki_title": "Thermal aura (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "baseline_preserved",
+    "candidate_page_sha256": "65d0673d2a0280c1739c4ce8d6f7c8629afaf1966e4bfb8d51a278e7a9079e2b",
+    "source_sha256": "cad1b014a59af12f9ee250b02417cf27b2a67368601d2042a0eedcd3997587c3",
+    "status": "unsupported_info",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "65d0673d2a0280c1739c4ce8d6f7c8629afaf1966e4bfb8d51a278e7a9079e2b",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

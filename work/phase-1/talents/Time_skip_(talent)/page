@@ -1,0 +1,15 @@
+{{Ability box
+|game_version=1.4.3
+|image=Time skip.png
+|name=Time Skip
+|category_type={{ct|Chronomancy}}
+|category={{c|Time Travel}}
+|require={{TalentReq/ChronoReq2}}
+|range=10
+|cost=20 Paradox
+|cooldown=6
+|desc=
+Inflicts {{ctspd|25|250|PM}} temporal damage.  If your target survives, it may be removed from time for 2+ {{cts|0.3|2.3}} turns.
+The damage will scale with your Spellpower.
+
+}}

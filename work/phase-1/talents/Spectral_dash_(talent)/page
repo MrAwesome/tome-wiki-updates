@@ -1,0 +1,17 @@
+{{Ability_box
+|image=spectral_dash.png
+|name=Spectral Dash
+|game_version=1.7.6
+|category_type={{ct|Psionic}}
+|category={{c|Deep Horror}}
+|require={{TalentReq/PsiWilHigh2}}
+|use_mode=Activated
+|range=1
+|cost=16 Psi
+|cooldown=15
+|travel_speed=Instantaneous
+|use_speed=Mind
+|desc=
+For a brief moment your whole body becomes etheral and you dash into a nearby creature and all those in straight line behind it (in range {{ctl|15|3|8}}).
+You reappear on the other side, with {{gtl|1|5}} more psi and having dealt {{ctmd|40|200}} mind damage to your targets.
+}}

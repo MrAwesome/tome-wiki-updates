@@ -1,0 +1,13 @@
+{{Ability box
+|name=Chant Illuminate
+|image=Chant of fortress.png
+|game_version=1.7.6
+|category_type={{ct|Celestial}}
+|category={{c|Chants}}
+|require={{TalentReq/DiviReq2}}
+|use_mode=Passive
+|desc=
+Your Chants now bathe you in a cloak of light, which increases your stamina and mana regenerations by {{ctspd|1|2}} per turn and does {{ctspd|5|50}} light damage to anyone who hits you in melee.
+These values scale with your Spellpower.
+|avail.escorts=[[Escorts#Sun_Paladin_.28Arcane.29|Sun Paladin (Arcane)]] (Normal Escort Reward), via revealing the locked {{c|Chants}} category
+}}

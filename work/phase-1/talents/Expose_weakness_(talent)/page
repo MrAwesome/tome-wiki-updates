@@ -1,0 +1,17 @@
+{{Ability_box
+|name=Expose weakness
+|image=expose_weakness.png
+|game_version=1.5.2
+|category_type=[[Cunning (category type)|Cunning]]
+|category=[[Lethality (category)|Lethality]]
+|require={{TalentReq/CunsReq2}}
+|cost=15 Stamina
+|cooldown=10
+|travel_speed=Instantaneous
+|use_speed=Standard
+|desc=
+Focus on a single target and perform a probing attack to find flaws in its defences, striking with your melee weapon(s) for {{cTWD|80|110%}} damage.<br>
+For {{cTL|10|4|7}} turns thereafter, your attacks against that target gain ({{cTS|2|5}} + {{cSS|Cun|2|5}}) (effective) accuracy for each probing strike that missed, plus (4 + {{ctstd|Cun|4|20}} ) (effective) bonus weapon damage and {{cTL|50|10|25}} additional weapon resistance penetration for each probing strike that hit.<br>
+Learning this technique allows you to permanently gain {{cTS|4|10|0.75}} armor penetration with all melee and archery attacks.<br>
+The bonuses to accuracy and damage increase with Cunning.
+}}

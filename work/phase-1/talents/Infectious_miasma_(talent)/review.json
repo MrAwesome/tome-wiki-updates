@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "ff8942510706904f3c304075a485d17008d05baddd9f05e152b92c1fef4cfabe",
+    "revid": 13850
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "baseline_preserved"
+    }
+  ],
+  "identity": {
+    "filename": "Infectious_miasma_(talent)",
+    "kind": "talent",
+    "pageid": 4705,
+    "wiki_title": "Infectious miasma (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "baseline_preserved",
+    "candidate_page_sha256": "ff8942510706904f3c304075a485d17008d05baddd9f05e152b92c1fef4cfabe",
+    "source_sha256": "bd12aaee8dded0a470023adc12ee748947a1458fc285ea24badc625271478d63",
+    "status": "unsupported_info",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "ff8942510706904f3c304075a485d17008d05baddd9f05e152b92c1fef4cfabe",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

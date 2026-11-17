@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "35ff331ff4b8360ff89788ed7fb7035a076393b74578e339ec9a90aaff4d9843",
+    "revid": 8169
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:58Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Dismay_(talent)",
+    "kind": "talent",
+    "pageid": 1504,
+    "wiki_title": "Dismay (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "408d98b219fcde1c9efb061441898238c540fb42b0feb4ba313544da917131bf",
+    "source_sha256": "dc640c1af5d22a45472d843380c9de01334530b3831bd2b9fe88ee0cba3abc23",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:58Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "408d98b219fcde1c9efb061441898238c540fb42b0feb4ba313544da917131bf",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "614698e7f75704bd35f3aeec116d023523e58752c79770edaa94931a49f0e5ea",
+    "revid": 10315
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "baseline_preserved"
+    }
+  ],
+  "identity": {
+    "filename": "Gravity_well_(talent)",
+    "kind": "talent",
+    "pageid": 1414,
+    "wiki_title": "Gravity well (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "baseline_preserved",
+    "candidate_page_sha256": "614698e7f75704bd35f3aeec116d023523e58752c79770edaa94931a49f0e5ea",
+    "source_sha256": "c185769f06ac118d2cf2e03f41d240cb6b25a86a3486377b0f4b05c2d900f25d",
+    "status": "unsupported_info",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "614698e7f75704bd35f3aeec116d023523e58752c79770edaa94931a49f0e5ea",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

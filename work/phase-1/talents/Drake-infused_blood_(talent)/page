@@ -1,0 +1,29 @@
+{{Ability_box
+|name=Drake-Infused Blood
+|image=drake_infused_blood.png
+|category_type={{ct|Race}}
+|category={{c|Krog}}
+|game_version=1.7.6
+|require={{TalentReq/RacialReq2}}
+|use_speed=0
+|desc=Since ziguranth removed those filthy magic runes from your body you have needed an alternative form of power to sustain your body. Thanks to drake blood you have found that power.
+
+Your blood hardens yourself, passively increasing stun resistance by {{CTS|20|60%|0.75}} fire resistance by {{CSS|Will|20|60%}} and dealing {{CSS|Will|1|80}} fire damage on melee attacks.
+
+You can activate this talent to change which drake aspect to bring forth, altering the elemental type of the bonus.
+
+The resistance and damage scales with your Willpower.
+
+Changing your aspect requires combat experience, you may only do so after slaying 100 enemies.
+
+When you learn this talent you become so strong you can wield any type of one handed weapon in your offhand.
+
+''dragon types:
+*Fire Drake / Fire Resistance
+*Cold Drake / Cold Resistance
+*Storm Drake / Lightning Resistance
+*Sand Drake / Physical Resistance (1/3rd values)
+*Wild Drake / Nature Resistance
+*Acid Drake / Acid Resistance
+''
+}}

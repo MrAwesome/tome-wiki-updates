@@ -1,0 +1,11 @@
+{{Ability_box
+|name=Lay Web
+|category_type=Wild-gift
+|category=Other
+|game_version=1.7.6
+|range=10
+|cost=4 Equilibrium
+|cooldown=6
+|desc=
+Lay a concealed web ({{cts|10|30}} detect 'power', {{cts|15|35}} disarm 'power') under yourself that lasts {{cts|15|35}} turns and pins all non-spiderkin that pass through it for {{cts|3|7}} turns.  The web weakens over time.
+}}

@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "e045cd706ae97139c670ba5896c0af150f5a9e8b9b40a5344b6c3af737bb0a0f",
+    "revid": 10398
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:58Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Dust_to_dust_(talent)",
+    "kind": "talent",
+    "pageid": 1255,
+    "wiki_title": "Dust to dust (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "a714d99ec6b7faa71ca60c28db9a543fe8783f53896372f40846981fb8f6126a",
+    "source_sha256": "c196b7ff807dcddb97040d65ee89340472b6c2c759ba3609c38bff44381c9fd2",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:58Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "a714d99ec6b7faa71ca60c28db9a543fe8783f53896372f40846981fb8f6126a",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

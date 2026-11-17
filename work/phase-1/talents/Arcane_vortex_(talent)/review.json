@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "26d14b5037937353ac6e977872366250c30cd645ce44f863e59858382d6aa343",
+    "revid": 8076
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:58Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Arcane_vortex_(talent)",
+    "kind": "talent",
+    "pageid": 1399,
+    "wiki_title": "Arcane vortex (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "c3763e34f35b77973d814d29056fee06a8a6ed6e662e5aaac846f896d6cc4625",
+    "source_sha256": "b1b1401244611b4bf3bd1ae39c8a6a44256c16e5792a81c21a71d80ceb2fc835",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:58Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "c3763e34f35b77973d814d29056fee06a8a6ed6e662e5aaac846f896d6cc4625",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

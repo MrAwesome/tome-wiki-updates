@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "cdd4062a9ffbde32fc5ea33178c609f32fddeb69dbdfb2b1137125ab6cf4c3f5",
+    "revid": 22467
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "baseline_preserved"
+    }
+  ],
+  "identity": {
+    "filename": "Flame_turret_(talent)",
+    "kind": "talent",
+    "pageid": 6906,
+    "wiki_title": "Flame turret (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "baseline_preserved",
+    "candidate_page_sha256": "cdd4062a9ffbde32fc5ea33178c609f32fddeb69dbdfb2b1137125ab6cf4c3f5",
+    "source_sha256": "14dbc643e66d9916ea2bdf257053c3e0870addf2ebfb3bc58bb593258dcd5e1c",
+    "status": "unsupported_info",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "cdd4062a9ffbde32fc5ea33178c609f32fddeb69dbdfb2b1137125ab6cf4c3f5",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

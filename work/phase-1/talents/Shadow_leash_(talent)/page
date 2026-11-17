@@ -1,0 +1,15 @@
+{{Ability_box
+|game_version=1.7.6
+|image=Shadow leash.png
+|name=Shadow Leash
+|category_type={{ct|Cunning}}
+|category={{c|Ambush}}
+|require={{TalentReq/CunsReqHigh1}}
+|range=1
+|cost=15 Stamina and 15 Mana
+|cooldown=20
+|desc=
+For an instant, your weapons turn into a shadow leash that tries to grab the target's weapon, disarming it for {{cts|2|6}} turns.
+
+The chance to hit improves with your Accuracy.
+}}

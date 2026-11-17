@@ -1,0 +1,22 @@
+{{Ability box
+|image=Impending doom.png
+|name=Impending Doom
+|category_type={{ct|Spell}}
+|category={{c|Eradication}}
+|game_version=1.7.4
+|require={{TalentReq/SpellsReqHigh3}}
+|cost=50 Mana, 1 Soul
+|cooldown=25
+|range=7
+|use_speed=Spell
+|desc=
+Your target's doom draws near. Its healing factor is reduced by 80%, and it will take frostdusk damage over 10 turns.
+
+The total damage dealt is the lower of...
+: ... a percentage of remaining life equal to {{cl|{{ctspd|10|100}}|150%|50|0|117%|67}}
+: ... or 200 + {{ctspd|28|850}}
+
+This spell is so powerful that every 3 turns it tears a part of the target's soul, generating one soul for you.
+
+The damage will increase with your Spellpower.
+}}

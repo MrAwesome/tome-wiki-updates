@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "0ac3fc71b6c2ce1853f35b0772b534a8cab8dba171eaf70a549f39aa25e2e31c",
+    "revid": 13729
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:58Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Blinding_powder_(talent)",
+    "kind": "talent",
+    "pageid": 4659,
+    "wiki_title": "Blinding powder (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "fb0ce44ee432962c036e07f8834b562a600baee2f9b26f012b4152fafd750191",
+    "source_sha256": "4e7c7ee933a0602176449bfda6f5d94ed7503ee9e9a83bb472091da37f60b683",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:58Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "fb0ce44ee432962c036e07f8834b562a600baee2f9b26f012b4152fafd750191",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

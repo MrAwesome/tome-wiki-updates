@@ -1,0 +1,14 @@
+{{Ability_box
+|image=Earthen_barrier_2017.png
+|name=Earthen Barrier
+|category_type={{ct|Spell}}
+|category={{c|Enhancement}}
+|require={{TalentReq/SpellsReq2}}
+|use_mode=Activated
+|cooldown=25
+|cost=45 Mana
+|desc=
+Hardens your skin with the power of earth, reducing physical damage taken by {{ctspd|10|60%}} for 10 turns.
+
+Damage reduction will increase with your Spellpower.
+}}

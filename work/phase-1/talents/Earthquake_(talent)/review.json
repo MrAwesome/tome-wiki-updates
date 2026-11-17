@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "18d1cd00799e82200cf6e5649e1955f81efa7f2b3a55a7c043291990b466cc86",
+    "revid": 14010
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:58Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Earthquake_(talent)",
+    "kind": "talent",
+    "pageid": 1603,
+    "wiki_title": "Earthquake (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "7c1f2a4ef032ccb066b03f2aa08a4eddddac5c1be802b3b709cfc6ffb53baf1b",
+    "source_sha256": "588e7571be426b3b2daeb3e16128c8ea37c177cd3d7904aa6fd52d937b590a74",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:58Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "7c1f2a4ef032ccb066b03f2aa08a4eddddac5c1be802b3b709cfc6ffb53baf1b",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

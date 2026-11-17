@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "8246c161eaaf507c60bec8208a17df4b36057a45cdfd283bd3be7d425c212389",
+    "revid": 13738
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Pin_down_(talent)",
+    "kind": "talent",
+    "pageid": 4679,
+    "wiki_title": "Pin down (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "eb3036810f2bb2be2e6c9042210fe31ec42cfccef714d1fcbb917359d658025b",
+    "source_sha256": "4c26268cd967d35171d9854350db863fa31306bb2c90ae324ed7dfad644f11ea",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "eb3036810f2bb2be2e6c9042210fe31ec42cfccef714d1fcbb917359d658025b",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

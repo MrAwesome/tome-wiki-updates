@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "11d65f59486c059860652c0fff044ce4d310a6e48b963d46df3d63ee401e6ad9",
+    "revid": 22365
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Psionic_fog_(talent)",
+    "kind": "talent",
+    "pageid": 5202,
+    "wiki_title": "Psionic fog (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "141d6fc47d4186a2dd02b129e789802f465745a1b76cb08ae2ce2e5c8ef50e83",
+    "source_sha256": "6bda2c01ed42866462a028bbb2c54b0d45e0dfdbfd459f1439bc16d44b5704cc",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "141d6fc47d4186a2dd02b129e789802f465745a1b76cb08ae2ce2e5c8ef50e83",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

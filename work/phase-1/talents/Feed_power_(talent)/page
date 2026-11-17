@@ -1,0 +1,12 @@
+{{Ability box
+|game_version=1.7.6
+|image=Feed power.png
+|name=Feed Power
+|category_type={{ct|Cursed}}
+|category={{c|Dark Sustenance}}
+|require={{TalentReq/CursedWilReq3}}
+|use_mode=Passive
+|desc=
+Enhances your feeding by reducing your targeted foe's damage by {{gtl|1|5}}, and increasing yours by the same amount.
+Improves with your Mindpower.
+}}

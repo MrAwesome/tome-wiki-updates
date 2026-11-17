@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "9499c521b9c7a7c642b691433b499d57948cff013bbe78ed0d79abb3224bbb99",
+    "revid": 14953
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:58Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Arcane_might_(talent)",
+    "kind": "talent",
+    "pageid": 3462,
+    "wiki_title": "Arcane might (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "a6073cab91738a85b60894a753aa3eb04164fe3b443606befc8ff374a3930a7f",
+    "source_sha256": "a4e0877b7e12cdb59d2e9f974fe7579811d56479e20fcea071effad38a44caea",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:58Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "a6073cab91738a85b60894a753aa3eb04164fe3b443606befc8ff374a3930a7f",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

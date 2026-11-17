@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "ebd49b0b56d77dbf87c9e9a0fb6a39318a3c78932deaff60a0918f7ad2bf4689",
+    "revid": 22470
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:58Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Deploy_turret_(talent)",
+    "kind": "talent",
+    "pageid": 6909,
+    "wiki_title": "Deploy turret (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "abede4c3ea379012aaa0497683f8f4f13798e5b43d602a5973d6914aed6a7925",
+    "source_sha256": "14dbc643e66d9916ea2bdf257053c3e0870addf2ebfb3bc58bb593258dcd5e1c",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:58Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "abede4c3ea379012aaa0497683f8f4f13798e5b43d602a5973d6914aed6a7925",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

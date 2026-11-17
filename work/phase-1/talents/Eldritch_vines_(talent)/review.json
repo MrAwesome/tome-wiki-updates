@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "543a166f20a446c46899ad5c4ab805ffada69452dce6c1feef9818dde32f37bd",
+    "revid": 13035
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:58Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Eldritch_vines_(talent)",
+    "kind": "talent",
+    "pageid": 4605,
+    "wiki_title": "Eldritch vines (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "60fc1950c9b275068bc328010298269ebf72d9baf421febba2a63d0f572d594e",
+    "source_sha256": "36129e9f57f1b149567f2a58ad1a337ccc56bb6585546519c0d92911ea888205",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:58Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "60fc1950c9b275068bc328010298269ebf72d9baf421febba2a63d0f572d594e",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

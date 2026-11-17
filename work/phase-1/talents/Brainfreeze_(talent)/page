@@ -1,0 +1,18 @@
+{{Ability_box
+|game_version=1.7.6
+|image=brainfreeze.png
+|name=Brainfreeze
+|category_type={{ct|Psionic}}
+|category={{c|Thermal Mastery}}
+|require={{TalentReq/PsiWilHigh2}}
+|use_mode=Activated
+|cost=20 Psi
+|cooldown=8
+|range={{cts|4|6}}
+|desc=
+Quickly drain the heat from your target's brain, dealing {{ctmd|12|300}} Cold damage.
+
+Affected creatures will also be brainlocked for 4 turns, putting a random talent on cooldown, and freezing cooldowns.
+
+The damage and chance to brainlock increase with your Mindpower.
+}}

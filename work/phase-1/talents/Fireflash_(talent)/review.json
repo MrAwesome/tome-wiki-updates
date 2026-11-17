@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "1c317870e4b041aadce9281850ca24c8ea50aed8cc7618adda5fc42cb896fec5",
+    "revid": 22733
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Fireflash_(talent)",
+    "kind": "talent",
+    "pageid": 1073,
+    "wiki_title": "Fireflash (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "363ea2eb3024288eeeb21d4bbd77732b399599745ef1c739fcea3d315ab5f26c",
+    "source_sha256": "40b304f5a45613ca57ad840730b2086bb7c72016e3149ab56291ac0db69beeff",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "363ea2eb3024288eeeb21d4bbd77732b399599745ef1c739fcea3d315ab5f26c",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

@@ -1,0 +1,14 @@
+{{Ability_box
+|name=Combat Accuracy
+|image=Weapon combat.png
+|category_type={{ct|Technique}}
+|category={{c|Combat Training}}
+|game_version=1.7.6
+|require=Level (0, 4, 8, 12, 16)
+|use_mode=Passive
+|desc=
+Increases the accuracy of unarmed, melee and ranged weapons by {{cts|14|55}}.
+|avail=Note that both [[Adventurer]] and [[Wanderer]] classes begin with {{c|Combat Training}} unlocked
+|avail.classes=It would be easier to list the classes that ''don't'' have it by default: The entire {{mc|Mage}} metaclass—[[Alchemist]], [[Archmage]], [[Necromancer]]; plus [[Doomed]], [[Corruptor]], [[Anorithil]], [[Oozemancer]], [[Paradox Mage]], and [[Solipsist]]
+|avail.shops=[[Last Hope]] ([[Age of Ascendancy]]), [[Kruk Pride]] ([[Embers of Rage]])
+}}

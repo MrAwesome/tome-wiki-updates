@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "098e14722908f467dd35074618bcb93075cdd3e4bdd7095691143b28e9a41579",
+    "revid": 19300
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "baseline_preserved"
+    }
+  ],
+  "identity": {
+    "filename": "Plumpkin_fury!_(talent)",
+    "kind": "talent",
+    "pageid": 6031,
+    "wiki_title": "Plumpkin fury! (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "baseline_preserved",
+    "candidate_page_sha256": "098e14722908f467dd35074618bcb93075cdd3e4bdd7095691143b28e9a41579",
+    "source_sha256": null,
+    "status": "unmatched_source",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "098e14722908f467dd35074618bcb93075cdd3e4bdd7095691143b28e9a41579",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

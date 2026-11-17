@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "8e32ded193c76d57b062763011a8695900d0a997ce9522b06dd66af69b31492d",
+    "revid": 13992
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Stone_skin_(talent)",
+    "kind": "talent",
+    "pageid": 1466,
+    "wiki_title": "Stone skin (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "2dc1b720162e3c8e531ef901612b912e601ba1afda2b46eff200e9fec8715dd5",
+    "source_sha256": "ad08453419b9012d3fdc4dae388c1fc42c9087ed6ecd731f2363a7246c377095",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "2dc1b720162e3c8e531ef901612b912e601ba1afda2b46eff200e9fec8715dd5",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

@@ -1,0 +1,17 @@
+{{Ability box
+|game_version=1.6.7
+|image=Armour of shadows.png
+|name=Armour of Shadows
+|category_type=[[Prodigies]]
+|category=[[Prodigies#Constitution|Constitution]]
+|require=Constitution 50<br />Have dealt over 50,000 darkness damage
+|use_mode=Passive
+|desc=
+You know how to protect yourself with the deepest shadows. As long as you stand on an unlit tile you gain Max(30;Con/2) Armour, 50% armour hardiness and 20% evasion.
+
+Any time you deal darkness damage, you will unlight both the target tile and yours.
+
+Passively increases your stealth rating by 30.
+
+The armor bonus scales with your Constitution.
+}}

@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "4855a9efd67e288cf5bd9d69a4b0fbcdb916eb3ee9415c9a92397451f6db3423",
+    "revid": 10616
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:58Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Draining_assault_(talent)",
+    "kind": "talent",
+    "pageid": 3739,
+    "wiki_title": "Draining assault (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "1e00ae9681e53dfcc5caeca5f0bbfa4a1c19e61998c35f4d243de2000fdf7d11",
+    "source_sha256": "98445e8d729b25a81d276add49387ac07a1ce10b7cc8c5feae4a62e645c2552d",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:58Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "1e00ae9681e53dfcc5caeca5f0bbfa4a1c19e61998c35f4d243de2000fdf7d11",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

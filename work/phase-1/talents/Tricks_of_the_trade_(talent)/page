@@ -1,0 +1,18 @@
+{{Ability box
+|game_version=1.7.6
+|image=Tricks of the trade.png
+|name=Tricks of the Trade
+|category_type=[[Prodigies]]
+|category=[[Prodigies#Cunning|Cunning]]
+|require=Cunning 50<br />Have sided with the Assassin Lord during the [[Trapped!]] quest in the [[Unknown Tunnels]]
+|use_mode=Passive
+|desc=
+You have friends in low places and have learned some underhanded tricks.
+Gain 0.2 Category Mastery to the Cunning/{{c|Stealth}} Category (or unlock it, if you have the tree and it is locked), and either gain +0.1 to the Cunning/{{c|Scoundrel}} category or learn and unlock the category at 0.9 if you lack it.
+Additionally, all of your damage penalties from invisibility are permanently halved.
+}}
+===Notes===
+*The final sentence of the description, "Additionally, all of your damage penalties from invisibility are permanently halved" does not refer to the talent named {{t|Invisibility}}, because as of version 1.7, that talent no longer causes a damage penalty. Some other sources of invisibility are still affected by this talent:
+**Invisibility from activating an ethereal rune has a 50% damage penalty (reduced to 25%)
+**Invisibility from activating [[Death's Embrace]] has a 50% damage penalty (reduced to 25%)
+**Invisibility from deactivating {{t|Hymn of Detection}} while knowing {{t|Hymn Adept}} has a 40% damage penalty (reduced to 20%)

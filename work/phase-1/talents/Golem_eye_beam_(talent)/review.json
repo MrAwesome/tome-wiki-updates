@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "17cad140193d371561b81291fbb9e4685e8c41621061a5275b6b58a33b6005f3",
+    "revid": 8941
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "baseline_preserved"
+    }
+  ],
+  "identity": {
+    "filename": "Golem_eye_beam_(talent)",
+    "kind": "talent",
+    "pageid": 3505,
+    "wiki_title": "Golem eye beam (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "baseline_preserved",
+    "candidate_page_sha256": "17cad140193d371561b81291fbb9e4685e8c41621061a5275b6b58a33b6005f3",
+    "source_sha256": null,
+    "status": "unmatched_source",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "17cad140193d371561b81291fbb9e4685e8c41621061a5275b6b58a33b6005f3",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

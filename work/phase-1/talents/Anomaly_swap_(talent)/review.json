@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "9b32281cae405d8727dd852b406d5d021d2902e39b9d074c73458f455cd63e9f",
+    "revid": 11833
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:58Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Anomaly_swap_(talent)",
+    "kind": "talent",
+    "pageid": 4347,
+    "wiki_title": "Anomaly swap (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "7116965966552aff95ea8c231214118acbd24096180c0c9f941b5879a7e2dd3d",
+    "source_sha256": "cc36f9e9f4aaec5230730e339ec389d2185f125afad3bd5fc061d2a0631aca25",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:58Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "7116965966552aff95ea8c231214118acbd24096180c0c9f941b5879a7e2dd3d",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

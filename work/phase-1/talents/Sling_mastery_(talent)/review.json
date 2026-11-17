@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "9ad6e5ec23d4a0f98905f1407ef3d405052eba57e9c156ae8ea5a6af45d81c36",
+    "revid": 7962
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Sling_mastery_(talent)",
+    "kind": "talent",
+    "pageid": 1448,
+    "wiki_title": "Sling mastery (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "17fbca88b53192209b6f508ebde70b3b15709384db29442871e38bd43641e4e7",
+    "source_sha256": "6d7b2cd4d3d65eddc602c86acfbddfa10260f3c3a5c8f5f07e5df6303105d733",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "17fbca88b53192209b6f508ebde70b3b15709384db29442871e38bd43641e4e7",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

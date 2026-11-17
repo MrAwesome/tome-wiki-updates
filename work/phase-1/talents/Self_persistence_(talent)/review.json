@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "4222f0e5084054a474be76531be5d74ef1c1babcb1ad7cadf117d22c24cc1d27",
+    "revid": 15122
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Self_persistence_(talent)",
+    "kind": "talent",
+    "pageid": 5275,
+    "wiki_title": "Self persistence (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "f0288b8930a5011796ac35d8e779a372ffeaa4ef1b8a08b9905f81c155858495",
+    "source_sha256": "f40e059220d4975e17152cf14b43e91dac498c7dfb916540fced850b04e75024",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "f0288b8930a5011796ac35d8e779a372ffeaa4ef1b8a08b9905f81c155858495",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

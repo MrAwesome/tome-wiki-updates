@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "7b9c7d035899f79f4c010e3f96e16c758d608b7d684e98f59aea96a3935d96e6",
+    "revid": 13716
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Shadowstrike_(talent)",
+    "kind": "talent",
+    "pageid": 1229,
+    "wiki_title": "Shadowstrike (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "d4699e3f7a307f1a277c94f0e631db45f5b8745e4f4c2094d116b6780dd09e4c",
+    "source_sha256": "38accb83ed9f8124b05924589b576a0afaf61625c3e0ad4481a08e19299fa63d",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "d4699e3f7a307f1a277c94f0e631db45f5b8745e4f4c2094d116b6780dd09e4c",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

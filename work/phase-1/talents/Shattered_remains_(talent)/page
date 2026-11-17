@@ -1,0 +1,15 @@
+{{Ability box
+|game_version=1.7.6
+|image=bone_wall.png
+|name=Shattered Remains
+|category_type={{ct|Spell}}
+|category={{c|Master of Bones}}
+|require={{TalentReq/SpellsReq2}}
+|use_mode= Passive
+|desc=
+Any time one of your skeleton or bone giant dies, it shatters in radius {{cts|1|5}}, making any foe bleed for {{ctspd|30|200}} physical damage over 5 turns.
+
+If any other skeleton or bone giant minion is in the radius it will pickup some of the bones to enhance itself, increasing maximum and current life by {{cts|30|130}}, armour by {{cts|6|15}} and gain {{cts|3|50}} physical melee retaliation for 20 turns.
+
+This talent never works when you kill your own minions.
+}}

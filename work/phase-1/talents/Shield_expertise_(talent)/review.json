@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "73caa5e64177f36d8689383dbb13ff8215a2c0e3d995450d139ffee48a4fd121",
+    "revid": 19959
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Shield_expertise_(talent)",
+    "kind": "talent",
+    "pageid": 1659,
+    "wiki_title": "Shield expertise (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "8dd89788ae2b195ae0b33b48018c6ee307b8227d13488ef0a3956daf1dd83ef1",
+    "source_sha256": "c94f6f329cdb05e2a557ccae1b2db741775f490676108d87f1221cc142deedea",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "8dd89788ae2b195ae0b33b48018c6ee307b8227d13488ef0a3956daf1dd83ef1",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

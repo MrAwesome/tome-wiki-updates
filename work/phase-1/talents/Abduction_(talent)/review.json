@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "1dbc31b9440c78ffe5b677a5213064270cd78000722517f31e4519702cb10e43",
+    "revid": 10628
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:58Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Abduction_(talent)",
+    "kind": "talent",
+    "pageid": 3748,
+    "wiki_title": "Abduction (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "ea1b12b9a812b3b3717b67108c1f88d48f5828238defb5bf89336a774eea51d9",
+    "source_sha256": "c9845ad5482c45ab0c2c5832950e9868bea5b9af7d4f0d1f3b31b4f03179bb66",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:58Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "ea1b12b9a812b3b3717b67108c1f88d48f5828238defb5bf89336a774eea51d9",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

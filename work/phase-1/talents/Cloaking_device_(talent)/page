@@ -1,0 +1,18 @@
+{{Ability box
+|image=Cloak.png
+|name=Cloaking device
+|game_version=1.7.6
+|embers_version=1.1.10
+|category_type={{ct|Steamtech}}
+|category={{c|Avoidance}}
+|require={{TalentReq/SteamReq4}}
+|use_mode=Activated
+|cost=45 Steam
+|cooldown=25
+|use_speed=Steamtech
+|desc=Trigger an array of small mirrors to appear all over your cloak.
+
+The mirrors are positioned to reflect all light shining on you, granting {{ctstmd|3|150}} stealth power for 10 turns.
+
+Stealth power increases with your steampower.
+}}

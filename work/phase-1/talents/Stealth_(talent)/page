@@ -1,0 +1,21 @@
+{{Ability_box
+|image=Stealth.png
+|name=Stealth
+|game_version=1.5.2
+|category_type=[[Cunning (category type)|Cunning]]
+|category=[[Stealth (category)|Stealth]]
+|require={{TalentReq/CunsReq1}}
+|use_mode=Sustained
+|cooldown=10
+|use_speed=Instant
+|desc=
+Enters stealth mode (power {{CS|(0.1 * Cun * Talent Level)|15|1|64|.25}}), making you harder to detect.
+
+If successful (re-checked each turn), enemies will not know exactly where you are, or may not notice you at all.
+
+Stealth reduces your light radius to 0, and will not work with heavy or massive armours.
+
+You cannot enter stealth if there are foes in sight within range {{CTL|0|8.9|4.6}}.
+
+Any non-instant, non-movement action will break stealth if not otherwise specified.
+}}

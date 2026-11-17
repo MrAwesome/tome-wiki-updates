@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "64253a1b933bb811d4f3c75f94cda856ab483d3870feee7b3481cc902197175f",
+    "revid": 5659
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:58Z",
+      "event": "deterministic_render_applied",
+      "reason": "baseline_preserved"
+    }
+  ],
+  "identity": {
+    "filename": "Assail_(talent)",
+    "kind": "talent",
+    "pageid": 1529,
+    "wiki_title": "Assail (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "baseline_preserved",
+    "candidate_page_sha256": "64253a1b933bb811d4f3c75f94cda856ab483d3870feee7b3481cc902197175f",
+    "source_sha256": null,
+    "status": "unmatched_source",
+    "updated_at": "2026-11-08T16:08:58Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "64253a1b933bb811d4f3c75f94cda856ab483d3870feee7b3481cc902197175f",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

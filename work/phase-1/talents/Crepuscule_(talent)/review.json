@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "6598d981361259c301695e4187bcf8d3a1f239567730559ea09969d363d5bbd2",
+    "revid": 19415
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:58Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Crepuscule_(talent)",
+    "kind": "talent",
+    "pageid": 6068,
+    "wiki_title": "Crepuscule (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "47ff9ba8a579fe9d12fdfc91b08247ac70c15e19cfbe6004ceb9e679bfb4b1b7",
+    "source_sha256": "834c8c8771f6c5c3aefa79a5974a54ecd6fca64773989e38efddae096737ec11",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:58Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "47ff9ba8a579fe9d12fdfc91b08247ac70c15e19cfbe6004ceb9e679bfb4b1b7",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

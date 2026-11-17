@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "adab6a4ba9466142d43ac5d32e4d23a89dbb4ef2bd44a2840e61cbd4f946a2c0",
+    "revid": 8657
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:58Z",
+      "event": "deterministic_render_applied",
+      "reason": "baseline_preserved"
+    }
+  ],
+  "identity": {
+    "filename": "Dream_smith%27s_hammer_(talent)",
+    "kind": "talent",
+    "pageid": 1513,
+    "wiki_title": "Dream smith's hammer (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "baseline_preserved",
+    "candidate_page_sha256": "adab6a4ba9466142d43ac5d32e4d23a89dbb4ef2bd44a2840e61cbd4f946a2c0",
+    "source_sha256": "c1e654bde716e1fbae70ce41cf432f32f682e63c0003bab73989130d76e3e482",
+    "status": "unsupported_info",
+    "updated_at": "2026-11-08T16:08:58Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "adab6a4ba9466142d43ac5d32e4d23a89dbb4ef2bd44a2840e61cbd4f946a2c0",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

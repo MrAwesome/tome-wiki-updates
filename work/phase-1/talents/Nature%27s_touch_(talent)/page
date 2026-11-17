@@ -1,0 +1,16 @@
+{{Ability box
+|game_version=1.7.6
+|image=Nature touch.png
+|name=Nature's Touch
+|category_type={{ct|Wild-Gift}}
+|category={{c|Call of the Wild}}
+|require={{TalentReq/GiftsReq2}}
+|cost=10 Equilibrium
+|cooldown=15
+|range=1
+|use_speed=Mind
+|desc=
+Touch a target (or yourself) to infuse it with Nature, healing it for {{ctmd|40|520}} (this heal does not work on undead).
+The amount healed will increase with your Mindpower.
+|avail.escorts=[[Escorts#Seer_.28Arcane.29|Seer (Arcane)]] ([[Escorts#Betraying_to_Zigur|Betray Escort to Zigur]]), +1 to talent or via revealing the locked {{c|Call of the Wild}} category
+}}

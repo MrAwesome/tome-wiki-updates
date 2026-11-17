@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "16433f6f1da4aabe4fb9d30ba427e58c6788db90120120115b3189cb1a010554",
+    "revid": 14003
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Thunderstorm_(talent)",
+    "kind": "talent",
+    "pageid": 1263,
+    "wiki_title": "Thunderstorm (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "7419ca3647fb8c07040246e5b1be2846aa04173ccc520aaa666455fe9d0bc60b",
+    "source_sha256": "3ac4d9f04300e9aa06ec51809fc95051d4c9e2ba9588708316eaa199ebf4254b",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "7419ca3647fb8c07040246e5b1be2846aa04173ccc520aaa666455fe9d0bc60b",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

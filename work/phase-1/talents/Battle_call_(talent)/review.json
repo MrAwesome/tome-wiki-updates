@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "cc03aa15896d8eff8445f82cef97fecda38e0404844dadc5a6417d766f4778d8",
+    "revid": 14020
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:58Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Battle_call_(talent)",
+    "kind": "talent",
+    "pageid": 1293,
+    "wiki_title": "Battle call (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "34dcfc98340ab4bc84ec2ef677c961a4eb846b0ae5e19935215fe14837adf45b",
+    "source_sha256": "cfb24e66594c7d059b466e73eede07c64963f5659147f6774095d3e4bfa23903",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:58Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "34dcfc98340ab4bc84ec2ef677c961a4eb846b0ae5e19935215fe14837adf45b",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

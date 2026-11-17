@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "79f641128597a9b6d20c51e550f6875db144d420500ace75bbc2647fde96436b",
+    "revid": 12188
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:58Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Caustic_mire_(talent)",
+    "kind": "talent",
+    "pageid": 3259,
+    "wiki_title": "Caustic mire (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "5f26c84032645a3602cf375b3743c43c9a5e1f48e7b806235d8cbf1fae3333f3",
+    "source_sha256": "007f86d6e014eaada42f99c41f0283322d50bf6d57f89e0efa2c694c2ce36cc7",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:58Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "5f26c84032645a3602cf375b3743c43c9a5e1f48e7b806235d8cbf1fae3333f3",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

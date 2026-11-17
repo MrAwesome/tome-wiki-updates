@@ -1,0 +1,12 @@
+{{Ability box
+|image=Golem power.png
+|name=Golem Power
+|category_type={{ct|Spell}}
+|category={{c|Golemancy}}
+|require={{TalentReq/SpellsReq1}}
+|use_mode=Passive
+|desc=
+Improves your golem's proficiency with weapons, increasing its accuracy, physical power and damage.
+
+The bonus is equivalent to investing the same number of raw talent points in {{t|Combat Accuracy}}, {{t|Staff Mastery}}, {{t|Weapons Mastery}}, {{t|Dagger Mastery}} and {{t|Exotic Weapons Mastery}} for your golem.
+}}

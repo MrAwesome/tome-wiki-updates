@@ -1,0 +1,9 @@
+{{Ability_box
+|image=Fire infusion.png
+|name=Fire infusion
+|category_type=[[Spell (category type)|Spell]]
+|category=[[Infusion (category)|Infusion]]
+|require={{TalentReq/SpellsReq1}}
+|use_mode=Passive
+|desc=When you throw your alchemist bombs, you infuse them with explosive fire, increasing damage by X%, and setting foes ablaze.
+}}

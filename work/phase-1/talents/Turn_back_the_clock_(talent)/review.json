@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "07beec451b0c76de8b27a1f212637a99e8b6678a8a413cf3e975d08784adaa88",
+    "revid": 11505
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Turn_back_the_clock_(talent)",
+    "kind": "talent",
+    "pageid": 1582,
+    "wiki_title": "Turn back the clock (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "3dd83c0995c484dc272bad66c9dc2beeeb81d27d42afcc53923050a626a7346f",
+    "source_sha256": "d8faa27b7c71a6362fb62b95924f44f2be183fd316ef23e1b065c45910f98ec2",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "3dd83c0995c484dc272bad66c9dc2beeeb81d27d42afcc53923050a626a7346f",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

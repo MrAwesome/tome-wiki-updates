@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "3584f9e0d1deee93d684a87c935c2ad5ef4e2469f10aa4af3522195ec758b51b",
+    "revid": 8211
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "baseline_preserved"
+    }
+  ],
+  "identity": {
+    "filename": "Seethe_(talent)",
+    "kind": "talent",
+    "pageid": 1722,
+    "wiki_title": "Seethe (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "baseline_preserved",
+    "candidate_page_sha256": "3584f9e0d1deee93d684a87c935c2ad5ef4e2469f10aa4af3522195ec758b51b",
+    "source_sha256": "17537c3a931c9220b3a139c73bf66ff759954b94d77ba126616f7ee4e929729e",
+    "status": "unsupported_info",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "3584f9e0d1deee93d684a87c935c2ad5ef4e2469f10aa4af3522195ec758b51b",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

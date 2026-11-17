@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "1883d9f5054fda8feaa7205a7627819e2f06ae2113af310a2e217784b8359f33",
+    "revid": 19008
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:58Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Celestial_surge_(talent)",
+    "kind": "talent",
+    "pageid": 5990,
+    "wiki_title": "Celestial surge (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "a0ea20e256e71d298492a58a158bd10214db84fb54113132be08c6aa6f1f95da",
+    "source_sha256": "5a2be93420eb9484fcf0accd9dd013c61eed865065826c0902eeb970e7b9786a",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:58Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "a0ea20e256e71d298492a58a158bd10214db84fb54113132be08c6aa6f1f95da",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

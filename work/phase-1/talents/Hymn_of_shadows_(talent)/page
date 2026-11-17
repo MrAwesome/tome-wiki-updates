@@ -1,0 +1,17 @@
+{{Ability box
+|game_version=1.7.6
+|image=Hymn of shadows.png
+|name=Hymn of Shadows
+|category_type={{ct|Celestial}}
+|category={{c|Hymns}}
+|require={{TalentReq/DiviReq1}}
+|use_mode=Sustained
+|cost=20 Negative
+|cooldown=12
+|use_speed=0
+|desc=
+Chant the glory of the Moons, gaining the agility of shadows.
+This increases your movement speed by {{ctspd|20|50}} and your spell speed by {{ctspd|7|20}}.
+You may only have one Hymn active at once.
+The effects will increase with your Spellpower.
+}}

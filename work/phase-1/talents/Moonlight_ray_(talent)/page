@@ -1,0 +1,16 @@
+{{Ability box
+|image=Moonlight ray.png
+|name=Moonlight Ray
+|category_type={{ct|Celestial}}
+|category={{c|Star Fury}}
+|game_version=1.7.6
+|require={{TalentReq/DiviReq1}}
+|range=10
+|cost=10 Negative
+|cooldown=3
+|use_speed=Spell
+|desc=
+Focuses the power of the Moon into a beam of shadows, doing {{ctspd|14|230}} damage.
+
+The damage dealt will increase with your Spellpower.
+}}

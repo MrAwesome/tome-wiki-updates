@@ -1,0 +1,16 @@
+{{Ability box
+|image = Fumigate.png
+|name = Fumigate
+|game_version = 1.7.6
+|embers_version = 1.1.10
+|category_type = {{ct|Steamtech}}
+|category = {{c|Chemical Warfare}}
+|require = {{TalentReq/DexSteamReqHigh4}}
+|cooldown = 5
+|cost = 15 Steam
+|range = Steamgun range
+|use_speed = Steamtech
+|desc = You consume all {{t|Miasma Engine}} stacks you have to fire a blast of corrosive death through your steamgun, dealing {{ctwd|100|180%}} weapon damage as {{acid}} in a cone with a radius equal to your steamgun range, with a {{ctl|100|25|75%}} chance to remove a random beneficial physical or mental effect. For every stack beyond the first the damage dealt is increased by 50% and there is a {{ctl|100|25|75%}} chance to remove an additional effect.
+
+This attack ignores all enemy armour, and you must have at least 1 stack of Miasma Engine to use this talent.
+}}

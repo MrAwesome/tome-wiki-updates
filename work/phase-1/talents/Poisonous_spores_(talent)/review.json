@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "59fc864edda700fa8b4e3998099d7229c50cfdb1d3ed515972ecf93cbfcdc015",
+    "revid": 19159
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Poisonous_spores_(talent)",
+    "kind": "talent",
+    "pageid": 1427,
+    "wiki_title": "Poisonous spores (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "a69ea146dc77355a325b097b40480d2bf30d9e510647117be074d20a76deb053",
+    "source_sha256": "59736e1acfe5dcb342491dcdc47102795d2401dbc520f300cf52ac2eac2d8ada",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "a69ea146dc77355a325b097b40480d2bf30d9e510647117be074d20a76deb053",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

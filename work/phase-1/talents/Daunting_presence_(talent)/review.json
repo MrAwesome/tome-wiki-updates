@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "1d9344b2c6494f9c0cf3330c5774be166be8ec45c82d2967e30d561ee1f688bd",
+    "revid": 23069
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:58Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Daunting_presence_(talent)",
+    "kind": "talent",
+    "pageid": 1391,
+    "wiki_title": "Daunting presence (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "7df60edcb4d801a19bb4be505283d10211eb6f9da76a7427bf82322caad2c385",
+    "source_sha256": "7942d057c4bcaeb11335c86204628b825477a15c985290736de2b1e61666c799",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:58Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "7df60edcb4d801a19bb4be505283d10211eb6f9da76a7427bf82322caad2c385",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

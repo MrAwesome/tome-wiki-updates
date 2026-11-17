@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "3fc1e804d0957ea401a5c6b06e59dc4a9ed6f4d2f2f3a48e28481a47d1df859e",
+    "revid": 8189
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:58Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Blindside_(talent)",
+    "kind": "talent",
+    "pageid": 1526,
+    "wiki_title": "Blindside (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "5c2d7061d5f9efa82e5a99b1488726e8da296487a731b5083e99d570d38772bf",
+    "source_sha256": "b0dcafa04aadc9c68ebac73bdda27b056aec10b35bd9e6766bdde9f76d52086d",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:58Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "5c2d7061d5f9efa82e5a99b1488726e8da296487a731b5083e99d570d38772bf",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

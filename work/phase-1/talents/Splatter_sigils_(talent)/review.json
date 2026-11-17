@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "2f08bd5c0bd7330bc2c8f60bbf682eb3266c6d240c4b8af6c4de2e92e8d97f0b",
+    "revid": 22889
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Splatter_sigils_(talent)",
+    "kind": "talent",
+    "pageid": 7068,
+    "wiki_title": "Splatter sigils (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "b28eeb6b70872f980829060acce027106749a55a016780cf7e31f2c4b8f90615",
+    "source_sha256": "909d08e1f26b3f38f8244c116af6e4a1e54af696abfc74816659c14c5269db18",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "b28eeb6b70872f980829060acce027106749a55a016780cf7e31f2c4b8f90615",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

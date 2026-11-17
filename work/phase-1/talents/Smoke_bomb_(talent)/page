@@ -1,0 +1,14 @@
+{{Ability box
+|image=Smoke bomb.png
+|name=Smoke Bomb
+|category_type={{ct|Spell}}
+|category={{c|Fire Alchemy}}
+|require={{TalentReq/SpellsReq2}}
+|range=6
+|cost=(82 - 10 * Talent Level) Mana
+|cooldown=34
+|desc=
+Throw a smoke bomb, blocking everyone's line of sight. The smoke will last for a duration of {{cs|(0.03 * Spellpower * Talent Level)|2|0|10|8}}.
+
+If a creature inside is a victim of fire burns the smoke will be consumed instantly, and the burning effect will be replicated on all foes within the smoke that were not already burning. The replicated burns will have their durations increased by 1/3 of the Smoke Bomb's normal duration.
+}}

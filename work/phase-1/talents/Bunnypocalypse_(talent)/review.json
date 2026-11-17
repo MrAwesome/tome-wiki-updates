@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "28c40cd350911002c292a8ee5a9d41a8faf60fc8c1adbfa8c23b13f031344b3f",
+    "revid": 18287
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:58Z",
+      "event": "deterministic_render_applied",
+      "reason": "baseline_preserved"
+    }
+  ],
+  "identity": {
+    "filename": "Bunnypocalypse_(talent)",
+    "kind": "talent",
+    "pageid": 5843,
+    "wiki_title": "Bunnypocalypse (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "baseline_preserved",
+    "candidate_page_sha256": "28c40cd350911002c292a8ee5a9d41a8faf60fc8c1adbfa8c23b13f031344b3f",
+    "source_sha256": null,
+    "status": "unmatched_source",
+    "updated_at": "2026-11-08T16:08:58Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "28c40cd350911002c292a8ee5a9d41a8faf60fc8c1adbfa8c23b13f031344b3f",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

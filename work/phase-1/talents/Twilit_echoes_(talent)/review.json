@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "eb8e3783693cdf336e9e57b216d00a794474abedd24f7e59dfe26e4f0d2f2267",
+    "revid": 22558
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "baseline_preserved"
+    }
+  ],
+  "identity": {
+    "filename": "Twilit_echoes_(talent)",
+    "kind": "talent",
+    "pageid": 6979,
+    "wiki_title": "Twilit echoes (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "baseline_preserved",
+    "candidate_page_sha256": "eb8e3783693cdf336e9e57b216d00a794474abedd24f7e59dfe26e4f0d2f2267",
+    "source_sha256": "b6c361dedd503e479b8c16c872338a49887aa50742e3f4cade7dca4dc254d305",
+    "status": "unsupported_info",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "eb8e3783693cdf336e9e57b216d00a794474abedd24f7e59dfe26e4f0d2f2267",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

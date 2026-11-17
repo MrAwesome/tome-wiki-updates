@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "88577bec3a750035f46d727d5e23bbd4b7760b01110b4e1752ea45cc8bd852b3",
+    "revid": 19430
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Permafrost_(talent)",
+    "kind": "talent",
+    "pageid": 6081,
+    "wiki_title": "Permafrost (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "b579c0eeba55777ec1fc741850dca1bda47394c25787f42430c73cc7d78ead5e",
+    "source_sha256": "e63b12589acd41efb1aa065b1b3a1390947bbc058bf44ffa93384370d252ff0c",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "b579c0eeba55777ec1fc741850dca1bda47394c25787f42430c73cc7d78ead5e",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "f9a09f0faf59bb9b81b5477493cc2948107b201506e0053fa0adeebaffe2c1ea",
+    "revid": 18505
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:58Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Acid_blood_(talent)",
+    "kind": "talent",
+    "pageid": 1689,
+    "wiki_title": "Acid blood (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "eba92a8c7bb17f740b257d9cde565ba58a234cce7db60cacdf754030cb2d04b4",
+    "source_sha256": "187eb45879d9c1ead52c4b717e9b3abc8b760222b6fa1365790cb99fd608c019",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:58Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "eba92a8c7bb17f740b257d9cde565ba58a234cce7db60cacdf754030cb2d04b4",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

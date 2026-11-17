@@ -1,0 +1,21 @@
+{{Ability_box
+|game_version=1.7.4
+|image=Resolve.png
+|name=Resolve
+|category_type={{ct|Wild-Gift}}
+|category={{c|Antimagic}}
+|require={{TalentReq/GiftsReq1}}
+|use_mode=Passive
+|desc=
+You stand in the way of magical damage. That which does not kill you will make you stronger.
+
+When you are hit by hostile non-physical, non-mind damage you gain resistance to that element for 7 turns.
+
+The resistance bonus is the higher of (5 + {{ctmd|15|30}})% or (5 + {{ctpd|15|30}})%.
+
+At talent level 3, the bonus resistance may apply to 3 elements, refreshing the duration with each element added.
+
+Additionally, each time you take non-physical, non-mind damage, your equilibrium will decrease and stamina increase by 1.
+
+The effects will increase with the greater of your Mindpower or Physical power and the bonus resistance can be a mental crit.
+}}

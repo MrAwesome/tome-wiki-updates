@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "4e62e4ba96e453a425ee9d3eface9924a7ea9ed48e11c921c8ce7dba65032808",
+    "revid": 22893
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Rosebloom_(talent)",
+    "kind": "talent",
+    "pageid": 7072,
+    "wiki_title": "Rosebloom (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "4e62e4ba96e453a425ee9d3eface9924a7ea9ed48e11c921c8ce7dba65032808",
+    "source_sha256": "909d08e1f26b3f38f8244c116af6e4a1e54af696abfc74816659c14c5269db18",
+    "status": "no_change",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "4e62e4ba96e453a425ee9d3eface9924a7ea9ed48e11c921c8ce7dba65032808",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

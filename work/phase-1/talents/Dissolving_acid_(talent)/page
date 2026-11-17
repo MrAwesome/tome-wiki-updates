@@ -1,0 +1,15 @@
+{{Ability box
+|game_version=1.7.6
+|name=Dissolving Acid
+|image=Dissolving acid.png
+|category_type={{ct|Spell}}
+|category={{c|Acid Alchemy}}
+|require={{TalentReq/SpellsReq4}}
+|range=10
+|cost=45 Mana
+|cooldown=12
+|desc=
+Acid erupts all around your target, dealing {{ctspd|25|320}} acid damage.
+The acid attack is extremely distracting, and may remove up to {{cts|1|3|log}} physical or mental temporary effects or mental sustains (depending on the Spell Save of the target).
+The damage and chance to remove effects will increase with your Spellpower.
+}}

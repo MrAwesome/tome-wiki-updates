@@ -1,0 +1,15 @@
+{{Ability_box
+|game_version=1.7.6
+|image=Ghoulish leap_2017.png
+|name=Ghoulish leap
+|category_type={{ct|Undead}}
+|category={{c|Ghoul}}
+|require={{TalentReq/UndeadsReq2}}
+|use_mode=Activated
+|range={{CTS|5|10|0.5|0|1}}
+|cooldown={{ctl|5|20|10|}}
+|use_speed=1 turn
+|desc=
+Leap toward your target.
+When you land your global speed is increased by {{ctl|40%|20|30%|false|1.1}} for 4 turns.
+}}

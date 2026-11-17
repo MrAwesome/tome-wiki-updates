@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "bb60af4c3daae1ce53b516ec6e5c3854967af02785bfcbeefceaee8e8f0b1678",
+    "revid": 22411
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Static_shock_(talent)",
+    "kind": "talent",
+    "pageid": 6856,
+    "wiki_title": "Static shock (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "f14e8f141dbb8812a033487a5996d62c6b1ca800debd5bd53a176c3a2b28550d",
+    "source_sha256": "b14b2da4ec659318e895a5bbcbb3bf56c68e66636afe1228a34c249ec0f1abed",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "f14e8f141dbb8812a033487a5996d62c6b1ca800debd5bd53a176c3a2b28550d",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

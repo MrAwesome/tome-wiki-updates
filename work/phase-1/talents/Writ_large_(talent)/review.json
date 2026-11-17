@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "14c6eaf0aad9498935a8d959c2bfb7b748ab95aa5f6d76a4b26854660fe87bf7",
+    "revid": 22087
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Writ_large_(talent)",
+    "kind": "talent",
+    "pageid": 3732,
+    "wiki_title": "Writ large (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "145843d82279d38f735f3c827a9545196bfdb6e232b0cb4116feff9cdd810846",
+    "source_sha256": "958b207fd24723fa3b1613c62048b19012df2e24e9b82152eb1ef2485a88aed1",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "145843d82279d38f735f3c827a9545196bfdb6e232b0cb4116feff9cdd810846",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

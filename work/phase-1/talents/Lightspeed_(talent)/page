@@ -1,0 +1,14 @@
+{{Ability box
+|image = Lightspeed.png
+|name = Lightspeed
+|game_version = 1.7.6
+|embers_version = 1.1.10
+|category_type = {{ct|Celestial}}
+|category = {{c|Sol}}
+|require = {{TalentReq/DiviReq4}}
+|cooldown = 45
+|cost = 25 Positive energy
+|range = 0
+|use_speed = 0
+|desc = Instantly gain {{cts|50|100%|log}} percent of a turn.
+}}

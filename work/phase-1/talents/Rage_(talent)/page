@@ -1,0 +1,14 @@
+{{Ability box
+|game_version=1.7.6
+|image=Rage.png
+|name=Rage
+|category_type={{ct|Wild-Gift}}
+|category={{c|Summoning (Augmentation)}}
+|require={{TalentReq/GiftsReq1}}
+|cost=5 Equilibrium
+|cooldown=15
+|range=10
+|desc=
+Induces a killing rage in all your summons within a radius of 5 when a summon is killed, increasing all their stats by {{ctmd|2.5|25}} for 5 turns.
+The bonus will increase with your mindpower.
+}}

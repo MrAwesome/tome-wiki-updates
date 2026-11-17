@@ -1,0 +1,18 @@
+{{Ability_box
+|name=Invisibility
+|image=Invisibility_2017.png
+|category_type={{ct|Spell}}
+|category={{c|Phantasm}}
+|game_version=1.7.6
+|require={{TalentReq/SpellsReq3}}
+|use_mode=Activated
+|cost=35 Mana
+|cooldown=20
+|use_speed=Spell Speed
+|desc=
+Weave a net of arcane disturbances around your body, removing yourself from the sight of all, granting {{ctspd|10|50}} bonus to invisibility for 7 turns.
+
+While invisible all damage you deal against blinded or dazzled foes is increased by {{cts|10|30%}} (additive with other damage increases).
+
+The invisibility bonus will increase with your Spellpower.
+}}

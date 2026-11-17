@@ -1,0 +1,16 @@
+{{Ability box
+|image = Magnetic field.png
+|name = Magnetic Field
+|game_version = 1.7.6
+|embers_version = 1.1.10
+|category_type = {{ct|Steamtech}}
+|category = {{c|Magnetism}}
+|require = {{TalentReq/SteamReq2}}
+|cooldown = 10
+|cost = 20 Steam
+|range = 0
+|use_speed = Steamtech
+|desc = You project a powerful blast of magnetic energy from your shield in radius {{cts|3|6}} around you. Enemies caught within are knocked back {{cts|3|6}} tiles and take {{ctwd|120|300%}} shield damage as {{lightning}}, and any projectiles will be destroyed.
+
+While this talent is not on cooldown, you also project a magnetic field from your shield, reducing the speed of incoming projectiles by {{cts|15|50%}} and your chance to be critically hit by {{ctl|25%|3|15%}}.
+}}

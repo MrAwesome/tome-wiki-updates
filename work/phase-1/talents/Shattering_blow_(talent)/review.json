@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "2ee2fa91074070dfe9a0b00701a9ad49fa9e70d116f70cf1ad900148984028b3",
+    "revid": 22787
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Shattering_blow_(talent)",
+    "kind": "talent",
+    "pageid": 3246,
+    "wiki_title": "Shattering blow (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "2ee2fa91074070dfe9a0b00701a9ad49fa9e70d116f70cf1ad900148984028b3",
+    "source_sha256": "125b9014b3c3699bd749f2567b32420a275d6d69cb0fe11a660c02d3db75999f",
+    "status": "no_change",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "2ee2fa91074070dfe9a0b00701a9ad49fa9e70d116f70cf1ad900148984028b3",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

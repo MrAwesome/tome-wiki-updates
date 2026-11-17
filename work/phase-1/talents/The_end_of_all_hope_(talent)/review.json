@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "fc52d69d6bc0d7f0a77bb4aad80f281e318ba3b093f7a388a8d2e64a334a48db",
+    "revid": 19417
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "The_end_of_all_hope_(talent)",
+    "kind": "talent",
+    "pageid": 6070,
+    "wiki_title": "The end of all hope (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "2337b681bc84b4069376de43e1bf5e290271ca0debc96a17ad47f76dd311706d",
+    "source_sha256": "834c8c8771f6c5c3aefa79a5974a54ecd6fca64773989e38efddae096737ec11",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "2337b681bc84b4069376de43e1bf5e290271ca0debc96a17ad47f76dd311706d",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

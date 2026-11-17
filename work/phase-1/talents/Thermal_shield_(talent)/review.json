@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "782e14ee7f7a4e3b073dce88f398418d357cd8596f7eb92bde0c071d234b4ded",
+    "revid": 13878
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "baseline_preserved"
+    }
+  ],
+  "identity": {
+    "filename": "Thermal_shield_(talent)",
+    "kind": "talent",
+    "pageid": 1277,
+    "wiki_title": "Thermal shield (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "baseline_preserved",
+    "candidate_page_sha256": "782e14ee7f7a4e3b073dce88f398418d357cd8596f7eb92bde0c071d234b4ded",
+    "source_sha256": "8bc41df2079a48e41b57e178722c05e93045ed2be9992edb249bbc49478b5b33",
+    "status": "unsupported_info",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "782e14ee7f7a4e3b073dce88f398418d357cd8596f7eb92bde0c071d234b4ded",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

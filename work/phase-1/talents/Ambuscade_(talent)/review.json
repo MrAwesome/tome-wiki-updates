@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "07feeb6d7b3d2e5dfdce0684d95da0edc39f5a254b864c307eb3080d3a4a8ffc",
+    "revid": 17810
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:58Z",
+      "event": "deterministic_render_applied",
+      "reason": "baseline_preserved"
+    }
+  ],
+  "identity": {
+    "filename": "Ambuscade_(talent)",
+    "kind": "talent",
+    "pageid": 1578,
+    "wiki_title": "Ambuscade (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "baseline_preserved",
+    "candidate_page_sha256": "07feeb6d7b3d2e5dfdce0684d95da0edc39f5a254b864c307eb3080d3a4a8ffc",
+    "source_sha256": "dc640c1af5d22a45472d843380c9de01334530b3831bd2b9fe88ee0cba3abc23",
+    "status": "unsupported_info",
+    "updated_at": "2026-11-08T16:08:58Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "07feeb6d7b3d2e5dfdce0684d95da0edc39f5a254b864c307eb3080d3a4a8ffc",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

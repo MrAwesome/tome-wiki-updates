@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "360b060659456b3293a170e3f63128a7dc64122414081e23e3aece77ede1a1aa",
+    "revid": 13915
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "baseline_preserved"
+    }
+  ],
+  "identity": {
+    "filename": "Transcendent_electrokinesis_(talent)",
+    "kind": "talent",
+    "pageid": 3398,
+    "wiki_title": "Transcendent electrokinesis (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "baseline_preserved",
+    "candidate_page_sha256": "360b060659456b3293a170e3f63128a7dc64122414081e23e3aece77ede1a1aa",
+    "source_sha256": "bb66a96e051a649f6eaf9adc2a259d35d85b599ba1bb0df2ee37ed35d33edc01",
+    "status": "unsupported_info",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "360b060659456b3293a170e3f63128a7dc64122414081e23e3aece77ede1a1aa",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

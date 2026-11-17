@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "b398a5ca56fc3ca6626fbbeb774b0004f5a18fe9f617803051caad4e3f6ab0e7",
+    "revid": 19103
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Hymn_nocturnalist_(talent)",
+    "kind": "talent",
+    "pageid": 6010,
+    "wiki_title": "Hymn nocturnalist (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "fd6188f9673191d1b335bdadc3ce1681f18db5814c5b1efd2fb8296d5fa60759",
+    "source_sha256": "720e1f263f29379029f2598da072669d897ee0eb9adc5bff1cc9dd13acc39b7d",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "fd6188f9673191d1b335bdadc3ce1681f18db5814c5b1efd2fb8296d5fa60759",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

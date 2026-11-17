@@ -1,0 +1,18 @@
+{{Ability box
+|game_version=1.7.6
+|image=Elemental harmony.png
+|name=Elemental Harmony
+|category_type={{ct|Wild-Gift}}
+|category={{c|Harmony}}
+|require={{TalentReq/GiftsReq2}}
+|use_mode=Sustained
+|cooldown=30
+|cost=20 Equilibrium
+|desc=
+Befriend the natural elements that constitute nature. Each time you are hit by one of the elements, you gain a special effect for 5 turns. This can only happen every 5 turns.
+Fire: +{{cts|10|30%}} global speed
+Cold: +{{cts|8|25|0.75}} Armour
+Lightning: +{{cts|5|20|0.75}} to all stats
+Acid: +{{cts|10|40|0.75}} life regen
+Nature: +{{cts|4|15%|0.75}} to all resists
+}}

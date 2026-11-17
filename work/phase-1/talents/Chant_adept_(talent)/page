@@ -1,0 +1,20 @@
+{{Ability_box
+|name=Chant Adept
+|image=chant_of_resistance.png
+|game_version=1.7.6
+|category_type={{ct|Celestial}}
+|category={{c|Chants}}
+|require={{TalentReq/DiviReq3}}
+|use_mode=Passive
+|desc=
+Your skill at Chanting now extends the cloak of light, increasing your light radius by {{cts|0|3|0.75}}.
+
+Also, when you start a new Chant, you will be cured of all [[Effect#Cross-tier_Effects|cross-tier effects]] and cured of up to {{cts|1|1|0.75}} debuffs.
+
+{{t|Chant of Fortitude}} cures mental effects.
+
+{{t|Chant of Fortress}} cures physical effects.
+
+{{t|Chant of Resistance}} cures magical effects.
+|avail.escorts=[[Escorts#Sun_Paladin_.28Arcane.29|Sun Paladin (Arcane)]] (Normal Escort Reward), via revealing the locked {{c|Chants}} category
+}}

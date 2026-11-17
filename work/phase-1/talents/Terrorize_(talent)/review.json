@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "618e4da2665b1777474d9f5650303591394cf321f7596873b66b0ccd6da3a347",
+    "revid": 13733
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Terrorize_(talent)",
+    "kind": "talent",
+    "pageid": 4655,
+    "wiki_title": "Terrorize (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "c4775b1ce9919b4f379e0b0638b6bc417e4d1ead2cfcaa3c200704a33630700f",
+    "source_sha256": "2d3c054a8c2cbf6883daef9cf154ea734d7fc8795caf342cf028645dc8d23501",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "c4775b1ce9919b4f379e0b0638b6bc417e4d1ead2cfcaa3c200704a33630700f",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

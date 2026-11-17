@@ -1,0 +1,26 @@
+{{Ability_box
+|game_version=1.4.5
+|image=Spacetime tuning.png
+|name=Spacetime tuning
+|category=Other
+|category_type={{ct|Chronomancy}}
+|require={{c|Chronomancy}} 
+|use_mode=Activated
+|desc=
+Use to set your preferred [[Paradox]]. 
+
+While resting or waiting you'll adjust your Paradox towards this number at the rate of 10 per turn.
+
+(If you know {{t|Spacetime Stability}}, add the value from that talent.)
+
+Your Paradox modifier is factored into the duration and spellpower of all chronomancy spells.
+
+''These values are dynamic as your preferred and actual paradox change:''
+* Preferred Paradox: X
+* Paradox Modifier: X%
+* Spellpower for Chronomancy: X
+* Willpower Paradox Modifier: -X
+* Paradox Sustain Modifier: +X
+* Total Modifed Paradox: X
+* Current Anomaly Chance: X%
+}}

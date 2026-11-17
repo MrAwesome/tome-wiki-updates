@@ -1,0 +1,12 @@
+{{Ability box
+|image=first_blood.png
+|name=First Blood
+|game_version=1.7.6
+|category_type={{ct|Technique}}
+|category={{c|Marksmanship}}
+|require={{TalentReq/TechsDexReq2}}
+|use_mode=Passive
+|desc=
+You take advantage of unwary foes (those at or above 90% life). Against these targets, Shoot, Steady Shot and Headshot bleed targets for {{cts|30|100%}} additional damage over 5 turns and have a 50% increased chance to mark (if capable of marking).
+In addition, your Steady Shot, Shoot and Headshot now restore {{cts|1.5|4.5}} stamina on hit.
+}}

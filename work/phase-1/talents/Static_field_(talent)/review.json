@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "0c4f9abd468e0a9ec413f05df2cbdbe4419110bee8272fe53fa497c866e2ec04",
+    "revid": 8711
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "baseline_preserved"
+    }
+  ],
+  "identity": {
+    "filename": "Static_field_(talent)",
+    "kind": "talent",
+    "pageid": 1715,
+    "wiki_title": "Static field (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "baseline_preserved",
+    "candidate_page_sha256": "0c4f9abd468e0a9ec413f05df2cbdbe4419110bee8272fe53fa497c866e2ec04",
+    "source_sha256": "38715ce58b7c9960508b3d11da16d5db5412956b9d869ac14b0cfedc2648027a",
+    "status": "unsupported_info",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "0c4f9abd468e0a9ec413f05df2cbdbe4419110bee8272fe53fa497c866e2ec04",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

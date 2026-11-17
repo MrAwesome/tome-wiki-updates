@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "93c4e7003a7aa6caf533fb8a0c67b89762e922aed5c3d60c5663f5ebaf94f65c",
+    "revid": 22437
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "baseline_preserved"
+    }
+  ],
+  "identity": {
+    "filename": "Exoskeleton_(talent)",
+    "kind": "talent",
+    "pageid": 6881,
+    "wiki_title": "Exoskeleton (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "baseline_preserved",
+    "candidate_page_sha256": "93c4e7003a7aa6caf533fb8a0c67b89762e922aed5c3d60c5663f5ebaf94f65c",
+    "source_sha256": "98a8e098a8139165186936596609f00a843578667a01233588489d9f3941848a",
+    "status": "unsupported_info",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "93c4e7003a7aa6caf533fb8a0c67b89762e922aed5c3d60c5663f5ebaf94f65c",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

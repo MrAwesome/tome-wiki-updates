@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "60cdf51d2320e0688cb0c5948598319194ce0bb4ddaeb3cd1d8ba368e88ecd09",
+    "revid": 19056
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:58Z",
+      "event": "deterministic_render_applied",
+      "reason": "baseline_preserved"
+    }
+  ],
+  "identity": {
+    "filename": "Barrier_(talent)",
+    "kind": "talent",
+    "pageid": 118,
+    "wiki_title": "Barrier (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "baseline_preserved",
+    "candidate_page_sha256": "60cdf51d2320e0688cb0c5948598319194ce0bb4ddaeb3cd1d8ba368e88ecd09",
+    "source_sha256": "79afdedd145d2904cc8d4f067e189779b6125fa0b9ab11ddf3725052c235fdc5",
+    "status": "unsupported_info",
+    "updated_at": "2026-11-08T16:08:58Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "60cdf51d2320e0688cb0c5948598319194ce0bb4ddaeb3cd1d8ba368e88ecd09",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

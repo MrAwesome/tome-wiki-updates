@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "4c81b882a2b1bfbb77b345bab34ceac31c6d085533044f33af721f17b539f9f6",
+    "revid": 7685
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:58Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Bleeding_edge_(talent)",
+    "kind": "talent",
+    "pageid": 1083,
+    "wiki_title": "Bleeding edge (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "32a56bf6d47db8bf9fc2dff9f3603029fdb5a07615f54b3f138b3ddba1660489",
+    "source_sha256": "f86a3908a248be89dcc2cac7ee341ccd307fcedf5fddc04fde46cd9edfad9603",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:58Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "32a56bf6d47db8bf9fc2dff9f3603029fdb5a07615f54b3f138b3ddba1660489",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

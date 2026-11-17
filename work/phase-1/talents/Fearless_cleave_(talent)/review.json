@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "b59dad372d0586ceda82b8633123012aea82cf115d49c95e98dc528f1bc0fc8a",
+    "revid": 16745
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Fearless_cleave_(talent)",
+    "kind": "talent",
+    "pageid": 3242,
+    "wiki_title": "Fearless cleave (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "78ba12629758a31324888195dfe827278e72350f942f8d3736708ebdba2197c4",
+    "source_sha256": "4b0eeb3f32feae757a2e0d720b3791fbb9ee3ab8a098fd63844ab41df54474c9",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "78ba12629758a31324888195dfe827278e72350f942f8d3736708ebdba2197c4",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

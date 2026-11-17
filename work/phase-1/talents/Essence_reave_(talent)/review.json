@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "2b4ffee354d153c809d0ccb1b81a7f78b928c06e78cc99ade17c890cf875daac",
+    "revid": 18636
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Essence_reave_(talent)",
+    "kind": "talent",
+    "pageid": 5919,
+    "wiki_title": "Essence reave (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "02ca2edc2119758ddcd2d0524a6758eb321293dd97f37cb760ed9a5abdb89490",
+    "source_sha256": "19cb982e3487d52626f46c5e0623f5f75b4ad2e126c7580e000672c74ce934b1",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "02ca2edc2119758ddcd2d0524a6758eb321293dd97f37cb760ed9a5abdb89490",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

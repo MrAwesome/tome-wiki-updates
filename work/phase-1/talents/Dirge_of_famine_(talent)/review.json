@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "26d675539f9c32c51460a7def297457b5b1bd109ee14152fbb3369ad96fe047c",
+    "revid": 22834
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:58Z",
+      "event": "deterministic_render_applied",
+      "reason": "baseline_preserved"
+    }
+  ],
+  "identity": {
+    "filename": "Dirge_of_famine_(talent)",
+    "kind": "talent",
+    "pageid": 7024,
+    "wiki_title": "Dirge of famine (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "baseline_preserved",
+    "candidate_page_sha256": "26d675539f9c32c51460a7def297457b5b1bd109ee14152fbb3369ad96fe047c",
+    "source_sha256": "d9f8e153ac9d7c92ea670616aa88d9d410b4b14e1e521173dd86d419e5ef7e3a",
+    "status": "unsupported_info",
+    "updated_at": "2026-11-08T16:08:58Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "26d675539f9c32c51460a7def297457b5b1bd109ee14152fbb3369ad96fe047c",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

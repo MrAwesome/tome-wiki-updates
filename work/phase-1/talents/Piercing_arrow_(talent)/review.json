@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "7e69ea4adb6878f2215588b852a082de02c3184ecaca6da5907278078562879d",
+    "revid": 11131
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Piercing_arrow_(talent)",
+    "kind": "talent",
+    "pageid": 1178,
+    "wiki_title": "Piercing arrow (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "467965be3c385e4fe60ce6944126c22bc14e672bac08198a2a50edaa9766c30b",
+    "source_sha256": "f9007e3dc6f708a0c9e8bc865fde224e21250bee5534326c9405a58cfd98a970",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "467965be3c385e4fe60ce6944126c22bc14e672bac08198a2a50edaa9766c30b",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

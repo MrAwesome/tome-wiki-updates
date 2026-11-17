@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "160518f1b982aa4707f0a1afc3d2145bf6e28382b8dcecb8e0b53546f16e22e7",
+    "revid": 22323
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:58Z",
+      "event": "deterministic_render_applied",
+      "reason": "baseline_preserved"
+    }
+  ],
+  "identity": {
+    "filename": "Bloodstar_(talent)",
+    "kind": "talent",
+    "pageid": 5186,
+    "wiki_title": "Bloodstar (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "baseline_preserved",
+    "candidate_page_sha256": "160518f1b982aa4707f0a1afc3d2145bf6e28382b8dcecb8e0b53546f16e22e7",
+    "source_sha256": "e6e5f57a088fe6f750d2ef8daeef2b37f4dd255ba5bdcb81f24a04f67e23229b",
+    "status": "unsupported_info",
+    "updated_at": "2026-11-08T16:08:58Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "160518f1b982aa4707f0a1afc3d2145bf6e28382b8dcecb8e0b53546f16e22e7",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

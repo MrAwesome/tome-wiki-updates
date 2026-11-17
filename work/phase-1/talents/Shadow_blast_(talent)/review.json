@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "cfc9a900b494c60d3019e2ab6e6765d6a8640291ce0933e82d136775a6938278",
+    "revid": 19046
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Shadow_blast_(talent)",
+    "kind": "talent",
+    "pageid": 113,
+    "wiki_title": "Shadow blast (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "adf6a3445255c775645670ff2a6da3ae2d23394af5a34cf395e34daffff6000e",
+    "source_sha256": "65409ece768b7a9dfb191f54fea794c9e0ad8710631c837584fe34dcef2ac383",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "adf6a3445255c775645670ff2a6da3ae2d23394af5a34cf395e34daffff6000e",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

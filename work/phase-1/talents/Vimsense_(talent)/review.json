@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "d20e8ebc8eae5ba1bff68c593ba8933df315aa80bedf9f035c1203ee656935cc",
+    "revid": 18544
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Vimsense_(talent)",
+    "kind": "talent",
+    "pageid": 1648,
+    "wiki_title": "Vimsense (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "e490809e0c675e8133934a2667e0da0ffc90a34f893c0180a5816b8ceded66b0",
+    "source_sha256": "dc446094ace709d5c1a5d470cfaeca2c236e94a290d8667d59772e3d52845a71",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "e490809e0c675e8133934a2667e0da0ffc90a34f893c0180a5816b8ceded66b0",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

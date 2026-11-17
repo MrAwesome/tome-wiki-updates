@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "76b8540e047c201e438771d4853ddc4322b66664c0cd333513c619d09919b6b9",
+    "revid": 23019
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Telekinetic_leap_(talent)",
+    "kind": "talent",
+    "pageid": 1698,
+    "wiki_title": "Telekinetic leap (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "98f07936b133d3307992820d5d3bc7f542181fa5e23e5785982e52d76e6b34f8",
+    "source_sha256": "a4c3869b3cd339c41e8ab9edbf15ac0c8401376861c03fe731d343fcafa97fe5",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "98f07936b133d3307992820d5d3bc7f542181fa5e23e5785982e52d76e6b34f8",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

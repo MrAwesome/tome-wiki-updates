@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "23ffd8aa2e34a758ff453d7e0c9c0f4e4ac1008ab1bf4d298b8137f71eda87d9",
+    "revid": 14038
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:58Z",
+      "event": "deterministic_render_applied",
+      "reason": "baseline_preserved"
+    }
+  ],
+  "identity": {
+    "filename": "Arcane_shield_(talent)",
+    "kind": "talent",
+    "pageid": 1127,
+    "wiki_title": "Arcane shield (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "baseline_preserved",
+    "candidate_page_sha256": "23ffd8aa2e34a758ff453d7e0c9c0f4e4ac1008ab1bf4d298b8137f71eda87d9",
+    "source_sha256": "b01e05713a49c4d8d2243a1e85a8f618894d2cea1bd090d138caaca1e40db738",
+    "status": "unsupported_info",
+    "updated_at": "2026-11-08T16:08:58Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "23ffd8aa2e34a758ff453d7e0c9c0f4e4ac1008ab1bf4d298b8137f71eda87d9",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

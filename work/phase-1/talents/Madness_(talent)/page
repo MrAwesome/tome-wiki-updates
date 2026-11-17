@@ -1,0 +1,12 @@
+{{Ability box
+|image=Madness.png
+|name=Madness
+|category_type={{ct|Cursed}}
+|category={{c|Punishments}}
+|require={{TalentReq/CursedCunReq4}}
+|use_mode=Passive
+|desc=
+Every time you inflict mental damage, there is a chance that your foe must save against your Mindpower or go mad. The chance is {{cl|√ Talent Level|100%|8|1|17.9%|2.23}}.
+
+Madness can cause them to become confused, slowed or stunned for 3 turns, and lowers resistance to mental damage by {{ctl|50%|15|35%}}.
+}}

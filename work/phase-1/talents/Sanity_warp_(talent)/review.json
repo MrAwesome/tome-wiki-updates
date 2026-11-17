@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "ef2db30ce854fde46a14cd7695de8a094f2d7b3f08f2dd8a29b66ebec924ea27",
+    "revid": 18627
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Sanity_warp_(talent)",
+    "kind": "talent",
+    "pageid": 5911,
+    "wiki_title": "Sanity warp (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "8b6cd96ef6a9666daa6ea39555327340635d6139dbb17c9c9e36b98eebf852fa",
+    "source_sha256": "33e274b4e1f155bf677dae8d8cf29c61b9f2b99920a0a4ec80ab0f043f62dac4",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "8b6cd96ef6a9666daa6ea39555327340635d6139dbb17c9c9e36b98eebf852fa",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

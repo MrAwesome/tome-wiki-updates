@@ -1,0 +1,35 @@
+{{Ability box
+|game_version=1.7.4
+|image=Worldly knowledge.png
+|name=Worldly Knowledge
+|category_type=[[Prodigies]]
+|category=[[Prodigies#Cunning|Cunning]]
+|require=Cunning 50
+|use_mode=Passive
+|desc=
+Gain 5 generic talent points and learn a new talent category from one of the below at 1.0 mastery, unlocked. Group 1 categories are available to anyone; Group 2 are not available to magic users, and Group 3 are not available to antimagic characters.
+
+GROUP 1: ''(Available to all)''
+*Cunning / {{c|Scoundrel}}
+*Cunning / {{c|Survival}}
+*Technique / {{c|Conditioning}}
+
+GROUP 2: ''(Must not have any spells or runes)''
+*Psionic / {{c|Augmented Mobility}}
+*Psionic / {{c|Dreaming}}
+*Psionic / {{c|Feedback}}
+*Wild Gift / {{c|Call of the Wild}}
+*Wild Gift / {{c|Mindstar Mastery}}
+
+GROUP 3: ''(Must not be antimagic)''
+*Celestial / {{c|Chants}}
+*Chronomancy / {{c|Chronomancy}}
+*Corruption / {{c|Curses}}
+*Spell / {{c|Divination}}
+*Spell / {{c|Staff Combat}}
+*Spell / {{c|Stone Alchemy}}
+
+''Note: These lists of talent categories are generated dynamically from the list of categories available as [[escort]] rewards, so they are affected by addons that affect escorts.''
+
+''Note: If you already have one of these categories as a locked category, you can still choose the category and unlock it.''
+}}

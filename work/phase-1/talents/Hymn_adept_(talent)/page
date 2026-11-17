@@ -1,0 +1,19 @@
+{{Ability_box
+|name = Hymn Adept
+|image = hymn adept.png
+|category_type={{ct|Celestial}}
+|category={{c|Hymns}}
+|game_version = 1.7.4
+|require = {{TalentReq/DiviReq1}}
+|use_mode = Passive
+|desc = 
+Your skill in Hymns now improves your sight in darkness, increasing your infravision radius by {{cts|0.75|3.5|0.75}}.
+
+Also, when you end a Hymn, you will gain a buff of a type based on which Hymn you ended.
+
+{{t|Hymn of Shadows}} increases your movement speed by {{ctspd|300|600}}% for one turn.
+
+{{t|Hymn of Detection}} makes you invisible (power {{ctspd|20|30}}) for {{ctspd|5|10}} turns. ''Note: This invisibility has a 40% penalty to your damage dealt.''
+
+{{t|Hymn of Perseverance}} grants a damage shield (power {{ctspd|50|500}}) for {{ctspd|5|10}} turns.
+}}

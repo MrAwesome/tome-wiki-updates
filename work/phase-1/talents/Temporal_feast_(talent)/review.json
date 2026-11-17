@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "9e6c8357a12ebf16a6fe16f15735715a3ac20ec182c27b4891877aec8d9579a3",
+    "revid": 18710
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Temporal_feast_(talent)",
+    "kind": "talent",
+    "pageid": 5957,
+    "wiki_title": "Temporal feast (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "21fe9f280ada15e87cc413e9ef6a096d82c5402b70812e03dd5d65e6e9738f27",
+    "source_sha256": "6b669e4e3cbec766a6b37b3b3b8998b52a6ce6127996a247cfb16bfb9034e4b5",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "21fe9f280ada15e87cc413e9ef6a096d82c5402b70812e03dd5d65e6e9738f27",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "939e88b70d89162bb253b7afbce4934154940d3e2e178f270292aa946070edfa",
+    "revid": 19051
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "baseline_preserved"
+    }
+  ],
+  "identity": {
+    "filename": "Totality_(talent)",
+    "kind": "talent",
+    "pageid": 138,
+    "wiki_title": "Totality (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "baseline_preserved",
+    "candidate_page_sha256": "939e88b70d89162bb253b7afbce4934154940d3e2e178f270292aa946070edfa",
+    "source_sha256": "c8b7f61c9360402c2b195f817e5f16383f13adf6348541740e8d078049c9bbd2",
+    "status": "unsupported_info",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "939e88b70d89162bb253b7afbce4934154940d3e2e178f270292aa946070edfa",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

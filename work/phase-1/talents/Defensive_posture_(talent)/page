@@ -1,0 +1,15 @@
+{{Ability box
+|game_version=1.7.6
+|image=Defensive posture.png
+|name=Defensive Posture
+|category_type={{ct|Spell}}
+|category={{c|Staff Combat}}
+|require={{TalentReq/SpellsReq3}}
+|use_mode=Sustained
+|cost=20 Mana
+|cooldown=30
+|desc=
+Adopt a defensive posture, increasing your Defense and Armour by {{ctspd|10|20}}.
+|avail.shops=[[Angolwen]] ([[Age of Ascendancy]]) via [[Talent#Additional Talent Sources|purchasing]] {{c|Staff Combat}}
+|avail.escorts=[[Escorts#Alchemist_.28Arcane.29|Alchemist (Arcane)]] (Normal Escort Reward), via revealing the locked {{c|Staff Combat}} category
+}}

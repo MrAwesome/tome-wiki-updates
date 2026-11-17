@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "c9e4eac48caca7a32432d7d92dbd969d195437bf0d57de64f0101abd1a63327c",
+    "revid": 8849
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "baseline_preserved"
+    }
+  ],
+  "identity": {
+    "filename": "Forge_bellows_(talent)",
+    "kind": "talent",
+    "pageid": 1206,
+    "wiki_title": "Forge bellows (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "baseline_preserved",
+    "candidate_page_sha256": "c9e4eac48caca7a32432d7d92dbd969d195437bf0d57de64f0101abd1a63327c",
+    "source_sha256": "038ef6cffb16df4810d183097d50eace33659e85a225d2e4cc1eec103b63deaa",
+    "status": "unsupported_info",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "c9e4eac48caca7a32432d7d92dbd969d195437bf0d57de64f0101abd1a63327c",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

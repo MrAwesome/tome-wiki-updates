@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "1c6235b1b9d4594ee95d882fcbb198162e3558f9d8661731628573b43c654066",
+    "revid": 18530
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Willful_tormenter_(talent)",
+    "kind": "talent",
+    "pageid": 1140,
+    "wiki_title": "Willful tormenter (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "1df4ee60a383542d452d17708216f33d824a18f31a5a8558031dad85799ae9ea",
+    "source_sha256": "bcb7d6b5c1c154dbe8844de4ad32fd7b3084424ff84d9e2d6ddeafbba98c2418",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "1df4ee60a383542d452d17708216f33d824a18f31a5a8558031dad85799ae9ea",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

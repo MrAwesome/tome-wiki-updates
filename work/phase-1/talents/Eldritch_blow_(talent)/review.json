@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "f00b08fe3c14e2eedc92b2871ffc8dc81fb8470b6222ff1b4465ee9e3b075fad",
+    "revid": 14609
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:58Z",
+      "event": "deterministic_render_applied",
+      "reason": "baseline_preserved"
+    }
+  ],
+  "identity": {
+    "filename": "Eldritch_blow_(talent)",
+    "kind": "talent",
+    "pageid": 3115,
+    "wiki_title": "Eldritch blow (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "baseline_preserved",
+    "candidate_page_sha256": "f00b08fe3c14e2eedc92b2871ffc8dc81fb8470b6222ff1b4465ee9e3b075fad",
+    "source_sha256": "b616f0708ca9064b5cb53a6b3a015263d10ceedd0e27e50d2497ea51bafb9ada",
+    "status": "unsupported_info",
+    "updated_at": "2026-11-08T16:08:58Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "f00b08fe3c14e2eedc92b2871ffc8dc81fb8470b6222ff1b4465ee9e3b075fad",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

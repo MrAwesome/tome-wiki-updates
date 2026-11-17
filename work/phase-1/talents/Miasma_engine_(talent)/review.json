@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "ab0a22157ecdb168410b58d12c9004924371ae4c369563ecf7aa6a6c3e831ba5",
+    "revid": 22496
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Miasma_engine_(talent)",
+    "kind": "talent",
+    "pageid": 6927,
+    "wiki_title": "Miasma engine (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "75969ee1b8b6ccf050be947e9fe292acbc899defc6d4d5bd9d1d60c1d590de65",
+    "source_sha256": "f03404a27dfa0fd5e0f7a8cbf0d6ab93234f69d23e4d4a09abfec09c34c50af0",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "75969ee1b8b6ccf050be947e9fe292acbc899defc6d4d5bd9d1d60c1d590de65",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

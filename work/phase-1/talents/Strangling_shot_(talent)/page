@@ -1,0 +1,16 @@
+{{Ability_box
+|game_version=1.7.6
+|image=
+|name=Strangling Shot
+|category_type={{ct|Technique}}
+|category={{c|Archery Excellence}}
+|require={{TalentReq/TechsDexReqHigh4}}
+|use_mode=Activated
+|range=Archery Range
+|cost=20 Stamina
+|cooldown=15
+|desc=
+You fire a shot at your target's throat, mouth, or equivalent body part, doing {{ctwd|90|170%}} damage and silencing it for {{cts|2|6}} turns.
+
+The silence chance increases with your Accuracy.
+}}

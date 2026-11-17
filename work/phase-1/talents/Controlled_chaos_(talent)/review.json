@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "208c50a7a9bb6d1b4d9d190ffc172ff83e117faa63cf43528f4d124b8e1fdfdc",
+    "revid": 15214
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:58Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Controlled_chaos_(talent)",
+    "kind": "talent",
+    "pageid": 5325,
+    "wiki_title": "Controlled chaos (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "7a170a8f2aa22e100dc3beba5c5dd5216fd61701111e56e2e0c42d7e420e9ccd",
+    "source_sha256": "413bd311b854a8c4b13b67dc6cb9a4433acb768ab6f865f14a75d2d904a19e97",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:58Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "7a170a8f2aa22e100dc3beba5c5dd5216fd61701111e56e2e0c42d7e420e9ccd",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

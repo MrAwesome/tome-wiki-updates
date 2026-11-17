@@ -1,0 +1,17 @@
+{{Ability box
+|game_version=1.7.6
+|image=Vulnerability poison.png
+|name=Mystical Cunning
+|category_type=[[Prodigies]]
+|category=[[Prodigies#Magic|Magic]]
+|require=Magic 50<br />Know either {{t|Trap Mastery}} or {{t|Apply Poison}}
+|use_mode=Passive
+|desc=
+Your study of arcane forces has let you develop a new way of applying your aptitude for {{c|Trapping}} and {{c|Poisons}}.
+
+You gain 1.0 mastery in the {{ct|Cunning}}/Poisons and Cunning/Trapping talent trees.
+Your {{t|Venomous Strike}} talent cooldown is reduced by 3.
+Your {{t|Lure}} talent cooldown is reduced by 5.
+
+You learn the following talents:
+}}

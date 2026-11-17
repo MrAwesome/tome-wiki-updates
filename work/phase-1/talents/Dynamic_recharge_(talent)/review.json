@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "39c91f4f3873367a92db7a59f0206b189f04adbedc4f191519a9ead91c3126f7",
+    "revid": 12198
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:58Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Dynamic_recharge_(talent)",
+    "kind": "talent",
+    "pageid": 3267,
+    "wiki_title": "Dynamic recharge (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "84946939955100d8f4d922524fc75ba4ebf0bc280b30a07ea9d597e25f7ed372",
+    "source_sha256": "2d30fba73df6fe47db26ec339416e7fda9ace6ac27c274a520ef450cb97f8c10",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:58Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "84946939955100d8f4d922524fc75ba4ebf0bc280b30a07ea9d597e25f7ed372",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

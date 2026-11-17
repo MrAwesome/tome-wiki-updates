@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "18a81fd90ec27997b6efa5044be92c141d6166508abf26b36c44636540690136",
+    "revid": 7605
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "baseline_preserved"
+    }
+  ],
+  "identity": {
+    "filename": "Roundhouse_kick_(talent)",
+    "kind": "talent",
+    "pageid": 1537,
+    "wiki_title": "Roundhouse kick (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "baseline_preserved",
+    "candidate_page_sha256": "18a81fd90ec27997b6efa5044be92c141d6166508abf26b36c44636540690136",
+    "source_sha256": "dc640c1af5d22a45472d843380c9de01334530b3831bd2b9fe88ee0cba3abc23",
+    "status": "unsupported_info",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "18a81fd90ec27997b6efa5044be92c141d6166508abf26b36c44636540690136",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

@@ -1,0 +1,29 @@
+{{Ability box
+|game_version=1.7.6
+|image=Worm_that_Walks.png
+|name=Worm that Walks
+|category_type={{ct|Demented}}
+|category={{c|Friend of the Worm}}
+|require={{TalentReq/SpellsReqHigh1}}
+|use_mode=Active
+|cost= -40 insanity
+|cooldown=15
+|desc=
+You invoke a long standing pact with a fellow horror, a Worm that Walks, to help you in your travels.
+You can fully control, level, and equip it.
+Using this spell will ressurect your friendly horror if it died, giving it back {{ctspd|62.14285714|124.2857143}} life.
+Higher raw talent levels will give your horror more equipment slots:
+
+Level 1:  Mainhand, Offhand
+Level 2:  Body
+Level 3:  Belt
+Level 4:  Ring, Ring
+Level 5:  Ring, Ring, Trinket
+
+To change your horror's equipment and talents first transfer the equipment from your inventory then take control of it.
+}}
+'''Notes:'''
+* After dying, the Worm will resurrect after a while, so there is usually no need to actively cast this spell out of combat
+* The Worm starts out with one regeneration infusion that you can change as fit. The easiest way of giving the Worm extra inscriptions, are through [[Shared insanity (talent)|Shared insanity]]
+* The Worm can wield one-handed weapons in both weapon slots
+* Damage from weapons is reduced, so weapons that apply debuffs extra valuable.

@@ -1,0 +1,32 @@
+{{Ability_box
+|name = Glyphs
+|image = Glyphs.png
+|category_type = {{ct|Celestial}}
+|category = {{c|Glyphs}}
+|game_version = 1.7.4
+|require = {{TalentReq/DiviReqHigh1}}
+|use_mode = Sustained
+|range = 10
+|cost = 5 Positive and 5 Negative
+|cooldown = 5
+|travel_speed = 
+|use_speed = Spell
+|desc = 
+When one of your spells goes critical, you bind glyphs in radius 1 centered on a random target in range 10 at the cost of 5 positive and 5 negative energy.
+
+Glyphs last for {{ctl|6|2|5}} turns and cause various effects when an enemy enters their grid.
+
+Glyphs will only spawn on enemies that aren't adjacent to an existing glyph.
+
+This can only happen every 4 game turns.
+
+Glyph effects will scale with your Spellpower.
+
+Available glyphs are:
+
+'''Glyph of Sunlight''':  Bind sunlight into a glyph. When triggered it will release a brilliant light, dealing light damage if you know {{t|Glyphs of Fury}}, and healing you for {{ctspd|1|100}} (no crit).
+
+'''Glyph of Moonlight''':  Bind moonlight into a glyph. When triggered it will release a fatiguing darkness, dealing darkness damage if you know {{t|Glyphs of Fury}}, and reducing the foes damage dealt by {{ctspd|40|80}}% for 2 turns.
+
+'''Glyph of Twilight''':  Bind twilight into a glyph. When triggered it will release a burst of twilight, dealing light and darkness damage if you know {{t|Glyphs of Fury}}, and knocking the foe back 1 tile.
+}}

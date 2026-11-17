@@ -1,0 +1,15 @@
+{{Ability_box
+|game_version = 1.7.6
+|name = Dirge Intoner
+|image = Dirge_intoner.png
+|category_type = {{ct|Celestial}}
+|category = {{c|Dirges}}
+|require = {{TalentReq/DiviReq2}}
+|use_mode = Passive 
+|desc = 
+Your dirges carry the pain within you, which threatens to swallow those who come too close.  Anyone who hits you in melee suffers {{ctmd|5|50}} (+2.5% per character level) mind damage.
+
+You, on the other hand, are steadied by the song.  Your dirges increase your resistance to stun and knockback by {{ctl|100|15|50}}%.
+
+The damage will increase with your Mindpower and your level.
+}}

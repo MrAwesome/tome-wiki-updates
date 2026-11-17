@@ -1,0 +1,15 @@
+{{Ability box
+|image = Magnetic accelerator.png
+|name = Magnetic Accelerator
+|game_version = 1.7.6
+|embers_version = 1.1.10
+|category_type = {{ct|Steamtech}}
+|category = {{c|Armament}}
+|require = {{TalentReq/DexSteamReq2}}
+|cooldown = 8
+|range = {{cts|3|7|log}}
+|use_speed = 0
+|desc = Improved power output increases the speed of your projectiles by {{ctl|150%|50|100%}}, critical damage by {{cts|10|35%}}, and allows you to automatically reload each turn.
+
+In addition, you can instantly activate this talent to gain a sudden burst of speed, moving to a tile in range {{cts|3|7|log}}.
+}}

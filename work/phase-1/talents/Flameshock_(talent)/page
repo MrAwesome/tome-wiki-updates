@@ -1,0 +1,16 @@
+{{Ability_box
+|game_version=1.7.6
+|image=Flameshock.png
+|name=Flameshock
+|category_type={{ct|Spell}}
+|category={{c|Fire}}
+|require={{TalentReq/SpellsReq2}}
+|use_mode=Activated
+|range=0
+|cost=30 Mana
+|cooldown=10
+|desc=
+Conjures up a cone of flame with radius {{cts|4|8}}. Any targets caught in the area will suffer Burning Shock, stunning them and dealing {{ctspd|10|250}} fire damage over {{cts|2.5|5.5}} turns.
+
+The damage will increase with your Spellpower.
+}}

@@ -1,0 +1,16 @@
+{{Ability box
+|image=erupting_shadows.png
+|game_version=1.7.6
+|name=Erupting Shadows
+|category_type={{ct|Spell}}
+|category={{c|Nightfall}}
+|require={{TalentReq/SpellsReq3}}
+|use_mode=Sustained
+|cost=20 Mana
+|cooldown=10
+|use_speed=Spell
+|desc=
+Shadows engulf your foes, anytime you deal darkness damage to a creature affected by a bane, the bane's duration is increased by 1 turn and the shadows erupt, dealing an additional {{ctspd|6|50}} darkness damage.
+The damage can only happen once per turn per creature, the turn increase however always happens.
+The damage will increase with your Spellpower.
+}}

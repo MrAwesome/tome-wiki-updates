@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "5c9603909c9d6362770d4282c5aaa2b5fcf7125bc55b03787600bf784d7e6b5f",
+    "revid": 15213
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:58Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Disjointed_mind_(talent)",
+    "kind": "talent",
+    "pageid": 5324,
+    "wiki_title": "Disjointed mind (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "52ddcf50c8c96267b06b2ba6b0e4e39c174023033078df794a490f457d6aca32",
+    "source_sha256": "413bd311b854a8c4b13b67dc6cb9a4433acb768ab6f865f14a75d2d904a19e97",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:58Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "52ddcf50c8c96267b06b2ba6b0e4e39c174023033078df794a490f457d6aca32",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

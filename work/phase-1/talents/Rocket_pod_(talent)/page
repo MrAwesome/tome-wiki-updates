@@ -1,0 +1,17 @@
+{{Ability box
+|image = Rocket pod.png
+|name = Rocket Pod
+|game_version = 1.7.6
+|embers_version = 1.1.10
+|category_type = {{ct|Steamtech}}
+|category = {{c|Artillery}}
+|require = {{TalentReq/DexSteamReqHigh1}}
+|cooldown = 20
+|cost = 6 Steam drain
+|range = Steamgun range
+|use_mode = Sustained
+|use_speed = Steamtech
+|desc = You equip an automated, shoulder mounted rocket launcher. Each turn it will launch rockets at up to 2 enemies in weapon range, dealing {{ctwd|20|60%}} steamgun damage as {{fire}}.
+
+The rockets will pass harmlessly through allies, but on-hit effects triggered by them only deal 50% of their usual damage.
+}}

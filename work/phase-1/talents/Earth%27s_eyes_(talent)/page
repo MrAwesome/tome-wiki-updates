@@ -1,0 +1,16 @@
+{{Ability box
+|game_version=1.7.6
+|image=Earth_s eyes.png
+|name=Earth's Eyes
+|category_type={{ct|Wild-Gift}}
+|category={{c|Call of the Wild}}
+|require={{TalentReq/GiftsReq3}}
+|cost=3 Equilibrium
+|cooldown=10
+|use_speed=Mind
+|desc=
+Using your connection to Nature, you can see your surrounding area in a radius of {{cts|7|12}}.
+
+Also, while meditating, you are able to detect the presence of creatures around you in a radius of {{cts|3|5}}.
+|avail.escorts=[[Escorts#Seer_.28Arcane.29|Seer (Arcane)]] ([[Escorts#Betraying_to_Zigur|Betray Escort to Zigur]]), +1 to talent or via revealing the locked {{c|Call of the Wild}} category
+}}

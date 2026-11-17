@@ -1,0 +1,14 @@
+{{Ability_box
+|name=Dagger Mastery
+|image=Knife mastery.png
+|category_type={{ct|Technique}}
+|category={{c|Combat Training}}
+|game_version=1.7.6
+|require=Dex (16, 22, 28, 34, 40)
+|use_mode=Passive
+|desc=
+Increases weapon damage by {{gtl|1|5}} and physical power by 30 when using daggers.
+|avail=Note that both [[Adventurer]] and [[Wanderer]] classes begin with {{c|Combat Training}} unlocked
+|avail.classes=It would be easier to list the classes that ''don't'' have it by default: The entire {{mc|Mage}} metaclass—[[Alchemist]], [[Archmage]], [[Necromancer]]; plus [[Doomed]], [[Corruptor]], [[Anorithil]], [[Oozemancer]], [[Paradox Mage]], and [[Solipsist]]
+|avail.shops=[[Last Hope]] ([[Age of Ascendancy]]), [[Kruk Pride]] ([[Embers of Rage]])
+}}

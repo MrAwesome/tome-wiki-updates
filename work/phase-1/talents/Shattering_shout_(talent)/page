@@ -1,0 +1,15 @@
+{{Ability_box
+|game_version=1.7.6
+|image=Shattering_shout_2017.png
+|name=Shattering shout
+|category_type=[[Technique (category type)|Technique]]
+|category=[[Warcries (category)|Warcries]]
+|require={{TalentReq/TechsReqHigh1}}
+|use_mode=Activated
+|cost=20 Stamina
+|cooldown=7
+|desc=
+Release a powerful shout, doing {{ctpd|30|320}} physical damage in a radius {{cts|4|8}} cone in front of you.
+At level 5 the shout is so strong it shatters all incomming projectiles caught inside.
+The damage increases with your Strength.
+}}

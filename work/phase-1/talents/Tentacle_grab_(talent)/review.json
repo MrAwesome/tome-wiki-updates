@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "c71c20d75abc0a463a4c5f6ddce28553e804b4582215682eba5f837bdad79f6d",
+    "revid": 12900
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Tentacle_grab_(talent)",
+    "kind": "talent",
+    "pageid": 4589,
+    "wiki_title": "Tentacle grab (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "5f726a6cea9ae3c49420a5c4bdfd9b165b6441d8264ca2014c327a3b7a293d14",
+    "source_sha256": "0690eca57ddb8ebe78694f63ff7587798fa7432fde6e6b6ae32000255ab19292",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "5f726a6cea9ae3c49420a5c4bdfd9b165b6441d8264ca2014c327a3b7a293d14",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

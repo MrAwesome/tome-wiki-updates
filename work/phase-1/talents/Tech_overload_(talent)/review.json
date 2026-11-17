@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "23ffe695ba9198c666f60d6af68b9e73df26da5973d4f3213a33ef7a774a016a",
+    "revid": 11854
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Tech_overload_(talent)",
+    "kind": "talent",
+    "pageid": 4364,
+    "wiki_title": "Tech overload (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "b75f51160be7ae66aa981c4ffe76bfc8e591d44592c2c412fcc29d4e14bff4f5",
+    "source_sha256": "a429d63fbf7d283ff2e0c23f8bc9667ee2f4c2a31811612ef89cb479dcb5d6f1",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "b75f51160be7ae66aa981c4ffe76bfc8e591d44592c2c412fcc29d4e14bff4f5",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

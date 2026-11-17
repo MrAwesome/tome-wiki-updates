@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "347826f8dc7e254ee55372a16cdc5cf3aa675cb93d0184e249c126c5c2c9ce13",
+    "revid": 4225
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Sunder_arms_(talent)",
+    "kind": "talent",
+    "pageid": 1161,
+    "wiki_title": "Sunder arms (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "767cbba48f90a7053f096eb6545d8a84eff2e8d23543ae8c417911ca79847eb2",
+    "source_sha256": "3feae29e57d7c64c30cfcc9f26dfc4c0d089d5314c55c71a7213864e11fec6e0",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "767cbba48f90a7053f096eb6545d8a84eff2e8d23543ae8c417911ca79847eb2",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

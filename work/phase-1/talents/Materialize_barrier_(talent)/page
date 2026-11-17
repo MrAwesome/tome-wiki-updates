@@ -1,0 +1,15 @@
+{{Ability box
+|game_version=1.4.3
+|image=Materialize_barrier.png
+|name=Materialize Barrier
+|category_type={{ct|Chronomancy}}
+|category={{c|Matter}}
+|require={{TalentReq/ChronoReq3}}
+|cost=15 Paradox
+|cooldown=14
+|range=10
+|desc=
+Create a tightly bound matter wall of up to a length of 3 that lasts 4 turns.
+If any part of this wall is dug out it will explode, causing targets in a radius of {{cts|1|2}} to bleed for {{ctspd|20|200|PM}} physical damage over six turns.
+
+}}

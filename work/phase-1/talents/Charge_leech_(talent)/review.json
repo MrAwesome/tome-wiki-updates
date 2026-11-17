@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "99e89980084860e10ad2207138dcbd571c9faf8caab77d312a9f4f8c64f2c30b",
+    "revid": 7890
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:58Z",
+      "event": "deterministic_render_applied",
+      "reason": "baseline_preserved"
+    }
+  ],
+  "identity": {
+    "filename": "Charge_leech_(talent)",
+    "kind": "talent",
+    "pageid": 1153,
+    "wiki_title": "Charge leech (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "baseline_preserved",
+    "candidate_page_sha256": "99e89980084860e10ad2207138dcbd571c9faf8caab77d312a9f4f8c64f2c30b",
+    "source_sha256": "1650e5fc5aa480d64f4e5463611ce20b694f90c1f292757f0109a05962ffeb6a",
+    "status": "unsupported_info",
+    "updated_at": "2026-11-08T16:08:58Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "99e89980084860e10ad2207138dcbd571c9faf8caab77d312a9f4f8c64f2c30b",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

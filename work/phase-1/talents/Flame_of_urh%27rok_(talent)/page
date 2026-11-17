@@ -1,0 +1,19 @@
+{{Ability box
+|game_version=1.7.6
+|image=Flame_of_urh_rok_2017.png
+|name=Flame of urh'rok
+|category_type={{ct|Corruption}}
+|category={{c|Shadowflame}}
+|require={{TalentReq/CorrsReq3}}
+|use_mode=Sustained
+|cost=90 Vim
+|cooldown=30
+|desc=
+Call upon the essence of the supreme demon overlord Urh'Rok to turn into a demon.
+
+While in demon form, you gain {{ctspd|20|30}} fire resistance, {{ctspd|20|35}} darkness resistance, and your global speed is increased by {{cts|5|16.5%}}.
+
+The flames of the {{t|Fearscape}} will heal you while in demon form.
+
+The resistances and heal will increase with your Spellpower.
+}}

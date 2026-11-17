@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "9b2fd7fe4df58146442643e7202e71425ec26ced0385921b821f80661ec16a37",
+    "revid": 8653
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Hammer_toss_(talent)",
+    "kind": "talent",
+    "pageid": 1516,
+    "wiki_title": "Hammer toss (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "7e51b4b032e02be6a5decca0916eb21543c936e7f5302125a086e7aaee0d87ff",
+    "source_sha256": "c1e654bde716e1fbae70ce41cf432f32f682e63c0003bab73989130d76e3e482",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "7e51b4b032e02be6a5decca0916eb21543c936e7f5302125a086e7aaee0d87ff",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

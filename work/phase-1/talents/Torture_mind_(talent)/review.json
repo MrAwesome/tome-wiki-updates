@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "6fc9bb881e064bae21e467ccdab9aaef2540a053f674cfdd2e9dff3f5ef4181b",
+    "revid": 16994
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Torture_mind_(talent)",
+    "kind": "talent",
+    "pageid": 5608,
+    "wiki_title": "Torture mind (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "1006557c74819d1c179222ccacb81f3004f612143f5d9bc857c171c2a7801315",
+    "source_sha256": "842d180ebf2f929eb8da1287d49a062dfad71358e7bd16702e8bcf4fe4146d90",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "1006557c74819d1c179222ccacb81f3004f612143f5d9bc857c171c2a7801315",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

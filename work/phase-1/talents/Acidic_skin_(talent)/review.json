@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "45f15f3e8281c0d413e1dee945a766a334d183370410fd32fd3ceb7965495771",
+    "revid": 19147
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:58Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Acidic_skin_(talent)",
+    "kind": "talent",
+    "pageid": 1424,
+    "wiki_title": "Acidic skin (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "3caa597e92b32b673da32dcf6c3c8cf4cd9408f6ebc9faaf40bfd77a5eb281f2",
+    "source_sha256": "59736e1acfe5dcb342491dcdc47102795d2401dbc520f300cf52ac2eac2d8ada",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:58Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "3caa597e92b32b673da32dcf6c3c8cf4cd9408f6ebc9faaf40bfd77a5eb281f2",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "050eacb3083c12db95f1e15825e9a353c83913b75b00a8fd4c8628a70d20f6f8",
+    "revid": 20949
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:58Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Blink_blade_(talent)",
+    "kind": "talent",
+    "pageid": 4279,
+    "wiki_title": "Blink blade (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "fadca959088d48f555426e6572d347a555a60911c63eeeaf1f81d85f464035d5",
+    "source_sha256": "d5e804a77a6816b500926438494e2698b05e6a6c91a38b1247912a171bd2312f",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:58Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "fadca959088d48f555426e6572d347a555a60911c63eeeaf1f81d85f464035d5",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "4e3e469601691ac13fab8f2e83d4dc90a52181440f5db842538491ced580c587",
+    "revid": 22209
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Flexible_combat_(talent)",
+    "kind": "talent",
+    "pageid": 3434,
+    "wiki_title": "Flexible combat (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "308dffd3e9c5b96e490fd72abed58ead311da3dc4d4a96048fb95e4c368c1ab8",
+    "source_sha256": "2c885ee19750c56b1cf749b256add8a4f805d55a97bc0155b6724f4dccba5703",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "308dffd3e9c5b96e490fd72abed58ead311da3dc4d4a96048fb95e4c368c1ab8",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

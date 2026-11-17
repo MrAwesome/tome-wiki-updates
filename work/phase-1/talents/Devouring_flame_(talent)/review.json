@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "55908488e5c3e390d30950ec6a058278de1777934d27efa4e9275995d4804874",
+    "revid": 10440
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:58Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Devouring_flame_(talent)",
+    "kind": "talent",
+    "pageid": 1389,
+    "wiki_title": "Devouring flame (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "7a70f30043ceb1ad6a07723504348e023ba713499a0e2595a24718ac2377e9d3",
+    "source_sha256": "41115da033196dc5b613039f566e1d6ab7827d1116107bf2f68434fa7c1417d5",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:58Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "7a70f30043ceb1ad6a07723504348e023ba713499a0e2595a24718ac2377e9d3",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

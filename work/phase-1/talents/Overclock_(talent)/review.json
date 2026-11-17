@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "d7e5407b95c4512113ef77cbd4db0ebe9e5a1c8fc82f2c39252d6764a79c8770",
+    "revid": 22599
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Overclock_(talent)",
+    "kind": "talent",
+    "pageid": 6911,
+    "wiki_title": "Overclock (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "7ac4dba779b886694ff987f0980781e5a7a06f68aa478b3015d11ec9674c2a3c",
+    "source_sha256": "14dbc643e66d9916ea2bdf257053c3e0870addf2ebfb3bc58bb593258dcd5e1c",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "7ac4dba779b886694ff987f0980781e5a7a06f68aa478b3015d11ec9674c2a3c",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

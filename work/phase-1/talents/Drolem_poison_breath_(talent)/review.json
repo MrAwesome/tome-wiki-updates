@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "a1d456419da9b33aa9727cdf13a036b128bd1e39bcca21507f6e7d8400c0fb86",
+    "revid": 18723
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:58Z",
+      "event": "deterministic_render_applied",
+      "reason": "baseline_preserved"
+    }
+  ],
+  "identity": {
+    "filename": "Drolem_poison_breath_(talent)",
+    "kind": "talent",
+    "pageid": 5968,
+    "wiki_title": "Drolem poison breath (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "baseline_preserved",
+    "candidate_page_sha256": "a1d456419da9b33aa9727cdf13a036b128bd1e39bcca21507f6e7d8400c0fb86",
+    "source_sha256": null,
+    "status": "unmatched_source",
+    "updated_at": "2026-11-08T16:08:58Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "a1d456419da9b33aa9727cdf13a036b128bd1e39bcca21507f6e7d8400c0fb86",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

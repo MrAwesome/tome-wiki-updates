@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "03ed4bfc3ce339c498300f376ff4eb3b028a432c9092bfddc4824afe10482da1",
+    "revid": 8954
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Taunt_(talent)",
+    "kind": "talent",
+    "pageid": 3509,
+    "wiki_title": "Taunt (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "ff87867f691f48f0070fa052481c45b8931d2863986fc7f349f6dd4681a048d9",
+    "source_sha256": "b7f9b25c89954bcf7b8affbaf2b05c6715777e6b69652079fb9bad36c2bb1540",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "ff87867f691f48f0070fa052481c45b8931d2863986fc7f349f6dd4681a048d9",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

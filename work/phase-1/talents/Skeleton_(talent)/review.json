@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "78128d26074a1bd65b1eb0bfa544373d8afbf623c16c07bff2d0ed7fb18ec5cf",
+    "revid": 22114
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Skeleton_(talent)",
+    "kind": "talent",
+    "pageid": 1374,
+    "wiki_title": "Skeleton (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "78128d26074a1bd65b1eb0bfa544373d8afbf623c16c07bff2d0ed7fb18ec5cf",
+    "source_sha256": "89c724ec281f7383da26915360d01a8f5ba324c6df8b4818e934a8c32ee73111",
+    "status": "no_change",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "78128d26074a1bd65b1eb0bfa544373d8afbf623c16c07bff2d0ed7fb18ec5cf",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

@@ -1,0 +1,15 @@
+{{Ability box
+|image = Mirror wall.png
+|name = Mirror Wall
+|game_version = 1.7.6
+|embers_version = 1.1.10
+|category_type = {{ct|Celestial}}
+|category = {{c|Reflection}}
+|require = {{TalentReq/DiviReq2}}
+|cooldown = {{ctl|5|32|10}}
+|cost = 20 Positive Energy
+|range = 6
+|use_speed = Spell
+|desc =
+Creates a wall 4 units long for {{cts|5|15}} turns, reflecting all projectiles that hit it and blocking sight.
+}}

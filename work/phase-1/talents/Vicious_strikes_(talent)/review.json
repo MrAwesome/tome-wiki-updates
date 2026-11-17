@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "4b62382a3f31e949b49700c80136a1755ea6e86ba35376d22ce41b0991ddb211",
+    "revid": 8072
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Vicious_strikes_(talent)",
+    "kind": "talent",
+    "pageid": 1367,
+    "wiki_title": "Vicious strikes (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "323894e84e88dc7473020f3b66def70fa10b1d4ccc1365eec01be0b9c034a9f0",
+    "source_sha256": "ab19db2fe612ebc4304972d2fcdf569932cc2988b9686990a4def94b512bbb8e",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "323894e84e88dc7473020f3b66def70fa10b1d4ccc1365eec01be0b9c034a9f0",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "a489362b863fb1f8ba76fa8f1d97340338ba74000a70576bf87a1ee9e0735790",
+    "revid": 16984
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Psionic_minion_(talent)",
+    "kind": "talent",
+    "pageid": 5598,
+    "wiki_title": "Psionic minion (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "559bc20beac55d254af91f6f1b273014941e9b77485d2c5cd79933368790a576",
+    "source_sha256": "3a3fec2f724fd4ee128eae5206241fc88321e2143935e251bc0d8372d2098241",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "559bc20beac55d254af91f6f1b273014941e9b77485d2c5cd79933368790a576",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

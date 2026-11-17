@@ -1,0 +1,16 @@
+{{Ability box
+|image=Willful strike.png
+|name=Willful Strike
+|category_type={{ct|Cursed}}
+|category={{c|Force of Will}}
+|require={{TalentReq/CursedWilReq1}}
+|cooldown=5
+|cost=5 Hate
+|range=3
+|desc=
+Focusing your hate, you strike your foe with unseen force for {{ctmd|0|280}} damage and 2 knockback.
+
+In addition, your ability to channel force with this talent increases all critical damage by {{cts|4|15%}}.
+
+Damage increases with your Mindpower.
+}}

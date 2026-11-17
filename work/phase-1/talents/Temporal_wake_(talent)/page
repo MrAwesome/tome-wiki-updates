@@ -1,0 +1,14 @@
+{{Ability box
+|image=Temporal wake.png
+|name=Temporal Wake
+|category_type={{ct|Chronomancy}}
+|category={{c|Spacetime Folding}}
+|require={{TalentReq/TemporalReq4}}
+|range={{cts|2.3|4.3}}
+|cost=10 Paradox
+|cooldown=10
+|desc=
+Violently fold the space between yourself and another point within range.  You move to the target location, and leave a temporal wake behind that stuns for 4 turns and inflicts {{ctspd|20|230|PM}} temporal damage to everything in the path.
+
+The damage will scale with your Paradox and Spellpower, and the range will increase with the talent level.
+}}

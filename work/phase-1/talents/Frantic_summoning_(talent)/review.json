@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "d5e9bd0df834b0ee876eb8e9cc1941e22fd60291487bbbdca7495e457ce34c6d",
+    "revid": 8373
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Frantic_summoning_(talent)",
+    "kind": "talent",
+    "pageid": 1174,
+    "wiki_title": "Frantic summoning (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "a8565d7c811be78bee05007d4879e45ef87cd73cef10b320d7daef1a8209b3c7",
+    "source_sha256": "b7f9b25c89954bcf7b8affbaf2b05c6715777e6b69652079fb9bad36c2bb1540",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "a8565d7c811be78bee05007d4879e45ef87cd73cef10b320d7daef1a8209b3c7",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

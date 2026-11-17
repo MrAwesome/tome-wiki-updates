@@ -1,0 +1,17 @@
+{{Ability box
+|game_version=1.7.6
+|image=Terrible_Sight.png
+|name=Terrible Sight
+|category_type={{ct|Demented}}
+|category={{c|Friend of the Worm}}
+|require={{TalentReq/SpellsReqHigh4}}
+|use_mode= Active & Passive
+|cost= -10 insanity
+|cooldown=20
+|range=floor({{cts|3|6}})
+|desc=
+While within range 3 of your Worm that Walks you can project an aura of terror.
+At the sight of two maddening horrors fighting together all your foes in radius {{cts|3|6}} must make a physical save against your spellpower or be stunned for {{ctl|10|2|8}} turns.
+
+Additionally your Shared Insanity effect will cause enemies in radius 3 to lose {{ctspd|15|55}} spell save and {{ctspd|15|55}} defense for 3 turns.
+}}

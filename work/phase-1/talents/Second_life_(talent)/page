@@ -1,0 +1,14 @@
+{{Ability box
+|game_version=1.7.6
+|image=Second life.png
+|name=Second Life
+|category_type={{ct|Celestial}}
+|category={{c|Combat}}
+|require={{TalentReq/DiviReq4}}
+|use_mode=Sustained
+|cost=20 Positive
+|cooldown=30
+|use_speed=Spell
+|desc=
+Any attack that would drop you below 1 hit point instead triggers Second Life, deactivating the talent, setting your hit points to 1, then healing you for {{ctl|150%|20|50%}} of your max life.
+}}

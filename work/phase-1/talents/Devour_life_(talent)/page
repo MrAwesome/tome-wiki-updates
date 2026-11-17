@@ -1,0 +1,13 @@
+{{Ability box
+|game_version=1.7.6
+|image=Devour life.png
+|name=Devour Life
+|category_type={{ct|Cursed}}
+|category={{c|Dark Sustenance}}
+|require={{TalentReq/CursedWilReq2}}
+|range=7
+|cooldown=6
+|desc=
+Devours life from the target of your {{t|Feed}}ing reducing their life regeneration by {{ctmd|1|40}} and adding half of that to yours.
+Improves with your Mindpower.
+}}

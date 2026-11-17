@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "b460290c1968ac456bdae10b9d741347bd34bf4e39d6167e360905c51c75ad3d",
+    "revid": 8051
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Shadow_combat_(talent)",
+    "kind": "talent",
+    "pageid": 1287,
+    "wiki_title": "Shadow combat (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "b596a8b79d9a658e1c4f8d57dedc693908d0cf06ff5de0890e2f9690db14fa82",
+    "source_sha256": "03ad1476b0811c966efa79ba8fc192cf95055cd0dddfd21ad7942b836ad695bb",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "b596a8b79d9a658e1c4f8d57dedc693908d0cf06ff5de0890e2f9690db14fa82",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

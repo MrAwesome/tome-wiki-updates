@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "cbdc9dfee0a3579b471638edb11c0ed39e573256416e45432973098260d208e8",
+    "revid": 15148
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "baseline_preserved"
+    }
+  ],
+  "identity": {
+    "filename": "Force_shield_(talent)",
+    "kind": "talent",
+    "pageid": 5281,
+    "wiki_title": "Force shield (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "baseline_preserved",
+    "candidate_page_sha256": "cbdc9dfee0a3579b471638edb11c0ed39e573256416e45432973098260d208e8",
+    "source_sha256": "b477d52609e6d06f48a70d7163f172c24e1ab9a8cd66baa9305da15ff3bf09f4",
+    "status": "unsupported_info",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "cbdc9dfee0a3579b471638edb11c0ed39e573256416e45432973098260d208e8",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

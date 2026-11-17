@@ -1,0 +1,18 @@
+{{Ability_box
+|name = Glass Splinters
+|image = Glass_splinters.png
+|category_type = {{ct|Golem}}
+|category = {{c|Glass}}
+|game_version = 1.7.6
+|forbidden_version = 1.0.12
+|require = {{TalentReq/SpellsReqHigh1}}
+|cost = 12 Mana
+|cooldown = 9
+|travel_speed = 
+|use_speed = Weapon
+|desc =
+Smash your target with a splintering glass attack doing {{ctwd|70|200%}} arcane weapon damage.
+If this attack hits the target will have glass splinters for 6 turns.
+Each turn the target will bleed for 8% of the attack damage. The splinters are very painful and if the target moves it will instantly take {{cts|7|30%}} of the attack damage.
+At level 5 the target suffers so much it has 15% chances to fail using talents.
+}}

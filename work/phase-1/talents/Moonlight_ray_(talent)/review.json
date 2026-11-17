@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "b549e2c8147c6d2ff1d8f0331b72e3d01ec7aef13d255f6ef3d87aa625840717",
+    "revid": 19045
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Moonlight_ray_(talent)",
+    "kind": "talent",
+    "pageid": 114,
+    "wiki_title": "Moonlight ray (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "ff9e13d11ebb357b04029f3ffcd1524eb43186d8ec2f7c45bb286c913cac2c82",
+    "source_sha256": "65409ece768b7a9dfb191f54fea794c9e0ad8710631c837584fe34dcef2ac383",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "ff9e13d11ebb357b04029f3ffcd1524eb43186d8ec2f7c45bb286c913cac2c82",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

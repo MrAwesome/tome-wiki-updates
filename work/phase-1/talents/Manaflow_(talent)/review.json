@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "a43f8ef0a67068fc89c27c65e1793e708fdd5579689aabb00097f526af435df4",
+    "revid": 5820
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Manaflow_(talent)",
+    "kind": "talent",
+    "pageid": 2962,
+    "wiki_title": "Manaflow (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "9b2c2d151fe1c0b06fd6693b352e0875883ca5bc983f3442f0715854eeb0f5f0",
+    "source_sha256": "dc640c1af5d22a45472d843380c9de01334530b3831bd2b9fe88ee0cba3abc23",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "9b2c2d151fe1c0b06fd6693b352e0875883ca5bc983f3442f0715854eeb0f5f0",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

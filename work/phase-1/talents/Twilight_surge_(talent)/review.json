@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "5f13e4695c4136bae0ec8c1e53280c349371b9c047f2a1e967943bd76cf10e5e",
+    "revid": 19048
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "baseline_preserved"
+    }
+  ],
+  "identity": {
+    "filename": "Twilight_surge_(talent)",
+    "kind": "talent",
+    "pageid": 112,
+    "wiki_title": "Twilight surge (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "baseline_preserved",
+    "candidate_page_sha256": "5f13e4695c4136bae0ec8c1e53280c349371b9c047f2a1e967943bd76cf10e5e",
+    "source_sha256": "65409ece768b7a9dfb191f54fea794c9e0ad8710631c837584fe34dcef2ac383",
+    "status": "unsupported_info",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "5f13e4695c4136bae0ec8c1e53280c349371b9c047f2a1e967943bd76cf10e5e",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

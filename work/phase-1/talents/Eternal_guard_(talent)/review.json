@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "157ac287f7f210beaa7e6e9fdb8085ffd21864068dfad72c0d57a2a49f68ffd4",
+    "revid": 14947
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Eternal_guard_(talent)",
+    "kind": "talent",
+    "pageid": 3453,
+    "wiki_title": "Eternal guard (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "826e85186b8e06919236bcc06cea8d42828b7df249d186f74cd71990cae15f4f",
+    "source_sha256": "b260bc4a014c91d3ee733275ca1d2671d56db3fbe4afb6cd58b4bd9d8ced33eb",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "826e85186b8e06919236bcc06cea8d42828b7df249d186f74cd71990cae15f4f",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

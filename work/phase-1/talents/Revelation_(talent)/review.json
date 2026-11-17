@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "9baf185d4b5bf1c33b82bdba0b21b4837199c1c279b3c0b21935e59f7b6b5b1a",
+    "revid": 19044
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "baseline_preserved"
+    }
+  ],
+  "identity": {
+    "filename": "Revelation_(talent)",
+    "kind": "talent",
+    "pageid": 5967,
+    "wiki_title": "Revelation (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "baseline_preserved",
+    "candidate_page_sha256": "9baf185d4b5bf1c33b82bdba0b21b4837199c1c279b3c0b21935e59f7b6b5b1a",
+    "source_sha256": "e68880092dbc5bfa5b8624f75b26297b163dca4b33d6dac38aba3760d6dd5b7e",
+    "status": "unsupported_info",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "9baf185d4b5bf1c33b82bdba0b21b4837199c1c279b3c0b21935e59f7b6b5b1a",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

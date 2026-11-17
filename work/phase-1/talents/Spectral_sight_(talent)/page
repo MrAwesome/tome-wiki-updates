@@ -1,0 +1,13 @@
+{{Ability_box
+|game_version = 1.7.4
+|name = Spectral Sight
+|image = spectral sight.png
+|category_type={{ct|Spell}}
+|category={{c|Spectre}}
+|require = {{TalentReq/SpellsReq2}}
+|use_mode = Passive
+|desc = 
+While in your spectral form from {{t|Ghost Walk}} and for {{cts|2.5|4}} turns afterwards, you gain vision of all enemies within radius (7.5 + 0.5 * Talent Level), up to a maximum radius of 10.
+
+In addition, at all times you gain the ability to sense undead within (10 + Talent Level) tiles, and can perceive any foe within {{cts|1|5|1}} tiles of your necrotic minions.
+}}

@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "82981a6730651085a4b8dad29635f340d3fc12105bd110471d5f5770963686d0",
+    "revid": 23015
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "baseline_preserved"
+    }
+  ],
+  "identity": {
+    "filename": "Meditation_(talent)",
+    "kind": "talent",
+    "pageid": 1168,
+    "wiki_title": "Meditation (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "baseline_preserved",
+    "candidate_page_sha256": "82981a6730651085a4b8dad29635f340d3fc12105bd110471d5f5770963686d0",
+    "source_sha256": "b2df31016f55fb32b4e989d1fcb6e094f9c39e3d2cb9431e87be77f5f476e6b9",
+    "status": "unsupported_info",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "82981a6730651085a4b8dad29635f340d3fc12105bd110471d5f5770963686d0",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

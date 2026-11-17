@@ -1,0 +1,13 @@
+{{Ability box
+|name=Providence
+|image=Providence.png
+|category_type={{ct|Celestial}}
+|category={{c|Light}}
+|game_version=1.7.6
+|require={{TalentReq/SpellsReq4}}
+|cost=Gain 20 Positive
+|cooldown=30
+|use_speed=Spell
+|desc=
+Places you under the protection of a ray of sunlight. For {{cts|3|7}} turns, the light removes a single negative effect from you every turn.
+}}

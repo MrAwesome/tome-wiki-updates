@@ -1,0 +1,15 @@
+{{Ability box
+|game_version=1.7.6
+|image=Blastwave_2017.png
+|name=Blastwave
+|category_type={{ct|Spell}}
+|category={{c|Wildfire}}
+|require={{TalentReq/SpellsReqHigh1}}
+|cost=12 Mana
+|cooldown=5
+|range=0
+|desc=
+A wave of fire emanates from you with a radius of {{cts|2|6}}, knocking back anything caught inside and setting them ablaze, doing {{ctspd|28|180}} fire damage over 3 turns.
+
+The damage will increase with your Spellpower.
+}}

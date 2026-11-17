@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "5ab69ac17b5e7e0150a9983319687d159f661c4c1bf993ea5037fdbc5706bb83",
+    "revid": 13820
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "baseline_preserved"
+    }
+  ],
+  "identity": {
+    "filename": "Incendiary_ammunition_(talent)",
+    "kind": "talent",
+    "pageid": 4870,
+    "wiki_title": "Incendiary ammunition (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "baseline_preserved",
+    "candidate_page_sha256": "5ab69ac17b5e7e0150a9983319687d159f661c4c1bf993ea5037fdbc5706bb83",
+    "source_sha256": "6675712c498b0de1bd51049059d7459f7d275c755c9bb9cfb4caed9f69536aa6",
+    "status": "unsupported_info",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "5ab69ac17b5e7e0150a9983319687d159f661c4c1bf993ea5037fdbc5706bb83",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

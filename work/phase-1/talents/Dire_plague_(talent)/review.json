@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "6ae328d92104b0a4c1e83060f1dcdb7fe86d1999e8b1416b7c7c080d759684e8",
+    "revid": 19413
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:58Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Dire_plague_(talent)",
+    "kind": "talent",
+    "pageid": 6066,
+    "wiki_title": "Dire plague (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "a93a67c67f0a660a98395695a69d468b318802d4a22d0bab8aeee2a5450fd8d2",
+    "source_sha256": "834c8c8771f6c5c3aefa79a5974a54ecd6fca64773989e38efddae096737ec11",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:58Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "a93a67c67f0a660a98395695a69d468b318802d4a22d0bab8aeee2a5450fd8d2",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

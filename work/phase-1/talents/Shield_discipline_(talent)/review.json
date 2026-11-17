@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "6f75faf0351950d2a776f060ffee85e18ea9f8d79abc7a0d5d34577140a2c915",
+    "revid": 1782
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Shield_discipline_(talent)",
+    "kind": "talent",
+    "pageid": 1432,
+    "wiki_title": "Shield discipline (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "dc72a1db2f71038d4220a3379daf31afb8fdf1108308c062239cfc5fa645f6ee",
+    "source_sha256": "d1e5f81f1bad338ea712b6d4dc9f578b847db88327cf1827014465940977a6b6",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "dc72a1db2f71038d4220a3379daf31afb8fdf1108308c062239cfc5fa645f6ee",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

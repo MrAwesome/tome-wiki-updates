@@ -1,0 +1,17 @@
+{{Ability box
+|image=Flying grapple.png
+|name=Flying grapple
+|game_version=1.7.6
+|embers_version=1.1.10
+|category_type={{ct|Steamtech}}
+|category={{c|Automation}}
+|require={{TalentReq/SteamReq2}}
+|cooldown=10
+|cost=30 Steam
+|range=10
+|desc=You send a small steam-powered flying grapple to a target. The drone is homing so if the target moves it will follow.
+
+When it reaches its target it deploys grapples in all directions around it in radius 4.
+
+The grapples latch onto any foes and pull them toward the target. If they are stopped by a creature (or the target) both them and the creature take {{ctstmd|20|180}} physical damage.
+}}

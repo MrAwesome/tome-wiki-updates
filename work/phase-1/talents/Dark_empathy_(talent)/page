@@ -1,0 +1,14 @@
+{{Ability box
+|image=Dark empathy.png
+|name=Dark Empathy
+|category_type={{ct|Spell}}
+|category={{c|Necrotic Minions}}
+|require={{TalentReq/SpellsReq4}}
+|use_mode=Passive
+|desc=
+You share your powers with your minions, granting them {{ctspd|15|80%}} of your resistances and saves.
+
+In addition all damage done by your minions to you or your other minions is reduced by (20 * Raw Talent Level)%.
+
+The effect will increase with your Spellpower.
+}}

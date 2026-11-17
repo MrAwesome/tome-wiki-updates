@@ -1,0 +1,15 @@
+{{Ability box
+|image=Glyph of fatigue.png
+|name=Glyph of Fatigue
+|category_type={{ct|Celestial}}
+|category={{c|Glyphs}}
+|require={{TalentReq/DiviReqHigh4}}
+|range={{cts|1|5|log}}
+|cost=-10 Positive
+|cooldown=20
+|use_speed=0
+|desc=
+You bind light in a glyph on the floor. All targets walking over the glyph will be slowed by {{ctl|100%|27|55%}} for 5 turns.
+
+The glyph is a hidden trap that lasts for {{cts|6|10}} turns, and a disarm power of {{cs|(0.15 * Raw Magic * Talent Level)|0|0|75|75}}. Its detection power is 80% of the disarm power.
+}}

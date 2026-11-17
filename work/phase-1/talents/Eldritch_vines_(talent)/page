@@ -1,0 +1,13 @@
+{{Ability_box
+|game_version=1.7.6
+|image=Eldritch vines.png
+|name=Eldritch Vines
+|category_type={{ct|Wild-gift}}
+|category={{c|Earthen Vines}}
+|require={{TalentReq/GiftsReq2}}
+|use_mode=Passive
+|desc=
+Each time one of your stone vines deals damage to a creature it will restore {{cts|0.3|1.25|log|0|3}} equilibrium and {{cts|0.4|1.67}} mana.
+
+Your vines also become infused with eldritch energies, dealing an additional {{ctstd|Wil|6|80}} arcane damage.
+}}

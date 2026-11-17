@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "3498a59f3c8f450a7e752bc6f1399eceeb1533ffaf5f12eb72e102e3d897280a",
+    "revid": 13718
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "baseline_preserved"
+    }
+  ],
+  "identity": {
+    "filename": "Soothing_darkness_(talent)",
+    "kind": "talent",
+    "pageid": 4674,
+    "wiki_title": "Soothing darkness (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "baseline_preserved",
+    "candidate_page_sha256": "3498a59f3c8f450a7e752bc6f1399eceeb1533ffaf5f12eb72e102e3d897280a",
+    "source_sha256": "38accb83ed9f8124b05924589b576a0afaf61625c3e0ad4481a08e19299fa63d",
+    "status": "unsupported_info",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "3498a59f3c8f450a7e752bc6f1399eceeb1533ffaf5f12eb72e102e3d897280a",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

@@ -1,0 +1,13 @@
+{{Ability box
+|image=Corrupted strength.png
+|name=Corrupted Strength
+|game_version=1.7.6
+|category_type={{ct|Corruption}}
+|category={{c|Reaving Combat}}
+|require={{TalentReq/StrCorrsReq1}}
+|use_mode=Passive
+|desc=
+Allows you to dual wield any type of one handed weapons, and increases the damage of the off-hand weapon to {{ctl|100%|60|80%}}.
+
+Also, casting a spell (which uses a turn) will give a free melee attack at a random target in melee range for {{ctwd|20|70%}} blight damage.
+}}

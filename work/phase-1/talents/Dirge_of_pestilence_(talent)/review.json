@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "4d797d1812ef28aec32cb236c1f915d4d35bbc5e429bb5d13411716aab35a015",
+    "revid": 22838
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:58Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Dirge_of_pestilence_(talent)",
+    "kind": "talent",
+    "pageid": 7028,
+    "wiki_title": "Dirge of pestilence (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "4d797d1812ef28aec32cb236c1f915d4d35bbc5e429bb5d13411716aab35a015",
+    "source_sha256": "d9f8e153ac9d7c92ea670616aa88d9d410b4b14e1e521173dd86d419e5ef7e3a",
+    "status": "no_change",
+    "updated_at": "2026-11-08T16:08:58Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "4d797d1812ef28aec32cb236c1f915d4d35bbc5e429bb5d13411716aab35a015",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

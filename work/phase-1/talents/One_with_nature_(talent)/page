@@ -1,0 +1,13 @@
+{{Ability box
+|game_version=1.7.6
+|image=One with nature.png
+|name=One with Nature
+|category_type={{ct|Wild-Gift}}
+|category={{c|Harmony}}
+|require={{TalentReq/GiftsReq3}}
+|cooldown=30
+|cost=15 Equilibrium
+|use_speed=0
+|desc=
+Commune with nature, removing the infusion saturation effect and reducing the cooldown of {{cts|1|4|log}} infusions by {{cts|2|5|log}} turns.
+}}

@@ -1,0 +1,19 @@
+'''This talent is no longer used by players.'''
+
+Thanks to the blessings of [[DarkGod]], weapon reloading now happens without user management. Some [[Embers of Rage]] NPCs still know this talent, however.
+
+
+{{Ability box
+|image=Reload.png
+|name=Reload
+|cooldown=2
+|use_speed=0
+|desc=
+Quickly reload your ammo by 1.
+
+Doing so requires no turn but you will be disarmed for 2 turns.
+
+The reload rate can be increased with {{t|Bow Mastery}}, {{t|Sling Mastery}}, or item bonuses.
+
+Reloading does not break stealth.
+}}

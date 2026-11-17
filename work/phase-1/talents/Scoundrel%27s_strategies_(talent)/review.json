@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "fdaee7f28106820c4418f6f356c52e7ac00cdae549086ee9754cd993ae464c52",
+    "revid": 23053
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Scoundrel%27s_strategies_(talent)",
+    "kind": "talent",
+    "pageid": 1572,
+    "wiki_title": "Scoundrel's strategies (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "b8bd1a3a157d108975d3216619132872757290d9081d8ae3294cddde4270c857",
+    "source_sha256": "c90171bb35a1bab1c02cbefa1cfd36ac7d3bed9dbb089327030f4c830f038703",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "b8bd1a3a157d108975d3216619132872757290d9081d8ae3294cddde4270c857",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

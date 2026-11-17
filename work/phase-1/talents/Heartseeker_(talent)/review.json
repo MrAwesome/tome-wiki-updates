@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "0a4b1004438b51a78af0c16f5e4b63410927eeab70d15e3ec8730fba6a9b71dd",
+    "revid": 13698
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "baseline_preserved"
+    }
+  ],
+  "identity": {
+    "filename": "Heartseeker_(talent)",
+    "kind": "talent",
+    "pageid": 4634,
+    "wiki_title": "Heartseeker (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "baseline_preserved",
+    "candidate_page_sha256": "0a4b1004438b51a78af0c16f5e4b63410927eeab70d15e3ec8730fba6a9b71dd",
+    "source_sha256": "aa6d54f5e30aa27c881120dee2c47a5e24b69e556442ac0958275e387972493d",
+    "status": "unsupported_info",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "0a4b1004438b51a78af0c16f5e4b63410927eeab70d15e3ec8730fba6a9b71dd",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

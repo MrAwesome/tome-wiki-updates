@@ -1,0 +1,19 @@
+{{Ability box
+|image = Exoskeleton.png
+|name = Exoskeleton
+|game_version = 1.7.6
+|embers_version = 1.1.10
+|category_type = {{ct|Steamtech}}
+|category = {{c|Gadgets}}
+|require = {{TalentReq/SteamReq2}}
+|cooldown = 25
+|use_mode = Sustained
+|cost = 3 Steam drain
+|range = 0
+|use_speed = 0
+|desc = You craft a set of steam powered armor that fits over your regular armor, enhancing your defense. The armor has {{ctstmd|30|400}} life, and 50% of all damage taken is redirected to it.
+
+Your powered armour repairs 5% of it’s maximum life each turn, and each time you spend steam it will be repaired for {{cts|100|250%}} of the steam cost.
+
+The armor's maximum life will increase with your Steampower.
+}}

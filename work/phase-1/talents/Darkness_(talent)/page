@@ -1,0 +1,9 @@
+{{Ability_box
+|game_version=1.7.6
+|name=Darkness
+|category_type=[[NPC Only (category type)|NPC Only]]
+|category=-
+|image=Darkness.png
+|desc=
+Weave darkness (power {{cts|10|50}}) in a radius of {{cts|2|5}}, blocking all light but the most powerful and teleporting you a short range.
+}}

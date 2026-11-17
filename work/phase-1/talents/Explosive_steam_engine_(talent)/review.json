@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "3b07b39a9fa62e36def4ecca6ad84913e6ccdba4d2912d1dfe30d4f9a4188887",
+    "revid": 12163
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Explosive_steam_engine_(talent)",
+    "kind": "talent",
+    "pageid": 4472,
+    "wiki_title": "Explosive steam engine (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "8adf112a12c1b89e5425fc36d26d55f7e9a326f50a7d3cd697ea54a86f606e4e",
+    "source_sha256": "c213a3c5b3d968fd0d6fe23b7427d1aeba965157923639faa04a377e1e9d465b",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "8adf112a12c1b89e5425fc36d26d55f7e9a326f50a7d3cd697ea54a86f606e4e",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

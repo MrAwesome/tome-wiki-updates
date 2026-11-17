@@ -1,0 +1,16 @@
+{{Ability_box
+|game_version=1.7.6
+|image=Inferno.png
+|name=Inferno
+|category_type={{ct|Spell}}
+|category={{c|Fire}}
+|require={{TalentReq/SpellsReq4}}
+|use_mode=Activated
+|range=10
+|cost=100 Mana
+|cooldown=30
+|desc=
+Raging flames burn foes and allies alike, doing {{ctspd|15|80}} fire damage in a radius of 5 each turn for {{cts|6|10}} turns.
+
+The damage will increase with your Spellpower.
+}}

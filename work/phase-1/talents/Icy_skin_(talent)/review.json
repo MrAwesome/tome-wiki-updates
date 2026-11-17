@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "bf48057f174c4edbac44864c4130b490503e6689f6f73be2dee1c07e91f73d22",
+    "revid": 8413
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Icy_skin_(talent)",
+    "kind": "talent",
+    "pageid": 1608,
+    "wiki_title": "Icy skin (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "2a7e781537d442ee0dff902fcd676b70315e024b7642b6a4ca6cbb9c137ae76f",
+    "source_sha256": "e88b6d927b12f1890098811affb3fd1326d57ff3a79b6a551ebb564dad991b7b",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "2a7e781537d442ee0dff902fcd676b70315e024b7642b6a4ca6cbb9c137ae76f",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

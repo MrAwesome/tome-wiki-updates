@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "9e3c97736bbce54c7bcaf4714ed564fe2cb8621d7f09227e08cc867bb7efa26d",
+    "revid": 23331
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "baseline_preserved"
+    }
+  ],
+  "identity": {
+    "filename": "Instill_fear_(talent)",
+    "kind": "talent",
+    "pageid": 1630,
+    "wiki_title": "Instill fear (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "baseline_preserved",
+    "candidate_page_sha256": "9e3c97736bbce54c7bcaf4714ed564fe2cb8621d7f09227e08cc867bb7efa26d",
+    "source_sha256": "d8cb82323bb3678be598dffb219bed45d102640cbd8afeaea01474d162825807",
+    "status": "unsupported_info",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "9e3c97736bbce54c7bcaf4714ed564fe2cb8621d7f09227e08cc867bb7efa26d",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

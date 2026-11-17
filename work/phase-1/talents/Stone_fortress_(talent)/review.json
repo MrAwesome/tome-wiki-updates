@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "2ba569417069b2dc6c6891943dbd49ac222855d874918f45385c7eb3d06ad1f6",
+    "revid": 13029
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Stone_fortress_(talent)",
+    "kind": "talent",
+    "pageid": 4603,
+    "wiki_title": "Stone fortress (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "a5a1a4eec98264d9ee3fa67dfaf3047d527f4174b78f60aca18e001fcdf19267",
+    "source_sha256": "c57edc4364de619e791cdf2b43ca3f4744f4962e175410477733a50010017c03",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "a5a1a4eec98264d9ee3fa67dfaf3047d527f4174b78f60aca18e001fcdf19267",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

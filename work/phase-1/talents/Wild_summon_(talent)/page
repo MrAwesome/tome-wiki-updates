@@ -1,0 +1,28 @@
+{{Ability box
+|game_version = 1.7.6
+|image=Wild summon.png
+|name=Wild Summon
+|category_type={{ct|Wild-Gift}}
+|category={{c|Summoning (Advanced)}}
+|require={{TalentReq/GiftsReqHigh4}}
+|cost=9 Equilibrium
+|cooldown=25
+|range=10
+|use_speed=0
+|desc=
+For {{ctl|15|3|7}} turn(s), you have 100% chance that your summons appear as a wild version.
+Each turn the chance disminishes.
+Wild creatures have one more talent/power than the base versions:
+*{{t|Ritch {{t|Flamespit}}ter}}: Can fly in the air, spitting its Flamespit past creatures in the path of its target
+*{{t|Hydra}}: Can concentrate its breath into spits when allies would be caught in a breath, instead spitting a bolt
+*{{t|Rimebark}}: Can grab foes, pulling them into range of its ice storm
+*{{t|Fire Drake}}: Can emit a powerful roar to silence its foes
+*{{t|War Hound}}: Can rage, inreasing its critical chance and gaining armour penetration
+*{{t|Jelly}}: Can split into an additional jelly upon taking a large hit (jellies formed by splitting do not count against your summon cap)
+*{{t|Minotaur}}: Can {{t|Rush}} toward its target
+*{{t|Stone Golem}}: Can {{t|Disarm}} its foes
+*{{t|Turtle}}: Can force all foes in a radius into melee range
+*{{t|Spider}}: Can project an insidious poison at its foes, reducing their healing
+This talent requires {{t|Master Summoner}} to be active to be used.
+Effects scale with levels in summon talents.
+}}

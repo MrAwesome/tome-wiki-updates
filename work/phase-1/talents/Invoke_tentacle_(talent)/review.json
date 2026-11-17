@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "60f1f4ddb156d20e6c18d0a4565cc9d89fe8b0c34186e958db37810910fd05ce",
+    "revid": 11941
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Invoke_tentacle_(talent)",
+    "kind": "talent",
+    "pageid": 2950,
+    "wiki_title": "Invoke tentacle (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "6ee0da815c0ddba79b9aaee4bedc9889e62541b1dd2a6828ca3c93f2d7d2667c",
+    "source_sha256": "dc640c1af5d22a45472d843380c9de01334530b3831bd2b9fe88ee0cba3abc23",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "6ee0da815c0ddba79b9aaee4bedc9889e62541b1dd2a6828ca3c93f2d7d2667c",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

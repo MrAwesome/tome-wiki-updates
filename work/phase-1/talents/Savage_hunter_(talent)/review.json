@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "a72a97f56184e7a9a7dc0d0d8d0d10778becad1629cab70c11a2b3dc049221e1",
+    "revid": 22139
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "baseline_preserved"
+    }
+  ],
+  "identity": {
+    "filename": "Savage_hunter_(talent)",
+    "kind": "talent",
+    "pageid": 6841,
+    "wiki_title": "Savage hunter (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "baseline_preserved",
+    "candidate_page_sha256": "a72a97f56184e7a9a7dc0d0d8d0d10778becad1629cab70c11a2b3dc049221e1",
+    "source_sha256": "9885dea5d41d30bef58661ca91c4689bf6d879169c29a34920edbdefae199a8d",
+    "status": "unsupported_info",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "a72a97f56184e7a9a7dc0d0d8d0d10778becad1629cab70c11a2b3dc049221e1",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

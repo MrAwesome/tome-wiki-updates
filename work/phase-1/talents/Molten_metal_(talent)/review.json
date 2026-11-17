@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "672dfa7adfac95bc013b0aaf43496ad98b9b4b7ead49b85b2941fe779250d51f",
+    "revid": 14598
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Molten_metal_(talent)",
+    "kind": "talent",
+    "pageid": 4479,
+    "wiki_title": "Molten metal (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "c236ee05a3a8856a40cf86702489285f105684cae306ec48f3ddc9b58e9806fa",
+    "source_sha256": "66df49a75a14a56ea59ee37babb5a41886e714e508cdb65016238841695e6450",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "c236ee05a3a8856a40cf86702489285f105684cae306ec48f3ddc9b58e9806fa",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

@@ -1,0 +1,14 @@
+{{Ability_box|image=Relentless strikes.png|name=Relentless strikes
+|game_version=1.7.6
+|category_type=[[Technique (category type)|Technique]]
+|category=[[Pugilism (category)|Pugilism]]
+|require=Strength (20, 22, 24, 26, 28)
+(4, 5, 6, 7, 8) level
+|use_mode=passive
+|range=n/a
+|cost=n/a
+|cooldown=n/a
+|use_speed=n/a
+|desc=
+When gaining a combo point, you have a {{ctl|70%|25|60%}} chance to gain an extra combo point. Additionally, every time you earn a combo point, you will regain {{ctl|6|1|4}} stamina, or {{ctl|12|2|8}} stamina if you would exceed 5 combo points.
+}}

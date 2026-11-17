@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "defc5f5da7a6fbba0e16da9df8cdd853dea879f842ad8b5fb7c49241140dcb58",
+    "revid": 19459
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:58Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Across_the_veil_(talent)",
+    "kind": "talent",
+    "pageid": 6088,
+    "wiki_title": "Across the veil (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "8a31e5dd9820d815ff13e67578727fd074812bc1fbd1a50aaa92f6f1657c3ded",
+    "source_sha256": "6cee58bfb87aa38e5e79ecf03570cfbbde5de0c5ad7faf2268955b2b12927dc9",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:58Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "8a31e5dd9820d815ff13e67578727fd074812bc1fbd1a50aaa92f6f1657c3ded",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

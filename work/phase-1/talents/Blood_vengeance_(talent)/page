@@ -1,0 +1,19 @@
+{{Ability box
+|image=Blood_vengeance_2017.png
+|name=Blood Vengeance
+|game_version=1.7.4
+|category_type={{ct|Corruption}}
+|category={{c|Torment}}
+|require={{TalentReq/CorrsReq4}}
+|use_mode=Sustained
+|cooldown=20
+|cost=22 Vim
+|travel_speed=instantaneous
+|use_speed=Spell
+|desc=
+When you are dealt a blow that reduces your life by at least {{ctl|5%|15|8%}}, you have a {{cl|{{ctspd|10|90}}|100%|20|0|50%|61.3}} chance to reduce the remaining cooldown of all your talents by 1.
+
+Temporary life from [[Sanguine Infusion]] will not count against the damage threshold.
+
+The chance will increase with your Spellpower.
+}}

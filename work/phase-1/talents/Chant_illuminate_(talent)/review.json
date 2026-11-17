@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "39b0b85723d19c575dd3e20f3ecafd37173e923524c9ef56c49c72ce964a9f08",
+    "revid": 23039
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:58Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Chant_illuminate_(talent)",
+    "kind": "talent",
+    "pageid": 5737,
+    "wiki_title": "Chant illuminate (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "b0aba6a09808f3f6fd31ed81ad12c85cd1ffe0558dff5b3c33fa5714bf912344",
+    "source_sha256": "7ee865627f3703747aa429823533ac5a92522e8ce59ccbfa9e7bee2068a7abe5",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:58Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "b0aba6a09808f3f6fd31ed81ad12c85cd1ffe0558dff5b3c33fa5714bf912344",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

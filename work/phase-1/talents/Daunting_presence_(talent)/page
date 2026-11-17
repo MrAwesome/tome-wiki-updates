@@ -1,0 +1,16 @@
+{{Ability box
+|game_version=1.7.6
+|image=Daunting_presence_2017.png
+|name=Daunting Presence
+|category_type={{ct|Technique}}
+|category={{c|Conditioning}}
+|require={{TalentReq/TechsConReq3}}
+|use_mode=Sustained
+|cost=20 Stamina
+|cooldown=8
+|desc=
+Enemies are intimidated by your very presence.
+Enemies within radius 6 have their Physical Power, Mindpower, and Spellpower reduced by {{ctpd|5|36}}.
+The power of the intimidation effect improves with your Physical power
+|avail.escorts=[[Escorts#Warrior|Warrior]], via revealing the locked {{c|Conditioning}} category
+}}

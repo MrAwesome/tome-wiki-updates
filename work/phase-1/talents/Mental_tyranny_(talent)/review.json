@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "4b197ff2bf8efe4df4ab2424068af577827e06cd9f7253dae3e0c1a4f8976455",
+    "revid": 14969
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Mental_tyranny_(talent)",
+    "kind": "talent",
+    "pageid": 3474,
+    "wiki_title": "Mental tyranny (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "034079fdbb7377d227dffaf70e5a9b9bff3700e2fffaf4f7d1c97f5c88888cf4",
+    "source_sha256": "bde073032f50b20d456193dd79131b7e54e2dcdfc42ca92736e6f406e8c28931",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "034079fdbb7377d227dffaf70e5a9b9bff3700e2fffaf4f7d1c97f5c88888cf4",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

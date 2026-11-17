@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "5ac54e537233c0a815d2a7ba124e1075033a9e36a8654cca5e261506d27b682e",
+    "revid": 22699
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Worm_that_walks_(talent)",
+    "kind": "talent",
+    "pageid": 5331,
+    "wiki_title": "Worm that walks (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "3ac6befdb18c56d0da14c0547f0d154723c9ac36f6ab35a8131892c4adb348ea",
+    "source_sha256": "e8c4508aa632de865c89ae398406cc6cad34b49349142c43bdf06fb8b68a1ed1",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "3ac6befdb18c56d0da14c0547f0d154723c9ac36f6ab35a8131892c4adb348ea",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

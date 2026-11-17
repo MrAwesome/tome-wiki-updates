@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "3d635be0e2e7affa64c2df632a2f82490c7c09f662b266d4eccb8a1a4a5efbde",
+    "revid": 14543
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Flying_grapple_(talent)",
+    "kind": "talent",
+    "pageid": 5168,
+    "wiki_title": "Flying grapple (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "7735d3e35495b66e25e82f4bde331224c279044d4bc0b2ca679f1b9a4f282d2a",
+    "source_sha256": "a6a503ad9f3f8fd9a72539d8dbfa39d015002d678d54f7497a3911af1258b441",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "7735d3e35495b66e25e82f4bde331224c279044d4bc0b2ca679f1b9a4f282d2a",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

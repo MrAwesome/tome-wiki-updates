@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "a1c9474ec24c1be04d1479a84f614522c5d54752cea7e263851346240c0696df",
+    "revid": 2027
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Guided_shot_(talent)",
+    "kind": "talent",
+    "pageid": 1673,
+    "wiki_title": "Guided shot (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "62ac82893517e4519512ad8bc2d09a895d1c53368155b5e90b06257e3ce15e9e",
+    "source_sha256": "e43019d76e48860b5d970fe9a4b89a4a9d1722ab21c2eb34729c9d77edbab062",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "62ac82893517e4519512ad8bc2d09a895d1c53368155b5e90b06257e3ce15e9e",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

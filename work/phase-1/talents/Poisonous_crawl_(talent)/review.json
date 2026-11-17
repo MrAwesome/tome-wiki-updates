@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "6effa4d047258c99658c3d04c7be297a35390ae67ddbfcdc2fd670514eb5c150",
+    "revid": 12908
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Poisonous_crawl_(talent)",
+    "kind": "talent",
+    "pageid": 2917,
+    "wiki_title": "Poisonous crawl (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "d93f3ec1999bdec094488c7c0827bd21b6872faadfbb9f93496c83cae02e8d23",
+    "source_sha256": "dc640c1af5d22a45472d843380c9de01334530b3831bd2b9fe88ee0cba3abc23",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "d93f3ec1999bdec094488c7c0827bd21b6872faadfbb9f93496c83cae02e8d23",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

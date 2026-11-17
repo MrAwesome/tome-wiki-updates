@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "89b1f4d40b1c1d75e4a35a1179bb04c2e50f9db2baaff3d301cd02213f36f31b",
+    "revid": 19562
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Spellcraft_(talent)",
+    "kind": "talent",
+    "pageid": 1597,
+    "wiki_title": "Spellcraft (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "6c03b8e8905a3bd385a5f966765ce6f2cb2e0f86b3d9ccdf5aa4b73feeb3b168",
+    "source_sha256": "fc9fe66d0a01a8a5902bfc39620e5f862291a0ff7b8b64806e33d703ab038f9f",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "6c03b8e8905a3bd385a5f966765ce6f2cb2e0f86b3d9ccdf5aa4b73feeb3b168",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

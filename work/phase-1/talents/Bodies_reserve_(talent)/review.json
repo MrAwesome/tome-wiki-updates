@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "df07699f2912785ff8eb4cea10bd287144454a139139f6052c5e7d2c3e4eb288",
+    "revid": 15366
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:58Z",
+      "event": "deterministic_render_applied",
+      "reason": "baseline_preserved"
+    }
+  ],
+  "identity": {
+    "filename": "Bodies_reserve_(talent)",
+    "kind": "talent",
+    "pageid": 5278,
+    "wiki_title": "Bodies reserve (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "baseline_preserved",
+    "candidate_page_sha256": "df07699f2912785ff8eb4cea10bd287144454a139139f6052c5e7d2c3e4eb288",
+    "source_sha256": "3a3fec2f724fd4ee128eae5206241fc88321e2143935e251bc0d8372d2098241",
+    "status": "unsupported_info",
+    "updated_at": "2026-11-08T16:08:58Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "df07699f2912785ff8eb4cea10bd287144454a139139f6052c5e7d2c3e4eb288",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

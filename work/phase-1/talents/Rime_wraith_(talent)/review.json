@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "51175629520fdc1724a97396a1777dadbb6fac1dfedff866812cb7166accff11",
+    "revid": 19424
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Rime_wraith_(talent)",
+    "kind": "talent",
+    "pageid": 6075,
+    "wiki_title": "Rime wraith (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "7cf92714994bfc4260705a73c70e2d98731242fcec03dcccf7eef660413f2931",
+    "source_sha256": "e63b12589acd41efb1aa065b1b3a1390947bbc058bf44ffa93384370d252ff0c",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "7cf92714994bfc4260705a73c70e2d98731242fcec03dcccf7eef660413f2931",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

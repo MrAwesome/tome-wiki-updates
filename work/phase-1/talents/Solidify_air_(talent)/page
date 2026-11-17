@@ -1,0 +1,21 @@
+{{Ability box
+|image=Solidify air.png
+|name=Solidify air
+|game_version=1.7.6
+|embers_version=1.1.10
+|category_type={{ct|Psionic}}
+|category={{c|Action at a distance}}
+|require={{TalentReq/PsiWilReq2}}
+|use_mode=Activated
+|range=0
+|cost=10 Steam + 10 Psi
+|cooldown=15
+|use_speed=Mind
+|desc=You concentrate your will in a cone in front of you, condensing the air into a tangible, solid form.
+
+Any creatures caught inside take {{CTMD|25|400}} {{physical}} damage.
+
+Any places with no creatures will be filled with solid air, blocking the way for {{CTL|10|2|8}} turns.
+
+The damage will increase with your Mindpower.
+}}

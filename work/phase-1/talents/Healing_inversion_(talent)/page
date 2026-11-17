@@ -1,0 +1,19 @@
+{{Ability box
+|name=Healing Inversion
+|image=Healing_inversion.png
+|game_version=1.7.4
+|category_type={{ct|Corruption}}
+|category={{c|Vile Life}}
+|require={{TalentReq/CorrsReq3}}
+|range=8
+|cost=16 Vim
+|cooldown=10
+|travel_speed=instantaneous
+|use_speed=Spell
+|desc=
+You manipulate the vim of enemies in radius 4 to temporarily invert all healing done to them (but not natural regeneration).
+
+For 5 turns all healing will instead damage them for {{cl|{{ctspd|4|100}}|100%|0|0|18.1%|18.1}} of the healing done as blight.
+
+The effect will increase with your Spellpower.
+}}

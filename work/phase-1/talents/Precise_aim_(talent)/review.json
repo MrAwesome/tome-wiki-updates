@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "41e684550c551fffe74def2cbeaea3aa40a4dbbc1a53fc9ebe331d0c314c9cdf",
+    "revid": 13712
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Precise_aim_(talent)",
+    "kind": "talent",
+    "pageid": 4670,
+    "wiki_title": "Precise aim (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "5a95b010b27a642922683e5f310e54c409d5539f4d5232a144b3b7e72db64576",
+    "source_sha256": "e3c2a768aa86e1394f7087e2b1e292c7fa8f05d2d18ae473a253bce7b99e1601",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "5a95b010b27a642922683e5f310e54c409d5539f4d5232a144b3b7e72db64576",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "42a2472a14b1aa120363de6280400f5172fd47c41cc4058a69b2a7e5d1f06d16",
+    "revid": 14611
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:58Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Eldritch_fury_(talent)",
+    "kind": "talent",
+    "pageid": 3117,
+    "wiki_title": "Eldritch fury (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "26930058978ff05a177bebcefbbb7dd79d3d900517e78532216295a483b6bc75",
+    "source_sha256": "b616f0708ca9064b5cb53a6b3a015263d10ceedd0e27e50d2497ea51bafb9ada",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:58Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "26930058978ff05a177bebcefbbb7dd79d3d900517e78532216295a483b6bc75",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

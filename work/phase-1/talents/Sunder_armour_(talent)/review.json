@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "1a4e740c09e10ff0d4935a903a9d68e754bcf31dfdc4775c9d421300a5d8f8e1",
+    "revid": 22786
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Sunder_armour_(talent)",
+    "kind": "talent",
+    "pageid": 1162,
+    "wiki_title": "Sunder armour (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "646e79cb8b41487df6933a64dda2b3eb31aa3fda3e5b51b0b922a3eee3f222d4",
+    "source_sha256": "3feae29e57d7c64c30cfcc9f26dfc4c0d089d5314c55c71a7213864e11fec6e0",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "646e79cb8b41487df6933a64dda2b3eb31aa3fda3e5b51b0b922a3eee3f222d4",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

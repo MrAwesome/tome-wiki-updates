@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "aa9fd3faf417545a3ba3e794abee1977772d8b154dce1adb090d01a262a04ddd",
+    "revid": 19015
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "baseline_preserved"
+    }
+  ],
+  "identity": {
+    "filename": "Glyphs_(talent)",
+    "kind": "talent",
+    "pageid": 5992,
+    "wiki_title": "Glyphs (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "baseline_preserved",
+    "candidate_page_sha256": "aa9fd3faf417545a3ba3e794abee1977772d8b154dce1adb090d01a262a04ddd",
+    "source_sha256": "edc604a2083182f0950ef89c5191b94bf437a8437f0ac5cbd9b5432c98ffe4ba",
+    "status": "unsupported_info",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "aa9fd3faf417545a3ba3e794abee1977772d8b154dce1adb090d01a262a04ddd",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

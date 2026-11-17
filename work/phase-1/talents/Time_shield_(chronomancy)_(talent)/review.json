@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "1bab6deae3c35b641a5ce5990e8d0b48320f95fed64bd01bb259b4bde96eda33",
+    "revid": 14134
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "baseline_preserved"
+    }
+  ],
+  "identity": {
+    "filename": "Time_shield_(chronomancy)_(talent)",
+    "kind": "talent",
+    "pageid": 5009,
+    "wiki_title": "Time shield (chronomancy) (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "baseline_preserved",
+    "candidate_page_sha256": "1bab6deae3c35b641a5ce5990e8d0b48320f95fed64bd01bb259b4bde96eda33",
+    "source_sha256": null,
+    "status": "unmatched_source",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "1bab6deae3c35b641a5ce5990e8d0b48320f95fed64bd01bb259b4bde96eda33",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

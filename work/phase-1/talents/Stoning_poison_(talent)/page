@@ -1,0 +1,20 @@
+{{Ability box
+|game_version=1.7.4
+|image=Stoning poison.png
+|name=Stoning Poison
+|category_type={{ct|Cunning}}
+|category=Poisons Effects
+|require=Know {{c|Poisons}} and purchase from Lost Merchant (after saving him in the [[Trapped!]] quest) for 1500 gold.
+Level (25) Cun (40)
+|use_mode=Sustained
+|cooldown=10
+|use_speed=0
+|desc=
+Enhance your Deadly Poison with a stoning agent.  Whenever you apply Deadly Poison, you afflict your target with an additional earth-based poison that inflicts 8 + {{ctstd|Cun|10|30}} * 0.4 nature damage per turn (stacking up to 32 + {{ctstd|Cun|10|30}} * 1.6 damage per turn) for {{cTS|6|8}} turns.
+
+After either {{cTL|1|7|2}} turns or the poison has run its course (<100% chance, see effect description), the target will be turned to stone for {{cTS|3|4}} turns.
+
+The damage scales with your Cunning.
+
+''All of the scaling functions on this talent that use a talent level use the level of {{t|Vile Poisons}} instead of this talent's level.''
+}}

@@ -1,0 +1,13 @@
+{{Ability box
+|game_version=1.7.6
+|image=Arcane power.png
+|name=Arcane Power
+|category_type={{ct|Spell}}
+|category={{c|Arcane}}
+|require={{TalentReq/SpellsReq1}}
+|use_mode=Sustained
+|cost=25 Mana
+|cooldown=30
+|desc=
+Your mastery of magic allows you to enter a state of deep concentration, increasing your Spellpower by {{cts|5|20|0.75}} and arcane resistance by {{ctspd|0.8333333334|28.05555556}}.
+}}

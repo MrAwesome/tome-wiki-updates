@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "33d896ef1c9ea10f51935f7a16231a39d53428082846046e86b72e1dfda58713",
+    "revid": 14108
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Frozen_ground_(talent)",
+    "kind": "talent",
+    "pageid": 1234,
+    "wiki_title": "Frozen ground (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "f8fbf380c29fad7da64957f407a22becf748a7c136e4a454ace190e29464f7eb",
+    "source_sha256": "d5562265a85cd4913cb5a6c55f898b51543e5809c850eb0587d585dce1315904",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "f8fbf380c29fad7da64957f407a22becf748a7c136e4a454ace190e29464f7eb",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

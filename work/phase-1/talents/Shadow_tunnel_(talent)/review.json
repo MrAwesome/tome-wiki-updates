@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "9d484d6dc0f0e4df0100d13ce7d3ed34b9bbd28831e2c6551b4ad80f4a92b21a",
+    "revid": 8130
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "baseline_preserved"
+    }
+  ],
+  "identity": {
+    "filename": "Shadow_tunnel_(talent)",
+    "kind": "talent",
+    "pageid": 1482,
+    "wiki_title": "Shadow tunnel (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "baseline_preserved",
+    "candidate_page_sha256": "9d484d6dc0f0e4df0100d13ce7d3ed34b9bbd28831e2c6551b4ad80f4a92b21a",
+    "source_sha256": null,
+    "status": "unmatched_source",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "9d484d6dc0f0e4df0100d13ce7d3ed34b9bbd28831e2c6551b4ad80f4a92b21a",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

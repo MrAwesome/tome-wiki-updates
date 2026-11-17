@@ -1,0 +1,15 @@
+{{Ability box
+|name=Barrier
+|image=Barrier.png
+|category_type={{ct|Celestial}}
+|category={{c|Light}}
+|game_version=1.7.4
+|require={{TalentReq/SpellsReq3}}
+|cost=Gain 20 Positive
+|cooldown=15
+|use_speed=1.7.4
+|desc=
+A protective shield forms around you that lasts for up to 10 turns and negates {{ctspd|30|370}} damage.
+
+The total damage the barrier can absorb will increase with your Spellpower.
+}}

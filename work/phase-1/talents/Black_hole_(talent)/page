@@ -1,0 +1,13 @@
+{{Ability_box
+|name = Black Hole
+|image = Black_hole.png
+|category_type = {{ct|Demented}}
+|category = {{c|Entropy}}
+|game_version = 1.7.6
+|forbidden_version = 1.0.12
+|require = {{TalentReq/DementedReq3}}
+|use_mode = Passive
+|desc =
+On casting {{t|Entropic Gift}}, a radius 1 rift in spacetime will be opened underneath the target for {{cts|2|3}} turns, increasing in radius by 1 each turn to a maximum of {{ctl|5|1|3}}.
+All caught within the rift are pulled towards the center and take {{ctspd|5|17.5}} darkness and {{ctspd|5|17.5}} temporal damage, plus {{cts|5|15%}} of your total entropy each turn (currently 0).
+}}

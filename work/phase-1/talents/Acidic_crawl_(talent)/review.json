@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "1e1bc5806ac4c91ee0f9fbc51ee053f9d414b7c2d99fc83b00d9589e2f9708a2",
+    "revid": 12909
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:58Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Acidic_crawl_(talent)",
+    "kind": "talent",
+    "pageid": 2918,
+    "wiki_title": "Acidic crawl (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "874f5b1802b86ebf02063e9800cfb10dbe450efee4b1df6685febd6cb3161ab1",
+    "source_sha256": "dc640c1af5d22a45472d843380c9de01334530b3831bd2b9fe88ee0cba3abc23",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:58Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "874f5b1802b86ebf02063e9800cfb10dbe450efee4b1df6685febd6cb3161ab1",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

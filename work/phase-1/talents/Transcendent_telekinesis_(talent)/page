@@ -1,0 +1,30 @@
+{{Ability_box
+|image=transcendent_telekinesis.png
+|name=Transcendent Telekinesis
+|category_type={{ct|Psionic}}
+|category={{c|Kinetic Mastery}}
+|require={{TalentReq/PsiWilHigh1}}
+|use_mode=Activated
+|cost=20 Psi
+|cooldown=30
+|desc=
+For {{ctl|30|5|10}} turns your telekinesis transcends your normal limits, increasing your Physical damage by {{ctmd|10|30%}} and you Physical resistance penetration by {{cl|{{ctmd|10|20}}|100%|4.2|4.2|13.4%|13.4}}.
+
+In addition:
+
+The cooldowns of {{t|Kinetic Shield}}, {{t|Kinetic Leech}}, {{t|Kinetic Aura}} and {{t|Mindlash}} are reset.
+
+{{t|Kinetic Aura}} will either increase in radius to 2, or apply its damage bonus to all of your weapons, whichever is applicable.
+
+Your {{t|Kinetic Shield}} will have 100% absorption efficiency and will absorb twice the normal amount of damage.
+
+{{t|Mindlash}} will also inflict stun.
+
+{{t|Kinetic Leech}} will put enemies to sleep.
+
+{{t|Kinetic Strike}} will hit 2 adjacent enemies in a sweeping attack.
+
+The damage bonus and resistance penetration scale with your Mindpower.
+
+Only one Transcendent talent may be in effect at a time.
+}}

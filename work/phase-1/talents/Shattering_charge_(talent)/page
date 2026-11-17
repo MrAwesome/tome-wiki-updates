@@ -1,0 +1,4 @@
+{{Ability_box|game_version=1.7.6|image=Shattering charge.png|name=Shattering charge|category_type=[[Psionic (category type)|Psionic]]|category=[[Augmented mobility (category)|Augmented mobility]]|desc=
+You expend massive amounts of energy to launch yourself across {{ctl|10|6|9}} squares at incredible speed. All enemies in your path will be knocked flying and dealt between {{ctmd|13.33333333|120}} and {{ctmd|20|180}} Physical damage.
+At talent level 5, you can batter through solid walls.
+}}

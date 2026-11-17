@@ -1,0 +1,20 @@
+{{Ability_box
+|game_version=1.7.6
+|image=reaping.png
+|name=Reaping
+|category_type={{ct|Spell}}
+|category={{c|Animus}}
+|require={{TalentReq/SpellsReq4}}
+|use_mode=Sustained
+|use_speed=Spell
+|cost=30 Mana
+|cooldown=30
+|desc=
+You draw constant power from the souls you hold within your grasp.
+
+If you hold at least 2, your mana regeneration is increased by {{cts|0.5|3}} per turn.
+
+If you hold at least 5, your spellpower is increased by {{cts|10|40}}.
+
+If you hold at least 8, all your resistances are increased by {{ctl|20|5|10}}.
+}}

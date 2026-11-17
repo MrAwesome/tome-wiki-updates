@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "bd0c11c908e536eb578e88654347d4c7878ec05f3f702b80a73300758d5a1848",
+    "revid": 15173
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Overgrowth_(talent)",
+    "kind": "talent",
+    "pageid": 5296,
+    "wiki_title": "Overgrowth (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "8ccca38781e74a6eff49bd321c53d940e63bb1f53e694637a90ada473aa93a90",
+    "source_sha256": "e688d681d04434c01cf5246a35de54b0a91aa8e9df43243fded8732f5e72ad7f",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "8ccca38781e74a6eff49bd321c53d940e63bb1f53e694637a90ada473aa93a90",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

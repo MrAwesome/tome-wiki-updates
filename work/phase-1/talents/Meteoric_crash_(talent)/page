@@ -1,0 +1,35 @@
+{{Ability box
+|game_version=1.7.6
+|image=Meteoric crash.png
+|name=Meteoric Crash
+|category_type=[[Prodigies]]
+|category=[[Prodigies#Willpower|Willpower]]
+|require=Willpower 50<br />A meteor has crashed, from any of the following (only required when playing [[Maj'Eyal: The Age of Ascendancy]] or [[Orcs: Embers of Rage]]):
+* {{t|Meteor Slam}}, {{t|Rain of Fire}}, {{t|Anomaly Meteor}}, {{t|Meteor Rain}}, or {{t|Meteoric Crash}} itself.
+* The random meteor event in [[Daikara]], [[Old Forest]], [[Golem Graveyard]], [[Mark of the Spellblaze]] or [[Erúan]]. Each zone has a single 7% chance (10% in Erúan) to contain the event, rolled once per character when the zone is first entered; if it succeeds, the event is placed on one random floor. It only triggers when the player gets within 3 tiles of the hidden impact location.
+You do not need line of sight to the meteor.
+|use_mode=Passive
+|cooldown=15
+|desc=
+When casting damaging spells or mind attacks, the release of your willpower can call forth a meteor to crash down near your foes.
+
+The meteor deals {{fire}} and {{physical}} damage in radius 2, each equal to 25 + 2.5 × the higher of your Spellpower and Mindpower, and stuns enemies for 3 turns.
+
+Lava is created in radius 3 around the impact dealing {{fire}} damage per turn for 8 turns, equal to 30 + the higher of your Spellpower and Mindpower. This will overwrite tiles that already have modified terrain.
+
+You and your allies take no damage from either effect.
+
+Additionally, your {{fire}} damage bonus and resistance penetration is set to your current highest damage bonus and resistance penetration. This applies to all {{fire}} damage you deal.
+
+The damage scales with your Spellpower or Mindpower.
+}}
+===Notes===
+*The meteor can trigger at most once per turn, and only when your spell or mind power actually damages a creature. It lands on that creature's tile.
+*Damage and stun chance use whichever of Spellpower and Mindpower is higher. Both the meteor and the lava can critically hit.
+*Only the center tile of the impact is always turned to lava. Every other tile in radius 3 has a 40% chance.
+*The description is wrong about modified terrain. The lava can't replace terrain that is already changed by another temporary effect. This includes:
+**Lava from any meteor, including {{t|Meteor Slam}} and {{t|Anomaly Meteor}}
+**Lava from volcano effects such as {{t|Erupting Darkness}} and {{t|Seismic Activity}}
+**Summoned walls such as {{t|Stone Wall}}, {{t|Ice Wall}} or {{t|Materialize Barrier}}
+**Other temporary ground such as {{t|Jumpgate}} or {{t|Forge Bellows}}
+*{{t|Meteor Slam}} and {{t|Rain of Fire}} require [[Ashes of Urh'Rok]].

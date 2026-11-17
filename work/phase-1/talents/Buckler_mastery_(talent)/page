@@ -1,0 +1,11 @@
+{{Ability_box
+|game_version=1.7.6
+|image=Skirmisher_buckler_mastery.png
+|name=Buckler Mastery
+|category_type={{ct|Technique}}
+|category={{c|Buckler Training}}
+|require={{TalentReq/TechsDexReq3}}
+|use_mode=Passive
+|desc=
+When you are hit by a projectile, physical or otherwise, you have a {{ctl|100%|7.5|37.5%}} chance to deflect it up to {{cts|1|3|log}} squares away.
+}}

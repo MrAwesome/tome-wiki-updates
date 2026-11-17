@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "8ce9058495f10285c172a54794534acb22b9ae59dcc6bc803ea8676d99c17dc2",
+    "revid": 14592
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "baseline_preserved"
+    }
+  ],
+  "identity": {
+    "filename": "Grinding_shield_(talent)",
+    "kind": "talent",
+    "pageid": 4378,
+    "wiki_title": "Grinding shield (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "baseline_preserved",
+    "candidate_page_sha256": "8ce9058495f10285c172a54794534acb22b9ae59dcc6bc803ea8676d99c17dc2",
+    "source_sha256": "2799a7df70a5fc5ef6cd71fd77b9813b1fbc75e67e36426bc10f3f3c33378e28",
+    "status": "unsupported_info",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "8ce9058495f10285c172a54794534acb22b9ae59dcc6bc803ea8676d99c17dc2",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

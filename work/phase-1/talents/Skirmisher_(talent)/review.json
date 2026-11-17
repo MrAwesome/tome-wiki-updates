@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "0238d4b7c18d0dad0d85be13fdd69250f6c83a6e915f2208cd6a0351ef7d2ada",
+    "revid": 22077
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Skirmisher_(talent)",
+    "kind": "talent",
+    "pageid": 1331,
+    "wiki_title": "Skirmisher (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "5c4e408598217c5156c00a60b7dc9ade72f46d587c70dc4d97ac085b27133ed9",
+    "source_sha256": "958b207fd24723fa3b1613c62048b19012df2e24e9b82152eb1ef2485a88aed1",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "5c4e408598217c5156c00a60b7dc9ade72f46d587c70dc4d97ac085b27133ed9",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

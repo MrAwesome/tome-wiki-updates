@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "ae2eceb06fcbf470b1e595fe77a87a34c48b61f5fcffe92a0ecd36208be8873b",
+    "revid": 23334
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Wyrmic_guile_(talent)",
+    "kind": "talent",
+    "pageid": 1325,
+    "wiki_title": "Wyrmic guile (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "0a10d285e938448f3b0b7a4ddd92d15c97b4f9142d586f677ae845d0d6377ad1",
+    "source_sha256": "7c3c30265a1926809c44e6b393a12a23ba8af03a342aa11fc8edcfe907c0b331",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "0a10d285e938448f3b0b7a4ddd92d15c97b4f9142d586f677ae845d0d6377ad1",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

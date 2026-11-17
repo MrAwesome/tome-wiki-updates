@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "c389c37016e312cd2f000eb7a32685c7ebdea8ce36d52e93b5f8f08d610f58ba",
+    "revid": 16435
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:58Z",
+      "event": "deterministic_render_applied",
+      "reason": "baseline_preserved"
+    }
+  ],
+  "identity": {
+    "filename": "Decaying_grounds_(talent)",
+    "kind": "talent",
+    "pageid": 5464,
+    "wiki_title": "Decaying grounds (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "baseline_preserved",
+    "candidate_page_sha256": "c389c37016e312cd2f000eb7a32685c7ebdea8ce36d52e93b5f8f08d610f58ba",
+    "source_sha256": "4dfe91fbc940619caf2b6d5c3b1c8004f96c042c70a96f3f931d1caf6c89b874",
+    "status": "unsupported_info",
+    "updated_at": "2026-11-08T16:08:58Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "c389c37016e312cd2f000eb7a32685c7ebdea8ce36d52e93b5f8f08d610f58ba",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

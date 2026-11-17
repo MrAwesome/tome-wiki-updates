@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "e3dd9341ce7d2e8549c51f23a0aefad408089f8f537a4879b07e544523926cc4",
+    "revid": 11176
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Swallow_(talent)",
+    "kind": "talent",
+    "pageid": 1452,
+    "wiki_title": "Swallow (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "d1a6141817b43f604bf82f718998eb8fd1d7e264403246ae97e8980f513959e2",
+    "source_sha256": "9a5d56c6a573db6b453176555ec60683990c4f064752939e732ff9703a4929d1",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "d1a6141817b43f604bf82f718998eb8fd1d7e264403246ae97e8980f513959e2",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

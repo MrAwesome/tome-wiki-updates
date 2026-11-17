@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "0ad6622366ed9315756676cbf7ddc262f14955024d8e571888acfd7c107c87b2",
+    "revid": 11729
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Energy_absorption_(talent)",
+    "kind": "talent",
+    "pageid": 1668,
+    "wiki_title": "Energy absorption (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "66a202129582da8811d6a2cfd42807d61adaf746470f7f29af1f64b452e85822",
+    "source_sha256": "f76808dba0874313c244b2766942279acb9e3e9b7d9fd16927c88f4bbb73fff4",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "66a202129582da8811d6a2cfd42807d61adaf746470f7f29af1f64b452e85822",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

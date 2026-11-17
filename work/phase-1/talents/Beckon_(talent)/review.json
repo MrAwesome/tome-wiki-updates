@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "9763fd6ccb0fcc00143be432d5c961ee3cb9faef620f3687d0f8f02c11bda353",
+    "revid": 23330
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:58Z",
+      "event": "deterministic_render_applied",
+      "reason": "baseline_preserved"
+    }
+  ],
+  "identity": {
+    "filename": "Beckon_(talent)",
+    "kind": "talent",
+    "pageid": 1141,
+    "wiki_title": "Beckon (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "baseline_preserved",
+    "candidate_page_sha256": "9763fd6ccb0fcc00143be432d5c961ee3cb9faef620f3687d0f8f02c11bda353",
+    "source_sha256": "38eae0c3f4ab833c0e9ab2699bcc9090ba8828fb32dd800bedcc202ed7a25fea",
+    "status": "unsupported_info",
+    "updated_at": "2026-11-08T16:08:58Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "9763fd6ccb0fcc00143be432d5c961ee3cb9faef620f3687d0f8f02c11bda353",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

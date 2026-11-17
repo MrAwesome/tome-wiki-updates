@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "eaeeb2bf4e91504aea7af59134d980a656d836ec42314cff52ee776421ba3d40",
+    "revid": 8226
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:58Z",
+      "event": "deterministic_render_applied",
+      "reason": "baseline_preserved"
+    }
+  ],
+  "identity": {
+    "filename": "Blast_(talent)",
+    "kind": "talent",
+    "pageid": 1371,
+    "wiki_title": "Blast (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "baseline_preserved",
+    "candidate_page_sha256": "eaeeb2bf4e91504aea7af59134d980a656d836ec42314cff52ee776421ba3d40",
+    "source_sha256": "46631029827dac8f1525624d89491d194b26dd2056189b017ece7276f50ca732",
+    "status": "unsupported_info",
+    "updated_at": "2026-11-08T16:08:58Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "eaeeb2bf4e91504aea7af59134d980a656d836ec42314cff52ee776421ba3d40",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

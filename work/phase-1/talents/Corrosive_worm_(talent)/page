@@ -1,0 +1,15 @@
+{{Ability box
+|game_version=1.7.6
+|image=Corrosive worm.png
+|name=Corrosive Worm
+|category_type={{ct|Corruption}}
+|category={{c|Blight}}
+|require={{TalentReq/CorrsReq3}}
+|cooldown=10
+|cost=12 Vim
+|range=10
+|desc=
+Infects the target with a corrosive worm for 6 turns that reduces blight and acid resistance by {{cts|3|20%}} and feeds off damage taken.
+When this effect ends or the target dies the worm will explode, dealing {{ctspd|20|60}} acid damage in a 4 radius ball. This damage will increase by {{ctspd|12|45}} of all damage taken while infected.
+The damage dealt by the effect will increase with spellpower.
+}}

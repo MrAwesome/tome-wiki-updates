@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "745e195bb283ed52373a1e8ce9efdf2be9138c6327d4c61e0320cd5bb6cb1c19",
+    "revid": 22902
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Self-destruction_(talent)",
+    "kind": "talent",
+    "pageid": 7079,
+    "wiki_title": "Self-destruction (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "cce816a1a2dfaf9f2c6644fc00eef796057a05d06aab2c25e09cbac6fcf1eeb2",
+    "source_sha256": "0871cb3a3b12dcdf17442f423f52ffad4462a724a3d2999cf0fc1e24fa039217",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "cce816a1a2dfaf9f2c6644fc00eef796057a05d06aab2c25e09cbac6fcf1eeb2",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

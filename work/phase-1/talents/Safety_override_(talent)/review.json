@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "1c2cd17e333bceb49f4524e94fd69f2ccfdecf2e2cccf4f235b2b6c3fb885502",
+    "revid": 22442
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Safety_override_(talent)",
+    "kind": "talent",
+    "pageid": 6876,
+    "wiki_title": "Safety override (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "07dfcd479146aec267ce3ac872b38a646723fce4115de333939a78b7eaa228a3",
+    "source_sha256": "0b4f50fb9226192436c2c2d6265cb7c6237c3cff4bb9e07d55e37faaa04fb1dd",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "07dfcd479146aec267ce3ac872b38a646723fce4115de333939a78b7eaa228a3",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

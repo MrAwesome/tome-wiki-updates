@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "bffdd0fe3cc0bb3003ab54416060df8df114b45143999022f04d6f0f4a65f0c8",
+    "revid": 22338
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Uncertainty_principle_(talent)",
+    "kind": "talent",
+    "pageid": 5205,
+    "wiki_title": "Uncertainty principle (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "bffdd0fe3cc0bb3003ab54416060df8df114b45143999022f04d6f0f4a65f0c8",
+    "source_sha256": "6bda2c01ed42866462a028bbb2c54b0d45e0dfdbfd459f1439bc16d44b5704cc",
+    "status": "no_change",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "bffdd0fe3cc0bb3003ab54416060df8df114b45143999022f04d6f0f4a65f0c8",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

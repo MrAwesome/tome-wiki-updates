@@ -1,0 +1,16 @@
+{{Ability box
+|image=Grim future.png
+|name=Grim Future
+|category_type={{ct|Corruption}}
+|category={{c|Black-magic}}
+|require={{TalentReq/CorrsReq3}}
+|use_mode=Passive
+|cooldown=24-xx
+|desc=
+The future looks grim indeed... for your foes.
+
+When you kill a creature afflicted with Bleak Outcome, all creatures allied to it in radius {{ctl|8|2|7}} will be dazed for 2 turns.
+
+This effect will only trigger every {{ctl|6|25|15}} turns (after a successful daze has been applied).
+|avail.classes=[[Demonologist]]
+}}

@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "1657352179e786ceb1c84a35538262de20c8709974bdc83168dd46b8c969f603",
+    "revid": 11305
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:58Z",
+      "event": "deterministic_render_applied",
+      "reason": "baseline_preserved"
+    }
+  ],
+  "identity": {
+    "filename": "Braid_lifelines_(talent)",
+    "kind": "talent",
+    "pageid": 4246,
+    "wiki_title": "Braid lifelines (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "baseline_preserved",
+    "candidate_page_sha256": "1657352179e786ceb1c84a35538262de20c8709974bdc83168dd46b8c969f603",
+    "source_sha256": "9565816248968624372bb283504f5ff7f325022d2d3de0b7a20675cd0cf6c956",
+    "status": "unsupported_info",
+    "updated_at": "2026-11-08T16:08:58Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "1657352179e786ceb1c84a35538262de20c8709974bdc83168dd46b8c969f603",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

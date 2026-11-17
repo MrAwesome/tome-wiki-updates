@@ -1,0 +1,15 @@
+{{Ability box
+|game_version=1.7.6
+|image=Golem knockback.png
+|name=Golem Knockback
+|category_type={{ct|Golem}}
+|category={{c|Golem Fighting}}
+|require={{TalentReq/TechsReq1}}
+|cooldown=10
+|range=5
+|cost=5 Stamina
+|desc=
+Your golem rushes to the target, dealing {{ctwd|80|160%}} damage and knocking it back.
+Knockback chance will increase with talent level.
+While rushing the golem becomes ethereal, passing harmlessly through creatures on the path to its target.
+}}

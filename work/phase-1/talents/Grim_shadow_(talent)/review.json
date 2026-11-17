@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "01d8f8950c7c15f5b2322bed9f61d94368802645ec18844ada0901c574ff6df5",
+    "revid": 19399
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Grim_shadow_(talent)",
+    "kind": "talent",
+    "pageid": 6055,
+    "wiki_title": "Grim shadow (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "b050f4fce91cd4b32fce7a68e56c075b8c56be430c0bcc391edb5e6ac5f314c9",
+    "source_sha256": "78355e3e933bd6f6566cdd648554e8896af253a0f74c0a71bb18d7d8ce65f665",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "b050f4fce91cd4b32fce7a68e56c075b8c56be430c0bcc391edb5e6ac5f314c9",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

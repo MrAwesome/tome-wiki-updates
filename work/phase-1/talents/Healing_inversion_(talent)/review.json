@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "200b91f64241a4e1351daf3f7be1d54354f979f3b3fa1a32acf2716b4343b3f0",
+    "revid": 18536
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "baseline_preserved"
+    }
+  ],
+  "identity": {
+    "filename": "Healing_inversion_(talent)",
+    "kind": "talent",
+    "pageid": 3204,
+    "wiki_title": "Healing inversion (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "baseline_preserved",
+    "candidate_page_sha256": "200b91f64241a4e1351daf3f7be1d54354f979f3b3fa1a32acf2716b4343b3f0",
+    "source_sha256": "717328f18ac054652eef915b0ee39f353aca3223074db29c36b148bbbb460c13",
+    "status": "unsupported_info",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "200b91f64241a4e1351daf3f7be1d54354f979f3b3fa1a32acf2716b4343b3f0",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

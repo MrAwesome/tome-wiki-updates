@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "b0eb0da525144c641cfa706fc0d4416a70e3b4a8f7142a927eb777d04ab8af48",
+    "revid": 19050
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:58Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Blood_red_moon_(talent)",
+    "kind": "talent",
+    "pageid": 139,
+    "wiki_title": "Blood red moon (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "20dc28644d65beebf96c2dfae39d35a7658355372625d52b5b888ce402f1fb33",
+    "source_sha256": "c8b7f61c9360402c2b195f817e5f16383f13adf6348541740e8d078049c9bbd2",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:58Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "20dc28644d65beebf96c2dfae39d35a7658355372625d52b5b888ce402f1fb33",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

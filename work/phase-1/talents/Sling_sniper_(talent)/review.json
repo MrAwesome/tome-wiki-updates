@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "cb6bb29bef2bf78eed908a400ec8f8e8b6627867af13a9178ed6bfaa4578ebc3",
+    "revid": 14121
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "baseline_preserved"
+    }
+  ],
+  "identity": {
+    "filename": "Sling_sniper_(talent)",
+    "kind": "talent",
+    "pageid": 3377,
+    "wiki_title": "Sling sniper (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "baseline_preserved",
+    "candidate_page_sha256": "cb6bb29bef2bf78eed908a400ec8f8e8b6627867af13a9178ed6bfaa4578ebc3",
+    "source_sha256": "bdb8cd877d47927b103b6d4cedc08d9cb4cf86790520d4f87a3b90c543c49e37",
+    "status": "unsupported_info",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "cb6bb29bef2bf78eed908a400ec8f8e8b6627867af13a9178ed6bfaa4578ebc3",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

@@ -1,0 +1,14 @@
+{{Ability box
+|game_version=1.7.6
+|image=Writ large.png
+|name=Writ Large
+|category_type={{ct|Race}}
+|category={{c|Ogre}}
+|require={{TalentReq/RacialReq4}}
+|cooldown={{ctl|6|45|25}}
+|use_speed=0
+|desc=
+Instantly removes runic and infusion saturations.
+For {{ctl|15|5|10|false|1}} turns your inscriptions cool down twice as fast.
+At level 5 your command over inscriptions is so good that you can use one more (you still need a category point to unlock it; you need to exit the levelup screen to validate it).
+}}

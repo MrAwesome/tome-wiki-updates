@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "aac1c985e12746a77c5b867178a3b1d2535e3e8bac23b2d78b0a454fbf4afb22",
+    "revid": 19249
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Windtouched_speed_(talent)",
+    "kind": "talent",
+    "pageid": 3449,
+    "wiki_title": "Windtouched speed (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "cc7e0fab01c985d4d007f32bf42be6bb9bfe32227eb5d35ac143630ecc97f06d",
+    "source_sha256": "2c885ee19750c56b1cf749b256add8a4f805d55a97bc0155b6724f4dccba5703",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "cc7e0fab01c985d4d007f32bf42be6bb9bfe32227eb5d35ac143630ecc97f06d",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

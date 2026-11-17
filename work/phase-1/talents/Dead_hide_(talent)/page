@@ -1,0 +1,13 @@
+{{Ability box
+|game_version=1.7.6
+|embers_version=1.1.10
+|image=Dead hide.png
+|name=Dead Hide
+|category_type={{ct|Race}}
+|category={{c|Whitehooves}}
+|require={{TalentReq/RacialReq2}}
+|use_speed=Passive
+|cooldown=
+|desc=
+Your undead skin hardens under stress. Each charge of death momentum also increases all flat damage resistance by {{cts|1|6}}. 
+}}

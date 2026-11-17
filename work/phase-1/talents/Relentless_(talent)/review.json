@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "701afa0149afb9c58ac048a128258bf360f5185fb267c44bc397d782e2850668",
+    "revid": 8210
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Relentless_(talent)",
+    "kind": "talent",
+    "pageid": 1723,
+    "wiki_title": "Relentless (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "c2a4193c386674ef91fe90d18159af7301b2d40d14b664a5ed43d464ef4391e9",
+    "source_sha256": "17537c3a931c9220b3a139c73bf66ff759954b94d77ba126616f7ee4e929729e",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "c2a4193c386674ef91fe90d18159af7301b2d40d14b664a5ed43d464ef4391e9",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

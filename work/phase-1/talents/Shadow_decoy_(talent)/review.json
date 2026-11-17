@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "1e93c29f56125317245e60f1b5dcf96998de3e8b9f2630b108331b3f79a86c6f",
+    "revid": 13658
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Shadow_decoy_(talent)",
+    "kind": "talent",
+    "pageid": 3357,
+    "wiki_title": "Shadow decoy (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "b679ff8a00b64a787d21320d90547a0a2509f0d7191827a1d2759e25725da296",
+    "source_sha256": "64b3f25a00038b1f8fda7f8ced5143484c8f364bfaafd084f4726ace2d9973f0",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "b679ff8a00b64a787d21320d90547a0a2509f0d7191827a1d2759e25725da296",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

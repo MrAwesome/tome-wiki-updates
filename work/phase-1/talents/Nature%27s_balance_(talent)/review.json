@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "d1178cdda4c4d6fdd1b1b23d8b86446beb07b7b170f161c7baa0442c984c27ab",
+    "revid": 23014
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Nature%27s_balance_(talent)",
+    "kind": "talent",
+    "pageid": 1165,
+    "wiki_title": "Nature's balance (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "e83659fff383ad7cfe9ae6f28ed1d598ff94aed79a490e789171b8630f22a6af",
+    "source_sha256": "b2df31016f55fb32b4e989d1fcb6e094f9c39e3d2cb9431e87be77f5f476e6b9",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "e83659fff383ad7cfe9ae6f28ed1d598ff94aed79a490e789171b8630f22a6af",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

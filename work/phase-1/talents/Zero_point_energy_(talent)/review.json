@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "319b9f7b8a3955d39d8e2287fc8bada1481e790a9324a9c4f6615b337cfcaaf5",
+    "revid": 18706
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Zero_point_energy_(talent)",
+    "kind": "talent",
+    "pageid": 5951,
+    "wiki_title": "Zero point energy (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "40445df9a69a22ed1ba1e9530da8a96c3b0be8f30e8f5ab5460dc7b048fadddb",
+    "source_sha256": "23ca78691a34de2e7cc9b589d19f244cf85596d15947688dddfd376e04455bde",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "40445df9a69a22ed1ba1e9530da8a96c3b0be8f30e8f5ab5460dc7b048fadddb",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

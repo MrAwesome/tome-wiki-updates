@@ -1,0 +1,19 @@
+{{Ability box
+|game_version=1.7.6
+|image=Lightning speed.png
+|name=Lightning Speed
+|category_type={{ct|Wild-Gift}}
+|category={{c|Storm Drake Aspect}}
+|require={{TalentReq/GiftsReq1}}
+|cost=10 Equilibrium
+|cooldown=26
+|range=10
+|use_speed=0
+|desc=
+You transform into pure lightning, moving {{cts|470|750%|0.75}} faster for {{cts|2|4}} game turns.
+Also provides 30% physical damage resistance and 100% lightning resistance.
+Any actions other than moving will stop this effect.
+Note: since you will be moving very fast, game turns will pass very slowly.
+Levels in Lightning Speed additionally raises your Movement Speed by {{cts|8|40%|0.7}}, passively.
+Each point in storm drake talents also increases your lightning resistance by 1%.
+}}

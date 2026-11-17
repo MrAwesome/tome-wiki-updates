@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "6e627e88bbcbadb993bc87a1da72baa18c99303f323c64ac8e5aee00c435f90c",
+    "revid": 10366
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:58Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Dwarven_unity_(talent)",
+    "kind": "talent",
+    "pageid": 3904,
+    "wiki_title": "Dwarven unity (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "f0bebca0d1fc57dd56a68e70aa52517cf690736703cced153d275209300aaa55",
+    "source_sha256": "6d3dbf7f7cdd19eee8345a5c5acba820b4cdc6dd1b9f354dd3e91d48357724fb",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:58Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "f0bebca0d1fc57dd56a68e70aa52517cf690736703cced153d275209300aaa55",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

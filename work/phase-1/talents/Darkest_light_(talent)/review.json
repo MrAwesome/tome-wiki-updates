@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "6f950fff05cb40f0d21a1dfc85714f1e2be9d21037a376951a1a21e5a9a657d4",
+    "revid": 19053
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:58Z",
+      "event": "deterministic_render_applied",
+      "reason": "baseline_preserved"
+    }
+  ],
+  "identity": {
+    "filename": "Darkest_light_(talent)",
+    "kind": "talent",
+    "pageid": 137,
+    "wiki_title": "Darkest light (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "baseline_preserved",
+    "candidate_page_sha256": "6f950fff05cb40f0d21a1dfc85714f1e2be9d21037a376951a1a21e5a9a657d4",
+    "source_sha256": "c8b7f61c9360402c2b195f817e5f16383f13adf6348541740e8d078049c9bbd2",
+    "status": "unsupported_info",
+    "updated_at": "2026-11-08T16:08:58Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "6f950fff05cb40f0d21a1dfc85714f1e2be9d21037a376951a1a21e5a9a657d4",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

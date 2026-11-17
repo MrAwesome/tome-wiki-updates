@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "87b0d0fe5e1a2e1553c533d4d8447b870e62bc22edae0f6dc526732bb484b777",
+    "revid": 13771
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Rapid_shot_(talent)",
+    "kind": "talent",
+    "pageid": 1363,
+    "wiki_title": "Rapid shot (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "ecd9a1bccbf3188629d9cbef9fd8c290348da26045bc72fd19e6510690b43011",
+    "source_sha256": "b0b1c7bd745a5f76e39c283c4a310efa4bf04968ecbfa868f67cada956280ae2",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "ecd9a1bccbf3188629d9cbef9fd8c290348da26045bc72fd19e6510690b43011",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

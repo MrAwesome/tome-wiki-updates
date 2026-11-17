@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "9632bb69d6b23487f96579a312aae798aad6b974a6f7fb446d46f28d372b20a3",
+    "revid": 11165
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Hurricane_throw_(talent)",
+    "kind": "talent",
+    "pageid": 3298,
+    "wiki_title": "Hurricane throw (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "961c8b09b43d2a1f064eb944b3c736874ad425c037bf1813c38e7bc2a03cebfc",
+    "source_sha256": "673d746fc2eeec72962afaa52d4e00f644b3d855a0ebb749c30af2ac9ff752eb",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "961c8b09b43d2a1f064eb944b3c736874ad425c037bf1813c38e7bc2a03cebfc",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

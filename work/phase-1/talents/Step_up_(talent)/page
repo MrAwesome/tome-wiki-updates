@@ -1,0 +1,14 @@
+{{Ability_box
+|image=Step up.png
+|name=Step up
+|category_type=[[Technique (category type)|Technique]]
+|category=[[Battle tactics (category)|Battle tactics]]
+|require={{TalentReq/TechsReqHigh2}}
+|use_mode=Passive
+|desc=
+After killing a foe, you have a (20 * Raw Talent Level)% chance to gain a 1000% movement speed bonus for 1 game turn.
+
+The bonus disappears as soon as any action other than moving is done.
+
+Note: since you will be moving very fast, game turns will pass very slowly.
+}}

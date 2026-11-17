@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "1e240e3d8f01b6cb8451fedcf6032d6986ba9f4de61e292bfd254a034629a079",
+    "revid": 14975
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "baseline_preserved"
+    }
+  ],
+  "identity": {
+    "filename": "Elemental_surge_(talent)",
+    "kind": "talent",
+    "pageid": 3479,
+    "wiki_title": "Elemental surge (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "baseline_preserved",
+    "candidate_page_sha256": "1e240e3d8f01b6cb8451fedcf6032d6986ba9f4de61e292bfd254a034629a079",
+    "source_sha256": "e8f5d9281e0eed2b487a52666a6e8551d29371627cd1a604154296c3ae8b6979",
+    "status": "unsupported_info",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "1e240e3d8f01b6cb8451fedcf6032d6986ba9f4de61e292bfd254a034629a079",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

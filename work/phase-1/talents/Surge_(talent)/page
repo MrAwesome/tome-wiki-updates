@@ -1,0 +1,18 @@
+{{Ability box
+|image=Surge.png
+|name=Surge
+|category_type={{ct|Cursed}}
+|category={{c|Endless Hunt}}
+|require={{TalentReq/CursedWilReq4}}
+|use_mode=Sustained
+|cooldown=10
+|use_speed=0
+|desc=
+Let hate fuel your movements. While active, you gain {{ctstd|Wil|10|110%}} movement speed. The recklessness of your movement reduces your luck by 3.
+
+{{t|Cleave}}, {{t|Repel}} and {{t|Surge}} cannot be active simultaneously, and activating one will place the others in cooldown. 
+
+The speed of your movements, combined with the balance and utility of two weapons, gives you {{ctstd|Wil|4|40}} extra Defense while dual-wielding.
+
+Movement speed and dual-wielding Defense both increase with with the Willpower stat.
+}}

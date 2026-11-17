@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "fe9d761d89e9190d546fb3bbd14e94176b55bc84b5d81b9bb3b0540e7e7375af",
+    "revid": 14968
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Lucky_day_(talent)",
+    "kind": "talent",
+    "pageid": 3471,
+    "wiki_title": "Lucky day (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "c2f4470d6ddd67914ec5db14bd23f300260441b4a27ee223477bca6caeb7f959",
+    "source_sha256": "bde073032f50b20d456193dd79131b7e54e2dcdfc42ca92736e6f406e8c28931",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "c2f4470d6ddd67914ec5db14bd23f300260441b4a27ee223477bca6caeb7f959",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

@@ -1,0 +1,23 @@
+{{Ability box
+|game_version=1.7.6
+|image=Subcutaneous metallisation.png
+|name=Subcutaneous Metallisation
+|category_type=[[Prodigies]]
+|category=[[Prodigies#Constitution|Constitution]]
+|require=Constitution 50<br />{{t|Thick Skin}} 5
+|use_mode=Passive
+|cooldown=12
+|desc=
+When your life dips below 50% of your total life an automated process turns some of your lower skin layers (or other internal organs) into a thick metallic layer for 6 turns.
+
+While the effect lasts all damage done to you is reduced by a flat amount equal to 100% of your Constitution.
+
+This effect can only trigger once every 12 turns.
+}}
+===Notes===
+*It only triggers when a single hit takes you from above 50% life to below 50% life. It will not trigger if you are already at or below 50% life.
+*The hit that triggers the effect is not reduced.
+*The reduction equals your Constitution (rounded down) at the moment it triggers. It doesn't change during the effect.
+*The reduction applies separately to each instance of damage, after resistances.
+
+<noinclude>[[Category: Embers of Rage]]</noinclude>

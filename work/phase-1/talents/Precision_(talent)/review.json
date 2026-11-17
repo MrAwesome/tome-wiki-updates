@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "bd28b1bdfce1e2c0938ed804e2e4a0d1bd902176b1dcf7af079c062354734d08",
+    "revid": 7693
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Precision_(talent)",
+    "kind": "talent",
+    "pageid": 1350,
+    "wiki_title": "Precision (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "6bacdfab4171e5b671e0c1a399e07656109d3e882be40d17bbdbb8639ab14515",
+    "source_sha256": "dc640c1af5d22a45472d843380c9de01334530b3831bd2b9fe88ee0cba3abc23",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "6bacdfab4171e5b671e0c1a399e07656109d3e882be40d17bbdbb8639ab14515",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

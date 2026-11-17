@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "3042d0822db5f4e1d44aee543609e74a5068d3435ccaa8d0c48c0959e6b1c0ba",
+    "revid": 18716
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "baseline_preserved"
+    }
+  ],
+  "identity": {
+    "filename": "Grand_oration_(talent)",
+    "kind": "talent",
+    "pageid": 5963,
+    "wiki_title": "Grand oration (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "baseline_preserved",
+    "candidate_page_sha256": "3042d0822db5f4e1d44aee543609e74a5068d3435ccaa8d0c48c0959e6b1c0ba",
+    "source_sha256": "e68880092dbc5bfa5b8624f75b26297b163dca4b33d6dac38aba3760d6dd5b7e",
+    "status": "unsupported_info",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "3042d0822db5f4e1d44aee543609e74a5068d3435ccaa8d0c48c0959e6b1c0ba",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

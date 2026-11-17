@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "400060ccfbf1c27673c7276e0e7731f05d99fbfb3f46be490c0f847838b3cfee",
+    "revid": 16980
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Psychic_wipe_(talent)",
+    "kind": "talent",
+    "pageid": 5595,
+    "wiki_title": "Psychic wipe (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "beaabd91fa6f214d00231578fa360fe0ebaf6a6810a00d4d5c035889a5674311",
+    "source_sha256": "ce34a6e5f5b91f2b91177576337ae70f227e9e043431c15f01591b47d9cf362c",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "beaabd91fa6f214d00231578fa360fe0ebaf6a6810a00d4d5c035889a5674311",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

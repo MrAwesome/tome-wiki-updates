@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "fab4b23562efed5a7ce73d4c75d0506875ebb3a20bb7f30f49c5082700d70cdc",
+    "revid": 8333
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "baseline_preserved"
+    }
+  ],
+  "identity": {
+    "filename": "Glyph_of_paralysis_(talent)",
+    "kind": "talent",
+    "pageid": 125,
+    "wiki_title": "Glyph of paralysis (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "baseline_preserved",
+    "candidate_page_sha256": "fab4b23562efed5a7ce73d4c75d0506875ebb3a20bb7f30f49c5082700d70cdc",
+    "source_sha256": "a23e1716240c831103adaef4912428f406fc6c23e9078ca024756985fa0621ed",
+    "status": "unsupported_info",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "fab4b23562efed5a7ce73d4c75d0506875ebb3a20bb7f30f49c5082700d70cdc",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

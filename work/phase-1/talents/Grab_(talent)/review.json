@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "4ec0c3f00c540a82866c366a24f982dc0e6fc4f070429acbd5e6577e4587d3dc",
+    "revid": 9924
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Grab_(talent)",
+    "kind": "talent",
+    "pageid": 2935,
+    "wiki_title": "Grab (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "4fdac52fce15f150161f9f9f8fd3db67768c4b2a765bebe1a21911c68dcd3183",
+    "source_sha256": "dc640c1af5d22a45472d843380c9de01334530b3831bd2b9fe88ee0cba3abc23",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "4fdac52fce15f150161f9f9f8fd3db67768c4b2a765bebe1a21911c68dcd3183",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "e41aa928cab9125069a8cbb11ae6a8cb9276de46e9116c0ac555130728605c5f",
+    "revid": 2024
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:58Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Augmented_shot_(talent)",
+    "kind": "talent",
+    "pageid": 1670,
+    "wiki_title": "Augmented shot (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "a90df4eb4d895f0737294086e07b2f9087eeb16005a7481817afd770a00c11ca",
+    "source_sha256": "e43019d76e48860b5d970fe9a4b89a4a9d1722ab21c2eb34729c9d77edbab062",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:58Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "a90df4eb4d895f0737294086e07b2f9087eeb16005a7481817afd770a00c11ca",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

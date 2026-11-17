@@ -1,0 +1,17 @@
+{{Ability box
+|image=Condensate.png
+|name=Condensate
+|game_version=1.7.6
+|embers_version=1.1.10
+|category_type={{ct|Psionic}}
+|category={{c|Action at a distance}}
+|require={{TalentReq/PsiWilReq1}}
+|use_mode=Activated
+|range=7
+|cost=10 Steam + 10 Psi
+|cooldown=5
+|use_speed=Mind
+|desc=
+Condensate hot steam around your foes in radius {{ctl|4|1|4}}, burning them for {{ctmd|25|300}} {{fire}} damage and applying the wet effect for 4 turns, halving their stun resistances.
+The damage will increase with your Mindpower.
+}}

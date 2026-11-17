@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "e93a7e328aa1ae62a811b210e5d8ae283dd9deff22efa55c3e34bd0cbd273e97",
+    "revid": 22956
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "baseline_preserved"
+    }
+  ],
+  "identity": {
+    "filename": "Heavy_armour_training_(talent)",
+    "kind": "talent",
+    "pageid": 5976,
+    "wiki_title": "Heavy armour training (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "baseline_preserved",
+    "candidate_page_sha256": "e93a7e328aa1ae62a811b210e5d8ae283dd9deff22efa55c3e34bd0cbd273e97",
+    "source_sha256": "2a22a6458e415ec78f1058dc1241f903ca7414b78693474b1cafc3d1d35b5e7f",
+    "status": "unsupported_info",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "e93a7e328aa1ae62a811b210e5d8ae283dd9deff22efa55c3e34bd0cbd273e97",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

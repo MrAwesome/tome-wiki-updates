@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "a0aec26878d2e24f5f7198b14b2e228e94f4555746a350fb6ef62d31d52063f2",
+    "revid": 5827
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Explode_(talent)",
+    "kind": "talent",
+    "pageid": 2951,
+    "wiki_title": "Explode (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "945460926ea6f32346e8fd190a2aecff6a75adc5f1e7e8d735a5655229720c18",
+    "source_sha256": "dc640c1af5d22a45472d843380c9de01334530b3831bd2b9fe88ee0cba3abc23",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "945460926ea6f32346e8fd190a2aecff6a75adc5f1e7e8d735a5655229720c18",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "8489ec04968591e2d5d81f390ef0dc4cf5eb27f5b14fa7e1d6237ff9dfa26598",
+    "revid": 19407
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Recall_minions_(talent)",
+    "kind": "talent",
+    "pageid": 6061,
+    "wiki_title": "Recall minions (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "84dfd988c98131a5d5a8176c87f4aa0f837ee1eceb06ea39d303b63faa0b0ff0",
+    "source_sha256": "85fdf14716218be4e56f4fe3441e60113ce4aae779a626c9d68e12a0cefbab28",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "84dfd988c98131a5d5a8176c87f4aa0f837ee1eceb06ea39d303b63faa0b0ff0",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

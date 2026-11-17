@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "62db6d673e8215325610198a027e503d9b24568f0aa90175751f9b5c03d3da2e",
+    "revid": 11259
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:58Z",
+      "event": "deterministic_render_applied",
+      "reason": "baseline_preserved"
+    }
+  ],
+  "identity": {
+    "filename": "Dimensional_anchor_(talent)",
+    "kind": "talent",
+    "pageid": 4227,
+    "wiki_title": "Dimensional anchor (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "baseline_preserved",
+    "candidate_page_sha256": "62db6d673e8215325610198a027e503d9b24568f0aa90175751f9b5c03d3da2e",
+    "source_sha256": "758107c693dabfa147769a0b2baade273c9108507539c011e19338c98825ca9e",
+    "status": "unsupported_info",
+    "updated_at": "2026-11-08T16:08:58Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "62db6d673e8215325610198a027e503d9b24568f0aa90175751f9b5c03d3da2e",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

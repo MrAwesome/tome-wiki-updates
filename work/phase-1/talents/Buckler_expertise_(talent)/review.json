@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "2c564a82c95be9f34d48edb53a662069042b2cdc5bc2b528b702e0e0c3a1a84d",
+    "revid": 12100
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:58Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Buckler_expertise_(talent)",
+    "kind": "talent",
+    "pageid": 3219,
+    "wiki_title": "Buckler expertise (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "a7d48e442ad018f536c3ec9fe8b5b41377d9139fa2cd306f88b5e4f353b4fbc1",
+    "source_sha256": "1f5392c98082bc88d6f2840ea095542618facc75a78082886b9c0efa8a77e86c",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:58Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "a7d48e442ad018f536c3ec9fe8b5b41377d9139fa2cd306f88b5e4f353b4fbc1",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

@@ -1,0 +1,15 @@
+{{Ability_box
+|image=Multishot.png
+|name=Multishot
+|category_type={{ct|Technique}}
+|category={{c|Archery - Slings}}
+|require={{TalentReq/TechsDexReq4}}
+|use_mode=Activated
+|range=Archery Range
+|cost=35 Stamina
+|cooldown=12
+|desc=
+You fire an average of {{cts|2.8|4.3|log}} shots at your target, doing {{ctwd|30|70%}} damage with each shot.
+
+''Note: The number of shots fired can vary to ensure that you get the correct average number of shots. If you are supposed to fire 3.65 shots for example, then you will always fire 3 shots and have a 65% chance to fire a 4th one.''
+}}

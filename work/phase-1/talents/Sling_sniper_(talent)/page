@@ -1,0 +1,10 @@
+{{Ability_box
+|image=skirmisher_sling_sniper.png
+|name=Sling Sniper
+|category_type={{ct|Cunning}}
+|category={{c|Called Shots}}
+|require={{TalentReq/TechsCunReq4}}
+|use_mode=Passive
+|desc=
+Your mastery of called shots is unparalleled. and you gain {{cts|3|10}} bonus critical chance and {{cts|10|20%|0.75}} critical damage with your Called Shots Talents. At rank 3 the cooldowns of all of your Called Shots Talents are reduced by 2 each. At rank 5 you gain {{csl|Cun|100%|15|50%}} Physical resistance penetration with all Called Shot attacks.
+}}

@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "4e6f1799a46b4805dd45323df955eb5794fc755ae3a1d564aab97b18d44c40f3",
+    "revid": 22504
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Stormcoil_generator_(talent)",
+    "kind": "talent",
+    "pageid": 6278,
+    "wiki_title": "Stormcoil generator (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "4e6f1799a46b4805dd45323df955eb5794fc755ae3a1d564aab97b18d44c40f3",
+    "source_sha256": "d4a229c033179400bfeecdf22a6d8c7d8b890754f25cecd82908d413c3fa5102",
+    "status": "no_change",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "4e6f1799a46b4805dd45323df955eb5794fc755ae3a1d564aab97b18d44c40f3",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

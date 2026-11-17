@@ -1,0 +1,16 @@
+{{Ability_box
+|image=Stone vines.png
+|name=Stone vines
+|category_type={{ct|Wild-gift}}
+|category={{c|Earthen Vines}}
+|require={{TalentReq/GiftsReq1}}
+|cooldown=10
+|cost=15 Sustained Equilibrium
+|use_mode=Sustained
+|desc=
+From the ground around you, you form living stone vines extending from your feet.
+Each turn the vines will attempt to seize a target within a radius {{cts|4.5|6.5}}.
+Affected creatures are pinned to the ground and take {{ctstd|Wil|3|50}} Physical damage (And additional arcane if Eldritch vines are skilled) each turn for 10 turns.
+A creature entangled by the vines will have a chance to break free each turn and will automatically succeed if it is more than {{cts|5|9}} grids away from you. The chance to affect targets and damage increase with talent level and Willpower.
+While Earthen vines are active your movement speed is reduced by 50%.
+}}

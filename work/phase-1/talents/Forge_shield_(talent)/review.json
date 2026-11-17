@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "358b096788ebf2dbaeced521866cb11e5dae87e4c3dbd8616cc1bc7f017d2eb4",
+    "revid": 19751
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Forge_shield_(talent)",
+    "kind": "talent",
+    "pageid": 1207,
+    "wiki_title": "Forge shield (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "9568da68ff5b94cf7d7a4ec0aaf1285befeead75b1cac168d5a68b2a7c451d68",
+    "source_sha256": "038ef6cffb16df4810d183097d50eace33659e85a225d2e4cc1eec103b63deaa",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "9568da68ff5b94cf7d7a4ec0aaf1285befeead75b1cac168d5a68b2a7c451d68",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

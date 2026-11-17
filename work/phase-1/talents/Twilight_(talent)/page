@@ -1,0 +1,15 @@
+{{Ability box
+|name=Twilight
+|image=Twilight.png
+|game_version=1.7.4
+|category_type={{ct|Celestial}}
+|category={{c|Twilight}}
+|require={{TalentReq/DiviReq1}}
+|cost=15 Positive
+|cooldown=6
+|use_speed=Spell
+|desc=
+You stand between the darkness and the light, allowing you to convert 15 positive energy into {{cs|(0.4 * Cun * Talent Level)|24|4|220|200|||40}} negative energy.
+
+The negative energy gain will increase with your Cunning.
+}}

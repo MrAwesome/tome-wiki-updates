@@ -1,0 +1,13 @@
+{{Ability_box
+|game_version=1.7.6
+|image=Nimble movements.png
+|name=Nimble movements
+|category_type=[[Cunning (category type)|Cunning]]
+|category=[[Scoundrel (category)|Scoundrel]]
+|require={{TalentReq/CunsReq3}}
+|use_mode=Activated
+|range={{cts|6.8|8.6}}
+|cooldown={{ctl|5|31.9|17}}
+|desc=
+Quickly and quietly dash your way to the target square, if it is not blocked by enemies or obstacles. This talent will not break Stealth.
+}}

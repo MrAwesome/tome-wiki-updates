@@ -1,0 +1,11 @@
+{{Ability_box
+|image=Self_persistence.png
+|name=Self Persistence
+|game_version=1.7.6
+|category_type={{ct|Psionic}}
+|category={{c|Possession}}
+|require={{TalentReq/PsiWilReq2}}
+|use_mode=Passive
+|desc=
+When you assume the form of an other body you can still keep {{CTL|90%|0|80%}} of the values (defences, crits, powers, save, ...) of your own body.
+}}

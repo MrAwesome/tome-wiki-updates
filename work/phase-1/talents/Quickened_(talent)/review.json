@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "b694002a8deecdae8161b179d1018b9da0e0a9180b575217991527a90018884e",
+    "revid": 22081
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "baseline_preserved"
+    }
+  ],
+  "identity": {
+    "filename": "Quickened_(talent)",
+    "kind": "talent",
+    "pageid": 1521,
+    "wiki_title": "Quickened (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "baseline_preserved",
+    "candidate_page_sha256": "b694002a8deecdae8161b179d1018b9da0e0a9180b575217991527a90018884e",
+    "source_sha256": "958b207fd24723fa3b1613c62048b19012df2e24e9b82152eb1ef2485a88aed1",
+    "status": "unsupported_info",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "b694002a8deecdae8161b179d1018b9da0e0a9180b575217991527a90018884e",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

@@ -1,0 +1,13 @@
+{{Ability box
+|image=Sacrifice.png
+|name=Sacrifice
+|category_type={{ct|Spell}}
+|category={{c|Advanced Necrotic Minions}}
+|require={{TalentReq/SpellsReqHigh3}}
+|cost=5 Mana
+|cooldown=25
+|desc=
+Sacrifice a bone giant minion. Using its bones, you make a temporary shield around you that prevents any attacks from doing more than {{ctl|10%|22.5|16.5%}} of your total life.
+
+The effect lasts for (4 + {{ctspd|8|20}}) turns.
+}}

@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "98b74657d7ecf41a51616d90d91e527eb0387e9067e1c891b267a5d28a0a40d7",
+    "revid": 12102
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:58Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Bash_and_smash_(talent)",
+    "kind": "talent",
+    "pageid": 3220,
+    "wiki_title": "Bash and smash (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "0cf269bee9ae0649ff515992bd3e653d57529592835b914c4d9cc5de7c9c299e",
+    "source_sha256": "1f5392c98082bc88d6f2840ea095542618facc75a78082886b9c0efa8a77e86c",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:58Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "0cf269bee9ae0649ff515992bd3e653d57529592835b914c4d9cc5de7c9c299e",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

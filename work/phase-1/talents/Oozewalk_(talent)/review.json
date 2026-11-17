@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "984f65b09bd5d4e65ed1511542a1df4cd7eb6b0e4ba1d955cb9224d9010bf899",
+    "revid": 19152
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "baseline_preserved"
+    }
+  ],
+  "identity": {
+    "filename": "Oozewalk_(talent)",
+    "kind": "talent",
+    "pageid": 1378,
+    "wiki_title": "Oozewalk (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "baseline_preserved",
+    "candidate_page_sha256": "984f65b09bd5d4e65ed1511542a1df4cd7eb6b0e4ba1d955cb9224d9010bf899",
+    "source_sha256": "5c18b293d180b321a6afc0cf859a97373c9f25a09e150bb19e20a6681ac67156",
+    "status": "unsupported_info",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "984f65b09bd5d4e65ed1511542a1df4cd7eb6b0e4ba1d955cb9224d9010bf899",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

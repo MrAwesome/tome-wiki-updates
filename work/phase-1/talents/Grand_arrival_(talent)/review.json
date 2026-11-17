@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "d2882b40b36a1f2e50cd19562f900671b6a516dbbc543d0e11a2a2258f753819",
+    "revid": 8884
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "baseline_preserved"
+    }
+  ],
+  "identity": {
+    "filename": "Grand_arrival_(talent)",
+    "kind": "talent",
+    "pageid": 1459,
+    "wiki_title": "Grand arrival (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "baseline_preserved",
+    "candidate_page_sha256": "d2882b40b36a1f2e50cd19562f900671b6a516dbbc543d0e11a2a2258f753819",
+    "source_sha256": "ee8efc9c97c7ec3dbc0537b8cbc2e32b460a2c8ce0a08565286308f9f54c49b5",
+    "status": "unsupported_info",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "d2882b40b36a1f2e50cd19562f900671b6a516dbbc543d0e11a2a2258f753819",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

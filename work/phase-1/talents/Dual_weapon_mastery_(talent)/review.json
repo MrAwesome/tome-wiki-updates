@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "3086bc8ca9b6dddeb4cc6c39c310b7fe2ce5abb338429e4288122253983a4a0f",
+    "revid": 13704
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:58Z",
+      "event": "deterministic_render_applied",
+      "reason": "baseline_preserved"
+    }
+  ],
+  "identity": {
+    "filename": "Dual_weapon_mastery_(talent)",
+    "kind": "talent",
+    "pageid": 4673,
+    "wiki_title": "Dual weapon mastery (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "baseline_preserved",
+    "candidate_page_sha256": "3086bc8ca9b6dddeb4cc6c39c310b7fe2ce5abb338429e4288122253983a4a0f",
+    "source_sha256": "93f98940d59098b5e1f13ea1ec13599ad0b4620c4ff0316bcbf3d3eb842b6a14",
+    "status": "unsupported_info",
+    "updated_at": "2026-11-08T16:08:58Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "3086bc8ca9b6dddeb4cc6c39c310b7fe2ce5abb338429e4288122253983a4a0f",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

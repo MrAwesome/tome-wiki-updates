@@ -1,0 +1,15 @@
+{{Ability box
+|game_version=1.7.6
+|image=Thread the needle.png
+|name=Thread the Needle
+|category_type={{ct|Chronomancy}}
+|category={{c|Threaded Combat}}
+|require={{TalentReq/ChronoReqHigh3}}
+|cooldown=8
+|cost=18 Paradox
+|range=Weapon range
+|desc=
+Attack with your bow or dual-weapons for {{ctwd|110|220%}} damage.  If you use your bow you'll shoot all targets in a beam.  If you use your dual-weapons you'll attack all targets within a radius of one around you.
+	
+
+}}

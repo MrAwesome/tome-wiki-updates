@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "aa85b7cb78b94db185cbf727f3294e20dbfc0a60bd9eb0bc0473e5290a67140d",
+    "revid": 8252
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Feed_strengths_(talent)",
+    "kind": "talent",
+    "pageid": 1250,
+    "wiki_title": "Feed strengths (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "0b2d051c4d00e14a7f43193751ac2943278b8c04e9aa738f955736e7e05dd73c",
+    "source_sha256": "d4aeee3a3af35aad4576eadb78e716ab026f62c61dcbb878056042ad1295d02e",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "0b2d051c4d00e14a7f43193751ac2943278b8c04e9aa738f955736e7e05dd73c",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

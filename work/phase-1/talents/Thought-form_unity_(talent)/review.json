@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "d4cea572a3492ae2086aed506d4b8cab0e4c2a671ed33f3db9024f144ccd60af",
+    "revid": 7764
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Thought-form_unity_(talent)",
+    "kind": "talent",
+    "pageid": 1354,
+    "wiki_title": "Thought-form unity (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "75acf2d6d472d0e83c6b3bc35390884844519cdde2fbdda60f3c01e9eaeb59d7",
+    "source_sha256": "7cbcd6ff95fb4427c3b1ff3fcd486851aad8a690b75ac763853fe1f00a31188d",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "75acf2d6d472d0e83c6b3bc35390884844519cdde2fbdda60f3c01e9eaeb59d7",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

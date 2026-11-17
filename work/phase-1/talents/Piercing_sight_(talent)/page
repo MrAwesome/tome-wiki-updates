@@ -1,0 +1,15 @@
+{{Ability_box
+|game_version=1.4.4
+|image=Piercing sight.png
+|name=Piercing sight
+|category_type={{ct|Cunning}}
+|category={{c|Survival}}
+|require={{TalentReq/CunsReq3}}
+|use_mode=Passive
+|desc=
+You look at your surroundings with more intensity than most people, allowing you to see stealthed or invisible creatures.
+
+Increases stealth detection and invisibility detection by {{CS|(0.15 * Cun * Talent Level)|5|0|80|75}}.
+
+The detection power increases with your Cunning.
+}}

@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "bf84c509a9e015ce139b10c64dd4277b3b9009c58551471cd010452ed91f213e",
+    "revid": 8305
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:58Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Corrupted_negation_(talent)",
+    "kind": "talent",
+    "pageid": 1123,
+    "wiki_title": "Corrupted negation (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "b120eb124b7002a9ec5af04debf9bd258f2101d14a5622375de39b86fffcff61",
+    "source_sha256": "ef262a77f0a27f826412d273af6b3f61a1f3f8eccfaa97f58b8b8a5f1f6b7d7b",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:58Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "b120eb124b7002a9ec5af04debf9bd258f2101d14a5622375de39b86fffcff61",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

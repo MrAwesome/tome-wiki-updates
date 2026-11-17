@@ -1,0 +1,17 @@
+{{Ability box
+|image=Bloodstar.png
+|name=Bloodstar
+|game_version=1.7.6
+|embers_version=1.1.10
+|category_type={{ct|Steamtech}}
+|category={{c|Mechstar}}
+|require={{TalentReq/SteamReq2}}
+|use_mode=Passive
+|desc=When you fire your metalstar, your also establish a psionic bloodlink with the shrapnel still inside for {{CTS|2|6}} turns.
+
+Each turn the victims are drained for {{ctstmd|25|250}}/6 {{physical}} damage, half of which heals you (each additional victim healing is reduced by half).
+
+If the victim move more than twice away from the radius of Metalstar (currently X) the effect stops.
+
+This damage does not break daze and increases with your Steampower.
+}}

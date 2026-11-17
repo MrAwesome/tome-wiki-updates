@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "d9bd9c3a0a0409d46f7d73c73e28e52bc6abd699a2b5bfadf51fd15a9bdafcca",
+    "revid": 22871
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:58Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Blood_rush_(talent)",
+    "kind": "talent",
+    "pageid": 7053,
+    "wiki_title": "Blood rush (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "57b918ba8758abcd1889ed8268d1aaf9a82e9f8db16aba955bc44c22bd378c3b",
+    "source_sha256": "3c1841077169754f56549e8aa11e42cd0ccdd7380b735b88f08bfd3ba7cfe01c",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:58Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "57b918ba8758abcd1889ed8268d1aaf9a82e9f8db16aba955bc44c22bd378c3b",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

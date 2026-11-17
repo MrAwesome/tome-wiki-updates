@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "b577f480412e2750af28240a517886322dae12d4b4be028b2504f68ada49cffa",
+    "revid": 22079
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:58Z",
+      "event": "deterministic_render_applied",
+      "reason": "baseline_preserved"
+    }
+  ],
+  "identity": {
+    "filename": "Dominant_will_(talent)",
+    "kind": "talent",
+    "pageid": 1522,
+    "wiki_title": "Dominant will (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "baseline_preserved",
+    "candidate_page_sha256": "b577f480412e2750af28240a517886322dae12d4b4be028b2504f68ada49cffa",
+    "source_sha256": "958b207fd24723fa3b1613c62048b19012df2e24e9b82152eb1ef2485a88aed1",
+    "status": "unsupported_info",
+    "updated_at": "2026-11-08T16:08:58Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "b577f480412e2750af28240a517886322dae12d4b4be028b2504f68ada49cffa",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "06b8adc9c520c2f34316e82d7b8e227e4599b84ecf1a372a2fbabf5987d29761",
+    "revid": 22345
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Mind_drones_(talent)",
+    "kind": "talent",
+    "pageid": 5182,
+    "wiki_title": "Mind drones (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "483fff1c13ee3214ea208391115562baf4104adce5adf72bf8ea43903f418359",
+    "source_sha256": "84a1bba9651083af029928e78000a3d053ac5fa758824e6518b146897d899468",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "483fff1c13ee3214ea208391115562baf4104adce5adf72bf8ea43903f418359",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

@@ -1,0 +1,15 @@
+{{Ability_box
+|image=venomous_ammunition.png
+|name=Venomous Ammunition
+|game_version=1.5.2
+|category_type={{ct|Technique}}
+|category={{c|Other}}
+|require={{t|Exotic Munitions}}
+|use_mode=Sustained
+|cost=12 Stamina
+|cooldown=10
+|desc=
+Load venomous ammunition, causing ranged attacks to deal {{cTPD|4|36}} nature damage and inflict numbing poison, dealing a further {{cTPD|20|180}} nature damage over 5 turns and reducing all damage dealt by {{cTL|30%|10|20%}}.
+		
+The damage will scale with your Physical Power.
+}}

@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "296ea3355cf3ea53c4721c89b033d44cc97fe475d49d6e7faf013c5dc0b6a2dd",
+    "revid": 8278
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "baseline_preserved"
+    }
+  ],
+  "identity": {
+    "filename": "Rend_(talent)",
+    "kind": "talent",
+    "pageid": 1279,
+    "wiki_title": "Rend (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "baseline_preserved",
+    "candidate_page_sha256": "296ea3355cf3ea53c4721c89b033d44cc97fe475d49d6e7faf013c5dc0b6a2dd",
+    "source_sha256": null,
+    "status": "unmatched_source",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "296ea3355cf3ea53c4721c89b033d44cc97fe475d49d6e7faf013c5dc0b6a2dd",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

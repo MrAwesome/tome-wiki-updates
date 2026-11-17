@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "1360985086b1ec808df73ac9f78937cbed69a5a18ed0c35d5da6d96cff81ca17",
+    "revid": 13886
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:58Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Charged_strike_(talent)",
+    "kind": "talent",
+    "pageid": 3387,
+    "wiki_title": "Charged strike (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "6c4df159cca4d0fe0db1df64f5673151075f4edc02c2269c3e14b934536c4a76",
+    "source_sha256": "5476f75aa4086e6bb63989d77188aa0e41fdab0807a0808efad6a7ab9afe5c04",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:58Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "6c4df159cca4d0fe0db1df64f5673151075f4edc02c2269c3e14b934536c4a76",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

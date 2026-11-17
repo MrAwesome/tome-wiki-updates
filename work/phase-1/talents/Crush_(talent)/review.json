@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "be8b1590bd5310ac919dfe4c6aec5e851fe22ab08de1dff478f6bbaad192b600",
+    "revid": 5772
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:58Z",
+      "event": "deterministic_render_applied",
+      "reason": "baseline_preserved"
+    }
+  ],
+  "identity": {
+    "filename": "Crush_(talent)",
+    "kind": "talent",
+    "pageid": 2946,
+    "wiki_title": "Crush (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "baseline_preserved",
+    "candidate_page_sha256": "be8b1590bd5310ac919dfe4c6aec5e851fe22ab08de1dff478f6bbaad192b600",
+    "source_sha256": null,
+    "status": "unmatched_source",
+    "updated_at": "2026-11-08T16:08:58Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "be8b1590bd5310ac919dfe4c6aec5e851fe22ab08de1dff478f6bbaad192b600",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "871695e7e45f95e4af0bc652e9a073e7b7a1b163a81cedcf311fa36721381e62",
+    "revid": 19603
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Illuminate_(talent)",
+    "kind": "talent",
+    "pageid": 1383,
+    "wiki_title": "Illuminate (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "aba8298b91faa0e3a3a1e8022d89c19b67f69685b71b3dd02ddcbf88c3dc55c4",
+    "source_sha256": "790a31a1c9dbb7bb765e46fac9b2980272dcab4a2225cb12ee87cfd99ef7bbd0",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "aba8298b91faa0e3a3a1e8022d89c19b67f69685b71b3dd02ddcbf88c3dc55c4",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

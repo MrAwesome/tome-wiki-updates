@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "e18fc77cfe6d9a64b31b78bdecd4cf5c1a7d3696c88d8f022b72912280a62389",
+    "revid": 22407
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:58Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Capacitor_discharge_(talent)",
+    "kind": "talent",
+    "pageid": 6860,
+    "wiki_title": "Capacitor discharge (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "8391c5cc4213baad6abfac1cc1b109937648467f2c15ca381ab51bca4e0c355d",
+    "source_sha256": "b14b2da4ec659318e895a5bbcbb3bf56c68e66636afe1228a34c249ec0f1abed",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:58Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "8391c5cc4213baad6abfac1cc1b109937648467f2c15ca381ab51bca4e0c355d",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

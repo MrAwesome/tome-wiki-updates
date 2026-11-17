@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "4059a4c884e41cbe026754b2a6e532b565145ffbeca8cbac0d0b9a007917d2db",
+    "revid": 7763
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Over_mind_(talent)",
+    "kind": "talent",
+    "pageid": 1355,
+    "wiki_title": "Over mind (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "0b0cdf5743c1a7b2d14e1e5097c06469b284a080a30e6b82a09103e5dd889e99",
+    "source_sha256": "7cbcd6ff95fb4427c3b1ff3fcd486851aad8a690b75ac763853fe1f00a31188d",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "0b0cdf5743c1a7b2d14e1e5097c06469b284a080a30e6b82a09103e5dd889e99",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

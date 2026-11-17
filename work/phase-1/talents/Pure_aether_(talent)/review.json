@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "f1fff371c15ec1f4ced107b90ce1f9fc31bc460abd412feeaf9a6bf682031898",
+    "revid": 14177
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Pure_aether_(talent)",
+    "kind": "talent",
+    "pageid": 1344,
+    "wiki_title": "Pure aether (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "39a91cdd322b523257e1c3adc19f9a19f008e9f190436955b98905d6b35db894",
+    "source_sha256": "f40adf8a89c61643ec20e4d2fdd4a910ad53cfbb9139f5d096833d6750fa25cb",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "39a91cdd322b523257e1c3adc19f9a19f008e9f190436955b98905d6b35db894",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

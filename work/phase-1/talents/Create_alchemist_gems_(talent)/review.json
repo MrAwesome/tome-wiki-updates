@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "40378611ab26d005cb769eec99d8ac8f55d84cc4937c8c7707f56ac54082f14b",
+    "revid": 22991
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:58Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Create_alchemist_gems_(talent)",
+    "kind": "talent",
+    "pageid": 1405,
+    "wiki_title": "Create alchemist gems (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "685666009ae8d21fa68c5b763285cf664f39c4fae33ea7e3a1a21423abab8ab8",
+    "source_sha256": "a11363e3eeedd88555a1a7f927b8a4b722fd9937e4f57e915432650b5640d389",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:58Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "685666009ae8d21fa68c5b763285cf664f39c4fae33ea7e3a1a21423abab8ab8",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

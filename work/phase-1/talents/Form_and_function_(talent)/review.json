@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "fff4a654d77b12f8277abc901ec77ce0945e242c2ebc3ae74658cbd13f11a8cf",
+    "revid": 20440
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Form_and_function_(talent)",
+    "kind": "talent",
+    "pageid": 6326,
+    "wiki_title": "Form and function (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "e1e7ebb90364277eb7dd647aa7c87e0577655e9bb55dd1716220cbb2c4c0a577",
+    "source_sha256": "e712960df49b75fd22e09b071e468ccf496958bd1fa7709ec861dfb0d5f216e8",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "e1e7ebb90364277eb7dd647aa7c87e0577655e9bb55dd1716220cbb2c4c0a577",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

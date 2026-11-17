@@ -1,0 +1,13 @@
+{{Ability box
+|image=Wyrmic guile.png
+|name=Wyrmic Guile
+|game_version=1.7.6
+|category_type={{ct|Wild-Gift}}
+|category={{c|Higher Draconic Abilities}}
+|require={{TalentReq/GiftsReqHigh3}}
+|use_mode=Passive
+|desc=
+You have mastered your draconic nature.
+You gain {{ctl|100%|20|50%}} knockback resistance, and your blindness and stun resistances are increased by {{ctl|100%|10|25%}}.
+|avail.classes=[[Wyrmic]]
+}}

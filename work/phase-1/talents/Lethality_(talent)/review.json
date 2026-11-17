@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "9fced226ca99cec599565a2ca8e1ddfca7a5c4ef7c94038aad1816bf53f71850",
+    "revid": 13722
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Lethality_(talent)",
+    "kind": "talent",
+    "pageid": 1296,
+    "wiki_title": "Lethality (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "1b4f51d82164c13c7bb4dd903759e35a990cf1ea5e8d104a9745c9c553add52c",
+    "source_sha256": "c7074639320e277edbaae28e4d54032f6bae8cee33f23d0c69d1b9641787918d",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "1b4f51d82164c13c7bb4dd903759e35a990cf1ea5e8d104a9745c9c553add52c",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

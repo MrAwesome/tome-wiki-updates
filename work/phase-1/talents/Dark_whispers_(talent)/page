@@ -1,0 +1,19 @@
+{{Ability_box
+|name = Dark Whispers
+|image = Dark_whispers.png
+|category_type = {{ct|Demented}}
+|category = {{c|Madness}}
+|game_version = 1.7.6
+|forbidden_version = 1.0.12
+|require = {{TalentReq/DementedReq1}}
+|use_mode = Activated
+|range = 10
+|cost = Gain 8 Insanity
+|cooldown = 3
+|travel_speed = Instantaneous
+|use_speed = Spell
+|desc =
+Terrible visions and maddening voices fill the minds of enemies within a radius 3 area, inflicting {{ctspd|5|35}} darkness damage each turn for 5 turns. In addition, this distraction will reduce physical, spell and mindpower of those affected by {{ctspd|1|20}}.
+The power loss caused by this spell can stack, to a maximum of {{ctspd|3|60}} powers.
+The effect will increase with your Spellpower.
+}}

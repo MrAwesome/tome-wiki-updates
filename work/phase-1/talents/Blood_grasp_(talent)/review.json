@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "ef6887b4823b14475cdd729a1bc688b1155c689c54e921ffcb083a771d35b104",
+    "revid": 18548
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:58Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Blood_grasp_(talent)",
+    "kind": "talent",
+    "pageid": 1188,
+    "wiki_title": "Blood grasp (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "139321e62783bbfe4982ca55c8b10b8e3e56f85f371a80ae5f18dad3267d359d",
+    "source_sha256": "dc39f43d1a40f9a5497c936f9d164de7a94e3c13a94e6394289349b3ae12da4a",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:58Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "139321e62783bbfe4982ca55c8b10b8e3e56f85f371a80ae5f18dad3267d359d",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

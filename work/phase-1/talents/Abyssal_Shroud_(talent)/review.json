@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "352aaae918451da689bfac569876bd7e0a32acb439c35b1f0ab26ea28d1eb6be",
+    "revid": 6101
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:58Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Abyssal_Shroud_(talent)",
+    "kind": "talent",
+    "pageid": 3084,
+    "wiki_title": "Abyssal Shroud (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "b6139f57f480ba88430492cb3474f2511bcaa0e09c0dff07acac7f7c1945fb11",
+    "source_sha256": "0690eca57ddb8ebe78694f63ff7587798fa7432fde6e6b6ae32000255ab19292",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:58Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "b6139f57f480ba88430492cb3474f2511bcaa0e09c0dff07acac7f7c1945fb11",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

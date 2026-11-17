@@ -1,0 +1,14 @@
+{{Ability box
+|image = Caustic dispersal.png
+|name = Caustic Dispersal
+|game_version = 1.7.6
+|embers_version = 1.1.10
+|category_type = {{ct|Steamtech}}
+|category = {{c|Chemical Warfare}}
+|require = {{TalentReq/DexSteamReqHigh2}}
+|cooldown = 9
+|cost = 20 Steam
+|range = Steamgun range
+|use_speed = Steamtech
+|desc = You fire a toxic shell that explodes in radius {{cts|2|3}}, dealing {{ctwd|120|210%}} weapon damage as {{acid}} and leaving behind a cloud of miasma for {{cts|3|6}} turns that inherits all effects from your {{t|Miasma Engine}}.
+}}

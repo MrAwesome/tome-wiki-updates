@@ -1,0 +1,17 @@
+{{Ability box
+|image = Sapper.png
+|name = Sapper
+|game_version = 1.7.6
+|embers_version = 1.1.10
+|category_type = {{ct|Steamtech}}
+|category = {{c|Demolition}}
+|require = {{TalentReq/DexSteamReq3}}
+|use_mode = Passive
+|desc =
+You load advanced grenades into your launcher.
+{{t|Incendiary Grenade}}: Deals {{fire}} damage over 3 turns, increasing damage taken by {{ctl|50%|5|25%}}.
+{{t|Chemical Grenade}}: Deals {{acid}} damage and slows targets by {{ctl|50%|10|30%}} for 3 turns.
+{{t|Shock Grenade}}: Deals {{lightning}} damage and shocks targets for {{cts|3|5}} turns, reducing stun and pin resistance by 50%.
+In addition, your turrets now explode when destroyed, dealing {{ctstmd|20|300}} {{physical}} damage to enemies in radius 3.
+You can only choose a single type of grenade at a time.
+}}

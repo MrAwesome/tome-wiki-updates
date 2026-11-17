@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "8ec9e3cb6b6feb937d9fe66f83db7f5be1c099fc495318d7618eca52acefabf9",
+    "revid": 19436
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "baseline_preserved"
+    }
+  ],
+  "identity": {
+    "filename": "Impending_doom_(talent)",
+    "kind": "talent",
+    "pageid": 1587,
+    "wiki_title": "Impending doom (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "baseline_preserved",
+    "candidate_page_sha256": "8ec9e3cb6b6feb937d9fe66f83db7f5be1c099fc495318d7618eca52acefabf9",
+    "source_sha256": "52831b8501e7a724ed3691875e4a6a7757fe3b2f0a859a4e8e4dd673cd9007d6",
+    "status": "unsupported_info",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "8ec9e3cb6b6feb937d9fe66f83db7f5be1c099fc495318d7618eca52acefabf9",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

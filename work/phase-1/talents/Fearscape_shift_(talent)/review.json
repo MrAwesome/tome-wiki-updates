@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "f7f52e04464cf02bd90b655b28828cfc5a7e3af7760d35a6527efcbe64985392",
+    "revid": 23093
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "baseline_preserved"
+    }
+  ],
+  "identity": {
+    "filename": "Fearscape_shift_(talent)",
+    "kind": "talent",
+    "pageid": 3770,
+    "wiki_title": "Fearscape shift (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "baseline_preserved",
+    "candidate_page_sha256": "f7f52e04464cf02bd90b655b28828cfc5a7e3af7760d35a6527efcbe64985392",
+    "source_sha256": "c2faeddb2325d81dc87a1c4d591c0f8788c9c227d140fd6764d59258bd1f45d8",
+    "status": "unsupported_info",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "f7f52e04464cf02bd90b655b28828cfc5a7e3af7760d35a6527efcbe64985392",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "ff9c31aa270fc82bfc2d36d5d863ba6a0cb9ac900c1c7e183b9d9af53c4a685f",
+    "revid": 8948
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:58Z",
+      "event": "deterministic_render_applied",
+      "reason": "baseline_preserved"
+    }
+  ],
+  "identity": {
+    "filename": "Alchemist_protection_(talent)",
+    "kind": "talent",
+    "pageid": 1114,
+    "wiki_title": "Alchemist protection (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "baseline_preserved",
+    "candidate_page_sha256": "ff9c31aa270fc82bfc2d36d5d863ba6a0cb9ac900c1c7e183b9d9af53c4a685f",
+    "source_sha256": "66ce5364f625978b3d4554f94612ea1119e3c0bfd3d1725746fe655bbcf96efa",
+    "status": "unsupported_info",
+    "updated_at": "2026-11-08T16:08:58Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "ff9c31aa270fc82bfc2d36d5d863ba6a0cb9ac900c1c7e183b9d9af53c4a685f",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "3b6f5e0061ee237769e67166087c7ba8ce325c766383412293f78636a537db40",
+    "revid": 2050
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Shattering_charge_(talent)",
+    "kind": "talent",
+    "pageid": 1696,
+    "wiki_title": "Shattering charge (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "0e4dfc0d9c7bde2325ad5702753f676664f8f2cdee342127e39f013c2e3f3c21",
+    "source_sha256": "dc640c1af5d22a45472d843380c9de01334530b3831bd2b9fe88ee0cba3abc23",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "0e4dfc0d9c7bde2325ad5702753f676664f8f2cdee342127e39f013c2e3f3c21",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

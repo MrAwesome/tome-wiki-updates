@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "93e20f4f3df34b18bbafac73bd1429b13bbb793c79c711590413723eac63584c",
+    "revid": 14949
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Never_stop_running_(talent)",
+    "kind": "talent",
+    "pageid": 3454,
+    "wiki_title": "Never stop running (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "0b7a5f2510192957a2ca759fa7a348b0768a1297e0587d17e271096d0409061a",
+    "source_sha256": "b260bc4a014c91d3ee733275ca1d2671d56db3fbe4afb6cd58b4bd9d8ced33eb",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "0b7a5f2510192957a2ca759fa7a348b0768a1297e0587d17e271096d0409061a",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

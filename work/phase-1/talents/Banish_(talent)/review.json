@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "d84fc6fd0cabf9b9611c00c208255c91c1a2f233ea625b3362e4a452e56f1ef7",
+    "revid": 10445
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:58Z",
+      "event": "deterministic_render_applied",
+      "reason": "baseline_preserved"
+    }
+  ],
+  "identity": {
+    "filename": "Banish_(talent)",
+    "kind": "talent",
+    "pageid": 1474,
+    "wiki_title": "Banish (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "baseline_preserved",
+    "candidate_page_sha256": "d84fc6fd0cabf9b9611c00c208255c91c1a2f233ea625b3362e4a452e56f1ef7",
+    "source_sha256": "758107c693dabfa147769a0b2baade273c9108507539c011e19338c98825ca9e",
+    "status": "unsupported_info",
+    "updated_at": "2026-11-08T16:08:58Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "d84fc6fd0cabf9b9611c00c208255c91c1a2f233ea625b3362e4a452e56f1ef7",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

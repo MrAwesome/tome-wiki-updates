@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "75119190727e4f49c96f089975ccd19e9497b963715d77ef2615433c22ef230c",
+    "revid": 14037
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Shielding_(talent)",
+    "kind": "talent",
+    "pageid": 1126,
+    "wiki_title": "Shielding (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "fb29a5139f2591f90e0b729e1962c7a6574f6323bd26a16348ea922e5fea3469",
+    "source_sha256": "b01e05713a49c4d8d2243a1e85a8f618894d2cea1bd090d138caaca1e40db738",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "fb29a5139f2591f90e0b729e1962c7a6574f6323bd26a16348ea922e5fea3469",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

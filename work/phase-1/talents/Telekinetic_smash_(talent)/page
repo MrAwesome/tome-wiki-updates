@@ -1,0 +1,17 @@
+{{Ability_box
+|game_version=1.7.6
+|image=Telekinetic smash.png
+|name=Telekinetic Smash
+|category_type=[[Psionic (category type)|Psionic]]
+|category=[[Psi-fighting (category)|Psi-fighting]]
+|require={{TalentReq/PsiCunReq1}}
+|use_mode=Activated
+|cost=10 Psi
+|cooldown=8
+|use_speed=Mind
+|desc=
+Gather your will, and brutally smash the target with your mainhand weapon and then your telekinetically wielded weapon, doing {{ctwd|90|150%}} weapon damage.
+If your mainhand weapon hits, you will also stun the target for {{cts|2|6}} turns.
+This attack uses 60% of your Willpower and Cunning instead of Strength and Dexterity to determine weapon damage and accuracy, for both attacks.
+Any active Aura damage bonusses will extend to the weapons used for this attack.
+}}

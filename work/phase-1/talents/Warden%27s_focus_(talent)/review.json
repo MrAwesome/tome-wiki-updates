@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "1fed7c5594931b9f77a551897399c5a98b6f0f915659b45d9725ab87e207b691",
+    "revid": 11569
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "baseline_preserved"
+    }
+  ],
+  "identity": {
+    "filename": "Warden%27s_focus_(talent)",
+    "kind": "talent",
+    "pageid": 4299,
+    "wiki_title": "Warden's focus (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "baseline_preserved",
+    "candidate_page_sha256": "1fed7c5594931b9f77a551897399c5a98b6f0f915659b45d9725ab87e207b691",
+    "source_sha256": "076b3c31b0483f86935e293c1fa230df959b11fc3fa444c01e011578c7370ed2",
+    "status": "unsupported_info",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "1fed7c5594931b9f77a551897399c5a98b6f0f915659b45d9725ab87e207b691",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

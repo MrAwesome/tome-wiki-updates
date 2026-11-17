@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "901b75e807d655722e816fc07620e26ff6021f0d8e1728d999307fbb34902d74",
+    "revid": 22417
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "baseline_preserved"
+    }
+  ],
+  "identity": {
+    "filename": "Shockstaff_(talent)",
+    "kind": "talent",
+    "pageid": 6867,
+    "wiki_title": "Shockstaff (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "baseline_preserved",
+    "candidate_page_sha256": "901b75e807d655722e816fc07620e26ff6021f0d8e1728d999307fbb34902d74",
+    "source_sha256": "0b4f50fb9226192436c2c2d6265cb7c6237c3cff4bb9e07d55e37faaa04fb1dd",
+    "status": "unsupported_info",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "901b75e807d655722e816fc07620e26ff6021f0d8e1728d999307fbb34902d74",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

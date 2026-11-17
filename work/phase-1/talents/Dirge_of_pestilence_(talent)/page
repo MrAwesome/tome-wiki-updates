@@ -1,0 +1,16 @@
+{{Ability_box
+|game_version = 1.7.6
+|name = Dirge of Pestilence
+|image = Dirge_of_pestilence.png
+|category_type = {{ct|Celestial}}
+|category = {{c|Dirges}}
+|use_mode = Sustained
+|cooldown = 12
+|use_speed = Instant
+|desc = 
+Sing a song of decay and defiance and sustain yourself through spite.
+
+Each time you suffer a detrimental effect, you gain a shield with strength {{cts|50|200|0.75}}, that lasts as long as the effect would.  This will add to and extend an existing shield if possible.
+
+This can only trigger once every 5 turns
+}}

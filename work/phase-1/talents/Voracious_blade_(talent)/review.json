@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "bef6f253117b81f89f5f397b164801d9bbc96f71f152c4a8e85115eef5aa4414",
+    "revid": 10645
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Voracious_blade_(talent)",
+    "kind": "talent",
+    "pageid": 3767,
+    "wiki_title": "Voracious blade (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "3bb0c96c9d70f26ea25a54d9b184bdb7f308dd6a0fdd20b05af2193d7ba90049",
+    "source_sha256": "f2297854dd2c61863ac86812563e4f4021602df017ef56414fe8a3de224d93c0",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "3bb0c96c9d70f26ea25a54d9b184bdb7f308dd6a0fdd20b05af2193d7ba90049",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

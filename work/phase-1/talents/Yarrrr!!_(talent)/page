@@ -1,0 +1,19 @@
+{{Ability_box
+|name = Yarrrr!!
+|image = Cursed_sentry.png
+|category_type = {{ct|Other}}
+|category = {{c|Other}}
+|game_version = 1.7.4
+|use_mode = Sustained
+|cooldown = 10
+|use_speed = Global Speed
+|desc = Yarrrrr! Plunder 'em booties!'
+
+''Obtained from the [[Pirate Day]] online event, which is sent out on International Talk Like a Pirate Day (September 19), and can also be sent out by [[DarkGod]] at other times.''
+
+''Effects'': While this talent is sustained, the player character's appearance is replaced with an image of a pirate, and the player character says pirate lines when the talent is activated, deactivated, or when they kill an enemy. Every tenth enemy killed with this talent sustained, the player gains 2 gold. (Additionally, anything else that calls gainExp can trigger it, e.g. losing experience from {{Blight|regressive blight}} damage.) When the talent is first activated, the player gains the [[achievement]] '''Ay ay captain!'''.
+
+'''Warning''': If you save and close the game while Yarrrr!! is active, your character will be invisible when you next load the saved game. This can be avoided by disabling it before you quit and enabling it when you restart. If it does happen, it can be fixed by disabling Yarrrr!!, saving, and reloading.
+}}
+
+[[Category: Online Events]]

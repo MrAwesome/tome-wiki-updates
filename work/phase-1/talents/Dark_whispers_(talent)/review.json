@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "ff2f8f567334144882790ab01befd9735a4f50b241e6b8f6c09ae72fdf4ce39d",
+    "revid": 22018
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:58Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Dark_whispers_(talent)",
+    "kind": "talent",
+    "pageid": 5907,
+    "wiki_title": "Dark whispers (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "5d365dee77be168836e9f12d0d81e2a92a39250d1d0af0e529ad2c06140d8c00",
+    "source_sha256": "33e274b4e1f155bf677dae8d8cf29c61b9f2b99920a0a4ec80ab0f043f62dac4",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:58Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "5d365dee77be168836e9f12d0d81e2a92a39250d1d0af0e529ad2c06140d8c00",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

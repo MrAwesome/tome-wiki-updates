@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "922bb11218c71e8ca1eee9349305a1eb564bf0e65d3ddba666e55474c5c946ce",
+    "revid": 19156
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Indiscernible_anatomy_(talent)",
+    "kind": "talent",
+    "pageid": 1243,
+    "wiki_title": "Indiscernible anatomy (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "ea2b12af6a92d3f1d5f6980abc0b286a16a709759c6f838f6640657e5b910c7f",
+    "source_sha256": "20889794d7c014f4472eb3e12d0635db4f161b2b61e139d54c3e5fa53e0f9d99",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "ea2b12af6a92d3f1d5f6980abc0b286a16a709759c6f838f6640657e5b910c7f",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

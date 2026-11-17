@@ -1,0 +1,10 @@
+{{Ability box
+|image=Default.png
+|name=Armour Configuration
+|category_type={{ct|Golem}}
+|category={{c|Golem}}
+|require=
+|use_mode=Passive
+|desc=The golem automatically reconfigures heavy mail and massive armours designed for living creatures to protect its own vital areas. 
+Increases armours value by {{gtl|-4|5}}, armour hardiness by {{gtl|-13%|20%}}, and provides {{gtl|-5%|7%}} critical hit reduction when wearing heavy mail or massive armour.
+}}

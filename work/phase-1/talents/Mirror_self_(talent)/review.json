@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "650e916c65f3bfe08a79fe1614bf0a90146b6904b2a7c79463249657e13a4a50",
+    "revid": 22553
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Mirror_self_(talent)",
+    "kind": "talent",
+    "pageid": 6975,
+    "wiki_title": "Mirror self (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "8d6d2e83e0480878bfa0c46bbb58437ec7ac29f2f3957847eeb2322c47446d10",
+    "source_sha256": "972f949d6cab2c8040bf554bb944d96ecc4ca79d4b25363ba43a1c980bf04eff",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "8d6d2e83e0480878bfa0c46bbb58437ec7ac29f2f3957847eeb2322c47446d10",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

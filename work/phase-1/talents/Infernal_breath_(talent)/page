@@ -1,0 +1,16 @@
+{{Ability box
+|ashes_version=1.1.4
+|game_version=1.7.6
+|name=Infernal Breath
+|image=Infernal_breath.png
+|category_type={{ct|Corruption}}
+|category={{c|Fearfire}}
+|require={{TalentReq/SpellsReqHigh3}}
+|cost=18 Vim
+|cooldown=12
+|range=1
+|desc=
+Exhale a wave of dark fire with radius {{cts|5|9}}, lasting 4 turns. Any non-demon caught in the area will take {{ctstd|Str|30|375}} fire damage, and flames will be left dealing a further {{ctstd|Str|30|75}} each turn. Demons will be healed for the same amount.
+The damage will increase with your Strength Stat, but critically hit as a spell.
+|avail.classes=[[Doombringer]]
+}}

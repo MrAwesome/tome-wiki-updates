@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "9a6676ae83a871f32a73740d35cf1bfd38d778acf9e86c59d50ebb5b88425ee1",
+    "revid": 13823
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Explosive_shot_(talent)",
+    "kind": "talent",
+    "pageid": 4694,
+    "wiki_title": "Explosive shot (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "679e7e95efe7411ac22a39726a310ba35ae18fc65a420fc02667acaf9dc61c08",
+    "source_sha256": "6675712c498b0de1bd51049059d7459f7d275c755c9bb9cfb4caed9f69536aa6",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "679e7e95efe7411ac22a39726a310ba35ae18fc65a420fc02667acaf9dc61c08",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

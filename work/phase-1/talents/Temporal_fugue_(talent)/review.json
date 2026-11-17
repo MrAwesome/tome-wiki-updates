@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "2c53665f5d57ce368a9f1f82b7347a6acae3e0808ee769fac8ef31e4281227fb",
+    "revid": 11302
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "baseline_preserved"
+    }
+  ],
+  "identity": {
+    "filename": "Temporal_fugue_(talent)",
+    "kind": "talent",
+    "pageid": 1583,
+    "wiki_title": "Temporal fugue (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "baseline_preserved",
+    "candidate_page_sha256": "2c53665f5d57ce368a9f1f82b7347a6acae3e0808ee769fac8ef31e4281227fb",
+    "source_sha256": "9565816248968624372bb283504f5ff7f325022d2d3de0b7a20675cd0cf6c956",
+    "status": "unsupported_info",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "2c53665f5d57ce368a9f1f82b7347a6acae3e0808ee769fac8ef31e4281227fb",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

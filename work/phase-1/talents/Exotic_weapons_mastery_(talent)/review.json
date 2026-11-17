@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "95788c9e69b6d007684545779ba23917e10f548804bee1f82502409800aa661d",
+    "revid": 23177
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Exotic_weapons_mastery_(talent)",
+    "kind": "talent",
+    "pageid": 1306,
+    "wiki_title": "Exotic weapons mastery (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "546165829bf338b0d0b5a7eaad33de977ea4d2ac5402fcf1ceebab77119e32ef",
+    "source_sha256": "2a22a6458e415ec78f1058dc1241f903ca7414b78693474b1cafc3d1d35b5e7f",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "546165829bf338b0d0b5a7eaad33de977ea4d2ac5402fcf1ceebab77119e32ef",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

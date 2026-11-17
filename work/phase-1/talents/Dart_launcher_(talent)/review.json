@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "a7a48f94a95d1ed400785135a7ac62086d7db2dd1ec8a7a4af5a82e8129d652a",
+    "revid": 15143
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:58Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Dart_launcher_(talent)",
+    "kind": "talent",
+    "pageid": 4878,
+    "wiki_title": "Dart launcher (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "bf6edddbd54c185757f96fad01d3b35ac30295e430171defc66d8a46e3ab6415",
+    "source_sha256": "8a1d55511ff0273bfc9f4193b98de2269372475ffafc5c8185257d59bb7ad4d3",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:58Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "bf6edddbd54c185757f96fad01d3b35ac30295e430171defc66d8a46e3ab6415",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

@@ -1,0 +1,15 @@
+{{Ability_box
+|image=animus_hoarder.png
+|name=Animus Hoarder
+|category_type={{ct|Spell}}
+|category={{c|Animus}}
+|require={{TalentReq/SpellsReq2}}
+|use_mode=Sustained
+|cost=50 Mana
+|cooldown=30
+|desc=
+Your hunger for souls grows ever more. When you kill a creature you rip away its animus with great force, granting you {{cts|10|80%}} chances to gain one more soul.
+
+In addition you are able to store {{cts|2|8}} more souls.
+}}
+[[Category:Removed Talents]]

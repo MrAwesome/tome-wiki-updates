@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "00d17de1c891d335651659a809c7152410ff1474c313d5176bdf2d803fadc218",
+    "revid": 22058
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:58Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Born_into_magic_(talent)",
+    "kind": "talent",
+    "pageid": 1680,
+    "wiki_title": "Born into magic (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "00d17de1c891d335651659a809c7152410ff1474c313d5176bdf2d803fadc218",
+    "source_sha256": "958b207fd24723fa3b1613c62048b19012df2e24e9b82152eb1ef2485a88aed1",
+    "status": "no_change",
+    "updated_at": "2026-11-08T16:08:58Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "00d17de1c891d335651659a809c7152410ff1474c313d5176bdf2d803fadc218",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

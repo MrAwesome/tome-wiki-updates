@@ -1,0 +1,11 @@
+{{Ability_box
+|name=Ceasefire
+|category_type=Steam
+|category=Objects
+|embers_version=1.0.3
+|range=same as the steamgun
+|cost=45 Steam
+|cooldown=10
+|desc=You fire an incredibly potent shot at an enemy, doing {{ctwd|100|180%}} damage and dazing them for (2 + talent level) turns.
+The daze chance increases with your Steampower.
+}}

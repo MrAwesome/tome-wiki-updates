@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "c62c0b0258eebd942aa762ce1ae14a7b02fb6a3180e45374aaada931ecc0d5d3",
+    "revid": 5386
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Shadow_veil_(talent)",
+    "kind": "talent",
+    "pageid": 1579,
+    "wiki_title": "Shadow veil (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "162609671c80ac6686613880f2aa6c7e7e53169fd96cd40109d632173982bc68",
+    "source_sha256": "1152390e5642db9ea6ddf4da9fbc0a0a824ba81802981657019a9f8a39a8dae9",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "162609671c80ac6686613880f2aa6c7e7e53169fd96cd40109d632173982bc68",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

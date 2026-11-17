@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "85f903b1219ecafbd31641b79ee2af150251e35bc05ed3223cab47026512b196",
+    "revid": 7583
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Set_up_(talent)",
+    "kind": "talent",
+    "pageid": 1624,
+    "wiki_title": "Set up (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "7ac2c59ed284c803c2888c5908005da1a38a58e025eb52ac95d3633449409a6e",
+    "source_sha256": "c16b9d714f494e9bdd6297069814d401138700b63e5b1169cd4c798940302e1f",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "7ac2c59ed284c803c2888c5908005da1a38a58e025eb52ac95d3633449409a6e",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

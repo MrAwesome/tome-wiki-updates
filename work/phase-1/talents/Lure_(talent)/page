@@ -1,0 +1,21 @@
+{{Ability_box
+|image=Lure.png
+|name=Lure
+|game_version=1.5.2
+|category_type=[[Cunning (category type)|Cunning]]
+|category=[[Trapping (category)|Trapping]]
+|require={{TalentReq/CunsReq2}}
+|use_mode=Activated
+|range={{CTS|2|11}}
+|cost=15 Stamina
+|cooldown=15
+|travel_speed: instantaneous
+|use_speed: Combat
+|desc=
+Deploy a noisy lure that attracks all creatures within radius {{cTL|10|2|5.5}} for {{cTS|5|13}} turns. It has Cun * {{cTS|5|13}} life (based on your Cunning) and is very durable, with {{cTS|10|25}} armor and {{cTS|90%|65|75%}} resistance to non-physical damage.
+
+At level 5, when the lure is destroyed, it will trigger some traps in a radius of 2 around it (check individual trap descriptions to see if they are triggered).
+
+Use of this talent will not break stealth.
+|avail.classes=[[Archer]], [[Rogue]], [[Skirmisher]]
+}}

@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "99d3811c3bfae82d9c991836dc3ec19c2e5daef43b6c76c604327d42a4de9c69",
+    "revid": 23060
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:58Z",
+      "event": "deterministic_render_applied",
+      "reason": "baseline_preserved"
+    }
+  ],
+  "identity": {
+    "filename": "Chemistry_(talent)",
+    "kind": "talent",
+    "pageid": 4402,
+    "wiki_title": "Chemistry (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "baseline_preserved",
+    "candidate_page_sha256": "99d3811c3bfae82d9c991836dc3ec19c2e5daef43b6c76c604327d42a4de9c69",
+    "source_sha256": "33acbb97f40b0ef14685c64a30cfe7225f68940b80bb7907436d658092030ed0",
+    "status": "unsupported_info",
+    "updated_at": "2026-11-08T16:08:58Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "99d3811c3bfae82d9c991836dc3ec19c2e5daef43b6c76c604327d42a4de9c69",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

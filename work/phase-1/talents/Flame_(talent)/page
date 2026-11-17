@@ -1,0 +1,19 @@
+{{Ability_box
+|game_version=1.7.6
+|image=Flame.png
+|name=Flame
+|category_type={{ct|Spell}}
+|category={{c|Fire}}
+|require={{TalentReq/SpellsReq1}}
+|use_mode=Activated
+|range=10
+|cost=12 Mana
+|travel_speed=20
+|cooldown=3
+|desc=
+Conjures up a bolt of fire, setting the target ablaze and doing {{ctspd|25|290}} fire damage over 3 turns.
+
+At level 5, it will create a beam of flames.
+
+The damage will increase with your Spellpower.
+}}

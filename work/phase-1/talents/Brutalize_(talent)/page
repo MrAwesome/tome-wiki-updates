@@ -1,0 +1,18 @@
+{{Ability_box
+|game_version = 1.7.6
+|name = Brutalize
+|image = Brutalize.png
+|category_type = {{ct|Celestial}}
+|category = {{c|Darkside}}
+|require = {{TalentReq/DiviReq1}}
+|use_mode = Activated
+|cost = 10 Positive 
+|range = 1
+|cooldown = 6 
+|use_speed = Spell
+|desc =
+Hits the target with your weapon, doing {{ctwd|30|60%}} damage. If the attack hits, the target is stunned for {{cts|3|7}} turns and has their bleed resistance reduced by 50%.
+The stun chance increases with your Physical Power.
+
+#{italic}#It may not bleed, exactly, but you'll make it hurt.#{normal}#
+}}

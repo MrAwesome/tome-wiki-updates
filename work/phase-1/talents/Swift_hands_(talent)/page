@@ -1,0 +1,17 @@
+{{Ability box
+|game_version=1.7.6
+|image=Swift hands.png
+|name=Swift Hands
+|category_type=[[Prodigies]]
+|category=[[Prodigies#Dexterity|Dexterity]]
+|require=Dexterity 50
+|use_mode=Activated
+|cooldown=3
+|use_speed=0
+|desc=
+You like to keep your most precious tools always at hand. This talent lets you prepare up to 4 items in advance (outside of combat).
+
+Then at a moment's notice you can use any of them as if they were worn.
+
+In addition swapping equipment sets (default q key) takes no time.
+}}

@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "329848506bb965f6c5fa97d330be97097aff422fa3b886b0628c2588ec48d2c3",
+    "revid": 8944
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Golem_molten_skin_(talent)",
+    "kind": "talent",
+    "pageid": 3508,
+    "wiki_title": "Golem molten skin (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "15d16089606a4de95a7744da96be6be5e204cc6e97f0e6e3559152d4afbcc67c",
+    "source_sha256": "26e2741d1f21ca1a890d103fccc09d8fdf963255a127bf5941e8d2e06ab12824",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "15d16089606a4de95a7744da96be6be5e204cc6e97f0e6e3559152d4afbcc67c",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

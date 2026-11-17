@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "244083e205bf30b67ad25f3d889793c2ee160564ba0227e2e8d88ff1eb7bb0ec",
+    "revid": 23013
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:58Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Earth%27s_eyes_(talent)",
+    "kind": "talent",
+    "pageid": 1167,
+    "wiki_title": "Earth's eyes (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "11a88c34daecb438026089f4337dbeb1d5319056a8c85f67007a220235672707",
+    "source_sha256": "b2df31016f55fb32b4e989d1fcb6e094f9c39e3d2cb9431e87be77f5f476e6b9",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:58Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "11a88c34daecb438026089f4337dbeb1d5319056a8c85f67007a220235672707",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

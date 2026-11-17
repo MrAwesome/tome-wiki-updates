@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "0dada52f7614465299275b74c2736474e4755cd1749b99e5e8111e5cfd04f828",
+    "revid": 15323
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Jinxed_touch_(talent)",
+    "kind": "talent",
+    "pageid": 5351,
+    "wiki_title": "Jinxed touch (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "1779a9cc11c99066b7d312277e5b424edcf0cf4b619bcf22fcd9cbb27d42f01e",
+    "source_sha256": "7a65b4d2d7a91f83f32472a330aeff48e7ac983914fd672dc09673a812a06d80",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "1779a9cc11c99066b7d312277e5b424edcf0cf4b619bcf22fcd9cbb27d42f01e",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

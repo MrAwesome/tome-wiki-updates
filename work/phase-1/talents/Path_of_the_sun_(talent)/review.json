@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "f30f3c4887d60c8635c025155dd36437f36ca2ff76a14bb471efc4ce946b26ff",
+    "revid": 13870
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Path_of_the_sun_(talent)",
+    "kind": "talent",
+    "pageid": 3335,
+    "wiki_title": "Path of the sun (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "bc89e9b91eacbb8f95e9ddfa349d00fb7ff8de8d2b51cc3096c36e5b2de2620c",
+    "source_sha256": "35afd14eba69d96a9a2742ecc52046618d170c6d6ae04b6a2a28d2edbdf76686",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "bc89e9b91eacbb8f95e9ddfa349d00fb7ff8de8d2b51cc3096c36e5b2de2620c",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

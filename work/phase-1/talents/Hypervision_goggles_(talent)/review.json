@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "99de12b45844b771ceb08b482a34d2d2c6aef6908cb1fdfac2d7496c68657102",
+    "revid": 22439
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Hypervision_goggles_(talent)",
+    "kind": "talent",
+    "pageid": 6883,
+    "wiki_title": "Hypervision goggles (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "bf88de847963df79f8539cd05eb8648e25efe0773db04280af32bbd1b8d041eb",
+    "source_sha256": "98a8e098a8139165186936596609f00a843578667a01233588489d9f3941848a",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "bf88de847963df79f8539cd05eb8648e25efe0773db04280af32bbd1b8d041eb",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

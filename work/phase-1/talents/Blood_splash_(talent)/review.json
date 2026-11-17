@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "0312370b3bf660c473917c87eb2af3c5073a844909e6f60d84931d80b526bbf5",
+    "revid": 18534
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:58Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Blood_splash_(talent)",
+    "kind": "talent",
+    "pageid": 3202,
+    "wiki_title": "Blood splash (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "e6d38fdb3f5844324292c1457b51821700b139616d579bb4f4d652fa3e708cd5",
+    "source_sha256": "717328f18ac054652eef915b0ee39f353aca3223074db29c36b148bbbb460c13",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:58Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "e6d38fdb3f5844324292c1457b51821700b139616d579bb4f4d652fa3e708cd5",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

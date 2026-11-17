@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "edbfb193a731f1c8d28971a50ca4f67abf191d661c44780e66370f394bda4b3c",
+    "revid": 23089
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:58Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Bleak_outcome_(talent)",
+    "kind": "talent",
+    "pageid": 3703,
+    "wiki_title": "Bleak outcome (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "ae5f6670607c9cf26b31b312cde743d65bc43bdb9cb69b3df6bd9fbd440449b3",
+    "source_sha256": "c54c2fb09bd09dd3437df50c2f2a6b5e48d8c700335d1f0212169e7ea8b6d4e9",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:58Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "ae5f6670607c9cf26b31b312cde743d65bc43bdb9cb69b3df6bd9fbd440449b3",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "170f9a6a4a228955ee0742e1efa2e522632335d35f974bbdbdc7c6e98cd28d9e",
+    "revid": 19091
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:58Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Circle_of_warding_(talent)",
+    "kind": "talent",
+    "pageid": 132,
+    "wiki_title": "Circle of warding (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "6ad898f6bbdd2de1d286e33cc303747cbc941ad9bc033a27d344ba707814fb22",
+    "source_sha256": "5a2be93420eb9484fcf0accd9dd013c61eed865065826c0902eeb970e7b9786a",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:58Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "6ad898f6bbdd2de1d286e33cc303747cbc941ad9bc033a27d344ba707814fb22",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

@@ -1,0 +1,18 @@
+{{Ability_box
+|image=Phase_door_2017.png
+|name=Phase Door
+|category_type={{ct|Spell}}
+|category={{c|Conveyance}}
+|require={{TalentReq/SpellsReq1}}
+|cost=10 Mana
+|cooldown=8
+|range={{cl|{{ctspd|10|15}}|40|4|0|13.4|9.4}}
+|desc=
+Teleports you randomly within a small range of up to {{cl|{{ctspd|10|15}}|40|4|0|13.4|9.4}}.
+
+At effective level 4, it allows you to specify which creature to teleport.
+
+At effective  level 5, it allows you to choose the target area (radius {{ctl|0|6|2}}). If the target area is not within line of sight, there is a 35% chance the spell will fizzle.
+
+The range will increase with your Spellpower.
+}}

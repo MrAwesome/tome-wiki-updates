@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "2595520f36c24f852bebefc1e746b58a39506e328f3a9d03395500f6a3a66f54",
+    "revid": 14604
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:58Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Combustive_bullets_(talent)",
+    "kind": "talent",
+    "pageid": 5148,
+    "wiki_title": "Combustive bullets (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "9e7ce46c8042973ed8ddb61616a94db42f156efda72296cd762b1848f1632088",
+    "source_sha256": "a2d50b662791d71a2343aa175f71383b1d4e9d24031ed5c70084a3ee2214f31c",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:58Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "9e7ce46c8042973ed8ddb61616a94db42f156efda72296cd762b1848f1632088",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

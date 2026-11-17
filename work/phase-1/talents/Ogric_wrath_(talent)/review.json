@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "714c80b6177500a22150f3982b32a58d7a1b9738103803048fb345c277121c40",
+    "revid": 22084
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Ogric_wrath_(talent)",
+    "kind": "talent",
+    "pageid": 3729,
+    "wiki_title": "Ogric wrath (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "9fd1288a7757041c5d57b0683492ea945532326ea02300a004a32abe173261c0",
+    "source_sha256": "958b207fd24723fa3b1613c62048b19012df2e24e9b82152eb1ef2485a88aed1",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "9fd1288a7757041c5d57b0683492ea945532326ea02300a004a32abe173261c0",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

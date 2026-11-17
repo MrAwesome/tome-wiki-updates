@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "4b2cda17aab1dfdf079f17147fd335104de1655b610f8da47f2fb0eacf2e8f36",
+    "revid": 8675
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:58Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Dreamscape_(talent)",
+    "kind": "talent",
+    "pageid": 1145,
+    "wiki_title": "Dreamscape (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "c4c77cbbcff734d6c717438b48d06cb59018d5d7ddb41b1840943d9efd28148b",
+    "source_sha256": "a030f97c98b707ded663c9e66ef0600834c750ccdba9a2ee666da41255376314",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:58Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "c4c77cbbcff734d6c717438b48d06cb59018d5d7ddb41b1840943d9efd28148b",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "7b04d43a30244200ff83a22a412dcb51ccc0c378278308d2b135a9c8aaa3ac5d",
+    "revid": 13989
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "baseline_preserved"
+    }
+  ],
+  "identity": {
+    "filename": "Inner_power_(talent)",
+    "kind": "talent",
+    "pageid": 1219,
+    "wiki_title": "Inner power (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "baseline_preserved",
+    "candidate_page_sha256": "7b04d43a30244200ff83a22a412dcb51ccc0c378278308d2b135a9c8aaa3ac5d",
+    "source_sha256": "0b43b5a02ca098863bcd9295304b77afca04b14916604e2639e219314d21e3e1",
+    "status": "unsupported_info",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "7b04d43a30244200ff83a22a412dcb51ccc0c378278308d2b135a9c8aaa3ac5d",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

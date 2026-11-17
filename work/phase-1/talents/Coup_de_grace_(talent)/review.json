@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "30c8f550a05eb8cf5348d4ff25a40c86e69fecfe0081f2c9e3e7dad9142eca70",
+    "revid": 13732
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:58Z",
+      "event": "deterministic_render_applied",
+      "reason": "baseline_preserved"
+    }
+  ],
+  "identity": {
+    "filename": "Coup_de_grace_(talent)",
+    "kind": "talent",
+    "pageid": 4654,
+    "wiki_title": "Coup de grace (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "baseline_preserved",
+    "candidate_page_sha256": "30c8f550a05eb8cf5348d4ff25a40c86e69fecfe0081f2c9e3e7dad9142eca70",
+    "source_sha256": "2d3c054a8c2cbf6883daef9cf154ea734d7fc8795caf342cf028645dc8d23501",
+    "status": "unsupported_info",
+    "updated_at": "2026-11-08T16:08:58Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "30c8f550a05eb8cf5348d4ff25a40c86e69fecfe0081f2c9e3e7dad9142eca70",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

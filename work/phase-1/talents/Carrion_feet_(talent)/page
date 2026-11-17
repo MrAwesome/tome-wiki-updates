@@ -1,0 +1,17 @@
+{{Ability box
+|game_version=1.7.6
+|image=Carrion_Feet.png
+|name=Carrion Feet
+|category_type={{ct|Demented}}
+|category={{c|Path of Horror}}
+|require={{TalentReq/SpellsReq1}}
+|use_mode=Active & Passive
+|cost= +10 insanity
+|cooldown=15
+|range= floor({{CTS|5|10|0.5|0A|1S}})
+|desc=
+Your feet start to continuously produce carrion worms that are constantly crushed as you walk, passively increasing movement speed by {{cts|8|40%|0.7}}.
+You can also activate this talent to instantly destroy more worms, letting you jump in range {{cts|5|10|0.5|0|1}} to visible terrain.
+Upon landing you crush more worms, creating a radius 2 cone of gore; any creatures caught inside deals 70% less damage for one turn.
+If at least 1 enemy is effected by the cone you gain an additional 20 insanity.
+}}

@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "8d8e1737c194b4abbcb49ca39d54164878d93bfff02539ed5b4ba65cfc2c5332",
+    "revid": 10646
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:58Z",
+      "event": "deterministic_render_applied",
+      "reason": "baseline_preserved"
+    }
+  ],
+  "identity": {
+    "filename": "Destroyer_(talent)",
+    "kind": "talent",
+    "pageid": 3768,
+    "wiki_title": "Destroyer (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "baseline_preserved",
+    "candidate_page_sha256": "8d8e1737c194b4abbcb49ca39d54164878d93bfff02539ed5b4ba65cfc2c5332",
+    "source_sha256": "f2297854dd2c61863ac86812563e4f4021602df017ef56414fe8a3de224d93c0",
+    "status": "unsupported_info",
+    "updated_at": "2026-11-08T16:08:58Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "8d8e1737c194b4abbcb49ca39d54164878d93bfff02539ed5b4ba65cfc2c5332",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "ea06efc22fd8f76f12e779af3ae579ec7ab9288689793bd6360a241723e333ec",
+    "revid": 22619
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Void_stars_(talent)",
+    "kind": "talent",
+    "pageid": 5872,
+    "wiki_title": "Void stars (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "b49b0f9abef02ee67ebf3f177dece2610435b55ecfad6650b3a86b0a984c760f",
+    "source_sha256": "19cb982e3487d52626f46c5e0623f5f75b4ad2e126c7580e000672c74ce934b1",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "b49b0f9abef02ee67ebf3f177dece2610435b55ecfad6650b3a86b0a984c760f",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

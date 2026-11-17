@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "afcaa5a290d14d18625f0e17522ca738d217e1980ac9a382bc65db15804c6268",
+    "revid": 8227
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "baseline_preserved"
+    }
+  ],
+  "identity": {
+    "filename": "Unseen_force_(talent)",
+    "kind": "talent",
+    "pageid": 1369,
+    "wiki_title": "Unseen force (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "baseline_preserved",
+    "candidate_page_sha256": "afcaa5a290d14d18625f0e17522ca738d217e1980ac9a382bc65db15804c6268",
+    "source_sha256": "46631029827dac8f1525624d89491d194b26dd2056189b017ece7276f50ca732",
+    "status": "unsupported_info",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "afcaa5a290d14d18625f0e17522ca738d217e1980ac9a382bc65db15804c6268",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

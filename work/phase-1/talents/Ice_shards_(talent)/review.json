@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "80f3aaad64328e4ff9c850b609d9d49a357be53b7383cc0b7a0a60072e480ca4",
+    "revid": 23339
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Ice_shards_(talent)",
+    "kind": "talent",
+    "pageid": 1236,
+    "wiki_title": "Ice shards (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "afa2feefc29fc52329d06266d597a5a519147075efa3d3bf56ec49f6c1e605f6",
+    "source_sha256": "228b100851e332611a9726539e76381bbc3549a41602a1556e117d7e62fc02e0",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "afa2feefc29fc52329d06266d597a5a519147075efa3d3bf56ec49f6c1e605f6",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

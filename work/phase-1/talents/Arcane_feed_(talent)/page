@@ -1,0 +1,13 @@
+{{Ability_box
+|image=Arcane_feed_2017.png
+|name=Arcane Feed
+|category_type={{ct|Technique}}
+|category={{c|Magical Combat}}
+|require={{TalentReq/TechsReq3}}
+|use_mode=Sustained
+|range=10
+|cost=20 Stamina
+|cooldown=5
+|desc=
+Regenerates {{cts|0.143|0.714|0.75}} mana per turn, and increases physical and spell critical chance by {{cts|2.5|11%|0.75}} while active.
+}}

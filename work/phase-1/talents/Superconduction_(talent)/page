@@ -1,0 +1,19 @@
+{{Ability box
+|image=Superconduction.png
+|name=Superconduction
+|game_version=1.7.6
+|embers_version=1.1.10
+|category_type={{ct|Psionic}}
+|category={{c|Action at a distance}}
+|require={{TalentReq/PsiWilReq3}}
+|use_mode=Activated
+|range=7
+|cost=10 Steam + 10 Psi
+|cooldown=5
+|use_speed=Mind
+|desc=
+Call a streak of {{lightning}} on your target, dealing {{ctmd|8.333333333|133.3333333}} to {{ctmd|25|400}} lightning damage.
+If it is wet the lightning propagates to all foes in radius {{ctl|4|1|4}}, doing the same damage to each.
+All affected foes are seared for 4 turns, reducing their fire resistance by {{cts|15|40%}} and and mind save by {{cts|15|40}}.
+The damage will increase with your Mindpower.
+}}

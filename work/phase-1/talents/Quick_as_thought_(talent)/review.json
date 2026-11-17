@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "03d2af9cdeceab0dc68648a7ac9ea01b7a6ab3e27a293e6e18f39637735b93fb",
+    "revid": 23017
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "baseline_preserved"
+    }
+  ],
+  "identity": {
+    "filename": "Quick_as_thought_(talent)",
+    "kind": "talent",
+    "pageid": 1697,
+    "wiki_title": "Quick as thought (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "baseline_preserved",
+    "candidate_page_sha256": "03d2af9cdeceab0dc68648a7ac9ea01b7a6ab3e27a293e6e18f39637735b93fb",
+    "source_sha256": "a4c3869b3cd339c41e8ab9edbf15ac0c8401376861c03fe731d343fcafa97fe5",
+    "status": "unsupported_info",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "03d2af9cdeceab0dc68648a7ac9ea01b7a6ab3e27a293e6e18f39637735b93fb",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

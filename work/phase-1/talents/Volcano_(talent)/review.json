@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "3ec4cd7e7459b1f2e50cab025bbed927c1e3231bfb0d205c5a8b2389ae3feda9",
+    "revid": 5813
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Volcano_(talent)",
+    "kind": "talent",
+    "pageid": 2954,
+    "wiki_title": "Volcano (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "1677667c0cb99f6c20eb357f03df93ce375b79d1ce89369f29f821c04c0ada52",
+    "source_sha256": "dc640c1af5d22a45472d843380c9de01334530b3831bd2b9fe88ee0cba3abc23",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "1677667c0cb99f6c20eb357f03df93ce375b79d1ce89369f29f821c04c0ada52",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

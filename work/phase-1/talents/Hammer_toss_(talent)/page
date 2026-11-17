@@ -1,0 +1,14 @@
+{{Ability box
+|game_version=1.7.6
+|image=Hammer toss.png
+|name=Hammer Toss
+|category_type={{ct|Psionic}}
+|category={{c|Dream Smith}}
+|require={{TalentReq/PsiWilReq2}}
+|range={{cts|6|10}}
+|cost=10 Psi
+|cooldown=8
+|desc=
+Throw your Dream Hammer at a distant location, inflicting {{ctwd|100|150%}} weapon damage on all targets between you and it.  After reaching its destination, the Dream Hammer will return, potentially hitting targets a second time.
+Learning this talent increases the Accuracy of your Dream Hammer by {{gtl|1|5}}.
+}}

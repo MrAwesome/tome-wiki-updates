@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "bef94506ea70e3787f1f19183dd88710a0095cc64db2b6e903c04a784ffaa594",
+    "revid": 11173
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:58Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Acidic_spray_(talent)",
+    "kind": "talent",
+    "pageid": 1134,
+    "wiki_title": "Acidic spray (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "a9a6b3e6786753e74afcd9cce685b463f1e9473361c0a5740ff7b40c9ee5eaa5",
+    "source_sha256": "0257cfedc80888acc505219169b2d10bfae0de46189ff2507033f79f7e91a973",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:58Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "a9a6b3e6786753e74afcd9cce685b463f1e9473361c0a5740ff7b40c9ee5eaa5",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

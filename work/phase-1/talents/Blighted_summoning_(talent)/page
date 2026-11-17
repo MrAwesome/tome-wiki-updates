@@ -1,0 +1,32 @@
+{{Ability box
+|game_version=1.7.4
+|image=Blighted summoning.png
+|name=Blighted Summoning
+|category_type=[[Prodigies]]
+|category=[[Prodigies#Magic|Magic]]
+|require=Magic 50<br />Have summoned at least 100 creatures. More permanent summons may count as more than 1.
+|use_mode=Passive
+|desc=
+You infuse blighted energies into all of your summons, granting them {{t|Bone Shield}} (level 3) and a bonus to Spellpower equal to your Magic.
+Your Wilder Summons and Necrotic Minions will gain special corrupted talents (level 3), other summons will gain 10% Blight damage conversion and {{t|Virulent Disease}} (level 3).
+
+{{color|green|Wilder Summons}}:
+*{{t|War Hound}}: {{t|Gnaw}}
+*{{t|Jelly}}: {{t|Curse of Defenselessness}}
+*{{t|Minotaur}}: {{t|Ruin}}
+*[[Stone golem (talent)|Golem]]: {{t|Acid Blood}}
+*[[Ritch flamespitter (talent)|Ritch]]: {{t|Life Tap}}
+*{{t|Hydra}}: {{t|Blood Spray}}
+*{{t|Rimebark}}: {{t|Poison Storm}}
+*{{t|Fire Drake}}: {{t|Flame of urh'rok}}
+*{{t|Turtle}}: {{t|Elemental Discord}}
+*{{t|Spider}}: {{t|Blood Grasp}}
+
+{{color|gray|Necrotic Minions}}:
+*Skeleton Mages: {{t|Bone Spear}}
+*Skeleton Archers: {{t|Bone Spike}}
+*Skeleton Warriors: {{t|Ruin}}
+*Bone Giants: {{t|Bone Spike}} and {{t|Ruin}}
+*Ghouls: {{t|Virulent Disease}}
+*Dread: {{t|Slumber}}
+}}

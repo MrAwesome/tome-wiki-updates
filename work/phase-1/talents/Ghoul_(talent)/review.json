@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "02b4fa5d107e2391e4917996a398e2b3b80f25532dffa4c14e9ac99c4a9b4ece",
+    "revid": 22109
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Ghoul_(talent)",
+    "kind": "talent",
+    "pageid": 1710,
+    "wiki_title": "Ghoul (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "c82107ae8d862c6fa908137f662b5cfa14f06e1d017e774d70428337d3ff1e0a",
+    "source_sha256": "036f501d24a0e0f24b96d135bb879a2a344d977473f26c460c8d1ca99f0a98d9",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "c82107ae8d862c6fa908137f662b5cfa14f06e1d017e774d70428337d3ff1e0a",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

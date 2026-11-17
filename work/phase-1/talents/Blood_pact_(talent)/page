@@ -1,0 +1,16 @@
+{{Ability box
+|ashes_version=1.1.4
+|game_version=1.7.6
+|image=Blood_pact.png
+|name=Blood Pact
+|category_type={{ct|Corruption}}
+|category={{c|Doom covenant}}
+|require={{TalentReq/SpellsReq3}}
+|cost=
+|range=Melee/Personal
+|cooldown=7
+|speed=instant
+|desc=
+Pay 10% of your current life and gain 100% darkness damage conversion for 1 turns.
+If Dark Reign is active you also gain {{cts|5|25|0.75}} stamina and {{cts|5|25|0.75}} vim per stack.
+}}

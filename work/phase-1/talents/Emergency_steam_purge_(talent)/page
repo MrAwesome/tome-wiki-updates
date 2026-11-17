@@ -1,0 +1,19 @@
+{{Ability box
+|image=Emergency steam purge.png
+|name=Emergency steam purge
+|game_version=1.7.6
+|embers_version=1.1.10
+|category_type={{ct|Steamtech}}
+|category={{c|Engineering}}
+|require={{TalentReq/SteamReq1}}
+|cost=50 Steam
+|use_mode=Activated
+|use_speed=Steamtech
+|cooldown=15
+|desc=
+You open all steam valves at once, releasing a radius 3 wave of superheated steam around yourself which deals {{ctstmd|20|330}} {{fire}} damage (but can not be a critical hit).
+
+If you had at least 35 steam, the vapours will be so hot that they can burn sensory organs, blinding affected creatures for {{cts|2|4.5}} turns (round down).
+
+The effects scale with your current steam value; at 1 steam they are only 15% as effective as at 50 or more.
+}}

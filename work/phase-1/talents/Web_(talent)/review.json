@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "17056c582f56f487b46c80fdcf31e4d5d5542d19deec7eb0c657a5cac9e82c58",
+    "revid": 12903
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Web_(talent)",
+    "kind": "talent",
+    "pageid": 4590,
+    "wiki_title": "Web (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "559f33290d7b0f84c1a4630a2407a5a0b1c9df9468085ae0ec03df4abc388a40",
+    "source_sha256": "b7f9b25c89954bcf7b8affbaf2b05c6715777e6b69652079fb9bad36c2bb1540",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "559f33290d7b0f84c1a4630a2407a5a0b1c9df9468085ae0ec03df4abc388a40",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

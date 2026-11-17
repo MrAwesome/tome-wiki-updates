@@ -1,0 +1,19 @@
+{{Ability_box
+|name = Hymn Acolyte
+|image = Hymn acolyte.png
+|category_type={{ct|Celestial}}
+|category={{c|Hymns}}
+|game_version = 1.7.4
+|require = {{TalentReq/DiviReq1}}
+|use_mode = Passive
+|desc = 
+You have learned to sing the praises of the Moons, in the form of three defensive Hymns:
+
+{{t|Hymn of Shadows}}: Increases your movement speed by {{ctspd|20|50}}% and your spell casting speed by {{ctspd|7|20}}%.
+
+{{t|Hymn of Detection}}: Increases your ability to see stealthy creatures by {{ctspd|2|25}} and invisible creatures by {{ctspd|2|25}}, and increases your critical power by {{ctspd|10|50}}%.
+
+{{t|Hymn of Perseverance}}: Increases your resistance to stun, confusion and blinding by {{ctl|100%|20|45%}}.
+
+You may only have one Hymn active at a time.
+}}

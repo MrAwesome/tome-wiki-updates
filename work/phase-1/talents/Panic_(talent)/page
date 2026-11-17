@@ -1,0 +1,17 @@
+{{Ability box
+|game_version=1.7.6
+|image=Panic.png
+|name=Panic
+|category_type={{ct|Cursed}}
+|category={{c|Fears}}
+|require={{TalentReq/CursedWilReq4}}
+|use_mode=Activated
+|range=4
+|cost=1 Hate
+|cooldown=20
+|desc=
+Panic your enemies within a range of 4 for {{gtl|1|5}} turns. Anyone who fails to make a mental save against your Mindpower has a {{cts|25|40%}} chance each turn of trying to run away from you.
+}}
+
+===Notes===
+*The flee chance isn't random as the description states. Each time the target acts, the chance is added to a hidden counter (only half if the creature passes a mental save against your Mindpower). Whenever the counter rolls over 100 the creature attempts to flee on its turn. The counter starts randomly between 0 and 100, so the first flee comes at a random time and later ones follow a roughly regular rhythm. {{t|Beckon}} and the Paranoid fear from {{t|Instill Fear}} use the same counter.

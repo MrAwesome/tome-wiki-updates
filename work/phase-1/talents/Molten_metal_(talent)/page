@@ -1,0 +1,16 @@
+{{Ability box
+|image=Molten metal.png
+|name=Molten Metal
+|game_version=1.7.6
+|embers_version=1.1.10
+|category_type={{ct|Steamtech}}
+|category={{c|Furnace}}
+|require={{TalentReq/SteamReqHigh2}}
+|use_mode=Passive
+|desc=
+While Furnace is on your armour is so hot from the furnace it dissipates parts of all energy based attacks against you.
+All non physical, non mind damage is reduced by {{gtl|1|5}} (current {{gtl|1|5}}).
+Each turn this happens you gain a molten point (up to 10), decreasing the efficiency of the reduction by 25%.
+Molten points are removed upon running or resting.
+#{italic}#Hot liquid metal, the fun!#{normal}#
+}}

@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "2819cc9314289574d5adc00a32a02dd07a45581e4dff5bef4eeefafa63653dea",
+    "revid": 19368
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:58Z",
+      "event": "deterministic_render_applied",
+      "reason": "baseline_preserved"
+    }
+  ],
+  "identity": {
+    "filename": "Call_of_the_crypt_(talent)",
+    "kind": "talent",
+    "pageid": 5560,
+    "wiki_title": "Call of the crypt (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "baseline_preserved",
+    "candidate_page_sha256": "2819cc9314289574d5adc00a32a02dd07a45581e4dff5bef4eeefafa63653dea",
+    "source_sha256": "4318c0328da28c7a7767bf96027d8ccc449ab120b17558d8af699a6a6a05d170",
+    "status": "unsupported_info",
+    "updated_at": "2026-11-08T16:08:58Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "2819cc9314289574d5adc00a32a02dd07a45581e4dff5bef4eeefafa63653dea",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

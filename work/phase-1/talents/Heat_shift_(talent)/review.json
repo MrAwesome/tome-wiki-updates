@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "b19a6a1a1f7c5d5e787dbbef71c1ceb8cd423ab3fdb919753100e1140a8c696a",
+    "revid": 13910
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Heat_shift_(talent)",
+    "kind": "talent",
+    "pageid": 3408,
+    "wiki_title": "Heat shift (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "5a09c3c0e447f0f1d63eb36e62ad4184b3b1a421bbb55f22d04514dc94186938",
+    "source_sha256": "6ca95112121a9f1c6cf5f85fc6be434c8ca7716b67549e916fcbe81793ef31c1",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "5a09c3c0e447f0f1d63eb36e62ad4184b3b1a421bbb55f22d04514dc94186938",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

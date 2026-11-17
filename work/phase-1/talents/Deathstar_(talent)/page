@@ -1,0 +1,13 @@
+{{Ability box
+|image=Deathstar.png
+|name=Deathstar
+|game_version=1.7.6
+|embers_version=1.1.10
+|category_type={{ct|Steamtech}}
+|category={{c|Mechstar}}
+|require={{TalentReq/SteamReq4}}
+|use_mode=Passive
+|desc=When you use a shoot class talent to hit a creature affected by bloodstar an other shoot talent will have its current cooldown reduced by {{CTS|1|5}} turns.
+
+''The "shoot class talents" for this purpose are all of [[Psyshot]]'s talents with "shot" in their names. These are {{t|Lucid Shot}} and all 4 talents in {{c|Psytech Gunnery}}. {{t|Psy Worm}} is not included, even though it shoots your steamgun.''
+}}

@@ -1,0 +1,19 @@
+{{Ability box
+|game_version=1.7.6
+|name=Weapon of Wrath
+|image=Weapon of wrath.png
+|category_type={{ct|Celestial}}
+|category={{c|Combat}}
+|require={{TalentReq/DiviReq3}}
+|use_mode=Sustained
+|cost=10 Positive
+|cooldown=10
+|range=10
+|use_speed=Spell
+|desc=
+Your weapon attacks burn with righteous fury, dealing {{ctl|100%|55|95%}} of your lost HP as additional Fire damage, up to a maximum of {{ctspd|10|400}}.
+
+Targets struck are also afflicted with a Martyrdom effect that causes them to take {{ctl|50%|10|25%}} of all damage they deal for 4 turns.
+
+The bonus damage can only occur once per turn.
+}}

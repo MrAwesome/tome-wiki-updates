@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "226afdf0c8bc86d67117269928449346a2144a8f3ce508c99bb04e22acf1c54b",
+    "revid": 8668
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "baseline_preserved"
+    }
+  ],
+  "identity": {
+    "filename": "Solipsism_(talent)",
+    "kind": "talent",
+    "pageid": 1112,
+    "wiki_title": "Solipsism (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "baseline_preserved",
+    "candidate_page_sha256": "226afdf0c8bc86d67117269928449346a2144a8f3ce508c99bb04e22acf1c54b",
+    "source_sha256": "c5a3b13b26df9fd109926706b25a95cedc3e8204b91ac97afeac08ec2448e4e8",
+    "status": "unsupported_info",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "226afdf0c8bc86d67117269928449346a2144a8f3ce508c99bb04e22acf1c54b",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "1ed40ba0a14b53cbb25f7e841fca65ada824486f37b016751c5ab557675cec87",
+    "revid": 13835
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Grappling_hook_(talent)",
+    "kind": "talent",
+    "pageid": 4880,
+    "wiki_title": "Grappling hook (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "d2c0b3a7694a5d9430501dc5bca5c7dd6604ef91ad359defe465eab4b7996307",
+    "source_sha256": "8a1d55511ff0273bfc9f4193b98de2269372475ffafc5c8185257d59bb7ad4d3",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "d2c0b3a7694a5d9430501dc5bca5c7dd6604ef91ad359defe465eab4b7996307",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

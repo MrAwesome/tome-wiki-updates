@@ -1,0 +1,18 @@
+{{Ability box
+|image=Ravage.png
+|name=Ravage
+|category_type={{ct|Psionic}}
+|category={{c|Distortion}}
+|require={{TalentReq/PsiWilReq3}}
+|range=10
+|cost=20 Psi
+|cooldown=12
+|desc=
+Ravages the target with distortion, inflicting {{ctmd|10|50}} physical damage each turn for {{cts|5|9}} turns.
+
+This damage will distort affected targets, decreasing physical resistance by (''number of talent points in {{c|Distortion}}'')% and rendering them vulnerable to distortion effects for 2 turns.
+
+If the target is already distorted when Ravage is applied, the damage will be increased by 50% and the target will lose one beneficial physical effect or sustain each turn.
+
+Investing in this talent will increase the physical resistance reduction from all of your distortion effects.
+}}

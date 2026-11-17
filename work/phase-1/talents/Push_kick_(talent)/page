@@ -1,0 +1,13 @@
+{{Ability_box
+|image=Push kick.png
+|name=Push kick
+|category_type=[[Technique (category type)|Technique]]
+|category=[[Unarmed discipline (category)|Unarmed discipline]]
+|require=Level: (0, 1, 2, 3, 4)
+(12, 14, 16, 18, 20) Dexterity
+|use_mode=activated
+|range=melee/personal
+|cost=12 stamina
+|cooldown=6
+|use_speed=1 turn
+|desc=A push kick that knocks the target back 2-3 tiles (1 + talent level/4, rounded up), moves you back 1 tile, and inflicts X physical damage. If another creature is in the way, that creature will be affected as well. Targets knocked into other targets may take extra damage. This will earn one combo point, and break any grapples you're maintaining. The damage will scale with your Physical Power.}}

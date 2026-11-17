@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "8bb212048f85cf54cac2c67883a4e35a7eb4f731e5d0d3d9e23d223951f98d4b",
+    "revid": 8359
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Retribution_(talent)",
+    "kind": "talent",
+    "pageid": 147,
+    "wiki_title": "Retribution (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "c693b7b90bd84202750567d5d9660b9c1dd5f235f091e9bf264a88660522413b",
+    "source_sha256": "30393b385ff0530d4df7bfae9ffd27463c880a039eaabdb55f5befa4c3d53e68",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "c693b7b90bd84202750567d5d9660b9c1dd5f235f091e9bf264a88660522413b",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

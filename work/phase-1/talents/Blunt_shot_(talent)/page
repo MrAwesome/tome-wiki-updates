@@ -1,0 +1,14 @@
+{{Ability box
+|image=Blunt shot.png
+|name=Blunt shot
+|game_version=1.7.6
+|embers_version=1.1.10
+|category_type={{ct|Steamtech}}
+|category={{c|Psytech gunnery}}
+|require={{TalentReq/DexSteamReq3}}
+|cooldown=11
+|cost=25 Steam + 15 Psi
+|range=Steamgun range
+|use_speed=Steamtech
+|desc=Fire a relatively low-powered shot at a foe doing {{ctwd|50|150%}} weapon damage, if it hits a cone-shaped shockwave of radius 4 emanates from the impact, stunning it and all creatures caught inside for {{CTL|10|3|7}} turns.
+}}

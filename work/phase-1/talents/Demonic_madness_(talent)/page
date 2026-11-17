@@ -1,0 +1,14 @@
+{{Ability box
+|image=Demonic madness.png
+|name=Demonic Madness
+|category_type={{ct|Corruption}}
+|category={{c|Doom shield}}
+|require={{TalentReq/SpellsReq3}}
+|cost=15 Stamina, 12 Vim
+|range=Melee/Personal
+|cooldown=9
+|desc=
+You spin around madly with your shield, bashing all those around you for {{ctwd|120|220%}} shield damage as darkness, confusing your foes for {{ctl|7|2|5}} turns.
+
+At level 4, you also automatically block at the end.
+}}

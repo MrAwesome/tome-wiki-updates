@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "9bd9d6c2d22c5a536d50c709204d3cc23cd3ba4a3005eb157dd6981d99c3cd6f",
+    "revid": 13851
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Vampiric_surge_(talent)",
+    "kind": "talent",
+    "pageid": 4706,
+    "wiki_title": "Vampiric surge (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "a81a90f2e3990cfcf9e5bebcedc9ebc301541a4948d3035edfff01651c8c7f42",
+    "source_sha256": "bd12aaee8dded0a470023adc12ee748947a1458fc285ea24badc625271478d63",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "a81a90f2e3990cfcf9e5bebcedc9ebc301541a4948d3035edfff01651c8c7f42",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

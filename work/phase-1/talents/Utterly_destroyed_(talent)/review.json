@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "c4631e3b3ff3b5f0be9a47c5ca273b5d106c5094895cc0deb79e686ac81ccf39",
+    "revid": 19401
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Utterly_destroyed_(talent)",
+    "kind": "talent",
+    "pageid": 6057,
+    "wiki_title": "Utterly destroyed (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "b5239adf8679703c4161b3ed781957c7fe7f4c1dd53c8e89be846b4dafe5554b",
+    "source_sha256": "78355e3e933bd6f6566cdd648554e8896af253a0f74c0a71bb18d7d8ce65f665",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "b5239adf8679703c4161b3ed781957c7fe7f4c1dd53c8e89be846b4dafe5554b",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

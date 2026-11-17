@@ -1,0 +1,17 @@
+{{Ability box
+|game_version=1.7.6
+|image=You shall be my weapon.png
+|name=You Shall Be My Weapon
+|category_type=[[Prodigies]]
+|category=[[Prodigies#Strength|Strength]]
+|require=Strength 50<br />Be of size category big or larger. This is also required to use it.
+|use_mode=Activated
+|cooldown=10
+|use_speed=Weapon
+|desc=
+You deal a massive blow to your foe, smashing it for 350% weapon damage, knocking it back 5 tiles, and knocking aside all foes in its path.
+All targets affected are stunned for 3 turns.
+For each size category over 'big' you gain an additional +80% weapon damage.
+}}
+===Notes===
+*The stun and knockback ignore physical saves, but can still be prevented by stun and knockback resistance.

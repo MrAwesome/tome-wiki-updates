@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "d5e8c1457c8082e4240980c81a31a948ced2eabd19f651005b743e04ba8d9897",
+    "revid": 17112
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:58Z",
+      "event": "deterministic_render_applied",
+      "reason": "baseline_preserved"
+    }
+  ],
+  "identity": {
+    "filename": "Augment_despair_(talent)",
+    "kind": "talent",
+    "pageid": 5465,
+    "wiki_title": "Augment despair (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "baseline_preserved",
+    "candidate_page_sha256": "d5e8c1457c8082e4240980c81a31a948ced2eabd19f651005b743e04ba8d9897",
+    "source_sha256": "4dfe91fbc940619caf2b6d5c3b1c8004f96c042c70a96f3f931d1caf6c89b874",
+    "status": "unsupported_info",
+    "updated_at": "2026-11-08T16:08:58Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "d5e8c1457c8082e4240980c81a31a948ced2eabd19f651005b743e04ba8d9897",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

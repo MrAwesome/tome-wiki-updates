@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "906320ed81831fd212095308e6ab7cb29b15e11f9f3cb2bf55f120eba7eca93b",
+    "revid": 8037
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Mobile_defence_(talent)",
+    "kind": "talent",
+    "pageid": 1593,
+    "wiki_title": "Mobile defence (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "37e574270626952e980d9fa1a2377ab57a7b245b5b478f34cc7233707a29362c",
+    "source_sha256": "dc640c1af5d22a45472d843380c9de01334530b3831bd2b9fe88ee0cba3abc23",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "37e574270626952e980d9fa1a2377ab57a7b245b5b478f34cc7233707a29362c",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

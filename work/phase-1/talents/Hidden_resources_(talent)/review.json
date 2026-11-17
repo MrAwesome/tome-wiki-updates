@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "d0a7fe8b4b94615f4fe7782e225954eb02779eee75f0b00e850969b61509d417",
+    "revid": 14966
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Hidden_resources_(talent)",
+    "kind": "talent",
+    "pageid": 3470,
+    "wiki_title": "Hidden resources (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "c0d2dab84363aaae264902a2b503d4595a4f047d598c418b79e5cf02823ebad4",
+    "source_sha256": "bde073032f50b20d456193dd79131b7e54e2dcdfc42ca92736e6f406e8c28931",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "c0d2dab84363aaae264902a2b503d4595a4f047d598c418b79e5cf02823ebad4",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

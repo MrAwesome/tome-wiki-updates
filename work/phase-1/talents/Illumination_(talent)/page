@@ -1,0 +1,16 @@
+{{Ability_box
+|image=illumination.png
+|name=Illumination
+|category_type=[[Celestial (category type)|Celestial]]
+|category={{c|Radiance}}
+|require={{TalentReq/DiviReq2}}
+|use_mode=Passive
+|desc=
+The light of your Radiance allows you to see that which would normally be unseen.
+
+All enemies in your Radiance aura have their invisibility and stealth power reduced by (15 + {{ctspd|1|100}}).
+
+In addition, all actors affected by illumination are easier to see and therefore hit; their defense is reduced by (5 + {{ctspd|1|35}}) and all evasion bonuses from being unseen are negated.
+
+The effects increase with your Spellpower.
+}}

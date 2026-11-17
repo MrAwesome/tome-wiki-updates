@@ -1,0 +1,16 @@
+{{Ability box
+|name=Heartseeker
+|image=Heartseeker.png
+|game_version=1.5.2
+|category_type={{ct|Technique}}
+|category={{c|Dual Techniques}}
+|require={{TalentReq/TechsDexReq3}}
+|cost=18 Stamina
+|cooldown=8
+|range={{ctl|10|3|5.5}}
+|travel_speed=Instantaneous
+|use_speed=Weapon
+|desc=
+Swiftly leap to your target and strike at their vital points with both weapons, dealing {{ctwd|100|170}}% weapon damage. 
+This attack deals {{CTL|50|10|30}}% increased critical strike damage.
+}}

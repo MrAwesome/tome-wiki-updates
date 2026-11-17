@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "23cf4def2dd60feaf01d6eac1bda2729c2872249468c35d873b7145ae0fc9a62",
+    "revid": 8870
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "baseline_preserved"
+    }
+  ],
+  "identity": {
+    "filename": "Projection_(talent)",
+    "kind": "talent",
+    "pageid": 1615,
+    "wiki_title": "Projection (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "baseline_preserved",
+    "candidate_page_sha256": "23cf4def2dd60feaf01d6eac1bda2729c2872249468c35d873b7145ae0fc9a62",
+    "source_sha256": "cf49b7d74fbf410c0a1c8d62c9737d05b8d04de0b70334e11a8bc4c1f46eb4db",
+    "status": "unsupported_info",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "23cf4def2dd60feaf01d6eac1bda2729c2872249468c35d873b7145ae0fc9a62",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

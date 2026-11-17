@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "021bed58b1cc92d23219c20bc6f1a8ca8eb9cea6a5f305896d771d81de6e2a61",
+    "revid": 8131
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:58Z",
+      "event": "deterministic_render_applied",
+      "reason": "baseline_preserved"
+    }
+  ],
+  "identity": {
+    "filename": "Curse_of_the_meek_(talent)",
+    "kind": "talent",
+    "pageid": 1481,
+    "wiki_title": "Curse of the meek (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "baseline_preserved",
+    "candidate_page_sha256": "021bed58b1cc92d23219c20bc6f1a8ca8eb9cea6a5f305896d771d81de6e2a61",
+    "source_sha256": null,
+    "status": "unmatched_source",
+    "updated_at": "2026-11-08T16:08:58Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "021bed58b1cc92d23219c20bc6f1a8ca8eb9cea6a5f305896d771d81de6e2a61",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

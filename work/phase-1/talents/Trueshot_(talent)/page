@@ -1,0 +1,14 @@
+{{Ability box
+|image=trueshot.png
+|name=Trueshot
+|game_version=1.7.6
+|category_type={{ct|Technique}}
+|category={{c|Marksmanship}}
+|require={{TalentReq/TechsDexReq4}}
+|cost=30 Stamina
+|cooldown=25
+|travel_speed=Instantaneous
+|use_speed=Instant
+|desc=
+Enter a state of heightened focus for {{cts|4|7}} turns. While in this state your ranged attack speed is increased by {{ctl|40%|15|33%}}, your shots do not consume ammo, and all shots capable of marking have their chance to mark increased by {{ctl|100%|25|55%}}.
+}}

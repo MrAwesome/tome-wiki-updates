@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "477c0103eb5bc9da8621772a0d71e2b54b69b8841112efb870c0a37c9e94abe9",
+    "revid": 22391
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Massive_physique_(talent)",
+    "kind": "talent",
+    "pageid": 4406,
+    "wiki_title": "Massive physique (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "477c0103eb5bc9da8621772a0d71e2b54b69b8841112efb870c0a37c9e94abe9",
+    "source_sha256": "0ec9dc9025bb72d3017c4ab18950a7e35950de7819ebc5385e8e327bf055b772",
+    "status": "no_change",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "477c0103eb5bc9da8621772a0d71e2b54b69b8841112efb870c0a37c9e94abe9",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

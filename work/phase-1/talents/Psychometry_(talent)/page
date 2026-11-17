@@ -1,0 +1,14 @@
+{{Ability box
+|image=Psychometry.png
+|name=Psychometry
+|category_type={{ct|Psionic}}
+|category={{c|Mentalism}}
+|require={{TalentReq/PsiWilReq1}}
+|use_mode=Passive
+|desc=
+Resonate with psionic, nature, and anti-magic powered objects you wear, increasing your physical and mind power by (Raw Talent Level / 2) or {{ctl|500%|15|50%}} of the object's material level (whichever is lower but always at least 0.5).
+
+This effect stacks and applies for each qualifying object worn.
+
+''Note: Objects without material level are treated as if they were level 1.''
+}}

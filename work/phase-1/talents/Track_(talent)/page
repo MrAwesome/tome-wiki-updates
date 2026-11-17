@@ -1,0 +1,15 @@
+{{Ability_box
+|name=Track
+|image=Track_2017.png
+|game_version=1.7.6
+|category_type=[[Cunning (category type)|Cunning]]
+|category=[[Survival (category)|Survival]]
+|require={{TalentReq/CunsReq3}}
+|cooldown=20
+|use_speed=Standard
+|desc=
+Sense foes around you for a duration of {{cts|4|8}} turns, in a radius of {{cs|(0.1 * Cun * Talent Level)|5|0|35|55}}.
+
+The radius will increase with your Cunning.
+|avail.escorts=[[Escorts#Thief|Thief]] +1 to talent or via revealing the locked {{c|Survival}} category
+}}

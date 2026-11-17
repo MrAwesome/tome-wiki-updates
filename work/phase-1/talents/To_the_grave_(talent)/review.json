@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "419e8baa31836a07c135f1c6d7ad7a2b4eaafe2ae5b641b90cbc37a6f6d74c2c",
+    "revid": 19435
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "To_the_grave_(talent)",
+    "kind": "talent",
+    "pageid": 6085,
+    "wiki_title": "To the grave (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "f4acee853e21a477ea8cd49460382d27c4b84dd1c07b18005616ceda1602a78f",
+    "source_sha256": "52831b8501e7a724ed3691875e4a6a7757fe3b2f0a859a4e8e4dd673cd9007d6",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "f4acee853e21a477ea8cd49460382d27c4b84dd1c07b18005616ceda1602a78f",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

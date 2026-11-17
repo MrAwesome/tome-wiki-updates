@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "ff9d306b7f608521dd048543a8619a474349121f69d6bbc67e4717e478a62289",
+    "revid": 16914
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:58Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Corpselight_(talent)",
+    "kind": "talent",
+    "pageid": 5581,
+    "wiki_title": "Corpselight (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "dd5701b69329879430962dd868bbe1cc256c7dea9a843e337ccf4ab6885b48c6",
+    "source_sha256": "9b1026424020329039b8eb7fe6db66f92758840156894114bcdba7173c2dea11",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:58Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "dd5701b69329879430962dd868bbe1cc256c7dea9a843e337ccf4ab6885b48c6",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

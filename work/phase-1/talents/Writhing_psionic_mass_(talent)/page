@@ -1,0 +1,21 @@
+{{Ability_box
+|image=writhing_psionic_mass.png
+|name=Writhing Psionic Mass
+|game_version=1.7.6
+|category_type={{ct|Psionic}}
+|category={{c|Deep Horror}}
+|require={{TalentReq/PsiWilHigh3}}
+|use_mode=Activated
+|cost=10 Psi
+|cooldown=18
+|travel_speed=Instantaneous
+|use_speed=Instant
+|desc=
+Your physical form is but a mere extension of your mind, you can bend it at will for {{cts|3|5}} turns.
+While under the effect you gain {{cts|12|40%}} all resistances and have {{cts|12|30%}} chance to ignore all critical hits.
+On activation you also remove up to {{cts|1|2}} physical or mental effects.
+|avail.classes=[[Possessor]]
+}}
+===Notes===
+*The description is wrong about how the talent affects critical hits. Instead of having a chance roll, each critical hit's bonus damage is reduced by that percentage, so at 30% a crit that deals 150% damage would end up dealing 135%.
+**The description is also wrong about the effects removed, only negative physical effects are removed.

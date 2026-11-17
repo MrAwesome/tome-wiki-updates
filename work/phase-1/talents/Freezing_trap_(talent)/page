@@ -1,0 +1,12 @@
+{{Ability box
+|image=Freezing trap.png
+|name=Freezing trap
+|category_type={{ct|Cunning}}
+|category={{c|Trapping}}
+|require={{t|Trap Mastery}} Level 1
+|cooldown=12
+|cost=12 Stamina
+|range=Trap Range
+|desc= Lay a trap that explodes into a radius 2 cloud of freezing vapour when triggered.  Foes take %0.2f cold damage and are pinned for 3 turns.
+		The freezing vapour persists for 5 turns, dealing %0.2f cold damage each turn to foes with a 25%% chance to freeze.
+		This trap can use a primed trigger and a high level lure can trigger it.}}

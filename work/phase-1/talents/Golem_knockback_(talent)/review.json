@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "410c9fef6cd506ac81b514e1fe9d9e34ee260024e2e2cd428c041cb89750a3f6",
+    "revid": 8937
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Golem_knockback_(talent)",
+    "kind": "talent",
+    "pageid": 3501,
+    "wiki_title": "Golem knockback (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "7db5da59128726432c69f9a97361b4bd939422d81f4679dd0c5baf6cd3ece7da",
+    "source_sha256": "26e2741d1f21ca1a890d103fccc09d8fdf963255a127bf5941e8d2e06ab12824",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "7db5da59128726432c69f9a97361b4bd939422d81f4679dd0c5baf6cd3ece7da",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

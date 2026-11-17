@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "20670785db38d0566549eeb81234e909924fbbda37bf6c5ac3b46a03c020d9cb",
+    "revid": 14173
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:58Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Cleansing_flames_(talent)",
+    "kind": "talent",
+    "pageid": 1149,
+    "wiki_title": "Cleansing flames (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "d8d474605970c9e8fc422419fc872c86edb4b85f434ae2e318da5e88e4ef9f5a",
+    "source_sha256": "7012e7b70c79452f4965c46196ffd11c2998df7c2c2b8e86397e66ec334b7050",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:58Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "d8d474605970c9e8fc422419fc872c86edb4b85f434ae2e318da5e88e4ef9f5a",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

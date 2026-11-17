@@ -1,0 +1,15 @@
+{{Ability_box
+|game_version=1.7.6
+|image=Lightning.png
+|name=Lightning
+|category_type={{ct|Spell}}
+|category={{c|Air}}
+|require={{TalentReq/SpellsReq1}}
+|use_mode=Activated
+|range=10
+|cost=10 Mana
+|cooldown=3
+|desc=
+Conjures up mana into a powerful beam of lightning, doing {{ctspd|6.666666667|116.6666667}} to {{ctspd|20|350}} damage ({{ctspd|13.33333333|233.3333333}} average)
+The damage will increase with your Spellpower.
+}}

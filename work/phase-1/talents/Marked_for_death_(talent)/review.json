@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "4be0ce2a4aecd4b01c461754dfadaa709cc59e8057b2e962eac3f26cc7a844f6",
+    "revid": 13735
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "baseline_preserved"
+    }
+  ],
+  "identity": {
+    "filename": "Marked_for_death_(talent)",
+    "kind": "talent",
+    "pageid": 4657,
+    "wiki_title": "Marked for death (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "baseline_preserved",
+    "candidate_page_sha256": "4be0ce2a4aecd4b01c461754dfadaa709cc59e8057b2e962eac3f26cc7a844f6",
+    "source_sha256": "2d3c054a8c2cbf6883daef9cf154ea734d7fc8795caf342cf028645dc8d23501",
+    "status": "unsupported_info",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "4be0ce2a4aecd4b01c461754dfadaa709cc59e8057b2e962eac3f26cc7a844f6",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

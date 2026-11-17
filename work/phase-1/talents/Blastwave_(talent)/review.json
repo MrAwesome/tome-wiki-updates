@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "cada48e1e3e8e96e21c1779cfce3e2dd5f415d210689f2494b9311467489e097",
+    "revid": 14175
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:58Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Blastwave_(talent)",
+    "kind": "talent",
+    "pageid": 1150,
+    "wiki_title": "Blastwave (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "7ce768d27fe5a23265709d1ebde001e42a3f584ee68bfe6fc9000c1923520241",
+    "source_sha256": "7012e7b70c79452f4965c46196ffd11c2998df7c2c2b8e86397e66ec334b7050",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:58Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "7ce768d27fe5a23265709d1ebde001e42a3f584ee68bfe6fc9000c1923520241",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

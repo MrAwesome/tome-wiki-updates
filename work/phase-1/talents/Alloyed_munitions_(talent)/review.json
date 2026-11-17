@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "01a0d84736c60df51739c627608a28b28b8f487ed9181afc41f7ebbbe873add9",
+    "revid": 13825
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:58Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Alloyed_munitions_(talent)",
+    "kind": "talent",
+    "pageid": 4696,
+    "wiki_title": "Alloyed munitions (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "bbc33e73d7faeb57ef7a691ccb28bd909c3c24d770c65ca6d2feeea59222bddf",
+    "source_sha256": "6675712c498b0de1bd51049059d7459f7d275c755c9bb9cfb4caed9f69536aa6",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:58Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "bbc33e73d7faeb57ef7a691ccb28bd909c3c24d770c65ca6d2feeea59222bddf",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

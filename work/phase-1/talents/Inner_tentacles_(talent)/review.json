@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "0fb447202452647708ec888c2667848f7c066d8f4fa49e184223d891332e2167",
+    "revid": 19581
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "baseline_preserved"
+    }
+  ],
+  "identity": {
+    "filename": "Inner_tentacles_(talent)",
+    "kind": "talent",
+    "pageid": 5314,
+    "wiki_title": "Inner tentacles (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "baseline_preserved",
+    "candidate_page_sha256": "0fb447202452647708ec888c2667848f7c066d8f4fa49e184223d891332e2167",
+    "source_sha256": "469dd52ed0413b59395dc7ae46a0a8a0e4eaca5ce8c85e430df6e489e899a3d3",
+    "status": "unsupported_info",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "0fb447202452647708ec888c2667848f7c066d8f4fa49e184223d891332e2167",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

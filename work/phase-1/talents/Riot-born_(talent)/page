@@ -1,0 +1,11 @@
+{{Ability_box
+|game_version=1.7.6
+|image=Riot_born.png
+|name=Riot-Born
+|category_type={{ct|Technique}}
+|category={{c|Thuggery}}
+|require={{TalentReq/TechsReq2}}
+|use_mode=Passive
+|desc=
+Your attunement to violence has given you {{ctl|100%|20|50%}} resistance to stuns and confusion arising in battle.
+}}

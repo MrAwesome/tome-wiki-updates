@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "8e6cf54ea8e322750a68c1d98c20d06133312a454c38d694918a012fd0325709",
+    "revid": 19397
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:58Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Drawn_to_death_(talent)",
+    "kind": "talent",
+    "pageid": 6053,
+    "wiki_title": "Drawn to death (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "80cec044c78931835172f66ee148c9f389087ee4826f4801a810193d79c58ecf",
+    "source_sha256": "78355e3e933bd6f6566cdd648554e8896af253a0f74c0a71bb18d7d8ce65f665",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:58Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "80cec044c78931835172f66ee148c9f389087ee4826f4801a810193d79c58ecf",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

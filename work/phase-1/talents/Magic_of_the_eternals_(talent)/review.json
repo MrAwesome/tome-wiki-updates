@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "97f8eed5ab14a9e71d0451400aa743886bf15fc25b47653381581cbb1a5ff7c1",
+    "revid": 22060
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Magic_of_the_eternals_(talent)",
+    "kind": "talent",
+    "pageid": 1487,
+    "wiki_title": "Magic of the eternals (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "fcd1cc38c6bc4f14201853da0096d4899e46668de4404ed4c637ee65e75a3cb6",
+    "source_sha256": "958b207fd24723fa3b1613c62048b19012df2e24e9b82152eb1ef2485a88aed1",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "fcd1cc38c6bc4f14201853da0096d4899e46668de4404ed4c637ee65e75a3cb6",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "b56c113914fbf49bc1771920fff27bc3f744c5ebb466aa4b52b85beca7274e93",
+    "revid": 7666
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:58Z",
+      "event": "deterministic_render_applied",
+      "reason": "baseline_preserved"
+    }
+  ],
+  "identity": {
+    "filename": "Berserker_(talent)",
+    "kind": "talent",
+    "pageid": 54,
+    "wiki_title": "Berserker (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "baseline_preserved",
+    "candidate_page_sha256": "b56c113914fbf49bc1771920fff27bc3f744c5ebb466aa4b52b85beca7274e93",
+    "source_sha256": "3feae29e57d7c64c30cfcc9f26dfc4c0d089d5314c55c71a7213864e11fec6e0",
+    "status": "unsupported_info",
+    "updated_at": "2026-11-08T16:08:58Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "b56c113914fbf49bc1771920fff27bc3f744c5ebb466aa4b52b85beca7274e93",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

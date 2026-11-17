@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "0c7f0dcc844271e1d884978487ab4e69d27c30ad05d5ffe6af4e302a2aa33dab",
+    "revid": 20377
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Spikes_of_decrepitude_(talent)",
+    "kind": "talent",
+    "pageid": 6092,
+    "wiki_title": "Spikes of decrepitude (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "a9edeca3bd33c17d26815fe3d22e3808bd3189c305546abb83eb39123f184f6d",
+    "source_sha256": "6cee58bfb87aa38e5e79ecf03570cfbbde5de0c5ad7faf2268955b2b12927dc9",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "a9edeca3bd33c17d26815fe3d22e3808bd3189c305546abb83eb39123f184f6d",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

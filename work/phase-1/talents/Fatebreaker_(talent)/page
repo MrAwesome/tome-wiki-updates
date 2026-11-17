@@ -1,0 +1,19 @@
+{{Ability box
+|game_version=1.5.10
+|image=
+|name=Fatebreaker
+|category_type={{ct|Demented}}
+|category={{c|Calamity}}
+|require={{TalentReq/SpellsReq4}}
+|use_mode=Activated
+|range = 10
+|cost = 30 Insanity
+|cooldown= 50
+|travel_speed = Instantaneous
+|use_speed = Standard
+|desc=
+You form a link between yourself and the chosen target for {{CTS|4|9}} turns, tying your fates together. If during this time you receive fatal damage, you reflexively warp reality, ending the effect and attempting to force them to die in your place. 
+		This prevents all damage taken during that turn, redirecting it to your target as temporal and void damage.
+		Any Fortune stacks you have and any Jinx stacks the enemy have will then be consumed to heal you for {{CTS|5|20}} + {{ctspd|20|350}}/100 life per stack.
+
+}}

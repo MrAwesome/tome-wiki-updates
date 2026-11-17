@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "aee4c42e271d324a2f80ad1a2189338e260f943b24426754e435bed691f2fdfb",
+    "revid": 15189
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:58Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Call_of_amakthel_(npc)_(talent)",
+    "kind": "talent",
+    "pageid": 5306,
+    "wiki_title": "Call of amakthel (npc) (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "1e76a9ebf87dedd44f9757e960d185bf0dee01b1c38608f661ee9a5942d2e98e",
+    "source_sha256": "dc640c1af5d22a45472d843380c9de01334530b3831bd2b9fe88ee0cba3abc23",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:58Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "1e76a9ebf87dedd44f9757e960d185bf0dee01b1c38608f661ee9a5942d2e98e",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

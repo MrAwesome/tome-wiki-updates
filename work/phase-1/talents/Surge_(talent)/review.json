@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "2fcf1b994aa9aace666823248194d1f8db05da1e840271250e3d6d64b63a78da",
+    "revid": 8186
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "baseline_preserved"
+    }
+  ],
+  "identity": {
+    "filename": "Surge_(talent)",
+    "kind": "talent",
+    "pageid": 1142,
+    "wiki_title": "Surge (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "baseline_preserved",
+    "candidate_page_sha256": "2fcf1b994aa9aace666823248194d1f8db05da1e840271250e3d6d64b63a78da",
+    "source_sha256": "38eae0c3f4ab833c0e9ab2699bcc9090ba8828fb32dd800bedcc202ed7a25fea",
+    "status": "unsupported_info",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "2fcf1b994aa9aace666823248194d1f8db05da1e840271250e3d6d64b63a78da",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

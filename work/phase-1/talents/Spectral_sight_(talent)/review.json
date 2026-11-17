@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "aa3046543cbdec9b237642635e18db929eb2b0d56dfe09887cb62ae2aef27b63",
+    "revid": 19468
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "baseline_preserved"
+    }
+  ],
+  "identity": {
+    "filename": "Spectral_sight_(talent)",
+    "kind": "talent",
+    "pageid": 6099,
+    "wiki_title": "Spectral sight (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "baseline_preserved",
+    "candidate_page_sha256": "aa3046543cbdec9b237642635e18db929eb2b0d56dfe09887cb62ae2aef27b63",
+    "source_sha256": "d351491314d385e633f965607307c01413993af87557d1e9f8d9a6eef057078f",
+    "status": "unsupported_info",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "aa3046543cbdec9b237642635e18db929eb2b0d56dfe09887cb62ae2aef27b63",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

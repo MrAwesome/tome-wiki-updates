@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "d94d67ce94ab170eecf7bd4666f9e8e9a86cb3a2b5d327feac1f903721800090",
+    "revid": 18625
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Hideous_visions_(talent)",
+    "kind": "talent",
+    "pageid": 5909,
+    "wiki_title": "Hideous visions (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "85d18463a49521e3be614f93e858759632a4d79195423e2d42d4713ea5546e57",
+    "source_sha256": "33e274b4e1f155bf677dae8d8cf29c61b9f2b99920a0a4ec80ab0f043f62dac4",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "85d18463a49521e3be614f93e858759632a4d79195423e2d42d4713ea5546e57",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

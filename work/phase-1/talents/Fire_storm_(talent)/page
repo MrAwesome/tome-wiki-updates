@@ -1,0 +1,14 @@
+{{Ability box
+|game_version=1.7.6
+|image=Fire storm.png
+|name=Fire Storm
+|category_type={{ct|Spell}}
+|category={{c|Fire Alchemy}}
+|require={{TalentReq/SpellsReq3}}
+|cost=70 Mana
+|cooldown=20
+|desc=
+A furious fire storm rages around the caster, doing {{ctspd|20|175}} fire damage in a radius of 3 each turn for {{gtl|1|5}} turns.
+You closely control the firestorm, preventing it from harming your party members.
+The damage and duration will increase with your Spellpower.
+}}

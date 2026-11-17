@@ -1,0 +1,15 @@
+{{Ability box
+|image=Whirlwind_2017.png
+|name=Whirlwind
+|game_version=1.7.6
+|category_type={{ct|Technique}}
+|category={{c|Dual Techniques}}
+|require={{TalentReq/TechsDexReq4}}
+|cost=30 Stamina
+|range={{ctl|6|2|4}}
+|cooldown=10
+|travel_speed=2000% of base
+|use_speed=Weapon
+|desc=
+You quickly move up to {{ctl|6|2|4}} tiles to arrive adjacent to a target location you can see, leaping around or over anyone in your way. During your movement, you attack all foes within one grid of your path with both weapons for {{ctwd|60|110%}} weapon damage, causing those struck to bleed for 50% of the damage dealt over 5 turns.
+}}

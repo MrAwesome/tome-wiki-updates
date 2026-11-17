@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "bbde4421c774d28e8b373fbc0f0fdc40356bd1541591bb585b787fd57c9e4c3d",
+    "revid": 4227
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:58Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Blood_frenzy_(talent)",
+    "kind": "talent",
+    "pageid": 1163,
+    "wiki_title": "Blood frenzy (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "38dd27508746fff96dd06e1958d2b8fc2b512688bb965bcae775cf04e1f4d13c",
+    "source_sha256": "3feae29e57d7c64c30cfcc9f26dfc4c0d089d5314c55c71a7213864e11fec6e0",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:58Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "38dd27508746fff96dd06e1958d2b8fc2b512688bb965bcae775cf04e1f4d13c",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "050d4c07368ab804f4ab83f1e781008e65e72e970f3daf9273d13ddd31b1ebcc",
+    "revid": 19021
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:58Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Destabilize_glyphs_(talent)",
+    "kind": "talent",
+    "pageid": 5998,
+    "wiki_title": "Destabilize glyphs (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "352bdd54edce45d144d7434f3e6368880c6751271d712974ba06df89d5945666",
+    "source_sha256": "edc604a2083182f0950ef89c5191b94bf437a8437f0ac5cbd9b5432c98ffe4ba",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:58Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "352bdd54edce45d144d7434f3e6368880c6751271d712974ba06df89d5945666",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

@@ -1,0 +1,11 @@
+{{Ability box
+|image=Ruined earth.png
+|name=Ruined Earth
+|category_type={{ct|Cursed}}
+|category={{c|Cursed Aura}}
+|require={{TalentReq/CursedLevReq3}}
+|range=2 + Talent Level (maximum 8)
+|cooldown=30
+|desc=
+Curse the earth around you in a radius of (2 + Talent Level) squares (maximum 8) for (3 + Talent Level) turns (maximum 8). Any who stand upon it are weakened, reducing the damage they inflict by (-1 + 23 * √ Talent Level)%.
+}}

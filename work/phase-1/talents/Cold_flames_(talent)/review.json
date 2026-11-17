@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "6544088ac5912736541fdc151f46579bf2a910da544fb2c758e8b26385a8c65a",
+    "revid": 8107
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:58Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Cold_flames_(talent)",
+    "kind": "talent",
+    "pageid": 1628,
+    "wiki_title": "Cold flames (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "49290fcb5187822de37d0e55c4cc97cccdb1cd9c9e44322b7e8a53ab95e9c7cc",
+    "source_sha256": "dc640c1af5d22a45472d843380c9de01334530b3831bd2b9fe88ee0cba3abc23",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:58Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "49290fcb5187822de37d0e55c4cc97cccdb1cd9c9e44322b7e8a53ab95e9c7cc",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

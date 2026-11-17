@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "9455b2c745ee3ee5a8918370fb2e017e2afcde1de5395961d65f988e45f2cfa3",
+    "revid": 14971
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "baseline_preserved"
+    }
+  ],
+  "identity": {
+    "filename": "Spell_feedback_(talent)",
+    "kind": "talent",
+    "pageid": 3473,
+    "wiki_title": "Spell feedback (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "baseline_preserved",
+    "candidate_page_sha256": "9455b2c745ee3ee5a8918370fb2e017e2afcde1de5395961d65f988e45f2cfa3",
+    "source_sha256": "bde073032f50b20d456193dd79131b7e54e2dcdfc42ca92736e6f406e8c28931",
+    "status": "unsupported_info",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "9455b2c745ee3ee5a8918370fb2e017e2afcde1de5395961d65f988e45f2cfa3",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

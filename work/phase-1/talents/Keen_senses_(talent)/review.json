@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "d60ec7d43b18bb5083ad783dfb675c7dd57ee12e22bd22cb4b1a6861bb353d8f",
+    "revid": 23032
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Keen_senses_(talent)",
+    "kind": "talent",
+    "pageid": 1517,
+    "wiki_title": "Keen senses (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "67cc6d603c4bc8ff8548c5ba216525dad56da73e404ab945443e022a04a6c593",
+    "source_sha256": "f72685aca51901e204b23fc738a87ccfa3752f9b1c4c01918029bcc643a8b8af",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "67cc6d603c4bc8ff8548c5ba216525dad56da73e404ab945443e022a04a6c593",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

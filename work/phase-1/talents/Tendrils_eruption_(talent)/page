@@ -1,0 +1,19 @@
+{{Ability box
+|game_version=1.7.6
+|image=Tendrils_Eruption.png
+|name=Tendrils Eruption
+|category_type={{ct|Demented}}
+|category={{c|Tentacles}}
+|require={{TalentReq/SpellsReq3}}
+|use_mode=Active
+|range=7
+|cooldown=18 ; 10 on Constrict
+|desc=
+You plant your tentacle hand in the ground where it splits up and extends to a target zone of radius 3.
+The zone will erupt with many black tendrils to hit all foes caught inside dealing {{ctwd|180|300%}} tentacle damage.
+Any creature hit by the tentacle must save against spell or be numbed by the attack, reducing its damage by {{ctl|50%|25|40%}} for 5 turns.
+
+If at least one enemy is hit you gain 20 insanity.
+
+#YELLOW_GREEN#When constricting:#WHITE#The tendrils pummel your constricted target for {{ctwd|270|450%}} tentacle damage and if adjacent you make an additional mainhand weapon attack.  Talent cooldown reduced to 10.
+}}

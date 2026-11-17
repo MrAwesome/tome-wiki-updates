@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "4b58a0924f46ada8db40cd05f12f535a4fd1885c9874652aa59f473aa678f454",
+    "revid": 22782
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:58Z",
+      "event": "deterministic_render_applied",
+      "reason": "baseline_preserved"
+    }
+  ],
+  "identity": {
+    "filename": "Augmentation_(talent)",
+    "kind": "talent",
+    "pageid": 1247,
+    "wiki_title": "Augmentation (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "baseline_preserved",
+    "candidate_page_sha256": "4b58a0924f46ada8db40cd05f12f535a4fd1885c9874652aa59f473aa678f454",
+    "source_sha256": "d3ccd0f303b95b3c0deaeaa88c4604d87a210b1fd3af2c36eaff58edfec11f95",
+    "status": "unsupported_info",
+    "updated_at": "2026-11-08T16:08:58Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "4b58a0924f46ada8db40cd05f12f535a4fd1885c9874652aa59f473aa678f454",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

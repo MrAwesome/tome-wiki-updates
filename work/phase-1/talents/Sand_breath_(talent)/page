@@ -1,0 +1,16 @@
+{{Ability box
+|image=Sand breath.png
+|name=Sand Breath
+|category_type={{ct|Wild-Gift}}
+|category={{c|Sand Drake Aspect}}
+|require={{TalentReq/GiftsReq4}}
+|cost=12 Equilibrium
+|cooldown=12
+|range=0
+|desc=
+You breathe sand in a frontal cone of radius {{cts|5|9}}. Any target caught in the area will take {{ctstd|Str|30|480}} physical damage, and be blinded for {{cts|3|4}} turns.
+
+The damage will increase with your Strength, and the critical chance is based on your Mental crit rate.
+
+Each point in sand drake talents also increases your physical resistance by 0.5%.
+}}

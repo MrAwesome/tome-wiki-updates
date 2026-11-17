@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "1d6c7f8c4fbc8db20d71350161bbba3fd9bc78d7487aca93b14bfdd005f67f92",
+    "revid": 8389
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Elemental_harmony_(talent)",
+    "kind": "talent",
+    "pageid": 1239,
+    "wiki_title": "Elemental harmony (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "e8f5a4f263ea511ec27cf3c71f83d58dddf65f551b3fb0d74dfca502b9a7cc95",
+    "source_sha256": "b8af63ac0a2228d17b280154dd4b32f6dc128a603482be376d0443e4320f96d6",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "e8f5a4f263ea511ec27cf3c71f83d58dddf65f551b3fb0d74dfca502b9a7cc95",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

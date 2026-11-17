@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "9f59b87366d43067d0f2bbed17a4e8cf8029aac89cd3839727ed57e315e5c052",
+    "revid": 18526
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Virulent_strike_(talent)",
+    "kind": "talent",
+    "pageid": 5883,
+    "wiki_title": "Virulent strike (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "3a9c92c762cd2128dc4c8bc8e4477b1ef7f5f4703623eccb0447eeadd6fac697",
+    "source_sha256": "3b7068e844306823ae2aed4c1b2c3a9ce24e35e6dda31d42958f84bc1fd852d9",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "3a9c92c762cd2128dc4c8bc8e4477b1ef7f5f4703623eccb0447eeadd6fac697",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

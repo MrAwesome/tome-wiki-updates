@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "c34f99ba8365570a8216e53255d20707a8416fe1ea537a5ef11a6b1d918afc6d",
+    "revid": 8422
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:58Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Corrosive_mist_(talent)",
+    "kind": "talent",
+    "pageid": 1136,
+    "wiki_title": "Corrosive mist (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "2a31b18e3edca684d3e4b6d704b4ab7808f88be7bcb141f4f9dd28a25c0eee68",
+    "source_sha256": "0257cfedc80888acc505219169b2d10bfae0de46189ff2507033f79f7e91a973",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:58Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "2a31b18e3edca684d3e4b6d704b4ab7808f88be7bcb141f4f9dd28a25c0eee68",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

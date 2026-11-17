@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "4cc66c00c7cb33b378ed2bc69326b1cd0761fef6485e0c6e4f171e51ef80654e",
+    "revid": 13983
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:58Z",
+      "event": "deterministic_render_applied",
+      "reason": "baseline_preserved"
+    }
+  ],
+  "identity": {
+    "filename": "Arcane_cunning_(talent)",
+    "kind": "talent",
+    "pageid": 1674,
+    "wiki_title": "Arcane cunning (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "baseline_preserved",
+    "candidate_page_sha256": "4cc66c00c7cb33b378ed2bc69326b1cd0761fef6485e0c6e4f171e51ef80654e",
+    "source_sha256": "b3e5608342bd0ba6861bc9212482b83bd0ebde1cfdbf84e08784899a871eafdc",
+    "status": "unsupported_info",
+    "updated_at": "2026-11-08T16:08:58Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "4cc66c00c7cb33b378ed2bc69326b1cd0761fef6485e0c6e4f171e51ef80654e",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

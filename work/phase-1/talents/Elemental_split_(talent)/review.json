@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "9e1cac9fff11ae7bb2e769c8a2511270e17398f111e56237b07fa916b5e1c2ce",
+    "revid": 10338
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Elemental_split_(talent)",
+    "kind": "talent",
+    "pageid": 3876,
+    "wiki_title": "Elemental split (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "a910bb39c72e7bc0e4e68d0cbb56e96526e0192a94a5d654c6d56d970a6e8b92",
+    "source_sha256": "6d3dbf7f7cdd19eee8345a5c5acba820b4cdc6dd1b9f354dd3e91d48357724fb",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "a910bb39c72e7bc0e4e68d0cbb56e96526e0192a94a5d654c6d56d970a6e8b92",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

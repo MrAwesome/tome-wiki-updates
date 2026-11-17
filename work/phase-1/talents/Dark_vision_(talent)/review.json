@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "0e29f38501b65155fa6efa3dd1f649016fb2be16761596a1c5d1ca86d9eddaa9",
+    "revid": 8229
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:58Z",
+      "event": "deterministic_render_applied",
+      "reason": "baseline_preserved"
+    }
+  ],
+  "identity": {
+    "filename": "Dark_vision_(talent)",
+    "kind": "talent",
+    "pageid": 1200,
+    "wiki_title": "Dark vision (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "baseline_preserved",
+    "candidate_page_sha256": "0e29f38501b65155fa6efa3dd1f649016fb2be16761596a1c5d1ca86d9eddaa9",
+    "source_sha256": "b31c041e646a6187220fadbdb003053fb6ec737f5bbbd7709386f3987691aba6",
+    "status": "unsupported_info",
+    "updated_at": "2026-11-08T16:08:58Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "0e29f38501b65155fa6efa3dd1f649016fb2be16761596a1c5d1ca86d9eddaa9",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

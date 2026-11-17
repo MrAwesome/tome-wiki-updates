@@ -1,0 +1,15 @@
+{{Ability box
+|game_version=1.7.6
+|image=Frantic summoning.png
+|name=Frantic Summoning
+|category_type={{ct|Wild-Gift}}
+|category={{c|Summoning (Utility)}}
+|require={{TalentReq/GiftsReq3}}
+|cost=5 Equilibrium
+|cooldown=25
+|use_speed=0
+|desc=
+You focus yourself on nature, allowing you to summon natural creatures much faster ({{ctl|15%|65|35%}} of a normal summon time) and with no chance to fail from high equilibrium for {{ctl|25|3|6}} turns.
+When activating this power, a random summoning talent will come off cooldown.
+Each time you summon, the duration of the frantic summoning effect will reduce by 1.
+}}

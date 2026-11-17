@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "71630202895b18f9cd51624121a96e4d6686d39def30cdfd9d4aa5a57d668d2f",
+    "revid": 13875
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "baseline_preserved"
+    }
+  ],
+  "identity": {
+    "filename": "Searing_sight_(talent)",
+    "kind": "talent",
+    "pageid": 3346,
+    "wiki_title": "Searing sight (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "baseline_preserved",
+    "candidate_page_sha256": "71630202895b18f9cd51624121a96e4d6686d39def30cdfd9d4aa5a57d668d2f",
+    "source_sha256": "4c06e43285731d14454096b7b1252fd68db785dc8dff77b18370911aebe21194",
+    "status": "unsupported_info",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "71630202895b18f9cd51624121a96e4d6686d39def30cdfd9d4aa5a57d668d2f",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

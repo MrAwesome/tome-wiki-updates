@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "f9cc1992dc9d29b0f8c71929169b1b69d7556e8b5b9fd6680c5bde6933ffd1e8",
+    "revid": 14627
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:58Z",
+      "event": "deterministic_render_applied",
+      "reason": "baseline_preserved"
+    }
+  ],
+  "identity": {
+    "filename": "Assault_(talent)",
+    "kind": "talent",
+    "pageid": 1332,
+    "wiki_title": "Assault (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "baseline_preserved",
+    "candidate_page_sha256": "f9cc1992dc9d29b0f8c71929169b1b69d7556e8b5b9fd6680c5bde6933ffd1e8",
+    "source_sha256": "c94f6f329cdb05e2a557ccae1b2db741775f490676108d87f1221cc142deedea",
+    "status": "unsupported_info",
+    "updated_at": "2026-11-08T16:08:58Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "f9cc1992dc9d29b0f8c71929169b1b69d7556e8b5b9fd6680c5bde6933ffd1e8",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

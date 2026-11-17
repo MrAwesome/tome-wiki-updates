@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "13af74f01c4b534101b7b4fb99f32d42981fea9e06a35e2f27afb4889d2b6de8",
+    "revid": 11938
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Water_jet_(talent)",
+    "kind": "talent",
+    "pageid": 2931,
+    "wiki_title": "Water jet (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "a8a011c3184093daa498f5c34de4c313b98246af8a9018b32a92c7916f60bd0a",
+    "source_sha256": "dc640c1af5d22a45472d843380c9de01334530b3831bd2b9fe88ee0cba3abc23",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "a8a011c3184093daa498f5c34de4c313b98246af8a9018b32a92c7916f60bd0a",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

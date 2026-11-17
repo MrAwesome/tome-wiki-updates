@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "5976f1211551ae06fd7bd3203b12cbdd24d05e647391a19547ed1e1297718275",
+    "revid": 14120
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Noggin_knocker_(talent)",
+    "kind": "talent",
+    "pageid": 3376,
+    "wiki_title": "Noggin knocker (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "822d1f11d3065f9fc65bcc57815c2a9cf98168e10234ac008b0877c2a0e0ad30",
+    "source_sha256": "bdb8cd877d47927b103b6d4cedc08d9cb4cf86790520d4f87a3b90c543c49e37",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "822d1f11d3065f9fc65bcc57815c2a9cf98168e10234ac008b0877c2a0e0ad30",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

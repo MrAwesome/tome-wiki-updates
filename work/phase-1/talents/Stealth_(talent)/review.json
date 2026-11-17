@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "dbbfb2fb2e9572e2e9072a29417058545f2efe6875ea4ae3d78c0118cb07576e",
+    "revid": 13715
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "baseline_preserved"
+    }
+  ],
+  "identity": {
+    "filename": "Stealth_(talent)",
+    "kind": "talent",
+    "pageid": 1228,
+    "wiki_title": "Stealth (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "baseline_preserved",
+    "candidate_page_sha256": "dbbfb2fb2e9572e2e9072a29417058545f2efe6875ea4ae3d78c0118cb07576e",
+    "source_sha256": "38accb83ed9f8124b05924589b576a0afaf61625c3e0ad4481a08e19299fa63d",
+    "status": "unsupported_info",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "dbbfb2fb2e9572e2e9072a29417058545f2efe6875ea4ae3d78c0118cb07576e",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

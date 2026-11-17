@@ -1,0 +1,15 @@
+{{Ability box
+|image=Blood_lock_2017.png
+|name=Blood Lock
+|game_version=1.7.6
+|category_type={{ct|Corruption}}
+|category={{c|Torment}}
+|require={{TalentReq/CorrsReq2}}
+|cooldown=16
+|cost=12 Vim
+|range=10
+|travel_speed=instantaneous
+|use_speed=0
+|desc=
+Reach out and touch the blood and health of your foes. Any creatures caught in the radius 2 ball will be unable to heal above their current life value (at the time of the casting) for {{cts|4|12}} turns.
+}}

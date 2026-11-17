@@ -1,0 +1,13 @@
+{{Ability box
+|game_version=1.7.6
+|image=Spell_shield_2017.png
+|name=Spell Shield
+|category_type={{ct|Technique}}
+|category={{c|Combat Veteran}}
+|require={{TalentReq/TechsStrDexReq3}}
+|use_mode=Passive
+|desc=
+Rigorous training allows you to be more resistant to some spell effects (+{{cts|12|48}} spell save).
+
+''Note: Spell save only defend against magical status effects, and not the damage itself, unless the damage depends on the effect landing. Physical or mental effects caused by magic are defended by their corresponding saves too, and are not affected by spell save.''
+}}

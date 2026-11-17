@@ -1,0 +1,22 @@
+{{Ability box
+|image=Stone touch.png
+|name=Stone Touch
+|category_type={{ct|Spell}}
+|category={{c|Stone Alchemy}}
+|require={{TalentReq/SpellsReq4}}
+|range={{cts|1|5}}
+|cost=45 Mana
+|cooldown=15
+|game_version=1.7.6
+|desc=
+Touch your foe and turn it to stone for {{cts|3|6}} turns.
+Stoned creatures are unable to act or regen life, and are very brittle.
+If a stoned creature is hit by an attack that deals more than 30% of its life, it will shatter and be destroyed.
+Stoned creatures are highly resistant to fire and lightning, and somewhat resistant to physical attacks.
+At level 3 the touch will become a beam.
+This spell may fail against creatures resistant to being stunned, that are specifically immune to stoning, or certain bosses.
+
+''Note: the beam effect only requires that the effective talent level is at least 3, so talent mastery levels and the {{t|Adept}} prodigy can help here.''
+|avail.classes=[[Alchemist]], [[Stone Warden]]
+|avail.escorts=[[Escorts#Alchemist_.28Arcane.29|Alchemist (Arcane)]] (Normal Escort Reward), +1 to talent or via revealing the locked {{c|Stone Alchemy}} category
+}}

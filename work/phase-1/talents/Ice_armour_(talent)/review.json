@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "4ca24a8dc8b7b69231f49357fde90f89e4d8d913533f6472771d69a0dad43f17",
+    "revid": 12192
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Ice_armour_(talent)",
+    "kind": "talent",
+    "pageid": 3264,
+    "wiki_title": "Ice armour (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "a76444e3a827ee29bb6e5cc8106d08ad5d9605c9bae057ec172e5d12df129522",
+    "source_sha256": "3acca71bfea06f10d99a7d6d11dc7200cf5a4416c57a7faced8d78754601feec",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "a76444e3a827ee29bb6e5cc8106d08ad5d9605c9bae057ec172e5d12df129522",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

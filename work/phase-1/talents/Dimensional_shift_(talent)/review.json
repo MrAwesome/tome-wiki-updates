@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "ff7ea4f91b3f3f2826332513306e3ff970e4e7f29242f20e09a52ccccd083f8a",
+    "revid": 11597
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:58Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Dimensional_shift_(talent)",
+    "kind": "talent",
+    "pageid": 4303,
+    "wiki_title": "Dimensional shift (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "fba326bede325cc235ac0800d4471766d884fbb1bb9ce4345e1207070c873341",
+    "source_sha256": "71dfb0690a1f36b6189188259bcda0f1a6cb13796ade69a3b9b11d098783ab41",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:58Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "fba326bede325cc235ac0800d4471766d884fbb1bb9ce4345e1207070c873341",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

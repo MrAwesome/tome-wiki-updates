@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "3f09133f9e7f190426c41b4cde716df0000ba6372b9edcce4af097fce0336250",
+    "revid": 5663
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:58Z",
+      "event": "deterministic_render_applied",
+      "reason": "baseline_preserved"
+    }
+  ],
+  "identity": {
+    "filename": "Door_to_the_past_(talent)",
+    "kind": "talent",
+    "pageid": 1224,
+    "wiki_title": "Door to the past (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "baseline_preserved",
+    "candidate_page_sha256": "3f09133f9e7f190426c41b4cde716df0000ba6372b9edcce4af097fce0336250",
+    "source_sha256": null,
+    "status": "unmatched_source",
+    "updated_at": "2026-11-08T16:08:58Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "3f09133f9e7f190426c41b4cde716df0000ba6372b9edcce4af097fce0336250",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

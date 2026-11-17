@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "5937777806dbbfbe8597fc96518e85baf2e17586a6cad20b7c97d3f2ba4b3a20",
+    "revid": 23092
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Ominous_shadow_(talent)",
+    "kind": "talent",
+    "pageid": 3706,
+    "wiki_title": "Ominous shadow (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "79868fd8e787c5227bcb6c6f9e3474b241a3a16faab24dfa630beea940a688ba",
+    "source_sha256": "c54c2fb09bd09dd3437df50c2f2a6b5e48d8c700335d1f0212169e7ea8b6d4e9",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "79868fd8e787c5227bcb6c6f9e3474b241a3a16faab24dfa630beea940a688ba",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

@@ -1,0 +1,17 @@
+{{Ability_box
+|image=worm_walk.png
+|name=Worm Walk
+|game_version=1.7.4
+|category_type={{ct|Corruption}}
+|category={{c|Rot}}
+|require={{TalentReq/SpellsReqHigh2}}
+|use_mode=Activated
+|cost=8 Vim
+|cooldown=10
+|range=7
+|travel_speed=instantaneous
+|use_speed=Spell
+|desc=
+You disperse into a mass of carrion worms, reforming near the target location (Max(0,7-floor({{gtl|1|5}}) teleport accuracy).
+If used on a worm mass, you merge with it, moving to it's location, healing you for {{ctspd|20|400}}, restoring 8+({{CTS|5|35}}) vim, and destroying the mass.
+}}

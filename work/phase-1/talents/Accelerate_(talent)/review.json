@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "89f2746c6cad4c7fc2d04d32befff29b28040a9dd8a4673ece97bf8a07d8d87e",
+    "revid": 18669
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:58Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Accelerate_(talent)",
+    "kind": "talent",
+    "pageid": 5929,
+    "wiki_title": "Accelerate (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "e6fe5d95aa429b0b2a2828b189afc3027353996cf148eece7943e0eb3f6a024c",
+    "source_sha256": "d93d99fd05b45f16cb730c6bf46f7b0bf305e157de21513d539c0e648faa231f",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:58Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "e6fe5d95aa429b0b2a2828b189afc3027353996cf148eece7943e0eb3f6a024c",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

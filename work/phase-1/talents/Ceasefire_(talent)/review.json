@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "49e4a606c80cf2f25483d9d5d3d1c4da25be793598a9ae4faebbf3ec5e220563",
+    "revid": 12888
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:58Z",
+      "event": "deterministic_render_applied",
+      "reason": "baseline_preserved"
+    }
+  ],
+  "identity": {
+    "filename": "Ceasefire_(talent)",
+    "kind": "talent",
+    "pageid": 4585,
+    "wiki_title": "Ceasefire (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "baseline_preserved",
+    "candidate_page_sha256": "49e4a606c80cf2f25483d9d5d3d1c4da25be793598a9ae4faebbf3ec5e220563",
+    "source_sha256": "da286e18579a9bf18abcec6686a97aa7de055786182e5923c1a4b4823113dba2",
+    "status": "unsupported_info",
+    "updated_at": "2026-11-08T16:08:58Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "49e4a606c80cf2f25483d9d5d3d1c4da25be793598a9ae4faebbf3ec5e220563",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "938ced8a73b2095dfaff37483f3288b7aedc52b5ab1a16b0fbfedeb8e1468381",
+    "revid": 13774
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:58Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Agile_defense_(talent)",
+    "kind": "talent",
+    "pageid": 4698,
+    "wiki_title": "Agile defense (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "ecb062873116ae80dd9de268ac67ed6ae7c5a24657a5a72aa877a1710d754c53",
+    "source_sha256": "b0b1c7bd745a5f76e39c283c4a310efa4bf04968ecbfa868f67cada956280ae2",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:58Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "ecb062873116ae80dd9de268ac67ed6ae7c5a24657a5a72aa877a1710d754c53",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

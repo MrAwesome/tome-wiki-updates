@@ -1,0 +1,14 @@
+{{Ability box
+|game_version=1.7.6
+|name=Dynamic Recharge
+|image=Dynamic recharge.png
+|category_type={{ct|Spell}}
+|category={{c|Energy Alchemy}}
+|require={{TalentReq/SpellsReq2}}
+|use_mode=Sustained
+|cost=30 Mana
+|cooldown=30
+|desc=
+While {{t|Lightning Infusion}} is active, your bombs energize your golem.
+All talents on cooldown on your golem have {{ctl|100%|35|75%}} chance to be reduced by {{gtl|1|5}}.
+}}

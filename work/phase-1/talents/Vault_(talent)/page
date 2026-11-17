@@ -1,0 +1,18 @@
+{{Ability box
+|image=vault.png
+|name=Vault
+|game_version=1.7.6
+|category_type={{ct|Technique}}
+|category={{c|Agility}}
+|require={{TalentReq/TechsDexReqHigh2}}
+|cost=15 Stamina
+|cooldown=10
+|travel_speed=Instantaneous
+|use_speed=Weapon
+|desc=
+Leap onto an adjacent target with your shield, striking them for {{cTWD|150|300%}} damage and dazing them for 2 turns, then using them as a springboard to leap to a tile within range {{cTS|3|5}}.
+
+The shield bash will use Dexterity instead of Strength for the shield's bonus damage.
+
+At talent level 5, you will immediately enter a blocking stance on landing.
+}}

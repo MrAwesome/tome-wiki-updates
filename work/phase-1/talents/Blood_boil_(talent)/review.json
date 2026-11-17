@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "c29cedb9f04c11f35057f92cc0fb9e822aa5dd57664e4551ff5bcde5e9efb644",
+    "revid": 18553
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:58Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Blood_boil_(talent)",
+    "kind": "talent",
+    "pageid": 1185,
+    "wiki_title": "Blood boil (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "5a429955e274880e033a94b01489f2d425f05e132a1bae6399ab18abe34bd5ba",
+    "source_sha256": "dc39f43d1a40f9a5497c936f9d164de7a94e3c13a94e6394289349b3ae12da4a",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:58Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "5a429955e274880e033a94b01489f2d425f05e132a1bae6399ab18abe34bd5ba",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "228c05feec4cc03c1dd866d2d6932841b508b91a28be0bbb9f01b3b191fca868",
+    "revid": 8817
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "baseline_preserved"
+    }
+  ],
+  "identity": {
+    "filename": "Flurry_of_fists_(talent)",
+    "kind": "talent",
+    "pageid": 1231,
+    "wiki_title": "Flurry of fists (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "baseline_preserved",
+    "candidate_page_sha256": "228c05feec4cc03c1dd866d2d6932841b508b91a28be0bbb9f01b3b191fca868",
+    "source_sha256": "2bd78bf7b1fb297d558a1cd70f49a206b43bec72ef268aa12bc1732ce601bb4a",
+    "status": "unsupported_info",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "228c05feec4cc03c1dd866d2d6932841b508b91a28be0bbb9f01b3b191fca868",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

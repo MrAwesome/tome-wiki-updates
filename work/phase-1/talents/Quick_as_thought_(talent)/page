@@ -1,0 +1,16 @@
+{{Ability_box
+|image=Quick as thought.png
+|name=Quick as Thought
+|category_type={{ct|Psionic}}
+|category={{c|Augmented Mobility}}
+|require={{TalentReq/PsiWilReq2}}
+|use_mode=Activated
+|cost=30 Psi
+|cooldown=20
+|use_speed=Instant
+|desc=
+Encase your body in a sheath of thought-quick forces, allowing you to control your body's movements directly without the inefficiency of dealing with crude mechanisms like nerves and muscles.
+
+Increases Accuracy by {{cs|{{ctmd|20|60}}|0|0|50|100|0.75}}, your critical strike chance by (Accuracy Bonus / 2)% and your global speed by {{cts|10|40%|0.75}}. The duration of the effects is {{cl|(0.1 * Mindpower)|10|4|0|6|6}}.
+|avail.escorts=[[Escorts#Sun_Paladin_.28Arcane.29|Sun Paladin (Arcane)]] ([[Escorts#Betraying_to_Zigur|Betray Escort to Zigur]]), via revealing the locked {{c|Augmented Mobility}} category
+}}

@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "ceaad468e705906fb9c3f4331840ea9f1d20757338e589ed5b87656801887543",
+    "revid": 22326
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:58Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Deathstar_(talent)",
+    "kind": "talent",
+    "pageid": 5189,
+    "wiki_title": "Deathstar (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "ceaad468e705906fb9c3f4331840ea9f1d20757338e589ed5b87656801887543",
+    "source_sha256": "e6e5f57a088fe6f750d2ef8daeef2b37f4dd255ba5bdcb81f24a04f67e23229b",
+    "status": "no_change",
+    "updated_at": "2026-11-08T16:08:58Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "ceaad468e705906fb9c3f4331840ea9f1d20757338e589ed5b87656801887543",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

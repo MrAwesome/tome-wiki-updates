@@ -1,0 +1,17 @@
+{{Ability box
+|game_version=1.7.6
+|image=Reality smearing.png
+|name=Reality Smearing
+|category_type={{ct|Chronomancy}}
+|category={{c|Flux}}
+|require={{TalentReq/ChronoReq2}}
+|use_mode=Sustained
+|cost=0 Paradox
+|cooldown=10
+|use_speed=Spell
+|desc=
+While active 30% of all damage you take is converted into {{ctl|99.2|99.85|99.35}} Paradox per point.
+The Paradox is gained over three turns.
+
+''Note: the paradox gain duration is multiplied by paradox modifier.''
+}}

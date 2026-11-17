@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "20655210f046224d86c77338a01718e21eba9d28f6d13ab827383321c13addf7",
+    "revid": 23065
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Endless_endurance_(talent)",
+    "kind": "talent",
+    "pageid": 4407,
+    "wiki_title": "Endless endurance (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "e741b1635595be89f44b0bc038aeeec3f510b06a4fb1bf20c7b3be45c26565f4",
+    "source_sha256": "0ec9dc9025bb72d3017c4ab18950a7e35950de7819ebc5385e8e327bf055b772",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "e741b1635595be89f44b0bc038aeeec3f510b06a4fb1bf20c7b3be45c26565f4",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "2dfce14ee380bfbfebe1c6bbe408fa17f8e2b7efb805b18891d50fe0052afac0",
+    "revid": 19480
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:58Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Corrosive_seeds_(talent)",
+    "kind": "talent",
+    "pageid": 1108,
+    "wiki_title": "Corrosive seeds (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "023030a58b1907027facf15c05edf531da7524a53e9bc7da7844472748d2ab36",
+    "source_sha256": "56f36db3ff46a0954b636d9c50a81073854bd1e5d29dadbf37b8194abd5f2df4",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:58Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "023030a58b1907027facf15c05edf531da7524a53e9bc7da7844472748d2ab36",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

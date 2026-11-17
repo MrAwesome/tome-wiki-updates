@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "3a8d4d124ab1a9b5e072d197d717ed3c18ef418e83134901497116c07eb358c7",
+    "revid": 13867
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Righteous_strength_(talent)",
+    "kind": "talent",
+    "pageid": 3341,
+    "wiki_title": "Righteous strength (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "99cf64daf0d32c50d0cfd7b411b0513bf1a32d77c70a6b089cb5d748b6d3b771",
+    "source_sha256": "887234cdb85795b70b487d8e74bcfb8673a3cea3f96688bf823fa1834b03aed5",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "99cf64daf0d32c50d0cfd7b411b0513bf1a32d77c70a6b089cb5d748b6d3b771",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

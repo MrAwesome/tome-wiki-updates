@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "1c6ac351345ff0f146715603022724881901ec5b1419008f73d0eddc679f9c36",
+    "revid": 11603
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "baseline_preserved"
+    }
+  ],
+  "identity": {
+    "filename": "Temporal_hounds_(talent)",
+    "kind": "talent",
+    "pageid": 4308,
+    "wiki_title": "Temporal hounds (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "baseline_preserved",
+    "candidate_page_sha256": "1c6ac351345ff0f146715603022724881901ec5b1419008f73d0eddc679f9c36",
+    "source_sha256": "cebc15291b3ebe60c9c7c9cba979279ae0994bdae20ccfe0d73ca214a5fde68f",
+    "status": "unsupported_info",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "1c6ac351345ff0f146715603022724881901ec5b1419008f73d0eddc679f9c36",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

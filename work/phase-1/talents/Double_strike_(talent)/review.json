@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "abccb06e5e7e7b154ac4046ceb1788be6f7adede49af671b0e9d804c926fbf7d",
+    "revid": 8814
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:58Z",
+      "event": "deterministic_render_applied",
+      "reason": "baseline_preserved"
+    }
+  ],
+  "identity": {
+    "filename": "Double_strike_(talent)",
+    "kind": "talent",
+    "pageid": 1233,
+    "wiki_title": "Double strike (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "baseline_preserved",
+    "candidate_page_sha256": "abccb06e5e7e7b154ac4046ceb1788be6f7adede49af671b0e9d804c926fbf7d",
+    "source_sha256": "2bd78bf7b1fb297d558a1cd70f49a206b43bec72ef268aa12bc1732ce601bb4a",
+    "status": "unsupported_info",
+    "updated_at": "2026-11-08T16:08:58Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "abccb06e5e7e7b154ac4046ceb1788be6f7adede49af671b0e9d804c926fbf7d",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

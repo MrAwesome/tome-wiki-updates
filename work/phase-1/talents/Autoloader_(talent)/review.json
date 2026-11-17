@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "8dfe68909fefa662d1cbc54b167d1f891c2b6ee013543e536e512681d379c2b8",
+    "revid": 22433
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:58Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Autoloader_(talent)",
+    "kind": "talent",
+    "pageid": 6879,
+    "wiki_title": "Autoloader (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "1f8dc38c5f2b4e7a68af0dc305d8e771fabc1125ea63207ab8b6f4f048771ff5",
+    "source_sha256": "98a8e098a8139165186936596609f00a843578667a01233588489d9f3941848a",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:58Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "1f8dc38c5f2b4e7a68af0dc305d8e771fabc1125ea63207ab8b6f4f048771ff5",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

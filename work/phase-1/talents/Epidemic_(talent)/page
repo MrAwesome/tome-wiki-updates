@@ -1,0 +1,20 @@
+{{Ability box
+|image=Epidemic.png
+|name=Epidemic
+|game_version=1.7.6
+|category_type={{ct|Corruption}}
+|category={{c|Plague}}
+|require={{TalentReq/CorrsReq4}}
+|cost=20 Vim
+|cooldown=13
+|range=8
+|travel_speed=Instantaneous
+|use_speed=Spell
+|desc=
+Infects the target with a very contagious disease, doing {{ctspd|15|70}} damage per turn for 6 turns.
+If any blight damage from non-diseases hits the target, the epidemic may activate and spread a random disease to nearby targets within a radius 2 ball.
+The chance to spread increases with the blight damage dealt and is 100% if it is at least {{ctl|5%|35|17%}} of the target's maximum life.
+Creatures suffering from that disease will also suffer healing reduction ({{ctl|150%|50|75%}}) and diseases immunity reduction ({{ctl|100%|35|60%}}).
+Epidemic is an extremely potent disease; as such, it fully ignores the target's diseases immunity.
+The damage will increase with your Spellpower, and the spread chance increases with the amount of blight damage dealt.
+}}

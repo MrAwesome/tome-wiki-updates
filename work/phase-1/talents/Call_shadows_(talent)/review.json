@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "0b83b622bfbe91cd88d5818bef4021dc3202fa349596683f7378354113c634a3",
+    "revid": 8234
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:58Z",
+      "event": "deterministic_render_applied",
+      "reason": "baseline_preserved"
+    }
+  ],
+  "identity": {
+    "filename": "Call_shadows_(talent)",
+    "kind": "talent",
+    "pageid": 1119,
+    "wiki_title": "Call shadows (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "baseline_preserved",
+    "candidate_page_sha256": "0b83b622bfbe91cd88d5818bef4021dc3202fa349596683f7378354113c634a3",
+    "source_sha256": "afba9045c77c2fd6c8873ba0b48d49ccf697df0bf405f25994a43843fed9fed5",
+    "status": "unsupported_info",
+    "updated_at": "2026-11-08T16:08:58Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "0b83b622bfbe91cd88d5818bef4021dc3202fa349596683f7378354113c634a3",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

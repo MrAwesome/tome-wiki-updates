@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "38c9ca7397c6cd19c29d1fbeadc27b85828be748908bed39e36709c5e83ad00c",
+    "revid": 13725
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:58Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Blade_flurry_(talent)",
+    "kind": "talent",
+    "pageid": 4653,
+    "wiki_title": "Blade flurry (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "294032a1eda48b93dda90c10bea954d6882d24ed2e4c4389d15243c46774d2ba",
+    "source_sha256": "c7074639320e277edbaae28e4d54032f6bae8cee33f23d0c69d1b9641787918d",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:58Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "294032a1eda48b93dda90c10bea954d6882d24ed2e4c4389d15243c46774d2ba",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

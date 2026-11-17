@@ -1,0 +1,20 @@
+{{Ability_box
+|game_version=1.7.6
+|image=Sunder armour.png
+|name=Sunder armour
+|category_type=[[Technique (category type)|Technique]]
+|category=[[Two-handed maiming (category)|Two-handed maiming]]
+|require={{TalentReq/TechsReq2}}
+|use_mode=activated
+|range=melee/personal
+|cost=12 Stamina
+|cooldown=6
+|use_speed=1 turn
+|desc=
+Hits the target with your weapon, doing {{ctwd|100|150%}} damage.
+
+If the attack hits, the target's armour and saves are reduced by {{cts|5|25|0.75}} for {{cts|5|9}} turns.
+
+Also if the target is protected by any temporary magical or psionic damage absorbing shields there is {{ctl|100%|10|85%}} chance to shatter one random shield.
+
+Armor reduction chance increases with your Physical Power.}}

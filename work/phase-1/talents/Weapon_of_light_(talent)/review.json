@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "a9902dae9a45230c6e1bf93e4f36f22586c1f22f306a03bee65df627ad30cf80",
+    "revid": 22774
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "baseline_preserved"
+    }
+  ],
+  "identity": {
+    "filename": "Weapon_of_light_(talent)",
+    "kind": "talent",
+    "pageid": 104,
+    "wiki_title": "Weapon of light (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "baseline_preserved",
+    "candidate_page_sha256": "a9902dae9a45230c6e1bf93e4f36f22586c1f22f306a03bee65df627ad30cf80",
+    "source_sha256": "af245231a506d8169ca124f83e624e5f88212b736a7895309e6350e83ee923d8",
+    "status": "unsupported_info",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "a9902dae9a45230c6e1bf93e4f36f22586c1f22f306a03bee65df627ad30cf80",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

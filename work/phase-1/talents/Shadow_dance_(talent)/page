@@ -1,0 +1,15 @@
+{{Ability_box
+|image=shadow_dance.png
+|name=Shadow Dance
+|game_version=1.7.6
+|category_type=[[Cunning (category type)|Cunning]]
+|category=[[Stealth (category)|Stealth]]
+|require={{TalentReq/CunsReq4}}
+|cost=30
+|cooldown=27
+|travel_speed=Instantaneous
+|use_speed=Instant
+|desc=
+Your mastery of [[Stealth (talent)|Stealth]] allows you to vanish from sight at any time.
+You automatically enter stealth and cause it to not break from unstealthy actions for {{ctl|7|2|5}} turns.
+}}

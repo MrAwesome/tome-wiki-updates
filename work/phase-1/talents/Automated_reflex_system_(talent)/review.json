@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "7fbf4894f2707f24722184c79bc02ba4fa7f6ef8ffdd61bbafad0e3142bd342b",
+    "revid": 23349
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:58Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Automated_reflex_system_(talent)",
+    "kind": "talent",
+    "pageid": 4218,
+    "wiki_title": "Automated reflex system (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "a7f4e97745db434f8b9a4ed612974fdcdd26a0c4debffb1184de9415fcc49d31",
+    "source_sha256": "d367750ee3b9ff3976a5d79d7d3a97bd81e6ba861f57387035744ad710294a8a",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:58Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "a7f4e97745db434f8b9a4ed612974fdcdd26a0c4debffb1184de9415fcc49d31",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

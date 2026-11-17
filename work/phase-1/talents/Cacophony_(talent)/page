@@ -1,0 +1,19 @@
+{{Ability_box
+|name = Cacophony
+|image = Cacophony.png
+|category_type = {{ct|Demented}}
+|category = {{c|Madness}}
+|game_version = 1.7.6
+|forbidden_version = 1.0.12
+|require = {{TalentReq/DementedReq4}}
+|use_mode = Activated
+|range = Melee/Personal
+|cost = 10 Sanity
+|cooldown = 15
+|travel_speed = Instantaneous
+|use_speed = Spell
+|desc =
+Raise your {{t|Dark Whispers}} in radius 10 to a deafening crescendo for {{cts|3|5}} turns, applying another stack and drowning out all thought.
+Targets afflicted by Dark Whispers will have 20% higher chance to spawn hallucinations, and each time they take damage from your Dark Whispers or {{t|Sanity Warp}} they will take an additional {{ctspd|40|150}} damage as temporal damage.
+The damage will improve with your Spellpower.
+}}

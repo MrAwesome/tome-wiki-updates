@@ -1,0 +1,19 @@
+{{Ability_box
+|image=Charge leech.png
+|name=Charge Leech
+|category_type=[[Psionic (category type)|Psionic]]
+|category=[[Voracity (category)|Voracity]]
+|require={{TalentReq/PsiWilReq3}}
+|use_mode=Activated
+|cooldown=25 - 3 * Raw Talent Level
+|desc=
+You draw electical potential energy from your surroundings to replenish your Psi.
+
+This deals (1.5 - Current Psi / Max Psi) * {{ctmd|20|130}} Lightning damage to all targets around you within radius {{cts|1|4}}.
+
+Affected targets also have a {{ctl|100%|25|50%}} chance to be dazed for 3 turns, where your effective talent level is multiplied by a factor of (1.5 - Current Psi / Max Psi).
+
+You replenish (1.5 - Current Psi / Max Psi) * {{cts|10|20}} Psi from the first target, with each additional target restoring 20% less than the one before it.
+
+The strength of these effects increases as your Psi depletes.
+}}

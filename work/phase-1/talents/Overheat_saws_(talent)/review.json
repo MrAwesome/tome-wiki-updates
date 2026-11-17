@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "dece237dc4ac08326a9bb31d64228e21e05c89c8a30cf1526597d969dced2986",
+    "revid": 14595
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Overheat_saws_(talent)",
+    "kind": "talent",
+    "pageid": 4356,
+    "wiki_title": "Overheat saws (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "125c2db88d68030f25483c2fd4dd92970fdda55647182ece9637e086923cbf28",
+    "source_sha256": "bfa25b61b72b50db05c1488b8c62b8d9c4a3222a2b822a97dd1e964e6a8ea603",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "125c2db88d68030f25483c2fd4dd92970fdda55647182ece9637e086923cbf28",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

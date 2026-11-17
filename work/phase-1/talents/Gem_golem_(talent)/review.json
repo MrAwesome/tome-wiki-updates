@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "da0c8fcf077ebcb99ddb32d29c827a1cbfd18b7bea6f44614f629efff4d14f86",
+    "revid": 8967
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Gem_golem_(talent)",
+    "kind": "talent",
+    "pageid": 1385,
+    "wiki_title": "Gem golem (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "bb471984c35fd6dafbc09d6c234fa6351a34874c482d60892c5dbc8fd814550c",
+    "source_sha256": "ffd9fffa394cc4b9b216b1e44d7a996d8e945812d5241a241f1ba1de0a7f4a8e",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "bb471984c35fd6dafbc09d6c234fa6351a34874c482d60892c5dbc8fd814550c",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

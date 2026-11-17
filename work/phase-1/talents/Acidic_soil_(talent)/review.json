@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "aea1c1af62fa2796fb4491189ba1d2ad266887cb2da36b56565b90689acc4300",
+    "revid": 19481
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:58Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Acidic_soil_(talent)",
+    "kind": "talent",
+    "pageid": 1106,
+    "wiki_title": "Acidic soil (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "07d5707fb8a3bf433f67858038444fc80f060b054e2e1d50fb8aec2afdbaa78d",
+    "source_sha256": "56f36db3ff46a0954b636d9c50a81073854bd1e5d29dadbf37b8194abd5f2df4",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:58Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "07d5707fb8a3bf433f67858038444fc80f060b054e2e1d50fb8aec2afdbaa78d",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

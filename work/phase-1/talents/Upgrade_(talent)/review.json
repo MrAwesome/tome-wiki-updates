@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "98fe3c4de2c56b0b1f35dcdfcabad5ee98ba2eac5760ca8361d3a26ae528e58e",
+    "revid": 22478
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Upgrade_(talent)",
+    "kind": "talent",
+    "pageid": 6912,
+    "wiki_title": "Upgrade (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "344d5fb5e9c24e084f1212c8cfbb36bd89152d52ecf5cb794a017ee840ad8de2",
+    "source_sha256": "14dbc643e66d9916ea2bdf257053c3e0870addf2ebfb3bc58bb593258dcd5e1c",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "344d5fb5e9c24e084f1212c8cfbb36bd89152d52ecf5cb794a017ee840ad8de2",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

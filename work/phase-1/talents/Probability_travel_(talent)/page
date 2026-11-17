@@ -1,0 +1,16 @@
+{{Ability_box
+|game_version=1.7.6
+|image=Probability_travel_2017.png
+|name=Probability Travel
+|category_type={{ct|Spell}}
+|category={{c|Conveyance}}
+|require={{TalentReq/SpellsReq4}}
+|cost=200 Mana
+|cooldown=40
+|range={{cs|(0.06 * Spellpower * Talent Level)|4|0|20|16}}
+|desc=
+When you hit a solid surface, this spell tears down the laws of probability to make you instantly appear on the other side.
+Teleports up to {{gtl|1|5}} grids.
+After a successful probability travel you are left unstable, unable to do it again for a number of turns equal to {{gtl|1|5|raw}} of the number of tiles you blinked through.
+The range will improve with your Spellpower.
+}}

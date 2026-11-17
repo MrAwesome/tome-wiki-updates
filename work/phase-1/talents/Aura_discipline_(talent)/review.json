@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "1fe81ab9bf2875bd4cf91fc4641b90120dc434da5e040b2f0e056a516eca26e2",
+    "revid": 1785
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:58Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Aura_discipline_(talent)",
+    "kind": "talent",
+    "pageid": 1435,
+    "wiki_title": "Aura discipline (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "5d944fd0fdffc4d6c2df6d0d37cfe3e3784b5db81a0c685eda3c9ff40bd25b4e",
+    "source_sha256": "d1e5f81f1bad338ea712b6d4dc9f578b847db88327cf1827014465940977a6b6",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:58Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "5d944fd0fdffc4d6c2df6d0d37cfe3e3784b5db81a0c685eda3c9ff40bd25b4e",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

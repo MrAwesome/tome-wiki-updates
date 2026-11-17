@@ -1,0 +1,22 @@
+{{Ability box
+|game_version=1.7.4
+|image=Thorn grab.png
+|name=Thorn Grab
+|category_type={{ct|Wild-Gift}}
+|category={{c|Mindstar Mastery}}
+|require={{TalentReq/GiftsReq2}}
+|cost=7 Equilibrium
+|cooldown=15
+|use_speed=0
+|range=1
+|desc=
+You touch the target with your main hand psiblade, bringing the forces of nature to bear on your foe.
+
+Thorny vines will grab the target, slowing it by {{ctl|100%|20|45%}} and dealing {{ctmd|15|250}} nature damage over 10 turns.
+
+Damage will increase with your Mindpower. 
+
+If you have two mindstars equipped, the damage will be further multiplied by (1 + (Sum of Mindstar Base Damages) / 50).
+|avail.shops=[[Zigur]] ([[Age of Ascendancy]]) via [[Talent#Additional Talent Sources|purchasing]] {{c|Mindstar Mastery}}
+|avail.escorts=[[Escorts#Alchemist_.28Arcane.29|Alchemist (Arcane)]] ([[Escorts#Betraying_to_Zigur|Betray Escort to Zigur]]), +1 to talent or via revealing the locked {{c|Mindstar Mastery}} category
+}}

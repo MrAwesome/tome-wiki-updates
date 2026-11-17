@@ -1,0 +1,14 @@
+{{Ability box
+|ashes_version=1.1.4
+|game_version=1.7.6
+|name=Abduction
+|image=Abduction.png
+|category_type={{ct|Corruption}}
+|category={{c|Torture}}
+|require={{TalentReq/StrCorrsReq2}}
+|cost=25 Stamina, 14 Vim
+|cooldown=10
+|range=5-10
+|desc=
+Hits the target doing {{ctwd|70|105%}} weapon damage. If the attack hits, you pull the target in and strike them again, dealing another {{ctwd|100|135%}} weapon damage.
+}}

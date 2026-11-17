@@ -1,0 +1,18 @@
+{{Ability box
+|image=Mind drones.png
+|name=Mind drones
+|game_version=1.7.6
+|embers_version=1.1.10
+|category_type={{ct|Steamtech}}
+|category={{c|Thoughts of iron}}
+|require={{TalentReq/SteamReq2}}
+|cooldown=12
+|cost=30 Steam
+|range=10
+|use_speed=Steamtech
+|desc=Melding psionics with steamtech you create 5 mind drones at your sides that fly towards your target.
+
+If they encounter a creature they will latch on it and bore into its skull for 6 turns, disrupting its thoughts.
+
+Disrupted creatures have {{ctl|50%|19|35%}} chances to fail to use talents and suffer a -{{ctl|70%|25|65%}} reduction to fear and sleep immunity.
+}}

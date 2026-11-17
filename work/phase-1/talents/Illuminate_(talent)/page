@@ -1,0 +1,15 @@
+{{Ability_box
+|image=Illuminate_2017.png
+|name=Illuminate
+|category_type={{ct|Spell}}
+|category={{c|Phantasm}}
+|game_version=1.7.6
+|require={{TalentReq/SpellsReq1}}
+|cost=5 Mana
+|cooldown=14
+|range=0
+|use_speed=Spell Speed
+|desc=
+Creates a globe of pure light within a radius of {{cts|6|10}} that illuminates the area and deals {{ctspd|28|210}} damage to all creatures.
+At level 3, it also blinds all who see it (except the caster) for {{gtl|3|4}} turns.
+}}

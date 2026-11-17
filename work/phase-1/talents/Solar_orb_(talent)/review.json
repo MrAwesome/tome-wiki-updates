@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "4882a0997f47b5a13f4ccf0535723120756a2ecdd03f417bfc0db943aa8444d0",
+    "revid": 22528
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "baseline_preserved"
+    }
+  ],
+  "identity": {
+    "filename": "Solar_orb_(talent)",
+    "kind": "talent",
+    "pageid": 6954,
+    "wiki_title": "Solar orb (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "baseline_preserved",
+    "candidate_page_sha256": "4882a0997f47b5a13f4ccf0535723120756a2ecdd03f417bfc0db943aa8444d0",
+    "source_sha256": "8e0734044266aa280c07f2f34b2dd3243e2a5a56db1a0e8ba42dcc7f7fd0dda5",
+    "status": "unsupported_info",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "4882a0997f47b5a13f4ccf0535723120756a2ecdd03f417bfc0db943aa8444d0",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

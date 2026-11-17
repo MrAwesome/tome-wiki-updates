@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "7e2ac48a92292b7b998526a19badfe0dd3aba078ce481787ac28ff82aa0c9e34",
+    "revid": 22542
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:58Z",
+      "event": "deterministic_render_applied",
+      "reason": "baseline_preserved"
+    }
+  ],
+  "identity": {
+    "filename": "Celestial_acceleration_(talent)",
+    "kind": "talent",
+    "pageid": 6966,
+    "wiki_title": "Celestial acceleration (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "baseline_preserved",
+    "candidate_page_sha256": "7e2ac48a92292b7b998526a19badfe0dd3aba078ce481787ac28ff82aa0c9e34",
+    "source_sha256": "2439377daeeb689c7373bd980352e347002e6a724881c0d6236f0cf78b651340",
+    "status": "unsupported_info",
+    "updated_at": "2026-11-08T16:08:58Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "7e2ac48a92292b7b998526a19badfe0dd3aba078ce481787ac28ff82aa0c9e34",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

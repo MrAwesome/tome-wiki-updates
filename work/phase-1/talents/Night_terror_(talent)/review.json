@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "ed0e1e46c5cd580e4dfff7d4ec6eaf48d989b8975e7c5e94a57ebfbb04edd7b3",
+    "revid": 22362
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "baseline_preserved"
+    }
+  ],
+  "identity": {
+    "filename": "Night_terror_(talent)",
+    "kind": "talent",
+    "pageid": 1271,
+    "wiki_title": "Night terror (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "baseline_preserved",
+    "candidate_page_sha256": "ed0e1e46c5cd580e4dfff7d4ec6eaf48d989b8975e7c5e94a57ebfbb04edd7b3",
+    "source_sha256": "5641ddaabeb28785a73e75b606e27612c44e1f63186ca2022dcc42b8a577f5d7",
+    "status": "unsupported_info",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "ed0e1e46c5cd580e4dfff7d4ec6eaf48d989b8975e7c5e94a57ebfbb04edd7b3",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

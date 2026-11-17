@@ -1,0 +1,15 @@
+{{Ability box
+|game_version=1.7.6
+|image=Blended threads.png
+|name=Blended Threads
+|category_type={{ct|Chronomancy}}
+|category={{c|Threaded Combat}}
+|require={{TalentReq/ChronoReqHigh2}}
+|use_mode=Passive
+|desc=
+Each time you hit with an arrow you reduce the cooldown of one {{c|Blade Threading}} talent on cooldown by one turn.
+
+Each time you hit with a melee weapon you reduce the cooldown of one {{c|Bow Threading}} talent on cooldown by one turn.
+
+This effect can only occur {{gtl|1|5}} times per turn.
+}}

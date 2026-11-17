@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "43ca07621d8a6fe6476ecb94cfd2e0d34a47d2e996ea48d84460e70c58eef6d0",
+    "revid": 14593
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Evasive_shots_(talent)",
+    "kind": "talent",
+    "pageid": 4392,
+    "wiki_title": "Evasive shots (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "8e29ebfc9aab0b0079a70cb764aa75ef6ba0f372d2001aa002609ccc9408099a",
+    "source_sha256": "eaff2729974d971d8affd69162efcbbc1d93acfcc5175eb8ebc9cc5460ba2824",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "8e29ebfc9aab0b0079a70cb764aa75ef6ba0f372d2001aa002609ccc9408099a",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

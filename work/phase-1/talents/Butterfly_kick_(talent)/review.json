@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "25808f49cc2a664b496f82f69926f00ba17a56320152ee41b2b2fbdb2d2d2661",
+    "revid": 11117
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:58Z",
+      "event": "deterministic_render_applied",
+      "reason": "baseline_preserved"
+    }
+  ],
+  "identity": {
+    "filename": "Butterfly_kick_(talent)",
+    "kind": "talent",
+    "pageid": 3277,
+    "wiki_title": "Butterfly kick (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "baseline_preserved",
+    "candidate_page_sha256": "25808f49cc2a664b496f82f69926f00ba17a56320152ee41b2b2fbdb2d2d2661",
+    "source_sha256": "5db9065c3c22aa606e3e5f0ce2d1bb64565c042a06efe71defe83bbf162d1f09",
+    "status": "unsupported_info",
+    "updated_at": "2026-11-08T16:08:58Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "25808f49cc2a664b496f82f69926f00ba17a56320152ee41b2b2fbdb2d2d2661",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

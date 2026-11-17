@@ -1,0 +1,19 @@
+{{Ability box
+|image=Aura mastery.png
+|name=Necrotic Aura
+|category_type={{ct|Spell}}
+|category={{c|Necrotic Minions}} or {{c|Other}}?
+|require=Learned {{t|Create Minions}}
+|use_mode=Sustained
+|cost=10 Mana
+|cooldown=10
+|desc=
+Emits a necrotic aura, sustaining your undead minions in a radius of (2-7). Minions outside the radius will lose (10-3)% life per turn.
+
+Any creature you or your minions kill within your aura will be absorbed as a soul that can be used to raise minions.
+
+Retch from your ghouls will also heal you, even if you are not undead.
+
+''Note: This talent can be improved with {{t|Aura Mastery}}.''
+}}
+[[Category: Removed Talents]]

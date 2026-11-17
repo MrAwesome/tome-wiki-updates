@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "6088cf35811fdf216302b61e0118f299301a6bbcd07ebbf11e1bdd49a637d34f",
+    "revid": 8242
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:58Z",
+      "event": "deterministic_render_applied",
+      "reason": "baseline_preserved"
+    }
+  ],
+  "identity": {
+    "filename": "Agony_(talent)",
+    "kind": "talent",
+    "pageid": 2645,
+    "wiki_title": "Agony (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "baseline_preserved",
+    "candidate_page_sha256": "6088cf35811fdf216302b61e0118f299301a6bbcd07ebbf11e1bdd49a637d34f",
+    "source_sha256": "22a2cc9aed5102a186b7968eb2342b493a201899c8399656bd7e243050b0dc34",
+    "status": "unsupported_info",
+    "updated_at": "2026-11-08T16:08:58Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "6088cf35811fdf216302b61e0118f299301a6bbcd07ebbf11e1bdd49a637d34f",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

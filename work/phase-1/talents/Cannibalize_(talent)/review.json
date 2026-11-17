@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "cd2c0ad5bb83187888afabe1015b5c245aae642623bc53d7e2bc7e2daeff8a6d",
+    "revid": 22251
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:58Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Cannibalize_(talent)",
+    "kind": "talent",
+    "pageid": 5600,
+    "wiki_title": "Cannibalize (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "5ec8bbdede44cb4e355dbbaca5cd24182a53bb993fb9a31a526bbe0f5f63598d",
+    "source_sha256": "3a3fec2f724fd4ee128eae5206241fc88321e2143935e251bc0d8372d2098241",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:58Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "5ec8bbdede44cb4e355dbbaca5cd24182a53bb993fb9a31a526bbe0f5f63598d",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

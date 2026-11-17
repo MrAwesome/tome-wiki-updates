@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "baa02de4d4d31554eb19998808fa73510a8e3d41c3353e854240d715b494cac5",
+    "revid": 11886
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:58Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Double_shots_(talent)",
+    "kind": "talent",
+    "pageid": 4371,
+    "wiki_title": "Double shots (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "06d74d8938ef94a127269ddedd4a6c8d3ba0575a9bb57909eaf7904fae3a90a6",
+    "source_sha256": "658bc432e31d805e5eadb0795ac7ae35ecf5d3dbf2c2b7d63eca3397a10a4c69",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:58Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "06d74d8938ef94a127269ddedd4a6c8d3ba0575a9bb57909eaf7904fae3a90a6",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

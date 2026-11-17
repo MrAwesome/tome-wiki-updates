@@ -1,0 +1,12 @@
+{{Ability_box
+|image=Second_wind_2017.png
+|name=Second wind
+|category_type=[[Technique (category type)|Technique]]
+|category=[[Warcries (category)|Warcries]]
+|require={{TalentReq/TechsReqHigh2}}
+|use_mode=Activated
+|cost=0
+|cooldown=50
+|desc=
+Take a deep breath to recover {{CTL|100%|27|55%}} of your stamina.
+}}

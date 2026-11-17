@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "b4068046992620564e60a6afdbcb12f71cab7e984ec2f89d484f16163d01b124",
+    "revid": 16976
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:58Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Dazzling_lights_(talent)",
+    "kind": "talent",
+    "pageid": 5242,
+    "wiki_title": "Dazzling lights (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "064296d51b03b7e000301fe7cb04a8e247000faff248cbae86996c472ba5f6e1",
+    "source_sha256": "741c640c0c8f4fbeea95fa446adafcc7efb71ecdd39c1ae538119412da676704",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:58Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "064296d51b03b7e000301fe7cb04a8e247000faff248cbae86996c472ba5f6e1",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

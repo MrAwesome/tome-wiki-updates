@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "0d159a831b825a6309510980c3748f2799fda5a85fc414087326ab2a025ca54f",
+    "revid": 16974
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Psionic_disruption_(talent)",
+    "kind": "talent",
+    "pageid": 5240,
+    "wiki_title": "Psionic disruption (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "15bbc48d51d955a06533fd135eacaff1b74e23fc879856f31d93fa59502a69f3",
+    "source_sha256": "741c640c0c8f4fbeea95fa446adafcc7efb71ecdd39c1ae538119412da676704",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "15bbc48d51d955a06533fd135eacaff1b74e23fc879856f31d93fa59502a69f3",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

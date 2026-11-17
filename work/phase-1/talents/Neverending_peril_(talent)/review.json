@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "101c82e807e9a79d93bf5eda25d2a3a22a71e07015e9565e260857f91b4e970c",
+    "revid": 19391
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Neverending_peril_(talent)",
+    "kind": "talent",
+    "pageid": 5641,
+    "wiki_title": "Neverending peril (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "7621cdf0bb1f432f25d2449ce2ac6d65a5103999bf1238a767731f23ff82f684",
+    "source_sha256": "115b87f434828dcb22c236b229834b94f3fabf52523af47503a0276937117c80",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "7621cdf0bb1f432f25d2449ce2ac6d65a5103999bf1238a767731f23ff82f684",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

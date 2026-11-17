@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "6e809a4f9f12acc13d01cbd85b597a60283a0e61e739dd1bfe5519813d6bc2f4",
+    "revid": 19373
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Hiemal_shield_(talent)",
+    "kind": "talent",
+    "pageid": 6036,
+    "wiki_title": "Hiemal shield (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "c3460ce18ca3fcdf17d4e290c57e34b397d2b542edaccd7c777c9dca4e5822d9",
+    "source_sha256": "e36422d0e94485cfdc817f1df4d0aa43c67732a6c2feba17527edc0d7ac343fe",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "c3460ce18ca3fcdf17d4e290c57e34b397d2b542edaccd7c777c9dca4e5822d9",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

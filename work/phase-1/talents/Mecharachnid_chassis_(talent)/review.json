@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "3ab651b7725544f70e45578aeabe24e236d6dd8fa0d93113ec50a627d688f3d9",
+    "revid": 22525
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Mecharachnid_chassis_(talent)",
+    "kind": "talent",
+    "pageid": 6281,
+    "wiki_title": "Mecharachnid chassis (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "6526d7012fcecade7eece8750fdf67a00f0c5212434bd626ff86a24e27113808",
+    "source_sha256": "d4a229c033179400bfeecdf22a6d8c7d8b890754f25cecd82908d413c3fa5102",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "6526d7012fcecade7eece8750fdf67a00f0c5212434bd626ff86a24e27113808",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

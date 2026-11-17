@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "e7213f93839a168bebbdb772a4de04f0c8fdd31a950964df534e25784737c757",
+    "revid": 14964
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:58Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Draconic_will_(talent)",
+    "kind": "talent",
+    "pageid": 3467,
+    "wiki_title": "Draconic will (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "e0b79d99d46a972e814e0e19da0c655d26799846e01c068f6473d999e6cb2384",
+    "source_sha256": "bde073032f50b20d456193dd79131b7e54e2dcdfc42ca92736e6f406e8c28931",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:58Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "e0b79d99d46a972e814e0e19da0c655d26799846e01c068f6473d999e6cb2384",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

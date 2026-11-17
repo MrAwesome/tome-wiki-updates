@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "61264e71c9585934d5da68ad57a49b18376913f52085ef55ec36365fc7cfe1ff",
+    "revid": 17807
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:58Z",
+      "event": "deterministic_render_applied",
+      "reason": "baseline_preserved"
+    }
+  ],
+  "identity": {
+    "filename": "Animus_hoarder_(talent)",
+    "kind": "talent",
+    "pageid": 3380,
+    "wiki_title": "Animus hoarder (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "baseline_preserved",
+    "candidate_page_sha256": "61264e71c9585934d5da68ad57a49b18376913f52085ef55ec36365fc7cfe1ff",
+    "source_sha256": null,
+    "status": "unmatched_source",
+    "updated_at": "2026-11-08T16:08:58Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "61264e71c9585934d5da68ad57a49b18376913f52085ef55ec36365fc7cfe1ff",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

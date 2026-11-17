@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "a5f8739757b3b099b535573da6856f5def72d13499d126b269c51027524f1a13",
+    "revid": 20304
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:58Z",
+      "event": "deterministic_render_applied",
+      "reason": "baseline_preserved"
+    }
+  ],
+  "identity": {
+    "filename": "Attenuate_(talent)",
+    "kind": "talent",
+    "pageid": 4241,
+    "wiki_title": "Attenuate (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "baseline_preserved",
+    "candidate_page_sha256": "a5f8739757b3b099b535573da6856f5def72d13499d126b269c51027524f1a13",
+    "source_sha256": "34b20fbdefa32a89d9ec28dc72e6e3f52301a3e36f10f1e9453ab40eb2edfb2a",
+    "status": "unsupported_info",
+    "updated_at": "2026-11-08T16:08:58Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "a5f8739757b3b099b535573da6856f5def72d13499d126b269c51027524f1a13",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

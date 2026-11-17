@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "277d7e5d83fd55c9e70b458aced1e52f0a41e75465a5285cef35bb1fa4abfb32",
+    "revid": 18535
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Elemental_discord_(talent)",
+    "kind": "talent",
+    "pageid": 3203,
+    "wiki_title": "Elemental discord (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "273e7cc3d7ffffac29725743205c29cb80f694924fbdb1f753ad996a64950a21",
+    "source_sha256": "717328f18ac054652eef915b0ee39f353aca3223074db29c36b148bbbb460c13",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "273e7cc3d7ffffac29725743205c29cb80f694924fbdb1f753ad996a64950a21",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

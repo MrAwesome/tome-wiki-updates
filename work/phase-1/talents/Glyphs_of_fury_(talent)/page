@@ -1,0 +1,14 @@
+{{Ability_box
+|name = Glyphs of Fury
+|image = Glyphs of fury.png
+|category_type = {{ct|Celestial}}
+|category = {{c|Glyphs}}
+|game_version = 1.7.6
+|require = {{TalentReq/DiviReqHigh2}}
+|use_mode = Passive
+|desc =
+Your glyphs are imbued with celestial fury; they last {{ctl|6|2|5}} turns longer and when triggered they will deal damage.
+#ffd700#Glyph of Sunlight#LAST#:  Deals {{ctspd|1|100}} light damage.
+#7f7f7f#Glyph of Moonlight#LAST#:  Deals {{ctspd|1|100}} darkness damage.
+#9D9DC9#Glyph of Twilight#LAST#:  Deals {{ctspd|0.5|50}} light and {{ctspd|0.5|50}} darkness damage.
+}}

@@ -1,0 +1,11 @@
+{{Ability box
+|game_version=1.7.6
+|image=?
+|name=Psionic Maelstrom
+|category_type=misc/objects
+|range=10
+|cost=50 Psi
+|cooldown=50
+|desc=
+For the next 8 turns, powerful blasts of psionic energies will erupt from you, doing {{CTMD|30|300}} damage.
+}}

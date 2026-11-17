@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "f52ad3f98fc47b75c918c802ebd41ced713953336a8a9b4279441d226c2ad013",
+    "revid": 19218
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Slime_spit_(talent)",
+    "kind": "talent",
+    "pageid": 1426,
+    "wiki_title": "Slime spit (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "9cf368548bbe8e8285af359d92584d401ac8d7f9c51f25e855d8f176bf1d4625",
+    "source_sha256": "59736e1acfe5dcb342491dcdc47102795d2401dbc520f300cf52ac2eac2d8ada",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "9cf368548bbe8e8285af359d92584d401ac8d7f9c51f25e855d8f176bf1d4625",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

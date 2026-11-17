@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "e66f49015ac689ca664063ee60c0e02579b250acf5e012bd375c57184f3eb3e3",
+    "revid": 7762
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Transcendent_thought-forms_(talent)",
+    "kind": "talent",
+    "pageid": 1353,
+    "wiki_title": "Transcendent thought-forms (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "76d14e47ddc29677457f715be1e740424de3b674838d0ee0679b70d641c2c06e",
+    "source_sha256": "7cbcd6ff95fb4427c3b1ff3fcd486851aad8a690b75ac763853fe1f00a31188d",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "76d14e47ddc29677457f715be1e740424de3b674838d0ee0679b70d641c2c06e",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

@@ -1,0 +1,32 @@
+{{Ability box
+|game_version=1.4.6
+|ashes_version=1.0.5
+|image=Demon seed.png
+|name=Demon Seed
+|category_type={{ct|Corruption}}
+|category={{c|Demonic pact}}
+|require=Lvl (0,6,12,18,24) Mag (12,14,16,18,20)
+|cost=8 Stamina, 5 Vim
+|cooldown=8
+|desc=
+Strike a blow with your weapon for {{ctwd|60|160%}} blight damage. 
+If the attack hits, a demonic seed tries to take hold inside your foe and you follow up with a shield strike dealing {{ctwd|60|140%}} damage and dazing your target for {{cts|2.5|4.5}} turns.
+
+The seed requires a powerful host to nourish it and can only take hold in creatures that are worth experience and that are not summoned demons.
+
+The chance for the seed to take hold is based on the creatures rank:
+
+Normal: 5%
+
+Elite: 20%
+
+Rare or Unique: 50%
+
+Boss: 100%
+
+When the host dies the seed fills with the vim of the dying creature and turns into a specific [[Demon Seeds|demon seed]] that can be used to summon that demon.
+
+A demonic seed will only be created if you do not already have a seed of this demon/slot of a superior level.
+
+Higher talent levels allow for more powerful demon types.
+}}

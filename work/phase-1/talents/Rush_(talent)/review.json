@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "f8a00929d3d3974ca8b4bbbd8429103964a9d15643ed994273380afc915c7c69",
+    "revid": 16752
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Rush_(talent)",
+    "kind": "talent",
+    "pageid": 1533,
+    "wiki_title": "Rush (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "e9a5179291ba01919ae19b19714c63441011660c764d3367466c38fbe54938b7",
+    "source_sha256": "52577655ef879a15ae0034f7294be0be57199e63693109f9f5f4b7d3a227012f",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "e9a5179291ba01919ae19b19714c63441011660c764d3367466c38fbe54938b7",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "c6ebc14796d76f6bca04d97725bafb2c6d89c553e7eb71d4fa4d568f00ca0530",
+    "revid": 22813
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "baseline_preserved"
+    }
+  ],
+  "identity": {
+    "filename": "Multicaster_(talent)",
+    "kind": "talent",
+    "pageid": 7007,
+    "wiki_title": "Multicaster (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "baseline_preserved",
+    "candidate_page_sha256": "c6ebc14796d76f6bca04d97725bafb2c6d89c553e7eb71d4fa4d568f00ca0530",
+    "source_sha256": "02aab560ab3ab9cf7d4aa2188d0e0d4d92ae60247099f7838750ddf2d189967d",
+    "status": "unsupported_info",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "c6ebc14796d76f6bca04d97725bafb2c6d89c553e7eb71d4fa4d568f00ca0530",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

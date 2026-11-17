@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "83b2e60e5184c26d941ab56319072cf160b5516a2e300eeb2aaae6390d84820e",
+    "revid": 8342
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Hymn_of_detection_(talent)",
+    "kind": "talent",
+    "pageid": 123,
+    "wiki_title": "Hymn of detection (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "860306f5318be5b9bed2c96d3cff6313dabf96c2caeca3318e3987ba389c0ada",
+    "source_sha256": "720e1f263f29379029f2598da072669d897ee0eb9adc5bff1cc9dd13acc39b7d",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "860306f5318be5b9bed2c96d3cff6313dabf96c2caeca3318e3987ba389c0ada",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

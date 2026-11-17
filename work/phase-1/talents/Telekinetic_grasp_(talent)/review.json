@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "b4de9d97df1c1e6cbd555004aead4de97eaa3ebe7c74654de7425e7d9e0f0d65",
+    "revid": 20447
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Telekinetic_grasp_(talent)",
+    "kind": "talent",
+    "pageid": 2525,
+    "wiki_title": "Telekinetic grasp (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "0246bf9d43ce1e8de10bf6c1e445d319024f8764dfa62f824ace430ce206342d",
+    "source_sha256": "9e8828c6064e105f85b46a03af4344239a4234364c0a12869ab9fb9985c5889f",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "0246bf9d43ce1e8de10bf6c1e445d319024f8764dfa62f824ace430ce206342d",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

@@ -1,0 +1,18 @@
+{{Ability_box
+|game_version = 1.7.6
+|name = Grim Shadow
+|image = grim shadow.png
+|category_type={{ct|Spell}}
+|category={{c|Death}}
+|require = {{TalentReq/SpellsReq3}}
+|use_mode = Sustained
+|cost = 35 Mana
+|range = 0
+|cooldown = 30
+|use_speed = Spell
+|desc =
+Your body starts to radiate shadows, increasing your darkness resistance by {{cts|10|25%}}, armour by {{cts|5|30}} and defence by {{cts|5|30}}.
+Any time you absorb a soul the shadows pulse outward, dealing {{ctspd|10|180}} frostdusk damage to all foes in range {{ctl|10|1|3}} and knocking them back 3 tiles.
+This can only happen once per turn.
+The damage increases with your Spellpower.
+}}

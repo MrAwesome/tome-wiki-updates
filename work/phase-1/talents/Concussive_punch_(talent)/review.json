@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "68e7e454f0b06ba2affad320fe0bf1ea59e7fcfc271d8595cb70b1c9a069918c",
+    "revid": 8811
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:58Z",
+      "event": "deterministic_render_applied",
+      "reason": "baseline_preserved"
+    }
+  ],
+  "identity": {
+    "filename": "Concussive_punch_(talent)",
+    "kind": "talent",
+    "pageid": 1699,
+    "wiki_title": "Concussive punch (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "baseline_preserved",
+    "candidate_page_sha256": "68e7e454f0b06ba2affad320fe0bf1ea59e7fcfc271d8595cb70b1c9a069918c",
+    "source_sha256": "5db9065c3c22aa606e3e5f0ce2d1bb64565c042a06efe71defe83bbf162d1f09",
+    "status": "unsupported_info",
+    "updated_at": "2026-11-08T16:08:58Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "68e7e454f0b06ba2affad320fe0bf1ea59e7fcfc271d8595cb70b1c9a069918c",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

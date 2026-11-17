@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "957b4450b2a0bb476b238dcb45b19b8ac3f1681c2c6baa6389d060e755305352",
+    "revid": 8770
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Invoke_golem_(talent)",
+    "kind": "talent",
+    "pageid": 1684,
+    "wiki_title": "Invoke golem (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "fc530c6a41d551587f59352fa35d7d693d9623e3904fe6f41071e572509ba21c",
+    "source_sha256": "d49a29e2ccb26796d7479f8091d90c7902d362b96933c32fa13618c0fcd740bf",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "fc530c6a41d551587f59352fa35d7d693d9623e3904fe6f41071e572509ba21c",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "391d1f82b0474e1665c570a6b7dafe570761719e5d48ee6c1ef70930e49160ba",
+    "revid": 12732
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Water_bolt_(talent)",
+    "kind": "talent",
+    "pageid": 2930,
+    "wiki_title": "Water bolt (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "23d402b65eeed48254973529186e2d116b3cb4d40e4556c12d60c2c766b50996",
+    "source_sha256": "dc640c1af5d22a45472d843380c9de01334530b3831bd2b9fe88ee0cba3abc23",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "23d402b65eeed48254973529186e2d116b3cb4d40e4556c12d60c2c766b50996",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

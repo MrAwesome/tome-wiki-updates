@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "9e251674284ef3152962559de322e2aeb747286033636f1b9143fe9b0c9543b5",
+    "revid": 10638
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:58Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Blazing_rebirth_(talent)",
+    "kind": "talent",
+    "pageid": 3753,
+    "wiki_title": "Blazing rebirth (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "673525e263be829496e127b7f8976b1c46435c15f221a131e0fe5ec58df04f31",
+    "source_sha256": "9169ec6910a96af6ce469ef88c4b257165955f96ce7828c8508e2d36372a92b5",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:58Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "673525e263be829496e127b7f8976b1c46435c15f221a131e0fe5ec58df04f31",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

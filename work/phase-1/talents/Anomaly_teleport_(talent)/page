@@ -1,0 +1,13 @@
+{{Ability box
+|game_version=1.4.5
+|image=Anomaly teleport.png
+|name=Anomaly Teleport
+|category_type={{ct|Chronomancy}}
+|category={{c|Anomaly}}
+|require=-
+|use_mode=Uncontrolled Anomaly
+|cooldown=0
+|desc=
+Teleports up to five targets in a radius of {{anom/radius}}, up to {{anom/range}}, tiles away.
+
+}}

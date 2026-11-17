@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "f58edb86b9160b78f201e5346a005e03a5f8f9e862f8bffa0557adf9e6bd282f",
+    "revid": 22990
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Extract_gems_(talent)",
+    "kind": "talent",
+    "pageid": 1403,
+    "wiki_title": "Extract gems (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "5dafe8498443e86e46a640e9e344f1e8edac6053a856333a4403fd07e54102eb",
+    "source_sha256": "a11363e3eeedd88555a1a7f927b8a4b722fd9937e4f57e915432650b5640d389",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "5dafe8498443e86e46a640e9e344f1e8edac6053a856333a4403fd07e54102eb",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

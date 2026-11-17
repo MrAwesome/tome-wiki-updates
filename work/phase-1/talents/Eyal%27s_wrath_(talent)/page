@@ -1,0 +1,16 @@
+{{Ability box
+|game_version=1.7.6
+|image=Eyal's Wrath.png
+|name=Eyal's Wrath
+|category_type={{ct|Wild-Gift}}
+|category={{c|Eyal's Fury}}
+|require={{TalentReq/GiftsReqHigh5}}
+|cost=20 Equilibrium
+|cooldown=20
+|use_speed=Mind
+|desc=
+You draw deeply from your connection with nature to create a radius {{ctl|10|4|8}} storm of natural forces around you for {{cts|4|8}} turns.
+This storm moves with you and deals {{ctmd|10|100}} Nature damage each turn to all foes it hits.
+In addtion, it will drain up to {{ctmd|10|30}} Mana, {{ctmd|5|15}} Vim, {{ctmd|2.5|7.5}} Positive, and {{ctmd|2.5|7.5}} Negative energy from each enemy within it's area every turn, while you restore Equilibrium equal to 10% of the amount drained.
+The damage and drain increase with your Mindpower.
+}}

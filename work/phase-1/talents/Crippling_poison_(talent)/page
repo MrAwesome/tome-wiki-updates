@@ -1,0 +1,15 @@
+{{Ability box
+|game_version=1.5.2
+|image=Crippling_poison_2017.png
+|name=Crippling Poison
+|category_type={{ct|Cunning}}
+|category=Poisons Effects
+|require={{t|Vile Poisons}} Level 3
+|use_mode=Sustained
+|cooldown=10
+|use_speed=0
+|desc=
+Enhances your Deadly Poison with a crippling agent, giving enemies a {{cTL|35%|10|20%}} chance on using a talent to fail and lose a turn.
+
+Poison effects scale with your {{t|Vile Poisons}} talent.
+}}

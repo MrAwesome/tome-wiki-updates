@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "5ee0a155266f45d3a98806cf954489c3eb93f5ab128519ff6ef876475fc300fb",
+    "revid": 7602
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:58Z",
+      "event": "deterministic_render_applied",
+      "reason": "baseline_preserved"
+    }
+  ],
+  "identity": {
+    "filename": "Combination_kick_(talent)",
+    "kind": "talent",
+    "pageid": 3281,
+    "wiki_title": "Combination kick (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "baseline_preserved",
+    "candidate_page_sha256": "5ee0a155266f45d3a98806cf954489c3eb93f5ab128519ff6ef876475fc300fb",
+    "source_sha256": "91ac098348600487931a3843a2aac1b824e580b05c307bdf2ec068d464948aac",
+    "status": "unsupported_info",
+    "updated_at": "2026-11-08T16:08:58Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "5ee0a155266f45d3a98806cf954489c3eb93f5ab128519ff6ef876475fc300fb",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

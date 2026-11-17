@@ -1,0 +1,19 @@
+{{Ability_box
+|image=Thermal leech.png
+|name=Thermal Leech
+|category_type=[[Psionic (category type)|Psionic]]
+|category=[[Voracity (category)|Voracity]]
+|require={{TalentReq/PsiWilReq2}}
+|use_mode=Activated
+|cooldown=25 - 3 * Raw Talent Level
+|desc=
+You draw thermal energy from your surroundings to replenish your Psi.
+
+This will deal (1.5 - Current Psi / Max Psi) * {{ctmd|20|130}} Cold damage to all targets with radius {{cts|1|4}}.
+
+Affected targets will also be frozen for {{cts|1.3|3.2}} turns, where your effective talent level is multiplied by a factor of (1.5 - Current Psi / Max Psi).
+
+You replenish (1.5 - Current Psi / Max Psi) * {{cts|10|20}} Psi from the first target, with each additional target restoring 20% less than the one before it.
+
+The damage and the strength of these effects increases as your Psi depletes.
+}}

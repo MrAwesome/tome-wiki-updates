@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "2c40fa6e627de7308205133d8ecbe077b31c96296aead47864a23756afe9a00a",
+    "revid": 13542
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Perfect_strike_(talent)",
+    "kind": "talent",
+    "pageid": 1535,
+    "wiki_title": "Perfect strike (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "fae82bfcc628866a6ca2c4d2b0a2d9227bce2e0e1f784ad32a3b7a5014b59e19",
+    "source_sha256": "52577655ef879a15ae0034f7294be0be57199e63693109f9f5f4b7d3a227012f",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "fae82bfcc628866a6ca2c4d2b0a2d9227bce2e0e1f784ad32a3b7a5014b59e19",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

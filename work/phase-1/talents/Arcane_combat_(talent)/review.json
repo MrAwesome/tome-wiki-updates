@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "0a3e40c3e69e09803b67c194ad98785d1d6db61941ea433cd326502d53079b39",
+    "revid": 13982
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:58Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Arcane_combat_(talent)",
+    "kind": "talent",
+    "pageid": 1677,
+    "wiki_title": "Arcane combat (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "3a8cfb584388a5215cbe635befc86d472aa0d7ffdfbb884fba416e337e286795",
+    "source_sha256": "b3e5608342bd0ba6861bc9212482b83bd0ebde1cfdbf84e08784899a871eafdc",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:58Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "3a8cfb584388a5215cbe635befc86d472aa0d7ffdfbb884fba416e337e286795",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

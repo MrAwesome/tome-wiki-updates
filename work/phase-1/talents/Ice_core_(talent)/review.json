@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "40936442b49e18ba9c3ef1907042becbbd56c1b7dc976cd71c55f64be293eda6",
+    "revid": 12196
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Ice_core_(talent)",
+    "kind": "talent",
+    "pageid": 3266,
+    "wiki_title": "Ice core (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "bf48e799d734841581a205c87b0f9eae5e1ab907d6f86746cdf712e09e78a397",
+    "source_sha256": "3acca71bfea06f10d99a7d6d11dc7200cf5a4416c57a7faced8d78754601feec",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "bf48e799d734841581a205c87b0f9eae5e1ab907d6f86746cdf712e09e78a397",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

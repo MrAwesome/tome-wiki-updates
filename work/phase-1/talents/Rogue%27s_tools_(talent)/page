@@ -1,0 +1,30 @@
+{{Ability_box
+|image=rogue_s_tools.png
+|name=Rogue's Tools
+|game_version=1.5.2
+|category_type=[[Cunning (category type)|Cunning]]
+|category=[[Artifice (category)|Artifice]]
+|require={{TalentReq/CunsReqHigh1}}
+|cooldown=10
+|travel_speed=Instantaneous
+|use_speed=Standard
+|desc=
+With some advanced preparation, you learn to create and equip one of a number of useful tools (at Talent Level):
+
+'''{{t|Dart Launcher}}''':<br> 
+Fire a poisoned dart dealing 15 + {{ctstd|Cun|12|150}} physical damage that puts the target to sleep for 4 turns. 10 turn cooldown.
+
+'''{{t|Smokescreen}}''':<br>
+Throw a smokebomb creating a radius 2 cloud of smoke, lasting {{cTS|3|5}} turns, that blocks sight and reduces enemies' vision by {{cTS|1|6|log|0|4}}. 15 turn cooldown.
+
+'''{{t|Grappling Hook}}:'''<br>
+Throw a grappling hook up to range {{cTS|4|7}} that drags you towards the target or the target towards you. 8 turn cooldown.
+
+'''{{t|Hidden Blades}}:'''<br>
+Melee criticals trigger an extra unarmed attack, inflicting {{cTWD|100|180%}} damage. 4 turn cooldown.
+
+'''{{t|Rogue's Brew}}:'''<br>
+Prepare a potion that restores {{cSS|Cun|10|200|0.7}} + {{cTS|20|200|0.7}} life, {{cSS|Cun|5|50|0.75}} + {{cTS|5|50|0.75}} stamina and curing {{cTS|1|3|log}} negative physical effect(s). 20 turn cooldown.
+
+Preparing a tool sets its talent level and puts it on cooldown.
+}}

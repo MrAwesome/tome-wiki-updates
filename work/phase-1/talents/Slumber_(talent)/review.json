@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "cba3a9a96ab19207dec4fb0b2f4caac37000064fb218cda3b4a4dfd593820d6b",
+    "revid": 8672
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "baseline_preserved"
+    }
+  ],
+  "identity": {
+    "filename": "Slumber_(talent)",
+    "kind": "talent",
+    "pageid": 1147,
+    "wiki_title": "Slumber (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "baseline_preserved",
+    "candidate_page_sha256": "cba3a9a96ab19207dec4fb0b2f4caac37000064fb218cda3b4a4dfd593820d6b",
+    "source_sha256": "a030f97c98b707ded663c9e66ef0600834c750ccdba9a2ee666da41255376314",
+    "status": "unsupported_info",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "cba3a9a96ab19207dec4fb0b2f4caac37000064fb218cda3b4a4dfd593820d6b",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

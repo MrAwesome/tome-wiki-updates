@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "a006cb09812b0da664c6c8c8304073f5c21e22a88f8d0cb751fb02b73b58b4e2",
+    "revid": 16979
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Seismic_mind_(talent)",
+    "kind": "talent",
+    "pageid": 5283,
+    "wiki_title": "Seismic mind (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "42a41f11253057f4cb5996075315c342603e3b4b9da7c74e5ea41c9fa90527f5",
+    "source_sha256": "b477d52609e6d06f48a70d7163f172c24e1ab9a8cd66baa9305da15ff3bf09f4",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "42a41f11253057f4cb5996075315c342603e3b4b9da7c74e5ea41c9fa90527f5",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

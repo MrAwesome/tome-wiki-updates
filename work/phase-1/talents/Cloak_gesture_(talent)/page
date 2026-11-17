@@ -1,0 +1,17 @@
+{{Ability box
+|image=Cloak gesture.png
+|name=Cloak gesture
+|game_version=1.7.6
+|embers_version=1.1.10
+|category_type={{ct|Steamtech}}
+|category={{c|Avoidance}}
+|require={{TalentReq/SteamReq2}}
+|use_mode=Activated
+|cost=20 Steam
+|cooldown=12
+|use_speed=Steamtech
+|desc=
+With a gesture of your cloak, you drop a small incendiary device in front of you, creating a wall of thick steam of {{gtl|1|5}} length that burns creatures passing it for {{ctstmd|2|240}} {{fire}} damage and blocks sight for 5 turns.
+At level 5 the action is so perfect that your foes even lose track of you entirely.
+Damage increases with your steampower.
+}}

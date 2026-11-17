@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "b80f23edbeea174dd0b49628842ce6d680fadd56f1d49ecd8b6d0065127546a8",
+    "revid": 8343
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Hymn_of_perseverance_(talent)",
+    "kind": "talent",
+    "pageid": 122,
+    "wiki_title": "Hymn of perseverance (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "cf641c00882765cd880906df11e4f8188f8b21935637183cdf2d3022b51ef8a1",
+    "source_sha256": "720e1f263f29379029f2598da072669d897ee0eb9adc5bff1cc9dd13acc39b7d",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "cf641c00882765cd880906df11e4f8188f8b21935637183cdf2d3022b51ef8a1",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

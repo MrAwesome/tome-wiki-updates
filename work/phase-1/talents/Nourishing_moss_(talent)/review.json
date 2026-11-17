@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "d5bb980e628da80380d74cb86d43791ccbf31e129637f409fe3232b6d48eff3e",
+    "revid": 19183
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Nourishing_moss_(talent)",
+    "kind": "talent",
+    "pageid": 1132,
+    "wiki_title": "Nourishing moss (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "2684b607c3a9295b194c9e6ddc25478bd26ce6c4c4c3db538c68b9ee12a37135",
+    "source_sha256": "fb8f64f551bf86d0c54ca3e6ea50f3c4c3b8f09de7155a8b20392438bf2e0607",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "2684b607c3a9295b194c9e6ddc25478bd26ce6c4c4c3db538c68b9ee12a37135",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

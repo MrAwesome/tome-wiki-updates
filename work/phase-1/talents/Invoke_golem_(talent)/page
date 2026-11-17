@@ -1,0 +1,12 @@
+{{Ability box
+|game_version=1.7.6
+|image=Invoke golem.png
+|name=Invoke Golem
+|category_type={{ct|Spell}}
+|category={{c|Golemancy}}
+|require={{TalentReq/SpellsReq3}}
+|cost=10 Mana
+|cooldown=20
+|desc=
+You invoke your golem to your side, granting it a temporary melee power increase of {{ctspd|15|50}} for 5 turns.
+}}

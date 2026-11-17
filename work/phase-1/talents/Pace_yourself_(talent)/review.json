@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "d79b046802736cd34a273b6b48402a57bd159b8ac0e01a929edac96cbedeb55b",
+    "revid": 14117
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "baseline_preserved"
+    }
+  ],
+  "identity": {
+    "filename": "Pace_yourself_(talent)",
+    "kind": "talent",
+    "pageid": 3370,
+    "wiki_title": "Pace yourself (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "baseline_preserved",
+    "candidate_page_sha256": "d79b046802736cd34a273b6b48402a57bd159b8ac0e01a929edac96cbedeb55b",
+    "source_sha256": "c46ef2bb07cc43087f4306ce6036d3e62ac00db56d223f4d91cd708eae075bc5",
+    "status": "unsupported_info",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "d79b046802736cd34a273b6b48402a57bd159b8ac0e01a929edac96cbedeb55b",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

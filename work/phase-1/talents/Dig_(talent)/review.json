@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "3569e0aa9a78b1e4741882ce9bbaa7d30ae56892bc30df51f5243925bac1f4a6",
+    "revid": 5781
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:58Z",
+      "event": "deterministic_render_applied",
+      "reason": "baseline_preserved"
+    }
+  ],
+  "identity": {
+    "filename": "Dig_(talent)",
+    "kind": "talent",
+    "pageid": 3009,
+    "wiki_title": "Dig (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "baseline_preserved",
+    "candidate_page_sha256": "3569e0aa9a78b1e4741882ce9bbaa7d30ae56892bc30df51f5243925bac1f4a6",
+    "source_sha256": "7396731ef4718b932752a648d67726332b7b3a5b180321cbfe6ed4da2f59f7e2",
+    "status": "unsupported_info",
+    "updated_at": "2026-11-08T16:08:58Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "3569e0aa9a78b1e4741882ce9bbaa7d30ae56892bc30df51f5243925bac1f4a6",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

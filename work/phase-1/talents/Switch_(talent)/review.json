@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "ec7e4d935ec86e771beaf4f70b42156a281aef04f4c03261760494cb49c40584",
+    "revid": 18675
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Switch_(talent)",
+    "kind": "talent",
+    "pageid": 5931,
+    "wiki_title": "Switch (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "39a2ca9120d1f53df777b905c1e0980f4b1ffeffc9f3e51f9dc969e4b2ca6df3",
+    "source_sha256": "d93d99fd05b45f16cb730c6bf46f7b0bf305e157de21513d539c0e648faa231f",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "39a2ca9120d1f53df777b905c1e0980f4b1ffeffc9f3e51f9dc969e4b2ca6df3",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

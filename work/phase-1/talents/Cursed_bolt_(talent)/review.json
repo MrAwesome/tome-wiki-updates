@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "911bc18e67fc692987eec97742da01a72494b8fd57cd3580de3fbd11b898d7f9",
+    "revid": 13650
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:58Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Cursed_bolt_(talent)",
+    "kind": "talent",
+    "pageid": 4715,
+    "wiki_title": "Cursed bolt (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "c795277c4188b0b6bdc2ffaed40d7d67347e6dd1a9b81ec898732c5607606bf7",
+    "source_sha256": "1632e114e3e0cd629d78b32524bd03406a78eb31f778313211fe8a1315486f71",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:58Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "c795277c4188b0b6bdc2ffaed40d7d67347e6dd1a9b81ec898732c5607606bf7",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

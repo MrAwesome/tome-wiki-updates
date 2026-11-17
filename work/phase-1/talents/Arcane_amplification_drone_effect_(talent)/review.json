@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "2046f95a294f94515b00eea1ea3a0beaf3b2f4cabe46169312296aed27de4687",
+    "revid": 23297
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:58Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Arcane_amplification_drone_effect_(talent)",
+    "kind": "talent",
+    "pageid": 4221,
+    "wiki_title": "Arcane amplification drone effect (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "8a43da44e053297fbb8f3f3aebf9ff3a89b862a49a5299113b9a3ba6b7979239",
+    "source_sha256": "f66debe2fe113ec88810ebaabc9a1c5674085445bc25a84a4f6175623ebd527b",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:58Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "8a43da44e053297fbb8f3f3aebf9ff3a89b862a49a5299113b9a3ba6b7979239",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

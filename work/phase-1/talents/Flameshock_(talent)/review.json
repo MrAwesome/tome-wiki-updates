@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "b4c0c8d4921387effe0a8654b5ea0209399f9a9f78979142692d08d5302b62bd",
+    "revid": 8001
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Flameshock_(talent)",
+    "kind": "talent",
+    "pageid": 1076,
+    "wiki_title": "Flameshock (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "a1efac13276dfa331cb09d749f6bb992a0256da1b4040c5a831911aeb5f0da5e",
+    "source_sha256": "40b304f5a45613ca57ad840730b2086bb7c72016e3149ab56291ac0db69beeff",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "a1efac13276dfa331cb09d749f6bb992a0256da1b4040c5a831911aeb5f0da5e",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

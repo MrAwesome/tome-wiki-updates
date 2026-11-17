@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "1211cfc0b7ff499bb5268a88794df2b6b2e418cf0cc375cb2829898d5111372b",
+    "revid": 13210
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "baseline_preserved"
+    }
+  ],
+  "identity": {
+    "filename": "Lex_gundobad_(talent)",
+    "kind": "talent",
+    "pageid": 4626,
+    "wiki_title": "Lex gundobad (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "baseline_preserved",
+    "candidate_page_sha256": "1211cfc0b7ff499bb5268a88794df2b6b2e418cf0cc375cb2829898d5111372b",
+    "source_sha256": null,
+    "status": "unmatched_source",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "1211cfc0b7ff499bb5268a88794df2b6b2e418cf0cc375cb2829898d5111372b",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

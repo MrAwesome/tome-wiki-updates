@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "d6606ea3a76d0c329583817b0d3550f05002c0249ba0f4faa2c8e8077a63ba4b",
+    "revid": 18515
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:58Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Bone_spear_(talent)",
+    "kind": "talent",
+    "pageid": 1664,
+    "wiki_title": "Bone spear (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "73b2227849ee9ce0a4eaab0bd5223f204c584adafcb13b200988dc15a22abf03",
+    "source_sha256": "b6fc561adf09dfda092291b9e2bf14c9063e70e175b7473242a2ebef3c7a8ff7",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:58Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "73b2227849ee9ce0a4eaab0bd5223f204c584adafcb13b200988dc15a22abf03",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

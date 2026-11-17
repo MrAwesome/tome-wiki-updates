@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "b23f1c284db956b936fbd6ad1b9c6c44b1b06d891ca6096330092e6c82191193",
+    "revid": 14597
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Furnace_(talent)",
+    "kind": "talent",
+    "pageid": 4478,
+    "wiki_title": "Furnace (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "0068f2c811cf51666a1230df16e3436f3ad3fd3c661dbf658a98be42b577cbfa",
+    "source_sha256": "66df49a75a14a56ea59ee37babb5a41886e714e508cdb65016238841695e6450",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "0068f2c811cf51666a1230df16e3436f3ad3fd3c661dbf658a98be42b577cbfa",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

@@ -1,0 +1,14 @@
+{{Ability box
+|image = Spatial prism.png
+|name = Spatial Prism
+|game_version = 1.7.6
+|embers_version = 1.1.10
+|category_type = {{ct|Celestial}}
+|category = {{c|Reflection}}
+|require = {{TalentReq/DiviReq3}}
+|cooldown = {{ctl|8|30|15}}
+|cost = {{ctl|1|30|10}} Positive energy + {{ctl|1|30|10}} Negative energy
+|range = {{cts|4|7}}
+|use_speed = 0
+|desc = Target a projectile in mid-flight to clone it and target that projectile independently. You gain ownership over the new projectile.
+}}

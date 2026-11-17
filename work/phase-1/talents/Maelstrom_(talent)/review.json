@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "8f7b18a842ccc400ad6ad458240d2397a517e466737be2a378d8288960c0536e",
+    "revid": 8646
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "baseline_preserved"
+    }
+  ],
+  "identity": {
+    "filename": "Maelstrom_(talent)",
+    "kind": "talent",
+    "pageid": 1711,
+    "wiki_title": "Maelstrom (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "baseline_preserved",
+    "candidate_page_sha256": "8f7b18a842ccc400ad6ad458240d2397a517e466737be2a378d8288960c0536e",
+    "source_sha256": "48e9509ba306795fd9ed07b6d514551f97894d28619450960b086785101981e5",
+    "status": "unsupported_info",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "8f7b18a842ccc400ad6ad458240d2397a517e466737be2a378d8288960c0536e",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

@@ -1,0 +1,19 @@
+{{Ability box
+|game_version=1.7.4
+|image=Natural acid.png
+|name=Natural Acid
+|category_type={{ct|Wild-Gift}}
+|category={{c|Oozing Blades}}
+|require={{TalentReq/GiftsReqHigh2}}
+|use_mode=Passive
+|desc=
+You gain {{ctmd|10|40%}} Nature resistance.
+
+When you deal Acid damage to a creature, you gain a bonus to Nature damage for {{cts|2|5|log}} turns. 
+
+This damage bonus can stack up to 5 times. The stack grows by at most 1 per turn whenever you deal acid damage to the target.
+
+The total damage bonus is equal to (0.45 * {{cts|5|15|0.75}} * √ Stack Level)%.
+
+The resistance and damage increase improve with your Mindpower.
+}}

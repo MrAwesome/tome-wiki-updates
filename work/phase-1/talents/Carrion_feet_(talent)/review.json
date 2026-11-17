@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "8af07a0595c0e746dff56877d341995f0e2f302b3abb10dceeeeeb13913ceb0d",
+    "revid": 22693
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:58Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Carrion_feet_(talent)",
+    "kind": "talent",
+    "pageid": 5294,
+    "wiki_title": "Carrion feet (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "32b5ca7f5b0854eeb1d034555e5d43d72a734c4b956fc0a221fd053e463baddf",
+    "source_sha256": "e688d681d04434c01cf5246a35de54b0a91aa8e9df43243fded8732f5e72ad7f",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:58Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "32b5ca7f5b0854eeb1d034555e5d43d72a734c4b956fc0a221fd053e463baddf",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

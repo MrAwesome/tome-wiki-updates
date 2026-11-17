@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "5a3edd6e26662e64e031428947e92955eb97389e315623881de0f8dfa7abc8e9",
+    "revid": 14946
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:58Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Draconic_body_(talent)",
+    "kind": "talent",
+    "pageid": 3451,
+    "wiki_title": "Draconic body (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "c27c94949e6da1e9e910cd061474c5b7a77b953f5e94960952c171f81abc30d8",
+    "source_sha256": "b260bc4a014c91d3ee733275ca1d2671d56db3fbe4afb6cd58b4bd9d8ced33eb",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:58Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "c27c94949e6da1e9e910cd061474c5b7a77b953f5e94960952c171f81abc30d8",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "9ecebe876cf0ae29c8c1ff1df57402fcb23b456b4b740411840d62637505c35c",
+    "revid": 5743
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:58Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Darkness_(talent)",
+    "kind": "talent",
+    "pageid": 2942,
+    "wiki_title": "Darkness (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "8c47b6215b85d904a6cd79c93d03538690288c8e3585402a4c1c5e79dccf93fa",
+    "source_sha256": "dc640c1af5d22a45472d843380c9de01334530b3831bd2b9fe88ee0cba3abc23",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:58Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "8c47b6215b85d904a6cd79c93d03538690288c8e3585402a4c1c5e79dccf93fa",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

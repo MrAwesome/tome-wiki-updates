@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "458e283670054f4c4767813f2e12e59d94f05660c8f0253d99bf08d5d52e9b12",
+    "revid": 16502
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "baseline_preserved"
+    }
+  ],
+  "identity": {
+    "filename": "Metaphasic_spin_(talent)",
+    "kind": "talent",
+    "pageid": 5481,
+    "wiki_title": "Metaphasic spin (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "baseline_preserved",
+    "candidate_page_sha256": "458e283670054f4c4767813f2e12e59d94f05660c8f0253d99bf08d5d52e9b12",
+    "source_sha256": "e918b169766311f8991527fa57fc5018df065fef723d47a5fff6805d37e0d122",
+    "status": "unsupported_info",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "458e283670054f4c4767813f2e12e59d94f05660c8f0253d99bf08d5d52e9b12",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

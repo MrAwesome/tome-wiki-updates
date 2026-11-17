@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "869a126c34ef9288a3770a8bd9dac6bec065d02ec32a28da1e5149c4af320876",
+    "revid": 23043
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Foresight_(talent)",
+    "kind": "talent",
+    "pageid": 2504,
+    "wiki_title": "Foresight (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "72f0c98f2506b4191d441817d63de40f547a214b6fc60c6c5f9ed38d574ba9f6",
+    "source_sha256": "0c61afbcd99a9df41a0a1d203822784782a78722efb59ec593b4878f6a129faf",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "72f0c98f2506b4191d441817d63de40f547a214b6fc60c6c5f9ed38d574ba9f6",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

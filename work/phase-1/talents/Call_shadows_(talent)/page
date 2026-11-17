@@ -1,0 +1,15 @@
+{{Ability box
+|image=Call shadows.png
+|name=Call Shadows
+|category_type={{ct|Cursed}}
+|category={{c|Shadows}}
+|require={{TalentReq/CursedCunReq1}}
+|use_mode=Sustained
+|cost=0 Hate
+|cooldown=10
+|use_speed=0
+|desc=
+While this ability is active, you will continually call up to (0.55 * Talent Level) shadows (maximum 4) with the same level as you to aid you in battle. Each shadow costs 6 hate to summon.
+
+Shadows are weak combatants that can use {{t|Arcane Reconstruction}}, Blindside and Phase Door at level (Raw Talent Level).
+}}

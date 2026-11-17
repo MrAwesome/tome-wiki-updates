@@ -1,0 +1,18 @@
+{{Ability_box
+|name = Drolem Poison Breath
+|image = Poison_breath.png
+|category_type = {{ct|Golem}}
+|category = {{c|Drolem}}
+|game_version = 1.7.4
+|require = {{TalentReq/SpellsReqHigh1}}
+|range = 0
+|cost = 25 Mana
+|cooldown = 8
+|use_speed = Spell
+|desc = 
+Breathe poison on your foes, doing {{ctstd|Mag|30|460}} damage over a few turns.
+
+The damage will increase with your Magic.
+
+''Note: the breath will cover a radius 5 cone, and deal poison damage over 6 turns''
+}}

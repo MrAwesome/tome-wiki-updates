@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "5d3360070ae72e42402f876d1ce55c17ecd3799006842b8a80dd6ef55dae5481",
+    "revid": 8008
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Mudslide_(talent)",
+    "kind": "talent",
+    "pageid": 1464,
+    "wiki_title": "Mudslide (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "d9ad9bebf82e5611e7e7701211bb002764bc35f1c8393714ed48e9d1bb865ffb",
+    "source_sha256": "ad08453419b9012d3fdc4dae388c1fc42c9087ed6ecd731f2363a7246c377095",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "d9ad9bebf82e5611e7e7701211bb002764bc35f1c8393714ed48e9d1bb865ffb",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

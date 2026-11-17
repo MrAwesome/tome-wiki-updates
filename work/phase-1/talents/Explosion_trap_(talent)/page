@@ -1,0 +1,18 @@
+{{Ability box
+|image=Explosion trap.png
+|name=Explosion Trap
+|category_type={{ct|Cunning}}
+|category={{c|Trapping}}
+|require={{t|Trap Mastery}} Level 1
+|cooldown=8
+|cost=15 Stamina
+|range=Trap Range
+|desc=
+Lay a simple yet effective trap that explodes on contact, doing (30 + {{css|Cun|0.4|4}} * Trap Power) fire burn damage in a radius of 2.
+
+High level {{t|Lure}} can trigger this trap.
+
+Trap Power is determined by your raw talent level in {{t|Trap Mastery}}.
+
+The trap will last for a duration of (8 + {{t|Trap Mastery}} Level) turns or until it is triggered.
+}}

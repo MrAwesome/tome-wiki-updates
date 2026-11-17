@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "6d1073afc379eff9c6289857fdf4f3ac1d395322b33094058d6b7206062beb54",
+    "revid": 14641
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "To_the_arms_(talent)",
+    "kind": "talent",
+    "pageid": 4466,
+    "wiki_title": "To the arms (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "063280b1ee40c2f928ff081b5ef915aabe113be8554391291a361ca58ed83f31",
+    "source_sha256": "eb7b701da0502dfd685dff66912bd41839dca9fb9b0b7276c4507b186125f169",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "063280b1ee40c2f928ff081b5ef915aabe113be8554391291a361ca58ed83f31",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

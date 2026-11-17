@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "e269fa9121302a13aad2aedd81bcc470deaceac0166252dff5a17e9260ff5ac2",
+    "revid": 12094
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Swift_shot_(talent)",
+    "kind": "talent",
+    "pageid": 3360,
+    "wiki_title": "Swift shot (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "9e5c712b4eed0495a4a662f107ea42e45c0cf84f63f1d73bd4c8b38a1f49612b",
+    "source_sha256": "646effbdb97ffea6d6abdd3b5a1c66ce4ac5ec6a2c268fe0b1580957d353e1d1",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "9e5c712b4eed0495a4a662f107ea42e45c0cf84f63f1d73bd4c8b38a1f49612b",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

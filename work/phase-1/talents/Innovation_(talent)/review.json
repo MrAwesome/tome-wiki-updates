@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "cc7309fda074c5e6adbcb8d4b3d2c7a4ac59abae0e768129d924ef6cc92a1a3c",
+    "revid": 23066
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Innovation_(talent)",
+    "kind": "talent",
+    "pageid": 4497,
+    "wiki_title": "Innovation (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "cc7309fda074c5e6adbcb8d4b3d2c7a4ac59abae0e768129d924ef6cc92a1a3c",
+    "source_sha256": "0e458f7a23ac86b2935f2d448491acdfb44f6fb828286f2438b90eca5bf82689",
+    "status": "no_change",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "cc7309fda074c5e6adbcb8d4b3d2c7a4ac59abae0e768129d924ef6cc92a1a3c",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

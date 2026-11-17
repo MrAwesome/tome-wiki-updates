@@ -1,0 +1,13 @@
+{{Ability_box
+|game_version = 1.7.6
+|name = Self-Judgement
+|image = Self_judgement.png
+|category_type = {{ct|Cursed}}
+|category = {{c|Hatred}}
+|require = {{TalentReq/CursedWilReq4}}
+|use_mode = Passive
+|desc =
+Any direct damage that exceeds {{ctl|10%|30|15%}} of your maximum life has the excess damage converted to a shallow wound that bleeds over the next {{cts|3|5}} turns. This bleed cannot be resisted or removed, but can be reduced by {{c|Bloodstained}}. Extremely powerful hits (more than 40% of your max life) are not fully converted.
+
+#{italic}#You can't just die. That would be too easy.#{normal}#
+}}

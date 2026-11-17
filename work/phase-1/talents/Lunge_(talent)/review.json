@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "90a1781127f81f140d4f4da2ea9ee4db1ddc27706b1ba6f77527c16412680562",
+    "revid": 13706
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Lunge_(talent)",
+    "kind": "talent",
+    "pageid": 4644,
+    "wiki_title": "Lunge (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "6339132da14c8aa9e8c27c00edecd139f94974bcb030661ee836ac66937b8d9a",
+    "source_sha256": "93f98940d59098b5e1f13ea1ec13599ad0b4620c4ff0316bcbf3d3eb842b6a14",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "6339132da14c8aa9e8c27c00edecd139f94974bcb030661ee836ac66937b8d9a",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

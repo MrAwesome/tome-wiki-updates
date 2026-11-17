@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "632741bfef6ec042254d644e4b56b33fff903647120eaea5fdffc1f7d8427d75",
+    "revid": 8251
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Feed_power_(talent)",
+    "kind": "talent",
+    "pageid": 2106,
+    "wiki_title": "Feed power (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "fcf8a95220168ba5454b7232ff916afb20fc38414d0cbe959fee345d3d278d81",
+    "source_sha256": "d4aeee3a3af35aad4576eadb78e716ab026f62c61dcbb878056042ad1295d02e",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "fcf8a95220168ba5454b7232ff916afb20fc38414d0cbe959fee345d3d278d81",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

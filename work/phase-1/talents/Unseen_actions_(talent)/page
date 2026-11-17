@@ -1,0 +1,12 @@
+{{Ability_box
+|image=Unseen actions.png
+|name=Unseen actions
+|category_type=[[Cunning (category type)|Cunning]]
+|category=[[Stealth (category)|Stealth]]
+|require={{TalentReq/CunsReq4}}
+|use_mode=Passive
+|desc=
+You are able to perform usually unstealthy actions (attacking, using objects, ...) without breaking stealth.  When you perform such an action while stealthed, you have a chance to stay hidden.  Success is more likely against fewer opponents and is determined by comparing {{CTS|0.4|1.89}} times your stealth power to the stealth detection (reduced by 10% per tile distance) of all enemies that have a clear line of sight to you.
+
+Your base chance of success is 100%% if you are not directly observed, and good or bad luck may also affect it.
+}}

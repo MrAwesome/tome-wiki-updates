@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "bdf2701a37c7696cb6d1b5c70d2445c2007756a9558b15415fd9af45a90c8569",
+    "revid": 12133
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:58Z",
+      "event": "deterministic_render_applied",
+      "reason": "baseline_preserved"
+    }
+  ],
+  "identity": {
+    "filename": "Defiling_touch_(talent)",
+    "kind": "talent",
+    "pageid": 1441,
+    "wiki_title": "Defiling touch (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "baseline_preserved",
+    "candidate_page_sha256": "bdf2701a37c7696cb6d1b5c70d2445c2007756a9558b15415fd9af45a90c8569",
+    "source_sha256": "f507f22b67613b0301b832ee4ae625b2de6349d6a10c0de2242f577a6cb94910",
+    "status": "unsupported_info",
+    "updated_at": "2026-11-08T16:08:58Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "bdf2701a37c7696cb6d1b5c70d2445c2007756a9558b15415fd9af45a90c8569",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

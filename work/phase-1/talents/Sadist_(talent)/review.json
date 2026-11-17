@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "47d0e0e3777fd9fe2bf59a6cc363da21e03d4ee11ead67a0d16fe4c83c07d5de",
+    "revid": 16991
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Sadist_(talent)",
+    "kind": "talent",
+    "pageid": 5605,
+    "wiki_title": "Sadist (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "a689b1974e8af549304a104d9da4113799ea7a514a2e60b4829c5d5ebdc5d25b",
+    "source_sha256": "842d180ebf2f929eb8da1287d49a062dfad71358e7bd16702e8bcf4fe4146d90",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "a689b1974e8af549304a104d9da4113799ea7a514a2e60b4829c5d5ebdc5d25b",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

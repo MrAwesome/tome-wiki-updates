@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "716ca415d884ca5f9fb8928ef5094a52f54eeb13c5ebeb5252fcda273fa396ee",
+    "revid": 8000
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Flame_(talent)",
+    "kind": "talent",
+    "pageid": 1074,
+    "wiki_title": "Flame (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "9d10b84af03dabb4e9007cce737327a7cbec27004db14041d3b16457c9553d7d",
+    "source_sha256": "40b304f5a45613ca57ad840730b2086bb7c72016e3149ab56291ac0db69beeff",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "9d10b84af03dabb4e9007cce737327a7cbec27004db14041d3b16457c9553d7d",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

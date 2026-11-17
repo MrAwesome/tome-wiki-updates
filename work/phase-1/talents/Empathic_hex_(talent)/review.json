@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "2a2cec08e294122af06b24880234f4d0b737f94c52a1701044a7451435d773d7",
+    "revid": 8971
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "baseline_preserved"
+    }
+  ],
+  "identity": {
+    "filename": "Empathic_hex_(talent)",
+    "kind": "talent",
+    "pageid": 1158,
+    "wiki_title": "Empathic hex (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "baseline_preserved",
+    "candidate_page_sha256": "2a2cec08e294122af06b24880234f4d0b737f94c52a1701044a7451435d773d7",
+    "source_sha256": "fae65124cfed77d795c99532ece18857a8529d35786a0d16737bda437b16d10c",
+    "status": "unsupported_info",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "2a2cec08e294122af06b24880234f4d0b737f94c52a1701044a7451435d773d7",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

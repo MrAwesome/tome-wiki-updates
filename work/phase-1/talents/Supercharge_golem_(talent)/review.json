@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "cd2633a1b5cbfe3b345a01e9a7d340d24c4b68a917ed1a9927e33256ac2c6619",
+    "revid": 8766
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "baseline_preserved"
+    }
+  ],
+  "identity": {
+    "filename": "Supercharge_golem_(talent)",
+    "kind": "talent",
+    "pageid": 1384,
+    "wiki_title": "Supercharge golem (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "baseline_preserved",
+    "candidate_page_sha256": "cd2633a1b5cbfe3b345a01e9a7d340d24c4b68a917ed1a9927e33256ac2c6619",
+    "source_sha256": "ffd9fffa394cc4b9b216b1e44d7a996d8e945812d5241a241f1ba1de0a7f4a8e",
+    "status": "unsupported_info",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "cd2633a1b5cbfe3b345a01e9a7d340d24c4b68a917ed1a9927e33256ac2c6619",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

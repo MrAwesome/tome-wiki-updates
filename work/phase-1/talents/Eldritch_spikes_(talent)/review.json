@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "c6f306a2087a4fd54d8bc78eba2609ad46c8451e959243a9fbd258a8a5e685dc",
+    "revid": 13084
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:58Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Eldritch_spikes_(talent)",
+    "kind": "talent",
+    "pageid": 4616,
+    "wiki_title": "Eldritch spikes (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "7d8d68cb04f1c69f2e975e93f3dd183dcf92de87549dea7bdc34b9f6f53e7fa1",
+    "source_sha256": "cc67950ff782342bc43b8c643dfd2accfec6734b7a37c62d424a7b926ba8ff44",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:58Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "7d8d68cb04f1c69f2e975e93f3dd183dcf92de87549dea7bdc34b9f6f53e7fa1",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

@@ -1,0 +1,15 @@
+{{Ability_box
+|game_version=1.7.6
+|image=Implode.png
+|name=Implode
+|category_type={{ct|Psionic}}
+|category={{c|Kinetic Mastery}}
+|require={{TalentReq/PsiWilHigh4}}
+|use_mode=Activated
+|cooldown=20
+|cost=35 Psi
+|range=5
+|desc=
+Bind the target mercilessly with constant, bone-shattering pressure, pinning and slowing it by 50% for {{ctmd|2|6}} turns and dealing {{ctmd|66|132}} Physical damage each turn.
+The duration and damage improve with Mindpower.
+}}

@@ -1,0 +1,15 @@
+{{Ability box
+|game_version=1.7.6
+|image=Matter_weaving.png
+|name=Matter Weaving
+|category_type={{ct|Chronomancy}}
+|category={{c|Matter}}
+|require={{TalentReq/ChronoReq2}}
+|cost=24 Paradox
+|cooldown=10
+|range=
+|use_mode=Sustained
+|desc=
+Weave matter into your flesh, becoming incredibly resilient to damage.  While active you gain {{ctstd|Mag|10|50}} armour, {{ctl|100%|15|50%}} resistance to stunning, and {{ctl|100%|15|50%}} resistance to cuts.
+The bonus to armour will scale with your Magic.
+}}

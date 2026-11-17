@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "315df56455e94165f799c87f43b8e29c4be5856483f73d91083ec7d741ed5a28",
+    "revid": 8670
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:58Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Clarity_(talent)",
+    "kind": "talent",
+    "pageid": 1109,
+    "wiki_title": "Clarity (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "309f8d80044b14b2c21b73dd7f04bbccc9d1fbfa793bf961d50c75ed8a4e92d2",
+    "source_sha256": "c5a3b13b26df9fd109926706b25a95cedc3e8204b91ac97afeac08ec2448e4e8",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:58Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "309f8d80044b14b2c21b73dd7f04bbccc9d1fbfa793bf961d50c75ed8a4e92d2",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

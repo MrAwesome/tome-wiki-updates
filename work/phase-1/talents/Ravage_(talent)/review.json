@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "75e92b7eefe88499468d4526099b2cd361527377c4b07da379d70cea034725be",
+    "revid": 8645
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "baseline_preserved"
+    }
+  ],
+  "identity": {
+    "filename": "Ravage_(talent)",
+    "kind": "talent",
+    "pageid": 1713,
+    "wiki_title": "Ravage (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "baseline_preserved",
+    "candidate_page_sha256": "75e92b7eefe88499468d4526099b2cd361527377c4b07da379d70cea034725be",
+    "source_sha256": "48e9509ba306795fd9ed07b6d514551f97894d28619450960b086785101981e5",
+    "status": "unsupported_info",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "75e92b7eefe88499468d4526099b2cd361527377c4b07da379d70cea034725be",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

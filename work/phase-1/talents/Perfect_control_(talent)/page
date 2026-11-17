@@ -1,0 +1,16 @@
+{{Ability_box
+|game_version=1.7.6
+|image=Perfect control.png
+|name=Perfect control
+|category_type=[[Psionic (category type)|Psionic]]
+|category=[[Finer energy manipulations (category)|Finer energy manipulations]]
+|require=Level: (10, 11, 12, 13, 14)
+(22, 24, 26, 28, 30) Cun
+|use_mode=Activated
+|cost=15 Psi
+|cooldown=50
+|use_speed=1 turn
+|desc=
+Encase your body in a sheath of thought-quick forces, allowing you to control your body's movements directly without the inefficiency of dealing with crude mechanisms like nerves and muscles.
+Increases Accuracy by {{gtl|1|5}} and critical strike chance by {{gtl|1|5}} for {{ctl|50|6|10}} turns.
+}}

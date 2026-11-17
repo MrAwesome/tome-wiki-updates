@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "47bef30fbd82e126e6327d5bbb8a7c2aa0b797ae287abd279184851ea02dbc94",
+    "revid": 13879
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:58Z",
+      "event": "deterministic_render_applied",
+      "reason": "baseline_preserved"
+    }
+  ],
+  "identity": {
+    "filename": "Charged_shield_(talent)",
+    "kind": "talent",
+    "pageid": 1276,
+    "wiki_title": "Charged shield (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "baseline_preserved",
+    "candidate_page_sha256": "47bef30fbd82e126e6327d5bbb8a7c2aa0b797ae287abd279184851ea02dbc94",
+    "source_sha256": "8bc41df2079a48e41b57e178722c05e93045ed2be9992edb249bbc49478b5b33",
+    "status": "unsupported_info",
+    "updated_at": "2026-11-08T16:08:58Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "47bef30fbd82e126e6327d5bbb8a7c2aa0b797ae287abd279184851ea02dbc94",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

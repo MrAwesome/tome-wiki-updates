@@ -1,0 +1,21 @@
+{{Ability box
+|game_version = 1.7.6
+|image=corpse_explosion.png
+|name=Corpse Explosion
+|category_type={{ct|Spell}}
+|category={{c|Master of Flesh}}
+|require={{TalentReq/SpellsReq2}}
+|cost=30 Mana
+|cooldown=20
+|use_speed = Spell
+|desc=
+Ghouls are nothing but mere tools to you, for {{cts|3|8}} turns you render them bloated with dark forces.
+
+Anytime a ghoul or ghast is hit it will explode in a messy splash of gore, dealing {{ctspd|40|200}} frostdusk damage to all foes in radius 2 of it.
+
+Any creature caught in the blast also receives a random disease that deals {{ctspd|40|200}} blight damage over 6 turns and reduces one attribute by {{ctspd|5|28}}.
+
+Only one ghoul may explode per turn. The one with the least time left to live is always the first to do so.
+
+The damage and disease power is increased by your Spellpower.
+}}

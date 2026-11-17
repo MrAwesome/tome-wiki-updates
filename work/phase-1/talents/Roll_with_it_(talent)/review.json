@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "3fbe31ceefcb323742642f4eca67dd7a50207e12de0681564ff92a3eeba4a960",
+    "revid": 14936
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "baseline_preserved"
+    }
+  ],
+  "identity": {
+    "filename": "Roll_with_it_(talent)",
+    "kind": "talent",
+    "pageid": 3447,
+    "wiki_title": "Roll with it (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "baseline_preserved",
+    "candidate_page_sha256": "3fbe31ceefcb323742642f4eca67dd7a50207e12de0681564ff92a3eeba4a960",
+    "source_sha256": "2c885ee19750c56b1cf749b256add8a4f805d55a97bc0155b6724f4dccba5703",
+    "status": "unsupported_info",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "3fbe31ceefcb323742642f4eca67dd7a50207e12de0681564ff92a3eeba4a960",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

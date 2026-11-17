@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "539040ba5f4970d4a241cbc536e14236cc961a6c5042b9fdc277ea6049fc079c",
+    "revid": 19036
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "baseline_preserved"
+    }
+  ],
+  "identity": {
+    "filename": "Mind_blast_(talent)",
+    "kind": "talent",
+    "pageid": 141,
+    "wiki_title": "Mind blast (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "baseline_preserved",
+    "candidate_page_sha256": "539040ba5f4970d4a241cbc536e14236cc961a6c5042b9fdc277ea6049fc079c",
+    "source_sha256": "6ba661780800c736c0fbdc10560fcf413516d7dad60f5d4c84cf843053b78d70",
+    "status": "unsupported_info",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "539040ba5f4970d4a241cbc536e14236cc961a6c5042b9fdc277ea6049fc079c",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

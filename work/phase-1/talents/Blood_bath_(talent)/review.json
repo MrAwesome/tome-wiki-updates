@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "a1873ca02142ac92e201f162a2d8e87fe5dfbaab8c44ffb56abe9ab79d0d99b2",
+    "revid": 22876
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:58Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Blood_bath_(talent)",
+    "kind": "talent",
+    "pageid": 7057,
+    "wiki_title": "Blood bath (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "1aedb17e0a2a79b5d9bcf3b2c66facfc2e62e05a361bcddd8932f9aa3f094681",
+    "source_sha256": "3c1841077169754f56549e8aa11e42cd0ccdd7380b735b88f08bfd3ba7cfe01c",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:58Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "1aedb17e0a2a79b5d9bcf3b2c66facfc2e62e05a361bcddd8932f9aa3f094681",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

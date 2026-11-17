@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "7edc1083e7e548baf7239d726c67178c70a3eb9487c05231f11b89263daf6299",
+    "revid": 23062
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Steam_power_(talent)",
+    "kind": "talent",
+    "pageid": 4404,
+    "wiki_title": "Steam power (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "7edc1083e7e548baf7239d726c67178c70a3eb9487c05231f11b89263daf6299",
+    "source_sha256": "33acbb97f40b0ef14685c64a30cfe7225f68940b80bb7907436d658092030ed0",
+    "status": "no_change",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "7edc1083e7e548baf7239d726c67178c70a3eb9487c05231f11b89263daf6299",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

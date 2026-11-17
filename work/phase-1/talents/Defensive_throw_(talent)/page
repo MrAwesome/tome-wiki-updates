@@ -1,0 +1,18 @@
+{{Ability_box
+|image=Defensive throw.png
+|name=Defensive throw
+|category_type=[[Technique (category type)|Technique]]
+|category=[[Unarmed discipline (category)|Unarmed discipline]]
+|require={{TalentReq/TechsDexReq2}}
+|use_mode=Passive
+|desc=
+When you avoid a melee blow while unarmed, you may throw the target to the ground.
+
+The chance to attempt a throw is {{CL|((5 + 0.05 * Cun) * Talent Level)|100%|0|0|50%|50}}.
+
+If the throw lands, the target will take {{CTPD|5|50}} damage and be dazed for 2 turns, or {{CTPD|10|75}} damage and be stunned for 2 turns if the target is grappled.
+
+The number of throws you may attempt each turn is {{CS|(Str + Dex - 20)|0|0|2.24|180}}.
+
+The chance of a successful throw increases with your Accuracy, the damage scales with your Physical Power, and the number of attempts with your Strength and Dexterity.
+}}

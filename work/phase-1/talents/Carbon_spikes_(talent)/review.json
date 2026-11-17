@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "3b183f48e21bd0ea70359bf03539de3c6dba01e2fd2fc756e709d7d7f6d342cc",
+    "revid": 8145
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:58Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Carbon_spikes_(talent)",
+    "kind": "talent",
+    "pageid": 1254,
+    "wiki_title": "Carbon spikes (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "fffa196179d445abf889dfdb30839bafcd6e7b046de7e797a4acf96535980c33",
+    "source_sha256": "d65367d33fedbe507f377497449e86409aab95d3b4cd535466e49a27144381ea",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:58Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "fffa196179d445abf889dfdb30839bafcd6e7b046de7e797a4acf96535980c33",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

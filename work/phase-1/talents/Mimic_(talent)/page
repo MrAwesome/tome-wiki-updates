@@ -1,0 +1,14 @@
+{{Ability box
+|image=Mimic.png
+|name=Mimic
+|category_type={{ct|Cursed}}
+|category={{c|Predator}}
+|require={{TalentReq/CursedLevReq4}}
+|use_mode=Passive
+|desc=
+You learn to mimic the strengths of your prey. Killing a target of the marked sub-type raises your stats to match the strengths of the victim (up to a maximum of {{cts|7|21.6|0.75}} total points, subject to your current effectiveness). The effect lasts indefinitely, but only the effects of the latest kill will be applied.
+
+Each point in Mimic reduces the kill experience required to reach 100% effectivess as a Predator.
+}}
+
+[[Category: Removed Talents]]

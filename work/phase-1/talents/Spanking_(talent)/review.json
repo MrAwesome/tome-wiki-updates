@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "92b9766eb173d2d3bcda71879f7ab80762ecc89a5a030e74b5cb8863baa3d22d",
+    "revid": 18294
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "baseline_preserved"
+    }
+  ],
+  "identity": {
+    "filename": "Spanking_(talent)",
+    "kind": "talent",
+    "pageid": 5849,
+    "wiki_title": "Spanking (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "baseline_preserved",
+    "candidate_page_sha256": "92b9766eb173d2d3bcda71879f7ab80762ecc89a5a030e74b5cb8863baa3d22d",
+    "source_sha256": null,
+    "status": "unmatched_source",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "92b9766eb173d2d3bcda71879f7ab80762ecc89a5a030e74b5cb8863baa3d22d",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

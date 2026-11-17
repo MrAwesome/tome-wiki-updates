@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "8c36adab4c729a7e29c6b9b56e9551ee055afd81ede916a139115bf3b7484acf",
+    "revid": 22851
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Singularity_armor_(talent)",
+    "kind": "talent",
+    "pageid": 7039,
+    "wiki_title": "Singularity armor (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "1c5fe112b588d0bb056ab0613ff3820fce0c5b6c2bebb8cd8ee5adc5deb30d62",
+    "source_sha256": "3ff8993a0db6950d1745ade6a9c8c3d31c37e835d03399f45988c85169ea6508",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "1c5fe112b588d0bb056ab0613ff3820fce0c5b6c2bebb8cd8ee5adc5deb30d62",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

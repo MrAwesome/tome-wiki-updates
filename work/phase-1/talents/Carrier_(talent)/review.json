@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "a61e16e1ad1413fbf77436f3e2bb8f9a1063043c4d833462dffb63ae339499d2",
+    "revid": 18502
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:58Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Carrier_(talent)",
+    "kind": "talent",
+    "pageid": 1688,
+    "wiki_title": "Carrier (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "7b0ceb677e7e30103fca0076b6dc00cbd46644e47510d701bce9300bc1be0b7f",
+    "source_sha256": "187eb45879d9c1ead52c4b717e9b3abc8b760222b6fa1365790cb99fd608c019",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:58Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "7b0ceb677e7e30103fca0076b6dc00cbd46644e47510d701bce9300bc1be0b7f",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

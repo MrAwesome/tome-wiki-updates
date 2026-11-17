@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "598f32fbcf83ca0b7b2d91bd0c88ff850107154641d9f37b9eab0ebd56bc29ee",
+    "revid": 13842
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:58Z",
+      "event": "deterministic_render_applied",
+      "reason": "baseline_preserved"
+    }
+  ],
+  "identity": {
+    "filename": "Dart_launcher_mastery_(talent)",
+    "kind": "talent",
+    "pageid": 4883,
+    "wiki_title": "Dart launcher mastery (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "baseline_preserved",
+    "candidate_page_sha256": "598f32fbcf83ca0b7b2d91bd0c88ff850107154641d9f37b9eab0ebd56bc29ee",
+    "source_sha256": "8a1d55511ff0273bfc9f4193b98de2269372475ffafc5c8185257d59bb7ad4d3",
+    "status": "unsupported_info",
+    "updated_at": "2026-11-08T16:08:58Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "598f32fbcf83ca0b7b2d91bd0c88ff850107154641d9f37b9eab0ebd56bc29ee",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

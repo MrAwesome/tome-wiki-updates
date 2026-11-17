@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "7550d7834f225d3b24ac572ba54c1746c939fe60f7bd43a2675c78ccadb06c98",
+    "revid": 11535
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Speed_sap_(talent)",
+    "kind": "talent",
+    "pageid": 2955,
+    "wiki_title": "Speed sap (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "86e613e36e6d71e6fc03901d672c684449a6e52de7d9eb871416ebe5eaefcbe9",
+    "source_sha256": "dc640c1af5d22a45472d843380c9de01334530b3831bd2b9fe88ee0cba3abc23",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "86e613e36e6d71e6fc03901d672c684449a6e52de7d9eb871416ebe5eaefcbe9",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

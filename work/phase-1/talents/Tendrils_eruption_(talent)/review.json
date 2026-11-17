@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "b9673ad4a540d265237cd529a4215aefd596043c87119db66ee8d068f6bfac16",
+    "revid": 15151
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Tendrils_eruption_(talent)",
+    "kind": "talent",
+    "pageid": 5273,
+    "wiki_title": "Tendrils eruption (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "8ce97510f970f2ed36376910779ec7145fb0b85fbc155cbb5e7641147408d42f",
+    "source_sha256": "038841bc39a9c1ca209651fb5c8cbe248ef0abab6596c528407063eefbe25906",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "8ce97510f970f2ed36376910779ec7145fb0b85fbc155cbb5e7641147408d42f",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "f20fca068e9a2cfbfdf0e545541f7582900b070207e15d809634133148d408d7",
+    "revid": 8378
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Phase_summon_(talent)",
+    "kind": "talent",
+    "pageid": 1652,
+    "wiki_title": "Phase summon (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "43a1d5542e972d69da1362c7b34b8440a649b6d95dc103c7bfdea96e28b7ccf2",
+    "source_sha256": "60289877ddda683962fa2fec05fb30b7df9192c124666c46fa9be41767c5fa01",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "43a1d5542e972d69da1362c7b34b8440a649b6d95dc103c7bfdea96e28b7ccf2",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

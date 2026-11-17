@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "d781c5e60550e8e0da6fd9ffeebc5467a15a3a8cf80a6791199d552c04a4bd91",
+    "revid": 22891
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Mark_of_the_vampire_(talent)",
+    "kind": "talent",
+    "pageid": 7070,
+    "wiki_title": "Mark of the vampire (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "755b3b9ba16a4a5d7cf410cf96c8961d94a76faae63368a4f1900d32e5fabf7e",
+    "source_sha256": "909d08e1f26b3f38f8244c116af6e4a1e54af696abfc74816659c14c5269db18",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "755b3b9ba16a4a5d7cf410cf96c8961d94a76faae63368a4f1900d32e5fabf7e",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

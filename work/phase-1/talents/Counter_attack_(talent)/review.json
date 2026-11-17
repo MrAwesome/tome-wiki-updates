@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "eaeb351400a510b7904640b0f8236440d495b4a2c9797ab9853e3728839de333",
+    "revid": 7588
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:58Z",
+      "event": "deterministic_render_applied",
+      "reason": "baseline_preserved"
+    }
+  ],
+  "identity": {
+    "filename": "Counter_attack_(talent)",
+    "kind": "talent",
+    "pageid": 1621,
+    "wiki_title": "Counter attack (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "baseline_preserved",
+    "candidate_page_sha256": "eaeb351400a510b7904640b0f8236440d495b4a2c9797ab9853e3728839de333",
+    "source_sha256": "c16b9d714f494e9bdd6297069814d401138700b63e5b1169cd4c798940302e1f",
+    "status": "unsupported_info",
+    "updated_at": "2026-11-08T16:08:58Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "eaeb351400a510b7904640b0f8236440d495b4a2c9797ab9853e3728839de333",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

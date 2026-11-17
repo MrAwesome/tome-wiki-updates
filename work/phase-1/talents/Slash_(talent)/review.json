@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "d7abef61ffe5dad7b4197bb59e208f0c0024cd228cf73858a78e83f51af481dd",
+    "revid": 8180
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "baseline_preserved"
+    }
+  ],
+  "identity": {
+    "filename": "Slash_(talent)",
+    "kind": "talent",
+    "pageid": 1087,
+    "wiki_title": "Slash (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "baseline_preserved",
+    "candidate_page_sha256": "d7abef61ffe5dad7b4197bb59e208f0c0024cd228cf73858a78e83f51af481dd",
+    "source_sha256": "614eaedd3ec4d3528192aca4a2e9f502eaffbe7ca050152c7336ddecac9b8ee9",
+    "status": "unsupported_info",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "d7abef61ffe5dad7b4197bb59e208f0c0024cd228cf73858a78e83f51af481dd",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

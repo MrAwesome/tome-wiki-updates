@@ -1,0 +1,15 @@
+{{Ability_box
+|game_version = 1.7.6
+|name = Devourer Stance
+|image = Devourer_stance.png
+|category_type = {{ct|Celestial}}
+|category = {{c|Dark Sun}}
+|require = {{TalentReq/DiviStrReqHigh2}}
+|cost = 10 Positive
+|cooldown = 15
+|use_speed = Spell
+|desc = 
+Attune yourself to the endless hunger of distant dead suns.  For the next {{cts|3|7}} turns, your attacks will inflict an additional {{ctspd|10|50}} gravity damage and attempt to pull enemies closer.  After three turns, you will recover half of all damage taken during this effect.
+
+The damage will increase with your Spellpower.
+}}

@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "da3b079d804f48c30065cb7a5cad138e62590bb9e332ab3dcd5e949d69053363",
+    "revid": 22145
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:58Z",
+      "event": "deterministic_render_applied",
+      "reason": "baseline_preserved"
+    }
+  ],
+  "identity": {
+    "filename": "Anatomy_(talent)",
+    "kind": "talent",
+    "pageid": 1299,
+    "wiki_title": "Anatomy (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "baseline_preserved",
+    "candidate_page_sha256": "da3b079d804f48c30065cb7a5cad138e62590bb9e332ab3dcd5e949d69053363",
+    "source_sha256": null,
+    "status": "unmatched_source",
+    "updated_at": "2026-11-08T16:08:58Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "da3b079d804f48c30065cb7a5cad138e62590bb9e332ab3dcd5e949d69053363",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

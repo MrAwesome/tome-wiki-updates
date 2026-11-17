@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "c16b64b46f353878426b616442e15efc4266d14bcd735a03ccf1097b20f90e92",
+    "revid": 10367
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Mergeback_(talent)",
+    "kind": "talent",
+    "pageid": 3905,
+    "wiki_title": "Mergeback (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "43eaf967c3f9027292e199bc8062589872c1e2b66d43e7f0a83e829fcdcadb68",
+    "source_sha256": "6d3dbf7f7cdd19eee8345a5c5acba820b4cdc6dd1b9f354dd3e91d48357724fb",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "43eaf967c3f9027292e199bc8062589872c1e2b66d43e7f0a83e829fcdcadb68",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

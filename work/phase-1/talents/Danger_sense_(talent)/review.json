@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "c96fca54cb9ab90192f1f39f9897b409f9114b3604b3f8a3db3601fcd2d9c82e",
+    "revid": 23049
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:58Z",
+      "event": "deterministic_render_applied",
+      "reason": "baseline_preserved"
+    }
+  ],
+  "identity": {
+    "filename": "Danger_sense_(talent)",
+    "kind": "talent",
+    "pageid": 4668,
+    "wiki_title": "Danger sense (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "baseline_preserved",
+    "candidate_page_sha256": "c96fca54cb9ab90192f1f39f9897b409f9114b3604b3f8a3db3601fcd2d9c82e",
+    "source_sha256": "2cb1dbfc4f169a3b254ba4b68d6fe180a1885ffb0503d67cb1c4a05d76c74267",
+    "status": "unsupported_info",
+    "updated_at": "2026-11-08T16:08:58Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "c96fca54cb9ab90192f1f39f9897b409f9114b3604b3f8a3db3601fcd2d9c82e",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

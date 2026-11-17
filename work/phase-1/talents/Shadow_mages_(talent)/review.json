@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "dc614375752e274d34f1db6775c6b131d0c72789206a11f5ae18b2e6e42b1eb1",
+    "revid": 8238
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Shadow_mages_(talent)",
+    "kind": "talent",
+    "pageid": 1117,
+    "wiki_title": "Shadow mages (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "08075bb1530767bbffbcfd939e2b823367b07370851780203bdff0a9afa0a8f1",
+    "source_sha256": "afba9045c77c2fd6c8873ba0b48d49ccf697df0bf405f25994a43843fed9fed5",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "08075bb1530767bbffbcfd939e2b823367b07370851780203bdff0a9afa0a8f1",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

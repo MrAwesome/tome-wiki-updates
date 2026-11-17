@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "c1366e0c6b1efd9de812c9c577d299ef4490ceb76e58151a667b9aab835beeba",
+    "revid": 22814
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Elemental_array_burst_(talent)",
+    "kind": "talent",
+    "pageid": 7009,
+    "wiki_title": "Elemental array burst (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "c1366e0c6b1efd9de812c9c577d299ef4490ceb76e58151a667b9aab835beeba",
+    "source_sha256": "02aab560ab3ab9cf7d4aa2188d0e0d4d92ae60247099f7838750ddf2d189967d",
+    "status": "no_change",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "c1366e0c6b1efd9de812c9c577d299ef4490ceb76e58151a667b9aab835beeba",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

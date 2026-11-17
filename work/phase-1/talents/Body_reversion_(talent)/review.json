@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "f43c70f8f6e95695043cb5318dd8b746ae1dcf09e6faa51c9e6e6dee5994e53a",
+    "revid": 11508
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:58Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Body_reversion_(talent)",
+    "kind": "talent",
+    "pageid": 1584,
+    "wiki_title": "Body reversion (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "cc715188c8fd6a77182471cf767709235c7dfd9bf4944794a482b634c7011ced",
+    "source_sha256": "d8faa27b7c71a6362fb62b95924f44f2be183fd316ef23e1b065c45910f98ec2",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:58Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "cc715188c8fd6a77182471cf767709235c7dfd9bf4944794a482b634c7011ced",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

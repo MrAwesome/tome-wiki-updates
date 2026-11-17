@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "1b68447567e490af595872be7eb42f4b2cfc94eeb50363af6a5331591dd3ff49",
+    "revid": 18260
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "baseline_preserved"
+    }
+  ],
+  "identity": {
+    "filename": "Ethereal_form_(talent)",
+    "kind": "talent",
+    "pageid": 5835,
+    "wiki_title": "Ethereal form (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "baseline_preserved",
+    "candidate_page_sha256": "1b68447567e490af595872be7eb42f4b2cfc94eeb50363af6a5331591dd3ff49",
+    "source_sha256": "a4e0877b7e12cdb59d2e9f974fe7579811d56479e20fcea071effad38a44caea",
+    "status": "unsupported_info",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "1b68447567e490af595872be7eb42f4b2cfc94eeb50363af6a5331591dd3ff49",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

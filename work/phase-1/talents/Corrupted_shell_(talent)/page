@@ -1,0 +1,15 @@
+{{Ability box
+|game_version=1.7.6
+|image=Corrupted shell.png
+|name=Corrupted Shell
+|category_type=[[Prodigies]]
+|category=[[Prodigies#Constitution|Constitution]]
+|require=Constitution 50<br />Have received at least 3,500 blight damage<br />Completed [[the fall of Zigur]] quest<br />Have not killed the Grand Corruptor
+|use_mode=Passive
+|desc=
+Thanks to your newfound knowledge of corruption, you've learned some tricks for toughening your body... but only if you are healthy enough to withstand the strain from the changes.
+
+Improves your life by 500, your defense by (Con / 3), your armour by (Con / 3.5), your armour hardiness by 20% and your saves by (Con / 3) as your natural toughness and reflexes are pushed beyond their normal limits.
+		
+Your saves, armour and defense will improve with your Constitution.
+}}

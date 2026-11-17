@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "67dbf2768fecb94adf7a19d6d0f63073c42c6e886effddaada36c41698ef2c70",
+    "revid": 14115
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "The_eternal_warrior_(talent)",
+    "kind": "talent",
+    "pageid": 3372,
+    "wiki_title": "The eternal warrior (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "3397c7661ce3506d749b643abd2927f15cae41f78eb4964298731f847dc0e09f",
+    "source_sha256": "c46ef2bb07cc43087f4306ce6036d3e62ac00db56d223f4d91cd708eae075bc5",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "3397c7661ce3506d749b643abd2927f15cae41f78eb4964298731f847dc0e09f",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

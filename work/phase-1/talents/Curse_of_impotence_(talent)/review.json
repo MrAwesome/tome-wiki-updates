@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "5af1d9207fc9792261dda4a6d72e86e899c35a39ec903d397a7752d25dde4bb4",
+    "revid": 23026
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:58Z",
+      "event": "deterministic_render_applied",
+      "reason": "baseline_preserved"
+    }
+  ],
+  "identity": {
+    "filename": "Curse_of_impotence_(talent)",
+    "kind": "talent",
+    "pageid": 1309,
+    "wiki_title": "Curse of impotence (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "baseline_preserved",
+    "candidate_page_sha256": "5af1d9207fc9792261dda4a6d72e86e899c35a39ec903d397a7752d25dde4bb4",
+    "source_sha256": "336bd6253f38c818aaf27ec0f60750195f376bf0910cad5d97d67946acccb0e9",
+    "status": "unsupported_info",
+    "updated_at": "2026-11-08T16:08:58Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "5af1d9207fc9792261dda4a6d72e86e899c35a39ec903d397a7752d25dde4bb4",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

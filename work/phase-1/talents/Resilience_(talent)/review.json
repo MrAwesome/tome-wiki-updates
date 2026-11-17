@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "d3271d75e2b5452d9c626f63688c28f280be06ba4052b45c7e8c9df6d8df480a",
+    "revid": 8375
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Resilience_(talent)",
+    "kind": "talent",
+    "pageid": 1649,
+    "wiki_title": "Resilience (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "06119639fc95d869f54641e00370206b3da05a43144975a460867ef12c5971f5",
+    "source_sha256": "60289877ddda683962fa2fec05fb30b7df9192c124666c46fa9be41767c5fa01",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "06119639fc95d869f54641e00370206b3da05a43144975a460867ef12c5971f5",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

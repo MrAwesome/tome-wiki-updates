@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "81663d4219ccb7af0ab713598560df127f0b48b0d4cc4ea01874388f63d735c5",
+    "revid": 8831
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "baseline_preserved"
+    }
+  ],
+  "identity": {
+    "filename": "Quantum_feed_(talent)",
+    "kind": "talent",
+    "pageid": 1576,
+    "wiki_title": "Quantum feed (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "baseline_preserved",
+    "candidate_page_sha256": "81663d4219ccb7af0ab713598560df127f0b48b0d4cc4ea01874388f63d735c5",
+    "source_sha256": "d65367d33fedbe507f377497449e86409aab95d3b4cd535466e49a27144381ea",
+    "status": "unsupported_info",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "81663d4219ccb7af0ab713598560df127f0b48b0d4cc4ea01874388f63d735c5",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

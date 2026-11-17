@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "a1777b676cab82bd07471858e9e35b9be2bf133b090f5f05b10845f42bacd084",
+    "revid": 13914
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "baseline_preserved"
+    }
+  ],
+  "identity": {
+    "filename": "Thought_sense_(talent)",
+    "kind": "talent",
+    "pageid": 3399,
+    "wiki_title": "Thought sense (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "baseline_preserved",
+    "candidate_page_sha256": "a1777b676cab82bd07471858e9e35b9be2bf133b090f5f05b10845f42bacd084",
+    "source_sha256": "bb66a96e051a649f6eaf9adc2a259d35d85b599ba1bb0df2ee37ed35d33edc01",
+    "status": "unsupported_info",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "a1777b676cab82bd07471858e9e35b9be2bf133b090f5f05b10845f42bacd084",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

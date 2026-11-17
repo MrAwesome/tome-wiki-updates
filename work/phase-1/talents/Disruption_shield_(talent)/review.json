@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "89e4b30642b5b8ac56516e51744ebeebb54c606d9cfcb5a1dca74066ab29d8fa",
+    "revid": 8077
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:58Z",
+      "event": "deterministic_render_applied",
+      "reason": "baseline_preserved"
+    }
+  ],
+  "identity": {
+    "filename": "Disruption_shield_(talent)",
+    "kind": "talent",
+    "pageid": 1402,
+    "wiki_title": "Disruption shield (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "baseline_preserved",
+    "candidate_page_sha256": "89e4b30642b5b8ac56516e51744ebeebb54c606d9cfcb5a1dca74066ab29d8fa",
+    "source_sha256": "b1b1401244611b4bf3bd1ae39c8a6a44256c16e5792a81c21a71d80ceb2fc835",
+    "status": "unsupported_info",
+    "updated_at": "2026-11-08T16:08:58Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "89e4b30642b5b8ac56516e51744ebeebb54c606d9cfcb5a1dca74066ab29d8fa",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

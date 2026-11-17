@@ -1,0 +1,17 @@
+{{Ability_box
+|game_version=1.7.6
+|name=Blightzone
+|category_type=[[NPC Only (category type)|NPC Only]]
+|category=-
+|image=Blightzone.png
+|require=-
+|use_mode=Activated
+|range=10
+|cost=27 vim
+|cooldown=13
+|use_speed=1 turn
+|travel_speed=instant
+|desc=
+Corrupted vapour rises at the target location (radius 4) doing {{ctspd|5|65}} blight damage every turn for {{cts|3|7}} turns.
+The damage increases with Spellpower.
+}}

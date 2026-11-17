@@ -1,0 +1,18 @@
+{{Ability_box
+|image=Eldritch blow.png
+|name=Eldritch blow
+|game_version=1.5.5
+|category_type=[[Spell (category type)|Spell]]
+|category=[[Eldritch shield (category)|Eldritch shield]]
+|require={{TalentReq/SpellsReq1}}
+|use_mode=Activated
+|cost=10 Mana + 3 Equilibium
+|cooldown=10
+|desc=Channel eldritch forces into a melee attack, hitting the target with your weapon and shield for {{ctwd|(60%|{{ctspd|50|300}}%)}} arcane damage.
+
+If either attack hits, the target will be stunned for {{CTS|2.5|4.5}} turns.
+
+The chance for the attack to stun increases with your Physical Power, but it is considered a magical attack and thus is resisted with spell save, rather than physical save.
+
+Damage increases with Spellpower.
+}}

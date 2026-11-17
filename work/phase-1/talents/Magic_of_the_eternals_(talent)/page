@@ -1,0 +1,12 @@
+{{Ability box
+|game_version=1.7.6
+|image=Magic of the eternals_2017.png
+|name=Magic of the Eternals
+|category_type={{ct|Race}}
+|category={{c|Shalore}}
+|require={{TalentReq/RacialReq2}}
+|use_mode=Passive
+|desc=
+Reality bends slightly in the presence of a Shaloren due to their inherent magical nature.
+Increases critical chance by {{cts|3|10%|0.75}} and critical strike power by {{cts|5|20%|0.75}}.
+}}

@@ -1,0 +1,17 @@
+{{Ability box
+|game_version=1.7.6
+|image=Writhing_Hairs.png
+|name=Writhing Hairs
+|category_type={{ct|Demented}}
+|category={{c|Disfigured face}}
+|require={{TalentReq/SpellsReq3}}
+|use_mode=Active
+|cooldown=15
+|range= 7
+|cost=-10 insanity
+|desc=
+For a brief moment horrific hairs grow on your head, each of them ending with a creepy eye.
+You use those eyes to gaze upon a target area, creatures caught inside partially turn to stone reducing their movement speed by {{ctl|80%|10|70%}} and making them brittle for 7 turns.
+Brittle targets have a 35% chance for any damage they take to be increased by {{cts|30|60%}}.
+This cannot be saved against.
+}}

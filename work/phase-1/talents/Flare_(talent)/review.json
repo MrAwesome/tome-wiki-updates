@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "9863db248c2f6646da3298a07f0838a26fbe43fab7885e2ebaeef146649a1d34",
+    "revid": 13748
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Flare_(talent)",
+    "kind": "talent",
+    "pageid": 1468,
+    "wiki_title": "Flare (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "68242088737e5f5fc36d82b8db50480a6f4a5b6d8f64835bc749cb4e1c6a49f5",
+    "source_sha256": "9da4430ce4e071d05f4419777216117b7f975bbbdf78df974666b076f8e18f6f",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "68242088737e5f5fc36d82b8db50480a6f4a5b6d8f64835bc749cb4e1c6a49f5",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

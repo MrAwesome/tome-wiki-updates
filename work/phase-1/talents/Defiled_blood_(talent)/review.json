@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "b6f03a2eae72a143c52a49c806efbbccef5b0ea7f911bc9e82dabafc37af73bb",
+    "revid": 15286
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:58Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Defiled_blood_(talent)",
+    "kind": "talent",
+    "pageid": 5343,
+    "wiki_title": "Defiled blood (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "db0a182a3aafe671133ef446a72170152bd6b45e4109d10512115d1902fd9663",
+    "source_sha256": "a3cfef7315f72cbd3957346e9194a906f93e3e25b242690e20f09727e14d57b9",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:58Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "db0a182a3aafe671133ef446a72170152bd6b45e4109d10512115d1902fd9663",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

@@ -1,0 +1,11 @@
+{{Ability box
+|game_version=1.7.6
+|image=Skeleton_2017.png
+|name=Skeleton
+|category_type={{ct|Undead}}
+|category={{c|Skeleton}}
+|require={{TalentReq/UndeadsReq1}}
+|use_mode=Passive
+|desc=
+Improves your skeletal condition, increasing Strength and Dexterity by {{cts|2|15|0.75}}.
+}}

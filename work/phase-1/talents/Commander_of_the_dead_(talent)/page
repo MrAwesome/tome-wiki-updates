@@ -1,0 +1,13 @@
+{{Ability box
+|image=commander_of_the_dead.png
+|name=Commander of the Dead
+|game_version=1.7.6
+|category_type={{ct|Undead}}
+|category={{c|Lich}}
+|require={{TalentReq/UndeadsReqHigh4}}
+|use_mode=Passive
+|radius=10
+|desc=
+You are so full with power that it overflows out of you whenever you cast a spell.
+Upon spell cast you have {{cts|8|25%}} chances to boost the physical power, spellpower, mindpower and all saves of all friendly undeads in sight (including yourself) by {{cts|10|50}} for 4 turns.
+}}

@@ -1,0 +1,14 @@
+{{Ability_box
+|name=Spikeskin
+|image=spikeskin.png
+|category_type={{ct|Race}}
+|category={{c|Drem}}
+|game_version=1.7.6
+|require={{TalentReq/RacialReq2}}
+|use_mode=Passive
+|desc=
+Your skin grows small spikes coated in dark blight.
+When you are hit in melee the attacker starts bleeding black blood for 5 turns that deals {{css|Mag|8|30}} darkness damage each turn. This effect may only happen once per turn.
+You are empowered by the sight of the black blood, for each bleeding creature in radius 2 you gain 5% all resistances, limited to {{gtl|1|5}} creatures.
+The damage will scale with your Magic stat.
+}}

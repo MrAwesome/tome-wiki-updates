@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "7a1443b7a04b2483216ff09dc9d3c3b92e8e0ff5690dd615a6522a83402d1696",
+    "revid": 1581
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "baseline_preserved"
+    }
+  ],
+  "identity": {
+    "filename": "Frenzied_psifighting_(talent)",
+    "kind": "talent",
+    "pageid": 1248,
+    "wiki_title": "Frenzied psifighting (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "baseline_preserved",
+    "candidate_page_sha256": "7a1443b7a04b2483216ff09dc9d3c3b92e8e0ff5690dd615a6522a83402d1696",
+    "source_sha256": null,
+    "status": "unmatched_source",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "7a1443b7a04b2483216ff09dc9d3c3b92e8e0ff5690dd615a6522a83402d1696",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

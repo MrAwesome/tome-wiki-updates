@@ -1,0 +1,22 @@
+{{Ability box
+|game_version=1.7.4
+|image=Nature_s equilibrium.png
+|name=Nature's Equilibrium
+|category_type={{ct|Wild-Gift}}
+|category={{c|Mindstar Mastery}}
+|require={{TalentReq/GiftsReq4}}
+|cost=5 Equilibrium
+|cooldown=15
+|range=1
+|use_speed=Mind
+|desc=
+You hit a foe with your mainhand psiblade doing {{ctwd|250|400%}} weapon damage, channeling all the damage done through your offhand psiblade with which you touch a friendly creature to heal it.
+
+The maximum heal possible is (50 + {{ctmd|5|250}}). Equilibrium of the healed target will also decrease by 10% of the heal power.
+
+Max heal will increase with your Mindpower.
+
+If you have two mindstars equipped, then the maximum heal will become (50 + {{ctmd|5|250}} * (1 + (Sum of Mindstar Base Damages) / 50 ) ).
+|avail.shops=[[Zigur]] ([[Age of Ascendancy]]) via [[Talent#Additional Talent Sources|purchasing]] {{c|Mindstar Mastery}}
+|avail.escorts=[[Escorts#Alchemist_.28Arcane.29|Alchemist (Arcane)]] ([[Escorts#Betraying_to_Zigur|Betray Escort to Zigur]]), via revealing the locked {{c|Mindstar Mastery}} category
+}}

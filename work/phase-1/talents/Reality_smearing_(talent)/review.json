@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "22818810e08e0023f08dd92c0e08700136779305d7a86db20f4f700cfda47988",
+    "revid": 20302
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Reality_smearing_(talent)",
+    "kind": "talent",
+    "pageid": 4239,
+    "wiki_title": "Reality smearing (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "bef72393757acd6a749634a2f60f3f830215aa7378047cc977bee2bfdcbb6d59",
+    "source_sha256": "34b20fbdefa32a89d9ec28dc72e6e3f52301a3e36f10f1e9453ab40eb2edfb2a",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "bef72393757acd6a749634a2f60f3f830215aa7378047cc977bee2bfdcbb6d59",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

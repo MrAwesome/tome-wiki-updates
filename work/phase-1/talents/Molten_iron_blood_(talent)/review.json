@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "68023c5b3e505ed162b21781ee40908a94f1f4e92184dcef6431eb1d761a4b50",
+    "revid": 22344
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Molten_iron_blood_(talent)",
+    "kind": "talent",
+    "pageid": 5181,
+    "wiki_title": "Molten iron blood (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "67ac3e0b04b6753e38fcb1b43d6ee33570592329e240f1b97769aec8af6a5e78",
+    "source_sha256": "84a1bba9651083af029928e78000a3d053ac5fa758824e6518b146897d899468",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "67ac3e0b04b6753e38fcb1b43d6ee33570592329e240f1b97769aec8af6a5e78",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

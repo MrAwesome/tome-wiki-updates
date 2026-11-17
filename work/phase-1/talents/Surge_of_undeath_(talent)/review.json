@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "3d682d8dd2e172d38cbd703da3bbb76441432a2956cc452bc9bc3f17dd7f1a3a",
+    "revid": 19405
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Surge_of_undeath_(talent)",
+    "kind": "talent",
+    "pageid": 1643,
+    "wiki_title": "Surge of undeath (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "7446aae59bad1f281560047afc88420ed1ab27dfbcf17b4a8ea0b689f3bcfad6",
+    "source_sha256": "85fdf14716218be4e56f4fe3441e60113ce4aae779a626c9d68e12a0cefbab28",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "7446aae59bad1f281560047afc88420ed1ab27dfbcf17b4a8ea0b689f3bcfad6",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

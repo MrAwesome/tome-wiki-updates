@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "44f3656586c60d6485be831a853400004b7314e1891f0d44c50ad81d276ae0f7",
+    "revid": 22346
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "baseline_preserved"
+    }
+  ],
+  "identity": {
+    "filename": "Mind_injection_(talent)",
+    "kind": "talent",
+    "pageid": 5184,
+    "wiki_title": "Mind injection (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "baseline_preserved",
+    "candidate_page_sha256": "44f3656586c60d6485be831a853400004b7314e1891f0d44c50ad81d276ae0f7",
+    "source_sha256": "84a1bba9651083af029928e78000a3d053ac5fa758824e6518b146897d899468",
+    "status": "unsupported_info",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "44f3656586c60d6485be831a853400004b7314e1891f0d44c50ad81d276ae0f7",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

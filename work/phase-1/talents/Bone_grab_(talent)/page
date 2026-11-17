@@ -1,0 +1,19 @@
+{{Ability box
+|image=Bone grab.png
+|name=Bone Grab
+|game_version=1.7.6
+|category_type={{ct|Corruption}}
+|category={{c|Bone}}
+|require={{TalentReq/CorrsReq2}}
+|range={{ctl|10|4|9}}
+|cost=15 Vim
+|cooldown=15
+|travel_speed=Instantaneous
+|use_speed=Spell
+|desc=
+Grab a target and teleport it to your side or if adjacent up to 6 spaces away from you, pinning it there with a bone rising from the ground for {{cts|4|8}} turns.
+
+The bone will also deal {{ctspd|5|140}} physical damage.
+
+The damage will increase with your Spellpower.
+}}

@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "0091c3e3737b1e7fd7f0b7a4e69d6b094398fc47834f3e956082d47d13f51b21",
+    "revid": 14145
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:58Z",
+      "event": "deterministic_render_applied",
+      "reason": "baseline_preserved"
+    }
+  ],
+  "identity": {
+    "filename": "Congeal_time_(talent)",
+    "kind": "talent",
+    "pageid": 1190,
+    "wiki_title": "Congeal time (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "baseline_preserved",
+    "candidate_page_sha256": "0091c3e3737b1e7fd7f0b7a4e69d6b094398fc47834f3e956082d47d13f51b21",
+    "source_sha256": "16b894065533a547c2c55b2a98be49e2276d2688d90a9957af89a425df40d457",
+    "status": "unsupported_info",
+    "updated_at": "2026-11-08T16:08:58Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "0091c3e3737b1e7fd7f0b7a4e69d6b094398fc47834f3e956082d47d13f51b21",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

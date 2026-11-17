@@ -1,0 +1,22 @@
+{{Ability box
+|image=Jelly.png
+|name=Jelly
+|category_type={{ct|Wild-Gift}}
+|category={{c|Summoning (Melee)}}
+|require={{TalentReq/GiftsReq2}}
+|cost=2 Equilibrium
+|cooldown=10
+|range=5
+|desc=
+Summon a Jelly to attack your foes. Jellies do not move, but your equilibrium will be reduced by 10% of all damage received by the jelly.
+
+The Jelly will last for a duration of {{cs|(Talent Level)|5|0|10|5}}.
+
+It will receive the following stats:
+*Strength: 10 + {{cts|2|10|0.75}}
+*Constitution: 10 + 1.8 * Mindpower * {{cts|0.2|1|0.75}}
+
+Your summons inherit some of your stats: increased damage %, stun/pin/confusion/blindness resistance, armour penetration.
+
+Their Constitution stat will increase with your Mindpower.
+}}

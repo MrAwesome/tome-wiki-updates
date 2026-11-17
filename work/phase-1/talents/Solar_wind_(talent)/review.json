@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "0403bfd696c12c3ea62c82a7c3a0a96f180b0e5235f78fabd3f194c54f46d04f",
+    "revid": 22530
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "baseline_preserved"
+    }
+  ],
+  "identity": {
+    "filename": "Solar_wind_(talent)",
+    "kind": "talent",
+    "pageid": 6956,
+    "wiki_title": "Solar wind (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "baseline_preserved",
+    "candidate_page_sha256": "0403bfd696c12c3ea62c82a7c3a0a96f180b0e5235f78fabd3f194c54f46d04f",
+    "source_sha256": "8e0734044266aa280c07f2f34b2dd3243e2a5a56db1a0e8ba42dcc7f7fd0dda5",
+    "status": "unsupported_info",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "0403bfd696c12c3ea62c82a7c3a0a96f180b0e5235f78fabd3f194c54f46d04f",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

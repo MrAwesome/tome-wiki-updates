@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "521f391bbdb6217235c9d7f5e7a7ec53c1e6c59fd37ba1b6d22c797ccca35ce5",
+    "revid": 20224
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:58Z",
+      "event": "deterministic_render_applied",
+      "reason": "baseline_preserved"
+    }
+  ],
+  "identity": {
+    "filename": "Bloom_heal_(talent)",
+    "kind": "talent",
+    "pageid": 5475,
+    "wiki_title": "Bloom heal (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "baseline_preserved",
+    "candidate_page_sha256": "521f391bbdb6217235c9d7f5e7a7ec53c1e6c59fd37ba1b6d22c797ccca35ce5",
+    "source_sha256": "7396731ef4718b932752a648d67726332b7b3a5b180321cbfe6ed4da2f59f7e2",
+    "status": "unsupported_info",
+    "updated_at": "2026-11-08T16:08:58Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "521f391bbdb6217235c9d7f5e7a7ec53c1e6c59fd37ba1b6d22c797ccca35ce5",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

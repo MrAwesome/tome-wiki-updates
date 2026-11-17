@@ -1,0 +1,24 @@
+{{Ability box
+|embers_version=1.1.10
+|game_version=1.7.6
+|image=Automated reflex system.png
+|name=Automated Reflex System
+|category_type=[[Prodigies]]
+|category=[[Prodigies#Dexterity|Dexterity]]
+|require=Dexterity 50<br />Have gained the [[Achievement#Quest Achievements - Main Campaign|Matrix style!]] achievement with this or any previous character for the current difficulty & permadeath settings.
+|use_mode=Passive
+|cooldown=4
+|desc=
+A small automatic detection system is always looking for incoming projectiles, when one is about to hit you it injects drugs into your system to boost your reactivity, granting you a free turn.
+
+This effect can not happen more than once every 5 turns.
+}}
+===Notes===
+*The description incorrectly states 5 turns, but the implemented cooldown is 4 turns.
+*The effect triggers when any projectile not fired by you moves to within 1 tile of you. This includes allies' projectiles and projectiles that would pass by without hitting you.
+*Attacks that do not create a traveling projectile (beams, breaths, etc.) never trigger it.
+*Some projectiles can still hit you before the bonus turn:
+**Projectiles faster than the default speed, such as {{t|Flame}}, {{t|Manathrust}}, steamgun shots, and arrows or shots with a travel speed bonus
+**Any projectile fired from a tile adjacent to you
+
+<noinclude>[[Category: Embers of Rage]]</noinclude>

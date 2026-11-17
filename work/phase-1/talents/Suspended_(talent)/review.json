@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "0457a2e7d5ac4a48aacb7c2a9d705ba0f02a40207a750303aa06b4fd3cff8c6d",
+    "revid": 5646
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Suspended_(talent)",
+    "kind": "talent",
+    "pageid": 2971,
+    "wiki_title": "Suspended (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "8ccbcb222dc98ffeddaa7362ad519050780bc3e1946610c1c97597e01d64ae78",
+    "source_sha256": "dc640c1af5d22a45472d843380c9de01334530b3831bd2b9fe88ee0cba3abc23",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "8ccbcb222dc98ffeddaa7362ad519050780bc3e1946610c1c97597e01d64ae78",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

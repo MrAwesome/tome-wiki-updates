@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "99911a7fcf5b7ee9f0a34a32a8b7cc01c05d418334333443e294f7b4286b75ac",
+    "revid": 18522
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:58Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Absorb_life_(talent)",
+    "kind": "talent",
+    "pageid": 1078,
+    "wiki_title": "Absorb life (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "f2491ccdc5c26fb48405b02bb4b2b7cd71bc5c95aa24aaa6bc146178af1bdcf5",
+    "source_sha256": "ec2130a4fd34f03b1dbf17afd72633429ff34fe78e72af1593128d640d9ae12c",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:58Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "f2491ccdc5c26fb48405b02bb4b2b7cd71bc5c95aa24aaa6bc146178af1bdcf5",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

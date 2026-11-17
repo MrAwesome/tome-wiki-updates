@@ -1,0 +1,20 @@
+{{Ability_box
+|image=shoot_down.png
+|name=Shoot Down
+|game_version=1.7.6
+|category_type={{ct|Technique}}
+|category={{c|Reflexes}}
+|require={{TalentReq/TechsDexReq1}}
+|use_mode=Activated
+|range=Archery Range
+|cost=8 Stamina
+|cooldown=4
+|travel_speed=Instantaneous
+|use_speed=Instant
+|desc=
+Your reflexes are lightning-fast, if you spot a projectile (arrow, shot, spell, ...) you can instantly shoot at it without taking a turn to take it down.
+
+You can shoot down up to {{cts|1|5|log}} projectiles.
+
+In addition, your heightened senses also reduce the speed of incoming projectiles by {{cTS|15|50%}}, and prevents your own projectiles from striking you.
+}}

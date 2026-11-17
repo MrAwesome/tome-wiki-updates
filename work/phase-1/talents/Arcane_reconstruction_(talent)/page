@@ -1,0 +1,15 @@
+{{Ability_box
+|game_version=1.7.6
+|image=Heal.png
+|name=Arcane reconstruction
+|category_type={{Ct|Spell}}
+|category={{c|Aegis}}
+|require={{TalentReq/SpellsReq1}}
+|cost=25 Mana
+|cooldown=16
+|desc=
+Imbues your body with arcane forces, reconstructing it to a default state, healing for {{ctspd|50|560}} life.
+The life healed will increase with your Spellpower.
+}}
+
+'''Note:''' Can [[Critical|crit]] - applying more healing according to your critical chance(spell) and critical multiplier.

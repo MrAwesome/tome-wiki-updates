@@ -1,0 +1,16 @@
+{{Ability_box
+|image=exotic_munitions.png
+|name=Exotic Munitions
+|game_version=1.7.6
+|category_type={{ct|Technique}}
+|category={{c|Munitions}}
+|require={{TalentReq/TechsDexReqHigh1}}
+|use_mode=Passive
+|desc=
+You have learned to create and equip specialist ammunition:
+[[Incendiary ammunition (talent)|Incendiary]] - Shots deal an additional {{ctwd|10|40%}} weapon damage as fire in a radius {{gtl|1|2}} ball. This cannot occur more than once per turn.
+[[Venomous ammunition (talent)|Venomous]] - Shots deal {{ctpd|4|36}} nature damage and inflict numbing poison, dealing a further {{ctpd|20|180}} nature damage over 5 turns and reducing all damage dealt by {{ctl|30%|10|20%}}.
+[[Piercing ammunition (talent)|Piercing]] - Shots reduce armor and saves by {{ctl|30|5|25|raw}} for 3 turns, and your physical penetration is increased by {{ctl|35%|10|25%|raw}}.
+You can only have 1 type of ammunition loaded at a time.
+The poison damage dealt, armor penetration and save reduction will increase with your Physical Power.
+}}

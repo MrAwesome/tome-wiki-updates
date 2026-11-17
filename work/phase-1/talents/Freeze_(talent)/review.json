@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "342d947e5b918b1b3fa1f7e799079ca615437a3a07599c0adc65a6074536d62d",
+    "revid": 23333
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Freeze_(talent)",
+    "kind": "talent",
+    "pageid": 1430,
+    "wiki_title": "Freeze (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "d1edaf88ed6285eff7e21a555e658822a3d6af7a2a3ca9b435c96250ac33adbb",
+    "source_sha256": "d5562265a85cd4913cb5a6c55f898b51543e5809c850eb0587d585dce1315904",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "d1edaf88ed6285eff7e21a555e658822a3d6af7a2a3ca9b435c96250ac33adbb",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

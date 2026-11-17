@@ -1,0 +1,15 @@
+{{Ability box
+|image=headshot.png
+|name=Headshot
+|game_version=1.7.6
+|category_type={{ct|Technique}}
+|category={{c|Archery Prowess}}
+|require={{TalentReq/TechsDexReq1}}
+|range=Archery Range
+|cooldown=0
+|travel_speed=Instantaneous
+|use_speed=Archery
+|desc=
+Fire a precise shot dealing {{ctwd|110|230%}} weapon damage, with 100 increased accuracy. This shot will bypass other enemies between you and your target.
+Only usable against marked targets, and consumes the mark on hit.
+}}

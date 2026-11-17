@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "bae88272b610f383590eea6ada3e4d5ccec7d34d3efdcd20be9107ed910385d5",
+    "revid": 23090
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "baseline_preserved"
+    }
+  ],
+  "identity": {
+    "filename": "Stripped_life_(talent)",
+    "kind": "talent",
+    "pageid": 3704,
+    "wiki_title": "Stripped life (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "baseline_preserved",
+    "candidate_page_sha256": "bae88272b610f383590eea6ada3e4d5ccec7d34d3efdcd20be9107ed910385d5",
+    "source_sha256": null,
+    "status": "unmatched_source",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "bae88272b610f383590eea6ada3e4d5ccec7d34d3efdcd20be9107ed910385d5",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "59e97afb4f9a4a8a49d4453c1d7f7bcfda0adbd9a8464a00a340a709a62d64d8",
+    "revid": 8851
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:58Z",
+      "event": "deterministic_render_applied",
+      "reason": "baseline_preserved"
+    }
+  ],
+  "identity": {
+    "filename": "Dreamforge_(talent)",
+    "kind": "talent",
+    "pageid": 1208,
+    "wiki_title": "Dreamforge (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "baseline_preserved",
+    "candidate_page_sha256": "59e97afb4f9a4a8a49d4453c1d7f7bcfda0adbd9a8464a00a340a709a62d64d8",
+    "source_sha256": "038ef6cffb16df4810d183097d50eace33659e85a225d2e4cc1eec103b63deaa",
+    "status": "unsupported_info",
+    "updated_at": "2026-11-08T16:08:58Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "59e97afb4f9a4a8a49d4453c1d7f7bcfda0adbd9a8464a00a340a709a62d64d8",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

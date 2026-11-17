@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "f64e2e63bedd43d775cdb23829bbea74afde38daa4d4833cb025e3ab1140cd81",
+    "revid": 19188
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:58Z",
+      "event": "deterministic_render_applied",
+      "reason": "baseline_preserved"
+    }
+  ],
+  "identity": {
+    "filename": "Antimagic_shield_(talent)",
+    "kind": "talent",
+    "pageid": 1201,
+    "wiki_title": "Antimagic shield (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "baseline_preserved",
+    "candidate_page_sha256": "f64e2e63bedd43d775cdb23829bbea74afde38daa4d4833cb025e3ab1140cd81",
+    "source_sha256": "b8ef21bb203132d962387658dd9cca3fcc3bea08da8c2ff52a26fed74fd66082",
+    "status": "unsupported_info",
+    "updated_at": "2026-11-08T16:08:58Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "f64e2e63bedd43d775cdb23829bbea74afde38daa4d4833cb025e3ab1140cd81",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

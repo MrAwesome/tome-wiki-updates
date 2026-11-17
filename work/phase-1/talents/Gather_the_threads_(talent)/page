@@ -1,0 +1,20 @@
+'''No longer part of {{c|Timeline Threading}}'''
+
+
+{{Ability box
+|image=Gather the threads.png
+|name=Gather the Threads
+|category_type={{ct|Chronomancy}}
+|category={{c|Timeline Threading}}
+|require={{TalentReq/ChronoReqHigh1}}
+|cost=5 Paradox
+|cooldown=12
+|desc=
+You begin to gather energy from other timelines. Your Spellpower will increase by (1.2 * {{cts|7|30|0.75}}) on the first turn and (0.2 * {{cts|7|30|0.75}}) more each additional turn.
+
+The effect ends either when you cast a spell, or after 5 turns.
+
+Eacn turn the effect is active, your Paradox will be reduced by {{cts|3.6|15|0.75}}.
+
+This spell will not break {{t|Spacetime Tuning}}, nor will it be broken by activating {{t|Spacetime Tuning}}.
+}}

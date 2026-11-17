@@ -1,0 +1,16 @@
+{{Ability box
+|image=Crusade.png
+|name=Crusade
+|category_type={{ct|Celestial}}
+|category={{c|Guardian}}
+|require={{TalentReq/DiviReqHigh4}}
+|cost=-20 Positive
+|cooldown=5
+|range=1
+|desc=
+You demonstrate your dedication to the light with a measured attack striking once with your weapon for {{ctwd|30|120%}} damage and once with your shield for {{ctwd|30|120%}} damage.
+
+If the first strike connects {{cts|1|3}} random talent cooldowns are reduced by 1.
+
+If the second strike connects you are cleansed of 1 debuff.
+}}

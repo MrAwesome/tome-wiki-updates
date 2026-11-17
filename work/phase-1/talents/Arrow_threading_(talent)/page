@@ -1,0 +1,11 @@
+{{Ability box
+|game_version=1.7.6
+|image=Arrow threading.png
+|name=Arrow Threading
+|category_type={{ct|Chronomancy}}
+|category={{c|Bow threading}}
+|require={{TalentReq/ChronoReq4}}
+|use_mode=Passive
+|desc=
+Your arrows now tune your Paradox {{ctl|13|1|7}} points towards your preferred Paradox on hit.
+}}

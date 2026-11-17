@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "b76e237aa73a32162c63a95261e43ceccece95fe97c3984e22174d7b3bc5a786",
+    "revid": 9923
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Regeneration_(talent)",
+    "kind": "talent",
+    "pageid": 2934,
+    "wiki_title": "Regeneration (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "0a4fd51363a943abd37941130145429f5e5e84fe02fb261f3afd7f53ca0ed85f",
+    "source_sha256": "dc640c1af5d22a45472d843380c9de01334530b3831bd2b9fe88ee0cba3abc23",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "0a4fd51363a943abd37941130145429f5e5e84fe02fb261f3afd7f53ca0ed85f",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

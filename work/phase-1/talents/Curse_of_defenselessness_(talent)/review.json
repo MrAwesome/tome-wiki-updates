@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "0f0e158ec41d413b5fc5f1b77a27ab795097bbe43a498b41dbb38c693fb66635",
+    "revid": 23025
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:58Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Curse_of_defenselessness_(talent)",
+    "kind": "talent",
+    "pageid": 1310,
+    "wiki_title": "Curse of defenselessness (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "ffd43a11e8257cee970b97827763d0c4b53a4cb8b615ff077408639ccd7101fd",
+    "source_sha256": "336bd6253f38c818aaf27ec0f60750195f376bf0910cad5d97d67946acccb0e9",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:58Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "ffd43a11e8257cee970b97827763d0c4b53a4cb8b615ff077408639ccd7101fd",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

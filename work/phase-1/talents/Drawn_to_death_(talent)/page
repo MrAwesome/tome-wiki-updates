@@ -1,0 +1,16 @@
+{{Ability_box
+|game_version = 1.7.6
+|name = Drawn To Death
+|image = drawn to death.png
+|category_type={{ct|Spell}}
+|category={{c|Death}}
+|require = {{TalentReq/SpellsReq2}}
+|cost = 15 Mana
+|cooldown = 15
+|range = 10
+|use_speed = 0
+|desc = 
+Every time you or one of your minions kill a creature you create a temporary link to the place of death.
+
+For {{cts|2|6}} turns afterwards you can instantly and accurately teleport to it (if it is in sight).
+}}

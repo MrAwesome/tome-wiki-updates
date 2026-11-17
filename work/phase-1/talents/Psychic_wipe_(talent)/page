@@ -1,0 +1,19 @@
+{{Ability_box
+|image=psychic_wipe.png
+|name=Psychic Wipe
+|game_version=1.7.6
+|category_type={{ct|Psionic}}
+|category={{c|Psionic Menace}}
+|require={{TalentReq/PsiWilReq2}}
+|use_mode=Activated
+|range=7
+|cost=20 Psi
+|cooldown=12
+|travel_speed=Instantaneous
+|use_speed=Mind
+|desc=
+You project ethereal fingers inside the target's brain.
+		Over {{cts|5|12}} turns it will take {{ctmd|40|340}} total mind damage and have its mental save reduced by {{cts|5|70|0.2}}.
+		This powerful effect uses 130% of your Mindpower to try to overcome your target's initial mental save.
+		If you do not have two mindstars equiped, but have them in your off set, you instantly automatically switch. The wild psionic powers are incompatible with the focused nature of psiblades.
+}}

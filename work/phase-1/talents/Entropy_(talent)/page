@@ -1,0 +1,13 @@
+{{Ability box
+|game_version=1.4.5
+|image=Entropy.png
+|name=Entropy
+|category_type={{ct|Chronomancy}}
+|category={{c|Energy}}
+|require={{TalentReq/ChronoReq4}}
+|cost=20 Paradox
+|cooldown=12
+|range=10
+|desc=
+Each turn, for the next {{cts|1|7}} turns, one of the target's sustained talents will be deactivated.
+}}

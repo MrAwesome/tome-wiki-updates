@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "a5514244efd5b13232f35d1b8577e75258327d30acf548c627cbc9c56aa956f0",
+    "revid": 11936
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Mind_disruption_(talent)",
+    "kind": "talent",
+    "pageid": 2929,
+    "wiki_title": "Mind disruption (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "d39ea9c7d1846123ff6e47141e32b0f6612160533304070530a29950bb8ee9ef",
+    "source_sha256": "dc640c1af5d22a45472d843380c9de01334530b3831bd2b9fe88ee0cba3abc23",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "d39ea9c7d1846123ff6e47141e32b0f6612160533304070530a29950bb8ee9ef",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

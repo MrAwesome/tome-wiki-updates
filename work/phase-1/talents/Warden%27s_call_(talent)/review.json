@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "e1f58eb70912401258e99645089fd119632b49cdd64de057feba69ab14882bb1",
+    "revid": 11723
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Warden%27s_call_(talent)",
+    "kind": "talent",
+    "pageid": 4322,
+    "wiki_title": "Warden's call (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "90d458bbe3d1852bb0ff6a401fcfe0d89f12810f462c56154fb92756f29c6220",
+    "source_sha256": "5ca41cc4807ff73b3522beafb3a8e51baf0da867f897b92eb266bc8311402970",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "90d458bbe3d1852bb0ff6a401fcfe0d89f12810f462c56154fb92756f29c6220",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

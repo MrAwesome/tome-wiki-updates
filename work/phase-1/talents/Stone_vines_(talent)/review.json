@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "2f819175e6869b86ed5b4bf315ab5bfb0fddfb99c1c932ebe6135968f4f719d1",
+    "revid": 13038
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "baseline_preserved"
+    }
+  ],
+  "identity": {
+    "filename": "Stone_vines_(talent)",
+    "kind": "talent",
+    "pageid": 3187,
+    "wiki_title": "Stone vines (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "baseline_preserved",
+    "candidate_page_sha256": "2f819175e6869b86ed5b4bf315ab5bfb0fddfb99c1c932ebe6135968f4f719d1",
+    "source_sha256": "36129e9f57f1b149567f2a58ad1a337ccc56bb6585546519c0d92911ea888205",
+    "status": "unsupported_info",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "2f819175e6869b86ed5b4bf315ab5bfb0fddfb99c1c932ebe6135968f4f719d1",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

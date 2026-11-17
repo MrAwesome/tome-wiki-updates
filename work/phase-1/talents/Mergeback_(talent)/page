@@ -1,0 +1,15 @@
+{{Ability_box
+|game_version=1.7.6
+|image=Mergeback.png
+|name=Mergeback
+|category_type={{ct|Wild-gift}}
+|category={{c|Dwarven Nature}}
+|require={{Template:TalentReq/GiftsReq4}}
+|cooldown=20
+|cost=10 Equilibrium
+|use_mode=Activated
+|radius=3
+|desc=
+Merges your halves back into you, cleansing your body of {{cts|5|9|log}} detrimental magical, mental or physical effects.
+Each half also heals you for {{ctstd|wil|60|330}} and releases a shockwave dealing {{ctstd|wil|60|330}} Nature damage in a radius 3.
+}}

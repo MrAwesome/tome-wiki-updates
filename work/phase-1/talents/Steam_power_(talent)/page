@@ -1,0 +1,14 @@
+{{Ability box
+|image=Steam power.png
+|name=Steam Power
+|game_version=1.7.6
+|embers_version=1.1.10
+|category_type={{ct|Steamtech}}
+|category={{c|Chemistry}}
+|require={{TalentReq/SteamReq4}}
+|use_mode=Passive
+|desc=
+Increases the efficiency of all steamtech you operate, granting {{cts|15|60}} steampower.
+|avail.shops=[[Kruk Pride]] ([[Embers of Rage]]) via [[Talent#Additional Talent Sources|purchasing]] {{c|Chemistry}}
+|avail.escorts=[[Escorts#Tinker|Tinker]], see the escorts page for details on unlocking the {{c|Chemistry}} category in [[Age of Ascendancy]] / the Main campaign
+}}

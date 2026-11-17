@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "5c85a32854f2f55a1af98ce401df32946e6c5d63a8d34987d40e944c9c6c0d38",
+    "revid": 19921
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Vile_poisons_(talent)",
+    "kind": "talent",
+    "pageid": 1316,
+    "wiki_title": "Vile poisons (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "34e165677e53ca5450819205efe5275ad5d17d5b3b47e5220fd4e1649b44fec0",
+    "source_sha256": "17e3498c48ce0e05b8e99349419b6f859706745ec4de69277959628a113ffc16",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "34e165677e53ca5450819205efe5275ad5d17d5b3b47e5220fd4e1649b44fec0",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

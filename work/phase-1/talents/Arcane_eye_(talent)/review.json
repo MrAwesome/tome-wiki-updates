@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "cd403a04a9030ca120b6180446e0b0a276b41445a61a0dafddb95ae5454a8650",
+    "revid": 23035
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:58Z",
+      "event": "deterministic_render_applied",
+      "reason": "baseline_preserved"
+    }
+  ],
+  "identity": {
+    "filename": "Arcane_eye_(talent)",
+    "kind": "talent",
+    "pageid": 1519,
+    "wiki_title": "Arcane eye (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "baseline_preserved",
+    "candidate_page_sha256": "cd403a04a9030ca120b6180446e0b0a276b41445a61a0dafddb95ae5454a8650",
+    "source_sha256": "f72685aca51901e204b23fc738a87ccfa3752f9b1c4c01918029bcc643a8b8af",
+    "status": "unsupported_info",
+    "updated_at": "2026-11-08T16:08:58Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "cd403a04a9030ca120b6180446e0b0a276b41445a61a0dafddb95ae5454a8650",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

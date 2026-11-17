@@ -1,0 +1,18 @@
+{{Ability_box
+|image=Push kick.png
+|name=Combination kick
+|category_type=[[Technique (category type)|Technique]]
+|category=[[Unarmed discipline (category)|Unarmed discipline]]
+|require={{TalentReq/TechsDexReq1}}
+|use_mode=Activated
+|cost=40 Stamina
+|cooldown=10
+|desc=
+Unleash a flurry of disruptive kicks at your target's vulnerable areas.  For each combo point you attack for {{CTWD|10|40%}} weapon damage and deactivate one physical sustain.
+
+At talent level 3 Magical sustains will also be affected.
+
+At talent level 5 Mental sustains will also be affected.
+
+Using this talent removes your combo points.
+}}

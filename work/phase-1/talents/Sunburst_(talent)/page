@@ -1,0 +1,16 @@
+{{Ability_box
+|name=Sunburst
+|image=Sunburst.png
+|game_version=1.7.6
+|category_type={{ct|Celestial}}
+|category={{c|Sunlight}}
+|require={{TalentReq/DiviReq4}}
+|range=10
+|cost=30 Positive
+|cooldown=12
+|use_speed=Spell
+|desc=
+Release a burst of sunlight beams at {{cts|1|5}} random foes in radius 10, dealing {{ctspd|10|250}} damage to all foes hit and increasing your bonus light damage by {{ctl|100%|40|70%}} of your bonus darkness damage for 4 turns.
+
+''Note: the damage bonus is applied first, so the subsequent damage dealt will benefit from it''
+}}

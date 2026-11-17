@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "81fb2868cde0bb1dafdc97878472a99412c74cd5e96e40c6aaf8f70fd785ba26",
+    "revid": 22540
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "baseline_preserved"
+    }
+  ],
+  "identity": {
+    "filename": "Supernova_(talent)",
+    "kind": "talent",
+    "pageid": 6964,
+    "wiki_title": "Supernova (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "baseline_preserved",
+    "candidate_page_sha256": "81fb2868cde0bb1dafdc97878472a99412c74cd5e96e40c6aaf8f70fd785ba26",
+    "source_sha256": "58e81b71d6c0a26b1da120f0e94892c00d2791569c06482bc5c32e44b356219c",
+    "status": "unsupported_info",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "81fb2868cde0bb1dafdc97878472a99412c74cd5e96e40c6aaf8f70fd785ba26",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

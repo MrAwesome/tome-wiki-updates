@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "e7c614ce98c20b17b8d26c72de19b33ae4a68b590ea92183991e1575b56c8f87",
+    "revid": 22625
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:58Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Avatar_of_a_distant_sun_(talent)",
+    "kind": "talent",
+    "pageid": 5836,
+    "wiki_title": "Avatar of a distant sun (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "4a37510b977223af9543869ef995814d7d11494de598a51dd50c13822fc7ed0c",
+    "source_sha256": "f9eb9c5960f2c4fcfa7fdaffb41ea0b0ba1c11d5111023d9668ddeeba8ff3004",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:58Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "4a37510b977223af9543869ef995814d7d11494de598a51dd50c13822fc7ed0c",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

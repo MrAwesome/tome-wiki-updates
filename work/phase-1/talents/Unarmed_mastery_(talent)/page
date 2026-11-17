@@ -1,0 +1,13 @@
+{{Ability_box
+|game_version=1.4.5
+|image=Unarmed mastery.png
+|name=Unarmed mastery
+|category_type={{ct|Technique}}
+|category={{c|Unarmed training}}
+|require=Cun (18,24,30,36,42)
+|use_mode=Passive
+|desc=
+Increases Physical Power by (10 * Talent Level), and increases all unarmed damage by (11.18 * √ Talent Level)% (including grapples and kicks).
+
+Note that brawlers naturally gain 0.5 Physical Power per character level while unarmed and attack 40% faster while unarmed.
+}}

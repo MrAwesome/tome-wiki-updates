@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "bfc9f9a83fd5346fc2c425f2d1ff2c8f0c6b944fb1d3e595ab3ed11733522dcd",
+    "revid": 8187
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:58Z",
+      "event": "deterministic_render_applied",
+      "reason": "baseline_preserved"
+    }
+  ],
+  "identity": {
+    "filename": "Dominate_(talent)",
+    "kind": "talent",
+    "pageid": 1532,
+    "wiki_title": "Dominate (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "baseline_preserved",
+    "candidate_page_sha256": "bfc9f9a83fd5346fc2c425f2d1ff2c8f0c6b944fb1d3e595ab3ed11733522dcd",
+    "source_sha256": "b0dcafa04aadc9c68ebac73bdda27b056aec10b35bd9e6766bdde9f76d52086d",
+    "status": "unsupported_info",
+    "updated_at": "2026-11-08T16:08:58Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "bfc9f9a83fd5346fc2c425f2d1ff2c8f0c6b944fb1d3e595ab3ed11733522dcd",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

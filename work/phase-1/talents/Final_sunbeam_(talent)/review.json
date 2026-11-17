@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "d9e927876aab77d56f3f6ac077f8cf1c01996c8792e62d16b059f60a12a64cee",
+    "revid": 22865
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Final_sunbeam_(talent)",
+    "kind": "talent",
+    "pageid": 7050,
+    "wiki_title": "Final sunbeam (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "3d747894a108c46b624ce4fdb2b873ab3509e96b882b222a2885110d2d301810",
+    "source_sha256": "89a9ab53a1689778f063f75591107f4b7b8cc39f90da37ccf0365d7346a34803",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "3d747894a108c46b624ce4fdb2b873ab3509e96b882b222a2885110d2d301810",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

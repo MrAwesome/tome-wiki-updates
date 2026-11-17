@@ -1,0 +1,20 @@
+{{Ability box
+|image = Death from above.png
+|name = Death From Above
+|game_version = 1.7.6
+|embers_version = 1.1.10
+|category_type = {{ct|Steamtech}}
+|category = {{c|Artillery}}
+|require = {{TalentReq/DexSteamReqHigh4}}
+|cooldown = 20
+|cost = 30 Steam
+|range = Steamgun range
+|use_speed = Steamtech
+|desc = You use your rocket pods to launch yourself into the air for 3 turns, firing a radius 2 barrage of rockets that deal {{ctwd|120|250%}} steamgun damage as fire in radius 2. 
+
+While flying you gain {{cts|400|650%|0.75}} movement speed, {{ctl|75%|15|45%}} chance to evade melee and ranged attacks, and can reactivate this talent at will to repeat the rocket barrage.
+
+Using any talent other than Rocket Barrage will end this effect immediately.
+
+''Note: "Rocket Barrage" is the name of this talent while active, which has the same damage and use speed but no cost.''
+}}

@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "0a9852993458a33819686889cfb7f898a0814905e1e7aa0db79c6c8075eab9d5",
+    "revid": 7766
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Feedback_loop_(talent)",
+    "kind": "talent",
+    "pageid": 1639,
+    "wiki_title": "Feedback loop (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "b2066637c1646a63f0f900fde2d0a0af10b3185de1f83e69969b35ec051263ea",
+    "source_sha256": "5724174a576013c817f9463b0ee1c0140a78d9a685c6b0502c037f9fbc065230",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "b2066637c1646a63f0f900fde2d0a0af10b3185de1f83e69969b35ec051263ea",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

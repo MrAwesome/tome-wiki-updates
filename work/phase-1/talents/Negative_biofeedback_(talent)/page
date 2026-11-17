@@ -1,0 +1,17 @@
+{{Ability box
+|image=Negative biofeedback.png
+|name=Negative biofeedback
+|game_version=1.7.6
+|embers_version=1.1.10
+|category_type={{ct|Psionic}}
+|category={{c|Action at a distance}}
+|require={{TalentReq/PsiWilReq4}}
+|use_mode=Sustained
+|cost=2 Steam drain + 50 Psi
+|cooldown=20
+|use_speed=Mind
+|desc=
+Any time you deal damage with a psionic ability you incur a negative biofeedback in your foes, stacking up to {{gtl|1|5|raw}} times for 5 turns.
+Each stack reduces their physical save by {{cts|3|7}}, defense and armour by {{cts|2|6}}.
+This effect may only occur once per turn.
+}}

@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "365ca3c22bce2ecd7f87659dad0479c02e35097e6cdbc60475702933412b0b08",
+    "revid": 8810
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "baseline_preserved"
+    }
+  ],
+  "identity": {
+    "filename": "Uppercut_(talent)",
+    "kind": "talent",
+    "pageid": 1701,
+    "wiki_title": "Uppercut (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "baseline_preserved",
+    "candidate_page_sha256": "365ca3c22bce2ecd7f87659dad0479c02e35097e6cdbc60475702933412b0b08",
+    "source_sha256": "5db9065c3c22aa606e3e5f0ce2d1bb64565c042a06efe71defe83bbf162d1f09",
+    "status": "unsupported_info",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "365ca3c22bce2ecd7f87659dad0479c02e35097e6cdbc60475702933412b0b08",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

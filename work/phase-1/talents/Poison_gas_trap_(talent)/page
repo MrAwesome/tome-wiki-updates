@@ -1,0 +1,20 @@
+{{Ability box
+|image=Poison gas trap.png
+|name=Poison Gas Trap
+|category_type={{ct|Cunning}}
+|category={{c|Trapping}}
+|require=Find ''the perfect killing device'' lore note in [[The Maze]]<br />The note will always spawn if you have learned any level of {{t|Trap Mastery}}
+|cooldown=12
+|cost=12 Stamina
+|range=Trap Range
+|desc=
+Lay a trap that explodes in a radius of 3, releasing a thick poisonous cloud lasting 4 turns.
+
+Each turn, the cloud infects all creatures with a poison that deals (20 + {{css|Cun|0.25|2.5}} * Trap Power) nature damage over 5 turns.
+
+Trap Power is determined by your raw talent level in {{t|Trap Mastery}}.
+
+The trap will last for a duration of (8 + {{t|Trap Mastery}} Level) turns or until it is triggered.
+
+High level {{t|Lure}} can trigger this trap.
+}}

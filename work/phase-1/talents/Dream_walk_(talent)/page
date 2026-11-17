@@ -1,0 +1,14 @@
+{{Ability_box
+|image=Dream walk.png
+|name=Dream walk
+|category_type={{ct|Psionic}}
+|category={{c|Dreaming}}
+|require={{TalentReq/PsiWilReq3}}
+|use_mode=Activated
+|range=7
+|cost=10 Psi
+|cooldown=10
+|desc=
+You move through the dream world, reappearing near the target location within a radius of (7 - Talent Level).  If the target is a sleeping creature, you'll instead appear as close to them as possible.
+|avail.escorts=[[Escorts#Temporal_Explorer_.28Arcane.29|Temporal Explorer (Arcane)]] ([[Escorts#Betraying_to_Zigur|Betray Escort to Zigur]]), +1 to talent or via revealing the locked {{c|Dreaming}} category
+}}

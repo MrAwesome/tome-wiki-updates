@@ -1,0 +1,18 @@
+{{Ability box
+|image=Venomous breath.png
+|name=Venomous Breath
+|category_type={{ct|Wild-Gift}}
+|category={{c|Higher Draconic Abilities}}
+|require={{TalentReq/GiftsReqHigh2}}
+|cost=12 Equilibrium
+|cooldown=12
+|range=0
+|desc=
+You breathe insidious poison in a frontal cone of radius {{cts|5|10}}. Any target caught in the area will take {{ctstd|Str|60|650}} nature damage over 6 turns.
+
+The poison also gives enemies a {{ctl|100%|11|23%}} chance to fail actions more complicated than basic attacks and movement, while it is in effect.
+
+The damage will increase with your Strength, and the critical chance is based on your Mental crit rate.
+
+Each point in Venomous Breath also increases your nature resistance by 3%, and your nature damage by 4%
+}}

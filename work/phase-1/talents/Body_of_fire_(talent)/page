@@ -1,0 +1,17 @@
+{{Ability box
+|game_version=1.7.6
+|image=Body of fire.png
+|name=Body of Fire
+|category_type={{ct|Spell}}
+|category={{c|Fire Alchemy}}
+|require={{TalentReq/SpellsReq4}}
+|use_mode=Sustained
+|range=6
+|cost=250 Mana
+|cooldown=40
+|travel_speed=2.4
+|desc=
+Turn your body into pure flame, increasing your fire resistance by {{ctspd|5|45}}, burning any creatures striking you in melee for {{ctspd|5|25}} fire damage, and randomly launching up to {{cts|1|5|log}} slow-moving fire bolt(s) per turn at targets in sight, each dealing {{ctspd|15|70}} fire damage.
+The projectiles safely go through your friends without harming them.
+The damage and resistance will increase with your Spellpower.
+}}

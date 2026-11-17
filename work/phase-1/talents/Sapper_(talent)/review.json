@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "cb2506f3cd463c5f595725c4dcc0e73c96fcd28d4ce9c73e6241c6762a5d0de0",
+    "revid": 22459
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Sapper_(talent)",
+    "kind": "talent",
+    "pageid": 6899,
+    "wiki_title": "Sapper (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "414200bc48a740c525c6a399a639087e529b15dc12c207d80eb7e77dfd721995",
+    "source_sha256": "66e61a2898f55d9b4ab85cf6284022701c3dc70c7c0bd318e26e9dd5e3712f32",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "414200bc48a740c525c6a399a639087e529b15dc12c207d80eb7e77dfd721995",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "84209ecbc9a2ad43f63e83edb2f95140e693aa67239cb3e0b218dc81f96438cb",
+    "revid": 8390
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "One_with_nature_(talent)",
+    "kind": "talent",
+    "pageid": 1238,
+    "wiki_title": "One with nature (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "17e966a8d5de78a0e4a92432fff1903765746287edd87cfdc923eda849561a60",
+    "source_sha256": "b8af63ac0a2228d17b280154dd4b32f6dc128a603482be376d0443e4320f96d6",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "17e966a8d5de78a0e4a92432fff1903765746287edd87cfdc923eda849561a60",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

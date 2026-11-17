@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "27ab06f9bff21b525f3c40da5341a4b73d5289fe637b143201608a7eacdc3694",
+    "revid": 7963
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Eye_shot_(talent)",
+    "kind": "talent",
+    "pageid": 1449,
+    "wiki_title": "Eye shot (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "fae779535aa4771fa8caa59288d4b3b831e9c417eb7635a431955611ba3b424d",
+    "source_sha256": "6d7b2cd4d3d65eddc602c86acfbddfa10260f3c3a5c8f5f07e5df6303105d733",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "fae779535aa4771fa8caa59288d4b3b831e9c417eb7635a431955611ba3b424d",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

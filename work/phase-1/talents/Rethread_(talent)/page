@@ -1,0 +1,15 @@
+{{Ability box
+|image=Rethread.png
+|game_version=1.7.6
+|name=Rethread
+|category_type={{ct|Chronomancy}}
+|category={{c|Timeline Threading}}
+|require={{TalentReq/ChronoReqHigh1}}
+|cost=10 Paradox
+|cooldown=4
+|range=10
+|desc=
+Rethread the timeline, dealing {{ctspd|20|230|PM}} temporal damage to the target before moving on to a second target.
+Rethread can hit up to 3 targets up to 10 grids apart, and will never hit the same one twice; nor will it hit the caster.
+The damage will increase with your Spellpower.
+}}

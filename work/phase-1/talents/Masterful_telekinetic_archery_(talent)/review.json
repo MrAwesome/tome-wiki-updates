@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "37b8f4fc7abe5f1f10b7572249a0c08ca48e61cf642fe1dc25efccca7848cb0a",
+    "revid": 2026
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Masterful_telekinetic_archery_(talent)",
+    "kind": "talent",
+    "pageid": 1672,
+    "wiki_title": "Masterful telekinetic archery (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "b6b5a9c1c1df0f27a045567ba256358e72e3721850ca91c6d9701a8c46727bdd",
+    "source_sha256": "e43019d76e48860b5d970fe9a4b89a4a9d1722ab21c2eb34729c9d77edbab062",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "b6b5a9c1c1df0f27a045567ba256358e72e3721850ca91c6d9701a8c46727bdd",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

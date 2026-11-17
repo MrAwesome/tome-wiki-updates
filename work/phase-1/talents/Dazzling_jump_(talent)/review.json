@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "5d5c1ec54ca2918d2347cc660b9c5ee20c40b23c29b8f15a6eb1a28d209049e7",
+    "revid": 14540
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:58Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Dazzling_jump_(talent)",
+    "kind": "talent",
+    "pageid": 5165,
+    "wiki_title": "Dazzling jump (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "ac865c541a9f06c788445df8a647f0cc5a9e777688e9ab3d70a7ffd0af095705",
+    "source_sha256": "a32a2aa6489e4aae99d2daa9f055435cc049a7a7b21bd84e39927c7c2cafa424",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:58Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "ac865c541a9f06c788445df8a647f0cc5a9e777688e9ab3d70a7ffd0af095705",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

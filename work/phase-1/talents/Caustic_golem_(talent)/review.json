@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "b91ec27dc8c8afd012a2ecb7a864ddbeca7c0d2ebcc40c429ef5e62b11fd03a1",
+    "revid": 12186
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:58Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Caustic_golem_(talent)",
+    "kind": "talent",
+    "pageid": 3258,
+    "wiki_title": "Caustic golem (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "5d527ade67062e5c1bc27a2f0a1ec63353b279310a294870dedf221d51e5eb3e",
+    "source_sha256": "007f86d6e014eaada42f99c41f0283322d50bf6d57f89e0efa2c694c2ce36cc7",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:58Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "5d527ade67062e5c1bc27a2f0a1ec63353b279310a294870dedf221d51e5eb3e",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

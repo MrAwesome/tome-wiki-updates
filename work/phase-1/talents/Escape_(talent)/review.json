@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "8a739bedfc71a9903fd1af7cdfa62074d4fee682b7ed2e5b52e0818a8fc69cee",
+    "revid": 13769
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Escape_(talent)",
+    "kind": "talent",
+    "pageid": 4691,
+    "wiki_title": "Escape (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "12bd4d2c003fdf082c9ee0c19e93fbcc0edde44c4a888474b839715c391f1fe6",
+    "source_sha256": "0a5387018a676d2b4dc2a913202410a39e21b76df8003057bdf488409353820f",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "12bd4d2c003fdf082c9ee0c19e93fbcc0edde44c4a888474b839715c391f1fe6",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

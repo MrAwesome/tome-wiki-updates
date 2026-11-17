@@ -1,0 +1,17 @@
+{{Ability_box
+|game_version=1.7.4
+|image=Stoneshield.png
+|name=Stoneshield
+|category_type={{ct|Wild-gift}}
+|category={{c|Earthen power}}
+|require={{TalentReq/GiftsReq1}}
+|use_mode=Passive
+|desc=
+The first time you take damage each turn, you regenerate {{ctl|100%|8|16.5%}} of the damage dealt as mana (up to a maximum of {{cts|6|10}}) and {{ctl|50%|7.5|20%}} as equilibrium (up to {{cts|5|9|log}}).
+
+Increases Physical Power by 30, increases damage done with shields by (√({{gtl|1|5}}/5)/1.5)*100%  (29% -> 66%), and allows you to dual-wield shields.
+
+Also, all of your melee attacks will perform a shield bash in addition to their normal effects.
+
+''The meaning of "all of your melee attacks will perform a shield bash" is that this talent allows you to attack with shields the same way you would attack with normal weapons. So bump attacks, or talents that attack with your weapons, or weapon and shield, will attack with your shield, and if you are wielding two shields, they will attack with both your shields. But most talents that specifically attack with your shield will only attack with one shield (offhand if available, mainhand otherwise). [[Stone Warden]]'s talents are coded to attack with your weapons (but require a shield), so they will attack with both shields.''
+}}

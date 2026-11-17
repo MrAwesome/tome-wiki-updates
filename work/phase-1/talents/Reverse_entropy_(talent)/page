@@ -1,0 +1,18 @@
+{{Ability_box
+|name = Reverse Entropy
+|image = Reverse_entropy.png
+|category_type = {{ct|Demented}}
+|category = {{c|Entropy}}
+|game_version = 1.7.6
+|forbidden_version = 1.0.12
+|require = {{TalentReq/DementedReq2}}
+|use_mode = Activated
+|range = Melee/Personal
+|cooldown = {{ctl|10|40|20}}
+|travel_speed = Instantaneous
+|use_speed = Instant
+|desc =
+Your knowledge of entropy allows you to defy the laws of physics, allowing you to better endure your entropic energies.
+You take {{ctspd|20|70}} less damage from your entropic backlash.
+You may activate this talent to instantly remove your current Entropy.
+}}

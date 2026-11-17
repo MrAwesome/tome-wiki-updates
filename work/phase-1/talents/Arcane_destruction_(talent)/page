@@ -1,0 +1,16 @@
+{{Ability_box
+|image=Arcane_destruction_2017.png
+|name=Arcane Destruction
+|category_type={{ct|Technique}}
+|category={{c|Magical Combat}}
+|require={{TalentReq/TechsReq4}}
+|use_mode=Passive
+|desc=
+Raw magical damage channels through the caster's weapon, increasing Physical Power by ({{cts|0.143|0.714}} * Spellpower).
+
+Each time your crit with a melee blow, you will unleash a radius 2 ball of either fire, lightning or arcane damage, doing (2 * Spellpower) damage.
+
+If you are using a shield this will only occur 75% of the time.
+
+If you are dual wielding this will only occur 50% of the time.
+}}

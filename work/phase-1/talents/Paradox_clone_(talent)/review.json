@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "466f3e1be9b5e76b413c8c88f246d7df31bfb429b30f61fb104428bc2ae8073b",
+    "revid": 8153
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Paradox_clone_(talent)",
+    "kind": "talent",
+    "pageid": 1285,
+    "wiki_title": "Paradox clone (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "4bc29096ac123158d613344e17de80cc580a4e7f2336fc9c1adb995e6bccc8e6",
+    "source_sha256": "d65367d33fedbe507f377497449e86409aab95d3b4cd535466e49a27144381ea",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "4bc29096ac123158d613344e17de80cc580a4e7f2336fc9c1adb995e6bccc8e6",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

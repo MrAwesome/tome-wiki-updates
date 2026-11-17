@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "20bb90ab889f151498446fc0e1de4229838cc4cb233ec9be8e6e5fa3c8fa8148",
+    "revid": 22878
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:58Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Blood_thirst_(talent)",
+    "kind": "talent",
+    "pageid": 7059,
+    "wiki_title": "Blood thirst (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "7e6353d2b5c02df9237a36b3bef21330b3f5dbbd2fb4111f48d70d079c8c175d",
+    "source_sha256": "3c1841077169754f56549e8aa11e42cd0ccdd7380b735b88f08bfd3ba7cfe01c",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:58Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "7e6353d2b5c02df9237a36b3bef21330b3f5dbbd2fb4111f48d70d079c8c175d",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

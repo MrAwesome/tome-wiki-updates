@@ -1,0 +1,15 @@
+{{Ability box
+|image=Grinding shield.png
+|name=Grinding Shield
+|game_version=1.4.6
+|embers_version=1.0.3
+|category_type={{ct|Steamtech}}
+|category={{c|Battlefield Management}}
+|require={{TalentReq/SteamReq2}}
+|use_mode=Sustained
+|cooldown=5
+|cost=3 Steam drain
+|desc=
+Spin your saws wildly around you to create a wall of steamy sawteeth.
+All melee damage against you is reduced by {{ctl|50%|12|25%}}, you have {{ctl|50%|12|25%}} chance to evade projectiles and you can never take a blow that deals more than {{ctl|50%|100|70%}} of your max life.
+}}

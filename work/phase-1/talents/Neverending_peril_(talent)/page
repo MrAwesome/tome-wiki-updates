@@ -1,0 +1,13 @@
+{{Ability box
+|game_version = 1.7.6
+|image=Neverending peril.png
+|name=Neverending Peril
+|category_type={{ct|Spell}}
+|category={{c|Dreadmaster}}
+|require={{TalentReq/SpellsReq3}}
+|cost=10 Mana, 1 Souls 
+|cooldown=20
+|use_speed = Spell
+|desc=
+In an effort to make your dread more annoying you focus a shell of darkness around it, rendering it fully invincible for {{cts|3|9}} turns.
+}}

@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "73c9cf42594531bfcc757e7295a0d601c6bead3635b1e37540af21a711ee68e4",
+    "revid": 8874
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:58Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Detonate_(talent)",
+    "kind": "talent",
+    "pageid": 1650,
+    "wiki_title": "Detonate (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "1993fa54d937639298f38e259c10c82d1b6054229ea9b5928141c77a1385fc04",
+    "source_sha256": "60289877ddda683962fa2fec05fb30b7df9192c124666c46fa9be41767c5fa01",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:58Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "1993fa54d937639298f38e259c10c82d1b6054229ea9b5928141c77a1385fc04",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

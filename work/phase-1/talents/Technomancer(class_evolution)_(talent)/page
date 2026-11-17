@@ -1,0 +1,33 @@
+{{Ability box
+|embers_version=1.1.10
+|game_version=1.7.6
+|image=technomancer.png
+|name=Technomancer(Class Evolution)
+|category_type=[[Prodigies]]
+|category=[[Prodigies#Magic|Magic]]
+|require=Magic 50<br />Cunning 25<br />Be an [[Archmage]]<br />[[unlockables|Unlocked]] the Technomancer evolution
+|use_mode=Passive
+|desc=
+Technomancers are Archmages that dabble in steam technology to enhance their already formidable arsenal of spells.
+Once this class evolution is taken, you gain the following:
+*Arcane Dynamo tinker schematic
+*Steamtech/{{c|Physics}} category (unlocked)
+*Steamtech/{{c|Chemistry}} category (locked)
+*An [[Automated Portable Extractor]] (A.P.E.)
+*One point in the Physics talent {{t|Smith}} and two in {{t|Mechanical}} and {{t|Electricity}}
+*Spell/{{c|Galvanic Technomancy}} category (locked) - deals with fire and lightning
+*Spell/{{c|Terrene Technomancy}} category (locked) - deals with earth and water
+*Spell/{{c|Occult Technomancy}} category (locked) - deals with time and arcane
+*The ability to unlock one of the three Technomancy categories for free
+
+Once put in a robe, the Arcane Dynamo will regenerate Steam each time mana is spent and increase Spellpower based on current steam level.
+
+#{bold}#As soon as this evolution is used you will need to craft the Arcane Dynamo to place in a robe to benefit from all the powers of the Technomancer.#{normal}#
+|avail.classes=[[Archmage]]
+}}
+===Notes===
+*The three Technomancy categories are learned at 1.3 mastery.
+*You gain 100 steam when you learn it.
+*After taking it, tinker items can start dropping in your game.
+
+<noinclude>[[Category: Embers of Rage]]</noinclude>

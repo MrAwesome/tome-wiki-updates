@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "35031081b1b9b76518f8b797cc9dbf4333cf71235f30a2108091efb98755bf22",
+    "revid": 23008
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:58Z",
+      "event": "deterministic_render_applied",
+      "reason": "baseline_preserved"
+    }
+  ],
+  "identity": {
+    "filename": "Amplification_(talent)",
+    "kind": "talent",
+    "pageid": 1692,
+    "wiki_title": "Amplification (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "baseline_preserved",
+    "candidate_page_sha256": "35031081b1b9b76518f8b797cc9dbf4333cf71235f30a2108091efb98755bf22",
+    "source_sha256": "cd09c7e7820e903eb640242242dded6f54afca2db6a9beacc2dc1256f782f76d",
+    "status": "unsupported_info",
+    "updated_at": "2026-11-08T16:08:58Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "35031081b1b9b76518f8b797cc9dbf4333cf71235f30a2108091efb98755bf22",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "677df56f8f3cf2acf0441119302c5f644eb3039cb611e951d15791b34e549cd9",
+    "revid": 5666
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:58Z",
+      "event": "deterministic_render_applied",
+      "reason": "baseline_preserved"
+    }
+  ],
+  "identity": {
+    "filename": "Cursed_ground_(talent)",
+    "kind": "talent",
+    "pageid": 1591,
+    "wiki_title": "Cursed ground (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "baseline_preserved",
+    "candidate_page_sha256": "677df56f8f3cf2acf0441119302c5f644eb3039cb611e951d15791b34e549cd9",
+    "source_sha256": null,
+    "status": "unmatched_source",
+    "updated_at": "2026-11-08T16:08:58Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "677df56f8f3cf2acf0441119302c5f644eb3039cb611e951d15791b34e549cd9",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

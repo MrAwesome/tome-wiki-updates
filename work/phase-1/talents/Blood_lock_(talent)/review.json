@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "bae52445d944e797a51a363d2445cbaef06259efcdad07751329484ee5ff1132",
+    "revid": 18531
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:58Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Blood_lock_(talent)",
+    "kind": "talent",
+    "pageid": 1139,
+    "wiki_title": "Blood lock (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "25bda3e1ad6959711a32b27b71b263b86cdaa81f805eece4d1e7e8c3bed97eff",
+    "source_sha256": "bcb7d6b5c1c154dbe8844de4ad32fd7b3084424ff84d9e2d6ddeafbba98c2418",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:58Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "25bda3e1ad6959711a32b27b71b263b86cdaa81f805eece4d1e7e8c3bed97eff",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

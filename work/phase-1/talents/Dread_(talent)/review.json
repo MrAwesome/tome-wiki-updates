@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "7dec222ae70d407cf941bb0260ed2e57ee2725c66a7cde3c19ef780b1b2ac561",
+    "revid": 19381
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:58Z",
+      "event": "deterministic_render_applied",
+      "reason": "baseline_preserved"
+    }
+  ],
+  "identity": {
+    "filename": "Dread_(talent)",
+    "kind": "talent",
+    "pageid": 5639,
+    "wiki_title": "Dread (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "baseline_preserved",
+    "candidate_page_sha256": "7dec222ae70d407cf941bb0260ed2e57ee2725c66a7cde3c19ef780b1b2ac561",
+    "source_sha256": "115b87f434828dcb22c236b229834b94f3fabf52523af47503a0276937117c80",
+    "status": "unsupported_info",
+    "updated_at": "2026-11-08T16:08:58Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "7dec222ae70d407cf941bb0260ed2e57ee2725c66a7cde3c19ef780b1b2ac561",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

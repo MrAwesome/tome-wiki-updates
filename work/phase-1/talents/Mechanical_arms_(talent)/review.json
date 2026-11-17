@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "42937326a2d702de1dccd9efdddc99a37576b39d17c1fa4e49cff89835344e28",
+    "revid": 22364
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Mechanical_arms_(talent)",
+    "kind": "talent",
+    "pageid": 5172,
+    "wiki_title": "Mechanical arms (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "6a31e41958ae6ea7929b19912a8b13748c9e04e06a0939c2d07cfd6c9d26fec1",
+    "source_sha256": "b23cf87ff058cb74d4673ce4ba68bcbca28b86b229c91864dbb07e7e534ecb8b",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "6a31e41958ae6ea7929b19912a8b13748c9e04e06a0939c2d07cfd6c9d26fec1",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

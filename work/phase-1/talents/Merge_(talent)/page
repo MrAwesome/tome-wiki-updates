@@ -1,0 +1,17 @@
+{{Ability_box
+|game_version=1.7.6
+|image=merge.png
+|name=Merge
+|category_type={{ct|Cursed}}
+|category={{c|Advanced Shadowmancy}}
+|require={{TalentReq/CursedCunReqHigh1}}
+|use_mode=Activated
+|cost=-8 Hate
+|range=10
+|cooldown=6
+|travel_speed=Instantaneous
+|use_speed=Mind
+|desc=
+Target a nearby shadow, and command it to merge into a nearby enemy, reducing their damage by {{cts|10|40%}} for 5 turns.
+Killing your shadow releases some of your inner hatred, restoring 8 Hate to yourself.
+}}

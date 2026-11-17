@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "5d754891cbe0325a5eb2ebbc4a24c99a54c18b5ccbde9fbe6314ce453bbec2d2",
+    "revid": 9922
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Restoration_(talent)",
+    "kind": "talent",
+    "pageid": 2933,
+    "wiki_title": "Restoration (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "6828dacc4a80ae6395c824399420561d837e55bfc95bdca8b6260e61ceacc7d6",
+    "source_sha256": "dc640c1af5d22a45472d843380c9de01334530b3831bd2b9fe88ee0cba3abc23",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "6828dacc4a80ae6395c824399420561d837e55bfc95bdca8b6260e61ceacc7d6",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

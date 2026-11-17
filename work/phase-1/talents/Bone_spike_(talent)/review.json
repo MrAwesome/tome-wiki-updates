@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "5039f9e7c73ec39bdc213504a443b8ffb19ec3aa7bfb28ab5d4fba5eaac8dcf8",
+    "revid": 18598
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:58Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Bone_spike_(talent)",
+    "kind": "talent",
+    "pageid": 5881,
+    "wiki_title": "Bone spike (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "50cb46d20a1926e4687b0f049f14f7de28211bdf715284880e590b5de1917e9f",
+    "source_sha256": "b6fc561adf09dfda092291b9e2bf14c9063e70e175b7473242a2ebef3c7a8ff7",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:58Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "50cb46d20a1926e4687b0f049f14f7de28211bdf715284880e590b5de1917e9f",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

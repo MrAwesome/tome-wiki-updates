@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "64ccc6a0993890ed70edd7ed33df230e0c697403634e43c59fb2ca4dbf160ed0",
+    "revid": 14122
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "baseline_preserved"
+    }
+  ],
+  "identity": {
+    "filename": "Kneecapper_(talent)",
+    "kind": "talent",
+    "pageid": 3374,
+    "wiki_title": "Kneecapper (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "baseline_preserved",
+    "candidate_page_sha256": "64ccc6a0993890ed70edd7ed33df230e0c697403634e43c59fb2ca4dbf160ed0",
+    "source_sha256": "bdb8cd877d47927b103b6d4cedc08d9cb4cf86790520d4f87a3b90c543c49e37",
+    "status": "unsupported_info",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "64ccc6a0993890ed70edd7ed33df230e0c697403634e43c59fb2ca4dbf160ed0",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

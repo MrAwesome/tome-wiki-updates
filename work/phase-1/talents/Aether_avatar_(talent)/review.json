@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "6140e96d587b5dd43ff9a112d4497a5aa550adadca075f61bb77148398ddfb6f",
+    "revid": 14178
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:58Z",
+      "event": "deterministic_render_applied",
+      "reason": "baseline_preserved"
+    }
+  ],
+  "identity": {
+    "filename": "Aether_avatar_(talent)",
+    "kind": "talent",
+    "pageid": 1345,
+    "wiki_title": "Aether avatar (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "baseline_preserved",
+    "candidate_page_sha256": "6140e96d587b5dd43ff9a112d4497a5aa550adadca075f61bb77148398ddfb6f",
+    "source_sha256": "f40adf8a89c61643ec20e4d2fdd4a910ad53cfbb9139f5d096833d6750fa25cb",
+    "status": "unsupported_info",
+    "updated_at": "2026-11-08T16:08:58Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "6140e96d587b5dd43ff9a112d4497a5aa550adadca075f61bb77148398ddfb6f",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

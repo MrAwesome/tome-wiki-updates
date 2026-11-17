@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "3d671fe712347b214384f9b886cbc40e198ea581bccb55f0aeb2953289dda94e",
+    "revid": 13743
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:58Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Called_shots_(talent)",
+    "kind": "talent",
+    "pageid": 4683,
+    "wiki_title": "Called shots (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "d5f2c4c9a13eb97e76a42009faf1c8ddb19be5010c4f85203ba95bea3f60a3a5",
+    "source_sha256": "4c26268cd967d35171d9854350db863fa31306bb2c90ae324ed7dfad644f11ea",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:58Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "d5f2c4c9a13eb97e76a42009faf1c8ddb19be5010c4f85203ba95bea3f60a3a5",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

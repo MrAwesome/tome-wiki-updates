@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "6bf6317f04358a40fd1aa03b794fc078e5fc3fda9f8b04cb6c5a1ed7f3218a29",
+    "revid": 12096
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Hurricane_shot_(talent)",
+    "kind": "talent",
+    "pageid": 3361,
+    "wiki_title": "Hurricane shot (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "120a6f3e009b9ecd2111c9b517eb7bdc2f3227de7c1e70583ad53ffaeac9a29b",
+    "source_sha256": "646effbdb97ffea6d6abdd3b5a1c66ce4ac5ec6a2c268fe0b1580957d353e1d1",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "120a6f3e009b9ecd2111c9b517eb7bdc2f3227de7c1e70583ad53ffaeac9a29b",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

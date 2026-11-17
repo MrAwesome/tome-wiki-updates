@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "941a908f2e0d7ece533b311f460f2ff89775d9780bc24f1c0996a04ad2b51382",
+    "revid": 5456
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "baseline_preserved"
+    }
+  ],
+  "identity": {
+    "filename": "Focused_channeling_(talent)",
+    "kind": "talent",
+    "pageid": 1103,
+    "wiki_title": "Focused channeling (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "baseline_preserved",
+    "candidate_page_sha256": "941a908f2e0d7ece533b311f460f2ff89775d9780bc24f1c0996a04ad2b51382",
+    "source_sha256": null,
+    "status": "unmatched_source",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "941a908f2e0d7ece533b311f460f2ff89775d9780bc24f1c0996a04ad2b51382",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

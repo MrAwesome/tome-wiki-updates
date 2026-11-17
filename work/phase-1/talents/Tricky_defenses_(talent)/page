@@ -1,0 +1,13 @@
+{{Ability box
+|game_version=1.7.6
+|image=Tricky defenses.png
+|name=Tricky Defenses
+|category_type=[[Prodigies]]
+|category=[[Prodigies#Cunning|Cunning]]
+|require=Cunning 50<br />Know {{c|Antimagic}}
+|use_mode=Passive
+|desc=
+You are full of tricks and surprises; your {{t|Antimagic Shield}} can absorb {{css|Cun|10|50%}} more damage.
+
+The increase scales with your Cunning.
+}}

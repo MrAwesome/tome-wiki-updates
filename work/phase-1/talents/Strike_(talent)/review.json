@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "7a94448b90c66334605c15438c9517f857103c149d1aa249a4af6f86e8f1fb63",
+    "revid": 13252
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Strike_(talent)",
+    "kind": "talent",
+    "pageid": 2960,
+    "wiki_title": "Strike (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "856def85a6b3481b66feb051deaf43145c7bd94ec718b2cc89685b894be5b680",
+    "source_sha256": "dc640c1af5d22a45472d843380c9de01334530b3831bd2b9fe88ee0cba3abc23",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "856def85a6b3481b66feb051deaf43145c7bd94ec718b2cc89685b894be5b680",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

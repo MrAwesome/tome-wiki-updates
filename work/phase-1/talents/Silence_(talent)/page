@@ -1,0 +1,9 @@
+{{Ability_box
+|game_version=1.7.6
+|name=Silence
+|category_type=[[NPC Only (category type)|NPC Only]]
+|category=-
+|image=Silence.png
+|desc=
+Sends a telepathic attack, silencing the target for {{cts|5|9}} turns.  The chance to silence improves with Mindpower.
+}}

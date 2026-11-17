@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "9c43fbdf3dca786e6d4c2409e8460d7d83a2f9fd7ff3c5ab44232339b8a221ea",
+    "revid": 10168
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Martyrdom_(talent)",
+    "kind": "talent",
+    "pageid": 106,
+    "wiki_title": "Martyrdom (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "b8d386d4e5ea8c0d60805499ff2f7223d3c152bd94b5bf54f424c064cb42ae7e",
+    "source_sha256": "dc640c1af5d22a45472d843380c9de01334530b3831bd2b9fe88ee0cba3abc23",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "b8d386d4e5ea8c0d60805499ff2f7223d3c152bd94b5bf54f424c064cb42ae7e",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

@@ -1,0 +1,13 @@
+{{Ability box
+|game_version=1.7.6
+|image=Pustulent_Fulmination.png
+|name=Pustulent Fulmination
+|category_type={{ct|Demented}}
+|category={{c|Horrific Body}}
+|require={{TalentReq/SpellsReq3}}
+|use_mode=Active
+|cost=-20 insanity
+|range=0
+|desc=
+You make all your putrescent pustules explode at once, splashing all creatures in radius {{ctl|10|2|5}} with black fluids that deal {{ctspd|10|70}} darkness damage per pustule and healing you for {{ctspd|20|50}} per pustule.
+}}

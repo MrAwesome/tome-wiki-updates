@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "181f12c2f236a8a869d6c7d3a94b33136619642d47b46a83d6aefc5d7aa9d9ef",
+    "revid": 22072
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:58Z",
+      "event": "deterministic_render_applied",
+      "reason": "baseline_preserved"
+    }
+  ],
+  "identity": {
+    "filename": "Duck_and_dodge_(talent)",
+    "kind": "talent",
+    "pageid": 1611,
+    "wiki_title": "Duck and dodge (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "baseline_preserved",
+    "candidate_page_sha256": "181f12c2f236a8a869d6c7d3a94b33136619642d47b46a83d6aefc5d7aa9d9ef",
+    "source_sha256": "958b207fd24723fa3b1613c62048b19012df2e24e9b82152eb1ef2485a88aed1",
+    "status": "unsupported_info",
+    "updated_at": "2026-11-08T16:08:58Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "181f12c2f236a8a869d6c7d3a94b33136619642d47b46a83d6aefc5d7aa9d9ef",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

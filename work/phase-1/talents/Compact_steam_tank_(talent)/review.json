@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "0494db346d911a0543e0e3e26bde8ef8efc592de505fdddd8ffd151d3a54862f",
+    "revid": 23058
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:58Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Compact_steam_tank_(talent)",
+    "kind": "talent",
+    "pageid": 4399,
+    "wiki_title": "Compact steam tank (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "d8d3c8f8b0c3b13643193bc1b95409630765a4aaf65d9a7157661d0972a5c6b7",
+    "source_sha256": "a764c59d985d26651b6c3684914112650123a30794532f70a59e99e00bce8d0f",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:58Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "d8d3c8f8b0c3b13643193bc1b95409630765a4aaf65d9a7157661d0972a5c6b7",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

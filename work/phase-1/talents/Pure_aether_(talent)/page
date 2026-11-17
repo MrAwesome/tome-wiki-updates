@@ -1,0 +1,14 @@
+{{Ability box
+|game_version=1.7.6
+|image=Pure aether_2017.png
+|name=Pure Aether
+|category_type={{ct|Spell}}
+|category={{c|Aether}}
+|require={{TalentReq/SpellsReqHigh4}}
+|use_mode=Sustained
+|cost=50 Mana
+|cooldown=30
+|desc=
+Surround yourself with Pure Aether, increasing all your arcane damage by {{cts|2.5|10%}} and ignoring {{ctl|60%|20|50%}} arcane resistance of your targets.
+At level 5 casting {{t|Aether Avatar}} removes up to {{cts|1|4}} magical or physical detrimental effects.
+}}

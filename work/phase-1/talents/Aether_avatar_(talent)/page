@@ -1,0 +1,15 @@
+{{Ability box
+|image=Aether avatar_2017.png
+|name=Aether Avatar
+|category_type={{ct|Spell}}
+|category={{c|Aether}}
+|require={{TalentReq/SpellsReqHigh3}}
+|cost=60 Mana
+|cooldown={{ctl|15|37|25}}
+|range=10
+|use_speed=0
+|desc=
+Fill yourself with aether forces, completely surrounding your body for {{ctl|15|5|9}} turns.
+
+While active, you can only cast arcane or aether spells, your cooldown for them is divided by 3, your arcane damage is increased by 25%, your {{t|Disruption Shield}} can be used at any time, and your maximum mana is increased by 33%.
+}}

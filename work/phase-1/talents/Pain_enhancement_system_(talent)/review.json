@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "dd444eddec6a3564212b574717293b9f79f827d8e71c0a05ecc06669d4ac2657",
+    "revid": 23350
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Pain_enhancement_system_(talent)",
+    "kind": "talent",
+    "pageid": 4217,
+    "wiki_title": "Pain enhancement system (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "7b7c91f12921ee8d579cd87b17c8a20028740f320f64d832e949a177e7c5122a",
+    "source_sha256": "675153b28c453e9bf0f58fd440c2886d4ac998c251dfbf181074bb968d0bf8fa",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "7b7c91f12921ee8d579cd87b17c8a20028740f320f64d832e949a177e7c5122a",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

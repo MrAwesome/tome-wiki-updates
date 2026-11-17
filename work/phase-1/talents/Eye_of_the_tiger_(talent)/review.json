@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "9e505eecae65e76dab1dfa40cd44136ac22dd1d4c5fae1394f1cde0db2082bf8",
+    "revid": 18462
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "baseline_preserved"
+    }
+  ],
+  "identity": {
+    "filename": "Eye_of_the_tiger_(talent)",
+    "kind": "talent",
+    "pageid": 3480,
+    "wiki_title": "Eye of the tiger (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "baseline_preserved",
+    "candidate_page_sha256": "9e505eecae65e76dab1dfa40cd44136ac22dd1d4c5fae1394f1cde0db2082bf8",
+    "source_sha256": "e8f5d9281e0eed2b487a52666a6e8551d29371627cd1a604154296c3ae8b6979",
+    "status": "unsupported_info",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "9e505eecae65e76dab1dfa40cd44136ac22dd1d4c5fae1394f1cde0db2082bf8",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

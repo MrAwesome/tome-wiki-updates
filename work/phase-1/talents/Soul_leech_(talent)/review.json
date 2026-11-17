@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "06394d48c5745b0471c97d06372cdd6f6ef6cfd8d0b2f0c069d34d667cfd86c9",
+    "revid": 18942
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "baseline_preserved"
+    }
+  ],
+  "identity": {
+    "filename": "Soul_leech_(talent)",
+    "kind": "talent",
+    "pageid": 5982,
+    "wiki_title": "Soul leech (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "baseline_preserved",
+    "candidate_page_sha256": "06394d48c5745b0471c97d06372cdd6f6ef6cfd8d0b2f0c069d34d667cfd86c9",
+    "source_sha256": "7708b42e50d5494d10915483c489e7d685457bbcc0bc40da77f988677655be87",
+    "status": "unsupported_info",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "06394d48c5745b0471c97d06372cdd6f6ef6cfd8d0b2f0c069d34d667cfd86c9",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

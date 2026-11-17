@@ -1,0 +1,13 @@
+{{Ability_box
+|image=trap_launcher_2017.png
+|name=Advanced Trap Deployment
+|game_version=1.5.2
+|category_type=[[Cunning (category type)|Cunning]]
+|category=[[Trapping (category)|Trapping]]
+|require={{TalentReq/CunsReq3}}
+|use_mode=Passive
+|desc=
+You learn new techniques for setting traps.
+Deploying one of your traps is possible up to {{ctl|10|2|5.5}} grids from you, takes {{ctl|50%|0|20%}} less time than normal, and has {{cTL|raw|1|5%}} less chance to break stealth.
+|avail.classes=[[Archer]], [[Rogue]], [[Skirmisher]]
+}}

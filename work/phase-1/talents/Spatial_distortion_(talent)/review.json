@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "8785b428995977a1c490bd1e1b478faad4a0359b5be6392fb0280acfa094e2f5",
+    "revid": 18613
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Spatial_distortion_(talent)",
+    "kind": "talent",
+    "pageid": 5902,
+    "wiki_title": "Spatial distortion (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "ff4bc1304637b515a8ba69bd6542ab22c677544d42b3014693eb85c0ead0607c",
+    "source_sha256": "4ee9687b048c9f911046444d2de07ce39515094dc7829ef5a9ab17e9b75c2688",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "ff4bc1304637b515a8ba69bd6542ab22c677544d42b3014693eb85c0ead0607c",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

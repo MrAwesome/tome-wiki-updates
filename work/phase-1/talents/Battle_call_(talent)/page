@@ -1,0 +1,13 @@
+{{Ability_box
+|game_version=1.7.6
+|image=Battle_call_2017.png
+|name=Battle call
+|category_type=[[Technique (category type)|Technique]]
+|category=[[Superiority (category)|Superiority]]
+|require={{TalentReq/TechsReqHigh3}}
+|use_mode=Activated
+|cost=30 Stamina
+|cooldown=10
+|desc=
+Call all foes in a radius of {{CTS|3|7}} around you into battle, getting them into melee range in an instant.
+}}

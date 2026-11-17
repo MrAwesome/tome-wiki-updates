@@ -1,0 +1,14 @@
+{{Ability_box
+|name = Switch
+|image = Switch.png
+|category_type = {{ct|Demented}}
+|category = {{c|Timethief}}
+|game_version = 1.7.6
+|forbidden_version = 1.0.12
+|require = {{TalentReq/DementedReq2}}
+|cost = 15 Insanity
+|cooldown = 7
+|use_speed = Spell
+|desc =
+Release a surge of entropy, cleansing yourself of afflictions while draining the energy from others. All enemies in range 10 will have the duration of {{cts|2|4}} beneficial effects reduced by {{cts|3|5}} turns, while you will have an equal number of detrimental effects reduced by the same duration.
+}}

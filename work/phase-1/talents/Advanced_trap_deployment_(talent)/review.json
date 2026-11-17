@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "232165b891cf27001916816f20a5d37584a2f6738be3552dfb8bc9f316264ec6",
+    "revid": 23087
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:58Z",
+      "event": "deterministic_render_applied",
+      "reason": "baseline_preserved"
+    }
+  ],
+  "identity": {
+    "filename": "Advanced_trap_deployment_(talent)",
+    "kind": "talent",
+    "pageid": 4676,
+    "wiki_title": "Advanced trap deployment (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "baseline_preserved",
+    "candidate_page_sha256": "232165b891cf27001916816f20a5d37584a2f6738be3552dfb8bc9f316264ec6",
+    "source_sha256": "cad2fa64c07f8ae38f30c2e5d49b58356d70d052108aa419d10433e65ce08947",
+    "status": "unsupported_info",
+    "updated_at": "2026-11-08T16:08:58Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "232165b891cf27001916816f20a5d37584a2f6738be3552dfb8bc9f316264ec6",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

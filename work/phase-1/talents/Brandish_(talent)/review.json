@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "733d1a22dbc7b07d3b25fe3d3ffb1d16bf8d005b9d13f1f4bd14def22ef2b8c3",
+    "revid": 8358
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:58Z",
+      "event": "deterministic_render_applied",
+      "reason": "baseline_preserved"
+    }
+  ],
+  "identity": {
+    "filename": "Brandish_(talent)",
+    "kind": "talent",
+    "pageid": 144,
+    "wiki_title": "Brandish (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "baseline_preserved",
+    "candidate_page_sha256": "733d1a22dbc7b07d3b25fe3d3ffb1d16bf8d005b9d13f1f4bd14def22ef2b8c3",
+    "source_sha256": "30393b385ff0530d4df7bfae9ffd27463c880a039eaabdb55f5befa4c3d53e68",
+    "status": "unsupported_info",
+    "updated_at": "2026-11-08T16:08:58Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "733d1a22dbc7b07d3b25fe3d3ffb1d16bf8d005b9d13f1f4bd14def22ef2b8c3",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

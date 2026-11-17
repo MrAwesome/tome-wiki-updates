@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "2e226b3bbca8a059013210753a71a7532dba4a0f82b0a4c58f43451b4f276f9d",
+    "revid": 14957
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Revisionist_history_(talent)",
+    "kind": "talent",
+    "pageid": 3465,
+    "wiki_title": "Revisionist history (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "28c9661d75cb8e68a483477b3faaa99893f246a28d45c54a8562ba8f6dc8febb",
+    "source_sha256": "a4e0877b7e12cdb59d2e9f974fe7579811d56479e20fcea071effad38a44caea",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "28c9661d75cb8e68a483477b3faaa99893f246a28d45c54a8562ba8f6dc8febb",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

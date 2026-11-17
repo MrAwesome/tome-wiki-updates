@@ -1,0 +1,15 @@
+{{Ability_box
+|image=piercing_ammunition.png
+|name=Piercing Ammunition
+|game_version=1.5.2
+|category_type={{ct|Technique}}
+|category={{c|Other}}
+|require={{t|Exotic Munitions}}
+|use_mode=Sustained
+|cost=12 Stamina
+|cooldown=10
+|desc=
+Load piercing ammunition, causing attacks to reduce the target's armor and saves by {{cTL|30|5|25}} for 3 turns, and your physical penetration is increased by {{cTL|35%|10|25%}}.
+		
+The armor and save reduction will scale with your Physical Power.
+}}

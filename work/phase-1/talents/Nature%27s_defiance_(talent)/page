@@ -1,0 +1,17 @@
+{{Ability box
+|game_version=1.7.6
+|image=Nature's Defiance.png
+|name=Nature's Defiance
+|category_type={{ct|Wild-Gift}}
+|category={{c|Eyal's Fury}}
+|require={{TalentReq/GiftsReqHigh2}}
+|use_mode=Passive
+|desc=
+Your devotion to nature has made your body more attuned to the natural world and resistant to unnatural energies.
+
+You gain {{ctmd|5|50}} Spell save, {{ctmd|5|40}} Arcane resistance, and {{ctl|50%|8|25%}} Nature damage affinity.
+
+You defy arcane forces, so that any time you take damage from a spell, you restore {{ctmd|2|8}} Equilibrium each turn for {{cts|3|7}} turns.
+
+The effects increase with your Mindpower.
+}}

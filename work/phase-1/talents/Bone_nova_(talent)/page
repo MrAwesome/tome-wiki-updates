@@ -1,0 +1,13 @@
+{{Ability box
+|game_version=1.7.6
+|image=Bone nova.png
+|name=Bone Nova
+|category_type={{ct|Corruption}}
+|category={{c|Bone}}
+|require={{TalentReq/CorrsReq3}}
+|cost=25 Vim
+|cooldown=12
+|desc=
+Fire bone spears in all directions, hitting all foes within radius {{cts|1|5}} for {{ctspd|8|180}} physical damage, and inflicting bleeding for another {{ctspd|4|90}} damage over 5 turns.
+The damage will increase with your Spellpower.
+}}

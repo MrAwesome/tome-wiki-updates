@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "32de0671a6a0a9c3999f02400ba9794111c16976e0a97f236a774d7b6eec61b4",
+    "revid": 14063
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "baseline_preserved"
+    }
+  ],
+  "identity": {
+    "filename": "Second_wind_(talent)",
+    "kind": "talent",
+    "pageid": 1501,
+    "wiki_title": "Second wind (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "baseline_preserved",
+    "candidate_page_sha256": "32de0671a6a0a9c3999f02400ba9794111c16976e0a97f236a774d7b6eec61b4",
+    "source_sha256": "fabb2618fcab9a25cce43473e048b2ab64d5c7f92cbd68b9bbeaa3b6799f3e3e",
+    "status": "unsupported_info",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "32de0671a6a0a9c3999f02400ba9794111c16976e0a97f236a774d7b6eec61b4",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

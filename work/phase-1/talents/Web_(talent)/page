@@ -1,0 +1,11 @@
+{{Ability_box
+|name=Web
+|category_type=Wild-gift
+|category=Other
+|game_version=1.7.6
+|range=7
+|cost=5 Equilibrium
+|cooldown=3
+|desc=Spread a web and throw it toward your target.
+If caught, it won't be able to move for {{cts|4|8}} turns.
+}}

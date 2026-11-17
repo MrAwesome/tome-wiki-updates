@@ -1,0 +1,21 @@
+{{Ability_box
+|game_version=1.7.6
+|image=skirmisher_noggin_knocker.png
+|name=Noggin Knocker
+|category_type={{ct|Cunning}}
+|category={{c|Called Shots}}
+|require={{TalentReq/TechsCunReq3}}
+|use_mode=Activated
+|range=Archery Range
+|cost=15 Stamina
+|cooldown=8
+|travel_speed=10
+|desc=
+Fire three shots in quick succession at a vulnerable point on the target (usually the head).
+
+Each shot deals {{ctwd|30|75%}} Ranged damage and will try to stun or increase the target's stun duration by 1.
+
+These shots will bypass other enemies between you and your target.
+
+The chance to stun increases with your Accuracy.
+}}

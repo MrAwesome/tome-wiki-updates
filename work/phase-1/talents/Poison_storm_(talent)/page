@@ -1,0 +1,16 @@
+{{Ability box
+|image=Poison storm.png
+|name=Poison Storm
+|category_type={{ct|Corruption}}
+|category={{c|Blight}}
+|require={{TalentReq/CorrsReq4}}
+|cooldown=30
+|cost=36 Vim
+|range=0
+|desc=
+A furious poison storm rages around the caster in a radius of 4 for {{cts|6|10}} turns.  Each creature hit by the storm is poisoned for {{ctspd|12|130}} nature damage over 6 turns.
+
+Poisoning is cumulative; the longer they stay in the storm, the higher the poison damage they take.
+
+The damage will increase with your Spellpower, and can critical.
+}}

@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "95e0ac4cc71882a5f439cb21f1f08c5809c852b00cb8a7a744481f2f37a7d5af",
+    "revid": 8643
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:58Z",
+      "event": "deterministic_render_applied",
+      "reason": "baseline_preserved"
+    }
+  ],
+  "identity": {
+    "filename": "Distortion_wave_(talent)",
+    "kind": "talent",
+    "pageid": 1714,
+    "wiki_title": "Distortion wave (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "baseline_preserved",
+    "candidate_page_sha256": "95e0ac4cc71882a5f439cb21f1f08c5809c852b00cb8a7a744481f2f37a7d5af",
+    "source_sha256": "48e9509ba306795fd9ed07b6d514551f97894d28619450960b086785101981e5",
+    "status": "unsupported_info",
+    "updated_at": "2026-11-08T16:08:58Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "95e0ac4cc71882a5f439cb21f1f08c5809c852b00cb8a7a744481f2f37a7d5af",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

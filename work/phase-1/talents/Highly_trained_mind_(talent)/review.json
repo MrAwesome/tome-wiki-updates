@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "08c95d66e1cfeea9a7738c1a4366acf31542347df8a97563992c388ef22bd5ad",
+    "revid": 1783
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Highly_trained_mind_(talent)",
+    "kind": "talent",
+    "pageid": 1433,
+    "wiki_title": "Highly trained mind (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "9607c9c930988d91dc4a3c16d2e67e5c0254a587952c4989a572a214c6a6529d",
+    "source_sha256": "d1e5f81f1bad338ea712b6d4dc9f578b847db88327cf1827014465940977a6b6",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "9607c9c930988d91dc4a3c16d2e67e5c0254a587952c4989a572a214c6a6529d",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

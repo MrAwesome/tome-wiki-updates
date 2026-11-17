@@ -1,0 +1,13 @@
+{{Ability_box
+|game_version=1.7.6
+|image=Tf_unity.png
+|name=Thought-form unity
+|category_type=[[Psionic (category type)|Psionic]]
+|category=[[Thought-forms (category)|Thought-forms]]
+|require={{TalentReq/PsiWilReq4}}
+|use_mode=Passive
+|desc=
+You now gain {{ctmd|5|15}} mind speed while Thought-Form: Bowman is active, {{ctmd|10|30}} Mindpower while Thought-Form: Warrior is active, and {{ctmd|1|10}} resist all while Thought-Form: Defender is active. 
+
+These bonuses scale with your Mindpower.
+}}

@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "9c4a1c00b2b7012c7ab88997d53090ff047e48d1dc01b294fdc385cdd91ab7d6",
+    "revid": 11596
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:58Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Dimensional_step_(talent)",
+    "kind": "talent",
+    "pageid": 1472,
+    "wiki_title": "Dimensional step (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "66f6e748d836fe09178f7f1ee90b2032a0fe514ab067ed5c90c93227ed1f02ab",
+    "source_sha256": "71dfb0690a1f36b6189188259bcda0f1a6cb13796ade69a3b9b11d098783ab41",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:58Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "66f6e748d836fe09178f7f1ee90b2032a0fe514ab067ed5c90c93227ed1f02ab",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

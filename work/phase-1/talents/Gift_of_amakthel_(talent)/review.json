@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "9bb4018c0af7186379a4317fc56f1925cae3bae7fb204c095c0381d03fab5bcb",
+    "revid": 12844
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Gift_of_amakthel_(talent)",
+    "kind": "talent",
+    "pageid": 2959,
+    "wiki_title": "Gift of amakthel (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "5593ff7228ac24ba10e3bf833acc91ea791f00e255d1aefb485f2cfdbd576d45",
+    "source_sha256": "dc640c1af5d22a45472d843380c9de01334530b3831bd2b9fe88ee0cba3abc23",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "5593ff7228ac24ba10e3bf833acc91ea791f00e255d1aefb485f2cfdbd576d45",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

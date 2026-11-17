@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "770a5e8bdd581f2fe6eef267982f683ad47bf172458a852ca1b85c2fcce22d0d",
+    "revid": 12473
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:58Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Demon_blade_(talent)",
+    "kind": "talent",
+    "pageid": 3682,
+    "wiki_title": "Demon blade (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "c902549677787212cad25fa8090575cfc7f1898af7c11b88786b45c908203299",
+    "source_sha256": "8de1db047d8a879585ef1a99e08039c4c9a664880fc18c51a8aaa0144a49ec55",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:58Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "c902549677787212cad25fa8090575cfc7f1898af7c11b88786b45c908203299",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

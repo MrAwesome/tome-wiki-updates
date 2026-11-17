@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "5513b9ffe1a47389cdb1b1c68d856d96d210ce010ee11347555c3ad36173a8da",
+    "revid": 8254
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "baseline_preserved"
+    }
+  ],
+  "identity": {
+    "filename": "Gesture_of_malice_(talent)",
+    "kind": "talent",
+    "pageid": 1339,
+    "wiki_title": "Gesture of malice (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "baseline_preserved",
+    "candidate_page_sha256": "5513b9ffe1a47389cdb1b1c68d856d96d210ce010ee11347555c3ad36173a8da",
+    "source_sha256": "ec67cf2554c7a4485d255ed73372281c8247a2b34e313c2a26daa115279264b8",
+    "status": "unsupported_info",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "5513b9ffe1a47389cdb1b1c68d856d96d210ce010ee11347555c3ad36173a8da",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

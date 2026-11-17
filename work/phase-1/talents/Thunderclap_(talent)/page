@@ -1,0 +1,15 @@
+{{Ability box
+|game_version=1.7.6
+|name=Thunderclap
+|image=Thunderclap.png
+|category_type={{ct|Spell}}
+|category={{c|Energy Alchemy}}
+|require={{TalentReq/SpellsReq3}}
+|range={{cts|3|8}}
+|cost=40 Mana
+|cooldown=12
+|desc=
+By crushing an alchemist gem you generate a thunderclap in a cone of radius {{cts|3|8}} dealing {{ctspd|5|125}} physical damage and {{ctspd|5|125}} lightning damage.
+All creatures caught inside are knocked back and disarmed for {{gtl|1|5}} turns.
+The duration and damage will increase with your Spellpower.
+}}

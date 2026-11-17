@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "601f102983dbb1ca56f38245659701f97792291c0bd4c8326929dd92e312808d",
+    "revid": 19367
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Lord_of_skulls_(talent)",
+    "kind": "talent",
+    "pageid": 5564,
+    "wiki_title": "Lord of skulls (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "8736967cab37ced8955fd34edf1a8b0322f038f1f960d99df89f31ce222616be",
+    "source_sha256": "4318c0328da28c7a7767bf96027d8ccc449ab120b17558d8af699a6a6a05d170",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "8736967cab37ced8955fd34edf1a8b0322f038f1f960d99df89f31ce222616be",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

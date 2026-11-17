@@ -1,0 +1,18 @@
+{{Ability box
+|game_version=1.7.6
+|image=Prismatic slash.png
+|name=Prismatic Slash
+|category_type={{ct|Wild-Gift}}
+|category={{c|Higher Draconic Abilities}}
+|require={{TalentReq/GiftsReqHigh1}}
+|cost=20 Equilibrium
+|cooldown=16
+|range=1
+|desc=
+Unleash raw, chaotic elemental damage upon your enemy.
+You strike your enemy for {{ctwd|120|200%}} weapon damage in one of blinding sand, disarming acid, freezing and slowing ice, dazing lightning or stunning flames, with equal odds.
+Additionally, you will cause a burst that deals {{ctmd|20|230}} of that damage to creatures in radius {{cts|1|3}}, regardless of if you hit with the blow.
+Levels in Prismatic Slash increase your Physical and Mental attack speeds by {{cts|2|10%|0.5}}.
+
+This talent will also attack with your shield, if you have one equipped.
+}}

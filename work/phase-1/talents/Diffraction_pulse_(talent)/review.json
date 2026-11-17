@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "087b0aaf87fa272d6d31fcb0cf1e74868622185ba75ad22e0b51766a371ebab5",
+    "revid": 22547
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:58Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Diffraction_pulse_(talent)",
+    "kind": "talent",
+    "pageid": 6971,
+    "wiki_title": "Diffraction pulse (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "6c6844cbfe42559f5f0d68a296189fa879e8977c1e7552743e6eba3033b2162e",
+    "source_sha256": "972f949d6cab2c8040bf554bb944d96ecc4ca79d4b25363ba43a1c980bf04eff",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:58Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "6c6844cbfe42559f5f0d68a296189fa879e8977c1e7552743e6eba3033b2162e",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

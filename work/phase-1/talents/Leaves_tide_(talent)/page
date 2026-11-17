@@ -1,0 +1,26 @@
+{{Ability box
+|game_version=1.7.4
+|image=Leaves tide.png
+|name=Leaves Tide
+|category_type={{ct|Wild-Gift}}
+|category={{c|Mindstar Mastery}}
+|require={{TalentReq/GiftsReq3}}
+|cost=20 Equilibrium
+|cooldown=25
+|use_speed=Mind
+|desc=
+Smash your psiblades into the ground, creating a tide of crystallized leaves circling you in a radius of 3 for 7 turns.
+
+All foes hit by the leaves will start bleeding for (5 + {{ctmd|5|35}}) per turn (cumulative).
+
+All allies hit will be covered in leaves, granting them (10 + {{ctmd|3|25}})% chance to completely avoid any damaging attack (max 50%).
+
+Damage and avoidance will increase with your Mindpower.
+
+If you have two mindstars equipped, then:
+
+* Damage will be multiplied by (1 + (Sum of Mindstar Base Damages) / 50 )
+* Avoidance chance will be multiplied by (1 + (Sum of Mindstar Base Damages) / 112.5).
+|avail.shops=[[Zigur]] ([[Age of Ascendancy]]) via [[Talent#Additional Talent Sources|purchasing]] {{c|Mindstar Mastery}}
+|avail.escorts=[[Escorts#Alchemist_.28Arcane.29|Alchemist (Arcane)]] ([[Escorts#Betraying_to_Zigur|Betray Escort to Zigur]]), via revealing the locked {{c|Mindstar Mastery}} category
+}}

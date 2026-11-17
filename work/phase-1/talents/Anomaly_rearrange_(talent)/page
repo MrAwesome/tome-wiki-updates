@@ -1,0 +1,15 @@
+{{Ability box
+|game_version=1.7.6
+|image=Anomaly rearrange.png
+|name=Anomaly Rearrange
+|category_type={{ct|Chronomancy}}
+|category={{c|Anomaly}}
+|require=Prodigy; [[Prodigy|Temporal Form]] -> Talent: [[Temporal_form_(talent)]]
+|cost=none
+|cooldown=0
+|range=10
+|use_speed=Spell
+|desc=
+Teleports up to five targets in a radius of {{cl|Spellpower|6|2|20|4|100}}, up to ten tiles away.
+
+}}

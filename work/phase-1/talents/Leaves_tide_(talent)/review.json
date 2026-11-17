@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "da947c9a6a0f9714c28d3330e3b6e9c88bca5d18edb323a88f9199e7b6a20548",
+    "revid": 23005
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "baseline_preserved"
+    }
+  ],
+  "identity": {
+    "filename": "Leaves_tide_(talent)",
+    "kind": "talent",
+    "pageid": 1477,
+    "wiki_title": "Leaves tide (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "baseline_preserved",
+    "candidate_page_sha256": "da947c9a6a0f9714c28d3330e3b6e9c88bca5d18edb323a88f9199e7b6a20548",
+    "source_sha256": "63c2d1b792fcf77aeca8643cd0ffbb8d55325f1ce0aed7edd3db08cd8a26227e",
+    "status": "unsupported_info",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "da947c9a6a0f9714c28d3330e3b6e9c88bca5d18edb323a88f9199e7b6a20548",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

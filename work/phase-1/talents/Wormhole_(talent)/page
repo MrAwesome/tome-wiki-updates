@@ -1,0 +1,17 @@
+{{Ability box
+|game_version=1.4.5
+|image=Wormhole.png
+|name=Wormhole
+|category_type={{ct|Chronomancy}}
+|category={{c|Spacetime Weaving}}
+|require={{TalentReq/ChronoReq3}}
+|range=10
+|cost=10 Paradox
+|cooldown=10
+|desc=
+You fold the space between yourself and a second point within a range of 10, creating a pair of wormholes.  Any creature stepping on either wormhole will be teleported near the other (radius {{ctl|1|5|2}} accuracy).  
+The wormholes will last {{cts|6|10}} turns and must be placed at least two tiles apart.
+The chance of teleporting enemies will scale with your Spellpower.
+
+''Note: Wormholes can be placed in areas that otherwise prohibit teleporation (e.g. vaults), and they will be traversable so long as your destination square allows teleportation.''
+}}

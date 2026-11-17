@@ -1,0 +1,20 @@
+{{Ability_box
+|image=finger_of_death.png
+|name=Finger of Death
+|game_version=1.7.6
+|category_type={{ct|Psionic}}
+|category={{c|Psionic Menace}}
+|require={{TalentReq/PsiWilReq4}}
+|use_mode=Activated
+|range=7
+|cost=50 Psi
+|cooldown=13
+|travel_speed=Instantaneous
+|use_speed=Mind
+|desc=
+You point your ghastly finger at a foe affected by Ghastly Wail and send a psionic impulse to tell it to simply die.
+The target will take {{cts|25|90%}} of the life it already lost as mind damage.
+On targets of rank boss or higher the damage is limited to {{ctmd|50|1000}}.
+If the target dies from the Finger and is of a type you can already absorb it is directly absorbed into your bodies reserve.
+If you do not have two mindstars equiped, but have them in your off set, you instantly automatically switch. The wild psionic powers are incompatible with the focused nature of psiblades.
+}}

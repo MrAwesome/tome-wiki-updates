@@ -1,0 +1,13 @@
+{{Ability box
+|image=Shield_slam_2017.png
+|name=Shield Slam
+|category_type={{ct|Technique}}
+|category={{c|Shield Offense}}
+|require={{TalentReq/TechsReq3}}
+|cost=12 Stamina
+|cooldown=10
+|desc=
+Hit your target with your shield 3 times for {{ctwd|30|100%}} damage then quickly return to a blocking position.  The bonus block will not check or trigger {{t|Block}} cooldown.
+
+''Note: The effective talent level here is increased by half your talent level in {{t|Shield Expertise}} for the purpose of all shield damage calculations.''
+}}

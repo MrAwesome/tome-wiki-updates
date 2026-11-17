@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "53fa1e9067a96f0ca0ad4ea86fbe45c192a82bff1a9da621590f13ecd64fa5ab",
+    "revid": 11069
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Superb_agility_(talent)",
+    "kind": "talent",
+    "pageid": 3234,
+    "wiki_title": "Superb agility (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "cb2ad8a2a9d9806d2c5a85ddf0efde9c80fecee71b42dff4353fa08f5d4ce119",
+    "source_sha256": "1a1dff2cf9cc9985dc2d8afa0f1eb297d7f777d3cbbeb438dbbde75ee6e296a1",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "cb2ad8a2a9d9806d2c5a85ddf0efde9c80fecee71b42dff4353fa08f5d4ce119",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

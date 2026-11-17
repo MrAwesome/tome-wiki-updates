@@ -1,0 +1,15 @@
+{{Ability box
+|game_version=1.7.6
+|image=Shoot.png
+|name=Shoot
+|category_type={{ct|Technique}}
+|category={{c|Archery - Base}}
+|range=Archery Range
+|use_speed=Weapon Speed
+|desc=
+Shoot your bow, sling or other missile launcher!
+
+''Note: This talent can be [[Talent#Additional Talent Sources|purchased]] at any weapon store in [[Last Hope]] or [[Kruk Pride]].''
+|avail.classes=[[Archer]], [[Skirmisher]], [[Temporal Warden]], [[Gunslinger]], [[Psyshot]], [[Annihilator]], [[Adventurer]], [[Wanderer]]
+|avail.shops=[[Last hope]] ([[Age of Ascendancy]]), [[Kruk Pride]] ([[Embers of Rage]])
+}}

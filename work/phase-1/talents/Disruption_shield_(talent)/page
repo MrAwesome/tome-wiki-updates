@@ -1,0 +1,23 @@
+{{Ability box
+|image=Disruption shield.png
+|name=Disruption Shield
+|category_type={{ct|Spell}}
+|category={{c|Arcane}}
+|require={{TalentReq/SpellsReq4}}
+|use_mode=Sustained
+|cost=10 Mana
+|cooldown=30
+|use_speed=0
+|desc=
+Surround yourself with arcane forces, disrupting any attempts to harm you and instead generating mana.
+
+Generates (3 - {{ctspd|10|200}} / 100) mana (minimum 0.5) per damage point taken. The {{t|Shielding}} talent affects this ratio.
+
+If your mana is brought too high by the shield, it will de-activate and the chain reaction will release a deadly arcane storm around you with radius 3 for 10 turns, dealing 10% of the damage absorbed over the sustain's duration each turn, up to a maximum total damage of (2 * Max Mana Before Sustains).
+
+While the arcane storm rages, you also gain (50 + {{ctspd|10|500}} / 10)% arcane resistance.
+
+Only usable when below 25% mana.
+
+The mana generated per damage received decreases with your Spellpower.
+}}

@@ -1,0 +1,22 @@
+{{Ability box
+|image=Dreamforge.png
+|name=Dreamforge
+|category_type={{ct|Psionic}}
+|category={{c|Dream Forge}}
+|require={{TalentReq/PsiWilHigh4}}
+|use_mode=Sustained
+|cost=50 Psi
+|cooldown=12
+|desc=
+The pounding forge of thought in your mind is released upon your surroundings.  Each turn that you remain stationary, you'll strike the dreamforge, inflicting mind and burning damage on enemies around you.
+
+The effect will build over five turns, until it reaches a maximum radius of (1 + Talent Level / 3) up to 5, and maximum damage of {{ctmd|5|30}}, split evenly between mind and burning.
+
+At this point you'll begin breaking the dreams of enemies who hear the forge, reducing their Mental Save by {{ctmd|5|25}} and giving them a chance of spell failure due to the tremendous echo in their minds for {{cts|1.5|3.5}} turns.
+
+The chance for spell failure is {{cl|{{ctmd|5|25}}|67%|0|0|16.34%|16.34}}.
+
+Broken Dreams has a {{ctl|100%|5|25%}} chance to brainlock your enemies.
+
+The damage and dream breaking effect will scale with your Mindpower.
+}}

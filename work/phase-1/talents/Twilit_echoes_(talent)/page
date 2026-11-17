@@ -1,0 +1,19 @@
+{{Ability box
+|name = Twilit Echoes
+|game_version = 1.7.6
+|embers_version = 1.1.10
+|category_type = {{ct|Celestial}}
+|category = {{c|Void (celestial)}}
+|require = {{TalentReq/DiviReqHigh2}}
+|cooldown = ?
+|cost = 20 Positive energy + 20 Negative energy
+|range = 7
+|use_speed = Spell
+|desc = The target feels the echoes of all your light and dark damage for {{cts|4|8}} turns. 
+
+Light damage slows the target by 0.1% per point of damage dealt for 3 turns, up to a maximum of {{ctspd|15|40%}} at {{ctspd|150|400}} damage.
+
+Dark damage creates an effect at the tile for 3 turns which deals {{cts|7.5|15%}} of the damage dealt each turn. It will be refreshed as long as the target continues taking damage from it or another source while Twilit Echoes is active, dealing its remaining damage over the new duration as well as the new damage.
+
+''Note: seems unfinished and currently unused. Listed as the second talent in Celestial/Void and uses requirements that match that, but it's probably supposed to be the third because another 2nd talent exists and a 3rd does not.''
+}}

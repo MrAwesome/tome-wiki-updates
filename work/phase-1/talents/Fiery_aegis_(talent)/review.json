@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "c15ec86f122efa5bf4b536c2efa70cdd179f6db3db5de6550009bd2943cbb8ca",
+    "revid": 10636
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "baseline_preserved"
+    }
+  ],
+  "identity": {
+    "filename": "Fiery_aegis_(talent)",
+    "kind": "talent",
+    "pageid": 3751,
+    "wiki_title": "Fiery aegis (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "baseline_preserved",
+    "candidate_page_sha256": "c15ec86f122efa5bf4b536c2efa70cdd179f6db3db5de6550009bd2943cbb8ca",
+    "source_sha256": "9169ec6910a96af6ce469ef88c4b257165955f96ce7828c8508e2d36372a92b5",
+    "status": "unsupported_info",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "c15ec86f122efa5bf4b536c2efa70cdd179f6db3db5de6550009bd2943cbb8ca",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

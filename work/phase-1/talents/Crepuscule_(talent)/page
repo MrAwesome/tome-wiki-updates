@@ -1,0 +1,18 @@
+{{Ability_box
+|game_version = 1.7.6
+|name = Crepuscule
+|image = crepuscule.png
+|category_type={{ct|Spell}}
+|category={{c|Age of Dusk}}
+|require = {{TalentReq/SpellsReqHigh2}}
+|cost = 30 Mana, 2 Souls
+|range = 7
+|cooldown = 20
+|use_speed = Spell
+|desc = 
+You call upon an eerie night to aid you for {{cts|3|8}} turns.
+
+Each turn you automatically fire a beam of darkness towards a random foe (prioritizing the ones further away) that deals {{ctspd|20|170}} darkness damage and has 25% chance to blind any foes caught inside for 4 turns.
+
+The damage will increase with your Spellpower.
+}}

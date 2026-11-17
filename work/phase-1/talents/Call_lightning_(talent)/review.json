@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "44d40f67abd952650578d13a0d002265e362d0d9875323a10f6f9918da20ca28",
+    "revid": 15344
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:58Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Call_lightning_(talent)",
+    "kind": "talent",
+    "pageid": 2967,
+    "wiki_title": "Call lightning (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "896b2885be58c7b7c6d19c0644d512b2ed9410980a7aae98157b0e04362f47f6",
+    "source_sha256": "dc640c1af5d22a45472d843380c9de01334530b3831bd2b9fe88ee0cba3abc23",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:58Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "896b2885be58c7b7c6d19c0644d512b2ed9410980a7aae98157b0e04362f47f6",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

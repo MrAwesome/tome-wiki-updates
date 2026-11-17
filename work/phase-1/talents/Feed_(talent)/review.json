@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "fe6543930a794b43a17f89c34944b37305778ad02b6de13b5fb7ac884863f984",
+    "revid": 8248
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "baseline_preserved"
+    }
+  ],
+  "identity": {
+    "filename": "Feed_(talent)",
+    "kind": "talent",
+    "pageid": 1252,
+    "wiki_title": "Feed (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "baseline_preserved",
+    "candidate_page_sha256": "fe6543930a794b43a17f89c34944b37305778ad02b6de13b5fb7ac884863f984",
+    "source_sha256": "d4aeee3a3af35aad4576eadb78e716ab026f62c61dcbb878056042ad1295d02e",
+    "status": "unsupported_info",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "fe6543930a794b43a17f89c34944b37305778ad02b6de13b5fb7ac884863f984",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

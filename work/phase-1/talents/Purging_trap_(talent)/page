@@ -1,0 +1,14 @@
+{{Ability box
+|image=Purging trap.png
+|name=Purging Trap
+|category_type={{ct|Cunning}}
+|category={{c|Trapping}}
+|require={{t|Trap Mastery}} Level 1
+|cooldown=15
+|cost=20 Stamina
+|range=Trap Range
+|desc= Lay a trap that releases a burst of antimagic energies (radius 2), draining up to %d mana, %d vim, %d positive and %d negative energies from affected targets, while inflicting up to %0.2f arcane damage based on the resources drained, silencing for %d turns, and removing up to %d beneficial magical effects or sustains.
+		The draining effect scales with your Willpower, and you must have 25 Willpower to prepare this trap.
+		This trap can use a primed trigger and a high level lure can trigger it.
+
+}}

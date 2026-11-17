@@ -1,0 +1,10 @@
+{{Ability_box
+|name=Throw Boulder
+|category_type=[[NPC Only (category type)|NPC Only]]
+|category=-
+|cost=5 Equilibrium
+|range=10
+|cooldown=3
+|image=Throw boulder.png
+|desc=Throws a huge boulder at a target, damaging it for 146.16 and knocking it back 6 tiles. The damage will increase with your Strength.
+}}

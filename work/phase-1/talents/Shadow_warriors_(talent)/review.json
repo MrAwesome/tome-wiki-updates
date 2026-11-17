@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "780d7587a7a090816ce3c9244df25b1fe9dce3857e93701b9301b43fc4680e5e",
+    "revid": 8235
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "baseline_preserved"
+    }
+  ],
+  "identity": {
+    "filename": "Shadow_warriors_(talent)",
+    "kind": "talent",
+    "pageid": 1118,
+    "wiki_title": "Shadow warriors (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "baseline_preserved",
+    "candidate_page_sha256": "780d7587a7a090816ce3c9244df25b1fe9dce3857e93701b9301b43fc4680e5e",
+    "source_sha256": "afba9045c77c2fd6c8873ba0b48d49ccf697df0bf405f25994a43843fed9fed5",
+    "status": "unsupported_info",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "780d7587a7a090816ce3c9244df25b1fe9dce3857e93701b9301b43fc4680e5e",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

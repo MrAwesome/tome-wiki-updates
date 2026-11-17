@@ -1,0 +1,12 @@
+{{Ability_box
+|game_version=1.7.6
+|image=skirmisher_the_eternal_warrior.png
+|name=The Eternal Warrior
+|category_type={{ct|Technique}}
+|category={{c|Tireless Combatant}}
+|require={{TalentReq/TechsWilReq4}}
+|use_mode=Passive
+|desc=
+For each turn you spend stamina, you gain {{cts|0.7|2.5%}} resist all and 5% all resistances cap for 3 turns. The buff stacks up to 5 times, and each new application refreshes the duration.
+Additionally, at talent level 5 and above, {{t|Breathing Room}} and {{t|Dauntless Challenger}} are {{gtl|1|1.2}} more effective.
+}}

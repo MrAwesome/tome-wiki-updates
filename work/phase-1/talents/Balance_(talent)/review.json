@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "b2022e7293cec2b8d677c527ce91c4388f7bc15058b5a6bf11bd6486ed0e0416",
+    "revid": 8669
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:58Z",
+      "event": "deterministic_render_applied",
+      "reason": "baseline_preserved"
+    }
+  ],
+  "identity": {
+    "filename": "Balance_(talent)",
+    "kind": "talent",
+    "pageid": 1111,
+    "wiki_title": "Balance (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "baseline_preserved",
+    "candidate_page_sha256": "b2022e7293cec2b8d677c527ce91c4388f7bc15058b5a6bf11bd6486ed0e0416",
+    "source_sha256": "c5a3b13b26df9fd109926706b25a95cedc3e8204b91ac97afeac08ec2448e4e8",
+    "status": "unsupported_info",
+    "updated_at": "2026-11-08T16:08:58Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "b2022e7293cec2b8d677c527ce91c4388f7bc15058b5a6bf11bd6486ed0e0416",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

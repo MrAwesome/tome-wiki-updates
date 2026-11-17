@@ -1,0 +1,14 @@
+{{Ability box
+|name=Chant Radiant
+|image=Chant_of_light.png
+|game_version=1.7.6
+|category_type={{ct|Celestial}}
+|category={{c|Chants}}
+|require={{TalentReq/DiviReq4}}
+|use_mode=Passive
+|desc=
+Your passion for singing the praises of the Sun reaches its zenith.
+Your Chanting now increases your light and fire damage by {{ctspd|10|30}} and, up to {{cts|1|3}} times per turn when you are hit by a weapon attack, you will gain {{cts|2|5}} Positive Energy.
+These values scale with your Spellpower.
+|avail.escorts=[[Escorts#Sun_Paladin_.28Arcane.29|Sun Paladin (Arcane)]] (Normal Escort Reward), via revealing the locked {{c|Chants}} category
+}}

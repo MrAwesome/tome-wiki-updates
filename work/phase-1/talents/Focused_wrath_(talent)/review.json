@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "0b4aa59fe3d921a99cd4b1fb7f04d54b91973d65475448dfe40f4ff019e4afc5",
+    "revid": 7768
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Focused_wrath_(talent)",
+    "kind": "talent",
+    "pageid": 1640,
+    "wiki_title": "Focused wrath (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "96c401a8787440bc6e131fd4bea8dd46669c822fb5040085195099746bdbd918",
+    "source_sha256": "5724174a576013c817f9463b0ee1c0140a78d9a685c6b0502c037f9fbc065230",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "96c401a8787440bc6e131fd4bea8dd46669c822fb5040085195099746bdbd918",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

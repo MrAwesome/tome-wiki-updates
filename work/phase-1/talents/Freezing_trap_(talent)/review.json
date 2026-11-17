@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "3c9126135dac1d1db5cd51d9912e899ef7ec9688795f72b924f00da02341a2b6",
+    "revid": 19802
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "baseline_preserved"
+    }
+  ],
+  "identity": {
+    "filename": "Freezing_trap_(talent)",
+    "kind": "talent",
+    "pageid": 6170,
+    "wiki_title": "Freezing trap (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "baseline_preserved",
+    "candidate_page_sha256": "3c9126135dac1d1db5cd51d9912e899ef7ec9688795f72b924f00da02341a2b6",
+    "source_sha256": "cad2fa64c07f8ae38f30c2e5d49b58356d70d052108aa419d10433e65ce08947",
+    "status": "unsupported_info",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "3c9126135dac1d1db5cd51d9912e899ef7ec9688795f72b924f00da02341a2b6",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

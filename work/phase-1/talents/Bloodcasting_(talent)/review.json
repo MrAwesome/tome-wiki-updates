@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "5b98aa34df43dd5c9f5ccfdbb49ed85ba2440374b1b1ce964b41f64993509820",
+    "revid": 18521
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:58Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Bloodcasting_(talent)",
+    "kind": "talent",
+    "pageid": 2101,
+    "wiki_title": "Bloodcasting (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "824ece07d64adaf755ca71a75554e3760c52026f8c33c4ab755cc42e12250d10",
+    "source_sha256": "ec2130a4fd34f03b1dbf17afd72633429ff34fe78e72af1593128d640d9ae12c",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:58Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "824ece07d64adaf755ca71a75554e3760c52026f8c33c4ab755cc42e12250d10",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

@@ -1,0 +1,17 @@
+{{Ability box
+|image=Pin_down.png
+|name=Pin Down
+|game_version=1.7.6
+|category_type={{ct|Technique}}
+|category={{c|Archery Training}}
+|require={{TalentReq/TechsDexReq2}}
+|cost=10 Stamina
+|range=Archery Range
+|cooldown=9
+|travel_speed=Instantaneous
+|use_speed=Archery
+|desc=
+You fire a shot for {{ctwd|100|140%}} damage that attempts to pin your target to the ground for {{cts|2|5}} turns, as well as giving your next Steady Shot or Shoot 100% increased chance to critically hit and mark (regardless of whether the pin succeeds).
+This shot has a 20% chance to mark the target.
+The chance to pin increases with your Accuracy.
+}}

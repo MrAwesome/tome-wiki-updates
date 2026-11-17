@@ -1,0 +1,14 @@
+{{Ability box
+|image=Slow.png
+|name=Slow
+|category_type={{ct|Chronomancy}}
+|category={{c|Speed Control}}
+|require={{TalentReq/ChronoReq3}}
+|range=6
+|cost=15 Paradox
+|cooldown=24
+|desc=
+Creates a time distortion in a radius of {{cts|2.25|3.25}} that lasts for {{cts|6|10}} turns, decreasing global speed by (10 + {{ctspd|10|50|PM}})% for 3 turns{{sup|max 60%}}, and inflicting {{ctspd|20|60|PM}} temporal damage each turn to all targets within the area.
+
+The slow effect and damage dealt will scale with your Paradox and Spellpower.
+}}

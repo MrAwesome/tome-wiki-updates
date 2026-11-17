@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "a81132b559c703d654ff71542a9704d3d21cede76b51466704d53b18700f8890",
+    "revid": 16907
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:58Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Black_ice_(talent)",
+    "kind": "talent",
+    "pageid": 5579,
+    "wiki_title": "Black ice (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "2cf4d389d8aa9585a0bbb7fd18b373c4a6b40f7bb634614937cad277fb016f1a",
+    "source_sha256": "9b1026424020329039b8eb7fe6db66f92758840156894114bcdba7173c2dea11",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:58Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "2cf4d389d8aa9585a0bbb7fd18b373c4a6b40f7bb634614937cad277fb016f1a",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

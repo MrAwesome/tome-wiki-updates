@@ -1,0 +1,24 @@
+{{Ability_box
+|name=Master of Disasters
+|image=Master of Disasters.png
+|category_type=[[Prodigies]]
+|category=[[Prodigies#Cunning|Cunning]]
+|game_version=1.7.6
+|require=Cunning 50
+|use_mode=Passive
+|desc=
+You are adept at wreaking havoc onto your foes!
+
+Any time you deal damage to a creature you apply the Incoming Disasters effect for 20 turns.
+
+Each time you (or any others) would try to apply a [[Effect#Cross-tier_Effects|cross-tier effect]] to this creature, you also try to apply the other two.
+
+In addition your physical, steam, spell and mind powers are increased by 20 + 0.6 × Cunning, rounded down.
+
+The powers increase scales of your Cunning.<!-- The game's own weird wording. -->
+}}
+===Notes===
+*The two extra cross-tier effects use the same power as the original one, but each is checked against its own save. They are attempted even if the original effect fails to apply.
+*Incoming Disasters cannot be resisted, and it also works for cross-tier effects caused by your allies.
+
+<noinclude>[[Category: Embers of Rage]]</noinclude>

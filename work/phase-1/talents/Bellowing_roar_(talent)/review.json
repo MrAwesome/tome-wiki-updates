@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "c0f91e873e8e17c8fbf84119de410ca2089fb60bc646b5192a87b6396e8043b7",
+    "revid": 10439
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:58Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Bellowing_roar_(talent)",
+    "kind": "talent",
+    "pageid": 1388,
+    "wiki_title": "Bellowing roar (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "6c2f5d2359a73ca8a50c630ea418e9a011f63f7ec8ef0570b8b0894abcbd925a",
+    "source_sha256": "41115da033196dc5b613039f566e1d6ab7827d1116107bf2f68434fa7c1417d5",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:58Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "6c2f5d2359a73ca8a50c630ea418e9a011f63f7ec8ef0570b8b0894abcbd925a",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

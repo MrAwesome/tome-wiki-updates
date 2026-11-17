@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "694d5caa2755ba41eebdc2ed66c1fd8e29d175b6e11854d921bd0511cf93f380",
+    "revid": 22104
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "baseline_preserved"
+    }
+  ],
+  "identity": {
+    "filename": "Mindwave_(talent)",
+    "kind": "talent",
+    "pageid": 3988,
+    "wiki_title": "Mindwave (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "baseline_preserved",
+    "candidate_page_sha256": "694d5caa2755ba41eebdc2ed66c1fd8e29d175b6e11854d921bd0511cf93f380",
+    "source_sha256": "f4c50d76acf3466c75f743bfe9ba09c84019dfaa071e536873f70f45a01907d8",
+    "status": "unsupported_info",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "694d5caa2755ba41eebdc2ed66c1fd8e29d175b6e11854d921bd0511cf93f380",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

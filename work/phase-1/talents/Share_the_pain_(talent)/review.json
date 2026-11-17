@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "2381292a424effe21d3c99672533145afd29a82e0cce84dc28318e5ffa8a19ff",
+    "revid": 10622
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Share_the_pain_(talent)",
+    "kind": "talent",
+    "pageid": 3747,
+    "wiki_title": "Share the pain (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "9a35a480d68c4202fd11775fd02ff3f3c32b378c41ca6b0dbde9c21b68dc6132",
+    "source_sha256": "98445e8d729b25a81d276add49387ac07a1ce10b7cc8c5feae4a62e645c2552d",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "9a35a480d68c4202fd11775fd02ff3f3c32b378c41ca6b0dbde9c21b68dc6132",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

@@ -1,0 +1,16 @@
+{{Ability_box
+|image=Dominate.png
+|name=Dominate
+|category_type={{Ct|Cursed}}
+|category={{c|Strife}}
+|require={{TalentReq/CursedStrReq1}}
+|cooldown=8
+|cost=4 Hate
+|range=2.5
+|desc=
+Turn your attention to a nearby foe, and dominate them with your overwhelming presence. If the target fails to save versus your Mindpower, it will be unable to move for (2 + Talent Level) turns (maximum 6 turns) and vulnerable to attacks. They will lose {{ctstd|Wil|4|30}} Armour, {{ctstd|Wil|6|45}} Defense and your attacks will gain resistance penetration of {{cl|{{ctstd|Wil|30|80}}|100%|0|0|55%|55}}.
+
+If the target is adjacent to you, your domination will include a melee attack.
+
+Effects will improve with your Willpower.
+}}

@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "8e108e53665196d78c59490af678db11cce8a0ff929a83ded238d613f71a91ac",
+    "revid": 11877
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:58Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Bind_demon_(talent)",
+    "kind": "talent",
+    "pageid": 3659,
+    "wiki_title": "Bind demon (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "9d85a25fd6896d4ee3941118eda9efa503eae47e59dcd5068c708dd79dd50ea6",
+    "source_sha256": "5fc8f608455bd2075970c895df394ddd6d7d7c2a333d41c53e7fe478db346b5a",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:58Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "9d85a25fd6896d4ee3941118eda9efa503eae47e59dcd5068c708dd79dd50ea6",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

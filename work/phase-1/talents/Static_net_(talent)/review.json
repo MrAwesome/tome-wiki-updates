@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "c7ad992848c6b35f7c947c3813aa36d631e63d89f3ca4a9e55c90ed92a1ca72d",
+    "revid": 13913
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "baseline_preserved"
+    }
+  ],
+  "identity": {
+    "filename": "Static_net_(talent)",
+    "kind": "talent",
+    "pageid": 3400,
+    "wiki_title": "Static net (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "baseline_preserved",
+    "candidate_page_sha256": "c7ad992848c6b35f7c947c3813aa36d631e63d89f3ca4a9e55c90ed92a1ca72d",
+    "source_sha256": "bb66a96e051a649f6eaf9adc2a259d35d85b599ba1bb0df2ee37ed35d33edc01",
+    "status": "unsupported_info",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "c7ad992848c6b35f7c947c3813aa36d631e63d89f3ca4a9e55c90ed92a1ca72d",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

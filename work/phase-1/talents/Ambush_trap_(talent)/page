@@ -1,0 +1,12 @@
+{{Ability box
+|image=Ambush trap.png
+|name=Ambush trap
+|category_type={{ct|Cunning}}
+|category={{c|Trapping}}
+|require={{t|Trap Mastery}} Level 1
+|cooldown= 25
+|cost=20 Stamina
+|range=Trap Range
+|desc= Lay a magical trap that summons a trio of shadowy rogues to attack the target.
+The rogues receive your damage bonuses and are permanently stealthed.
+They disappear after %d turns or when their work is done.}}

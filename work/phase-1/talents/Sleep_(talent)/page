@@ -1,0 +1,21 @@
+{{Ability_box
+|image=Sleep.png
+|name=Sleep
+|category_type={{ct|Psionic}}
+|category={{c|Dreaming}}
+|require={{TalentReq/PsiWilReq1}}
+|use_mode=Activated
+|range=7
+|cost=5 Psi
+|cooldown=9 - Raw Talent Level (minimum of 4)
+|travel_speed=Instant
+|desc=
+Puts targets in a radius of {{cts|1.25|2.25}} to sleep for {{cts|2.1|3.5}} turns, rendering them unable to act.  Every {{ctmd|5|25}} points of damage the target suffers will reduce the effect duration by one turn.
+
+When Sleep ends, the target will suffer from Insomnia for a number of turns equal to the amount of time it was asleep (up to ten turns max), granting it 20% sleep immunity for each turn of the Insomnia effect.
+
+At talent level 5 Sleep will become contagious and has a 25%% chance to spread to nearby targets each turn.
+
+The damage threshold will scale with your Mindpower.
+|avail.escorts=[[Escorts#Temporal_Explorer_.28Arcane.29|Temporal Explorer (Arcane)]] ([[Escorts#Betraying_to_Zigur|Betray Escort to Zigur]]), +1 to talent or via revealing the locked {{c|Dreaming}} category
+}}

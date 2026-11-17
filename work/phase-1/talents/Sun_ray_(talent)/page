@@ -1,0 +1,17 @@
+{{Ability_box
+|image=sun_beam.png
+|name=Sun ray
+|category_type=[[Celestial (category type)|Celestial]]
+|category={{c|Sun}}
+|require={{TalentReq/DiviReq1}}
+|use_mode=Activated
+|range=7
+|cost=-16 Positive
+|cooldown=9
+|desc=
+Calls forth a beam of light from the Sun, doing {{ctspd|20|220}} Light damage to the target.
+
+At level 3 the beam will be so intense it will also blind the target and everyone in a radius 2 around it for {{cts|2|4}} turns.
+
+The damage dealt will increase with your Spellpower.
+}}

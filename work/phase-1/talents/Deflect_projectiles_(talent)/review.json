@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "18ba1e2434a453b60ed4e329417f6479ad8d49b73fb25ca3049b55095f86e326",
+    "revid": 7910
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:58Z",
+      "event": "deterministic_render_applied",
+      "reason": "baseline_preserved"
+    }
+  ],
+  "identity": {
+    "filename": "Deflect_projectiles_(talent)",
+    "kind": "talent",
+    "pageid": 1493,
+    "wiki_title": "Deflect projectiles (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "baseline_preserved",
+    "candidate_page_sha256": "18ba1e2434a453b60ed4e329417f6479ad8d49b73fb25ca3049b55095f86e326",
+    "source_sha256": "6716ed63275e4a57b3d2f27b9cf613fa56fe22818557b45207494e88716b73a5",
+    "status": "unsupported_info",
+    "updated_at": "2026-11-08T16:08:58Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "18ba1e2434a453b60ed4e329417f6479ad8d49b73fb25ca3049b55095f86e326",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

@@ -1,0 +1,14 @@
+{{Ability box
+|image=Uttercold_2017.png
+|name=Uttercold
+|category_type={{ct|Spell}}
+|category={{c|Ice}}
+|require={{TalentReq/SpellsReqHigh4}}
+|use_mode=Sustained
+|cost=50 Mana
+|cooldown=30
+|desc=
+Surround yourself with Uttercold, increasing all your cold damage by (2 * Raw Talent Level)% and ignoring {{ctl|100%|17|50%}} cold resistance of your targets
+
+In addition you pierce through iceblocks easily, reducing damage absorbed from your attacks by iceblocks by (20 * Raw Talent Level)%.
+}}

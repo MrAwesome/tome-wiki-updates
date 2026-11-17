@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "9a17c68784b7054e113bb6d94f356800b73d33383e168e73b3c7db315e78b40f",
+    "revid": 18615
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Halo_of_ruin_(talent)",
+    "kind": "talent",
+    "pageid": 5905,
+    "wiki_title": "Halo of ruin (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "bf85f0c4af76039874c970470a76aa1a70c2c795df9adf8315f54dba4711bf5c",
+    "source_sha256": "4ee9687b048c9f911046444d2de07ce39515094dc7829ef5a9ab17e9b75c2688",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "bf85f0c4af76039874c970470a76aa1a70c2c795df9adf8315f54dba4711bf5c",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

@@ -1,0 +1,11 @@
+{{Ability_box
+|image=Shield expertise.png
+|name=Shield Expertise
+|game_version=1.7.6
+|category_type={{ct|Technique}}
+|category={{c|Shield Defense}}
+|require={{TalentReq/TechsReq3}}
+|use_mode=Passive
+|desc=
+Improves your damage with shield-based skills, and increases your Spell (+{{cts|3|10|0.75}}) and Physical (+{{cts|5|20|0.75}}) Saves.
+}}

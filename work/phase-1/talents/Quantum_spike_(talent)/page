@@ -1,0 +1,17 @@
+{{Ability box
+|game_version=1.7.6
+|image=Quantum spike.png
+|name=Quantum Spike
+|category_type={{ct|Chronomancy}}
+|category={{c|Matter}}
+|require={{TalentReq/ChronoReq4}}
+|cost=20 Paradox
+|cooldown=4
+|range=10
+|desc=
+Attempts to pull the target apart at a molecular level, inflicting {{ctspd|15|150|PM}} temporal damage and {{ctspd|15|150|PM}} physical damage.  If the target ends up with low enough life (<20%), it might be instantly killed.
+Quantum Spike deals 50% additional damage to targets affected by temporal destabilization and/or continuum destabilization.
+The damage will scale with your Spellpower.
+}}
+
+'''Note: Here for historical information only, no longer part of the {{c|Matter}} category'''

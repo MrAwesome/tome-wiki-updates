@@ -1,0 +1,15 @@
+{{Ability_box
+|image=Imbue item.png
+|name=Imbue item
+|category_type=[[Spell (category type)|Spell]]
+|category=[[Stone alchemy (category)|Stone Alchemy]]
+|require={{TalentReq/SpellsReq2}}
+|use_mode=Activated
+|cost=80 [[Mana]]
+|cooldown=100
+|desc=
+Imbue a body armor up to tier (Raw Talent Level) with a [[Gem|gem]], granting it additional powers.<br />
+You can only imbue items once, and it is permanent.
+|avail.classes=[[Alchemist]], [[Stone Warden]]
+|avail.escorts=[[Escorts#Alchemist_.28Arcane.29|Alchemist (Arcane)]] (Normal Escort Reward), via revealing the locked {{c|Stone Alchemy}} category
+}}

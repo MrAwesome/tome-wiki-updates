@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "7c3cecdbfb6d534eed1c1aee813399b19ac6d3ff1ee2ffe43574227756b4dee3",
+    "revid": 7582
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Tactical_expert_(talent)",
+    "kind": "talent",
+    "pageid": 1622,
+    "wiki_title": "Tactical expert (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "0630510eac71f1482bf43011431a732b0d3bfcb34b8cb681e64b653987e87d3b",
+    "source_sha256": "c16b9d714f494e9bdd6297069814d401138700b63e5b1169cd4c798940302e1f",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "0630510eac71f1482bf43011431a732b0d3bfcb34b8cb681e64b653987e87d3b",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

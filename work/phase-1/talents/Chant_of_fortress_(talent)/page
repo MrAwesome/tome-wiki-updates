@@ -1,0 +1,20 @@
+{{Ability box
+|name=Chant of Fortress
+|image=Chant of fortress.png
+|game_version=1.7.6
+|category_type={{ct|Celestial}}
+|category={{c|Chants}}
+|require={{TalentReq/DiviReq1}}
+|use_mode=Sustained
+|range=0
+|cost=20 Positive
+|cooldown=12
+|use_speed=0
+|desc=
+You chant the glory of the Sun, granting you {{ctspd|8|25}} physical damage resistance, {{ctspd|5|60}} physical save, {{ctspd|8|25}} armour and +15% armour hardiness.
+You may only have one Chant active at once.
+The effects will increase with your Spellpower.
+
+''Note: this talent is granted by learning {{t|Chant Acolyte}}, or as an [[escort]] reward''
+|avail.escorts=[[Escorts#Sun_Paladin_.28Arcane.29|Sun Paladin (Arcane)]] (Normal Escort Reward), +1 to talent (does not give access to {{t|Chant Acolyte}}) or via revealing the locked {{c|Chants}} category
+}}

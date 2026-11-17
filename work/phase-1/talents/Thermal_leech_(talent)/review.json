@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "b4e894bb4c8f03c26dc93fff1debc74f2991779328aa3cd3d8ba3ee8dfcabd63",
+    "revid": 7888
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "baseline_preserved"
+    }
+  ],
+  "identity": {
+    "filename": "Thermal_leech_(talent)",
+    "kind": "talent",
+    "pageid": 1154,
+    "wiki_title": "Thermal leech (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "baseline_preserved",
+    "candidate_page_sha256": "b4e894bb4c8f03c26dc93fff1debc74f2991779328aa3cd3d8ba3ee8dfcabd63",
+    "source_sha256": "1650e5fc5aa480d64f4e5463611ce20b694f90c1f292757f0109a05962ffeb6a",
+    "status": "unsupported_info",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "b4e894bb4c8f03c26dc93fff1debc74f2991779328aa3cd3d8ba3ee8dfcabd63",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

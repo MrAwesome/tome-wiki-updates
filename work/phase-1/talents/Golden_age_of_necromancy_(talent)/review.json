@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "4bcc6107b1bf024a82ba056c764399c6bc18be4499b6c79d072112f8b8b987af",
+    "revid": 19419
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Golden_age_of_necromancy_(talent)",
+    "kind": "talent",
+    "pageid": 6072,
+    "wiki_title": "Golden age of necromancy (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "59bdd576605a5bb25bdd58fbbf873b92f860fec3820efa339923e6afd97b96cd",
+    "source_sha256": "834c8c8771f6c5c3aefa79a5974a54ecd6fca64773989e38efddae096737ec11",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "59bdd576605a5bb25bdd58fbbf873b92f860fec3820efa339923e6afd97b96cd",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

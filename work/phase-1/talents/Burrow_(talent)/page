@@ -1,0 +1,16 @@
+{{Ability box
+|game_version=1.7.6
+|image=Burrow.png
+|name=Burrow
+|category_type={{ct|Wild-Gift}}
+|category={{c|Sand Drake Aspect}}
+|require={{TalentReq/GiftsReq3}}
+|cost=15 Equilibrium
+|cooldown={{ctl|10|40|15}}
+|range=10
+|desc=
+Allows you to burrow into earthen walls for {{cts|3|7|0.5|0|2}} turns.
+Your powerful digging abilities also allow you to exploit and smash through enemy defensive weaknesses; You ignore {{ctmd|25|40}} of target armor and {{ctmd|17.5|25}} of enemy physical damage resistance while this is in effect.
+At Talent Level 5, this talent can be used instantly, and the cooldown will reduce with levels.
+Each point in sand drake talents also increases your physical resistance by 0.5%.
+}}

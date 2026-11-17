@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "664622f7b10ecb148a411ad4bb70ea6e9beacbcb3311c3815423053d56238e90",
+    "revid": 18884
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:58Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Aether_permeation_(talent)",
+    "kind": "talent",
+    "pageid": 3460,
+    "wiki_title": "Aether permeation (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "54efab07226713ad87fdf5f6e49ecf477c6c91cc250383eff6ad9d496740acb1",
+    "source_sha256": "a4e0877b7e12cdb59d2e9f974fe7579811d56479e20fcea071effad38a44caea",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:58Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "54efab07226713ad87fdf5f6e49ecf477c6c91cc250383eff6ad9d496740acb1",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

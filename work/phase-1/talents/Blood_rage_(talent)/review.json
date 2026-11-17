@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "16caed6aaa7c6dca067551e9d7fb000c29d38760e60c134df7f3fb878ce6865f",
+    "revid": 22872
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:58Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Blood_rage_(talent)",
+    "kind": "talent",
+    "pageid": 7054,
+    "wiki_title": "Blood rage (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "dcea6caf30241d9532783a306695fe542c3267a9ff2d96dda5b72b8d05b34d35",
+    "source_sha256": "3c1841077169754f56549e8aa11e42cd0ccdd7380b735b88f08bfd3ba7cfe01c",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:58Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "dcea6caf30241d9532783a306695fe542c3267a9ff2d96dda5b72b8d05b34d35",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

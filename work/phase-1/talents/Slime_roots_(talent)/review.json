@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "2184dfcf9f377d011c6e94344d6f354c94da69c3b29ab9e65c82807ba030b09d",
+    "revid": 19239
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Slime_roots_(talent)",
+    "kind": "talent",
+    "pageid": 1425,
+    "wiki_title": "Slime roots (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "128cc33c14699177d5eba8185b02322673fce0380e5e3ce6a554cd560f7072c8",
+    "source_sha256": "59736e1acfe5dcb342491dcdc47102795d2401dbc520f300cf52ac2eac2d8ada",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "128cc33c14699177d5eba8185b02322673fce0380e5e3ce6a554cd560f7072c8",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

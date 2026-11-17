@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "880d46d7d3ca5f7596e59e79ad6fbc3de6875def9d3e119a49984b66b4eb7da3",
+    "revid": 14002
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "baseline_preserved"
+    }
+  ],
+  "identity": {
+    "filename": "Feather_wind_(talent)",
+    "kind": "talent",
+    "pageid": 1265,
+    "wiki_title": "Feather wind (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "baseline_preserved",
+    "candidate_page_sha256": "880d46d7d3ca5f7596e59e79ad6fbc3de6875def9d3e119a49984b66b4eb7da3",
+    "source_sha256": "3ac4d9f04300e9aa06ec51809fc95051d4c9e2ba9588708316eaa199ebf4254b",
+    "status": "unsupported_info",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "880d46d7d3ca5f7596e59e79ad6fbc3de6875def9d3e119a49984b66b4eb7da3",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

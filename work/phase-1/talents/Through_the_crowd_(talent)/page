@@ -1,0 +1,15 @@
+{{Ability box
+|game_version=1.7.6
+|image=Through the crowd.png
+|name=Through the Crowd
+|category_type=[[Prodigies]]
+|category=[[Prodigies#Dexterity|Dexterity]]
+|require=Dexterity 50<br />Have had at least 6 party members at the same time
+|use_mode=Sustained
+|desc=
+You are used to a crowded party:
+*you can swap places with friendly creatures in just one tenth of a turn as a passive effect.
+*you can never damage your friends or neutral creatures while this talent is active.
+*you love being surrounded by friends; for each friendly creature in sight you gain +10 to all saves and +3% to global speed (max 15%)
+*every party member is also automatically granted Through The Crowd
+}}

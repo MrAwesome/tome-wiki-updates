@@ -1,0 +1,16 @@
+{{Ability box
+|image = Gauss cannon.png
+|name = Gauss Cannon
+|game_version = 1.7.6
+|embers_version = 1.1.10
+|category_type = {{ct|Steamtech}}
+|category = {{c|Armament}}
+|require = {{TalentReq/DexSteamReq1}}
+|cooldown = {{ctl|2|10|4}}
+|cost = 15 Steam
+|range = Tailgun range
+|use_speed = 0
+|desc = Fire a charged shot at the farthest target with your tail-mounted steamgun that pierces through your enemies, ignoring armor and dealing {{ctwd|120|250%}} weapon damage as {{lightning}}.
+
+This takes no time to use.
+}}

@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "5f6cde429afe7da130d7746282f64cc41fe45e0abe0a577494e28275940a5a84",
+    "revid": 13543
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "baseline_preserved"
+    }
+  ],
+  "identity": {
+    "filename": "Precise_strikes_(talent)",
+    "kind": "talent",
+    "pageid": 1536,
+    "wiki_title": "Precise strikes (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "baseline_preserved",
+    "candidate_page_sha256": "5f6cde429afe7da130d7746282f64cc41fe45e0abe0a577494e28275940a5a84",
+    "source_sha256": "52577655ef879a15ae0034f7294be0be57199e63693109f9f5f4b7d3a227012f",
+    "status": "unsupported_info",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "5f6cde429afe7da130d7746282f64cc41fe45e0abe0a577494e28275940a5a84",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

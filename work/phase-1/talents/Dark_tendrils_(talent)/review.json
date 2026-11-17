@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "5a3d16fef7dd20a0b368562500981dd36929bfb7cdf5e17346c7cd74f0543b71",
+    "revid": 8231
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:58Z",
+      "event": "deterministic_render_applied",
+      "reason": "baseline_preserved"
+    }
+  ],
+  "identity": {
+    "filename": "Dark_tendrils_(talent)",
+    "kind": "talent",
+    "pageid": 1198,
+    "wiki_title": "Dark tendrils (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "baseline_preserved",
+    "candidate_page_sha256": "5a3d16fef7dd20a0b368562500981dd36929bfb7cdf5e17346c7cd74f0543b71",
+    "source_sha256": "b31c041e646a6187220fadbdb003053fb6ec737f5bbbd7709386f3987691aba6",
+    "status": "unsupported_info",
+    "updated_at": "2026-11-08T16:08:58Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "5a3d16fef7dd20a0b368562500981dd36929bfb7cdf5e17346c7cd74f0543b71",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

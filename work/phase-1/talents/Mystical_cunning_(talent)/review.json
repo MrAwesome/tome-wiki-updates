@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "2aedf48b4022360aed1990df7d3a298cdec597b8c5864a4e54ac9e806b42dabc",
+    "revid": 17524
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Mystical_cunning_(talent)",
+    "kind": "talent",
+    "pageid": 3461,
+    "wiki_title": "Mystical cunning (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "e4ce9655466992427611a3318033cbc62fe0a2dad37d980e214db11d2216e877",
+    "source_sha256": "a4e0877b7e12cdb59d2e9f974fe7579811d56479e20fcea071effad38a44caea",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "e4ce9655466992427611a3318033cbc62fe0a2dad37d980e214db11d2216e877",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

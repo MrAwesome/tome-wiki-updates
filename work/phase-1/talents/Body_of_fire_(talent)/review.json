@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "557f9c090f184258a9b422e2cdeae2a1fd7eeab7c0abe9b5be679537bf1ba696",
+    "revid": 8936
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:58Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Body_of_fire_(talent)",
+    "kind": "talent",
+    "pageid": 1196,
+    "wiki_title": "Body of fire (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "51489a8bc4ff7f0cef9515d79d87550d51b33a1a07971e83c9ac5bb4f3a69cbd",
+    "source_sha256": "960cd7fd46c1344be4e56277d23eed1f3950e8975f860de5ba4c3990eac36f07",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:58Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "51489a8bc4ff7f0cef9515d79d87550d51b33a1a07971e83c9ac5bb4f3a69cbd",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

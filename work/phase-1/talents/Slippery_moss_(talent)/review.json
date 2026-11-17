@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "3e7e87b38e9539e1b37868fb9960c244c6c5c7a0cfb2e76a391381f9169ec76b",
+    "revid": 19184
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Slippery_moss_(talent)",
+    "kind": "talent",
+    "pageid": 1130,
+    "wiki_title": "Slippery moss (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "ddf31a93e9f84a65b64b4667ae49ed40c2b1f1a1ea58ec49d3521aeda400da25",
+    "source_sha256": "fb8f64f551bf86d0c54ca3e6ea50f3c4c3b8f09de7155a8b20392438bf2e0607",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "ddf31a93e9f84a65b64b4667ae49ed40c2b1f1a1ea58ec49d3521aeda400da25",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "aa8a955ae203d91ee143cfe78efdd7ecc4726e202e107511b026cf91145d7a32",
+    "revid": 23096
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Maw_of_urh%27rok_(talent)",
+    "kind": "talent",
+    "pageid": 3773,
+    "wiki_title": "Maw of urh'rok (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "d5821c8d501230b8796bb5fec714a5be03ac43d4ea2f83f970d394805578782b",
+    "source_sha256": "c2faeddb2325d81dc87a1c4d591c0f8788c9c227d140fd6764d59258bd1f45d8",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "d5821c8d501230b8796bb5fec714a5be03ac43d4ea2f83f970d394805578782b",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "6d53cc991e4a08ccfa467ee4c918529db6d5ad950d74b6b723b9932d21b2c5ce",
+    "revid": 19426
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Frigid_plunge_(talent)",
+    "kind": "talent",
+    "pageid": 6077,
+    "wiki_title": "Frigid plunge (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "1ee65115fa446205404315c6d6dabb1282471b432c59cd05e9fd6b64ebcf5ef7",
+    "source_sha256": "e63b12589acd41efb1aa065b1b3a1390947bbc058bf44ffa93384370d252ff0c",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "1ee65115fa446205404315c6d6dabb1282471b432c59cd05e9fd6b64ebcf5ef7",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

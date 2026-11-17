@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "4c40690bc01650ffe6b9f4191c8cc080b06606daf35edb3896983c9b8c19d8b6",
+    "revid": 22860
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Lunacy_(talent)",
+    "kind": "talent",
+    "pageid": 7046,
+    "wiki_title": "Lunacy (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "21ba3dc600753671ce1042842a813836d71a2edd0fe67dfba3532e0609498678",
+    "source_sha256": "89a9ab53a1689778f063f75591107f4b7b8cc39f90da37ccf0365d7346a34803",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "21ba3dc600753671ce1042842a813836d71a2edd0fe67dfba3532e0609498678",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

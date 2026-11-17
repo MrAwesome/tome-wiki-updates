@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "5326c674cafed81f891d374f4a36744599562181476b9afaba0ce877244f6c79",
+    "revid": 20448
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:58Z",
+      "event": "deterministic_render_applied",
+      "reason": "baseline_preserved"
+    }
+  ],
+  "identity": {
+    "filename": "Beyond_the_flesh_(talent)",
+    "kind": "talent",
+    "pageid": 2527,
+    "wiki_title": "Beyond the flesh (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "baseline_preserved",
+    "candidate_page_sha256": "5326c674cafed81f891d374f4a36744599562181476b9afaba0ce877244f6c79",
+    "source_sha256": "9e8828c6064e105f85b46a03af4344239a4234364c0a12869ab9fb9985c5889f",
+    "status": "unsupported_info",
+    "updated_at": "2026-11-08T16:08:58Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "5326c674cafed81f891d374f4a36744599562181476b9afaba0ce877244f6c79",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

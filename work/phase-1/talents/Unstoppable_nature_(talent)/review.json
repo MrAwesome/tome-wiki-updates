@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "59c5b818a10dff1f3ee0fdee6a401961be7790b64286c1a2b75d2a482b98d017",
+    "revid": 19224
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Unstoppable_nature_(talent)",
+    "kind": "talent",
+    "pageid": 1618,
+    "wiki_title": "Unstoppable nature (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "8b0a71e7d576791f404ba1da740269a14a0c913637f8caed4567a84d2ac67cdf",
+    "source_sha256": "568403369da6287fb9bdc8338aeb2113eef9a2aa9dec4a24db66402859fda82d",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "8b0a71e7d576791f404ba1da740269a14a0c913637f8caed4567a84d2ac67cdf",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

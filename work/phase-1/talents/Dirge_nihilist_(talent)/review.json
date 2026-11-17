@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "01144f6a1f74a5a84de5ad4fca49f99d84926f26245d159dc79a7cb8171c8423",
+    "revid": 22828
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:58Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Dirge_nihilist_(talent)",
+    "kind": "talent",
+    "pageid": 7018,
+    "wiki_title": "Dirge nihilist (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "01144f6a1f74a5a84de5ad4fca49f99d84926f26245d159dc79a7cb8171c8423",
+    "source_sha256": "d9f8e153ac9d7c92ea670616aa88d9d410b4b14e1e521173dd86d419e5ef7e3a",
+    "status": "no_change",
+    "updated_at": "2026-11-08T16:08:58Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "01144f6a1f74a5a84de5ad4fca49f99d84926f26245d159dc79a7cb8171c8423",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

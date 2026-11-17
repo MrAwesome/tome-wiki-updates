@@ -1,0 +1,28 @@
+{{Ability box
+|image=Arcane_eye_2017.png
+|name=Arcane Eye
+|category_type={{ct|Spell}}
+|category={{c|Divination}}
+|require={{TalentReq/SpellsReq1}}
+|range=100 (does ''not'' requires line of sight to target square)
+|cost=15 Mana
+|cooldown=10
+|use_speed=0
+|desc=
+Summons an ethereal magical eye at the designated location that lasts for (10 + 3 * Talent Level) turns.
+
+The eye cannot be seen or attacked by other creatures, and possesses magical vision that allows it to see any creature in a {{cts|5|9}} range around it.
+
+It does not require light to do so, but it cannot see through walls.
+
+Casting the eye does not take a turn.
+
+Only one arcane eye can exist at any given time.
+
+At level 4, if cast on a creature it will follow it until it expires, or until the creature dies.
+
+At level 5, it will place a magical marker on the creatures, negating invisibility and stealth effects.
+|avail.escorts=[[Escorts#Seer_.28Arcane.29|Seer (Arcane)]] (Normal Escort Reward), +1 to talent or via revealing the locked {{c|Divination}} category
+}}
+'''Notes:'''
+* This can be used to scout inside vaults

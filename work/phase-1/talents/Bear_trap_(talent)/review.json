@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "2def1cd3d593f82d9ca902a520cc0f1d952572c7f048463df7d3fec0fc06ed7d",
+    "revid": 8886
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:58Z",
+      "event": "deterministic_render_applied",
+      "reason": "baseline_preserved"
+    }
+  ],
+  "identity": {
+    "filename": "Bear_trap_(talent)",
+    "kind": "talent",
+    "pageid": 3491,
+    "wiki_title": "Bear trap (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "baseline_preserved",
+    "candidate_page_sha256": "2def1cd3d593f82d9ca902a520cc0f1d952572c7f048463df7d3fec0fc06ed7d",
+    "source_sha256": "cad2fa64c07f8ae38f30c2e5d49b58356d70d052108aa419d10433e65ce08947",
+    "status": "unsupported_info",
+    "updated_at": "2026-11-08T16:08:58Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "2def1cd3d593f82d9ca902a520cc0f1d952572c7f048463df7d3fec0fc06ed7d",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

@@ -1,0 +1,15 @@
+{{Ability_box
+|game_version=1.7.6
+|image=Shock_2017.png
+|name=Shock
+|category_type={{ct|Spell}}
+|category={{c|Storm}}
+|require={{TalentReq/SpellsReqHigh2}}
+|cost=8 Mana
+|cooldown=4
+|range=10
+|desc=
+Conjures up a bolt of lightning, doing {{ctspd|8.333333333|93.33333333}} to {{ctspd|25|280}} damage ({{ctspd|16.66666667|186.6666667}} average) and [[Effect#Dazed|dazing]] the target for 3 turns.
+If the target resists the daze effect it is instead shocked, which halves stun/daze/pin resistance, for 5 turns.
+The damage will increase with your Spellpower.
+}}

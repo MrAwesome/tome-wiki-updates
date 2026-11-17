@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "c45a2ddd4a1e8367dba6e28b8e3692ba5820848650ed90acf0d58befd28d5e0c",
+    "revid": 7877
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:58Z",
+      "event": "deterministic_render_applied",
+      "reason": "baseline_preserved"
+    }
+  ],
+  "identity": {
+    "filename": "Charged_aura_(talent)",
+    "kind": "talent",
+    "pageid": 1267,
+    "wiki_title": "Charged aura (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "baseline_preserved",
+    "candidate_page_sha256": "c45a2ddd4a1e8367dba6e28b8e3692ba5820848650ed90acf0d58befd28d5e0c",
+    "source_sha256": "cad1b014a59af12f9ee250b02417cf27b2a67368601d2042a0eedcd3997587c3",
+    "status": "unsupported_info",
+    "updated_at": "2026-11-08T16:08:58Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "c45a2ddd4a1e8367dba6e28b8e3692ba5820848650ed90acf0d58befd28d5e0c",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

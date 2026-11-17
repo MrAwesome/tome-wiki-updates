@@ -1,0 +1,22 @@
+{{Ability box
+|image=Chant of fortitude.png
+|name=Chant Acolyte
+|game_version=1.7.4
+|category_type={{ct|Celestial}}
+|category={{c|Chants}}
+|require={{TalentReq/DiviReq1}}
+|use_mode=Passive
+|desc=
+You may only have one Chant active at a time.
+
+You have learned to sing the praises of the Sun, in the form of three defensive Chants.
+
+{{t|Chant of Fortitude}}: Increases your mental save by {{ctspd|5|60}} and maximum life by {{ctl|100%|12.5|25%}}.
+
+{{t|Chant of Fortress}}: Increases your physical save by {{ctspd|5|60}}, your physical resistance by {{ctspd|8|25}}%, your armour by {{ctspd|8|25}} and your armour hardiness by 15%.
+
+{{t|Chant of Resistance}}: Increases you spell save by {{ctspd|5|60}}, your fire/cold/lightning/acid resistances by {{ctspd|10|30}}% and reduces all damage that comes from distant enemies (3 spaces or more) by {{ctl|50%|15|33%}}.
+
+You may only have one Chant active at a time.
+|avail.escorts=[[Escorts#Sun_Paladin_.28Arcane.29|Sun Paladin (Arcane)]] (Normal Escort Reward), via revealing the locked {{c|Chants}} category
+}}

@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "323d6541fc95a4dcb7b1530e02463317b5ae26b70c7d37c996db136e8636c321",
+    "revid": 19720
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Fan_of_knives_(talent)",
+    "kind": "talent",
+    "pageid": 4671,
+    "wiki_title": "Fan of knives (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "099e4788e7cd2fa484877086fd42174d603870ee10bf858071af62b42945d12b",
+    "source_sha256": "e3c2a768aa86e1394f7087e2b1e292c7fa8f05d2d18ae473a253bce7b99e1601",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "099e4788e7cd2fa484877086fd42174d603870ee10bf858071af62b42945d12b",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

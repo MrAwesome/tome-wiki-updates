@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "e1c6a055263a7ef3424e75ae5c4c1a595bd2b7cf92f621bc348cab1ce53559c9",
+    "revid": 15408
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Rushing_claws_(talent)",
+    "kind": "talent",
+    "pageid": 2939,
+    "wiki_title": "Rushing claws (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "cfb9c3a02512186c93a4e19b99c815862b57b92c7f1fcedb6a3360788e7cb994",
+    "source_sha256": "dc640c1af5d22a45472d843380c9de01334530b3831bd2b9fe88ee0cba3abc23",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "cfb9c3a02512186c93a4e19b99c815862b57b92c7f1fcedb6a3360788e7cb994",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

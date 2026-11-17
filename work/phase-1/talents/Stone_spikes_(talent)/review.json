@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "893b4a46e954d1f7a44a06d717049b1274a53c7d869d910f07ad8ecb7ddbc68a",
+    "revid": 13082
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "baseline_preserved"
+    }
+  ],
+  "identity": {
+    "filename": "Stone_spikes_(talent)",
+    "kind": "talent",
+    "pageid": 3185,
+    "wiki_title": "Stone spikes (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "baseline_preserved",
+    "candidate_page_sha256": "893b4a46e954d1f7a44a06d717049b1274a53c7d869d910f07ad8ecb7ddbc68a",
+    "source_sha256": "cc67950ff782342bc43b8c643dfd2accfec6734b7a37c62d424a7b926ba8ff44",
+    "status": "unsupported_info",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "893b4a46e954d1f7a44a06d717049b1274a53c7d869d910f07ad8ecb7ddbc68a",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

@@ -1,0 +1,14 @@
+{{Ability box
+|image=Shadow warriors.png
+|name=Shadow Warriors
+|category_type={{ct|Cursed}}
+|category={{c|Shadows}}
+|require={{TalentReq/CursedCunReq2}}
+|use_mode=Passive
+|desc=
+Instill hate in your shadows, strengthening their attacks. They gain (-11.5 + 23 * √ Talent Level)% extra Accuracy and (-17.5 + 35 * √ Talent Level)% extra damage.
+
+The fury of their attacks gives them the ability to use level (Raw Talent Level) {{t|Dominate}} against their foe. The chance to use {{t|Dominate}}, provided Lightning or Flames were not used first, is {{cl|√ Talent Level|100%|7|1|15.65%|2.23}}.
+
+They also gain the ability to Fade when hit, avoiding all damage until their next turn, with a cooldown of (8 - Raw Talent Level) turns (minimum 3).
+}}

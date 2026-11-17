@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "299fb88a26f846b37b6770953b87744e105f1900d08eaad060f5e9e9f32aa083",
+    "revid": 23054
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Fumble_(talent)",
+    "kind": "talent",
+    "pageid": 4666,
+    "wiki_title": "Fumble (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "1fc0f047247ea1069fa8e5a14f83bb8e3683eb05527d1fcc7c74bc90b6f2bd31",
+    "source_sha256": "c90171bb35a1bab1c02cbefa1cfd36ac7d3bed9dbb089327030f4c830f038703",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "1fc0f047247ea1069fa8e5a14f83bb8e3683eb05527d1fcc7c74bc90b6f2bd31",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

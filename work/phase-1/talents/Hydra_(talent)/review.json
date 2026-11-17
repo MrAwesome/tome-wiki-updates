@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "035e474fe0b2b526e3311be301a5af8a395c9036af9fb7c4111c5debf2861abc",
+    "revid": 8368
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "baseline_preserved"
+    }
+  ],
+  "identity": {
+    "filename": "Hydra_(talent)",
+    "kind": "talent",
+    "pageid": 1553,
+    "wiki_title": "Hydra (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "baseline_preserved",
+    "candidate_page_sha256": "035e474fe0b2b526e3311be301a5af8a395c9036af9fb7c4111c5debf2861abc",
+    "source_sha256": "647fa41f0891735435261fb1b75a9f3ab2e9be16288e14ed3ed5c5562eec59f0",
+    "status": "unsupported_info",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "035e474fe0b2b526e3311be301a5af8a395c9036af9fb7c4111c5debf2861abc",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

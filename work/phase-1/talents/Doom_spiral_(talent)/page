@@ -1,0 +1,17 @@
+{{Ability_box
+|game_version = 1.7.6
+|name = Doom Spiral
+|image = Doom_spiral.png
+|category_type = {{ct|Celestial}}
+|category = {{c|Dark Sun}}
+|require = {{TalentReq/DiviStrReqHigh4}}
+|cost = 15 Positive
+|range = 0
+|cooldown = 9
+|use_speed = Spell
+|desc =
+Infuse your weapon with overwhelming gravitational power while spinning around.
+All creatures within radius 2 take {{ctwd|50|130%}} weapon damage as physical (gravity) and are pulled closer.
+Then, all adjacent creatures take {{ctwd|30|150%}} weapon damage.  This second strike shields you for between {{ctspd|35|220}} and {{ctspd|70|440}}, increasing with more enemies hit.  The shield lasts for 2 turns.
+The shield strength will increase with your Spellpower.
+}}

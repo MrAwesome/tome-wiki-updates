@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "ccb2d729622cfe476a202e05d4a97aed115dff8d0292056dcbfe8602f2a9cffc",
+    "revid": 13889
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:58Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Brain_storm_(talent)",
+    "kind": "talent",
+    "pageid": 3389,
+    "wiki_title": "Brain storm (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "3eabc946dafbc9be4c354e834d1b43441e1a8810f179ed3521086fe43432745a",
+    "source_sha256": "324b35ec3ea43f54144e2e552f20cf65c86006c8d1a70d00d112d4507b4aef77",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:58Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "3eabc946dafbc9be4c354e834d1b43441e1a8810f179ed3521086fe43432745a",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

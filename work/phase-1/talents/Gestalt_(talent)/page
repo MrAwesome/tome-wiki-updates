@@ -1,0 +1,18 @@
+{{Ability box
+|image=Gestalt.png
+|name=Gestalt
+|game_version=1.7.6
+|embers_version=1.1.10
+|category_type={{ct|Steamtech}}
+|category={{c|Gestalt}}
+|require={{TalentReq/PsiWilReq1}}
+|use_mode=sustained
+|cost=10 Psi
+|cooldown=15
+|use_speed=Mind
+|desc=
+You let your mind tap into your steam generators for energy, increasing your Mindpower in proportion to your steam level: {{ctstd|Wil|0.5|60}} when at full steam and 0 when at 0 steam.
+Using a psionic talent will feedback into your generators, increasing your Steam power by {{ctstd|Wil|0.5|50}} for your next steamtech talent.
+Using a steamtech talent will feedback into psionic focus, increasing your psi level by {{cts|8|29}}.
+The effects increase with your Willpower.
+}}

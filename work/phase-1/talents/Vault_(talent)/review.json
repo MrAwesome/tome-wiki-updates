@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "bf0f8801d3e82276b5b549d065cedadfd302c8b709c1ecf4f14d197c809dcdbd",
+    "revid": 13773
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Vault_(talent)",
+    "kind": "talent",
+    "pageid": 3231,
+    "wiki_title": "Vault (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "24ac435f341b50feed5e78140489484c22b444d03cb629a7e43f34e568e6d70d",
+    "source_sha256": "b0b1c7bd745a5f76e39c283c4a310efa4bf04968ecbfa868f67cada956280ae2",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "24ac435f341b50feed5e78140489484c22b444d03cb629a7e43f34e568e6d70d",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

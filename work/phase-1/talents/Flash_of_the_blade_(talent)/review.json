@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "94522fb5fe791f0f91ea746287e424cd76c3df5ce85bdf09d34c0e9394746d8d",
+    "revid": 13868
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Flash_of_the_blade_(talent)",
+    "kind": "talent",
+    "pageid": 3342,
+    "wiki_title": "Flash of the blade (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "6eef2579a89216cecb3c2600ece612dcfea0ae2af6570b24469a321dcb8ce5b8",
+    "source_sha256": "887234cdb85795b70b487d8e74bcfb8673a3cea3f96688bf823fa1834b03aed5",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "6eef2579a89216cecb3c2600ece612dcfea0ae2af6570b24469a321dcb8ce5b8",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

@@ -1,0 +1,16 @@
+{{Ability_box
+|game_version = 1.7.6
+|name = Utterly Destroyed
+|image = utterly destroyed.png
+|category_type={{ct|Spell}}
+|category={{c|Death}}
+|require = {{TalentReq/SpellsReq4}}
+|use_mode = Sustained
+|cost = 15 Mana
+|cooldown = 30
+|use_speed = Spell
+|desc = 
+Whenever a creature is killed by yourself or a minion you feast on its essence, gaining {{cts|10|27}} mana.
+
+At level 3 the thrill of the death invigorates you, granting a movement speed bonus of 50% for {{cts|2|6}} turns.
+}}

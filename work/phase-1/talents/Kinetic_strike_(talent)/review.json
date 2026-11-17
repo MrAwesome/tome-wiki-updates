@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "fcbbb2a40d10189cef1e18288a85d4cfe7b88157af8664d80e6ef51299da2834",
+    "revid": 13884
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Kinetic_strike_(talent)",
+    "kind": "talent",
+    "pageid": 3385,
+    "wiki_title": "Kinetic strike (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "d4255ccf3b4ef1244b646d416bd487ddcda9f39c4eda611d9f45787edec9617d",
+    "source_sha256": "5476f75aa4086e6bb63989d77188aa0e41fdab0807a0808efad6a7ab9afe5c04",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "d4255ccf3b4ef1244b646d416bd487ddcda9f39c4eda611d9f45787edec9617d",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

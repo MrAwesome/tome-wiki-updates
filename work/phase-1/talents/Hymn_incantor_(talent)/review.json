@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "42e900fd73d6a488ab7e58f701a798c698f24d97345eb4113d5d50267fa14642",
+    "revid": 19101
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Hymn_incantor_(talent)",
+    "kind": "talent",
+    "pageid": 6008,
+    "wiki_title": "Hymn incantor (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "d82f1f077fe21f95dfe17383a0a5cf141570c423b0036fa1f87452a8d0311872",
+    "source_sha256": "720e1f263f29379029f2598da072669d897ee0eb9adc5bff1cc9dd13acc39b7d",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "d82f1f077fe21f95dfe17383a0a5cf141570c423b0036fa1f87452a8d0311872",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "096b027b44cfd13a655faba3b162f5d7246ff12cb9796222f23799a00da3dde7",
+    "revid": 13754
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "baseline_preserved"
+    }
+  ],
+  "identity": {
+    "filename": "Trained_reactions_(talent)",
+    "kind": "talent",
+    "pageid": 3233,
+    "wiki_title": "Trained reactions (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "baseline_preserved",
+    "candidate_page_sha256": "096b027b44cfd13a655faba3b162f5d7246ff12cb9796222f23799a00da3dde7",
+    "source_sha256": "b08f8864ee2ab415c1ab0f9c4b7d0155b4511a0a994034fb20654f4ab9b54037",
+    "status": "unsupported_info",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "096b027b44cfd13a655faba3b162f5d7246ff12cb9796222f23799a00da3dde7",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

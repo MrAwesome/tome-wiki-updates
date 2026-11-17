@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "f4e45b39c38ddb1a855b3553a9737a99369c623b79bcd0ad3b702223c5658225",
+    "revid": 8923
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:58Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Burning_hex_(talent)",
+    "kind": "talent",
+    "pageid": 1160,
+    "wiki_title": "Burning hex (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "685123dafa7765f87d712f284cfabe497c25026245c7aa6872b1943f89773aa8",
+    "source_sha256": "fae65124cfed77d795c99532ece18857a8529d35786a0d16737bda437b16d10c",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:58Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "685123dafa7765f87d712f284cfabe497c25026245c7aa6872b1943f89773aa8",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

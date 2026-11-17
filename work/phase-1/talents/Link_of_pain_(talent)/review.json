@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "3ea149d9551d8fbab66dd8a5b308eeb1fefd3360dbe77d3e7ae6c1ee1056f64c",
+    "revid": 12474
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Link_of_pain_(talent)",
+    "kind": "talent",
+    "pageid": 3683,
+    "wiki_title": "Link of pain (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "eeb0a64f86f3f5af9ed5d6803ae014ed59e76bd2a580c0bdca93906cc7b38703",
+    "source_sha256": "8de1db047d8a879585ef1a99e08039c4c9a664880fc18c51a8aaa0144a49ec55",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "eeb0a64f86f3f5af9ed5d6803ae014ed59e76bd2a580c0bdca93906cc7b38703",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

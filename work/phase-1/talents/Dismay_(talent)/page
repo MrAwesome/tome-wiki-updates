@@ -1,0 +1,11 @@
+{{Ability box
+|game_version=1.7.6
+|image=Dismay.png
+|name=Dismay
+|category_type={{ct|Cursed}}
+|category={{c|Gloom}}
+|require={{TalentReq/CursedWilReq3}}
+|use_mode=Passive
+|desc=
+Each turn, those caught in your {{t|{{c|Gloom}}}} must save against your Mindpower or have an {{gtl|1|5}} chance of becoming dismayed for 3 turns. When dismayed, the first melee attack against the foe will result in a critical hit.
+}}

@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "ec388d84896573da73e805017d3733d6fe0a43c4add0c90ba9651d699b325c8c",
+    "revid": 14442
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Punishment_(talent)",
+    "kind": "talent",
+    "pageid": 4379,
+    "wiki_title": "Punishment (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "b1da14f9e0ceb4fbcb2c3cf2b943a0811173ba76b9c7985283bb2a11608d4f36",
+    "source_sha256": "2799a7df70a5fc5ef6cd71fd77b9813b1fbc75e67e36426bc10f3f3c33378e28",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "b1da14f9e0ceb4fbcb2c3cf2b943a0811173ba76b9c7985283bb2a11608d4f36",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

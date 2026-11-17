@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "01278c67f9070bc2c5a1c9ac70e6ae1e1ccf34871a7b86054aca3757716480d0",
+    "revid": 18550
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:58Z",
+      "event": "deterministic_render_applied",
+      "reason": "baseline_preserved"
+    }
+  ],
+  "identity": {
+    "filename": "Blood_vengeance_(talent)",
+    "kind": "talent",
+    "pageid": 1138,
+    "wiki_title": "Blood vengeance (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "baseline_preserved",
+    "candidate_page_sha256": "01278c67f9070bc2c5a1c9ac70e6ae1e1ccf34871a7b86054aca3757716480d0",
+    "source_sha256": "bcb7d6b5c1c154dbe8844de4ad32fd7b3084424ff84d9e2d6ddeafbba98c2418",
+    "status": "unsupported_info",
+    "updated_at": "2026-11-08T16:08:58Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "01278c67f9070bc2c5a1c9ac70e6ae1e1ccf34871a7b86054aca3757716480d0",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

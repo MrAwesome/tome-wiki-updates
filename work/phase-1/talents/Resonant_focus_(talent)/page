@@ -1,0 +1,17 @@
+{{Ability_box
+|game_version=1.7.4
+|image=resonant_focus.png
+|name=Resonant Focus
+|category_type={{ct|Psionic}}
+|category={{c|Finer Energy Manipulations}}
+|require={{TalentReq/PsiCunReq4}}
+|use_mode=Passive
+|desc=
+By carefully synchronizing your mind to the resonant frequencies of your psionic focus, you strengthen its effects.
+
+For conventional weapons, this increases the percentage of your willpower and cunning that is used in place of strength and dexterity for all weapon attacks, from 60% to (60 + {{cts|10|40}})%.
+
+For mindstars, this increases the chance to pull enemies to you by {{cts|10%|40%}}.
+
+For gems, this increases the bonus stats by ({{cts|10|40}} / 5).
+}}

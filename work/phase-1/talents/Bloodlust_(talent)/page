@@ -1,0 +1,13 @@
+{{Ability box
+|image=Bloodlust.png
+|name=Bloodlust
+|game_version=1.7.6
+|category_type={{ct|Corruption}}
+|category={{c|Reaving Combat}}
+|require={{TalentReq/StrCorrsReq2}}
+|use_mode=Passive
+|desc=
+Each time you hit an enemy with a melee weapon you enter a bloodlust-infused frenzy, increasing your Spellpower by {{cts|1|5.5}}.
+This effect stacks up to 10 times for a total Spellpower gain of {{cts|10|55}}.
+The frenzy lasts 3 turns.
+}}

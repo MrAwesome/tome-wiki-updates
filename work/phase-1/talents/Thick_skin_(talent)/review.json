@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "c9ec1775dbfedc38c907f15c5a2a0c32fca9fd3552403c3d6602d37837f6ef5b",
+    "revid": 22955
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Thick_skin_(talent)",
+    "kind": "talent",
+    "pageid": 1307,
+    "wiki_title": "Thick skin (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "c9ec1775dbfedc38c907f15c5a2a0c32fca9fd3552403c3d6602d37837f6ef5b",
+    "source_sha256": "2a22a6458e415ec78f1058dc1241f903ca7414b78693474b1cafc3d1d35b5e7f",
+    "status": "no_change",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "c9ec1775dbfedc38c907f15c5a2a0c32fca9fd3552403c3d6602d37837f6ef5b",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

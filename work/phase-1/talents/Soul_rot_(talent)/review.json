@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "8b2b94d7ffe6a3c82a5c3fb7c95c501d0dda4e90e1faf2c105839f1875ea8498",
+    "revid": 18543
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Soul_rot_(talent)",
+    "kind": "talent",
+    "pageid": 1645,
+    "wiki_title": "Soul rot (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "172d51c2e1a804f7041fecedc9de1fbc36cdceda8bb9c185df478b9aedde6b92",
+    "source_sha256": "dc446094ace709d5c1a5d470cfaeca2c236e94a290d8667d59772e3d52845a71",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "172d51c2e1a804f7041fecedc9de1fbc36cdceda8bb9c185df478b9aedde6b92",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "711327b05b08609a35f2c0ccecd68066b1c4d9c8370f75ae245d0d29170bc12f",
+    "revid": 14519
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:58Z",
+      "event": "deterministic_render_applied",
+      "reason": "baseline_preserved"
+    }
+  ],
+  "identity": {
+    "filename": "Armour_configuration_(talent)",
+    "kind": "talent",
+    "pageid": 5153,
+    "wiki_title": "Armour configuration (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "baseline_preserved",
+    "candidate_page_sha256": "711327b05b08609a35f2c0ccecd68066b1c4d9c8370f75ae245d0d29170bc12f",
+    "source_sha256": "26e2741d1f21ca1a890d103fccc09d8fdf963255a127bf5941e8d2e06ab12824",
+    "status": "unsupported_info",
+    "updated_at": "2026-11-08T16:08:58Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "711327b05b08609a35f2c0ccecd68066b1c4d9c8370f75ae245d0d29170bc12f",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "6737bea1db2f1ce704df7ac172bc74be2ccd95b1e82ee19ec64fb2dae2c651e9",
+    "revid": 22643
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:58Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Arcane_reconstruction_(talent)",
+    "kind": "talent",
+    "pageid": 1128,
+    "wiki_title": "Arcane reconstruction (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "72c7a91b85acde5842d9762acc0579906f54ad11ff22ce9d40c0db381b438419",
+    "source_sha256": "b01e05713a49c4d8d2243a1e85a8f618894d2cea1bd090d138caaca1e40db738",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:58Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "72c7a91b85acde5842d9762acc0579906f54ad11ff22ce9d40c0db381b438419",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

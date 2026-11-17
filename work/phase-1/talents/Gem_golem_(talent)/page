@@ -1,0 +1,13 @@
+{{Ability box
+|game_version=1.7.6
+|image=Gem golem.png
+|name=Gem Golem
+|category_type={{ct|Spell}}
+|category={{c|Advanced Golemancy}}
+|require={{TalentReq/SpellsReqHigh2}}
+|use_mode=Passive
+|desc=
+Insert a pair of gems into your golem, providing it with the gem bonuses and changing its melee attack damage type. You may remove the gems and insert different ones; this does not destroy the gems you remove.
+Gem level usable: {{gtl|1|5|raw}}
+Gem changing is done in the golem's inventory.
+}}

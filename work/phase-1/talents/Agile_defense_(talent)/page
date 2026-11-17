@@ -1,0 +1,12 @@
+{{Ability_box
+|image=agile_defense.png
+|name=Agile Defense
+|game_version=1.7.6
+|category_type={{ct|Technique}}
+|category={{c|Agility}}
+|require={{TalentReq/TechsDexReqHigh1}}
+|use_mode=Passive
+|desc=
+You are trained in an agile, mobile fighting technique combining sling and shield. This allows shields to be equipped, using Dexterity instead of Strength as a requirement.
+While you have a shield equip and your Block talent is not on cooldown, you have a {{cts|15|45%}} chance to deflect any incoming damage, reducing it by 50% of your shield’s block value.
+}}

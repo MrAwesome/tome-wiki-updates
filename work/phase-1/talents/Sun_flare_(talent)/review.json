@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "ccf80f8ff4a5514591b1fa1f81ad916d74846a9da7f29edcc2e3b1d7fcdc40c6",
+    "revid": 20327
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Sun_flare_(talent)",
+    "kind": "talent",
+    "pageid": 129,
+    "wiki_title": "Sun flare (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "7bbde2c78c06e09775c708aa64e9e9fc3e3f604d75245ce501cea23d77031b86",
+    "source_sha256": "41215a37c807d42e22106d4a41b47075cc90237b409411cc44b2dd12e1cad221",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "7bbde2c78c06e09775c708aa64e9e9fc3e3f604d75245ce501cea23d77031b86",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

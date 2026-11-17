@@ -1,0 +1,20 @@
+{{Ability box
+|game_version=1.7.6
+|image=Wave of power.png
+|name=Wave of Power
+|category_type={{ct|Celestial}}
+|category={{c|Combat}}
+|require={{TalentReq/DiviReq2}}
+|cost=15 Positive
+|cooldown=6
+|range=2 + {{css|Str|0.8|8}}
+|use_speed=Spell
+|desc=
+In a pure display of power, you project a ranged melee attack, doing {{ctwd|90|200%}} weapon damage.
+
+If the target is outside of melee range, you have a chance to project a second attack against it for {{ctl|100%|40|65%}} of the damage of the first attack.
+
+The second strike chance is {{cl|(Target Range * Talent Level)|100%|15|4|70%|50}}.
+
+The range will increase with your Strength.
+}}

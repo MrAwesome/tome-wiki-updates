@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "41a2ccfa24580d99f2b4d091b3ef75964b1343a45ae790c09a2fe7e601adc420",
+    "revid": 14544
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "applied"
+    }
+  ],
+  "identity": {
+    "filename": "Net_projector_(talent)",
+    "kind": "talent",
+    "pageid": 5169,
+    "wiki_title": "Net projector (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "applied",
+    "candidate_page_sha256": "948006bf338c171503f16702f32420a0414f72da49f19e08692b6a90c8b064be",
+    "source_sha256": "a6a503ad9f3f8fd9a72539d8dbfa39d015002d678d54f7497a3911af1258b441",
+    "status": "candidate",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "948006bf338c171503f16702f32420a0414f72da49f19e08692b6a90c8b064be",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

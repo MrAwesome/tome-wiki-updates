@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "61cc37f4b7b154fc52ca3c35454267895bfb4d1156e731cdf77dfff2003f50e6",
+    "revid": 18634
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:58Z",
+      "event": "deterministic_render_applied",
+      "reason": "baseline_preserved"
+    }
+  ],
+  "identity": {
+    "filename": "Black_monolith_(talent)",
+    "kind": "talent",
+    "pageid": 5917,
+    "wiki_title": "Black monolith (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "baseline_preserved",
+    "candidate_page_sha256": "61cc37f4b7b154fc52ca3c35454267895bfb4d1156e731cdf77dfff2003f50e6",
+    "source_sha256": "19cb982e3487d52626f46c5e0623f5f75b4ad2e126c7580e000672c74ce934b1",
+    "status": "unsupported_info",
+    "updated_at": "2026-11-08T16:08:58Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "61cc37f4b7b154fc52ca3c35454267895bfb4d1156e731cdf77dfff2003f50e6",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "5fc5c0c4d4876e3d1c2cc46ee55ad9a6cc731a14f48778c125754d70e2e97830",
+    "revid": 13872
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "baseline_preserved"
+    }
+  ],
+  "identity": {
+    "filename": "Suncloak_(talent)",
+    "kind": "talent",
+    "pageid": 3337,
+    "wiki_title": "Suncloak (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "baseline_preserved",
+    "candidate_page_sha256": "5fc5c0c4d4876e3d1c2cc46ee55ad9a6cc731a14f48778c125754d70e2e97830",
+    "source_sha256": "35afd14eba69d96a9a2742ecc52046618d170c6d6ae04b6a2a28d2edbdf76686",
+    "status": "unsupported_info",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "5fc5c0c4d4876e3d1c2cc46ee55ad9a6cc731a14f48778c125754d70e2e97830",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}

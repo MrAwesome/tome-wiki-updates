@@ -1,0 +1,24 @@
+{{Ability_box
+|image=Kinetic aura.png
+|name=Kinetic Aura
+|category_type=[[Psionic (category type)|Psionic]]
+|category=[[Projection (category)|Projection]]
+|require={{TalentReq/PsiWilReq1}}
+|use_mode=Sustained
+|cost=10 Psi
+|cooldown=10
+|desc=
+Fills the air around you with reactive currents of force.
+
+If you have a gem or mindstar in your psionically wielded slot, this will do {{ctmd|10|40}} Physical damage to all who approach. 
+
+All damage done by the aura will drain one point of energy per (9 + Talent Level) points of damage dealt.
+
+If you have a conventional weapon in your psionically wielded slot, this will add {{ctmd|10|40}} Physical damage to its hits.
+
+When deactivated, if you have at least 6.67 energy, a massive spike of kinetic energy is released as a range 6 beam, smashing targets for up to (10 * {{ctmd|10|40}}) physical damage and sending them flying.
+
+Activating the aura takes no time but de-activating it does.
+
+To turn off an aura without spiking it, deactivate it and target yourself.  The damage will improve with your Mindpower.
+}}

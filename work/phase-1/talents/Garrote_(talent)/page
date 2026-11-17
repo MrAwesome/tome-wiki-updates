@@ -1,0 +1,14 @@
+{{Ability_box
+|image=garrote.png
+|name=Garrote
+|game_version=1.7.6
+|category_type=[[Technique (category type)|Technique]]
+|category=[[Assassination (category)|Assassination]]
+|require={{TalentReq/TechsDexReqHigh3}}
+|use_mode=Passive
+|cooldown=6
+|desc=
+When attacking from stealth, you slip a garrote over the target’s neck (or other vulnerable part).  This strangles for {{cts|3|7}} turns and silences for {{cts|3|7}} turns.  Strangled targets are pinned and suffer an automatic unarmed attack for {{ctwd|20|60%}} damage each turn.
+Your chance to apply the garrote increases with your Accuracy and you must stay adjacent to your target to maintain it.
+This talent has a cooldown.
+}}

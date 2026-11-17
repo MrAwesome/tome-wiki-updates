@@ -1,0 +1,46 @@
+{
+  "automation": {
+    "deterministic": {
+      "mode": "run",
+      "notes": ""
+    },
+    "llm": {
+      "instructions": [],
+      "mode": "allow"
+    }
+  },
+  "baseline": {
+    "page_sha256": "4ef21faf84f2162808182c9daa2588ab4e95700a3325ec51993be857acd706de",
+    "revid": 19232
+  },
+  "blocked_by": [],
+  "history": [
+    {
+      "actor": "deterministic_renderer",
+      "at": "2026-11-08T16:08:59Z",
+      "event": "deterministic_render_applied",
+      "reason": "baseline_preserved"
+    }
+  ],
+  "identity": {
+    "filename": "Reclaim_(talent)",
+    "kind": "talent",
+    "pageid": 3162,
+    "wiki_title": "Reclaim (talent)"
+  },
+  "notes": "",
+  "render": {
+    "application_status": "baseline_preserved",
+    "candidate_page_sha256": "4ef21faf84f2162808182c9daa2588ab4e95700a3325ec51993be857acd706de",
+    "source_sha256": "61f5c34ce7b88bbd3ceff36eaa6b6238d2d1649ad1641508158509a2c0627a5f",
+    "status": "unsupported_info",
+    "updated_at": "2026-11-08T16:08:59Z"
+  },
+  "schema_version": 1,
+  "state": "update",
+  "work_page": {
+    "last_managed_sha256": "4ef21faf84f2162808182c9daa2588ab4e95700a3325ec51993be857acd706de",
+    "last_writer": "deterministic_renderer"
+  },
+  "workflow_status": "queued"
+}
