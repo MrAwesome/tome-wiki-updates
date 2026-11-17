@@ -1,1 +1,7 @@
-<p>You know how to protect yourself with the deepest shadows. As long as you stand on an unlit tile you gain <acronym class="stat-variable" title="Values for<br>Constitution 10, 25, 50, 75, 100">30, 30, 30, 37, 50</acronym> armour, 50% armour hardiness, and 20% evasion.</p><p>Any time you deal darkness damage, you will unlight both the target tile and yours.</p><p>Passively increases your stealth rating by 30.</p><p>The armor bonus scales with your Constitution.</p>
+You know how to protect yourself with the deepest shadows. As long as you stand on an unlit tile you gain [30, 30, 30, 37, 50 (CON 10-100)] armour, 50% armour hardiness, and 20% evasion.
+
+Any time you deal darkness damage, you will unlight both the target tile and yours.
+
+Passively increases your stealth rating by 30.
+
+The armor bonus scales with your Constitution.

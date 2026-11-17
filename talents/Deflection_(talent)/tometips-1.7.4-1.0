@@ -1,1 +1,5 @@
-<p>Create a barrier that siphons hate from you at the rate of 0.2 a turn. The barrier will deflect 50% of incoming damage with the force of your will, up to <acronym class="variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00,<br>mindpower 100">248, 334, 401, 458, 508</acronym> damage. The barrier charges at a rate of <acronym class="talent-variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00">1/38, 1/25, 1/18, 1/14, 1/12</acronym> of its maximum charge per turn.</p><p>In addition, your ability to channel force with this talent increases all critical damage by <acronym class="talent-variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00">4%, 7%, 10%, 12%, 15%</acronym> (currently: 0%)</p><p>The maximum damage deflected increases with your Mindpower.</p>
+Create a barrier that siphons hate from you at the rate of 0.2 a turn. The barrier will deflect 50% of incoming damage with the force of your will, up to [248, 334, 401, 458, 508 (TL1-5; MP 100)] damage. The barrier charges at a rate of [1/38, 1/25, 1/18, 1/14, 1/12 (TL1-5)] of its maximum charge per turn.
+
+In addition, your ability to channel force with this talent increases all critical damage by [4%, 7%, 10%, 12%, 15% (TL1-5)] (currently: 0%)
+
+The maximum damage deflected increases with your Mindpower.

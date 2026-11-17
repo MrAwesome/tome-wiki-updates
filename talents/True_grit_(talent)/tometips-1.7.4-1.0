@@ -1,1 +1,11 @@
-<p>Take a defensive stance to resist the onslaught of your foes.</p><p>While wounded, you gain all damage resistance equal to <acronym class="talent-variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00">25%, 31%, 36%, 41%, 45%</acronym> of your missing health.</p><p>(So if you have lost 70% of your life, you gain <acronym class="talent-variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00">17%, 22%, 25%, 28%, 31%</acronym> all resistance.)</p><p>In addition, your all damage resistance cap increases <acronym class="talent-variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00">22%, 31%, 37%, 41%, 45%</acronym> closer to 100%.</p><p>This consumes stamina rapidly the longer it is sustained (1.0 stamina/turn, increasing by 0.3/turn).</p><p>The resist is recalculated each time you take damage.</p>
+Take a defensive stance to resist the onslaught of your foes.
+
+While wounded, you gain all damage resistance equal to [25%, 31%, 36%, 41%, 45% (TL1-5)] of your missing health.
+
+(So if you have lost 70% of your life, you gain [17%, 22%, 25%, 28%, 31% (TL1-5)] all resistance.)
+
+In addition, your all damage resistance cap increases [22%, 31%, 37%, 41%, 45% (TL1-5)] closer to 100%.
+
+This consumes stamina rapidly the longer it is sustained (1.0 stamina/turn, increasing by 0.3/turn).
+
+The resist is recalculated each time you take damage.

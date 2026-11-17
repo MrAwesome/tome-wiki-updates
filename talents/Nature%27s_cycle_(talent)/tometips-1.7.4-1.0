@@ -1,1 +1,3 @@
-<p>While Master Summoner is active, each new summon will reduce the remaining cooldown of Pheromones, Detonate and Wild Summon.</p><p><acronym class="talent-variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00">45%, 60%, 75%, 90%, 100%</acronym> chance to reduce them by <acronym class="talent-variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00">0, 2, 3, 3, 3.</acronym></p>
+While Master Summoner is active, each new summon will reduce the remaining cooldown of Pheromones, Detonate and Wild Summon.
+
+[45%, 60%, 75%, 90%, 100% (TL1-5)] chance to reduce them by [0, 2, 3, 3, 3 (TL1-5)].

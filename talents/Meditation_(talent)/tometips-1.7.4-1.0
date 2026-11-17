@@ -1,1 +1,9 @@
-<p>Meditate on your link with Nature.</p><p>While meditating, your equilibrium decreases by <acronym class="variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00,<br>mindpower 100">9.11, 12, 13, 15, 17</acronym> per turn, your Mental Save is increased by <acronym class="variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00,<br>mindpower 100">27, 35, 41, 46, 51,</acronym> and your healing factor increases by <acronym class="variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00,<br>mindpower 100">21%, 27%, 32%, 35%, 39%.</acronym></p><p>Your deep meditation does not let you deal damage correctly, reducing the damage you and your summons deal by 50%.</p><p>Also, any time you are resting (even with Meditation not sustained) you enter a simple meditative state that decreases your equilibrium by <acronym class="talent-variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00">0.50, 1.08, 1.59, 2.06, 2.50</acronym> per turn.</p><p>The activated effects increase with your Mindpower.</p>
+Meditate on your link with Nature.
+
+While meditating, your equilibrium decreases by [9.11, 12, 13, 15, 17 (TL1-5; MP 100)] per turn, your Mental Save is increased by [27, 35, 41, 46, 51 (TL1-5; MP 100)], and your healing factor increases by [21%, 27%, 32%, 35%, 39% (TL1-5; MP 100)].
+
+Your deep meditation does not let you deal damage correctly, reducing the damage you and your summons deal by 50%.
+
+Also, any time you are resting (even with Meditation not sustained) you enter a simple meditative state that decreases your equilibrium by [0.50, 1.08, 1.59, 2.06, 2.50 (TL1-5)] per turn.
+
+The activated effects increase with your Mindpower.

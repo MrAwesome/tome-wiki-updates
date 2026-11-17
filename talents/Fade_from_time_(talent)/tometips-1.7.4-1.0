@@ -1,1 +1,7 @@
-<p>You partially remove yourself from the timeline for 10 turns.</p><p>This increases your resistance to all damage by <acronym class="variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00,<br>spellpower 100,<br>paradox 300">28%, 38%, 46%, 52%, 58%,</acronym> reduces the duration of all detrimental effects on you by <acronym class="variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00,<br>spellpower 100,<br>paradox 300">30%, 36%, 40%, 43%, 45%,</acronym> and reduces all damage you deal by 20%.</p><p>The resistance bonus, effect reduction, and damage penalty will gradually lose power over the duration of the spell.</p><p>The effects scale with your Spellpower.</p>
+You partially remove yourself from the timeline for 10 turns.
+
+This increases your resistance to all damage by [28%, 38%, 46%, 52%, 58% (TL1-5; SP 100; PARADOX 300)], reduces the duration of all detrimental effects on you by [30%, 36%, 40%, 43%, 45% (TL1-5; SP 100; PARADOX 300)], and reduces all damage you deal by 20%.
+
+The resistance bonus, effect reduction, and damage penalty will gradually lose power over the duration of the spell.
+
+The effects scale with your Spellpower.

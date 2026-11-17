@@ -1,1 +1,14 @@
-<p>Press your advantage when your foes are starting to crumble.</p><p>For every detrimental effect on the target you deals <acronym class="variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00,<br>spellpower 100">184, 248, 298, 340, 377</acronym> frostdusk damage (with diminishing returns) and reduce its global speed by 25% for one turn per effect (up to a maximum of <acronym class="talent-variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00">1, 3, 5, 7, 9</acronym>).</p><p>The diminishing returns on damage bonus works this way:</p><ul><li> 2 effects: <acronym class="variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00,<br>spellpower 100">268, 360, 432, 493, 547</acronym></li><li> 5 effects: <acronym class="variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00,<br>spellpower 100">378, 509, 610, 696, 772</acronym></li><li> 10 effects: <acronym class="variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00,<br>spellpower 100">461, 621, 744, 849, 942</acronym></li><li> 15 effects: <acronym class="variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00,<br>spellpower 100">510, 686, 823, 939, 1042</acronym></li></ul><p>And so on&hellip;</p><p>Damage increases with your Spellpower.</p><p></p>
+Press your advantage when your foes are starting to crumble.
+
+For every detrimental effect on the target you deals [184, 248, 298, 340, 377 (TL1-5; SP 100)] frostdusk damage (with diminishing returns) and reduce its global speed by 25% for one turn per effect (up to a maximum of [1, 3, 5, 7, 9 (TL1-5)]).
+
+The diminishing returns on damage bonus works this way:
+
+*  2 effects: [268, 360, 432, 493, 547 (TL1-5; SP 100)]
+*  5 effects: [378, 509, 610, 696, 772 (TL1-5; SP 100)]
+*  10 effects: [461, 621, 744, 849, 942 (TL1-5; SP 100)]
+*  15 effects: [510, 686, 823, 939, 1042 (TL1-5; SP 100)]
+
+And so on…
+
+Damage increases with your Spellpower.

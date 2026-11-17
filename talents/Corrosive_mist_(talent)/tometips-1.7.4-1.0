@@ -1,1 +1,7 @@
-<p>Exhale a mist of lingering acid, dealing <acronym class="variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00,<br>mindpower 100">41, 55, 66, 75, 83</acronym> acid damage that can critical in a radius of <acronym class="talent-variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00">2, 3, 3, 4, 4</acronym> each turn for <acronym class="stat-variable" title="Values for<br>mindpower 10, 25, 50, 75, 100">6, 6, 7, 7, 7</acronym> turns.</p><p>Enemies in this mist will be corroded for <acronym class="talent-variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00">2, 2, 3, 3, 3</acronym> turns, lowering their Accuracy, their Armour and their Defense by <acronym class="variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00,<br>mindpower 100">11, 14, 17, 20, 22.</acronym></p><p>The damage and duration will increase with your Mindpower, and the radius will increase with talent level.</p><p>Each point in acid drake talents also increases your acid resistance by 1%.</p>
+Exhale a mist of lingering acid, dealing [41, 55, 66, 75, 83 (TL1-5; MP 100)] acid damage that can critical in a radius of [2, 3, 3, 4, 4 (TL1-5)] each turn for [6, 6, 7, 7, 7 (MP 10-100)] turns.
+
+Enemies in this mist will be corroded for [2, 2, 3, 3, 3 (TL1-5)] turns, lowering their Accuracy, their Armour and their Defense by [11, 14, 17, 20, 22 (TL1-5; MP 100)].
+
+The damage and duration will increase with your Mindpower, and the radius will increase with talent level.
+
+Each point in acid drake talents also increases your acid resistance by 1%.

@@ -1,1 +1,7 @@
-<p>You focus the aether into a spinning beam of arcane energies, doing <acronym class="variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00,<br>spellpower 100">90, 121, 145, 165, 183</acronym> arcane damage and having 25% chance to silence the creatures it pierces.</p><p>The beam will also damage its epicenter each turn for 10% of the damage (but it will not silence).</p><p>The beam spins with incredible speed (1600%) and can only hit the same target up to 3 times inbetween their turns.</p><p>The damage will increase with your Spellpower.</p>
+You focus the aether into a spinning beam of arcane energies, doing [90, 121, 145, 165, 183 (TL1-5; SP 100)] arcane damage and having 25% chance to silence the creatures it pierces.
+
+The beam will also damage its epicenter each turn for 10% of the damage (but it will not silence).
+
+The beam spins with incredible speed (1600%) and can only hit the same target up to 3 times inbetween their turns.
+
+The damage will increase with your Spellpower.

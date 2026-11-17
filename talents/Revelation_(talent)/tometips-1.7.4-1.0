@@ -1,1 +1,11 @@
-<p>As you speak the chosen prophecy whispers from the void guide you in how to bring about the downfall of your foe. The chosen prophecy will grant one of the following effects.</p><p>Prophecy of Madness. Each time the target uses a talent one of your talents on cooldown has its cooldown reduced by <acronym class="talent-variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00">1, 2, 3, 3, 4</acronym> turns.</p><p>Prophecy of Ruin. Each time the target takes damage you are healed for <acronym class="talent-variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00">5%, 8%, 10%, 13%, 15%</acronym> of the damage dealt.</p><p>Prophecy of Treason: <acronym class="talent-variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00">5%, 10%, 13%, 17%, 20%</acronym> of all damage you take is redirected to a random target affected by Prophecy of Treason.</p><p>A prophecy can only be affected by one of Grand Oration, Twofold Curse or Revelation.</p><p></p><p>Current prophecy: None</p>
+As you speak the chosen prophecy whispers from the void guide you in how to bring about the downfall of your foe. The chosen prophecy will grant one of the following effects.
+
+Prophecy of Madness. Each time the target uses a talent one of your talents on cooldown has its cooldown reduced by [1, 2, 3, 3, 4 (TL1-5)] turns.
+
+Prophecy of Ruin. Each time the target takes damage you are healed for [5%, 8%, 10%, 13%, 15% (TL1-5)] of the damage dealt.
+
+Prophecy of Treason: [5%, 10%, 13%, 17%, 20% (TL1-5)] of all damage you take is redirected to a random target affected by Prophecy of Treason.
+
+A prophecy can only be affected by one of Grand Oration, Twofold Curse or Revelation.
+
+Current prophecy: None

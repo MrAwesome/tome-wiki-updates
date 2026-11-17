@@ -1,1 +1,5 @@
-<p>You coat your bullets with flammable materials, for the next <acronym class="talent-variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00">2, 4, 5, 6, 7</acronym> turns each bullet will explode when it hits its target, dealing <acronym class="variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00,<br>steampower 100">76, 103, 123, 141, 156</acronym> fire damage to all foes within radius 2 (most of your shooting talents fire two bullets at once).</p><p>Damage will increase with Steampower.</p><p>Only one bullet enhancement can be used at once.</p>
+You coat your bullets with flammable materials, for the next [2, 4, 5, 6, 7 (TL1-5)] turns each bullet will explode when it hits its target, dealing [76, 103, 123, 141, 156 (TL1-5; STEAMPOWER 100)] fire damage to all foes within radius 2 (most of your shooting talents fire two bullets at once).
+
+Damage will increase with Steampower.
+
+Only one bullet enhancement can be used at once.

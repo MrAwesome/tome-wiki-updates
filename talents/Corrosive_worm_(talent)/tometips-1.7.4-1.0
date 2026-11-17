@@ -1,1 +1,5 @@
-<p>Infects the target with a corrosive worm for 6 turns that reduces blight and acid resistance by <acronym class="talent-variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00">3%, 9%, 14%, 17%, 20%</acronym> and feeds off damage taken.</p><p>When this effect ends or the target dies the worm will explode, dealing <acronym class="variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00,<br>spellpower 100">34, 46, 55, 63, 70</acronym> acid damage in a 4 radius ball. This damage will increase by <acronym class="variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00,<br>spellpower 100">25%, 34%, 41%, 47%, 52%</acronym> of all damage taken while infected.</p><p>The damage dealt by the effect will increase with spellpower.</p>
+Infects the target with a corrosive worm for 6 turns that reduces blight and acid resistance by [3%, 9%, 14%, 17%, 20% (TL1-5)] and feeds off damage taken.
+
+When this effect ends or the target dies the worm will explode, dealing [34, 46, 55, 63, 70 (TL1-5; SP 100)] acid damage in a 4 radius ball. This damage will increase by [25%, 34%, 41%, 47%, 52% (TL1-5; SP 100)] of all damage taken while infected.
+
+The damage dealt by the effect will increase with spellpower.

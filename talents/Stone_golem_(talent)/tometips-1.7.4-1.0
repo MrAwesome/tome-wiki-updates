@@ -1,1 +1,7 @@
-<p>Summon a Stone Golem for <acronym class="talent-variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00">6, 7, 7, 8, 9</acronym> turns to attack your foes. Stone golems are formidable foes that can become unstoppable.</p><p>It will get <acronym class="variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00,<br>mindpower 100">57, 105, 148, 188, 225</acronym> Strength, <acronym class="talent-variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00">12, 14, 16, 18, 20</acronym> Constitution and <acronym class="variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00,<br>mindpower 100">55, 101, 142, 179, 215</acronym> Dexterity.</p><p>Your summons inherit some of your stats: increased damage%, resistance penetration %, stun/pin/confusion/blindness resistance, armour penetration.</p><p>The golem's Strength and Dexterity will increase with your Mindpower.</p>
+Summon a Stone Golem for [6, 7, 7, 8, 9 (TL1-5)] turns to attack your foes. Stone golems are formidable foes that can become unstoppable.
+
+It will get [57, 105, 148, 188, 225 (TL1-5; MP 100)] Strength, [12, 14, 16, 18, 20 (TL1-5)] Constitution and [55, 101, 142, 179, 215 (TL1-5; MP 100)] Dexterity.
+
+Your summons inherit some of your stats: increased damage%, resistance penetration %, stun/pin/confusion/blindness resistance, armour penetration.
+
+The golem's Strength and Dexterity will increase with your Mindpower.

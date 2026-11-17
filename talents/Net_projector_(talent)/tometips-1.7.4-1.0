@@ -1,1 +1,3 @@
-<p>Sends a lightly electrified net of radius 2 toward a target, all creatures caught inside will be pinned in place for 5 turns.</p><p>While the electricity is not enough to do damage it does shock their body, reducing all resistances by <acronym class="talent-variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00">15%, 28%, 35%, 41%, 45%.</acronym></p>
+Sends a lightly electrified net of radius 2 toward a target, all creatures caught inside will be pinned in place for 5 turns.
+
+While the electricity is not enough to do damage it does shock their body, reducing all resistances by [15%, 28%, 35%, 41%, 45% (TL1-5)].

@@ -1,1 +1,11 @@
-<p>When casting damaging spells or mind attacks, the release of your willpower can call forth a meteor to crash down near your foes.</p><p>The meteor deals <acronym class="stat-variable" title="Values for<br>spellpower 10, 25, 50, 75, 100,<br>mindpower 10, 25, 50, 75, 100">50, 88, 150, 213, 275</acronym> fire and <acronym class="stat-variable" title="Values for<br>spellpower 10, 25, 50, 75, 100,<br>mindpower 10, 25, 50, 75, 100">50, 88, 150, 213, 275</acronym> physical damage in radius 2 and stuns enemies for 3 turns.</p><p>Lava is created in radius 3 around the impact dealing <acronym class="stat-variable" title="Values for<br>spellpower 10, 25, 50, 75, 100,<br>mindpower 10, 25, 50, 75, 100">40, 55, 80, 105, 130</acronym> fire damage per turn for 8 turns.  This will overwrite tiles that already have modified terrain.</p><p>You and your allies take no damage from either effect.</p><p></p><p>Additionally, your fire damage bonus and resistance penetration is set to your current highest damage bonus and resistance penetration. This applies to all fire damage you deal.</p><p>The damage scales with your Spellpower or Mindpower.</p>
+When casting damaging spells or mind attacks, the release of your willpower can call forth a meteor to crash down near your foes.
+
+The meteor deals [50, 88, 150, 213, 275 (SP 10-100; MP 10-100)] fire and [50, 88, 150, 213, 275 (SP 10-100; MP 10-100)] physical damage in radius 2 and stuns enemies for 3 turns.
+
+Lava is created in radius 3 around the impact dealing [40, 55, 80, 105, 130 (SP 10-100; MP 10-100)] fire damage per turn for 8 turns.  This will overwrite tiles that already have modified terrain.
+
+You and your allies take no damage from either effect.
+
+Additionally, your fire damage bonus and resistance penetration is set to your current highest damage bonus and resistance penetration. This applies to all fire damage you deal.
+
+The damage scales with your Spellpower or Mindpower.

@@ -1,1 +1,15 @@
-<p>Using your near-perfect knowledge of beam spells you combine them all into a powerful 3-wide beam of pure energy.</p><p>The beam deals <acronym class="variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00,<br>spellpower 100">229, 309, 370, 423, 469</acronym> thaumic damage and always goes as far as possible.</p><p>Thaumic damage can never be resisted by anything but "Resistance: All", always uses your highest resistance penetration and highest damage type bonus and can never be altered into other damage types.</p><p>It can trigger Burning Wake and Hurricane.</p><p>It is affected by the wet status (+30% damage) if you are in Shivgoroth Form.</p><p>It has a 25% chance to either stun or freeze the targets for 3 turns (if Crystalline Focus or Uttercold are active, respectively).</p><p>Each time you deal damage with a beam spell, the remaining cooldown is reduced by 1 (this can happen only once per turn).</p><p>The damage will increase with your Spellpower.</p>
+Using your near-perfect knowledge of beam spells you combine them all into a powerful 3-wide beam of pure energy.
+
+The beam deals [229, 309, 370, 423, 469 (TL1-5; SP 100)] thaumic damage and always goes as far as possible.
+
+Thaumic damage can never be resisted by anything but "Resistance: All", always uses your highest resistance penetration and highest damage type bonus and can never be altered into other damage types.
+
+It can trigger Burning Wake and Hurricane.
+
+It is affected by the wet status (+30% damage) if you are in Shivgoroth Form.
+
+It has a 25% chance to either stun or freeze the targets for 3 turns (if Crystalline Focus or Uttercold are active, respectively).
+
+Each time you deal damage with a beam spell, the remaining cooldown is reduced by 1 (this can happen only once per turn).
+
+The damage will increase with your Spellpower.

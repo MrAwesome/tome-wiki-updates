@@ -1,1 +1,3 @@
-<p>Spit poison at your target, doing <acronym class="variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00,<br>Strength 100,<br>Dexterity 100">199, 273, 330, 378, 420</acronym> poison damage over six turns.</p><p>The damage will increase with your Strength or Dexterity (whichever is higher).</p>
+Spit poison at your target, doing [199, 273, 330, 378, 420 (TL1-5; STR 100; DEX 100)] poison damage over six turns.
+
+The damage will increase with your Strength or Dexterity (whichever is higher).

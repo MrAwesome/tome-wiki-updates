@@ -1,1 +1,5 @@
-<p>Creates a shadowy copy of a hostile target. The copy will attack its progenitor immediately and lasts for <acronym class="variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00,<br>Cunning 100">5, 6, 7, 8, 9</acronym> turns.</p><p>The duplicate has <acronym class="variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00,<br>Cunning 100">19%, 30%, 38%, 44%, 50%</acronym> of the target's life, +50% darkness resistance, -50% light resistance, and deals 50% less damage.</p><p>The duration and life scale with your Cunning.</p>
+Creates a shadowy copy of a hostile target. The copy will attack its progenitor immediately and lasts for [5, 6, 7, 8, 9 (TL1-5; CUN 100)] turns.
+
+The duplicate has [19%, 30%, 38%, 44%, 50% (TL1-5; CUN 100)] of the target's life, +50% darkness resistance, -50% light resistance, and deals 50% less damage.
+
+The duration and life scale with your Cunning.

@@ -1,1 +1,3 @@
-<p>You target a single creature with all your hatred and insanity, augmenting its despair, increasing the duration of detrimental effects by <acronym class="talent-variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00">1, 2, 3, 4, 5</acronym> turns and dealing <acronym class="variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00,<br>spellpower 100,<br>mindpower 100">71, 96, 115, 131, 145</acronym> blight damage per detrimental effect (each effect deals 75% of the previous one).</p><p>The damage will scale with the highest of your spell or mind power.</p>
+You target a single creature with all your hatred and insanity, augmenting its despair, increasing the duration of detrimental effects by [1, 2, 3, 4, 5 (TL1-5)] turns and dealing [71, 96, 115, 131, 145 (TL1-5; SP 100; MP 100)] blight damage per detrimental effect (each effect deals 75% of the previous one).
+
+The damage will scale with the highest of your spell or mind power.

@@ -1,1 +1,9 @@
-<p>Teleports you randomly within a small range of up to <acronym class="variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00,<br>spellpower 100">12, 14, 15, 16, 17</acronym> grids.</p><p>At level 4, it allows you to specify which creature to teleport.</p><p>At level 5, it allows you to choose the target area (radius <acronym class="talent-variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00">7, 4, 2, 2, 1</acronym>).</p><p>If the target area is not in line of sight, there is a chance the spell will partially fail and teleport the target randomly.</p><p>The range will increase with your Spellpower.</p>
+Teleports you randomly within a small range of up to [12, 14, 15, 16, 17 (TL1-5; SP 100)] grids.
+
+At level 4, it allows you to specify which creature to teleport.
+
+At level 5, it allows you to choose the target area (radius [7, 4, 2, 2, 1 (TL1-5)]).
+
+If the target area is not in line of sight, there is a chance the spell will partially fail and teleport the target randomly.
+
+The range will increase with your Spellpower.

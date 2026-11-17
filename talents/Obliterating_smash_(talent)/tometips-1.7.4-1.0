@@ -1,1 +1,5 @@
-<p>Swing your weapon with incredible force, striking all enemies in a radius 3 semicircle, dealing <acronym class="talent-variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00">96%, 124%, 145%, 163%, 179%</acronym> weapon damage to all targets.</p><p>Starting from talent level 5, all targets hit will have their armour and saves reduced by <acronym class="talent-variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00">10, 14, 16, 19, 20.</acronym></p><p>This attack can not miss.</p>
+Swing your weapon with incredible force, striking all enemies in a radius 3 semicircle, dealing [96%, 124%, 145%, 163%, 179% (TL1-5)] weapon damage to all targets.
+
+Starting from talent level 5, all targets hit will have their armour and saves reduced by [10, 14, 16, 19, 20 (TL1-5)].
+
+This attack can not miss.

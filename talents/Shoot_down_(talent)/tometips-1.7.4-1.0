@@ -1,1 +1,5 @@
-<p>Your reflexes are lightning-fast, if you spot a projectile (arrow, shot, spell, &hellip;) you can instantly shoot at it without taking a turn to take it down.</p><p>You can shoot down up to <acronym class="talent-variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00">1, 2, 3, 4, 5</acronym> projectiles.</p><p>In addition, your heightened senses also reduce the speed of incoming projectiles by <acronym class="talent-variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00">15%, 26%, 35%, 43%, 50%,</acronym> and prevents your own projectiles from striking you.</p>
+Your reflexes are lightning-fast, if you spot a projectile (arrow, shot, spell, …) you can instantly shoot at it without taking a turn to take it down.
+
+You can shoot down up to [1, 2, 3, 4, 5 (TL1-5)] projectiles.
+
+In addition, your heightened senses also reduce the speed of incoming projectiles by [15%, 26%, 35%, 43%, 50% (TL1-5)], and prevents your own projectiles from striking you.

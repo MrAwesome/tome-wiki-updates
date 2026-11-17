@@ -1,1 +1,7 @@
-<p>You brace yourself for the final stand, increasing Defense and Armor by <acronym class="variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00,<br>Dexterity 100,<br>Constitution 100">8, 10, 12, 14, 15,</acronym> maximum and current life by <acronym class="variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00,<br>Dexterity 100,<br>Constitution 100">166, 235, 287, 331, 368,</acronym> but making you unable to move.</p><p>Your stand lets you concentrate on every blow, allowing you to avoid death from normally fatal wounds. You can only die when reaching <acronym class="variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00,<br>Dexterity 100,<br>Constitution 100">-166, -235, -287, -331, -368</acronym> life.</p><p>If your life is below 0 when Last Stand ends it will be set to 1.</p><p>The increase in Defense and Armor is based on your Dexterity, and the increase in life is based on your Constitution and normal maximum life.</p>
+You brace yourself for the final stand, increasing Defense and Armor by [8, 10, 12, 14, 15 (TL1-5; DEX 100; CON 100)], maximum and current life by [166, 235, 287, 331, 368 (TL1-5; DEX 100; CON 100)], but making you unable to move.
+
+Your stand lets you concentrate on every blow, allowing you to avoid death from normally fatal wounds. You can only die when reaching [-166, -235, -287, -331, -368 (TL1-5; DEX 100; CON 100)] life.
+
+If your life is below 0 when Last Stand ends it will be set to 1.
+
+The increase in Defense and Armor is based on your Dexterity, and the increase in life is based on your Constitution and normal maximum life.

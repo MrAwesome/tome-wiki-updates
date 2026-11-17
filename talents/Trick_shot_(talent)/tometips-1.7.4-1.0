@@ -1,1 +1,7 @@
-<p>Your cunning and dexterity allow you to fire incredible trick shots that can hit multiple targets.</p><p>You precisely aim your trick shot to ricochet amongst foes you can see so that whenever it hits something solid (creature or solid wall), it will bounce towards the next closest foe.</p><p>It may ricochet up to <acronym class="talent-variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00">1, 2, 3, 3, 4</acronym> times (or until it misses) within range 5 of your first target and will not target the same foe twice.</p><p>Your shot deals <acronym class="talent-variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00">95%, 110%, 121%, 131%, 140%</acronym> weapon damage on its first strike, but loses <acronym class="talent-variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00">38%, 28%, 22%, 18%, 15%</acronym> damage and 0(<acronym class="talent-variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00">48%, 35%, 28%, 22%, 19%</acronym>) accuracy with each bounce.</p>
+Your cunning and dexterity allow you to fire incredible trick shots that can hit multiple targets.
+
+You precisely aim your trick shot to ricochet amongst foes you can see so that whenever it hits something solid (creature or solid wall), it will bounce towards the next closest foe.
+
+It may ricochet up to [1, 2, 3, 3, 4 (TL1-5)] times (or until it misses) within range 5 of your first target and will not target the same foe twice.
+
+Your shot deals [95%, 110%, 121%, 131%, 140% (TL1-5)] weapon damage on its first strike, but loses [38%, 28%, 22%, 18%, 15% (TL1-5)] damage and 0([48%, 35%, 28%, 22%, 19% (TL1-5)]) accuracy with each bounce.

@@ -1,1 +1,7 @@
-<p>You unleash the fury of the Spellblaze, constantly draining your vim.</p><p>While this spell is active at most two meteors will fall near your per turn, dealing <acronym class="variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00,<br>spellpower 100">64, 87, 104, 119, 132</acronym> physical and <acronym class="variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00,<br>spellpower 100">64, 87, 104, 119, 132</acronym> fire damage in radius 2.</p><p>This spell disabled automatically on rest or run.</p><p>The effects increase with spellpower.</p>
+You unleash the fury of the Spellblaze, constantly draining your vim.
+
+While this spell is active at most two meteors will fall near your per turn, dealing [64, 87, 104, 119, 132 (TL1-5; SP 100)] physical and [64, 87, 104, 119, 132 (TL1-5; SP 100)] fire damage in radius 2.
+
+This spell disabled automatically on rest or run.
+
+The effects increase with spellpower.

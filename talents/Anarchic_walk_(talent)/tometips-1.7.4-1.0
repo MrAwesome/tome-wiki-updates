@@ -1,1 +1,3 @@
-<p>You consume the chaotic forces of 2 chaos orbs, randomly teleporting you in a general direction up to 8 tiles away.</p><p>You will always travel at least <acronym class="talent-variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00">1, 3, 4, 4, 5</acronym> tiles away if possible.</p>
+You consume the chaotic forces of 2 chaos orbs, randomly teleporting you in a general direction up to 8 tiles away.
+
+You will always travel at least [1, 3, 4, 4, 5 (TL1-5)] tiles away if possible.

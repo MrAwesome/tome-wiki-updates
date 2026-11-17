@@ -1,1 +1,7 @@
-<p>While active, every swing of your weapon strikes strikes other adjacent enemies for <acronym class="variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00,<br>Strength 100">24%, 37%, 46%, 54%, 60%</acronym> (at 0 hate) to <acronym class="variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00,<br>Strength 100">37%, 54%, 65%, 73%, 79%</acronym> (at 100 hate) physical damage. The recklessness of your attacks brings you bad luck (luck -3).</p><p>Cleave, Repel and Surge cannot be active simultaneously, and activating one will place the others in cooldown.</p><p>Cleave will deal 25% additional damage while using a two-handed weapon.</p><p>The Cleave damage increases with your Strength.</p>
+While active, every swing of your weapon strikes strikes other adjacent enemies for [24%, 37%, 46%, 54%, 60% (TL1-5; STR 100)] (at 0 hate) to [37%, 54%, 65%, 73%, 79% (TL1-5; STR 100)] (at 100 hate) physical damage. The recklessness of your attacks brings you bad luck (luck -3).
+
+Cleave, Repel and Surge cannot be active simultaneously, and activating one will place the others in cooldown.
+
+Cleave will deal 25% additional damage while using a two-handed weapon.
+
+The Cleave damage increases with your Strength.

@@ -1,1 +1,7 @@
-<p>Blast a wave of cold all around you with a radius of <acronym class="talent-variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00">2, 3, 4, 5, 6,</acronym> doing <acronym class="variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00,<br>spellpower 100">172, 231, 277, 316, 351</acronym> cold damage and freezing creatures to the ground for 4 turns.</p><p>Affected creatures can still act, but cannot move.</p><p>For each affected creature that is also wet the cooldown of Shatter decreases by 2.</p><p>The damage will increase with your Spellpower.</p>
+Blast a wave of cold all around you with a radius of [2, 3, 4, 5, 6 (TL1-5)], doing [172, 231, 277, 316, 351 (TL1-5; SP 100)] cold damage and freezing creatures to the ground for 4 turns.
+
+Affected creatures can still act, but cannot move.
+
+For each affected creature that is also wet the cooldown of Shatter decreases by 2.
+
+The damage will increase with your Spellpower.

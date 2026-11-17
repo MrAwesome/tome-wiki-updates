@@ -1,1 +1,7 @@
-<p>Smash your target with a splintering glass attack doing <acronym class="talent-variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00">128%, 152%, 170%, 186%, 200%</acronym> arcane weapon damage.</p><p>If this attack hits the target will have glass splinters for 6 turns.</p><p>Each turn the target will bleed for 8% of the attack damage. The splinters are very painful and if the target moves it will instantly take <acronym class="talent-variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00">7%, 14%, 20%, 25%, 30%</acronym> of the attack damage.</p><p>At level 5 the target suffers so much it has 15% chances to fail using talents.</p>
+Smash your target with a splintering glass attack doing [128%, 152%, 170%, 186%, 200% (TL1-5)] arcane weapon damage.
+
+If this attack hits the target will have glass splinters for 6 turns.
+
+Each turn the target will bleed for 8% of the attack damage. The splinters are very painful and if the target moves it will instantly take [7%, 14%, 20%, 25%, 30% (TL1-5)] of the attack damage.
+
+At level 5 the target suffers so much it has 15% chances to fail using talents.

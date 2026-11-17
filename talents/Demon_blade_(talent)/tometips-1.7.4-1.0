@@ -1,1 +1,5 @@
-<p>Imbue your weapon with fire for 5 turns. During this time all your melee hits will trigger a ball of fire of radius 1 dealing <acronym class="variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00,<br>spellpower 100">64, 84, 100, 113, 125</acronym> fire damage.</p><p>This effect can only happen once per turn.</p><p>The damage increases with spellpower.</p>
+Imbue your weapon with fire for 5 turns. During this time all your melee hits will trigger a ball of fire of radius 1 dealing [64, 84, 100, 113, 125 (TL1-5; SP 100)] fire damage.
+
+This effect can only happen once per turn.
+
+The damage increases with spellpower.

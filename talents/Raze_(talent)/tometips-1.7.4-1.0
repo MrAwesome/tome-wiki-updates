@@ -1,1 +1,5 @@
-<p>You revel in death, devouring the souls of your victims. Whenever you inflict damage to a target, you deal an additional <acronym class="variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00,<br>spellpower 100,<br>mindpower 100">11, 15, 18, 20, 23</acronym> darkness damage.</p><p>Additionally, you gain <acronym class="talent-variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00">1, 1, 1, 1, 2</acronym> souls whenever you score a kill.</p><p>The damage will scale with the highest of your spell or mind power and can only occur up to 25 times per turn.</p>
+You revel in death, devouring the souls of your victims. Whenever you inflict damage to a target, you deal an additional [11, 15, 18, 20, 23 (TL1-5; SP 100; MP 100)] darkness damage.
+
+Additionally, you gain [1, 1, 1, 1, 2 (TL1-5)] souls whenever you score a kill.
+
+The damage will scale with the highest of your spell or mind power and can only occur up to 25 times per turn.

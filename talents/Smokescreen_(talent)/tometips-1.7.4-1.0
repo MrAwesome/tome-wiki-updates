@@ -1,1 +1,5 @@
-<p>Throw a vial of volatile liquid that explodes in a radius 2 cloud of smoke lasting <acronym class="talent-variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00">3, 4, 5, 5, 5</acronym> turns.  The smoke blocks line of sight, and enemies within will have their vision range reduced by <acronym class="talent-variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00">1, 2, 3, 4, 6.</acronym></p><p>Use of this talent will not break stealth, and creatures affected by the smokes can never prevent you from activating stealth, even if their proximity would normally forbid it.</p><p><span style="color: #ffff00"><span class="tstr-color-YELLOW">Prepared with: not prepared</span></span></p>
+Throw a vial of volatile liquid that explodes in a radius 2 cloud of smoke lasting [3, 4, 5, 5, 5 (TL1-5)] turns.  The smoke blocks line of sight, and enemies within will have their vision range reduced by [1, 2, 3, 4, 6 (TL1-5)].
+
+Use of this talent will not break stealth, and creatures affected by the smokes can never prevent you from activating stealth, even if their proximity would normally forbid it.
+
+Prepared with: not prepared

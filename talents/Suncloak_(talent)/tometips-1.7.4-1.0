@@ -1,1 +1,5 @@
-<p>You wrap yourself in a cloak of sunlight that empowers your magic and protects you for 6 turns.</p><p>While the cloak is active, your spell casting speed is increased by <acronym class="variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00,<br>spellpower 100">18%, 25%, 30%, 34%, 38%,</acronym> your spell cooldowns are reduced by <acronym class="variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00,<br>spellpower 100">34%, 39%, 41%, 42%, 44%,</acronym> and you cannot take more than <acronym class="talent-variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00">89%, 77%, 69%, 63%, 59%</acronym> of your maximum life from a single blow.</p><p>The effects will increase with your Spellpower.</p>
+You wrap yourself in a cloak of sunlight that empowers your magic and protects you for 6 turns.
+
+While the cloak is active, your spell casting speed is increased by [18%, 25%, 30%, 34%, 38% (TL1-5; SP 100)], your spell cooldowns are reduced by [34%, 39%, 41%, 42%, 44% (TL1-5; SP 100)], and you cannot take more than [89%, 77%, 69%, 63%, 59% (TL1-5)] of your maximum life from a single blow.
+
+The effects will increase with your Spellpower.

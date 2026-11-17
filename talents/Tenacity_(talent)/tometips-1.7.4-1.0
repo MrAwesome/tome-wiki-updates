@@ -1,1 +1,5 @@
-<p>Nothing will stop your rampage.</p><p>Rampage Bonus: You shrug off up to <acronym class="variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00,<br>Strength 100">35, 46, 54, 61, 67</acronym> damage each turn during your rampage. If you shrug off more than <acronym class="variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00,<br>Strength 100">143, 186, 218, 245, 268</acronym> damage, the rampage duration increases by 1.</p><p>The amount of damage you can shrug off improves with your Strength.</p>
+Nothing will stop your rampage.
+
+Rampage Bonus: You shrug off up to [35, 46, 54, 61, 67 (TL1-5; STR 100)] damage each turn during your rampage. If you shrug off more than [143, 186, 218, 245, 268 (TL1-5; STR 100)] damage, the rampage duration increases by 1.
+
+The amount of damage you can shrug off improves with your Strength.

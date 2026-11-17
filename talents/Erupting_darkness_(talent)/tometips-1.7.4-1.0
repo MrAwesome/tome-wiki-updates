@@ -1,1 +1,7 @@
-<p>When Dread End creates pools of darkness you can focus your raging thoughts on them to make them erupt into volcanos.</p><p>Up to <acronym class="talent-variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00">1, 1, 2, 2, 3</acronym> pools in radius 7 will erupt, producing a volcano for 5 turns.</p><p>Each turn the volcano will send out fiery boulders that deal <acronym class="variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00,<br>spellpower 100">23, 31, 38, 43, 48</acronym> fire and <acronym class="variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00,<br>spellpower 100">23, 31, 38, 43, 48</acronym> physical damage.</p><p>The effects will improve with your Spellpower.</p>
+When Dread End creates pools of darkness you can focus your raging thoughts on them to make them erupt into volcanos.
+
+Up to [1, 1, 2, 2, 3 (TL1-5)] pools in radius 7 will erupt, producing a volcano for 5 turns.
+
+Each turn the volcano will send out fiery boulders that deal [23, 31, 38, 43, 48 (TL1-5; SP 100)] fire and [23, 31, 38, 43, 48 (TL1-5; SP 100)] physical damage.
+
+The effects will improve with your Spellpower.

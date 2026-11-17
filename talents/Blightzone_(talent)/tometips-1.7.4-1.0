@@ -1,1 +1,3 @@
-<p>Corrupted vapour rises at the target location (radius 4) doing <acronym class="variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00,<br>spellpower 100">38, 51, 61, 69, 77</acronym> blight damage every turn for <acronym class="talent-variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00">3, 4, 5, 6, 7</acronym> turns.</p><p>The damage increases with Spellpower.</p>
+Corrupted vapour rises at the target location (radius 4) doing [38, 51, 61, 69, 77 (TL1-5; SP 100)] blight damage every turn for [3, 4, 5, 6, 7 (TL1-5)] turns.
+
+The damage increases with Spellpower.

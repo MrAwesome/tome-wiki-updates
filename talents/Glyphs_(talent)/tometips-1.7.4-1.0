@@ -1,1 +1,17 @@
-<p>When one of your spells goes critical, you bind glyphs in radius 1 centered on a random target in range 10 at the cost of 5 positive and 5 negative energy.</p><p>Glyphs last for <acronym class="talent-variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00">1, 2, 3, 4, 4</acronym> turns and cause various effects when an enemy enters their grid.</p><p>Glyphs will only spawn on enemies that aren't adjacent to an existing glyph.</p><p>This can only happen every 4 game turns.</p><p>Glyph effects will scale with your Spellpower.</p><p></p><p>Available glyphs are:</p><p><span style="color: #FFD700"><span class="tstr-color-FFD700">Glyph of Sunlight</span></span>:  Bind sunlight into a glyph. When triggered it will release a brilliant light, dealing 0.00 light damage and healing you for <acronym class="variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00,<br>spellpower 100">58, 79, 94, 108, 120.</acronym></p><p><span style="color: #7F7F7F"><span class="tstr-color-7F7F7F">Glyph of Moonlight</span></span>:  Bind moonlight into a glyph. When triggered it will release a fatiguing darkness,  dealing 0.00 darkness damage and reducing the foes damage dealt by <acronym class="variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00,<br>spellpower 100">46%, 62%, 75%, 85%, 95%</acronym> for 2 turns.</p><p><span style="color: #9D9DC9"><span class="tstr-color-9D9DC9">Glyph of Twilight</span></span>:  Bind twilight into a glyph. When triggered it will release a burst of twilight, dealing 0.00 light and 0.00 darkness damage and knocking the foe back 1 tiles.</p><p></p>
+When one of your spells goes critical, you bind glyphs in radius 1 centered on a random target in range 10 at the cost of 5 positive and 5 negative energy.
+
+Glyphs last for [1, 2, 3, 4, 4 (TL1-5)] turns and cause various effects when an enemy enters their grid.
+
+Glyphs will only spawn on enemies that aren't adjacent to an existing glyph.
+
+This can only happen every 4 game turns.
+
+Glyph effects will scale with your Spellpower.
+
+Available glyphs are:
+
+Glyph of Sunlight:  Bind sunlight into a glyph. When triggered it will release a brilliant light, dealing 0.00 light damage and healing you for [58, 79, 94, 108, 120 (TL1-5; SP 100)].
+
+Glyph of Moonlight:  Bind moonlight into a glyph. When triggered it will release a fatiguing darkness,  dealing 0.00 darkness damage and reducing the foes damage dealt by [46%, 62%, 75%, 85%, 95% (TL1-5; SP 100)] for 2 turns.
+
+Glyph of Twilight:  Bind twilight into a glyph. When triggered it will release a burst of twilight, dealing 0.00 light and 0.00 darkness damage and knocking the foe back 1 tiles.

@@ -1,1 +1,7 @@
-<p>Spit slime at your target doing <acronym class="variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00,<br>mindpower 100">153, 205, 246, 281, 312</acronym> nature damage and slowing it down by 30% for 3 turns.</p><p>The slime can bounce from foe to foe, hitting up to a total of <acronym class="talent-variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00">1, 2, 3, 4, 5</acronym> target(s).</p><p>Additional targets must be within 6 tiles of each other and the slime loses <acronym class="talent-variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00">58%, 49%, 43%, 38%, 34%</acronym> damage per bounce.</p><p>The damage will increase with your Mindpower</p>
+Spit slime at your target doing [153, 205, 246, 281, 312 (TL1-5; MP 100)] nature damage and slowing it down by 30% for 3 turns.
+
+The slime can bounce from foe to foe, hitting up to a total of [1, 2, 3, 4, 5 (TL1-5)] target(s).
+
+Additional targets must be within 6 tiles of each other and the slime loses [58%, 49%, 43%, 38%, 34% (TL1-5)] damage per bounce.
+
+The damage will increase with your Mindpower

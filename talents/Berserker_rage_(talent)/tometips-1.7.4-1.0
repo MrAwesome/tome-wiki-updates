@@ -1,1 +1,7 @@
-<p>You enter an aggressive battle rage, increasing Accuracy by <acronym class="variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00,<br>Strength 100,<br>Dexterity 100">20, 27, 32, 36, 40</acronym> and Physical Power by <acronym class="variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00,<br>Strength 100,<br>Dexterity 100">20, 27, 32, 36, 40</acronym> and making you nearly unstoppable, granting <acronym class="talent-variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00">17%, 29%, 38%, 44%, 49%</acronym> stun and pinning resistance.</p><p>Sustaining this rage takes its toll on your body, decreasing your life by 2% each turn, but for every 1% of life missing you gain 0.5% critical hit chance.</p><p>Even when sustained, this talent is only active when foes are in sight.</p><p>The Accuracy bonus increases with your Dexterity, and the Physical Power bonus with your Strength.</p>
+You enter an aggressive battle rage, increasing Accuracy by [20, 27, 32, 36, 40 (TL1-5; STR 100; DEX 100)] and Physical Power by [20, 27, 32, 36, 40 (TL1-5; STR 100; DEX 100)] and making you nearly unstoppable, granting [17%, 29%, 38%, 44%, 49% (TL1-5)] stun and pinning resistance.
+
+Sustaining this rage takes its toll on your body, decreasing your life by 2% each turn, but for every 1% of life missing you gain 0.5% critical hit chance.
+
+Even when sustained, this talent is only active when foes are in sight.
+
+The Accuracy bonus increases with your Dexterity, and the Physical Power bonus with your Strength.

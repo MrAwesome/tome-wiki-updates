@@ -1,1 +1,7 @@
-<p>Fungal spores have colonized your blood, so that each time you use an infusion you store <acronym class="stat-variable" title="Values for<br>Constitution 10, 25, 50, 75, 100">25, 56, 107, 158, 209</acronym> fungal power.</p><p>You may use this prodigy to release the power as a heal (never more than <acronym class="stat-variable" title="Values for<br>Constitution 10, 25, 50, 75, 100">100, 138, 184, 220, 249</acronym> life) and remove up to 10 detrimental magical effects.</p><p>Fungal power lasts for up to 6 turns, losing the greater of 10 potency or 10% of its power each turn.</p><p>The amount of fungal power produced and the maximum heal possible increase with your Constitution and maximum life.</p>
+Fungal spores have colonized your blood, so that each time you use an infusion you store [25, 56, 107, 158, 209 (CON 10-100)] fungal power.
+
+You may use this prodigy to release the power as a heal (never more than [100, 138, 184, 220, 249 (CON 10-100)] life) and remove up to 10 detrimental magical effects.
+
+Fungal power lasts for up to 6 turns, losing the greater of 10 potency or 10% of its power each turn.
+
+The amount of fungal power produced and the maximum heal possible increase with your Constitution and maximum life.

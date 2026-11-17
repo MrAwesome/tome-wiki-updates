@@ -1,1 +1,5 @@
-<p>You enter a battle frenzy for <acronym class="talent-variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00">2, 4, 5, 5, 6</acronym> turns. During that time, you can not use items, healing has no effect, and your health cannot drop below 1.</p><p>At the end of the frenzy, you regain <acronym class="talent-variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00">3%, 8%, 12%, 14%, 17%</acronym> of your health per foe slain during the frenzy.</p><p>While Unstoppable is active, Berserker Rage critical bonus is disabled as you lose the thrill of the risk of death.</p>
+You enter a battle frenzy for [2, 4, 5, 5, 6 (TL1-5)] turns. During that time, you can not use items, healing has no effect, and your health cannot drop below 1.
+
+At the end of the frenzy, you regain [3%, 8%, 12%, 14%, 17% (TL1-5)] of your health per foe slain during the frenzy.
+
+While Unstoppable is active, Berserker Rage critical bonus is disabled as you lose the thrill of the risk of death.

@@ -1,1 +1,7 @@
-<p>You concentrate your will in a cone in front of you, condensing the air into a tangible, solid form.</p><p>Any creatures caught inside take <acronym class="variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00,<br>mindpower 100">249, 335, 402, 458, 508</acronym> physical damage.</p><p>Any places with no creatures will be filled with solid air, blocking the way for <acronym class="talent-variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00">0, 3, 5, 6, 7</acronym> turns.</p><p>The damage will increase with your Mindpower.</p>
+You concentrate your will in a cone in front of you, condensing the air into a tangible, solid form.
+
+Any creatures caught inside take [249, 335, 402, 458, 508 (TL1-5; MP 100)] physical damage.
+
+Any places with no creatures will be filled with solid air, blocking the way for [0, 3, 5, 6, 7 (TL1-5)] turns.
+
+The damage will increase with your Mindpower.

@@ -1,1 +1,11 @@
-<p>Summon a tornado that moves very slowly towards the target, following it if it changes position.</p><p>Each time it moves every foes within radius 2 takes <acronym class="variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00,<br>mindpower 100">17, 23, 27, 31, 34</acronym> lightning damage and is knocked back 2 spaces.</p><p>When it reaches the target it explodes in a radius of <acronym class="talent-variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00">2, 2, 3, 3, 4,</acronym> knocking back targets and dealing <acronym class="variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00,<br>mindpower 100">90, 121, 145, 165, 183</acronym> lightning and <acronym class="variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00,<br>mindpower 100">90, 121, 145, 165, 183</acronym> physical damage.</p><p>The tornado will move a maximum of 20 times.</p><p>Damage will increase with your Mindpower.</p><p>Each point in storm drake talents also increases your lightning resistance by 1%.</p>
+Summon a tornado that moves very slowly towards the target, following it if it changes position.
+
+Each time it moves every foes within radius 2 takes [17, 23, 27, 31, 34 (TL1-5; MP 100)] lightning damage and is knocked back 2 spaces.
+
+When it reaches the target it explodes in a radius of [2, 2, 3, 3, 4 (TL1-5)], knocking back targets and dealing [90, 121, 145, 165, 183 (TL1-5; MP 100)] lightning and [90, 121, 145, 165, 183 (TL1-5; MP 100)] physical damage.
+
+The tornado will move a maximum of 20 times.
+
+Damage will increase with your Mindpower.
+
+Each point in storm drake talents also increases your lightning resistance by 1%.

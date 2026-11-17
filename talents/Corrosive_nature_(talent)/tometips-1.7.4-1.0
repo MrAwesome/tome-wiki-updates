@@ -1,1 +1,7 @@
-<p>You gain <acronym class="variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00,<br>mindpower 100">22%, 30%, 36%, 41%, 46%</acronym> Acid resistance.</p><p>When you deal Nature damage to a creature, you gain a <acronym class="talent-variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00">2.2%, 3.5%, 4.7%, 5.7%, 6.7%</acronym> bonus to Acid damage for <acronym class="talent-variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00">2, 3, 4, 4, 5</acronym> turns.</p><p>This damage bonus will improve up to 4 times (no more than once each turn) with later Nature damage you do, up to a maximum of <acronym class="talent-variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00">5.0%, 7.9%, 11%, 13%, 15%.</acronym></p><p>The resistance and damage increase improve with your Mindpower.</p>
+You gain [22%, 30%, 36%, 41%, 46% (TL1-5; MP 100)] Acid resistance.
+
+When you deal Nature damage to a creature, you gain a [2.2%, 3.5%, 4.7%, 5.7%, 6.7% (TL1-5)] bonus to Acid damage for [2, 3, 4, 4, 5 (TL1-5)] turns.
+
+This damage bonus will improve up to 4 times (no more than once each turn) with later Nature damage you do, up to a maximum of [5.0%, 7.9%, 11%, 13%, 15% (TL1-5)].
+
+The resistance and damage increase improve with your Mindpower.

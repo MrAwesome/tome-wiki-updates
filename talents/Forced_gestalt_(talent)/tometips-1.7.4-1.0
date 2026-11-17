@@ -1,1 +1,9 @@
-<p>Temporarily expand your mind to force your Gestalt upon your foes in a radius of 5. Up to <acronym class="talent-variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00">1, 2, 3, 4, 4</acronym> foe(s) will be affected.</p><p>The Gestalt will drain each affected foe's powers (physical power, mind power, spell power and steam power) by <acronym class="variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00,<br>mindpower 100">25, 34, 41, 47, 52</acronym> for 5 turns.</p><p>Your own powers will be increased in return by the drained amount (reduced for each additional foe).</p><p>In addition for 5 turns you can sense creatures beyond your sight, even through walls in radius <acronym class="talent-variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00">5, 11, 14, 15, 17.</acronym></p><p>The effects improve with your Mindpower.</p>
+Temporarily expand your mind to force your Gestalt upon your foes in a radius of 5. Up to [1, 2, 3, 4, 4 (TL1-5)] foe(s) will be affected.
+
+The Gestalt will drain each affected foe's powers (physical power, mind power, spell power and steam power) by [25, 34, 41, 47, 52 (TL1-5; MP 100)] for 5 turns.
+
+Your own powers will be increased in return by the drained amount (reduced for each additional foe).
+
+In addition for 5 turns you can sense creatures beyond your sight, even through walls in radius [5, 11, 14, 15, 17 (TL1-5)].
+
+The effects improve with your Mindpower.

@@ -1,1 +1,7 @@
-<p>Each time one of your spells criticals, you project a bolt of light or shadow at up to <acronym class="talent-variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00">1, 2, 3, 4, 5</acronym> targets within radius 6, doing <acronym class="variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00,<br>spellpower 100">41, 55, 66, 75, 83</acronym> light damage or <acronym class="variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00,<br>spellpower 100">41, 55, 66, 75, 83</acronym> darkness damage per bolt.</p><p>This effect costs 2 positive or 2 negative energy each time it's triggered, and will not activate if either your positive or negative energy is below 2.</p><p>The damage scales with your Spellpower.</p><p>This spell cannot crit.</p>
+Each time one of your spells criticals, you project a bolt of light or shadow at up to [1, 2, 3, 4, 5 (TL1-5)] targets within radius 6, doing [41, 55, 66, 75, 83 (TL1-5; SP 100)] light damage or [41, 55, 66, 75, 83 (TL1-5; SP 100)] darkness damage per bolt.
+
+This effect costs 2 positive or 2 negative energy each time it's triggered, and will not activate if either your positive or negative energy is below 2.
+
+The damage scales with your Spellpower.
+
+This spell cannot crit.

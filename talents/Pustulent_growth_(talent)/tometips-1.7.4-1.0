@@ -1,1 +1,5 @@
-<p>Each time your shed skin looses <acronym class="talent-variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00">49%, 37%, 30%, 26%, 23%</acronym> of its max power or you take damage over 15% of your maximum life a black putrescent pustule grows on your body for 5 turns.</p><p>Each pustule increases all your resistances by <acronym class="variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00,<br>spellpower 100">3%, 4%, 5%, 6%, 6%.</acronym> You can have up to <acronym class="talent-variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00">3, 4, 5, 6, 7</acronym> pustules at once.</p><p>Resistance scales with your Spellpower.</p>
+Each time your shed skin looses [49%, 37%, 30%, 26%, 23% (TL1-5)] of its max power or you take damage over 15% of your maximum life a black putrescent pustule grows on your body for 5 turns.
+
+Each pustule increases all your resistances by [3%, 4%, 5%, 6%, 6% (TL1-5; SP 100)]. You can have up to [3, 4, 5, 6, 7 (TL1-5)] pustules at once.
+
+Resistance scales with your Spellpower.

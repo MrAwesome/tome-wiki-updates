@@ -1,1 +1,7 @@
-<p>Spit a cloud of flames, doing <acronym class="variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00,<br>mindpower 100">35, 47, 56, 64, 71</acronym> fire damage in a radius of <acronym class="talent-variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00">2, 3, 3, 4, 5</acronym> each turn for <acronym class="talent-variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00">5, 6, 7, 8, 9</acronym> turns.</p><p>The flames will ignore the caster, and will drain 10% of the damage dealt as the flames consume enemies life force and transfer it to the user.</p><p>The damage will increase with your Mindpower, and can critical.</p><p>Each point in fire drake talents also increases your fire resistance by 1%.</p>
+Spit a cloud of flames, doing [35, 47, 56, 64, 71 (TL1-5; MP 100)] fire damage in a radius of [2, 3, 3, 4, 5 (TL1-5)] each turn for [5, 6, 7, 8, 9 (TL1-5)] turns.
+
+The flames will ignore the caster, and will drain 10% of the damage dealt as the flames consume enemies life force and transfer it to the user.
+
+The damage will increase with your Mindpower, and can critical.
+
+Each point in fire drake talents also increases your fire resistance by 1%.

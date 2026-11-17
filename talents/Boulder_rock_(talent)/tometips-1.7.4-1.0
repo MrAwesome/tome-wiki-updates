@@ -1,1 +1,21 @@
-<p>When you turn into a Deeprock elemental your Nature damage is increased by <acronym class="variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00,<br>Strength 100,<br>spellpower 100">20%, 26%, 30%, 33%, 36%,</acronym> Nature damage penetration by <acronym class="talent-variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00">5.9%, 7.9%, 9.3%, 11%, 12%</acronym> and you gain the power to throw boulders:</p><p><span style="color: #6FFF83"><span class="tstr-color-6FFF83">Effective talent level: <span style="color: #00FF00"><span class="tstr-color-00FF00"><acronym class="talent-variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00">2.0, 4.0, 6.0, 8.0, 10</acronym></p><p><span style="color: #6FFF83"><span class="tstr-color-6FFF83">Use mode: <span style="color: #00FF00"><span class="tstr-color-00FF00">Activated</p><p><span style="color: #6FFF83"><span class="tstr-color-6FFF83">Equilibrium cost: <span style="color: #FFA8A8"><span class="tstr-color-FFA8A8">5</p><p><span style="color: #6FFF83"><span class="tstr-color-6FFF83">Range: <span style="color: #FFFFFF"><span class="tstr-color-FFFFFF">10</p><p><span style="color: #6FFF83"><span class="tstr-color-6FFF83">Cooldown: <span style="color: #FFFFFF"><span class="tstr-color-FFFFFF">3</p><p><span style="color: #6FFF83"><span class="tstr-color-6FFF83">Travel Speed: <span style="color: #FFFFFF"><span class="tstr-color-FFFFFF">instantaneous</p><p><span style="color: #6FFF83"><span class="tstr-color-6FFF83">Usage Speed: <span style="color: #FFFFFF"><span class="tstr-color-FFFFFF">Standard (<span style="color: #00ff00"><span class="tstr-color-LIGHT_GREEN">100%</span></span> of a turn)</p><p><span style="color: #6FFF83"><span class="tstr-color-6FFF83">Is: <span style="color: #FFFFFF"><span class="tstr-color-FFFFFF">a nature gift</p><p><span style="color: #6FFF83"><span class="tstr-color-6FFF83">Description: <span style="color: #FFFFFF"><span class="tstr-color-FFFFFF">Throw a huge boulder, dealing <acronym class="variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00,<br>Strength 100,<br>spellpower 100">170, 236, 286, 328, 366</acronym> physical damage and knocking targets back <acronym class="talent-variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00">5, 7, 8, 9, 10</acronym> tiles within radius 1.</p><p>The damage will increase with your Strength.</p>
+When you turn into a Deeprock elemental your Nature damage is increased by [20%, 26%, 30%, 33%, 36% (TL1-5; STR 100; SP 100)], Nature damage penetration by [5.9%, 7.9%, 9.3%, 11%, 12% (TL1-5)] and you gain the power to throw boulders:
+
+Effective talent level: [2.0, 4.0, 6.0, 8.0, 10 (TL1-5)]
+
+Use mode: Activated
+
+Equilibrium cost: 5
+
+Range: 10
+
+Cooldown: 3
+
+Travel Speed: instantaneous
+
+Usage Speed: Standard (100% of a turn)
+
+Is: a nature gift
+
+Description: Throw a huge boulder, dealing [170, 236, 286, 328, 366 (TL1-5; STR 100; SP 100)] physical damage and knocking targets back [5, 7, 8, 9, 10 (TL1-5)] tiles within radius 1.
+
+The damage will increase with your Strength.

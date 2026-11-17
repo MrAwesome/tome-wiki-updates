@@ -1,1 +1,5 @@
-<p>Using your Block talent surrounds you and your minions in a static barrier for 4 turns, increasing all resistances by <acronym class="talent-variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00">8%, 13%, 17%, 19%, 22%.</acronym> If an enemy deals damage to you or your minions, the barrier will shock them for <acronym class="talent-variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00">66%, 77%, 86%, 93%, 100%</acronym> of your shield damage.</p><p>This effect cannot damage the same target more than once per turn, and will not interact with Counterstrike.</p><p>You now also use your Cunning in place of Strength when equipping shields as well as when calculating shield damage.</p>
+Using your Block talent surrounds you and your minions in a static barrier for 4 turns, increasing all resistances by [8%, 13%, 17%, 19%, 22% (TL1-5)]. If an enemy deals damage to you or your minions, the barrier will shock them for [66%, 77%, 86%, 93%, 100% (TL1-5)] of your shield damage.
+
+This effect cannot damage the same target more than once per turn, and will not interact with Counterstrike.
+
+You now also use your Cunning in place of Strength when equipping shields as well as when calculating shield damage.

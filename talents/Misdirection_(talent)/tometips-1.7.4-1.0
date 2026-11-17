@@ -1,1 +1,5 @@
-<p>Your abilities in sowing confusion and chaos have reached their peak.  Whenever a foe attempts to apply a detrimental physical effect to you, they have a <acronym class="talent-variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00">11%, 20%, 25%, 29%, 31%</acronym> chance to fail. If there is an adjacent enemy to you, you misdirect your foe into applying it to them at <acronym class="talent-variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00">26%, 35%, 41%, 46%, 50%</acronym> duration.</p><p>You gain <acronym class="variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00,<br>Cunning 100">22, 29, 34, 38, 42</acronym> defense.</p><p>The chance to apply status effects increases with your Accuracy and the Defense with your Cunning.</p>
+Your abilities in sowing confusion and chaos have reached their peak.  Whenever a foe attempts to apply a detrimental physical effect to you, they have a [11%, 20%, 25%, 29%, 31% (TL1-5)] chance to fail. If there is an adjacent enemy to you, you misdirect your foe into applying it to them at [26%, 35%, 41%, 46%, 50% (TL1-5)] duration.
+
+You gain [22, 29, 34, 38, 42 (TL1-5; CUN 100)] defense.
+
+The chance to apply status effects increases with your Accuracy and the Defense with your Cunning.

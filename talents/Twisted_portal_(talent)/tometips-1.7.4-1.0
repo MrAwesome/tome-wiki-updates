@@ -1,1 +1,9 @@
-<p>Teleports you randomly within a small range of up to <acronym class="variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00,<br>spellpower 100">12, 14, 15, 16, 17</acronym> grids with <acronym class="talent-variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00">7, 5, 4, 4, 3</acronym> precision.</p><p>In the spot you left you will summon a random demon from your seeds for <acronym class="talent-variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00">2, 4, 4, 5, 5</acronym> turns.</p><p>If the target area is not in line of sight, there is a chance the spell will fizzle.</p><p>This spell requires an unsummoned, alive, demon seed equiped in a worn equipment to work.</p><p>The range will increase with your Spellpower.</p>
+Teleports you randomly within a small range of up to [12, 14, 15, 16, 17 (TL1-5; SP 100)] grids with [7, 5, 4, 4, 3 (TL1-5)] precision.
+
+In the spot you left you will summon a random demon from your seeds for [2, 4, 4, 5, 5 (TL1-5)] turns.
+
+If the target area is not in line of sight, there is a chance the spell will fizzle.
+
+This spell requires an unsummoned, alive, demon seed equiped in a worn equipment to work.
+
+The range will increase with your Spellpower.

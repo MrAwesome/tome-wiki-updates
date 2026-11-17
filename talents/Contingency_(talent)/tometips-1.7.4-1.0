@@ -1,1 +1,7 @@
-<p>Choose an activatable spell that affects only you, does not require a target, and does not have a fixed cooldown.  When you take damage that reduces your life below <acronym class="talent-variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00">25%, 31%, 36%, 40%, 44%</acronym> the spell will automatically cast.</p><p>This spell will cast even if it is currently on cooldown, will not consume a turn or resources, and uses the talent level of Contingency or its own, whichever is lower.</p><p>This effect can only occur once every 50 turns and takes place after the damage is resolved.</p><p></p><p>Current Contingency Spell: None</p>
+Choose an activatable spell that affects only you, does not require a target, and does not have a fixed cooldown.  When you take damage that reduces your life below [25%, 31%, 36%, 40%, 44% (TL1-5)] the spell will automatically cast.
+
+This spell will cast even if it is currently on cooldown, will not consume a turn or resources, and uses the talent level of Contingency or its own, whichever is lower.
+
+This effect can only occur once every 50 turns and takes place after the damage is resolved.
+
+Current Contingency Spell: None

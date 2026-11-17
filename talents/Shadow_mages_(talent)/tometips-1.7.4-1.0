@@ -1,1 +1,7 @@
-<p>Infuse magic into your shadows to give them fearsome spells. Your shadows receive a bonus of <acronym class="talent-variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00">3, 6, 9, 12, 15</acronym> to their Spellpower.</p><p>Your shadows can strike adjacent foes with Lightning (level <acronym class="talent-variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00">1, 2, 3, 4, 5,</acronym> <acronym class="talent-variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00">6%, 10%, 12%, 14%, 15%</acronym> chance at range 1).</p><p>At level 3 your shadows can sear their enemies from a distance with Flames (level <acronym class="talent-variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00">0, 0, 3, 4, 5,</acronym> <acronym class="talent-variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00">0%, 0%, 12%, 14%, 15%</acronym> chance at range 2 to 6).</p><p>At level 5 when your shadows are struck down they will attempt to Reform, becoming whole again (50% chance).</p>
+Infuse magic into your shadows to give them fearsome spells. Your shadows receive a bonus of [3, 6, 9, 12, 15 (TL1-5)] to their Spellpower.
+
+Your shadows can strike adjacent foes with Lightning (level [1, 2, 3, 4, 5 (TL1-5)], [6%, 10%, 12%, 14%, 15% (TL1-5)] chance at range 1).
+
+At level 3 your shadows can sear their enemies from a distance with Flames (level [0, 0, 3, 4, 5 (TL1-5)], [0%, 0%, 12%, 14%, 15% (TL1-5)] chance at range 2 to 6).
+
+At level 5 when your shadows are struck down they will attempt to Reform, becoming whole again (50% chance).

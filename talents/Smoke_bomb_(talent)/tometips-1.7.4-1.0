@@ -1,1 +1,5 @@
-<p>Throw a smoke bomb, blocking everyone's line of sight. The smoke dissipates after <acronym class="variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00,<br>spellpower 100">6, 8, 10, 11, 12</acronym> turns.</p><p>If a creature inside is victim of fire burns the smoke will consume instantly, replicating the burns on all foes and increasing its duration by <acronym class="variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00,<br>spellpower 100">2, 3, 4, 4, 4</acronym> turns.</p><p>Duration will increase with your Spellpower.</p>
+Throw a smoke bomb, blocking everyone's line of sight. The smoke dissipates after [6, 8, 10, 11, 12 (TL1-5; SP 100)] turns.
+
+If a creature inside is victim of fire burns the smoke will consume instantly, replicating the burns on all foes and increasing its duration by [2, 3, 4, 4, 4 (TL1-5; SP 100)] turns.
+
+Duration will increase with your Spellpower.

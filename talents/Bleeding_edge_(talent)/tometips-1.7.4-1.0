@@ -1,1 +1,3 @@
-<p>Lashes at the target, doing <acronym class="talent-variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00">131%, 144%, 154%, 162%, 170%</acronym> weapon damage.</p><p>If the attack hits, the target will bleed for <acronym class="talent-variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00">253%, 275%, 292%, 307%, 320%</acronym> weapon damage over 7 turns, and all healing will be reduced by <acronym class="talent-variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00">35%, 47%, 56%, 62%, 68%.</acronym></p>
+Lashes at the target, doing [131%, 144%, 154%, 162%, 170% (TL1-5)] weapon damage.
+
+If the attack hits, the target will bleed for [253%, 275%, 292%, 307%, 320% (TL1-5)] weapon damage over 7 turns, and all healing will be reduced by [35%, 47%, 56%, 62%, 68% (TL1-5)].

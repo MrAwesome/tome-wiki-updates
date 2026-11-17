@@ -1,1 +1,5 @@
-<p>Each time you hit an enemy with a melee weapon you enter a bloodlust-infused frenzy, increasing your Spellpower by <acronym class="talent-variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00">1.0, 2.5, 3.7, 4.6, 5.5.</acronym></p><p>This effect stacks up to 10 times for a total Spellpower gain of <acronym class="talent-variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00">10, 25, 36, 46, 55.</acronym></p><p>The frenzy lasts 3 turns.</p>
+Each time you hit an enemy with a melee weapon you enter a bloodlust-infused frenzy, increasing your Spellpower by [1.0, 2.5, 3.7, 4.6, 5.5 (TL1-5)].
+
+This effect stacks up to 10 times for a total Spellpower gain of [10, 25, 36, 46, 55 (TL1-5)].
+
+The frenzy lasts 3 turns.

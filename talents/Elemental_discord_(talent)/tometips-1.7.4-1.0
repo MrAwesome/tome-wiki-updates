@@ -1,1 +1,11 @@
-<p>Use elemental damage dealt to you to trigger terrible effects on the source:</p><ul><li> Fire: burn for <acronym class="variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00,<br>spellpower 100">249, 335, 402, 458, 508</acronym> fire damage over 5 turns</li><li> Cold: freeze for 3 turns with <acronym class="variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00,<br>spellpower 100">313, 422, 506, 577, 641</acronym> iceblock power</li><li> Acid: blind for <acronym class="talent-variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00">2, 3, 4, 5, 5</acronym> turns</li><li> Lightning: daze for <acronym class="talent-variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00">2, 3, 4, 5, 5</acronym> turns</li><li> Nature: <acronym class="talent-variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00">20%, 33%, 40%, 46%, 50%</acronym> slow for 4 turns</li></ul><p>This effect can only happen once every 10 turns per damage type.</p><p>The damage will increase with your Spellpower.</p>
+Use elemental damage dealt to you to trigger terrible effects on the source:
+
+*  Fire: burn for [249, 335, 402, 458, 508 (TL1-5; SP 100)] fire damage over 5 turns
+*  Cold: freeze for 3 turns with [313, 422, 506, 577, 641 (TL1-5; SP 100)] iceblock power
+*  Acid: blind for [2, 3, 4, 5, 5 (TL1-5)] turns
+*  Lightning: daze for [2, 3, 4, 5, 5 (TL1-5)] turns
+*  Nature: [20%, 33%, 40%, 46%, 50% (TL1-5)] slow for 4 turns
+
+This effect can only happen once every 10 turns per damage type.
+
+The damage will increase with your Spellpower.

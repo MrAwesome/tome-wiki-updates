@@ -1,1 +1,3 @@
-<p>Each time you would take damage from someone else you gain one Spin, increasing your defense and saves by <acronym class="talent-variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00">2, 4, 6, 7, 8</acronym> for three turns.</p><p>This effect may occur once per turn and stacks up to three Spin (for a maximum bonus of <acronym class="talent-variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00">6, 12, 18, 21, 24</acronym>).</p>
+Each time you would take damage from someone else you gain one Spin, increasing your defense and saves by [2, 4, 6, 7, 8 (TL1-5)] for three turns.
+
+This effect may occur once per turn and stacks up to three Spin (for a maximum bonus of [6, 12, 18, 21, 24 (TL1-5)]).

@@ -1,1 +1,5 @@
-<p>Infuse your weapon with the power of the Sun, adding <acronym class="variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00,<br>spellpower 100">16, 35, 49, 61, 71</acronym> light damage on each melee hit.</p><p>Additionally, if you have a temporary damage shield active, melee hits will increase its power by <acronym class="variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00,<br>spellpower 100">16, 34, 48, 60, 71</acronym> and set its duration to 2 (if not already higher), once per turn.</p><p>The damage dealt and shield bonus will increase with your Spellpower.</p>
+Infuse your weapon with the power of the Sun, adding [16, 35, 49, 61, 71 (TL1-5; SP 100)] light damage on each melee hit.
+
+Additionally, if you have a temporary damage shield active, melee hits will increase its power by [16, 34, 48, 60, 71 (TL1-5; SP 100)] and set its duration to 2 (if not already higher), once per turn.
+
+The damage dealt and shield bonus will increase with your Spellpower.

@@ -1,1 +1,7 @@
-<p>You randomly merge with an adjacent bloated ooze, granting you 40% all damage resistance for <acronym class="talent-variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00">4, 5, 6, 7, 8</acronym> turns.</p><p>This process releases a burst of antimagic, dealing <acronym class="variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00,<br>mindpower 100">121, 163, 195, 223, 247</acronym> Manaburn damage in radius 3.</p><p>This talent allows you to restore <acronym class="variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00,<br>mindpower 100">0.9, 1.1, 1.3, 1.5, 1.6</acronym> Equilibrium per turn while Mitosis is active.</p><p>The damage, duration and Equilibrium restoration increase with your Mindpower.</p>
+You randomly merge with an adjacent bloated ooze, granting you 40% all damage resistance for [4, 5, 6, 7, 8 (TL1-5)] turns.
+
+This process releases a burst of antimagic, dealing [121, 163, 195, 223, 247 (TL1-5; MP 100)] Manaburn damage in radius 3.
+
+This talent allows you to restore [0.9, 1.1, 1.3, 1.5, 1.6 (TL1-5; MP 100)] Equilibrium per turn while Mitosis is active.
+
+The damage, duration and Equilibrium restoration increase with your Mindpower.

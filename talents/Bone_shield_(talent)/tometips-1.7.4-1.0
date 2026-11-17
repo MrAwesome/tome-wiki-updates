@@ -1,1 +1,7 @@
-<p>Bone shields start circling around you. They will each fully absorb one instance of damage.</p><p><acronym class="talent-variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00">1, 1, 2, 3, 3</acronym> shield(s) will be generated when first activated.</p><p>Then every <acronym class="talent-variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00">19, 11, 8, 6, 5</acronym> turns a new one will be created if not full.</p><p>This will only trigger on hits over <acronym class="stat-variable" title="Values for<br>spellpower 10, 25, 50, 75, 100">7, 17, 35, 52, 70</acronym> damage based on Spellpower.</p>
+Bone shields start circling around you. They will each fully absorb one instance of damage.
+
+[1, 1, 2, 3, 3 (TL1-5)] shield(s) will be generated when first activated.
+
+Then every [19, 11, 8, 6, 5 (TL1-5)] turns a new one will be created if not full.
+
+This will only trigger on hits over [7, 17, 35, 52, 70 (SP 10-100)] damage based on Spellpower.

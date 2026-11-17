@@ -1,1 +1,5 @@
-<p>Acid erupts all around your target, dealing <acronym class="variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00,<br>spellpower 100">197, 266, 318, 363, 403</acronym> acid damage.</p><p>The acid attack is extremely distracting, and may remove up to <acronym class="talent-variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00">1, 1, 2, 2, 3</acronym> physical or mental temporary effects or mental sustains (depending on the Spell Save of the target).</p><p>The damage and chance to remove effects will increase with your Spellpower.</p>
+Acid erupts all around your target, dealing [197, 266, 318, 363, 403 (TL1-5; SP 100)] acid damage.
+
+The acid attack is extremely distracting, and may remove up to [1, 1, 2, 2, 3 (TL1-5)] physical or mental temporary effects or mental sustains (depending on the Spell Save of the target).
+
+The damage and chance to remove effects will increase with your Spellpower.

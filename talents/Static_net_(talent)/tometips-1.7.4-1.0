@@ -1,1 +1,7 @@
-<p>Cast a net of static electricity in a radius of <acronym class="talent-variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00">2, 2, 3, 3, 4</acronym> for <acronym class="talent-variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00">3, 4, 4, 5, 6</acronym> turns.</p><p>Enemies standing in the net will take <acronym class="variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00,<br>mindpower 100">59, 79, 95, 108, 120</acronym> Lightning damage and be slowed by <acronym class="variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00,<br>mindpower 100">31%, 35%, 38%, 40%, 41%.</acronym></p><p>When you move through the net, a static charge will accumulate on your weapon which will add <acronym class="variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00,<br>mindpower 100">29, 39, 46, 53, 59</acronym> additional Lightning damage to your next attack for each turn you spend within its area.</p><p>These effects scale with your Mindpower.</p>
+Cast a net of static electricity in a radius of [2, 2, 3, 3, 4 (TL1-5)] for [3, 4, 4, 5, 6 (TL1-5)] turns.
+
+Enemies standing in the net will take [59, 79, 95, 108, 120 (TL1-5; MP 100)] Lightning damage and be slowed by [31%, 35%, 38%, 40%, 41% (TL1-5; MP 100)].
+
+When you move through the net, a static charge will accumulate on your weapon which will add [29, 39, 46, 53, 59 (TL1-5; MP 100)] additional Lightning damage to your next attack for each turn you spend within its area.
+
+These effects scale with your Mindpower.

@@ -1,1 +1,3 @@
-<p>Using psionic energies you overheat your shot, making it deal <acronym class="talent-variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00">133%, 155%, 172%, 187%, 200%</acronym> damage.</p><p>If the shot hits a wet foe it will vaporize, removing the wet effect and dealing <acronym class="variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00,<br>steampower 100">249, 335, 402, 458, 508</acronym> fire damage in a radius 4.</p>
+Using psionic energies you overheat your shot, making it deal [133%, 155%, 172%, 187%, 200% (TL1-5)] damage.
+
+If the shot hits a wet foe it will vaporize, removing the wet effect and dealing [249, 335, 402, 458, 508 (TL1-5; STEAMPOWER 100)] fire damage in a radius 4.

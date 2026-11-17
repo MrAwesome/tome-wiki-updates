@@ -1,1 +1,5 @@
-<p>For 8 turns you gain the mass and power of a star, drawing all creatures within radius 5 toward you and dealing <acronym class="stat-variable" title="Values for<br>Strength 10, 25, 50, 75, 100">16, 23, 33, 44, 55</acronym> fire, <acronym class="stat-variable" title="Values for<br>Strength 10, 25, 50, 75, 100">16, 23, 33, 44, 55</acronym> light and <acronym class="stat-variable" title="Values for<br>Strength 10, 25, 50, 75, 100">16, 23, 33, 44, 55</acronym> physical damage to all foes and reducing their damage dealt by 30%.</p><p>Foes closer to you take up to 150% damage.</p><p>The damage will increase with your Strength.</p>
+For 8 turns you gain the mass and power of a star, drawing all creatures within radius 5 toward you and dealing [16, 23, 33, 44, 55 (STR 10-100)] fire, [16, 23, 33, 44, 55 (STR 10-100)] light and [16, 23, 33, 44, 55 (STR 10-100)] physical damage to all foes and reducing their damage dealt by 30%.
+
+Foes closer to you take up to 150% damage.
+
+The damage will increase with your Strength.

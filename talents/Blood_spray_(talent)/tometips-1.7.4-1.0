@@ -1,1 +1,5 @@
-<p>You extract corrupted blood from your own body, hitting everything in a frontal cone of radius <acronym class="talent-variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00">4, 5, 6, 7, 8</acronym> for <acronym class="variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00,<br>spellpower 100">115, 154, 185, 211, 234</acronym> blight damage.</p><p>Each creature hit has a <acronym class="talent-variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00">35%, 47%, 55%, 60%, 64%</acronym> chance of being infected by a random disease, doing <acronym class="variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00,<br>spellpower 100">134, 180, 216, 246, 273</acronym> blight damage and weakening either Constitution, Strength or Dexterity for 6 turns.</p><p>The damage will increase with your Spellpower.</p>
+You extract corrupted blood from your own body, hitting everything in a frontal cone of radius [4, 5, 6, 7, 8 (TL1-5)] for [115, 154, 185, 211, 234 (TL1-5; SP 100)] blight damage.
+
+Each creature hit has a [35%, 47%, 55%, 60%, 64% (TL1-5)] chance of being infected by a random disease, doing [134, 180, 216, 246, 273 (TL1-5; SP 100)] blight damage and weakening either Constitution, Strength or Dexterity for 6 turns.
+
+The damage will increase with your Spellpower.

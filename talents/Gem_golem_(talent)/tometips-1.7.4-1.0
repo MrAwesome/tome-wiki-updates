@@ -1,1 +1,5 @@
-<p>Insert a pair of gems into your golem, providing it with the gem bonuses and changing its melee attack damage type. You may remove the gems and insert different ones; this does not destroy the gems you remove.</p><p>Gem level usable: <acronym class="talent-variable" title="Values for<br>talent levels 1-5">1, 2, 3, 4, 5</acronym></p><p>Gem changing is done in the golem's inventory.</p>
+Insert a pair of gems into your golem, providing it with the gem bonuses and changing its melee attack damage type. You may remove the gems and insert different ones; this does not destroy the gems you remove.
+
+Gem level usable: [1, 2, 3, 4, 5 (TL1-5)]
+
+Gem changing is done in the golem's inventory.

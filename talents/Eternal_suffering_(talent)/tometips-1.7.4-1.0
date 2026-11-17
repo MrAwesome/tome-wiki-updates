@@ -1,1 +1,3 @@
-<p>Your strikes are imbued with a vile power that extends your victim's suffering. When hitting in melee, you have a (<acronym class="talent-variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00">15%, 27%, 36%, 44%, 50%</acronym>) chance to extend the length of all negative effects and reduce the length of all positive effects on the target by <acronym class="talent-variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00">1, 1, 2, 3, 3</acronym> turn(s).</p><p>This can only trigger on any particular target once every 6 turns.</p>
+Your strikes are imbued with a vile power that extends your victim's suffering. When hitting in melee, you have a ([15%, 27%, 36%, 44%, 50% (TL1-5)]) chance to extend the length of all negative effects and reduce the length of all positive effects on the target by [1, 1, 2, 3, 3 (TL1-5)] turn(s).
+
+This can only trigger on any particular target once every 6 turns.

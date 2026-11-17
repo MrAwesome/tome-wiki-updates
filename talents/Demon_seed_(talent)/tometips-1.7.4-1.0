@@ -1,1 +1,23 @@
-<p>Strike a blow with your weapon for <acronym class="talent-variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00">104%, 123%, 137%, 149%, 160%</acronym> blight damage.</p><p>If the attack hits a demonic seed tries to take hold inside your foe and you follow up with a shield strike dealing <acronym class="talent-variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00">95%, 110%, 121%, 131%, 140%</acronym> damage and dazing your target for <acronym class="talent-variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00">2, 3, 3, 4, 4</acronym> turns.</p><p></p><p>The seed requires a powerful host to nourish it and can only take hold in creatures that are worth experience and that are not summoned demons.</p><p>The chance for the seed to take hold is based on the creatures rank:</p><p><span style="color: #faebd7"><span class="tstr-color-ANTIQUE_WHITE">Normal</span></span>:  5%</p><p><span style="color: #ffff00"><span class="tstr-color-YELLOW">Elite</span></span>:  20%</p><p><span style="color: #fa8072"><span class="tstr-color-SALMON">Rare</span></span> or <span style="color: #f4a460"><span class="tstr-color-SANDY_BROWN">Unique</span></span>:  50%</p><p><span style="color: #ff7700"><span class="tstr-color-ORANGE">Boss</span></span>:  100%</p><p>When the host dies the seed fills with the vim of the dying creature and turns into a specific demon seed that can be used to summon that demon.</p><p>If you already have a seed of the same time in your inventory or equipment it will instead increase its level if the host was of higher level than the seed and the demon inside will regenerate <acronym class="talent-variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00">10%, 16%, 21%, 26%, 30%</acronym> health and resurrect if it was dead.</p><p></p><p>Higher talent levels allow for more powerful demon types.</p><p>Implanting a seed into unique demons, if successful, will always try to grant a seed of that type, if available.</p>
+Strike a blow with your weapon for [104%, 123%, 137%, 149%, 160% (TL1-5)] blight damage.
+
+If the attack hits a demonic seed tries to take hold inside your foe and you follow up with a shield strike dealing [95%, 110%, 121%, 131%, 140% (TL1-5)] damage and dazing your target for [2, 3, 3, 4, 4 (TL1-5)] turns.
+
+The seed requires a powerful host to nourish it and can only take hold in creatures that are worth experience and that are not summoned demons.
+
+The chance for the seed to take hold is based on the creatures rank:
+
+Normal:  5%
+
+Elite:  20%
+
+Rare or Unique:  50%
+
+Boss:  100%
+
+When the host dies the seed fills with the vim of the dying creature and turns into a specific demon seed that can be used to summon that demon.
+
+If you already have a seed of the same time in your inventory or equipment it will instead increase its level if the host was of higher level than the seed and the demon inside will regenerate [10%, 16%, 21%, 26%, 30% (TL1-5)] health and resurrect if it was dead.
+
+Higher talent levels allow for more powerful demon types.
+
+Implanting a seed into unique demons, if successful, will always try to grant a seed of that type, if available.

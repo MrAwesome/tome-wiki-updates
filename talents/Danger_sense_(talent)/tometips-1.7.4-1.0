@@ -1,1 +1,9 @@
-<p>You have an enhanced sense of self preservation, and your keen intuition allows you to sense dangers others miss.</p><p>Your ability to detect traps is enhanced (<acronym class="variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00,<br>Cunning 100">+17, +24, +28, +32, +35</acronym> detect 'power').</p><p>Critical attacks against you have <acronym class="talent-variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00">3.5%, 6.3%, 8.5%, 10%, 12%</acronym> reduced bonus damage, and damage bonuses attackers gain against you for being unseen are reduced by <acronym class="talent-variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00">15%, 21%, 26%, 29%, 33%.</acronym></p><p>You also gain an additional chance (at your normal save <acronym class="variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00,<br>Cunning 100">-15, -13, -12, -10, -10,</acronym> effective) to resist detrimental status effects that can be resisted.</p><p>The detection and additional save chance improve with Cunning.</p>
+You have an enhanced sense of self preservation, and your keen intuition allows you to sense dangers others miss.
+
+Your ability to detect traps is enhanced ([+17, +24, +28, +32, +35 (TL1-5; CUN 100)] detect 'power').
+
+Critical attacks against you have [3.5%, 6.3%, 8.5%, 10%, 12% (TL1-5)] reduced bonus damage, and damage bonuses attackers gain against you for being unseen are reduced by [15%, 21%, 26%, 29%, 33% (TL1-5)].
+
+You also gain an additional chance (at your normal save [-15, -13, -12, -10, -10 (TL1-5; CUN 100)], effective) to resist detrimental status effects that can be resisted.
+
+The detection and additional save chance improve with Cunning.

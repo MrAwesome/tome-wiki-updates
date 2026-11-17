@@ -1,1 +1,7 @@
-<p>Call forth the Sun to summon a fiery beam that pierces to the farthest enemy dealing <acronym class="variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00,<br>spellpower 100">38, 48, 56, 62, 68</acronym> fire damage to all enemies hit.</p><p>This spell will automatically cast again at the start of your next two turns.</p><p>You will gain <acronym class="talent-variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00">2.75, 3.48, 4.05, 4.52, 4.94</acronym> positive energy each time firebeam or an instant damage proc caused by firebeam deals damage.</p><p>The damage done will increase with your Spellpower.</p>
+Call forth the Sun to summon a fiery beam that pierces to the farthest enemy dealing [38, 48, 56, 62, 68 (TL1-5; SP 100)] fire damage to all enemies hit.
+
+This spell will automatically cast again at the start of your next two turns.
+
+You will gain [2.75, 3.48, 4.05, 4.52, 4.94 (TL1-5)] positive energy each time firebeam or an instant damage proc caused by firebeam deals damage.
+
+The damage done will increase with your Spellpower.

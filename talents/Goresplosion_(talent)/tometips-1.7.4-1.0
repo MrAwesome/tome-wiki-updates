@@ -1,1 +1,5 @@
-<p>When you kill a foe you place small explosives with shrapnels inside its body, making it explode in radius 5.</p><p>Any foes hit will bleed for <acronym class="variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00,<br>steampower 100">15, 20, 24, 28, 31</acronym> damage per turn for 6 turns. The shrapnels also damage the vocal cords (or related organ), silencing them for <acronym class="talent-variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00">0, 1, 2, 3, 3</acronym> turns.</p><p><span style="font-style: italic"><span class="tstr-font-italic">Use the finest of wartech now: shrapnels. For blood and mayhem!</span></span></p>
+When you kill a foe you place small explosives with shrapnels inside its body, making it explode in radius 5.
+
+Any foes hit will bleed for [15, 20, 24, 28, 31 (TL1-5; STEAMPOWER 100)] damage per turn for 6 turns. The shrapnels also damage the vocal cords (or related organ), silencing them for [0, 1, 2, 3, 3 (TL1-5)] turns.
+
+''Use the finest of wartech now: shrapnels. For blood and mayhem!''

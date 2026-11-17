@@ -1,1 +1,5 @@
-<p>Your weapon attacks burn with righteous fury, dealing <acronym class="talent-variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00">55%, 68%, 78%, 87%, 95%</acronym> of your lost HP as additional Fire damage (up to <acronym class="variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00,<br>spellpower 100">248, 334, 401, 458, 508,</acronym> Current:  0).</p><p>Targets struck are also afflicted with a Martyrdom effect that causes them to take <acronym class="talent-variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00">8%, 13%, 17%, 19%, 22%</acronym> of all damage they deal for 4 turns.</p><p>The bonus damage can only occur once per turn.</p>
+Your weapon attacks burn with righteous fury, dealing [55%, 68%, 78%, 87%, 95% (TL1-5)] of your lost HP as additional Fire damage (up to [248, 334, 401, 458, 508 (TL1-5; SP 100)], Current:  0).
+
+Targets struck are also afflicted with a Martyrdom effect that causes them to take [8%, 13%, 17%, 19%, 22% (TL1-5)] of all damage they deal for 4 turns.
+
+The bonus damage can only occur once per turn.

@@ -1,1 +1,5 @@
-<p>You let your mental forces go unchecked for an instant. All foes in a radius <acronym class="talent-variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00">3, 4, 4, 5, 6</acronym> are knocked 3 grids away from you.</p><p>Creatures that fail a mental save are also dazed for <acronym class="talent-variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00">3, 3, 4, 4, 5</acronym> turns and take <acronym class="variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00,<br>mindpower 100">108, 146, 175, 200, 222</acronym> mind damage.</p><p>If you do not have two mindstars equiped, but have them in your off set, you instantly automatically switch. The wild psionic powers are incompatible with the focused nature of psiblades.</p>
+You let your mental forces go unchecked for an instant. All foes in a radius [3, 4, 4, 5, 6 (TL1-5)] are knocked 3 grids away from you.
+
+Creatures that fail a mental save are also dazed for [3, 3, 4, 4, 5 (TL1-5)] turns and take [108, 146, 175, 200, 222 (TL1-5; MP 100)] mind damage.
+
+If you do not have two mindstars equiped, but have them in your off set, you instantly automatically switch. The wild psionic powers are incompatible with the focused nature of psiblades.

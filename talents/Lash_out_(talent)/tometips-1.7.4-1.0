@@ -1,1 +1,7 @@
-<p>Spin around, extending your weapon and damaging all targets around you for <acronym class="talent-variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00">171%, 184%, 194%, 202%, 210%</acronym> weapon damage while your tentacle hand extends and hits all targets in radius 3 for <acronym class="talent-variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00">151%, 164%, 174%, 182%, 190%</acronym> tentacle damage.</p><p></p><p>If the mainhand attack hits at least one enemy you gain 15 insanity.</p><p>If the tentacle attack hits at least one enemy you gain 5 insanity.</p><p></p><p><span style="color: #9acd32"><span class="tstr-color-YELLOW_GREEN">When constricting:<span style="color: #ffffff"><span class="tstr-color-WHITE"> Your tentacle attack is centered around your constricted target (but not your weapon attack) and only in radius 1 but it also dazes anything hit for 5 turns.</p>
+Spin around, extending your weapon and damaging all targets around you for [171%, 184%, 194%, 202%, 210% (TL1-5)] weapon damage while your tentacle hand extends and hits all targets in radius 3 for [151%, 164%, 174%, 182%, 190% (TL1-5)] tentacle damage.
+
+If the mainhand attack hits at least one enemy you gain 15 insanity.
+
+If the tentacle attack hits at least one enemy you gain 5 insanity.
+
+When constricting: Your tentacle attack is centered around your constricted target (but not your weapon attack) and only in radius 1 but it also dazes anything hit for 5 turns.

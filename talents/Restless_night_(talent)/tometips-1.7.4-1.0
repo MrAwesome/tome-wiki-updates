@@ -1,1 +1,3 @@
-<p>Targets you have slept take <acronym class="variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00,<br>mindpower 100">23, 31, 37, 42, 46</acronym> mind damage each turn for five turns upon waking.</p><p>The damage will scale with your Mindpower.</p>
+Targets you have slept take [23, 31, 37, 42, 46 (TL1-5; MP 100)] mind damage each turn for five turns upon waking.
+
+The damage will scale with your Mindpower.

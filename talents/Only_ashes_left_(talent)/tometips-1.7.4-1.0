@@ -1,1 +1,7 @@
-<p>Bringing about the darkest days of the Spellblaze you hasten the death of your foes.</p><p>When you deal damage to a creature in radius <acronym class="talent-variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00">3, 4, 5, 6, 6</acronym> or less around you and it dips below 33% life you automatically unleash the fury of the Spellblaze.</p><p>Affected foes will start taking <acronym class="variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00,<br>spellpower 100">32, 39, 45, 50, 54</acronym> darkness damage each turn until it dies as long as it remains in radius <acronym class="talent-variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00">3, 4, 5, 6, 6</acronym> of you.</p><p>The damage increases with spellpower.</p>
+Bringing about the darkest days of the Spellblaze you hasten the death of your foes.
+
+When you deal damage to a creature in radius [3, 4, 5, 6, 6 (TL1-5)] or less around you and it dips below 33% life you automatically unleash the fury of the Spellblaze.
+
+Affected foes will start taking [32, 39, 45, 50, 54 (TL1-5; SP 100)] darkness damage each turn until it dies as long as it remains in radius [3, 4, 5, 6, 6 (TL1-5)] of you.
+
+The damage increases with spellpower.

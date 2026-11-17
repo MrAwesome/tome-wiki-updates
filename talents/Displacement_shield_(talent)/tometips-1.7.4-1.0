@@ -1,1 +1,7 @@
-<p>This intricate spell erects a space distortion around the caster that is linked to another distortion, placed around a target.</p><p>Any time the caster should take damage, there is a <acronym class="talent-variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00">45%, 50%, 55%, 60%, 65%</acronym> chance that it will instead be warped by the shield and hit the designated target.</p><p>Once the maximum damage (<acronym class="variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00,<br>spellpower 100">298, 384, 451, 508, 558</acronym>) is absorbed, the time runs out (<acronym class="talent-variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00">13, 16, 19, 22, 25</acronym> turns), or the target dies, the shield will crumble.</p><p>The max damage the shield can absorb will increase with your Spellpower.</p>
+This intricate spell erects a space distortion around the caster that is linked to another distortion, placed around a target.
+
+Any time the caster should take damage, there is a [45%, 50%, 55%, 60%, 65% (TL1-5)] chance that it will instead be warped by the shield and hit the designated target.
+
+Once the maximum damage ([298, 384, 451, 508, 558 (TL1-5; SP 100)]) is absorbed, the time runs out ([13, 16, 19, 22, 25 (TL1-5)] turns), or the target dies, the shield will crumble.
+
+The max damage the shield can absorb will increase with your Spellpower.

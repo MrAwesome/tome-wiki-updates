@@ -1,1 +1,5 @@
-<p>Attack the target with either your ranged or melee weapons for <acronym class="variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00,<br>paradox 300">122%, 131%, 138%, 144%, 150%</acronym> damage.</p><p>If the attack hits you'll breach the target's immunities, reducing armor hardiness, stun, pin, blindness, and confusion immunity by 50% for <acronym class="variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00,<br>paradox 300">3, 4, 5, 6, 7</acronym> turns.</p><p>Breach chance scales with your Spellpower.</p>
+Attack the target with either your ranged or melee weapons for [122%, 131%, 138%, 144%, 150% (TL1-5; PARADOX 300)] damage.
+
+If the attack hits you'll breach the target's immunities, reducing armor hardiness, stun, pin, blindness, and confusion immunity by 50% for [3, 4, 5, 6, 7 (TL1-5; PARADOX 300)] turns.
+
+Breach chance scales with your Spellpower.

@@ -1,1 +1,7 @@
-<p>Your passion for singing the praises of the Moons reaches its zenith.</p><p>Your Hymns now fire shadowy beams that will hit up to <acronym class="talent-variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00">1, 2, 3, 4, 5</acronym> of your foes within radius 5 for <acronym class="variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00,<br>spellpower 100">29, 39, 46, 53, 58</acronym> damage, with a 25% chance of blinding.</p><p>This powerful effect will drain 5.0 negative energy each time it fires at at least 1 target; no beam will fire if your negative energy is too low.</p><p>These values scale with your Spellpower.</p>
+Your passion for singing the praises of the Moons reaches its zenith.
+
+Your Hymns now fire shadowy beams that will hit up to [1, 2, 3, 4, 5 (TL1-5)] of your foes within radius 5 for [29, 39, 46, 53, 58 (TL1-5; SP 100)] damage, with a 25% chance of blinding.
+
+This powerful effect will drain 5.0 negative energy each time it fires at at least 1 target; no beam will fire if your negative energy is too low.
+
+These values scale with your Spellpower.

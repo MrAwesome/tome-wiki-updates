@@ -1,1 +1,23 @@
-<p>Your left hand mutates into a disgusting mass of tentacles.</p><p>When you have your offhand empty you automatically hit your target and those on the side whenever you hit with a basic attack.</p><p>Also increases Physical Power by 30, and increases weapon damage by <acronym class="talent-variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00">29%, 42%, 51%, 59%, 66%</acronym> for your tentacles attacks.</p><p>Each time you make an attack with your tentacle you gain 10 insanity.</p><p>You generate a low power psionic field around you when around <span style="font-style: italic"><span class="tstr-font-italic">'civilized people'</span></span> that prevents them from seeing you for the horror you are.</p><p></p><p>Your tentacle hand currently has these stats:</p><p>Base power: <acronym class="talent-variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00">10, 20, 28, 34, 40</acronym> - <acronym class="talent-variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00">14, 28, 39, 48, 56</acronym></p><p>Uses stat: 100% Mag</p><p>Damage type: <span style="color: #7f7f7f"><span class="tstr-color-GREY">Darkness</span></span></p><p>Mastery: <span style="color: #ffd700"><span class="tstr-color-GOLD">Mutated Hand</span></span></p><p>Crit. chance: <span style="color: #00ff00"><span class="tstr-color-LIGHT_GREEN"><acronym class="talent-variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00">+0.7%, +4.4%, +6.9%, +8.8%, +10%</acronym></span></span></p><p>Attack speed: <span style="color: #00ff00"><span class="tstr-color-LIGHT_GREEN">100%</span></span></p><p></p>
+Your left hand mutates into a disgusting mass of tentacles.
+
+When you have your offhand empty you automatically hit your target and those on the side whenever you hit with a basic attack.
+
+Also increases Physical Power by 30, and increases weapon damage by [29%, 42%, 51%, 59%, 66% (TL1-5)] for your tentacles attacks.
+
+Each time you make an attack with your tentacle you gain 10 insanity.
+
+You generate a low power psionic field around you when around '''civilized people''' that prevents them from seeing you for the horror you are.
+
+Your tentacle hand currently has these stats:
+
+Base power: [10, 20, 28, 34, 40 (TL1-5)] - [14, 28, 39, 48, 56 (TL1-5)]
+
+Uses stat: 100% Mag
+
+Damage type: Darkness
+
+Mastery: Mutated Hand
+
+Crit. chance: [+0.7%, +4.4%, +6.9%, +8.8%, +10% (TL1-5)]
+
+Attack speed: 100%

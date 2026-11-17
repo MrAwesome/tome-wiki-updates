@@ -1,1 +1,5 @@
-<p>Calling upon nature, you cause the ground to erupt in an radius <acronym class="talent-variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00">2, 2, 2, 2, 3</acronym> acidic explosion, dealing <acronym class="variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00,<br>mindpower 100">134, 180, 216, 246, 273</acronym> acid damage to all creatures and creating mucus in the area.</p><p>Any Mucus Oozes you have active will, if in line of sight, instantly spit slime (at reduced power) at one of the targets hit by the splash.</p><p>The damage increases with your Mindpower.</p>
+Calling upon nature, you cause the ground to erupt in an radius [2, 2, 2, 2, 3 (TL1-5)] acidic explosion, dealing [134, 180, 216, 246, 273 (TL1-5; MP 100)] acid damage to all creatures and creating mucus in the area.
+
+Any Mucus Oozes you have active will, if in line of sight, instantly spit slime (at reduced power) at one of the targets hit by the splash.
+
+The damage increases with your Mindpower.

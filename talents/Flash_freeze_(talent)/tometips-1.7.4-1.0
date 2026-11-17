@@ -1,1 +1,5 @@
-<p>Invoke a blast of cold all around you with a radius of <acronym class="talent-variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00">2, 3, 4, 5, 6,</acronym> doing <acronym class="variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00,<br>spellpower 100">153, 205, 246, 281, 312</acronym> Cold damage and freezing creatures to the ground for <acronym class="variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00,<br>spellpower 100">6, 8, 10, 11, 12</acronym> turns.</p><p>Affected creatures can still act, but cannot move.</p><p>The duration will increase with your Spellpower.</p>
+Invoke a blast of cold all around you with a radius of [2, 3, 4, 5, 6 (TL1-5)], doing [153, 205, 246, 281, 312 (TL1-5; SP 100)] Cold damage and freezing creatures to the ground for [6, 8, 10, 11, 12 (TL1-5; SP 100)] turns.
+
+Affected creatures can still act, but cannot move.
+
+The duration will increase with your Spellpower.

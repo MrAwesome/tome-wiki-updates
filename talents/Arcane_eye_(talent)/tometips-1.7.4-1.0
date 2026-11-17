@@ -1,1 +1,13 @@
-<p>Summons an ethereal magical eye at the designated location that lasts for <acronym class="talent-variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00">13, 16, 19, 22, 25</acronym> turns.</p><p>The eye cannot be seen or attacked by other creatures, and possesses magical vision that allows it to see any creature in a <acronym class="talent-variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00">5, 6, 7, 8, 9</acronym> range around it.</p><p>It does not require light to do so, but it cannot see through walls.</p><p>Casting the eye does not take a turn.</p><p>Only one arcane eye can exist at any given time.</p><p>At level 4, if cast on a creature it will follow it until it expires, or until the creature dies.</p><p>At level 5, it will place a magical marker on the creatures, negating invisibility and stealth effects.</p>
+Summons an ethereal magical eye at the designated location that lasts for [13, 16, 19, 22, 25 (TL1-5)] turns.
+
+The eye cannot be seen or attacked by other creatures, and possesses magical vision that allows it to see any creature in a [5, 6, 7, 8, 9 (TL1-5)] range around it.
+
+It does not require light to do so, but it cannot see through walls.
+
+Casting the eye does not take a turn.
+
+Only one arcane eye can exist at any given time.
+
+At level 4, if cast on a creature it will follow it until it expires, or until the creature dies.
+
+At level 5, it will place a magical marker on the creatures, negating invisibility and stealth effects.

@@ -1,1 +1,5 @@
-<p>When you exit stealth, you reveal yourself dramatically, intimidating foes around you. </p><p>All foes within radius <acronym class="talent-variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00">1, 2, 3, 4, 4</acronym> that witness you leaving stealth will be stricken with terror, which randomly inflicts stun, slow (40% power), or confusion (50% power) for <acronym class="talent-variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00">3, 3, 4, 4, 5</acronym> turns.</p><p>The chance to terrorize improves with your combat accuracy.</p>
+When you exit stealth, you reveal yourself dramatically, intimidating foes around you.
+
+All foes within radius [1, 2, 3, 4, 4 (TL1-5)] that witness you leaving stealth will be stricken with terror, which randomly inflicts stun, slow (40% power), or confusion (50% power) for [3, 3, 4, 4, 5 (TL1-5)] turns.
+
+The chance to terrorize improves with your combat accuracy.

@@ -1,1 +1,5 @@
-<p>The sheer power of your entropy tears holes through spacetime, opening this world to the void.</p><p>On casting a Demented spell you have a 30% chance of creating a void rift lasting <acronym class="talent-variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00">1, 2, 3, 4, 5</acronym> turns in a nearby tile, which will launch void blasts each turn at a random enemy in range 7, dealing <acronym class="variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00,<br>spellpower 100">11, 15, 18, 21, 23</acronym> darkness and <acronym class="variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00,<br>spellpower 100">11, 15, 18, 21, 23</acronym> temporal damage.</p><p></p><p>You may activate this talent to forcibly destabilize spacetime, spawning 3 void rifts around you.</p>
+The sheer power of your entropy tears holes through spacetime, opening this world to the void.
+
+On casting a Demented spell you have a 30% chance of creating a void rift lasting [1, 2, 3, 4, 5 (TL1-5)] turns in a nearby tile, which will launch void blasts each turn at a random enemy in range 7, dealing [11, 15, 18, 21, 23 (TL1-5; SP 100)] darkness and [11, 15, 18, 21, 23 (TL1-5; SP 100)] temporal damage.
+
+You may activate this talent to forcibly destabilize spacetime, spawning 3 void rifts around you.

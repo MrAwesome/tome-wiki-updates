@@ -1,1 +1,7 @@
-<p>Puts targets in a radius of <acronym class="talent-variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00">1, 1, 1, 2, 2</acronym> to sleep for <acronym class="talent-variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00">3, 3, 3, 4, 4</acronym> turns, rendering them unable to act.  Every <acronym class="variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00,<br>mindpower 100">14, 19, 23, 26, 29</acronym> points of damage the target suffers will reduce the effect duration by one turn.</p><p>When Sleep ends, the target will suffer from Insomnia for a number of turns equal to the amount of time it was asleep (up to ten turns max), granting it 20% sleep immunity for each turn of the Insomnia effect.</p><p>At talent level 5 Sleep will become contagious and has a 25% chance to spread to nearby targets each turn.</p><p>The damage threshold will scale with your Mindpower.</p>
+Puts targets in a radius of [1, 1, 1, 2, 2 (TL1-5)] to sleep for [3, 3, 3, 4, 4 (TL1-5)] turns, rendering them unable to act.  Every [14, 19, 23, 26, 29 (TL1-5; MP 100)] points of damage the target suffers will reduce the effect duration by one turn.
+
+When Sleep ends, the target will suffer from Insomnia for a number of turns equal to the amount of time it was asleep (up to ten turns max), granting it 20% sleep immunity for each turn of the Insomnia effect.
+
+At talent level 5 Sleep will become contagious and has a 25% chance to spread to nearby targets each turn.
+
+The damage threshold will scale with your Mindpower.

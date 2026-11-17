@@ -1,1 +1,7 @@
-<p>Current exoskeleton life: <acronym class="variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00,<br>steampower 100">0/249, 0/335, 0/402, 0/459, 0/509</acronym></p><p>You craft a set of steam powered armor that fits over your regular armor, enhancing your defense. The armor has <acronym class="variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00,<br>steampower 100">249, 335, 402, 459, 509</acronym> life, and 50% of all damage taken is redirected to it.</p><p>Your powered armour repairs 5% of it’s maximum life each turn, and each time you spend steam it will be repaired for <acronym class="talent-variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00">100%, 150%, 188%, 221%, 250%</acronym> of the steam cost.</p><p>The armor's maximum life will increase with your Steampower.</p>
+Current exoskeleton life: [0/249, 0/335, 0/402, 0/459, 0/509 (TL1-5; STEAMPOWER 100)]
+
+You craft a set of steam powered armor that fits over your regular armor, enhancing your defense. The armor has [249, 335, 402, 459, 509 (TL1-5; STEAMPOWER 100)] life, and 50% of all damage taken is redirected to it.
+
+Your powered armour repairs 5% of it’s maximum life each turn, and each time you spend steam it will be repaired for [100%, 150%, 188%, 221%, 250% (TL1-5)] of the steam cost.
+
+The armor's maximum life will increase with your Steampower.

@@ -1,1 +1,11 @@
-<p>Befriend the natural elements that constitute nature. Each time you are hit by one of the elements, you gain a special effect for 5 turns. This can only happen every 5 turns.</p><p>Fire: <acronym class="talent-variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00">+10%, +16%, +21%, +26%, +29%</acronym> global speed</p><p>Cold: <acronym class="talent-variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00">+8, +12, +17, +21, +25</acronym> Armour</p><p>Lightning: <acronym class="talent-variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00">+5, +9, +13, +16, +20</acronym> to all stats</p><p>Acid: <acronym class="talent-variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00">+10, +19, +26, +33, +40</acronym> life regen</p><p>Nature: <acronym class="talent-variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00">+4%, +7%, +10%, +12%, +15%</acronym> to all resists</p>
+Befriend the natural elements that constitute nature. Each time you are hit by one of the elements, you gain a special effect for 5 turns. This can only happen every 5 turns.
+
+Fire: [+10%, +16%, +21%, +26%, +29% (TL1-5)] global speed
+
+Cold: [+8, +12, +17, +21, +25 (TL1-5)] Armour
+
+Lightning: [+5, +9, +13, +16, +20 (TL1-5)] to all stats
+
+Acid: [+10, +19, +26, +33, +40 (TL1-5)] life regen
+
+Nature: [+4%, +7%, +10%, +12%, +15% (TL1-5)] to all resists

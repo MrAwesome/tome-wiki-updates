@@ -1,1 +1,11 @@
-<p>Instantly grow a moss circle of radius <acronym class="talent-variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00">2, 2, 3, 3, 4</acronym> at your feet.</p><p>Each turn the moss deals <acronym class="variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00,<br>mindpower 100">23, 31, 37, 42, 46</acronym> nature damage to each foe within its radius.</p><p>This moss is very thick and sticky causing all foes passing through it have their movement speed reduced by <acronym class="talent-variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00">33%, 42%, 48%, 52%, 56%</acronym> and have a <acronym class="talent-variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00">23%, 30%, 35%, 38%, 42%</acronym> chance to be pinned to the ground for 4 turns.</p><p>The moss lasts <acronym class="talent-variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00">3, 5, 7, 8, 8</acronym> turns.</p><p>Moss talents are instant but place all other moss talents on cooldown for 3 turns.</p><p>The damage will increase with your Mindpower.</p>
+Instantly grow a moss circle of radius [2, 2, 3, 3, 4 (TL1-5)] at your feet.
+
+Each turn the moss deals [23, 31, 37, 42, 46 (TL1-5; MP 100)] nature damage to each foe within its radius.
+
+This moss is very thick and sticky causing all foes passing through it have their movement speed reduced by [33%, 42%, 48%, 52%, 56% (TL1-5)] and have a [23%, 30%, 35%, 38%, 42% (TL1-5)] chance to be pinned to the ground for 4 turns.
+
+The moss lasts [3, 5, 7, 8, 8 (TL1-5)] turns.
+
+Moss talents are instant but place all other moss talents on cooldown for 3 turns.
+
+The damage will increase with your Mindpower.

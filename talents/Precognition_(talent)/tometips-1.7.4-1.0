@@ -1,1 +1,3 @@
-<p>You peer into the future, sensing creatures and traps in a radius of <acronym class="variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00,<br>paradox 300">12, 16, 19, 21, 23</acronym> for <acronym class="variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00,<br>paradox 300">2, 4, 6, 8, 10</acronym> turns.</p><p>If you know Foresight you'll gain additional defense and chance to shrug off critical hits (equal to your Foresight bonuses) while Precognition is active.</p>
+You peer into the future, sensing creatures and traps in a radius of [12, 16, 19, 21, 23 (TL1-5; PARADOX 300)] for [2, 4, 6, 8, 10 (TL1-5; PARADOX 300)] turns.
+
+If you know Foresight you'll gain additional defense and chance to shrug off critical hits (equal to your Foresight bonuses) while Precognition is active.

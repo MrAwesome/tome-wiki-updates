@@ -1,1 +1,7 @@
-<p>You let out a powerful roar that sends your foes in radius <acronym class="talent-variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00">3, 4, 5, 6, 7</acronym> into utter confusion (power: <acronym class="talent-variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00">26%, 32%, 38%, 44%, 50%</acronym>) for 3 turns.</p><p>The sound wave is so strong, your foes also take <acronym class="variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00,<br>Strength 100">121, 156, 183, 205, 224</acronym> physical damage.</p><p>The damage improves with your Strength.</p><p>Each point in fire drake talents also increases your fire resistance by 1%.</p>
+You let out a powerful roar that sends your foes in radius [3, 4, 5, 6, 7 (TL1-5)] into utter confusion (power: [26%, 32%, 38%, 44%, 50% (TL1-5)]) for 3 turns.
+
+The sound wave is so strong, your foes also take [121, 156, 183, 205, 224 (TL1-5; STR 100)] physical damage.
+
+The damage improves with your Strength.
+
+Each point in fire drake talents also increases your fire resistance by 1%.

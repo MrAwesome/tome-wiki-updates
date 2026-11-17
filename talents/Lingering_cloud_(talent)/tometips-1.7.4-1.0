@@ -1,1 +1,9 @@
-<p>Explosive Steam Engine vapour now lingers for 5 turns.</p><p>Each turn, bleeding foes inside the cloud will take <acronym class="variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00,<br>steampower 100">50, 67, 80, 92, 102</acronym> fire damage.</p><p>Any steamtech-using creature will also regenerate <acronym class="talent-variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00">1, 2, 3, 4, 5</acronym> additional steam per turn while inside the cloud.</p><p>Damage scales with your Steampower.</p><p><span style="font-style: italic"><span class="tstr-font-italic">Modern technology at the service of burnination!</span></span></p>
+Explosive Steam Engine vapour now lingers for 5 turns.
+
+Each turn, bleeding foes inside the cloud will take [50, 67, 80, 92, 102 (TL1-5; STEAMPOWER 100)] fire damage.
+
+Any steamtech-using creature will also regenerate [1, 2, 3, 4, 5 (TL1-5)] additional steam per turn while inside the cloud.
+
+Damage scales with your Steampower.
+
+''Modern technology at the service of burnination!''

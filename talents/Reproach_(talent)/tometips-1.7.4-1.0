@@ -1,1 +1,3 @@
-<p>Utter a terrible curse against any who dare approach you, inflicting <acronym class="variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00,<br>mindpower 100">197, 265, 318, 363, 403</acronym> mind damage to targets in radius 3. Each affected target (ordered at random) takes <acronym class="talent-variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00">32%, 25%, 22%, 19%, 17%</acronym> less damage than the last, and has a 25% chance of suffering Brainlock.</p><p></p><p>The damage increases with your Mindpower.</p>
+Utter a terrible curse against any who dare approach you, inflicting [197, 265, 318, 363, 403 (TL1-5; MP 100)] mind damage to targets in radius 3. Each affected target (ordered at random) takes [32%, 25%, 22%, 19%, 17% (TL1-5)] less damage than the last, and has a 25% chance of suffering Brainlock.
+
+The damage increases with your Mindpower.

@@ -1,1 +1,16 @@
-<p>While Master Summoner is active, when a creature you summon appears in the world, it will trigger a wild effect:</p><ul><li> Ritch Flamespitter: Reduce fire resistance of all foes in the radius by <acronym class="variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00,<br>mindpower 100">25%, 33%, 40%, 46%, 51%</acronym></li><li> Hydra: Generates a cloud of lingering poison, poisoning all foes caught within for <acronym class="variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00,<br>mindpower 100">13, 18, 21, 24, 27</acronym> nature damage per turn (cumulative)</li><li> Rimebark: Reduce cold resistance of all foes in the radius by <acronym class="variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00,<br>mindpower 100">25%, 33%, 40%, 46%, 51%</acronym></li><li> Fire Drake: Appears with <acronym class="talent-variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00">1, 1, 1, 2, 2</acronym> fire drake hatchling(s)</li><li> War Hound: Reduce physical resistance of all foes in the radius by <acronym class="variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00,<br>mindpower 100">25%, 33%, 40%, 46%, 51%</acronym></li><li> Jelly: Reduce nature resistance of all foes in the radius by <acronym class="variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00,<br>mindpower 100">25%, 33%, 40%, 46%, 51%</acronym></li><li> Minotaur: Reduces movement speed of all foes in the radius by <acronym class="variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00,<br>mindpower 100">44%, 50%, 54%, 57%, 60%</acronym></li><li> Stone Golem: Dazes all foes in the radius</li><li> Turtle: Heals all friendly targets in the radius <acronym class="variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00,<br>mindpower 100">246, 321, 379, 428, 472</acronym> HP</li><li> Spider: Pins all foes in the radius</li></ul><p>Radius for effects is <acronym class="talent-variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00">1, 2, 2, 3, 3,</acronym> and the duration of each lasting effect is <acronym class="talent-variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00">5, 6, 7, 8, 9</acronym> turns.</p><p>The effects improve with your mindpower.</p>
+While Master Summoner is active, when a creature you summon appears in the world, it will trigger a wild effect:
+
+*  Ritch Flamespitter: Reduce fire resistance of all foes in the radius by [25%, 33%, 40%, 46%, 51% (TL1-5; MP 100)]
+*  Hydra: Generates a cloud of lingering poison, poisoning all foes caught within for [13, 18, 21, 24, 27 (TL1-5; MP 100)] nature damage per turn (cumulative)
+*  Rimebark: Reduce cold resistance of all foes in the radius by [25%, 33%, 40%, 46%, 51% (TL1-5; MP 100)]
+*  Fire Drake: Appears with [1, 1, 1, 2, 2 (TL1-5)] fire drake hatchling(s)
+*  War Hound: Reduce physical resistance of all foes in the radius by [25%, 33%, 40%, 46%, 51% (TL1-5; MP 100)]
+*  Jelly: Reduce nature resistance of all foes in the radius by [25%, 33%, 40%, 46%, 51% (TL1-5; MP 100)]
+*  Minotaur: Reduces movement speed of all foes in the radius by [44%, 50%, 54%, 57%, 60% (TL1-5; MP 100)]
+*  Stone Golem: Dazes all foes in the radius
+*  Turtle: Heals all friendly targets in the radius [246, 321, 379, 428, 472 (TL1-5; MP 100)] HP
+*  Spider: Pins all foes in the radius
+
+Radius for effects is [1, 2, 2, 3, 3 (TL1-5)], and the duration of each lasting effect is [5, 6, 7, 8, 9 (TL1-5)] turns.
+
+The effects improve with your mindpower.

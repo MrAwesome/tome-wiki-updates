@@ -1,1 +1,11 @@
-<p>You summon a corpselight that radiates cold for 7 turns in radius 3.</p><p>Every turn all foes inside take <acronym class="variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00,<br>spellpower 100">36, 48, 57, 65, 73</acronym> cold damage.</p><p>Anytime you cast a spell while standing inside your corpselight's area it grows by one stack, each stack giving +1 radius and +10% damage.</p><p>The corpselight can gain at most <acronym class="talent-variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00">3, 4, 5, 6, 7</acronym> stacks and the radius will never extend beyond 10.</p><p>If cast while under 1 life it spawns with 3 stacks.</p><p>The damage will increase with your Spellpower.</p>
+You summon a corpselight that radiates cold for 7 turns in radius 3.
+
+Every turn all foes inside take [36, 48, 57, 65, 73 (TL1-5; SP 100)] cold damage.
+
+Anytime you cast a spell while standing inside your corpselight's area it grows by one stack, each stack giving +1 radius and +10% damage.
+
+The corpselight can gain at most [3, 4, 5, 6, 7 (TL1-5)] stacks and the radius will never extend beyond 10.
+
+If cast while under 1 life it spawns with 3 stacks.
+
+The damage will increase with your Spellpower.

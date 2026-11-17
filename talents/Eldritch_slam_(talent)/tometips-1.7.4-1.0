@@ -1,1 +1,7 @@
-<p>Slam your shield on the ground creating a shockwave.</p><p>You perform a melee attack for <acronym class="talent-variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00">188%, 212%, 230%, 246%, 260%</acronym> arcane damage against everyone within radius <acronym class="talent-variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00">2, 3, 4, 5, 6.</acronym></p><p>Any creature hit by the attack will be submitted to a Counterstrike effect for 3 turns, as if you had blocked against them.</p><p>At level 5 your Block cooldown is reset.</p>
+Slam your shield on the ground creating a shockwave.
+
+You perform a melee attack for [188%, 212%, 230%, 246%, 260% (TL1-5)] arcane damage against everyone within radius [2, 3, 4, 5, 6 (TL1-5)].
+
+Any creature hit by the attack will be submitted to a Counterstrike effect for 3 turns, as if you had blocked against them.
+
+At level 5 your Block cooldown is reset.

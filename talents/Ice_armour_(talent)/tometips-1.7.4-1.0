@@ -1,1 +1,5 @@
-<p>While Frost Infusion is active, your bombs deposit a layer of ice on your golem for <acronym class="variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00,<br>spellpower 100">6, 8, 10, 11, 12</acronym> turns when they hit it.</p><p>This ice provides your golem with <acronym class="variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00,<br>spellpower 100">13, 18, 22, 25, 28</acronym> additional armour, melee attacks against it deal 0.0 Cold damage to the attacker, and 50% of its damage is converted to Cold.</p><p>The effects increase with your talent level and with the Spellpower and damage modifiers of your golem.</p>
+While Frost Infusion is active, your bombs deposit a layer of ice on your golem for [6, 8, 10, 11, 12 (TL1-5; SP 100)] turns when they hit it.
+
+This ice provides your golem with [13, 18, 22, 25, 28 (TL1-5; SP 100)] additional armour, melee attacks against it deal 0.0 Cold damage to the attacker, and 50% of its damage is converted to Cold.
+
+The effects increase with your talent level and with the Spellpower and damage modifiers of your golem.

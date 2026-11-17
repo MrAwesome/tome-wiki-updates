@@ -1,1 +1,5 @@
-<p>Activate to invert your Feedback decay for <acronym class="talent-variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00">3, 5, 7, 8, 9</acronym> turns.  This effect can be a critical hit, increasing the duration even further.</p><p>You must have some Feedback in order to start the loop.</p><p>The maximum Feedback gain will scale with your Mindpower.</p>
+Activate to invert your Feedback decay for [3, 5, 7, 8, 9 (TL1-5)] turns.  This effect can be a critical hit, increasing the duration even further.
+
+You must have some Feedback in order to start the loop.
+
+The maximum Feedback gain will scale with your Mindpower.

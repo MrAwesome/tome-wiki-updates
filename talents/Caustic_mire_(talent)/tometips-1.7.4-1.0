@@ -1,1 +1,5 @@
-<p>A radius 3 pool of acid spawns at the target location, doing <acronym class="variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00,<br>spellpower 100">35, 47, 56, 64, 71</acronym> Acid damage each turn for <acronym class="talent-variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00">6, 7, 8, 9, 10</acronym> turns.</p><p>All creatures caught in the mire will also suffer a <acronym class="talent-variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00">16%, 26%, 34%, 39%, 44%</acronym> slowness effect.</p><p>The damage will increase with your Spellpower.</p>
+A radius 3 pool of acid spawns at the target location, doing [35, 47, 56, 64, 71 (TL1-5; SP 100)] Acid damage each turn for [6, 7, 8, 9, 10 (TL1-5)] turns.
+
+All creatures caught in the mire will also suffer a [16%, 26%, 34%, 39%, 44% (TL1-5)] slowness effect.
+
+The damage will increase with your Spellpower.

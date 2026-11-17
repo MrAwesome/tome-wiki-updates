@@ -1,1 +1,21 @@
-<p>When you turn into a Deeprock elemental your Arcane damage is increased by <acronym class="variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00,<br>spellpower 100">20%, 26%, 30%, 33%, 36%,</acronym> Arcane damage penetration by <acronym class="talent-variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00">5.9%, 7.9%, 9.3%, 11%, 12%</acronym> and you gain the power to invoke volcanos:</p><p><span style="color: #6FFF83"><span class="tstr-color-6FFF83">Effective talent level: <span style="color: #00FF00"><span class="tstr-color-00FF00"><acronym class="talent-variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00">2.0, 4.0, 6.0, 8.0, 10</acronym></p><p><span style="color: #6FFF83"><span class="tstr-color-6FFF83">Use mode: <span style="color: #00FF00"><span class="tstr-color-00FF00">Activated</p><p><span style="color: #6FFF83"><span class="tstr-color-6FFF83">Mana cost: <span style="color: #FFA8A8"><span class="tstr-color-FFA8A8">10</p><p><span style="color: #6FFF83"><span class="tstr-color-6FFF83">Range: <span style="color: #FFFFFF"><span class="tstr-color-FFFFFF">10</p><p><span style="color: #6FFF83"><span class="tstr-color-6FFF83">Cooldown: <span style="color: #FFFFFF"><span class="tstr-color-FFFFFF">20</p><p><span style="color: #6FFF83"><span class="tstr-color-6FFF83">Travel Speed: <span style="color: #FFFFFF"><span class="tstr-color-FFFFFF">200% of base</p><p><span style="color: #6FFF83"><span class="tstr-color-6FFF83">Usage Speed: <span style="color: #FFFFFF"><span class="tstr-color-FFFFFF">Spell (<span style="color: #00ff00"><span class="tstr-color-LIGHT_GREEN">100%</span></span> of a turn)</p><p><span style="color: #6FFF83"><span class="tstr-color-6FFF83">Is: <span style="color: #FFFFFF"><span class="tstr-color-FFFFFF">a spell</p><p><span style="color: #6FFF83"><span class="tstr-color-6FFF83">Description: <span style="color: #FFFFFF"><span class="tstr-color-FFFFFF">Summons a small raging volcano for <acronym class="talent-variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00">6, 8, 9, 10, 11</acronym> turns. Every turn, it will fire a molten boulder towards up to <acronym class="talent-variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00">2, 4, 5, 6, 6</acronym> of your foes, dealing <acronym class="variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00,<br>spellpower 100">31, 43, 52, 60, 66</acronym> fire and <acronym class="variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00,<br>spellpower 100">31, 43, 52, 60, 66</acronym> physical damage.</p><p>The damage will scale with your Spellpower.</p>
+When you turn into a Deeprock elemental your Arcane damage is increased by [20%, 26%, 30%, 33%, 36% (TL1-5; SP 100)], Arcane damage penetration by [5.9%, 7.9%, 9.3%, 11%, 12% (TL1-5)] and you gain the power to invoke volcanos:
+
+Effective talent level: [2.0, 4.0, 6.0, 8.0, 10 (TL1-5)]
+
+Use mode: Activated
+
+Mana cost: 10
+
+Range: 10
+
+Cooldown: 20
+
+Travel Speed: 200% of base
+
+Usage Speed: Spell (100% of a turn)
+
+Is: a spell
+
+Description: Summons a small raging volcano for [6, 8, 9, 10, 11 (TL1-5)] turns. Every turn, it will fire a molten boulder towards up to [2, 4, 5, 6, 6 (TL1-5)] of your foes, dealing [31, 43, 52, 60, 66 (TL1-5; SP 100)] fire and [31, 43, 52, 60, 66 (TL1-5; SP 100)] physical damage.
+
+The damage will scale with your Spellpower.

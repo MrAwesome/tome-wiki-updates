@@ -1,1 +1,13 @@
-<p>You learn to use death around you to an even greater advantage. </p><p>Each time you kill or deal damage above 10% of a creatures max life with non-darkness damage while Dark Reign is active the death will create a pool of dark energies of radius 1 for 5 turns.</p><p>This pool spawns on top of a random enemy within radius 8.</p><p>Any foes standing inside will take <acronym class="variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00,<br>spellpower 100">23, 31, 37, 42, 46</acronym> darkness damage each turn.</p><p>This effect can only happen once per turn.</p><p>The damage increases with spellpower.</p><p>At talent level 3 your Dark Reign buff also protects you from death until reaching <acronym class="variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00,<br>spellpower 100">34, 46, 55, 63, 70</acronym> life per stack.</p>
+You learn to use death around you to an even greater advantage.
+
+Each time you kill or deal damage above 10% of a creatures max life with non-darkness damage while Dark Reign is active the death will create a pool of dark energies of radius 1 for 5 turns.
+
+This pool spawns on top of a random enemy within radius 8.
+
+Any foes standing inside will take [23, 31, 37, 42, 46 (TL1-5; SP 100)] darkness damage each turn.
+
+This effect can only happen once per turn.
+
+The damage increases with spellpower.
+
+At talent level 3 your Dark Reign buff also protects you from death until reaching [34, 46, 55, 63, 70 (TL1-5; SP 100)] life per stack.

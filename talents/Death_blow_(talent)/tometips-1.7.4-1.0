@@ -1,1 +1,5 @@
-<p>Tries to perform a killing blow, doing <acronym class="talent-variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00">102%, 111%, 118%, 124%, 130%</acronym> weapon damage and dealing an automatic critical hit. If the target ends up with low enough life (&lt;20%), it might be instantly killed.</p><p>At level 4, it drains half your remaining stamina, and uses it to increase the blow damage by 100% of it.</p><p>The chance to instantly kill will increase with your Physical Power.</p>
+Tries to perform a killing blow, doing [102%, 111%, 118%, 124%, 130% (TL1-5)] weapon damage and dealing an automatic critical hit. If the target ends up with low enough life (<20%), it might be instantly killed.
+
+At level 4, it drains half your remaining stamina, and uses it to increase the blow damage by 100% of it.
+
+The chance to instantly kill will increase with your Physical Power.

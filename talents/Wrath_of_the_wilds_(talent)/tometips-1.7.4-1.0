@@ -1,1 +1,7 @@
-<p>You unleash the wrath of the wilds for 5 turns.</p><p>When you deal damage to a creature while wrath is active you have <acronym class="stat-variable" title="Values for<br>Constitution 10, 25, 50, 75, 100">7%, 10%, 14%, 17%, 20%</acronym> chance (100% for the first creature hit each turn) to stun them for 3 turns.</p><p>This effect can only stun a creature once per turn.</p><p>Chance scales with your Constitution and apply power is the highest or your physical or mind power.</p>
+You unleash the wrath of the wilds for 5 turns.
+
+When you deal damage to a creature while wrath is active you have [7%, 10%, 14%, 17%, 20% (CON 10-100)] chance (100% for the first creature hit each turn) to stun them for 3 turns.
+
+This effect can only stun a creature once per turn.
+
+Chance scales with your Constitution and apply power is the highest or your physical or mind power.

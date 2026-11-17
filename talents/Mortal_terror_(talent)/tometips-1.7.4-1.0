@@ -1,1 +1,5 @@
-<p>Your mighty blows inspire utter terror on your foes. Any melee strike you do that deals more than <acronym class="talent-variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00">49%, 37%, 30%, 26%, 23%</acronym> of the target's total life puts them in a mortal terror, dazing them for 5 turns.</p><p>Your critical strike chance also increase by <acronym class="talent-variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00">2%, 6%, 9%, 11%, 14%.</acronym></p><p>The daze chance increase with your Physical Power.</p>
+Your mighty blows inspire utter terror on your foes. Any melee strike you do that deals more than [49%, 37%, 30%, 26%, 23% (TL1-5)] of the target's total life puts them in a mortal terror, dazing them for 5 turns.
+
+Your critical strike chance also increase by [2%, 6%, 9%, 11%, 14% (TL1-5)].
+
+The daze chance increase with your Physical Power.

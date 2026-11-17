@@ -1,1 +1,5 @@
-<p>Pull a bolt of temporal energy back through time.  The bolt will home in on your location, dealing <acronym class="variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00,<br>spellpower 100,<br>paradox 300">90, 121, 145, 165, 183</acronym> temporal damage to targets, and reducing the cooldown of one chronomancy talent on cooldown by one turn per enemy hit.</p><p>The bolt gains 5% damage each time it moves and the damage will scale with your Spellpower.</p><p>At talent level five cooldowns are reduced by two.</p>
+Pull a bolt of temporal energy back through time.  The bolt will home in on your location, dealing [90, 121, 145, 165, 183 (TL1-5; SP 100; PARADOX 300)] temporal damage to targets, and reducing the cooldown of one chronomancy talent on cooldown by one turn per enemy hit.
+
+The bolt gains 5% damage each time it moves and the damage will scale with your Spellpower.
+
+At talent level five cooldowns are reduced by two.

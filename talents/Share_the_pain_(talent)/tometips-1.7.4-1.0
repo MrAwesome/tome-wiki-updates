@@ -1,1 +1,3 @@
-<p>You revel in the heat of battle. Whenever an enemy damages you within melee range, you have a <acronym class="talent-variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00">16%, 25%, 31%, 36%, 40%</acronym> chance to counter with an attack for <acronym class="talent-variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00">55%, 62%, 67%, 71%, 75%</acronym> weapon damage.</p><p>You get once chance to deal this damage to a particular target each turn.</p>
+You revel in the heat of battle. Whenever an enemy damages you within melee range, you have a [16%, 25%, 31%, 36%, 40% (TL1-5)] chance to counter with an attack for [55%, 62%, 67%, 71%, 75% (TL1-5)] weapon damage.
+
+You get once chance to deal this damage to a particular target each turn.

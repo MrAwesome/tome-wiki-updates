@@ -1,1 +1,9 @@
-<p>Gnaw your target for <acronym class="talent-variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00">100%, 120%, 135%, 148%, 160%</acronym> damage.  If your attack hits, the target may be infected with Ghoul Rot for <acronym class="talent-variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00">2, 4, 5, 6, 6</acronym> turns.</p><p>Each turn, Ghoul Rot inflicts <acronym class="variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00,<br>Constitution 100">26, 34, 39, 44, 49</acronym> blight damage.</p><p>Targets suffering from Ghoul Rot rise as friendly ghouls when slain.</p><p>Ghouls last for <acronym class="talent-variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00">2, 4, 5, 6, 6</acronym> turns and can use Gnaw, Ghoulish Leap, Stun, and Rotting Disease.</p><p>The blight damage scales with your Constitution.</p>
+Gnaw your target for [100%, 120%, 135%, 148%, 160% (TL1-5)] damage.  If your attack hits, the target may be infected with Ghoul Rot for [2, 4, 5, 6, 6 (TL1-5)] turns.
+
+Each turn, Ghoul Rot inflicts [26, 34, 39, 44, 49 (TL1-5; CON 100)] blight damage.
+
+Targets suffering from Ghoul Rot rise as friendly ghouls when slain.
+
+Ghouls last for [2, 4, 5, 6, 6 (TL1-5)] turns and can use Gnaw, Ghoulish Leap, Stun, and Rotting Disease.
+
+The blight damage scales with your Constitution.

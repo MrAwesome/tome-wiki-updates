@@ -1,1 +1,5 @@
-<p>Your bloodstar effect also burns part of your victim's flesh, dealing <acronym class="variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00,<br>steampower 100">25, 34, 41, 47, 52</acronym> fire damage.</p><p>The intensity of the fire generates steam which you psionically absorb through gestalt, providing <acronym class="talent-variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00">3, 6, 8, 9, 10</acronym> steam each turn (each additional victim steam generation is reduced by 66%).</p><p>This damage does not break daze and increases with your Steampower.</p>
+Your bloodstar effect also burns part of your victim's flesh, dealing [25, 34, 41, 47, 52 (TL1-5; STEAMPOWER 100)] fire damage.
+
+The intensity of the fire generates steam which you psionically absorb through gestalt, providing [3, 6, 8, 9, 10 (TL1-5)] steam each turn (each additional victim steam generation is reduced by 66%).
+
+This damage does not break daze and increases with your Steampower.

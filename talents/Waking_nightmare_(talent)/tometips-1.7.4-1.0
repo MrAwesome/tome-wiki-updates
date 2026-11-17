@@ -1,1 +1,5 @@
-<p>Inflicts <acronym class="variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00,<br>mindpower 100">29, 39, 46, 53, 58</acronym> darkness damage each turn for <acronym class="talent-variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00">5, 6, 7, 8, 9</acronym> turns, and has a <acronym class="variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00,<br>mindpower 100">31%, 37%, 41%, 44%, 47%</acronym> chance to randomly cause blindness, stun, or confusion (lasting 3 turns).</p><p>If the target is sleeping, the chance of avoiding a negative effect will be halved and fear immunity will be ignored.</p><p>The damage will scale with your Mindpower.</p>
+Inflicts [29, 39, 46, 53, 58 (TL1-5; MP 100)] darkness damage each turn for [5, 6, 7, 8, 9 (TL1-5)] turns, and has a [31%, 37%, 41%, 44%, 47% (TL1-5; MP 100)] chance to randomly cause blindness, stun, or confusion (lasting 3 turns).
+
+If the target is sleeping, the chance of avoiding a negative effect will be halved and fear immunity will be ignored.
+
+The damage will scale with your Mindpower.

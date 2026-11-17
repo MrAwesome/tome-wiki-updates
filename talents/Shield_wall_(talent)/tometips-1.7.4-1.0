@@ -1,1 +1,7 @@
-<p>Enter a protective battle stance allowing you to defend yourself more proficiently while using a shield.</p><p>Increases Armour by <acronym class="variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00,<br>Strength 100,<br>Dexterity 100">23, 30, 36, 40, 44,</acronym> Block value by <acronym class="variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00,<br>Strength 100,<br>Dexterity 100">55, 71, 84, 94, 103,</acronym> and reduces Block cooldown by 2.</p><p>Increases stun and knockback resistance by <acronym class="talent-variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00">16%, 26%, 34%, 39%, 44%.</acronym></p><p>The Armor and Block bonuses increase equally with your Dexterity and Strength.</p>
+Enter a protective battle stance allowing you to defend yourself more proficiently while using a shield.
+
+Increases Armour by [23, 30, 36, 40, 44 (TL1-5; STR 100; DEX 100)], Block value by [55, 71, 84, 94, 103 (TL1-5; STR 100; DEX 100)], and reduces Block cooldown by 2.
+
+Increases stun and knockback resistance by [16%, 26%, 34%, 39%, 44% (TL1-5)].
+
+The Armor and Block bonuses increase equally with your Dexterity and Strength.

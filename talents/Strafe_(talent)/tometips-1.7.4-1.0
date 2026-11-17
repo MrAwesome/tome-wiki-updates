@@ -1,1 +1,7 @@
-<p>You have learned to fire while moving.</p><p>In one motion, you fire your double steamguns (100% weapon damage, 1 tile range penalty) and may then move to an adjacent tile (unless pinned to the ground or immobilized).</p><p>This talent can be activated for up to <acronym class="talent-variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00">1, 1, 2, 2, 3</acronym> consecutive turns before it goes on cooldown, and takes time according to your steamtech speed or movement speed (if you move), whichever is slower.</p><p>When Strafe ends you may instantly reload between 0 and 0 ammo (based on the number of strafes you performed and your ammo capacity).</p>
+You have learned to fire while moving.
+
+In one motion, you fire your double steamguns (100% weapon damage, 1 tile range penalty) and may then move to an adjacent tile (unless pinned to the ground or immobilized).
+
+This talent can be activated for up to [1, 1, 2, 2, 3 (TL1-5)] consecutive turns before it goes on cooldown, and takes time according to your steamtech speed or movement speed (if you move), whichever is slower.
+
+When Strafe ends you may instantly reload between 0 and 0 ammo (based on the number of strafes you performed and your ammo capacity).

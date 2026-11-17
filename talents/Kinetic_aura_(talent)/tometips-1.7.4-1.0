@@ -1,1 +1,13 @@
-<p>Fills the air around you with reactive currents of force.</p><p>If you have a gem or mindstar in your psionically wielded slot, this will do <acronym class="variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00,<br>mindpower 100">23, 31, 37, 42, 46</acronym> Physical damage to all adjacent enemies, costing 0.5 energy per creature. </p><p>If you have a conventional weapon in your psionically wielded slot, this will add <acronym class="variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00,<br>mindpower 100">23, 31, 37, 42, 46</acronym> Physical damage to all your weapon hits, costing 0.5 energy per hit.</p><p>When deactivated, if you have at least 6 energy, a massive spike of kinetic energy is released as a range 6 beam, smashing targets for up to <acronym class="variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00,<br>mindpower 100">181, 244, 293, 334, 370</acronym> physical damage and sending them flying.</p><p><span style="font-weight: bold"><span class="tstr-font-bold">Activating the aura takes no time but de-activating it does.</span></span></p><p>To turn off an aura without spiking it, deactivate it and target yourself. The damage will improve with your Mindpower.</p><p>You can only have two of these auras active at once.</p>
+Fills the air around you with reactive currents of force.
+
+If you have a gem or mindstar in your psionically wielded slot, this will do [23, 31, 37, 42, 46 (TL1-5; MP 100)] Physical damage to all adjacent enemies, costing 0.5 energy per creature.
+
+If you have a conventional weapon in your psionically wielded slot, this will add [23, 31, 37, 42, 46 (TL1-5; MP 100)] Physical damage to all your weapon hits, costing 0.5 energy per hit.
+
+When deactivated, if you have at least 6 energy, a massive spike of kinetic energy is released as a range 6 beam, smashing targets for up to [181, 244, 293, 334, 370 (TL1-5; MP 100)] physical damage and sending them flying.
+
+'''Activating the aura takes no time but de-activating it does.'''
+
+To turn off an aura without spiking it, deactivate it and target yourself. The damage will improve with your Mindpower.
+
+You can only have two of these auras active at once.

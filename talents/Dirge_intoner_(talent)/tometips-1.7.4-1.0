@@ -1,1 +1,5 @@
-<p>Your dirges carry the pain within you, which threatens to swallow those who come too close.  Anyone who hits you in melee suffers <acronym class="variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00,<br>mindpower 100,<br>character level 50">65, 88, 105, 120, 133</acronym> mind damage.</p><p>You, on the other hand, are steadied by the song.  Your dirges increase your resistance to stun and knockback by <acronym class="talent-variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00">10%, 23%, 31%, 38%, 43%.</acronym></p><p>The damage will increase with your Mindpower and your level.</p>
+Your dirges carry the pain within you, which threatens to swallow those who come too close.  Anyone who hits you in melee suffers [65, 88, 105, 120, 133 (TL1-5; MP 100; LVL 50)] mind damage.
+
+You, on the other hand, are steadied by the song.  Your dirges increase your resistance to stun and knockback by [10%, 23%, 31%, 38%, 43% (TL1-5)].
+
+The damage will increase with your Mindpower and your level.

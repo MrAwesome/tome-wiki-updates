@@ -1,1 +1,7 @@
-<p>Rupture reality to temporarily open a passage to the aether, triggering <acronym class="talent-variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00">3, 3, 4, 4, 4</acronym> random arcane explosions in the target area.</p><p>Each explosion does <acronym class="variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00,<br>spellpower 100">108, 146, 175, 200, 222</acronym> arcane damage in radius 2, and will each trigger at one turn intervals.</p><p>Subsequent casts will stack but the explosions will still only occur once per turn and will be centered at the last area targeted.</p><p>The damage will increase with your Spellpower.</p>
+Rupture reality to temporarily open a passage to the aether, triggering [3, 3, 4, 4, 4 (TL1-5)] random arcane explosions in the target area.
+
+Each explosion does [108, 146, 175, 200, 222 (TL1-5; SP 100)] arcane damage in radius 2, and will each trigger at one turn intervals.
+
+Subsequent casts will stack but the explosions will still only occur once per turn and will be centered at the last area targeted.
+
+The damage will increase with your Spellpower.

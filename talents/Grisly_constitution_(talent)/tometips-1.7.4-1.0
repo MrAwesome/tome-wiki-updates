@@ -1,1 +1,7 @@
-<p>An ogre's body is acclimated to spells and inscriptions.</p><p>Increases spell save by <acronym class="talent-variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00">5, 9, 13, 16, 20</acronym> and improves the contribution of primary stats on infusions and runes by <acronym class="talent-variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00">15%, 20%, 23%, 27%, 30%.</acronym></p><p>At level 5 your body is so strong you can use a two handed weapon in your main hand while still using an offhand item.</p><p>When using a two handed weapon this way you suffer a 20% accuracy, physical power, spellpower and mindpower penalty, decreasing by 5% per size category above <span style="font-style: italic"><span class="tstr-font-italic">big</span></span>; further, all damage procs from your weapons are reduced by 50%.</p>
+An ogre's body is acclimated to spells and inscriptions.
+
+Increases spell save by [5, 9, 13, 16, 20 (TL1-5)] and improves the contribution of primary stats on infusions and runes by [15%, 20%, 23%, 27%, 30% (TL1-5)].
+
+At level 5 your body is so strong you can use a two handed weapon in your main hand while still using an offhand item.
+
+When using a two handed weapon this way you suffer a 20% accuracy, physical power, spellpower and mindpower penalty, decreasing by 5% per size category above ''big''; further, all damage procs from your weapons are reduced by 50%.

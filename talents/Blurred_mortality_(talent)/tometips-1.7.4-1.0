@@ -1,1 +1,7 @@
-<p>The line between life and death blurs for you.</p><p>You can only die when you reach <acronym class="variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00,<br>Constitution 100">-287, -370, -432, -483, -528</acronym> life but your maximum life is reduced by <acronym class="variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00,<br>Constitution 100">144, 186, 217, 242, 265.</acronym></p><p>When you are below 1 life you gain <acronym class="talent-variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00">6%, 8%, 9%, 10%, 12%</acronym> to all resistances.</p><p>The life amount is based on your Constitution attribute.</p>
+The line between life and death blurs for you.
+
+You can only die when you reach [-287, -370, -432, -483, -528 (TL1-5; CON 100)] life but your maximum life is reduced by [144, 186, 217, 242, 265 (TL1-5; CON 100)].
+
+When you are below 1 life you gain [6%, 8%, 9%, 10%, 12% (TL1-5)] to all resistances.
+
+The life amount is based on your Constitution attribute.

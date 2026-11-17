@@ -1,1 +1,10 @@
-<p>Your original invisibility talent was corrupted and twisted.</p><p>You have <acronym class="talent-variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00">18%, 26%, 32%, 36%, 40%</acronym> chance to turn into a dúathedlen for 5 turns, when hit by a blow doing at least 10% of your total life.</p><p>While in this form you gain the following effects:</p><ul><li> you have permanent stealth (power <acronym class="stat-variable" title="Values for<br>Magic 10, 25, 50, 75, 100,<br>character level 1, 10, 25, 40, 50">7, 11, 17, 21, 25</acronym>)</li><li> your darkness damage is increased by <acronym class="talent-variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00">3%, 7%, 10%, 12%, 13%</acronym></li><li> any non mind and non physical damage you deal above <acronym class="stat-variable" title="Values for<br>Magic 10, 25, 50, 75, 100,<br>character level 1, 10, 25, 40, 50">1, 14, 35, 56, 70</acronym> triggers a darkness explosion of radius 1 for half the damage (this can only happen once per turn)</li><li> when you transform the cooldowns of Haste of the Doomed and Pitiless are reset</li></ul><p></p>
+Your original invisibility talent was corrupted and twisted.
+
+You have [18%, 26%, 32%, 36%, 40% (TL1-5)] chance to turn into a dúathedlen for 5 turns, when hit by a blow doing at least 10% of your total life.
+
+While in this form you gain the following effects:
+
+*  you have permanent stealth (power [7, 11, 17, 21, 25 (MAG 10-100; LVL 1-50)])
+*  your darkness damage is increased by [3%, 7%, 10%, 12%, 13% (TL1-5)]
+*  any non mind and non physical damage you deal above [1, 14, 35, 56, 70 (MAG 10-100; LVL 1-50)] triggers a darkness explosion of radius 1 for half the damage (this can only happen once per turn)
+*  when you transform the cooldowns of Haste of the Doomed and Pitiless are reset

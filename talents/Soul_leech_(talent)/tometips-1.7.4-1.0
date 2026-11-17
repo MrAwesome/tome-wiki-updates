@@ -1,1 +1,15 @@
-<p>Each time you or your undead minions deal damage to a creature you apply Soul Leech to them.</p><p>If a creature dies with this effect active, you steal its soul.</p><p>Strong creatures and bosses are so overflowing with soul power that you steal a fragment of their soul every few turns:</p><p><span style="color: #fa8072"><span class="tstr-color-SALMON">- rare: at most every <acronym class="talent-variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00">35, 24, 18, 14, 12</acronym> turns</p><p><span style="color: #f4a460"><span class="tstr-color-SANDY_BROWN">- unique: at most every <acronym class="talent-variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00">26, 17, 13, 11, 9</acronym> turns</p><p><span style="color: #ff7700"><span class="tstr-color-ORANGE">- boss: at most every <acronym class="talent-variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00">15, 11, 8, 6, 5</acronym> turns</p><p><span style="color: #ffd700"><span class="tstr-color-GOLD">- elite boss: at most every <acronym class="talent-variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00">12, 8, 6, 5, 4</acronym> turns<span style="color: #ffffff"><span class="tstr-color-WHITE"></p><p></p><p>Also increases your maximum souls capacity by <acronym class="talent-variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00">2, 4, 5, 6, 7</acronym> .</p><p></p>
+Each time you or your undead minions deal damage to a creature you apply Soul Leech to them.
+
+If a creature dies with this effect active, you steal its soul.
+
+Strong creatures and bosses are so overflowing with soul power that you steal a fragment of their soul every few turns:
+
+- rare: at most every [35, 24, 18, 14, 12 (TL1-5)] turns
+
+- unique: at most every [26, 17, 13, 11, 9 (TL1-5)] turns
+
+- boss: at most every [15, 11, 8, 6, 5 (TL1-5)] turns
+
+- elite boss: at most every [12, 8, 6, 5, 4 (TL1-5)] turns
+
+Also increases your maximum souls capacity by [2, 4, 5, 6, 7 (TL1-5)] .

@@ -1,1 +1,5 @@
-<p>Takes advantage of a wounded foe to perform a killing strike.  This attack is an automatic critical hit that does <acronym class="talent-variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00">1.0%, 1.6%, 2.0%, 2.3%, 2.5%</acronym> extra weapon damage for each % of life the target is below maximum.</p><p>(A victim with 30% remaining life (70% damaged) would take <acronym class="talent-variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00">170%, 215%, 242%, 260%, 275%</acronym> weapon damage.)</p><p>If an enemy dies from this attack then two of your talent cooldowns are reduced by 2 turns and Execution's cooldown is reset.</p>
+Takes advantage of a wounded foe to perform a killing strike.  This attack is an automatic critical hit that does [1.0%, 1.6%, 2.0%, 2.3%, 2.5% (TL1-5)] extra weapon damage for each % of life the target is below maximum.
+
+(A victim with 30% remaining life (70% damaged) would take [170%, 215%, 242%, 260%, 275% (TL1-5)] weapon damage.)
+
+If an enemy dies from this attack then two of your talent cooldowns are reduced by 2 turns and Execution's cooldown is reset.

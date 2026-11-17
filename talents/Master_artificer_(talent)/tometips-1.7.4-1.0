@@ -1,1 +1,25 @@
-<p>You become a master of your craft, allowing you to focus on a single tool (<span style="color: #ffff00"><span class="tstr-color-YELLOW">currently none</span></span>) to greatly improve its capabilities:</p><p></p><p>Grappling Hook (Grappling Hook Mastery)</p><p>Your grappling hook deals 100% unarmed damage when it hits, plus a further <acronym class="variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00,<br>Cunning 100">97, 117, 132, 145, 156</acronym> physical and <acronym class="variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00,<br>Cunning 100">97, 117, 132, 145, 156</acronym> nature damage over 4 turns.</p><p></p><p>Rogue's Brew (Rogue's Brew Mastery)</p><p>Your Rogue's Brew fortifies you for 8 turns, preventing you from dying until you reach <acronym class="talent-variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00">-100, -267, -396, -504, -600</acronym> life.</p><p></p><p>Dart Launcher (Dart Launcher Mastery)</p><p>Your darts ignore poison and sleep immunity and waking targets are slowed by <acronym class="talent-variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00">16%, 25%, 31%, 34%, 37%</acronym> for 4 turns.</p><p></p><p>Smokescreen (Smokescreen Mastery)</p><p>Your Smokescreen is infused with chokedust. Enemies in the smoke take <acronym class="variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00,<br>Cunning 100">82, 97, 109, 119, 127</acronym> nature damage and may be silenced.</p><p></p><p>Hidden Blades (Assassinate)</p><p>You prime your Hidden Blades to cause bleeding and facilitate the Assassinate ability, which allows you to strike twice for <acronym class="talent-variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00">233%, 255%, 272%, 287%, 300%</acronym> unarmed damage, hitting automatically while ignoring armor and resistance.</p><p></p><p>The effects depend on this talent's level.</p><p>Mastering a new tool places it (and its special effects, as appropriate) on cooldown.</p>
+You become a master of your craft, allowing you to focus on a single tool (currently none) to greatly improve its capabilities:
+
+Grappling Hook (Grappling Hook Mastery)
+
+Your grappling hook deals 100% unarmed damage when it hits, plus a further [97, 117, 132, 145, 156 (TL1-5; CUN 100)] physical and [97, 117, 132, 145, 156 (TL1-5; CUN 100)] nature damage over 4 turns.
+
+Rogue's Brew (Rogue's Brew Mastery)
+
+Your Rogue's Brew fortifies you for 8 turns, preventing you from dying until you reach [-100, -267, -396, -504, -600 (TL1-5)] life.
+
+Dart Launcher (Dart Launcher Mastery)
+
+Your darts ignore poison and sleep immunity and waking targets are slowed by [16%, 25%, 31%, 34%, 37% (TL1-5)] for 4 turns.
+
+Smokescreen (Smokescreen Mastery)
+
+Your Smokescreen is infused with chokedust. Enemies in the smoke take [82, 97, 109, 119, 127 (TL1-5; CUN 100)] nature damage and may be silenced.
+
+Hidden Blades (Assassinate)
+
+You prime your Hidden Blades to cause bleeding and facilitate the Assassinate ability, which allows you to strike twice for [233%, 255%, 272%, 287%, 300% (TL1-5)] unarmed damage, hitting automatically while ignoring armor and resistance.
+
+The effects depend on this talent's level.
+
+Mastering a new tool places it (and its special effects, as appropriate) on cooldown.

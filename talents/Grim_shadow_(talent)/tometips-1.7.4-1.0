@@ -1,1 +1,7 @@
-<p>Your body starts to radiate shadows, increasing your darkness resistance by <acronym class="talent-variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00">10%, 15%, 18%, 22%, 25%,</acronym> armour by <acronym class="talent-variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00">5, 13, 19, 25, 30</acronym> and defence by <acronym class="talent-variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00">5, 13, 19, 25, 30.</acronym></p><p>Any time you absorb a soul the shadows pulse outward, dealing <acronym class="variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00,<br>spellpower 100">108, 146, 175, 200, 222</acronym> frostdusk damage to all foes in range <acronym class="talent-variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00">0, 1, 1, 2, 2</acronym> and knocking them back 3 tiles.</p><p>This can only happen once per turn.</p><p>The damage increases with your Spellpower.</p>
+Your body starts to radiate shadows, increasing your darkness resistance by [10%, 15%, 18%, 22%, 25% (TL1-5)], armour by [5, 13, 19, 25, 30 (TL1-5)] and defence by [5, 13, 19, 25, 30 (TL1-5)].
+
+Any time you absorb a soul the shadows pulse outward, dealing [108, 146, 175, 200, 222 (TL1-5; SP 100)] frostdusk damage to all foes in range [0, 1, 1, 2, 2 (TL1-5)] and knocking them back 3 tiles.
+
+This can only happen once per turn.
+
+The damage increases with your Spellpower.

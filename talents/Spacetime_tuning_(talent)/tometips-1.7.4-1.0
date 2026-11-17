@@ -1,1 +1,17 @@
-<p>Use to set your preferred Paradox.  While resting or waiting you'll adjust your Paradox towards this number at the rate of 10 per turn.</p><p>Your Paradox modifier is factored into the duration and spellpower of all chronomancy spells.</p><p></p><p>Preferred Paradox :  0</p><p>Paradox Modifier :  100%</p><p>Spellpower for Chronomancy :  <acronym class="stat-variable" title="Values for<br>Willpower 10, 25, 50, 75, 100,<br>spellpower 10, 25, 50, 75, 100,<br>paradox 300">10, 25, 50, 75, 100</acronym></p><p>Willpower Paradox Modifier : <acronym class="stat-variable" title="Values for<br>Willpower 10, 25, 50, 75, 100,<br>spellpower 10, 25, 50, 75, 100,<br>paradox 300">-20, -50, -100, -150, -200</acronym></p><p>Paradox Sustain Modifier : +0</p><p>Total Modified Paradox :  <acronym class="stat-variable" title="Values for<br>Willpower 10, 25, 50, 75, 100,<br>spellpower 10, 25, 50, 75, 100,<br>paradox 300">280, 250, 200, 150, 100</acronym></p><p>Current Anomaly Chance :  0%</p>
+Use to set your preferred Paradox.  While resting or waiting you'll adjust your Paradox towards this number at the rate of 10 per turn.
+
+Your Paradox modifier is factored into the duration and spellpower of all chronomancy spells.
+
+Preferred Paradox :  0
+
+Paradox Modifier :  100%
+
+Spellpower for Chronomancy :  [10, 25, 50, 75, 100 (WIL 10-100; SP 10-100; PARADOX 300)]
+
+Willpower Paradox Modifier : [-20, -50, -100, -150, -200 (WIL 10-100; SP 10-100; PARADOX 300)]
+
+Paradox Sustain Modifier : +0
+
+Total Modified Paradox :  [280, 250, 200, 150, 100 (WIL 10-100; SP 10-100; PARADOX 300)]
+
+Current Anomaly Chance :  0%

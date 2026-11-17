@@ -1,1 +1,3 @@
-<p>Sends a pulse detonator to the target. Upon arrival it explodes in radius 4 cone, dealing <acronym class="variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00,<br>steampower 100">140, 188, 226, 258, 286</acronym> physical damage, knocking back foes by 3 and dazing them for <acronym class="talent-variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00">1, 3, 3, 5, 5</acronym> turns.</p><p>Damage increases with your steampower.</p>
+Sends a pulse detonator to the target. Upon arrival it explodes in radius 4 cone, dealing [140, 188, 226, 258, 286 (TL1-5; STEAMPOWER 100)] physical damage, knocking back foes by 3 and dazing them for [1, 3, 3, 5, 5 (TL1-5)] turns.
+
+Damage increases with your steampower.

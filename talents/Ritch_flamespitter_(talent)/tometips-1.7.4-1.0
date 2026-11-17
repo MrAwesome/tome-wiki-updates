@@ -1,1 +1,7 @@
-<p>Summon a Ritch Flamespitter for <acronym class="talent-variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00">6, 7, 7, 8, 9</acronym> turns to burn your foes to death. Flamespitters are weak in melee and die easily, but they can burn your foes from afar.</p><p>It will get <acronym class="variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00,<br>mindpower 100">55, 101, 142, 179, 215</acronym> Willpower, <acronym class="variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00,<br>mindpower 100">49, 88, 123, 155, 185</acronym> Cunning and 10 Constitution.</p><p>Your summons inherit some of your stats: increased damage%, resistance penetration %, stun/pin/confusion/blindness resistance, armour penetration.</p><p>Their Willpower and Cunning will increase with your Mindpower.</p>
+Summon a Ritch Flamespitter for [6, 7, 7, 8, 9 (TL1-5)] turns to burn your foes to death. Flamespitters are weak in melee and die easily, but they can burn your foes from afar.
+
+It will get [55, 101, 142, 179, 215 (TL1-5; MP 100)] Willpower, [49, 88, 123, 155, 185 (TL1-5; MP 100)] Cunning and 10 Constitution.
+
+Your summons inherit some of your stats: increased damage%, resistance penetration %, stun/pin/confusion/blindness resistance, armour penetration.
+
+Their Willpower and Cunning will increase with your Mindpower.

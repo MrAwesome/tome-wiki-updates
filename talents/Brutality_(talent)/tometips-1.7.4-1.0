@@ -1,1 +1,5 @@
-<p>You attack with mindless brutality. The first critical hit inflicted while rampaging increases the rampage duration by 1.</p><p>Rampage Bonus: Your physical damage increases by <acronym class="talent-variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00">12%, 20%, 26%, 32%, 37%.</acronym></p><p>Rampage Bonus: Your Physical Save increases by <acronym class="talent-variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00">6, 9, 12, 15, 18</acronym> and Mental Save increases by <acronym class="talent-variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00">6, 9, 12, 15, 18.</acronym></p>
+You attack with mindless brutality. The first critical hit inflicted while rampaging increases the rampage duration by 1.
+
+Rampage Bonus: Your physical damage increases by [12%, 20%, 26%, 32%, 37% (TL1-5)].
+
+Rampage Bonus: Your Physical Save increases by [6, 9, 12, 15, 18 (TL1-5)] and Mental Save increases by [6, 9, 12, 15, 18 (TL1-5)].

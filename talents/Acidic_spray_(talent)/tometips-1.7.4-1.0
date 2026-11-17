@@ -1,1 +1,11 @@
-<p>Spray forth a glob of acidic moisture at your enemy.</p><p>The target will take <acronym class="variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00,<br>mindpower 100">153, 205, 246, 281, 312</acronym> Mindpower-based acid damage.</p><p>Enemies struck have a 25% chance to be Disarmed for three turns, as their weapon is rendered useless by an acid coating.</p><p>At Talent Level 5, this becomes a piercing line of acid.</p><p>Every level in Acidic Spray additionally raises your Mindpower by 4, passively.</p><p>Each point in acid drake talents also increases your acid resistance by 1%.</p>
+Spray forth a glob of acidic moisture at your enemy.
+
+The target will take [153, 205, 246, 281, 312 (TL1-5; MP 100)] Mindpower-based acid damage.
+
+Enemies struck have a 25% chance to be Disarmed for three turns, as their weapon is rendered useless by an acid coating.
+
+At Talent Level 5, this becomes a piercing line of acid.
+
+Every level in Acidic Spray additionally raises your Mindpower by 4, passively.
+
+Each point in acid drake talents also increases your acid resistance by 1%.

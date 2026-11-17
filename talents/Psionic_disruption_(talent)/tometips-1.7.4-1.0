@@ -1,1 +1,9 @@
-<p>You imbue your offhand mindstar with wild psionic forces.</p><p>While active you gain <acronym class="talent-variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00">50%, 83%, 109%, 130%, 150%</acronym> more of your mindstar's mindpower and mind critical chance.</p><p>Each time you make a melee attack you also add a stack of Psionic Disruption to your target.</p><p>Each stack lasts for 5 turns and deals <acronym class="variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00,<br>mindpower 100">90, 121, 145, 165, 183</acronym> mind damage over the duration (max <acronym class="talent-variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00">2, 2, 3, 3, 4</acronym> stacks).</p><p>If you do not have a one handed weapon and a mindstar equiped, but have them in your off set, you instantly automatically switch. The wild psionic powers are incompatible with the focused nature of psiblades.</p>
+You imbue your offhand mindstar with wild psionic forces.
+
+While active you gain [50%, 83%, 109%, 130%, 150% (TL1-5)] more of your mindstar's mindpower and mind critical chance.
+
+Each time you make a melee attack you also add a stack of Psionic Disruption to your target.
+
+Each stack lasts for 5 turns and deals [90, 121, 145, 165, 183 (TL1-5; MP 100)] mind damage over the duration (max [2, 2, 3, 3, 4 (TL1-5)] stacks).
+
+If you do not have a one handed weapon and a mindstar equiped, but have them in your off set, you instantly automatically switch. The wild psionic powers are incompatible with the focused nature of psiblades.

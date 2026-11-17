@@ -1,1 +1,7 @@
-<p>Focus your mind on a single target, diverting all offensive Discharge talent effects to it for <acronym class="talent-variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00">3, 5, 6, 6, 7</acronym> turns.  While this effect is active, all Discharge talents gain <acronym class="variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00,<br>mindpower 100">28%, 38%, 46%, 52%, 58%</acronym> critical power and you ignore <acronym class="talent-variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00">15%, 25%, 32%, 39%, 45%</acronym> mind resistance of your targets.</p><p>If the target is killed, the effect will end early.</p><p>At level level 5 your single-minded focus also resets the cooldown of Mind Storm.</p><p>The damage bonus will scale with your Mindpower.</p>
+Focus your mind on a single target, diverting all offensive Discharge talent effects to it for [3, 5, 6, 6, 7 (TL1-5)] turns.  While this effect is active, all Discharge talents gain [28%, 38%, 46%, 52%, 58% (TL1-5; MP 100)] critical power and you ignore [15%, 25%, 32%, 39%, 45% (TL1-5)] mind resistance of your targets.
+
+If the target is killed, the effect will end early.
+
+At level level 5 your single-minded focus also resets the cooldown of Mind Storm.
+
+The damage bonus will scale with your Mindpower.

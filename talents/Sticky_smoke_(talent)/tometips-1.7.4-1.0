@@ -1,1 +1,5 @@
-<p>Throws a vial of sticky smoke that explodes in radius <acronym class="talent-variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00">0, 1, 1, 2, 2</acronym> on your foes, reducing their vision range by <acronym class="talent-variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00">1, 2, 3, 4, 6</acronym> for 5 turns.</p><p>Creatures affected by smoke bomb can never prevent you from stealthing, even if their proximity would normally forbid it.</p><p>Use of this will not break stealth.</p>
+Throws a vial of sticky smoke that explodes in radius [0, 1, 1, 2, 2 (TL1-5)] on your foes, reducing their vision range by [1, 2, 3, 4, 6 (TL1-5)] for 5 turns.
+
+Creatures affected by smoke bomb can never prevent you from stealthing, even if their proximity would normally forbid it.
+
+Use of this will not break stealth.

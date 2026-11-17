@@ -1,1 +1,13 @@
-<p>Fills the air around you with reactive currents of furnace-like heat.</p><p>If you have a gem or mindstar in your psionically wielded slot, this will do <acronym class="variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00,<br>mindpower 100">23, 31, 37, 42, 46</acronym> Fire damage to all adjacent enemies, costing 0.5 energy per creature. </p><p>If you have a conventional weapon in your psionically wielded slot, this will add <acronym class="variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00,<br>mindpower 100">23, 31, 37, 42, 46</acronym> Fire damage to all your weapon hits, costing 0.5 energy per hit.</p><p>When deactivated, if you have at least 6 energy, a massive spike of thermal energy is released as a conical blast (radius 6) of superheated air. Anybody caught in it will suffer up to <acronym class="variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00,<br>mindpower 100">226, 305, 366, 417, 463</acronym> fire damage over several turns.</p><p><span style="font-weight: bold"><span class="tstr-font-bold">Activating the aura takes no time but de-activating it does.</span></span></p><p>To turn off an aura without spiking it, deactivate it and target yourself. The damage will improve with your Mindpower.</p><p>You can only have two of these auras active at once.</p>
+Fills the air around you with reactive currents of furnace-like heat.
+
+If you have a gem or mindstar in your psionically wielded slot, this will do [23, 31, 37, 42, 46 (TL1-5; MP 100)] Fire damage to all adjacent enemies, costing 0.5 energy per creature.
+
+If you have a conventional weapon in your psionically wielded slot, this will add [23, 31, 37, 42, 46 (TL1-5; MP 100)] Fire damage to all your weapon hits, costing 0.5 energy per hit.
+
+When deactivated, if you have at least 6 energy, a massive spike of thermal energy is released as a conical blast (radius 6) of superheated air. Anybody caught in it will suffer up to [226, 305, 366, 417, 463 (TL1-5; MP 100)] fire damage over several turns.
+
+'''Activating the aura takes no time but de-activating it does.'''
+
+To turn off an aura without spiking it, deactivate it and target yourself. The damage will improve with your Mindpower.
+
+You can only have two of these auras active at once.

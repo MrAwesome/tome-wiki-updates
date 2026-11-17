@@ -1,1 +1,5 @@
-<p>You concentrate to create a psionic block field all around you for 5 turns.</p><p>While the effect holds all damage against you have a <acronym class="talent-variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00">15%, 28%, 35%, 41%, 45%</acronym> chance to be fully ignored.</p><p>When damage is cancelled you instinctively make a retaliation mind strike against the source, dealing <acronym class="variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00,<br>mindpower 100">140, 188, 226, 258, 286</acronym> mind damage. (The retaliation may only happen 2 times per turn.)</p><p></p>
+You concentrate to create a psionic block field all around you for 5 turns.
+
+While the effect holds all damage against you have a [15%, 28%, 35%, 41%, 45% (TL1-5)] chance to be fully ignored.
+
+When damage is cancelled you instinctively make a retaliation mind strike against the source, dealing [140, 188, 226, 258, 286 (TL1-5; MP 100)] mind damage. (The retaliation may only happen 2 times per turn.)

@@ -1,1 +1,5 @@
-<p>While Acid Infusion is active, your bombs coat your golem in acid for <acronym class="variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00,<br>spellpower 100">6, 8, 10, 11, 12</acronym> turns when they hit it.</p><p>While coated, any melee hit against your golem has a <acronym class="variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00,<br>spellpower 100">39%, 49%, 57%, 63%, 68%</acronym> chance to trigger a radius 4 cone of acid towards the attacker that does 0.0 Acid damage to all caught inside. (This can only happen once per turn.)</p><p>The effects increase with your talent level and with the Spellpower and damage modifiers of your golem.</p>
+While Acid Infusion is active, your bombs coat your golem in acid for [6, 8, 10, 11, 12 (TL1-5; SP 100)] turns when they hit it.
+
+While coated, any melee hit against your golem has a [39%, 49%, 57%, 63%, 68% (TL1-5; SP 100)] chance to trigger a radius 4 cone of acid towards the attacker that does 0.0 Acid damage to all caught inside. (This can only happen once per turn.)
+
+The effects increase with your talent level and with the Spellpower and damage modifiers of your golem.

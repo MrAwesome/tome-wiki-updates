@@ -1,1 +1,7 @@
-<p>You use your bond with horrors to summon three decaying devourers for <acronym class="talent-variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00">3, 5, 6, 6, 7</acronym> turns.</p><p>The decaying horrors cannot move and will attack all hostile creatures around them. They possess the talents Bloodbath, Gnashing Teeth and Frenzied Bite.</p><p>All its primary stats will be set to <acronym class="stat-variable" title="Values for<br>Magic 10, 25, 50, 75, 100">10, 25, 50, 75, 100</acronym> (based on your Magic stat), life rating increased by <acronym class="talent-variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00">1, 2, 3, 5, 6,</acronym> and all talent levels set to <acronym class="talent-variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00">1, 2, 3, 4, 5.</acronym>  Many other stats will scale with level.</p><p>Your increased damage, damage penetration, critical strike chance, and critical strike multiplier stats will all be inherited.</p>
+You use your bond with horrors to summon three decaying devourers for [3, 5, 6, 6, 7 (TL1-5)] turns.
+
+The decaying horrors cannot move and will attack all hostile creatures around them. They possess the talents Bloodbath, Gnashing Teeth and Frenzied Bite.
+
+All its primary stats will be set to [10, 25, 50, 75, 100 (MAG 10-100)] (based on your Magic stat), life rating increased by [1, 2, 3, 5, 6 (TL1-5)], and all talent levels set to [1, 2, 3, 4, 5 (TL1-5)].  Many other stats will scale with level.
+
+Your increased damage, damage penetration, critical strike chance, and critical strike multiplier stats will all be inherited.

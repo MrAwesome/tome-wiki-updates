@@ -1,1 +1,31 @@
-<p>You absorb latent cold around you, turning into an ice elemental - a shivgoroth - for <acronym class="talent-variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00">5, 6, 7, 8, 9</acronym> turns.</p><p>While transformed, you do not need to breathe, gain access to the Ice Storm talent at level <acronym class="talent-variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00">1, 2, 3, 4, 5,</acronym> gain <acronym class="variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00,<br>spellpower 100">66%, 85%, 100%, 100%, 100%</acronym> resistance to cuts and stuns, gain <acronym class="variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00,<br>spellpower 100">33%, 42%, 50%, 50%, 50%</acronym> cold resistance, and all cold damage heals you for <acronym class="variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00,<br>spellpower 100">116%, 135%, 150%, 150%, 150%</acronym> of the damage done.</p><p>The power will increase with your Spellpower.</p><p></p><p><span style="color: #7fffd4"><span class="tstr-color-AQUAMARINE">Ice storm:</span></span></p><p><span style="color: #6FFF83"><span class="tstr-color-6FFF83">Effective talent level: <span style="color: #00FF00"><span class="tstr-color-00FF00">0.0</p><p><span style="color: #6FFF83"><span class="tstr-color-6FFF83">Use mode: <span style="color: #00FF00"><span class="tstr-color-00FF00">Activated</p><p><span style="color: #6FFF83"><span class="tstr-color-6FFF83">Mana cost: <span style="color: #FFA8A8"><span class="tstr-color-FFA8A8">25</p><p><span style="color: #6FFF83"><span class="tstr-color-6FFF83">Range: <span style="color: #FFFFFF"><span class="tstr-color-FFFFFF">melee/personal</p><p><span style="color: #6FFF83"><span class="tstr-color-6FFF83">Cooldown: <span style="color: #FFFFFF"><span class="tstr-color-FFFFFF">20</p><p><span style="color: #6FFF83"><span class="tstr-color-6FFF83">Travel Speed: <span style="color: #FFFFFF"><span class="tstr-color-FFFFFF">instantaneous</p><p><span style="color: #6FFF83"><span class="tstr-color-6FFF83">Usage Speed: <span style="color: #FFFFFF"><span class="tstr-color-FFFFFF">Spell (<span style="color: #00ff00"><span class="tstr-color-LIGHT_GREEN">100%</span></span> of a turn)</p><p><span style="color: #6FFF83"><span class="tstr-color-6FFF83">Is: <span style="color: #FFFFFF"><span class="tstr-color-FFFFFF">a spell</p><p><span style="color: #6FFF83"><span class="tstr-color-6FFF83">Description: <span style="color: #FFFFFF"><span class="tstr-color-FFFFFF">A furious ice storm rages around the caster, doing <acronym class="stat-variable" title="Values for<br>spellpower 10, 25, 50, 75, 100">1.31, 2.69, 5.05, 7.45, 9.88</acronym> cold damage in a radius of 3 each turn for <acronym class="stat-variable" title="Values for<br>spellpower 10, 25, 50, 75, 100">5, 6, 7, 8, 10</acronym> turns.</p><p>It has a 25% chance to freeze damaged targets.</p><p>If the target is wet the damage increases by 30% and the freeze chance increases to 50%.</p><p>The damage and duration will increase with your Spellpower.</p>
+You absorb latent cold around you, turning into an ice elemental - a shivgoroth - for [5, 6, 7, 8, 9 (TL1-5)] turns.
+
+While transformed, you do not need to breathe, gain access to the Ice Storm talent at level [1, 2, 3, 4, 5 (TL1-5)], gain [66%, 85%, 100%, 100%, 100% (TL1-5; SP 100)] resistance to cuts and stuns, gain [33%, 42%, 50%, 50%, 50% (TL1-5; SP 100)] cold resistance, and all cold damage heals you for [116%, 135%, 150%, 150%, 150% (TL1-5; SP 100)] of the damage done.
+
+The power will increase with your Spellpower.
+
+Ice storm:
+
+Effective talent level: 0.0
+
+Use mode: Activated
+
+Mana cost: 25
+
+Range: melee/personal
+
+Cooldown: 20
+
+Travel Speed: instantaneous
+
+Usage Speed: Spell (100% of a turn)
+
+Is: a spell
+
+Description: A furious ice storm rages around the caster, doing [1.31, 2.69, 5.05, 7.45, 9.88 (SP 10-100)] cold damage in a radius of 3 each turn for [5, 6, 7, 8, 10 (SP 10-100)] turns.
+
+It has a 25% chance to freeze damaged targets.
+
+If the target is wet the damage increases by 30% and the freeze chance increases to 50%.
+
+The damage and duration will increase with your Spellpower.

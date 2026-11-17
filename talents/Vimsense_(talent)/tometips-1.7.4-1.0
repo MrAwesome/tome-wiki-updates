@@ -1,1 +1,5 @@
-<p>Feel the very existence of creatures around you for <acronym class="talent-variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00">4, 5, 6, 7, 8</acronym> turns, in a radius of 10.</p><p>The evil touch will reduce their blight resistance by <acronym class="variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00,<br>spellpower 100">16%, 22%, 27%, 30%, 34%</acronym> and all saves by <acronym class="variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00,<br>spellpower 100">28, 38, 46, 52, 58,</acronym> but also make them aware of you.</p><p>The resistance and save reduction will improve with your Spellpower.</p>
+Feel the very existence of creatures around you for [4, 5, 6, 7, 8 (TL1-5)] turns, in a radius of 10.
+
+The evil touch will reduce their blight resistance by [16%, 22%, 27%, 30%, 34% (TL1-5; SP 100)] and all saves by [28, 38, 46, 52, 58 (TL1-5; SP 100)], but also make them aware of you.
+
+The resistance and save reduction will improve with your Spellpower.

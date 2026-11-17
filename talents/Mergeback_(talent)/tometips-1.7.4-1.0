@@ -1,1 +1,3 @@
-<p>Merges your halves back into you, cleansing your body of <acronym class="talent-variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00">5, 6, 7, 8, 9</acronym> detrimental magical, mental or physical effects.</p><p>Each half also heals you for <acronym class="variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00,<br>Willpower 100">106, 137, 160, 180, 197</acronym> and releases a shockwave dealing <acronym class="variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00,<br>Willpower 100">106, 137, 161, 180, 197</acronym> Nature damage in a radius 3.</p>
+Merges your halves back into you, cleansing your body of [5, 6, 7, 8, 9 (TL1-5)] detrimental magical, mental or physical effects.
+
+Each half also heals you for [106, 137, 160, 180, 197 (TL1-5; WIL 100)] and releases a shockwave dealing [106, 137, 161, 180, 197 (TL1-5; WIL 100)] Nature damage in a radius 3.

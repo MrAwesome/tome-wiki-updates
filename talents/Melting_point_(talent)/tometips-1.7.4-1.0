@@ -1,1 +1,9 @@
-<p>When you reach 10 molten points your armour overheats, reaching temperatures so high that they cauterize up to <acronym class="talent-variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00">1, 2, 3, 4, 5</acronym> detrimental physical effects on you.</p><p>A special medical injector injects you with a fire immunity serum at that precise moment to make you immune to the burning effect.</p><p>When this happens all molten points are consumed and trigger a Furnace Vent at the creature that triggered the last molten point.</p><p>This effect drains 15 steam when triggered, and will not trigger if steam is too low.</p><p><span style="font-style: italic"><span class="tstr-font-italic">It's only a flesh burn!</span></span></p><p></p>
+When you reach 10 molten points your armour overheats, reaching temperatures so high that they cauterize up to [1, 2, 3, 4, 5 (TL1-5)] detrimental physical effects on you.
+
+A special medical injector injects you with a fire immunity serum at that precise moment to make you immune to the burning effect.
+
+When this happens all molten points are consumed and trigger a Furnace Vent at the creature that triggered the last molten point.
+
+This effect drains 15 steam when triggered, and will not trigger if steam is too low.
+
+''It's only a flesh burn!''

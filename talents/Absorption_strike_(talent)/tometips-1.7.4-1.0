@@ -1,1 +1,3 @@
-<p>You strike your foe with your two handed weapon, dealing <acronym class="talent-variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00">163%, 185%, 202%, 217%, 229%</acronym> weapon damage.</p><p>If the attack hits, all foes in radius 2 will have their light resistance reduced by <acronym class="talent-variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00">5%, 9%, 13%, 16%, 20%</acronym> and their damage reduced by <acronym class="talent-variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00">1%, 5%, 8%, 11%, 15%</acronym> for 5 turns.</p>
+You strike your foe with your two handed weapon, dealing [163%, 185%, 202%, 217%, 229% (TL1-5)] weapon damage.
+
+If the attack hits, all foes in radius 2 will have their light resistance reduced by [5%, 9%, 13%, 16%, 20% (TL1-5)] and their damage reduced by [1%, 5%, 8%, 11%, 15% (TL1-5)] for 5 turns.

@@ -1,1 +1,3 @@
-<p>You sap the target's energy and add it to your own, placing up to <acronym class="talent-variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00">1, 1, 2, 2, 3</acronym> random talents on cooldown for <acronym class="talent-variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00">1, 2, 2, 3, 3</acronym> turns.</p><p>For each talent put on cooldown, you reduce the cooldown of one of your talents currently on cooldown by <acronym class="talent-variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00">1, 2, 2, 3, 3</acronym> turns.</p>
+You sap the target's energy and add it to your own, placing up to [1, 1, 2, 2, 3 (TL1-5)] random talents on cooldown for [1, 2, 2, 3, 3 (TL1-5)] turns.
+
+For each talent put on cooldown, you reduce the cooldown of one of your talents currently on cooldown by [1, 2, 2, 3, 3 (TL1-5)] turns.

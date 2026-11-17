@@ -1,1 +1,5 @@
-<p>Throw a tremor engine on the battlefield that will trigger after 2 turns.</p><p>For 5 turns after triggering, it will constantly shake the ground and stun, pin, or disarm any creature in radius <acronym class="talent-variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00">1, 1, 2, 2, 3</acronym> for <acronym class="talent-variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00">2, 3, 4, 5, 6</acronym> turns.</p><p><span style="font-style: italic"><span class="tstr-font-italic">The ground is mere paper to you!</span></span></p>
+Throw a tremor engine on the battlefield that will trigger after 2 turns.
+
+For 5 turns after triggering, it will constantly shake the ground and stun, pin, or disarm any creature in radius [1, 1, 2, 2, 3 (TL1-5)] for [2, 3, 4, 5, 6 (TL1-5)] turns.
+
+''The ground is mere paper to you!''

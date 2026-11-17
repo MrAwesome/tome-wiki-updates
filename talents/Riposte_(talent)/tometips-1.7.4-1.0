@@ -1,1 +1,7 @@
-<p>Improves your ability to perform counterstrikes after blocks in the following ways:</p><p>Allows counterstrikes after incomplete blocks.</p><p>Increases the number of counterstrikes you can perform on a target while they're vulnerable by <acronym class="talent-variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00">1, 1, 1, 1, 2.</acronym></p><p>Increases the crit chance of counterstrikes by <acronym class="variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00,<br>Dexterity 100">24%, 26%, 28%, 30%, 32%.</acronym> This increase scales with your Dexterity.</p>
+Improves your ability to perform counterstrikes after blocks in the following ways:
+
+Allows counterstrikes after incomplete blocks.
+
+Increases the number of counterstrikes you can perform on a target while they're vulnerable by [1, 1, 1, 1, 2 (TL1-5)].
+
+Increases the crit chance of counterstrikes by [24%, 26%, 28%, 30%, 32% (TL1-5; DEX 100)]. This increase scales with your Dexterity.

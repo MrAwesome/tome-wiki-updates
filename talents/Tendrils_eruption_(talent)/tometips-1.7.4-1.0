@@ -1,1 +1,9 @@
-<p>You plant your tentacle hand in the ground where it splits up and extends to a target zone of radius 3.</p><p>The zone will erupt with many black tendrils to hit all foes caught inside dealing <acronym class="talent-variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00">233%, 255%, 272%, 287%, 300%</acronym> tentacle damage.</p><p>Any creature hit by the tentacle must save against spell or be numbed by the attack, reducing its damage by <acronym class="talent-variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00">22%, 29%, 32%, 35%, 37%</acronym> for 5 turns.</p><p></p><p>If at least one enemy is hit you gain 20 insanity.</p><p></p><p><span style="color: #9acd32"><span class="tstr-color-YELLOW_GREEN">When constricting:<span style="color: #ffffff"><span class="tstr-color-WHITE">The tendrils pummel your constricted target for <acronym class="talent-variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00">350%, 383%, 409%, 430%, 450%</acronym> tentacle damage and if adjacent you make an additional mainhand weapon attack.  Talent cooldown reduced to 10.</p>
+You plant your tentacle hand in the ground where it splits up and extends to a target zone of radius 3.
+
+The zone will erupt with many black tendrils to hit all foes caught inside dealing [233%, 255%, 272%, 287%, 300% (TL1-5)] tentacle damage.
+
+Any creature hit by the tentacle must save against spell or be numbed by the attack, reducing its damage by [22%, 29%, 32%, 35%, 37% (TL1-5)] for 5 turns.
+
+If at least one enemy is hit you gain 20 insanity.
+
+When constricting:The tendrils pummel your constricted target for [350%, 383%, 409%, 430%, 450% (TL1-5)] tentacle damage and if adjacent you make an additional mainhand weapon attack.  Talent cooldown reduced to 10.

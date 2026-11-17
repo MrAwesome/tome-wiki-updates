@@ -1,1 +1,5 @@
-<p>Deals <acronym class="variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00,<br>spellpower 100,<br>paradox 300">178, 240, 287, 328, 364</acronym> temporal damage over 4 turns to all targets in a radius of <acronym class="variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00,<br>paradox 300">1, 1, 1, 1, 2.</acronym>  Targets with Reality Smearing active will instead recover <acronym class="variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00,<br>spellpower 100,<br>paradox 300">71, 95, 114, 131, 145</acronym> life over four turns.</p><p>If a target is reduced below 20% life while Attenuate is active it may be instantly slain.</p><p>The damage will scale with your Spellpower.</p>
+Deals [178, 240, 287, 328, 364 (TL1-5; SP 100; PARADOX 300)] temporal damage over 4 turns to all targets in a radius of [1, 1, 1, 1, 2 (TL1-5; PARADOX 300)].  Targets with Reality Smearing active will instead recover [71, 95, 114, 131, 145 (TL1-5; SP 100; PARADOX 300)] life over four turns.
+
+If a target is reduced below 20% life while Attenuate is active it may be instantly slain.
+
+The damage will scale with your Spellpower.

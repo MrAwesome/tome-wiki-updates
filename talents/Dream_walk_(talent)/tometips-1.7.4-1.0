@@ -1,1 +1,3 @@
-<p>You move through the dream world, reappearing at a nearby location.</p><p>If there is a sleeping creature at the target location, you'll appear as close to them as possible, otherwise, you'll appear within <acronym class="talent-variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00">6, 5, 4, 3, 2</acronym> tiles of your intended destination.</p>
+You move through the dream world, reappearing at a nearby location.
+
+If there is a sleeping creature at the target location, you'll appear as close to them as possible, otherwise, you'll appear within [6, 5, 4, 3, 2 (TL1-5)] tiles of your intended destination.

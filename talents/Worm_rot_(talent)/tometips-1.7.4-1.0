@@ -1,1 +1,9 @@
-<p>Infects the target with parasitic carrion worm larvae for 5 turns.  Each turn the disease will remove a beneficial physical effect and deal <acronym class="variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00,<br>spellpower 100">16, 21, 26, 29, 32</acronym> acid and <acronym class="variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00,<br>spellpower 100">16, 21, 26, 29, 32</acronym> blight damage.</p><p>If not cleared after five turns it will inflict <acronym class="variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00,<br>spellpower 100">90, 121, 145, 165, 183</acronym> blight damage as the larvae hatch, removing the effect but spawning a full grown carrion worm mass near the target's location.</p><p>Even if this disease is removed early, there is still a <acronym class="talent-variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00">20%, 43%, 61%, 76%, 90%</acronym> chance for the larvae to hatch.</p><p>You can never have more than 5 worms active from any source at a time.</p><p>The damage dealt will increase with your Spellpower.</p>
+Infects the target with parasitic carrion worm larvae for 5 turns.  Each turn the disease will remove a beneficial physical effect and deal [16, 21, 26, 29, 32 (TL1-5; SP 100)] acid and [16, 21, 26, 29, 32 (TL1-5; SP 100)] blight damage.
+
+If not cleared after five turns it will inflict [90, 121, 145, 165, 183 (TL1-5; SP 100)] blight damage as the larvae hatch, removing the effect but spawning a full grown carrion worm mass near the target's location.
+
+Even if this disease is removed early, there is still a [20%, 43%, 61%, 76%, 90% (TL1-5)] chance for the larvae to hatch.
+
+You can never have more than 5 worms active from any source at a time.
+
+The damage dealt will increase with your Spellpower.

@@ -1,1 +1,5 @@
-<p>Your subconscious now retaliates when you take damage.  If the attacker is within range (10), you'll inflict mind damage equal to the Feedback gained from the attack or <acronym class="variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00,<br>mindpower 100">44, 59, 70, 80, 89,</acronym> whichever is lower.</p><p>This effect can only happen once per creature per turn.</p><p>The damage will scale with your Mindpower.</p>
+Your subconscious now retaliates when you take damage.  If the attacker is within range (10), you'll inflict mind damage equal to the Feedback gained from the attack or [44, 59, 70, 80, 89 (TL1-5; MP 100)], whichever is lower.
+
+This effect can only happen once per creature per turn.
+
+The damage will scale with your Mindpower.

@@ -1,1 +1,7 @@
-<p>Fire a psionic-enhanced shot at a foe doing <acronym class="talent-variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00">76%, 87%, 96%, 103%, 110%</acronym> mind weapon damage and infecting it with a psy worm for 8 turns.</p><p>Each turn the worm will do <acronym class="variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00,<br>mindpower 100">27, 36, 44, 50, 55</acronym> mind damage and restore 1 psi to you, double if stunned or feared.</p><p>Also each turn the worm has 25% chances to spread to a nearby foe in radius 3.</p><p>When a creature infected by Psy Worm dies it spreads to all enemies in a radius of 3.</p>
+Fire a psionic-enhanced shot at a foe doing [76%, 87%, 96%, 103%, 110% (TL1-5)] mind weapon damage and infecting it with a psy worm for 8 turns.
+
+Each turn the worm will do [27, 36, 44, 50, 55 (TL1-5; MP 100)] mind damage and restore 1 psi to you, double if stunned or feared.
+
+Also each turn the worm has 25% chances to spread to a nearby foe in radius 3.
+
+When a creature infected by Psy Worm dies it spreads to all enemies in a radius of 3.

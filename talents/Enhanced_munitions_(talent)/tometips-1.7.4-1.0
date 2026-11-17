@@ -1,1 +1,11 @@
-<p>You create enhanced versions of your ammunition, granting them additional effects.</p><p>Incendiary - The explosion radius is increased by 1, and the ground beneath is ignited dealing an additional <acronym class="variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00,<br>physical power 100">59, 79, 95, 108, 120</acronym> fire damage each turn for 3 turns.</p><p>Venomous - Inflicts leeching poison, dealing <acronym class="variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00,<br>physical power 100">153, 205, 246, 281, 312</acronym> nature damage over 3 turns and causing you to heal for 100% of all damage the poison deals to the target.</p><p>Piercing - Punctures the target’s armor, increasing all damage they take by <acronym class="talent-variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00">7%, 14%, 17%, 20%, 22%</acronym> for 3 turns.</p><p>You only have a limited amount of this ammo, causing this talent to have a cooldown.</p><p>The damage dealt will increase with your Physical Power, and status chance increases with your Accuracy.</p>
+You create enhanced versions of your ammunition, granting them additional effects.
+
+Incendiary - The explosion radius is increased by 1, and the ground beneath is ignited dealing an additional [59, 79, 95, 108, 120 (TL1-5; PP 100)] fire damage each turn for 3 turns.
+
+Venomous - Inflicts leeching poison, dealing [153, 205, 246, 281, 312 (TL1-5; PP 100)] nature damage over 3 turns and causing you to heal for 100% of all damage the poison deals to the target.
+
+Piercing - Punctures the target’s armor, increasing all damage they take by [7%, 14%, 17%, 20%, 22% (TL1-5)] for 3 turns.
+
+You only have a limited amount of this ammo, causing this talent to have a cooldown.
+
+The damage dealt will increase with your Physical Power, and status chance increases with your Accuracy.

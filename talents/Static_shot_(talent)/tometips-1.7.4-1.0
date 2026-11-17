@@ -1,1 +1,7 @@
-<p>You fire a special, electrically charged shot with your steamgun(s) at a spot within range.</p><p>When each shot reaches its target, it bursts into electrified shrapnel within radius 2, which shocks each target hit and deals <acronym class="talent-variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00">86%, 97%, 106%, 113%, 120%</acronym> weapon damage as lightning.</p><p>Shocked targets lose up to <acronym class="talent-variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00">0, 1, 1, 1, 1</acronym> non-magical effects (for the first shot that hits).</p><p>This talent does not use ammo.</p>
+You fire a special, electrically charged shot with your steamgun(s) at a spot within range.
+
+When each shot reaches its target, it bursts into electrified shrapnel within radius 2, which shocks each target hit and deals [86%, 97%, 106%, 113%, 120% (TL1-5)] weapon damage as lightning.
+
+Shocked targets lose up to [0, 1, 1, 1, 1 (TL1-5)] non-magical effects (for the first shot that hits).
+
+This talent does not use ammo.

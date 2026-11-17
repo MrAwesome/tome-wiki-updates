@@ -1,1 +1,5 @@
-<p>Puts the target into a deep sleep for <acronym class="talent-variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00">3, 3, 4, 4, 5</acronym> turns, rendering it unable to act.  Every <acronym class="variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00,<br>mindpower 100">59, 80, 95, 109, 121</acronym> points of damage the target suffers will reduce the effect duration by one turn.</p><p>When Slumber ends, the target will suffer from Insomnia for a number of turns equal to the amount of time it was asleep (up to ten turns max), granting it 20% sleep immunity for each turn of the Insomnia effect.</p><p>The damage threshold will scale with your Mindpower.</p>
+Puts the target into a deep sleep for [3, 3, 4, 4, 5 (TL1-5)] turns, rendering it unable to act.  Every [59, 80, 95, 109, 121 (TL1-5; MP 100)] points of damage the target suffers will reduce the effect duration by one turn.
+
+When Slumber ends, the target will suffer from Insomnia for a number of turns equal to the amount of time it was asleep (up to ten turns max), granting it 20% sleep immunity for each turn of the Insomnia effect.
+
+The damage threshold will scale with your Mindpower.

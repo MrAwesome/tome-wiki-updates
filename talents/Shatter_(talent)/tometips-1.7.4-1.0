@@ -1,1 +1,15 @@
-<p>Shatter all frozen targets in your line of sight, doing <acronym class="variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00,<br>spellpower 100">197, 266, 318, 363, 403</acronym> cold damage.</p><p>Depending on the target's rank, there will also be an additional effect:</p><ul><li> Critters will be instantly killed</li><li> +50% critical chance against Normal rank</li><li> +25% critical chance against Elites or Bosses</li></ul><p>All affected foes will get the wet effect.</p><p>At most, it will affect <acronym class="talent-variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00">3, 4, 5, 6, 7</acronym> foes.</p><p>If you are yourself Frozen, it will instantly be destroyed.</p><p>The damage will increase with your Spellpower.</p>
+Shatter all frozen targets in your line of sight, doing [197, 266, 318, 363, 403 (TL1-5; SP 100)] cold damage.
+
+Depending on the target's rank, there will also be an additional effect:
+
+*  Critters will be instantly killed
+*  +50% critical chance against Normal rank
+*  +25% critical chance against Elites or Bosses
+
+All affected foes will get the wet effect.
+
+At most, it will affect [3, 4, 5, 6, 7 (TL1-5)] foes.
+
+If you are yourself Frozen, it will instantly be destroyed.
+
+The damage will increase with your Spellpower.

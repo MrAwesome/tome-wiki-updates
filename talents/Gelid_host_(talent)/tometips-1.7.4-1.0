@@ -1,1 +1,7 @@
-<p>By crushing one more soul you reinforce your existing rime wraith, duplicating it out of its current host.</p><p>The new wraith will exist for <acronym class="talent-variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00">5, 6, 7, 9, 10</acronym> turns and cannot be used for another cast of Gelid Host.</p><p>When it is created the current host and all foes in radius 4 are blasted for <acronym class="variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00,<br>spellpower 100">134, 180, 216, 246, 273</acronym> cold damage.</p><p>The damage will increase with your Spellpower.</p>
+By crushing one more soul you reinforce your existing rime wraith, duplicating it out of its current host.
+
+The new wraith will exist for [5, 6, 7, 9, 10 (TL1-5)] turns and cannot be used for another cast of Gelid Host.
+
+When it is created the current host and all foes in radius 4 are blasted for [134, 180, 216, 246, 273 (TL1-5; SP 100)] cold damage.
+
+The damage will increase with your Spellpower.

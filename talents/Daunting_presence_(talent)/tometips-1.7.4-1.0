@@ -1,1 +1,5 @@
-<p>Enemies are intimidated by your very presence.</p><p>Enemies within radius 6 have their Physical Power, Mindpower, and Spellpower reduced by <acronym class="variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00,<br>physical power 100">20, 27, 32, 37, 41.</acronym></p><p>The power of the intimidation effect improves with your Physical power</p>
+Enemies are intimidated by your very presence.
+
+Enemies within radius 6 have their Physical Power, Mindpower, and Spellpower reduced by [20, 27, 32, 37, 41 (TL1-5; PP 100)].
+
+The power of the intimidation effect improves with your Physical power

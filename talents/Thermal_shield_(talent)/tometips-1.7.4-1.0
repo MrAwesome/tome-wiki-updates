@@ -1,1 +1,9 @@
-<p>Surround yourself with a shield that will absorb 40% of any fire/cold/light/arcane attack, up to a maximum of <acronym class="variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00,<br>mindpower 100">58, 79, 94, 108, 120</acronym> damage per attack.</p><p>Every time your shield absorbs damage, you convert some of the attack into energy, gaining one point of Psi, plus an additional point for every <acronym class="variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00,<br>mindpower 100">71, 62, 54, 47, 42</acronym> points of damage absorbed, up to a maximum <acronym class="talent-variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00">2.3, 2.5, 2.7, 2.9, 3.0</acronym> points each turn.</p><p>At talent level 3, when you de-activate the shield twice the absorbed damage (if any) in the last 3 turns is released as a full psionic shield (absorbing all damage).</p><p>The maximum amount of damage your shield can absorb and the efficiency of the psi gain scale with your mindpower.</p><p>You can only have two of these shields active at once.</p>
+Surround yourself with a shield that will absorb 40% of any fire/cold/light/arcane attack, up to a maximum of [58, 79, 94, 108, 120 (TL1-5; MP 100)] damage per attack.
+
+Every time your shield absorbs damage, you convert some of the attack into energy, gaining one point of Psi, plus an additional point for every [71, 62, 54, 47, 42 (TL1-5; MP 100)] points of damage absorbed, up to a maximum [2.3, 2.5, 2.7, 2.9, 3.0 (TL1-5)] points each turn.
+
+At talent level 3, when you de-activate the shield twice the absorbed damage (if any) in the last 3 turns is released as a full psionic shield (absorbing all damage).
+
+The maximum amount of damage your shield can absorb and the efficiency of the psi gain scale with your mindpower.
+
+You can only have two of these shields active at once.

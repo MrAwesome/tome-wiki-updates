@@ -1,1 +1,9 @@
-<p>Infuse your body with lightning energy, bolstering your movement speed by <acronym class="talent-variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00">+5%, +7%, +10%, +12%, +15%.</acronym></p><p>Each turn, a foe within range <acronym class="talent-variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00">2, 4, 4, 5, 5</acronym> will be struck by lightning and be dealt <acronym class="variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00,<br>spellpower 100">41, 55, 66, 75, 83</acronym> Lightning damage.</p><p>In addition, damage to your health will energize you.</p><p>At the start of each turn in which you have lost at least 200 life (20% of your maximum life) since your last turn, you will gain <acronym class="variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00,<br>spellpower 100">81%, 92%, 100%, 107%, 114%</acronym> of a turn.</p><p>The effects increase with your Spellpower.</p>
+Infuse your body with lightning energy, bolstering your movement speed by [+5%, +7%, +10%, +12%, +15% (TL1-5)].
+
+Each turn, a foe within range [2, 4, 4, 5, 5 (TL1-5)] will be struck by lightning and be dealt [41, 55, 66, 75, 83 (TL1-5; SP 100)] Lightning damage.
+
+In addition, damage to your health will energize you.
+
+At the start of each turn in which you have lost at least 200 life (20% of your maximum life) since your last turn, you will gain [81%, 92%, 100%, 107%, 114% (TL1-5; SP 100)] of a turn.
+
+The effects increase with your Spellpower.

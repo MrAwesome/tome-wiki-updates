@@ -1,1 +1,7 @@
-<p>You focus on a target zone of radius 2 to make up to <acronym class="talent-variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00">2, 2, 3, 3, 4</acronym> corrosive seeds appear.</p><p>The first seed will appear at the center of the target zone, while others will appear at random spots.</p><p>Each seed lasts <acronym class="talent-variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00">4, 5, 6, 7, 7</acronym> turns and will explode when a hostile creature walks over it, knocking the creature back and dealing <acronym class="variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00,<br>mindpower 100">178, 240, 287, 328, 364</acronym> Acid damage within radius 1.</p><p>The damage will increase with your Mindpower.</p>
+You focus on a target zone of radius 2 to make up to [2, 2, 3, 3, 4 (TL1-5)] corrosive seeds appear.
+
+The first seed will appear at the center of the target zone, while others will appear at random spots.
+
+Each seed lasts [4, 5, 6, 7, 7 (TL1-5)] turns and will explode when a hostile creature walks over it, knocking the creature back and dealing [178, 240, 287, 328, 364 (TL1-5; MP 100)] Acid damage within radius 1.
+
+The damage will increase with your Mindpower.

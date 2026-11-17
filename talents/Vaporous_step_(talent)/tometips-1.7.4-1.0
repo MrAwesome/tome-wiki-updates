@@ -1,1 +1,9 @@
-<p>You concentrate your will to psychoport some of the steam of your generator to a remote location. Each turn steam accumulates there, up to <acronym class="talent-variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00">3, 4, 5, 7, 8</acronym> charges.</p><p>When you deactivate the effect you release the accumulated psionic and steam energies, instantly switching places with the target location and releasing the charges in a fiery explosion of hot wet steam in radius 4.</p><p>The explosion will do <acronym class="variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00,<br>steampower 100">91, 122, 146, 167, 185</acronym> fire damage, multiplied by 33% (diminutive) for each charge and apply the wet effect.</p><p>The effect will fizzle if the charged grid is currently occupied by a creature or not in sight.</p><p>The damage will increase with your Steampower.</p>
+You concentrate your will to psychoport some of the steam of your generator to a remote location. Each turn steam accumulates there, up to [3, 4, 5, 7, 8 (TL1-5)] charges.
+
+When you deactivate the effect you release the accumulated psionic and steam energies, instantly switching places with the target location and releasing the charges in a fiery explosion of hot wet steam in radius 4.
+
+The explosion will do [91, 122, 146, 167, 185 (TL1-5; STEAMPOWER 100)] fire damage, multiplied by 33% (diminutive) for each charge and apply the wet effect.
+
+The effect will fizzle if the charged grid is currently occupied by a creature or not in sight.
+
+The damage will increase with your Steampower.

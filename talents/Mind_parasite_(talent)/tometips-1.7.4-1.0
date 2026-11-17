@@ -1,1 +1,7 @@
-<p>You use your psiblades to fire a small worm at a foe.</p><p>When it hits, it will burrow into the target's brain and stay there for 6 turns, interfering with its ability to use talents.</p><p>Each time a talent is used there is <acronym class="variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00,<br>mindpower 100">78%, 85%, 89%, 91%, 92%</acronym> chance that <acronym class="talent-variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00">1, 2, 3, 3, 3</acronym> talent(s) are placed on a <acronym class="talent-variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00">3, 4, 5, 6, 6</acronym> turn(s) cooldown.</p><p>The chance will increase with your Mindpower.</p>
+You use your psiblades to fire a small worm at a foe.
+
+When it hits, it will burrow into the target's brain and stay there for 6 turns, interfering with its ability to use talents.
+
+Each time a talent is used there is [78%, 85%, 89%, 91%, 92% (TL1-5; MP 100)] chance that [1, 2, 3, 3, 3 (TL1-5)] talent(s) are placed on a [3, 4, 5, 6, 6 (TL1-5)] turn(s) cooldown.
+
+The chance will increase with your Mindpower.

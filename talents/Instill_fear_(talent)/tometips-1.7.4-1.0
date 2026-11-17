@@ -1,1 +1,15 @@
-<p>Instill fear in your foes within 2 radius of a target location dealing <acronym class="variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00,<br>mindpower 100">22, 29, 35, 40, 45</acronym> mind and <acronym class="variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00,<br>mindpower 100">22, 29, 35, 40, 45</acronym> darkness damage and causing one of 4 possible fears that last for 8 turns.</p><p>The targets can save vs your Mindpower to resist the effect.</p><p>Fear effects improve with your Mindpower.</p><p></p><p>Possible fears are:</p><p><span style="color: #ff7700"><span class="tstr-color-ORANGE">Paranoid:</span></span> Gives the target an <acronym class="variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00,<br>mindpower 100">22%, 30%, 36%, 41%, 46%</acronym> chance to physically attack a nearby creature, friend or foe. If hit, their target will be afflicted with Paranoia as well.</p><p><span style="color: #ff7700"><span class="tstr-color-ORANGE">Despair:</span></span> Reduces mind resist, mindsave, armour and defence by <acronym class="variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00,<br>mindpower 100">22, 30, 36, 41, 46.</acronym></p><p><span style="color: #ff7700"><span class="tstr-color-ORANGE">Terrified:</span></span> Deals <acronym class="variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00,<br>mindpower 100">5.50, 7.00, 8.50, 10, 11</acronym> mind and <acronym class="variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00,<br>mindpower 100">5.50, 7.00, 8.50, 10, 11</acronym> darkness damage per turn and increases cooldowns by <acronym class="variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00,<br>mindpower 100">34%, 46%, 55%, 63%, 70%.</acronym></p><p><span style="color: #ff7700"><span class="tstr-color-ORANGE">Haunted:</span></span> Causes the target to suffer <acronym class="variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00,<br>mindpower 100">8.41, 11, 14, 15, 17</acronym> mind and <acronym class="variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00,<br>mindpower 100">8.41, 11, 14, 15, 17</acronym> darkness damage for each detrimental mental effect every turn.</p><p></p>
+Instill fear in your foes within 2 radius of a target location dealing [22, 29, 35, 40, 45 (TL1-5; MP 100)] mind and [22, 29, 35, 40, 45 (TL1-5; MP 100)] darkness damage and causing one of 4 possible fears that last for 8 turns.
+
+The targets can save vs your Mindpower to resist the effect.
+
+Fear effects improve with your Mindpower.
+
+Possible fears are:
+
+Paranoid: Gives the target an [22%, 30%, 36%, 41%, 46% (TL1-5; MP 100)] chance to physically attack a nearby creature, friend or foe. If hit, their target will be afflicted with Paranoia as well.
+
+Despair: Reduces mind resist, mindsave, armour and defence by [22, 30, 36, 41, 46 (TL1-5; MP 100)].
+
+Terrified: Deals [5.50, 7.00, 8.50, 10, 11 (TL1-5; MP 100)] mind and [5.50, 7.00, 8.50, 10, 11 (TL1-5; MP 100)] darkness damage per turn and increases cooldowns by [34%, 46%, 55%, 63%, 70% (TL1-5; MP 100)].
+
+Haunted: Causes the target to suffer [8.41, 11, 14, 15, 17 (TL1-5; MP 100)] mind and [8.41, 11, 14, 15, 17 (TL1-5; MP 100)] darkness damage for each detrimental mental effect every turn.

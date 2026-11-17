@@ -1,1 +1,5 @@
-<p>You delight in the inflicting of wounds, providing <acronym class="variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00,<br>Strength 100">18, 23, 27, 31, 34</acronym> physical power.</p><p>In addition when you make a creature bleed its physical damage resistance is reduced by <acronym class="talent-variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00">10%, 20%, 27%, 34%, 40%</acronym> (but never below 0%).</p><p>Physical power depends on your Strength stat.</p>
+You delight in the inflicting of wounds, providing [18, 23, 27, 31, 34 (TL1-5; STR 100)] physical power.
+
+In addition when you make a creature bleed its physical damage resistance is reduced by [10%, 20%, 27%, 34%, 40% (TL1-5)] (but never below 0%).
+
+Physical power depends on your Strength stat.

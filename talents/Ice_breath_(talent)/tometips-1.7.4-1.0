@@ -1,1 +1,5 @@
-<p>You breathe ice in a frontal cone of radius <acronym class="talent-variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00">5, 6, 7, 8, 9.</acronym> Any target caught in the area will take <acronym class="variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00,<br>Strength 100">154, 200, 233, 261, 286</acronym> cold damage and be frozen for 3 turns.</p><p>The damage will increase with your Strength, the critical chance is based on your Mental crit rate, and the Freeze apply power is based on your Mindpower.</p><p>Each point in cold drake talents also increases your cold resistance by 1%.</p>
+You breathe ice in a frontal cone of radius [5, 6, 7, 8, 9 (TL1-5)]. Any target caught in the area will take [154, 200, 233, 261, 286 (TL1-5; STR 100)] cold damage and be frozen for 3 turns.
+
+The damage will increase with your Strength, the critical chance is based on your Mental crit rate, and the Freeze apply power is based on your Mindpower.
+
+Each point in cold drake talents also increases your cold resistance by 1%.

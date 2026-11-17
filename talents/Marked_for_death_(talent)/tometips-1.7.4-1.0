@@ -1,1 +1,7 @@
-<p>You mark a target for death for 4 turns, causing them to take <acronym class="talent-variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00">15%, 23%, 29%, 35%, 40%</acronym> increased damage from all sources. When this effect ends they will immediately take physical damage equal to <acronym class="variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00,<br>Dexterity 100">61, 79, 93, 104, 114</acronym> plus <acronym class="talent-variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00">16%, 25%, 31%, 34%, 37%</acronym> of all damage taken while marked.</p><p>If a target dies while marked, the cooldown of this ability is reset and the cost refunded.</p><p>This ability can be used without breaking stealth.</p><p>The base damage dealt will increase with your Dexterity.</p>
+You mark a target for death for 4 turns, causing them to take [15%, 23%, 29%, 35%, 40% (TL1-5)] increased damage from all sources. When this effect ends they will immediately take physical damage equal to [61, 79, 93, 104, 114 (TL1-5; DEX 100)] plus [16%, 25%, 31%, 34%, 37% (TL1-5)] of all damage taken while marked.
+
+If a target dies while marked, the cooldown of this ability is reset and the cost refunded.
+
+This ability can be used without breaking stealth.
+
+The base damage dealt will increase with your Dexterity.

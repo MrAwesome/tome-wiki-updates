@@ -1,1 +1,7 @@
-<p>Summon a Jelly for <acronym class="talent-variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00">6, 7, 7, 8, 9</acronym> turns to attack your foes. Jellies do not move, but your equilibrium will be reduced by 10% of all damage received by the jelly.</p><p>It will get <acronym class="variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00,<br>mindpower 100">42, 79, 111, 141, 170</acronym> Constitution and <acronym class="talent-variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00">12, 14, 16, 18, 20</acronym> Strength.</p><p>Your summons inherit some of your stats: increased damage%, resistance penetration %, stun/pin/confusion/blindness resistance, armour penetration.</p><p>The jelly's Constitution will increase with your Mindpower.</p>
+Summon a Jelly for [6, 7, 7, 8, 9 (TL1-5)] turns to attack your foes. Jellies do not move, but your equilibrium will be reduced by 10% of all damage received by the jelly.
+
+It will get [42, 79, 111, 141, 170 (TL1-5; MP 100)] Constitution and [12, 14, 16, 18, 20 (TL1-5)] Strength.
+
+Your summons inherit some of your stats: increased damage%, resistance penetration %, stun/pin/confusion/blindness resistance, armour penetration.
+
+The jelly's Constitution will increase with your Mindpower.

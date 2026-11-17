@@ -1,1 +1,9 @@
-<p>Let out a burst of sound that silences for 3 turns all those affected in a radius of 3.</p><p>Each turn for 6 turns the effected area will cause <acronym class="variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00,<br>physical power 100,<br>mindpower 100">65, 87, 105, 120, 133</acronym> manaburn damage to all creatures inside.</p><p>For each creature silenced your equilibrium is reduced by <acronym class="talent-variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00">5, 10, 13, 17, 20</acronym> (up to 5 times).</p><p>The damage and apply power will increase with the greater of your Mindpower or Physical power.</p><p></p><p>Learning this talent will let your Nature damage and penetration bonuses apply to all Manaburn damage regardless of source.</p>
+Let out a burst of sound that silences for 3 turns all those affected in a radius of 3.
+
+Each turn for 6 turns the effected area will cause [65, 87, 105, 120, 133 (TL1-5; PP 100; MP 100)] manaburn damage to all creatures inside.
+
+For each creature silenced your equilibrium is reduced by [5, 10, 13, 17, 20 (TL1-5)] (up to 5 times).
+
+The damage and apply power will increase with the greater of your Mindpower or Physical power.
+
+Learning this talent will let your Nature damage and penetration bonuses apply to all Manaburn damage regardless of source.

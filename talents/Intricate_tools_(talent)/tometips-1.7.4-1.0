@@ -1,1 +1,25 @@
-<p>With some advanced preparation, you learn to create and equip a third tool (at <span style="color: #ffff00"><span class="tstr-color-YELLOW">level <acronym class="talent-variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00">1, 2, 3, 4, 5</acronym><span style="color: #ffffff"><span class="tstr-color-WHITE">):</p><p></p><p>Grappling Hook:</p><p>Throw a grappling hook up to range <acronym class="talent-variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00">4, 5, 5, 6, 7</acronym> that drags you towards the target or the target towards you. 8 turn cooldown.</p><p></p><p>Rogue's Brew:</p><p>Prepare a potion that restores <acronym class="variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00,<br>Cunning 100">220, 273, 319, 361, 400</acronym> life, <acronym class="variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00,<br>Cunning 100">54, 68, 79, 90, 99</acronym> stamina, and cures <acronym class="talent-variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00">1, 1, 2, 2, 3</acronym> negative physical effects. 20 turn cooldown.</p><p></p><p>Dart Launcher:</p><p>Fire a poisoned dart dealing <acronym class="variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00,<br>Cunning 100">67, 82, 94, 104, 112</acronym> physical damage that puts the target to sleep for 4 turns. 10 turn cooldown.</p><p></p><p>Smokescreen:</p><p>Throw a smokebomb creating a radius 2 cloud of smoke, lasting <acronym class="talent-variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00">3, 4, 5, 5, 5</acronym> turns, that blocks sight and reduces enemies' vision by <acronym class="talent-variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00">1, 2, 3, 4, 6.</acronym> 15 turn cooldown.</p><p></p><p>Hidden Blades:</p><p>Melee criticals trigger an extra unarmed attack, inflicting <acronym class="talent-variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00">135%, 150%, 161%, 171%, 180%</acronym> damage. 4 turn cooldown.</p><p></p><p>Preparing a tool sets its talent level and puts it on cooldown.</p><p>Only one tool of each type can be equipped at a time.</p><p></p>
+With some advanced preparation, you learn to create and equip a third tool (at level [1, 2, 3, 4, 5 (TL1-5)]):
+
+Grappling Hook:
+
+Throw a grappling hook up to range [4, 5, 5, 6, 7 (TL1-5)] that drags you towards the target or the target towards you. 8 turn cooldown.
+
+Rogue's Brew:
+
+Prepare a potion that restores [220, 273, 319, 361, 400 (TL1-5; CUN 100)] life, [54, 68, 79, 90, 99 (TL1-5; CUN 100)] stamina, and cures [1, 1, 2, 2, 3 (TL1-5)] negative physical effects. 20 turn cooldown.
+
+Dart Launcher:
+
+Fire a poisoned dart dealing [67, 82, 94, 104, 112 (TL1-5; CUN 100)] physical damage that puts the target to sleep for 4 turns. 10 turn cooldown.
+
+Smokescreen:
+
+Throw a smokebomb creating a radius 2 cloud of smoke, lasting [3, 4, 5, 5, 5 (TL1-5)] turns, that blocks sight and reduces enemies' vision by [1, 2, 3, 4, 6 (TL1-5)]. 15 turn cooldown.
+
+Hidden Blades:
+
+Melee criticals trigger an extra unarmed attack, inflicting [135%, 150%, 161%, 171%, 180% (TL1-5)] damage. 4 turn cooldown.
+
+Preparing a tool sets its talent level and puts it on cooldown.
+
+Only one tool of each type can be equipped at a time.

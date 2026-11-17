@@ -1,1 +1,7 @@
-<p>Instantly call all of your bloated oozes to your aid.</p><p>If you have less than the maximum number of oozes allowed by the Mitosis talent, up to 1 will be created with <acronym class="variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00,<br>Cunning 100,<br>mindpower 100">31, 38, 43, 46, 49</acronym> life (<acronym class="talent-variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00">42%, 51%, 57%, 62%, 65%</acronym> of the maximum life allowed by Mitosis).</p><p>Each ooze created will form near a random foe in sight (no more than one ooze per target) and grab its attention.</p><p>This will then allow you to channel a melee attack through your ooze to its target, doing <acronym class="talent-variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00">119%, 139%, 155%, 168%, 180%</acronym> weapon damage (as Acid).</p>
+Instantly call all of your bloated oozes to your aid.
+
+If you have less than the maximum number of oozes allowed by the Mitosis talent, up to 1 will be created with [31, 38, 43, 46, 49 (TL1-5; CUN 100; MP 100)] life ([42%, 51%, 57%, 62%, 65% (TL1-5)] of the maximum life allowed by Mitosis).
+
+Each ooze created will form near a random foe in sight (no more than one ooze per target) and grab its attention.
+
+This will then allow you to channel a melee attack through your ooze to its target, doing [119%, 139%, 155%, 168%, 180% (TL1-5)] weapon damage (as Acid).

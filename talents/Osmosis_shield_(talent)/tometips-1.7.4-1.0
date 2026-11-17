@@ -1,1 +1,11 @@
-<p>You infuse your shield with the energies of Urh'Rok, bringing about a magical shield that heals you for the first points of all damage you receive (based on your shield's block value) over 3 turns. This effect stacks.</p><p>Amount is 5 + <acronym class="talent-variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00,<br>shield block 200">10%, 22%, 29%, 33%, 36%</acronym> of your shield block value (currently <acronym class="talent-variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00,<br>shield block 200">25, 50, 63, 72, 78</acronym>).</p><p>At level 3 if a damage dealt is at least twice as high you have <acronym class="talent-variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00,<br>shield block 200">11%, 33%, 47%, 56%, 62%</acronym> chance to also remove a physical detrimental effect. This effect can only happen once per turn.</p><p>This spell disabled automatically on rest or run.</p><p><span style="font-weight: bold"><span class="tstr-font-bold">Activating the shield takes no time but de-activating it does.</span></span></p><p>The damage increases with spellpower.</p>
+You infuse your shield with the energies of Urh'Rok, bringing about a magical shield that heals you for the first points of all damage you receive (based on your shield's block value) over 3 turns. This effect stacks.
+
+Amount is 5 + [10%, 22%, 29%, 33%, 36% (TL1-5; SHIELD BLOCK 200)] of your shield block value (currently [25, 50, 63, 72, 78 (TL1-5; SHIELD BLOCK 200)]).
+
+At level 3 if a damage dealt is at least twice as high you have [11%, 33%, 47%, 56%, 62% (TL1-5; SHIELD BLOCK 200)] chance to also remove a physical detrimental effect. This effect can only happen once per turn.
+
+This spell disabled automatically on rest or run.
+
+'''Activating the shield takes no time but de-activating it does.'''
+
+The damage increases with spellpower.

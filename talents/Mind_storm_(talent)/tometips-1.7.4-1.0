@@ -1,1 +1,7 @@
-<p>Unleash your subconscious on the world around you.  While active, you fire up to <acronym class="talent-variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00">1, 2, 3, 4, 5</acronym> bolts each turn (one per hostile target) that deal <acronym class="variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00,<br>mindpower 100">59, 79, 95, 108, 120</acronym> mind damage.  Each bolt consumes 5 Feedback.</p><p>Feedback gains beyond your maximum allowed amount may generate extra bolts (one bolt per <acronym class="talent-variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00">19, 18, 17, 16, 15</acronym> excess Feedback per target), but no more than <acronym class="talent-variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00">1, 2, 3, 4, 5</acronym> extra bolts per turn. </p><p>This effect is a psionic channel, increasing the range of Mind Sear, Psychic Lobotomy, and Sunder Mind to 10 but will break if you move.</p><p>The damage will scale with your Mindpower.</p>
+Unleash your subconscious on the world around you.  While active, you fire up to [1, 2, 3, 4, 5 (TL1-5)] bolts each turn (one per hostile target) that deal [59, 79, 95, 108, 120 (TL1-5; MP 100)] mind damage.  Each bolt consumes 5 Feedback.
+
+Feedback gains beyond your maximum allowed amount may generate extra bolts (one bolt per [19, 18, 17, 16, 15 (TL1-5)] excess Feedback per target), but no more than [1, 2, 3, 4, 5 (TL1-5)] extra bolts per turn.
+
+This effect is a psionic channel, increasing the range of Mind Sear, Psychic Lobotomy, and Sunder Mind to 10 but will break if you move.
+
+The damage will scale with your Mindpower.

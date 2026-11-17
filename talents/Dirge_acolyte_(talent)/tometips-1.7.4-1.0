@@ -1,1 +1,9 @@
-<p>Even now, something compels you to sing.</p><p>Dirge of Famine: Increases health regen by <acronym class="stat-variable" title="Values for<br>character level 1, 10, 25, 40, 50">0, 1, 2, 3, 4.</acronym></p><p>Dirge of Conquest: Gives you part of a turn on critical (10%) or kill (<acronym class="talent-variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00">28%, 41%, 50%, 56%, 61%</acronym>).</p><p>Dirge of Pestilence: Shields you for 0 when an enemy inflicts a detrimental effect on you (5 turn cooldown).</p><p>You may only have one Dirge active at a time.</p>
+Even now, something compels you to sing.
+
+Dirge of Famine: Increases health regen by [0, 1, 2, 3, 4 (LVL 1-50)].
+
+Dirge of Conquest: Gives you part of a turn on critical (10%) or kill ([28%, 41%, 50%, 56%, 61% (TL1-5)]).
+
+Dirge of Pestilence: Shields you for 0 when an enemy inflicts a detrimental effect on you (5 turn cooldown).
+
+You may only have one Dirge active at a time.

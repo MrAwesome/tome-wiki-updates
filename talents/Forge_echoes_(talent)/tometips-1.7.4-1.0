@@ -1,1 +1,5 @@
-<p>Strike an adjacent target with a mighty blow from the forge, inflicting <acronym class="talent-variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00">122%, 131%, 138%, 144%, 150%</acronym> weapon damage.  If the attack hits, the echo of the attack will lash out at all enemies in a <acronym class="talent-variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00">1, 2, 2, 3, 3</acronym> radius of the impact.</p><p>Learning this talent adds <acronym class="variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00,<br>mindpower 100">14, 19, 23, 26, 29</acronym> mind damage and <acronym class="variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00,<br>mindpower 100">14, 19, 23, 26, 29</acronym> burning damage to your Dream Hammer strikes.</p><p>The mind and fire damage will scale with your Mindpower.</p>
+Strike an adjacent target with a mighty blow from the forge, inflicting [122%, 131%, 138%, 144%, 150% (TL1-5)] weapon damage.  If the attack hits, the echo of the attack will lash out at all enemies in a [1, 2, 2, 3, 3 (TL1-5)] radius of the impact.
+
+Learning this talent adds [14, 19, 23, 26, 29 (TL1-5; MP 100)] mind damage and [14, 19, 23, 26, 29 (TL1-5; MP 100)] burning damage to your Dream Hammer strikes.
+
+The mind and fire damage will scale with your Mindpower.

@@ -1,1 +1,5 @@
-<p>Any time one of your minions dies or expires, and even if it is resurrected by a boneyard, the dread feeds on it.</p><p>Each time it feeds it gets healed for <acronym class="variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00,<br>spellpower 100">130, 172, 205, 232, 257</acronym> and reduces remaining cooldown of its spells by <acronym class="talent-variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00">1, 2, 2, 3, 3.</acronym></p><p>Every 10 minion deaths it casts a random hex on up to <acronym class="talent-variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00">2, 4, 5, 6, 7</acronym> foes at once, instantly and without triggering a cooldown.</p>
+Any time one of your minions dies or expires, and even if it is resurrected by a boneyard, the dread feeds on it.
+
+Each time it feeds it gets healed for [130, 172, 205, 232, 257 (TL1-5; SP 100)] and reduces remaining cooldown of its spells by [1, 2, 2, 3, 3 (TL1-5)].
+
+Every 10 minion deaths it casts a random hex on up to [2, 4, 5, 6, 7 (TL1-5)] foes at once, instantly and without triggering a cooldown.

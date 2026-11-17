@@ -1,1 +1,3 @@
-<p>Sends a telekinetic attack, knocking back the target up to 3 grids and doing <acronym class="variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00,<br>mindpower 100">102, 138, 165, 188, 209</acronym> physical damage.</p><p>The damage will increase with Mindpower.</p>
+Sends a telekinetic attack, knocking back the target up to 3 grids and doing [102, 138, 165, 188, 209 (TL1-5; MP 100)] physical damage.
+
+The damage will increase with Mindpower.

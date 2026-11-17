@@ -1,1 +1,5 @@
-<p>Use arcane forces to summon <acronym class="talent-variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00">3, 3, 4, 4, 4</acronym> meteors that fall to the ground within range 2 of the target.</p><p>Each meteor smashes everything within radius 2, dealing <acronym class="variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00,<br>spellpower 100">76, 103, 123, 141, 156</acronym> fire and <acronym class="variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00,<br>spellpower 100">76, 103, 123, 141, 156</acronym> physical damage to creatures other than yourself, while liquefying some of the terrain into lava for 8 turns.</p><p>The damage increases with your Spellpower.</p>
+Use arcane forces to summon [3, 3, 4, 4, 4 (TL1-5)] meteors that fall to the ground within range 2 of the target.
+
+Each meteor smashes everything within radius 2, dealing [76, 103, 123, 141, 156 (TL1-5; SP 100)] fire and [76, 103, 123, 141, 156 (TL1-5; SP 100)] physical damage to creatures other than yourself, while liquefying some of the terrain into lava for 8 turns.
+
+The damage increases with your Spellpower.

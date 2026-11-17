@@ -1,1 +1,9 @@
-<p>Destabilize your glyphs, triggering every glyph in radius 10 with an enemy standing on it.</p><p>At talent level 2 glyphs triggered this way will leave a residue of themselves on the ground, dealing damage each turn for <acronym class="talent-variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00">0, 1, 2, 4, 5</acronym> turns.</p><p><span style="color: #FFD700"><span class="tstr-color-FFD700">Sunlight</span></span>:  <acronym class="variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00,<br>spellpower 100">41, 55, 66, 75, 83</acronym> light damage.</p><p><span style="color: #7F7F7F"><span class="tstr-color-7F7F7F">Moonlight</span></span>:  <acronym class="variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00,<br>spellpower 100">41, 55, 66, 75, 83</acronym> darkness damage.</p><p><span style="color: #9D9DC9"><span class="tstr-color-9D9DC9">Twilight</span></span>:  <acronym class="variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00,<br>spellpower 100">20, 27, 33, 37, 41</acronym> light and <acronym class="variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00,<br>spellpower 100">20, 27, 33, 37, 41</acronym> darkness damage</p>
+Destabilize your glyphs, triggering every glyph in radius 10 with an enemy standing on it.
+
+At talent level 2 glyphs triggered this way will leave a residue of themselves on the ground, dealing damage each turn for [0, 1, 2, 4, 5 (TL1-5)] turns.
+
+Sunlight:  [41, 55, 66, 75, 83 (TL1-5; SP 100)] light damage.
+
+Moonlight:  [41, 55, 66, 75, 83 (TL1-5; SP 100)] darkness damage.
+
+Twilight:  [20, 27, 33, 37, 41 (TL1-5; SP 100)] light and [20, 27, 33, 37, 41 (TL1-5; SP 100)] darkness damage

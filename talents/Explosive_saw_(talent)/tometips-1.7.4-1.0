@@ -1,1 +1,5 @@
-<p>You send a saw mounted on an automated steam propulsor to assault a foe, dealing <acronym class="variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00,<br>steampower 100">38, 51, 62, 70, 78</acronym> physical damage each turn for 4 turns and silencing it.</p><p>At the end of the duration, the saw explodes for <acronym class="variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00,<br>steampower 100">197, 266, 318, 363, 403</acronym> fire damage and flies back, pulling the target up to <acronym class="talent-variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00">2, 5, 7, 7, 8</acronym> tiles towards you.</p><p>The damage will increase with your Steampower.</p>
+You send a saw mounted on an automated steam propulsor to assault a foe, dealing [38, 51, 62, 70, 78 (TL1-5; STEAMPOWER 100)] physical damage each turn for 4 turns and silencing it.
+
+At the end of the duration, the saw explodes for [197, 266, 318, 363, 403 (TL1-5; STEAMPOWER 100)] fire damage and flies back, pulling the target up to [2, 5, 7, 7, 8 (TL1-5)] tiles towards you.
+
+The damage will increase with your Steampower.

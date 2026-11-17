@@ -1,1 +1,13 @@
-<p>You veil yourself in shadows and let them control you.</p><p>Immediately after activation and each turn for 3 turns, you blink to a nearby foe (within range 7 of the location of the first target hit), hitting it for <acronym class="talent-variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00">139%, 159%, 175%, 188%, 200%</acronym> darkness weapon damage.</p><p>While veiled, you become immune to status effects and gain <acronym class="variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00,<br>spellpower 100">25%, 34%, 41%, 47%, 52%</acronym> all resistance.</p><p>While this goes on, you cannot be stopped unless you are killed, and you cannot control your character.</p><p>If a target isn't found this effect ends.</p><p>The movement is not considered a teleport.</p><p>The resistance will increase with your Spellpower stat.</p>
+You veil yourself in shadows and let them control you.
+
+Immediately after activation and each turn for 3 turns, you blink to a nearby foe (within range 7 of the location of the first target hit), hitting it for [139%, 159%, 175%, 188%, 200% (TL1-5)] darkness weapon damage.
+
+While veiled, you become immune to status effects and gain [25%, 34%, 41%, 47%, 52% (TL1-5; SP 100)] all resistance.
+
+While this goes on, you cannot be stopped unless you are killed, and you cannot control your character.
+
+If a target isn't found this effect ends.
+
+The movement is not considered a teleport.
+
+The resistance will increase with your Spellpower stat.

@@ -1,1 +1,5 @@
-<p>Grab a target and teleport it to your side or if adjacent up to 6 spaces away from you, pinning it there with a bone rising from the ground for <acronym class="talent-variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00">4, 5, 6, 7, 8</acronym> turns.</p><p>The bone will also deal <acronym class="variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00,<br>spellpower 100">83, 112, 135, 154, 171</acronym> physical damage.</p><p>The damage will increase with your Spellpower.</p>
+Grab a target and teleport it to your side or if adjacent up to 6 spaces away from you, pinning it there with a bone rising from the ground for [4, 5, 6, 7, 8 (TL1-5)] turns.
+
+The bone will also deal [83, 112, 135, 154, 171 (TL1-5; SP 100)] physical damage.
+
+The damage will increase with your Spellpower.

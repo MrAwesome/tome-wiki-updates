@@ -1,1 +1,9 @@
-<p>Your successful melee hits apply a stacking effect that decreases damage done by <acronym class="talent-variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00">1%, 1%, 2%, 2%, 3%.</acronym></p><p>You can have up to 8 stacks per target and further attacks refresh the duration, but any turn you are farther than <acronym class="talent-variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00">2, 3, 3, 4, 5</acronym> spaces from the victim the fear will wear off quickly.</p><p>At level 3 it also slows by <acronym class="talent-variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00">0.00%, 0.00%, 1.25%, 1.25%, 1.25%</acronym> per stack.</p><p>At level 5 you can horrify enemies in a radius of <acronym class="talent-variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00">0, 0, 0, 0, 1.</acronym></p><p>This talent ignores saves and immunities.</p><p></p>
+Your successful melee hits apply a stacking effect that decreases damage done by [1%, 1%, 2%, 2%, 3% (TL1-5)].
+
+You can have up to 8 stacks per target and further attacks refresh the duration, but any turn you are farther than [2, 3, 3, 4, 5 (TL1-5)] spaces from the victim the fear will wear off quickly.
+
+At level 3 it also slows by [0.00%, 0.00%, 1.25%, 1.25%, 1.25% (TL1-5)] per stack.
+
+At level 5 you can horrify enemies in a radius of [0, 0, 0, 0, 1 (TL1-5)].
+
+This talent ignores saves and immunities.

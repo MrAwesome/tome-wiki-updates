@@ -1,1 +1,5 @@
-<p>Surround yourself with a forcefield, reducing all incoming damage by <acronym class="talent-variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00">23%, 40%, 49%, 56%, 60%.</acronym></p><p>Such a shield is very expensive to maintain, draining 5% of your maximum psi per turn initially plus an addition 5% for each turn it has been maintained. For example, on turn 2 it will drain 10%.</p><p>Current drain rate: 0.0 psi/turn</p>
+Surround yourself with a forcefield, reducing all incoming damage by [23%, 40%, 49%, 56%, 60% (TL1-5)].
+
+Such a shield is very expensive to maintain, draining 5% of your maximum psi per turn initially plus an addition 5% for each turn it has been maintained. For example, on turn 2 it will drain 10%.
+
+Current drain rate: 0.0 psi/turn

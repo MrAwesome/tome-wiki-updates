@@ -1,1 +1,3 @@
-<p>You surround yourself with a radius <acronym class="variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00,<br>paradox 300">3, 3, 3, 4, 4</acronym> distortion of time, which deals <acronym class="variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00,<br>spellpower 100,<br>paradox 300">80, 108, 130, 148, 164</acronym> stacking temporal damage over 3 turns to all other creatures.  The effect lasts <acronym class="variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00,<br>paradox 300">6, 7, 8, 9, 10</acronym> turns.</p><p>The damage dealt will scale with your Spellpower.</p>
+You surround yourself with a radius [3, 3, 3, 4, 4 (TL1-5; PARADOX 300)] distortion of time, which deals [80, 108, 130, 148, 164 (TL1-5; SP 100; PARADOX 300)] stacking temporal damage over 3 turns to all other creatures.  The effect lasts [6, 7, 8, 9, 10 (TL1-5; PARADOX 300)] turns.
+
+The damage dealt will scale with your Spellpower.

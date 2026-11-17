@@ -1,1 +1,3 @@
-<p>Each time an enemy takes damage from Dark Whispers, there is a 10% chance for one of their visions to manifest in an adjacent tile for 3 turns. This vision takes no actions but the victim will deal <acronym class="talent-variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00">10%, 21%, 27%, 30%, 32%</acronym> reduced damage to all other targets until the vision is slain.</p><p>A target cannot have more than one hallucination at a time.</p>
+Each time an enemy takes damage from Dark Whispers, there is a 10% chance for one of their visions to manifest in an adjacent tile for 3 turns. This vision takes no actions but the victim will deal [10%, 21%, 27%, 30%, 32% (TL1-5)] reduced damage to all other targets until the vision is slain.
+
+A target cannot have more than one hallucination at a time.

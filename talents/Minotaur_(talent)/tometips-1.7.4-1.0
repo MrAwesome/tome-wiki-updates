@@ -1,1 +1,7 @@
-<p>Summon a Minotaur for <acronym class="talent-variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00">3, 4, 4, 5, 6</acronym> turns to attack your foes. Minotaurs cannot stay summoned for long, but they deal high damage.</p><p>It will get <acronym class="variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00,<br>mindpower 100">69, 120, 165, 206, 245</acronym> Strength, <acronym class="talent-variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00">12, 14, 16, 18, 20</acronym> Constitution and <acronym class="variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00,<br>mindpower 100">48, 92, 130, 166, 200</acronym> Dexterity.</p><p>Your summons inherit some of your stats: increased damage%, resistance penetration %, stun/pin/confusion/blindness resistance, armour penetration.</p><p>The minotaur's Strength and Dexterity will increase with your Mindpower.</p>
+Summon a Minotaur for [3, 4, 4, 5, 6 (TL1-5)] turns to attack your foes. Minotaurs cannot stay summoned for long, but they deal high damage.
+
+It will get [69, 120, 165, 206, 245 (TL1-5; MP 100)] Strength, [12, 14, 16, 18, 20 (TL1-5)] Constitution and [48, 92, 130, 166, 200 (TL1-5; MP 100)] Dexterity.
+
+Your summons inherit some of your stats: increased damage%, resistance penetration %, stun/pin/confusion/blindness resistance, armour penetration.
+
+The minotaur's Strength and Dexterity will increase with your Mindpower.

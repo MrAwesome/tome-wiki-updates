@@ -1,1 +1,5 @@
-<p>Hits the target with your weapon, doing <acronym class="talent-variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00">122%, 131%, 138%, 144%, 150%</acronym> damage. If the attack hits, the target's armour and saves are reduced by <acronym class="talent-variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00">5, 10, 15, 20, 25</acronym> for <acronym class="talent-variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00">5, 6, 7, 8, 9</acronym> turns.</p><p>Also if the target is protected by any temporary magical or psionic damage absorbing shields there is <acronym class="talent-variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00">-7%, 36%, 57%, 69%, 77%</acronym> chance to shatter one random shield.</p><p>Armor reduction chance increases with your Physical Power.</p>
+Hits the target with your weapon, doing [122%, 131%, 138%, 144%, 150% (TL1-5)] damage. If the attack hits, the target's armour and saves are reduced by [5, 10, 15, 20, 25 (TL1-5)] for [5, 6, 7, 8, 9 (TL1-5)] turns.
+
+Also if the target is protected by any temporary magical or psionic damage absorbing shields there is [-7%, 36%, 57%, 69%, 77% (TL1-5)] chance to shatter one random shield.
+
+Armor reduction chance increases with your Physical Power.

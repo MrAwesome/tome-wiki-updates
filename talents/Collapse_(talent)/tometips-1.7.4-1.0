@@ -1,1 +1,5 @@
-<p>Open a radius 1 rift in spacetime at the targeted location for <acronym class="talent-variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00">3, 3, 4, 5, 5</acronym> turns, increasing in radius by 1 each turn to a maximum of <acronym class="talent-variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00">1, 1, 2, 2, 2.</acronym></p><p>All caught within the rift are pulled towards the center and take <acronym class="variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00,<br>spellpower 100">22, 29, 35, 40, 45</acronym> gravity damage.</p><p>The damage will increase with your Spellpower.</p>
+Open a radius 1 rift in spacetime at the targeted location for [3, 3, 4, 5, 5 (TL1-5)] turns, increasing in radius by 1 each turn to a maximum of [1, 1, 2, 2, 2 (TL1-5)].
+
+All caught within the rift are pulled towards the center and take [22, 29, 35, 40, 45 (TL1-5; SP 100)] gravity damage.
+
+The damage will increase with your Spellpower.

@@ -1,1 +1,7 @@
-<p>Whenever you deal non-disease blight damage you apply a disease dealing <acronym class="variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00,<br>spellpower 100">33, 42, 48, 54, 59</acronym> blight damage per turn for 6 turns and reducing one of its physical stats (strength, constitution, dexterity) by <acronym class="variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00,<br>spellpower 100">19, 26, 31, 36, 40.</acronym> The three diseases can stack.</p><p>Virulent Disease will always try to apply a disease the target does not currently have, and also one that will have the most debilitating effect for the target.</p><p>This disease will try to prioritize being applied to an enemy with a high disease count near the target.</p><p>The effect will increase with your Spellpower.</p>
+Whenever you deal non-disease blight damage you apply a disease dealing [33, 42, 48, 54, 59 (TL1-5; SP 100)] blight damage per turn for 6 turns and reducing one of its physical stats (strength, constitution, dexterity) by [19, 26, 31, 36, 40 (TL1-5; SP 100)]. The three diseases can stack.
+
+Virulent Disease will always try to apply a disease the target does not currently have, and also one that will have the most debilitating effect for the target.
+
+This disease will try to prioritize being applied to an enemy with a high disease count near the target.
+
+The effect will increase with your Spellpower.

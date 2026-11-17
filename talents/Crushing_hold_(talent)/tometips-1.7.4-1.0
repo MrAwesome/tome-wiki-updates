@@ -1,1 +1,7 @@
-<p>Enhances your grapples with additional effects. All additional effects will apply to every grapple with no additional save or resist check.</p><p><span style="color: #c90000"><span class="tstr-color-RED">Talent Level 1:  Reduces physical power by <acronym class="variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00,<br>physical power 100">16, 22, 27, 30, 34</acronym></p><p>Talent Level 3:  Silences</p><p>Talent Level 5:  Reduces global action speed by <acronym class="talent-variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00">0%, 0%, 0%, 0%, 43%</acronym></p>
+Enhances your grapples with additional effects. All additional effects will apply to every grapple with no additional save or resist check.
+
+Talent Level 1:  Reduces physical power by [16, 22, 27, 30, 34 (TL1-5; PP 100)]
+
+Talent Level 3:  Silences
+
+Talent Level 5:  Reduces global action speed by [0%, 0%, 0%, 0%, 43% (TL1-5)]

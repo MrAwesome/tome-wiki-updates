@@ -1,1 +1,9 @@
-<p>You have learned to sing the praises of the Sun, in the form of three defensive Chants.</p><p>Chant of Fortitude: Increases your mental save by <acronym class="stat-variable" title="Values for<br>spellpower 10, 25, 50, 75, 100">0, 1, 3, 4, 6</acronym> and maximum life by 8%.</p><p>Chant of Fortress: Increases your physical save by <acronym class="stat-variable" title="Values for<br>spellpower 10, 25, 50, 75, 100">0, 1, 3, 4, 6,</acronym> your physical resistance by <acronym class="stat-variable" title="Values for<br>spellpower 10, 25, 50, 75, 100">0%, 0%, 1%, 1%, 2%,</acronym> your armour by <acronym class="stat-variable" title="Values for<br>spellpower 10, 25, 50, 75, 100">0, 0, 1, 1, 2</acronym> and your armour hardiness by 15%.</p><p>Chant of Resistance: Increases you spell save by <acronym class="stat-variable" title="Values for<br>spellpower 10, 25, 50, 75, 100">0, 1, 3, 4, 6,</acronym> your fire/cold/lightning/acid resistances by <acronym class="stat-variable" title="Values for<br>spellpower 10, 25, 50, 75, 100">0%, 0%, 1%, 2%, 3%</acronym> and reduces all damage that comes from distant enemies (3 spaces or more) by -6%.</p><p>You may only have one Chant active at a time.</p>
+You have learned to sing the praises of the Sun, in the form of three defensive Chants.
+
+Chant of Fortitude: Increases your mental save by [0, 1, 3, 4, 6 (SP 10-100)] and maximum life by 8%.
+
+Chant of Fortress: Increases your physical save by [0, 1, 3, 4, 6 (SP 10-100)], your physical resistance by [0%, 0%, 1%, 1%, 2% (SP 10-100)], your armour by [0, 0, 1, 1, 2 (SP 10-100)] and your armour hardiness by 15%.
+
+Chant of Resistance: Increases you spell save by [0, 1, 3, 4, 6 (SP 10-100)], your fire/cold/lightning/acid resistances by [0%, 0%, 1%, 2%, 3% (SP 10-100)] and reduces all damage that comes from distant enemies (3 spaces or more) by -6%.
+
+You may only have one Chant active at a time.

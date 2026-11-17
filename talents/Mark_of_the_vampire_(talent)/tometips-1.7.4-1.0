@@ -1,1 +1,5 @@
-<p>Dooms all enemies within a radius 2 ball for 20 turns. Each time an affected target uses a talent, it takes <acronym class="variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00,<br>spellpower 100">59, 79, 95, 108, 120</acronym> physical damage as its life is drawn out. In addition, any bleed applied to the target will have its power increased by <acronym class="talent-variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00">15%, 26%, 35%, 43%, 50%.</acronym></p><p>The damage will increase with your Spellpower.</p><p>The chance to apply will increase with your Spellpower.</p>
+Dooms all enemies within a radius 2 ball for 20 turns. Each time an affected target uses a talent, it takes [59, 79, 95, 108, 120 (TL1-5; SP 100)] physical damage as its life is drawn out. In addition, any bleed applied to the target will have its power increased by [15%, 26%, 35%, 43%, 50% (TL1-5)].
+
+The damage will increase with your Spellpower.
+
+The chance to apply will increase with your Spellpower.

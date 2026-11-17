@@ -1,1 +1,7 @@
-<p>Summon a Spider for <acronym class="talent-variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00">6, 7, 7, 8, 9</acronym> turns to harass your foes. Spiders can poison your foes and throw webs to pin them to the ground.</p><p>It will get <acronym class="variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00,<br>mindpower 100">55, 101, 142, 179, 215</acronym> Dexterity, <acronym class="talent-variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00">12, 14, 16, 18, 20</acronym> Strength, 18 Willpower and 10 Constitution.</p><p>Your summons inherit some of your stats: increased damage%, resistance penetration %, stun/pin/confusion/blindness resistance, armour penetration.</p><p>Their Dexterity will increase with your Mindpower.</p>
+Summon a Spider for [6, 7, 7, 8, 9 (TL1-5)] turns to harass your foes. Spiders can poison your foes and throw webs to pin them to the ground.
+
+It will get [55, 101, 142, 179, 215 (TL1-5; MP 100)] Dexterity, [12, 14, 16, 18, 20 (TL1-5)] Strength, 18 Willpower and 10 Constitution.
+
+Your summons inherit some of your stats: increased damage%, resistance penetration %, stun/pin/confusion/blindness resistance, armour penetration.
+
+Their Dexterity will increase with your Mindpower.

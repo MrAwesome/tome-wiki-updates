@@ -1,1 +1,5 @@
-<p>Cripples the target's mind, inflicting <acronym class="variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00,<br>mindpower 100">90, 121, 145, 165, 183</acronym> mind damage and reducing its Mental Save by <acronym class="variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00,<br>mindpower 100">8, 12, 14, 16, 18</acronym> for 4 turns.  This attack always hits, and the mental save reduction stacks.</p><p>Against brainlocked targets, the damage and Mental Save reduction will be doubled.</p><p>The damage and save reduction will scale with your Mindpower.</p>
+Cripples the target's mind, inflicting [90, 121, 145, 165, 183 (TL1-5; MP 100)] mind damage and reducing its Mental Save by [8, 12, 14, 16, 18 (TL1-5; MP 100)] for 4 turns.  This attack always hits, and the mental save reduction stacks.
+
+Against brainlocked targets, the damage and Mental Save reduction will be doubled.
+
+The damage and save reduction will scale with your Mindpower.

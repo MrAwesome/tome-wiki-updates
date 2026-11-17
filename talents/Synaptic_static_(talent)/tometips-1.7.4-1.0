@@ -1,1 +1,3 @@
-<p>Sends out a blast of telepathic static in a <acronym class="talent-variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00">2, 3, 4, 5, 6</acronym> radius, inflicting <acronym class="variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00,<br>mindpower 100">153, 205, 246, 281, 312</acronym> mind damage.  This attack can brainlock affected targets.</p><p>The damage will increase with your Mindpower.</p>
+Sends out a blast of telepathic static in a [2, 3, 4, 5, 6 (TL1-5)] radius, inflicting [153, 205, 246, 281, 312 (TL1-5; MP 100)] mind damage.  This attack can brainlock affected targets.
+
+The damage will increase with your Mindpower.

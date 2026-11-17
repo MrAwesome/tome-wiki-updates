@@ -1,1 +1,5 @@
-<p>Unleash dark forces to all foes in sight that are afflicted by Soul Leech, dealing <acronym class="variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00,<br>spellpower 100">184, 248, 298, 340, 377</acronym> frostdusk damage to them and tearing apart their souls.</p><p>This returns up to <acronym class="talent-variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00">1, 2, 3, 4, 5</acronym> souls to you (one for each foe hit).</p><p>The damage increases with your Spellpower.</p>
+Unleash dark forces to all foes in sight that are afflicted by Soul Leech, dealing [184, 248, 298, 340, 377 (TL1-5; SP 100)] frostdusk damage to them and tearing apart their souls.
+
+This returns up to [1, 2, 3, 4, 5 (TL1-5)] souls to you (one for each foe hit).
+
+The damage increases with your Spellpower.

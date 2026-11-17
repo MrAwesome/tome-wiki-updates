@@ -1,1 +1,9 @@
-<p>You prepare an additional trap (up to tier <acronym class="talent-variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00">1, 2, 3, 4, 5</acronym>) with a special primed trigger that causes it to activate immediately when deployed. (Use this ability to select the trap.)</p><p>Not all traps can be prepared this way and each trap can have only one type of preparation.</p><p>Known primable designs:</p><p></p><p></p><p>A trap with a primed trigger gains <acronym class="talent-variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00">+12%, +28%, +40%, +50%, +59%</acronym> effectiveness (replacing the normal bonus from Trap Mastery) and won't break stealth <acronym class="variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00,<br>Cunning 100">56%, 64%, 70%, 75%, 80%</acronym> of the time.</p><p><span style="color: #ffff00"><span class="tstr-color-YELLOW">Current primed trap: none</span></span></p>
+You prepare an additional trap (up to tier [1, 2, 3, 4, 5 (TL1-5)]) with a special primed trigger that causes it to activate immediately when deployed. (Use this ability to select the trap.)
+
+Not all traps can be prepared this way and each trap can have only one type of preparation.
+
+Known primable designs:
+
+A trap with a primed trigger gains [+12%, +28%, +40%, +50%, +59% (TL1-5)] effectiveness (replacing the normal bonus from Trap Mastery) and won't break stealth [56%, 64%, 70%, 75%, 80% (TL1-5; CUN 100)] of the time.
+
+Current primed trap: none

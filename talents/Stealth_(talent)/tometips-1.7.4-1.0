@@ -1,1 +1,13 @@
-<p>Enters stealth mode (power <acronym class="variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00,<br>Cunning 100">38, 48, 55, 60, 64,</acronym> based on Cunning), making you harder to detect.</p><p>If successful (re-checked each turn), enemies will not know exactly where you are, or may not notice you at all.</p><p>Stealth reduces your light radius to 0, increases your infravision by 3, and will not work with heavy or massive armours.</p><p>You cannot enter stealth if there are foes in sight within range <acronym class="talent-variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00">10, 8, 7, 6, 5.</acronym></p><p>Any non-instant, non-movement action will break stealth if not otherwise specified.</p><p></p><p>Enemies uncertain of your location will still make educated guesses at it.</p><p>While stealthed, enemies cannot share information about your location with each other and will be delayed in telling their allies that you exist at all.</p>
+Enters stealth mode (power [38, 48, 55, 60, 64 (TL1-5; CUN 100)], based on Cunning), making you harder to detect.
+
+If successful (re-checked each turn), enemies will not know exactly where you are, or may not notice you at all.
+
+Stealth reduces your light radius to 0, increases your infravision by 3, and will not work with heavy or massive armours.
+
+You cannot enter stealth if there are foes in sight within range [10, 8, 7, 6, 5 (TL1-5)].
+
+Any non-instant, non-movement action will break stealth if not otherwise specified.
+
+Enemies uncertain of your location will still make educated guesses at it.
+
+While stealthed, enemies cannot share information about your location with each other and will be delayed in telling their allies that you exist at all.

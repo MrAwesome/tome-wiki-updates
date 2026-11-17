@@ -1,1 +1,7 @@
-<p>Hits the target with your weapon doing <acronym class="talent-variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00">95%, 102%, 107%, 111%, 114%</acronym> weapon damage. If the attack hits, the target is afflicted with Fiery Torment for 5 turns, reducing their fire resistance by <acronym class="talent-variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00">10%, 21%, 29%, 36%, 42%.</acronym></p><p>When Fiery Torment ends the victim will take <acronym class="variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00,<br>spellpower 100">46, 62, 75, 85, 95</acronym> fire damage. This damage will increase by <acronym class="variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00,<br>spellpower 100">16%, 22%, 27%, 30%, 34%</acronym> of all damage taken while under torment.</p><p>The damage dealt by the effect will increase with spellpower.</p><p>Demons under fiery torment will be burned by the flames of the Fearscape.</p>
+Hits the target with your weapon doing [95%, 102%, 107%, 111%, 114% (TL1-5)] weapon damage. If the attack hits, the target is afflicted with Fiery Torment for 5 turns, reducing their fire resistance by [10%, 21%, 29%, 36%, 42% (TL1-5)].
+
+When Fiery Torment ends the victim will take [46, 62, 75, 85, 95 (TL1-5; SP 100)] fire damage. This damage will increase by [16%, 22%, 27%, 30%, 34% (TL1-5; SP 100)] of all damage taken while under torment.
+
+The damage dealt by the effect will increase with spellpower.
+
+Demons under fiery torment will be burned by the flames of the Fearscape.

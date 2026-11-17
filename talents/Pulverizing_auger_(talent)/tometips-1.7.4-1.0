@@ -1,1 +1,7 @@
-<p>Fire a powerful beam of stone-shattering force, digging out any walls in its path up to <acronym class="talent-variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00">1, 2, 3, 4, 5</acronym> range.</p><p>The beam continues to a range of 10, affecting any creatures in its path, dealing <acronym class="variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00,<br>spellpower 100">140, 188, 226, 258, 286</acronym> physical damage to them.</p><p>If any walls are dug, you gain <acronym class="talent-variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00">15%, 20%, 23%, 27%, 30%</acronym> physical damage bonus for 6 turns.</p><p>The damage will increase with your Spellpower.</p>
+Fire a powerful beam of stone-shattering force, digging out any walls in its path up to [1, 2, 3, 4, 5 (TL1-5)] range.
+
+The beam continues to a range of 10, affecting any creatures in its path, dealing [140, 188, 226, 258, 286 (TL1-5; SP 100)] physical damage to them.
+
+If any walls are dug, you gain [15%, 20%, 23%, 27%, 30% (TL1-5)] physical damage bonus for 6 turns.
+
+The damage will increase with your Spellpower.

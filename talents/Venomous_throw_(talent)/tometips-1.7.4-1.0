@@ -1,1 +1,13 @@
-<p>Throw a knife coated with venom, doing 120% damage as nature and inflicting additional effects based on your active vile poisons (as per the Venomous Strike talent):</p><p></p><p>Numbing Poison - Reduces global speed by 12% for 5 turns.</p><p>Insidious Poison - Applies a standard poison that deals <acronym class="stat-variable" title="Values for<br>Cunning 10, 25, 50, 75, 100">17, 21, 27, 33, 39</acronym> nature damage over 5 turns.</p><p>Crippling Poison - Places 1 talents on cooldown for 1 turns.</p><p>Leeching Poison - Heals you for <acronym class="stat-variable" title="Values for<br>Cunning 10, 25, 50, 75, 100">16, 20, 27, 33, 39.</acronym></p><p>Volatile Poison - Deals a further <acronym class="stat-variable" title="Values for<br>Cunning 10, 25, 50, 75, 100">10, 12, 16, 20, 24</acronym> nature damage to foes in a radius 1 ball.</p><p></p><p>Using this talent puts your Venomous Strike talent on cooldown.</p>
+Throw a knife coated with venom, doing 120% damage as nature and inflicting additional effects based on your active vile poisons (as per the Venomous Strike talent):
+
+Numbing Poison - Reduces global speed by 12% for 5 turns.
+
+Insidious Poison - Applies a standard poison that deals [17, 21, 27, 33, 39 (CUN 10-100)] nature damage over 5 turns.
+
+Crippling Poison - Places 1 talents on cooldown for 1 turns.
+
+Leeching Poison - Heals you for [16, 20, 27, 33, 39 (CUN 10-100)].
+
+Volatile Poison - Deals a further [10, 12, 16, 20, 24 (CUN 10-100)] nature damage to foes in a radius 1 ball.
+
+Using this talent puts your Venomous Strike talent on cooldown.

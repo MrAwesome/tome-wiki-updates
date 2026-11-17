@@ -1,1 +1,3 @@
-<p>You hit your target, doing <acronym class="talent-variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00">106%, 117%, 126%, 133%, 140%</acronym> damage. If your attack hits, you gain <acronym class="variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00,<br>Cunning 100">17, 22, 26, 29, 32</acronym> armor penetration (APR) for <acronym class="talent-variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00">5, 7, 8, 8, 9</acronym> turns.</p><p>The APR will increase with your Cunning.</p>
+You hit your target, doing [106%, 117%, 126%, 133%, 140% (TL1-5)] damage. If your attack hits, you gain [17, 22, 26, 29, 32 (TL1-5; CUN 100)] armor penetration (APR) for [5, 7, 8, 8, 9 (TL1-5)] turns.
+
+The APR will increase with your Cunning.

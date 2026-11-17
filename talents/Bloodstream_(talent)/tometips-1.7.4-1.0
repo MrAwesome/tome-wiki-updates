@@ -1,1 +1,9 @@
-<p>You "gently" slam your saws into the wounds of a creature, dealing <acronym class="talent-variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00">65%, 80%, 91%, 101%, 110%</acronym> weapon damage and deepening the wounds.</p><p>All bleeding wounds durations are increased by <acronym class="talent-variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00">0, 1, 1, 1, 1</acronym> turns and the damage by <acronym class="variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00,<br>steampower 100">152%, 205%, 246%, 281%, 311%</acronym> (this may be done only once per bleeding effect).</p><p>When this happens a gush of blood is projected in a narrow cone of radius 4, dealing <acronym class="variable" title="Values for<br>talent levels 1-5,<br>talent mastery 1.00,<br>steampower 100">140, 188, 226, 258, 286</acronym> physical damage to all creatures.</p><p>The power and damage improves with your Steampower.</p><p><span style="font-style: italic"><span class="tstr-font-italic">The marvels of technology, now at the service of true butchery!</span></span></p>
+You "gently" slam your saws into the wounds of a creature, dealing [65%, 80%, 91%, 101%, 110% (TL1-5)] weapon damage and deepening the wounds.
+
+All bleeding wounds durations are increased by [0, 1, 1, 1, 1 (TL1-5)] turns and the damage by [152%, 205%, 246%, 281%, 311% (TL1-5; STEAMPOWER 100)] (this may be done only once per bleeding effect).
+
+When this happens a gush of blood is projected in a narrow cone of radius 4, dealing [140, 188, 226, 258, 286 (TL1-5; STEAMPOWER 100)] physical damage to all creatures.
+
+The power and damage improves with your Steampower.
+
+''The marvels of technology, now at the service of true butchery!''
