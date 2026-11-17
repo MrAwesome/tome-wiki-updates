@@ -259,7 +259,7 @@ class WikiTextParser(HTMLParser):
                 match = re.search(r"([.,;:!?]+)$", value)
                 if match:
                     value, punctuation = value[: match.start()], match.group(1)
-                self.append(f"{value} [{context}]{punctuation}")
+                self.append(f"[{value} ({context})]{punctuation}")
         elif tag == "span" and self.emphasis:
             marker = self.emphasis.pop()
             if marker:

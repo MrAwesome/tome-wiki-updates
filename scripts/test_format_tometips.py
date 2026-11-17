@@ -50,7 +50,7 @@ class FormatTometipsTests(unittest.TestCase):
         )
         self.assertEqual(
             format_html(source),
-            "Gain 2%, 3%, 4%, 5%, 6% [TL1-5].\n\n"
+            "Gain [2%, 3%, 4%, 5%, 6% (TL1-5)].\n\n"
             "Options:\n\n* ''First''\n* Second\n",
         )
 
@@ -61,7 +61,7 @@ class FormatTometipsTests(unittest.TestCase):
         )
         self.assertEqual(
             format_html(source),
-            "Gain 2, 3, 4, 5, 6% [TL1-5].\n",
+            "Gain [2, 3, 4, 5, 6% (TL1-5)].\n",
         )
 
     def test_source_path_normalizes_core_and_addon_prefixes(self):
