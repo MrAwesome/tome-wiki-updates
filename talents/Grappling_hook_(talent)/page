@@ -1,7 +1,7 @@
 {{Ability_box
 |image=grappling_hook.png
 |name=Grappling Hook
-|game_version=1.5.2
+|game_version=1.7.6
 |category_type=[[Cunning (category type)|Cunning]]
 |category=[[Tools (category)|Tools]]
 |require={{t|Rogue's Tools}}, {{t|Cunning Tools}}, or {{t|Intricate Tools}}
@@ -11,10 +11,7 @@
 |travel_speed=Instantaneous
 |use_speed=Standard
 |desc=
-Toss out a grappling hook to a target within range {{cTS|4|7}}.  
-If this strikes either a wall or a creature that is immovable or larger than you, you will pull yourself towards it, otherwise, you will drag the target towards you.  
-Creatures struck by the hook will be pinned for 2 turns.
-		
+Toss out a grappling hook to a target within range {{cts|4|7}}.  If this strikes either a wall or a creature that is immovable or larger than you, you will pull yourself towards it, otherwise, you will drag the target towards you.  Creatures struck by the hook will be pinned for 2 turns.
 Your grapple target must be at least 2 tiles from you.
-
+#YELLOW#Prepared with: not prepared#LAST#
 }}

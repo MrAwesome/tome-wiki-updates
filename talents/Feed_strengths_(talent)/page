@@ -1,4 +1,5 @@
 {{Ability box
+|game_version=1.7.6
 |image=Feed strengths.png
 |name=Feed Strengths
 |category_type={{ct|Cursed}}
@@ -6,9 +7,6 @@
 |require={{TalentReq/CursedWilReq4}}
 |use_mode=Passive
 |desc=
-Enhances your feeding by reducing your target's positive resistances and increasing your positive resistances by {{cl|(0.15 * Mindpower + 14 * √ Talent Level)|100%|0|0|40%|40}}.
-
-Resistance to "all" is not affected.
-
+Enhances your feeding by reducing your targeted foe's resistances, multiplying them by {{gtl|1|5}} and increasing your resistances by the amount drained. Resistance to "all" is not affected.
 Improves with your Mindpower.
 }}

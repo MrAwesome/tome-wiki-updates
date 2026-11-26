@@ -1,4 +1,5 @@
 {{Ability box
+|game_version=1.7.6
 |image=Flame_of_urh_rok_2017.png
 |name=Flame of urh'rok
 |category_type={{ct|Corruption}}
@@ -10,7 +11,7 @@
 |desc=
 Call upon the essence of the supreme demon overlord Urh'Rok to turn into a demon.
 
-While in demon form, you gain {{ctspd|20|30%}} fire resistance, {{ctspd|20|35%}} darkness resistance, and your global speed is increased by {{cts|3|15%|0.75}}.
+While in demon form, you gain {{ctspd|20|30}} fire resistance, {{ctspd|20|35}} darkness resistance, and your global speed is increased by {{cts|5|16.5%}}.
 
 The flames of the {{t|Fearscape}} will heal you while in demon form.
 

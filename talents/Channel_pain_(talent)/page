@@ -1,7 +1,7 @@
 {{Ability_box
 |image=channel_pain.png
 |name=Channel Pain
-|game_version=1.7.2
+|game_version=1.7.6
 |category_type={{ct|Psionic}}
 |category={{c|Ravenous Mind}}
 |require={{TalentReq/PsiWilReq2}}
@@ -13,6 +13,6 @@
 |use_speed=-
 |desc=
 As long as you have at least a stack of Sadist whenever you take damage you use {{ctl|5|20|12}} psi to harness your stacks of Sadist to divide the damage by your stacks + 1.
-		Each time this happens a random foe in sight with 80%% or less life left will take a backlash of {{ctl|100|40|80}}% of the absorbed damage as mind damage.
-		This effect can only happen once per turn and only triggers for hits over 10% of your max life.
+Each time this happens a random foe in sight with 80% or less life left will take a backlash of {{ctl|100%|40|80%}} of the absorbed damage as mind damage.
+This effect can only happen once per turn and only triggers for hits over 10% of your max life.
 }}

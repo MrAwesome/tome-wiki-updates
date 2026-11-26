@@ -1,5 +1,5 @@
 {{Ability_box
-|game_version=1.4.3
+|game_version=1.7.6
 |image=Power_core.png
 |name=Power core
 |category_type={{ct|Wild-gift}}
@@ -10,9 +10,7 @@
 |use_mode=Passive
 |desc=
 Your halves learn new talents.
-Crystalline Half: Rain of Spikes - A massive effect that makes all nearby foes bleed.
-
+Crystaline Half: Rain of Spikes - A massive effect that makes all nearby foes bleed.
 Stone Half: Stone Link - A protective shield that will redirect all damage against nearby allies to your Stone Half.
-
-The level of those talents is {{gtl|1|5}}. 
+The level of those talents is {{gtl|1|5}}.
 }}

@@ -7,7 +7,7 @@
 |use_mode=Sustained
 |cooldown=12
 |desc=
-Increases your Accuracy by (0.25 * Raw Dex), the damage multiplier of your striking talents (Pugilism and Finishing Moves) by {{css|Dex|5|35%}}, and reduces all damage taken by {{css|Str|1|30|0.75}} up to a maximum of 35.
+XXX CHECKME XXX Increases your Accuracy by (0.25 * Raw Dex), the damage multiplier of your striking talents (Pugilism and Finishing Moves) by {{css|Dex|25|60%}}, and reduces all damage taken by {{css|Str|1|30|0.75}} up to a maximum of 35.
 
 The offensive bonuses scale with your Dexterity and the damage reduction with your Strength.
 }}

@@ -6,7 +6,7 @@
 |require={{TalentReq/SpellsReq2}}
 |use_mode=Passive
 |desc=
-Grants (20 * Raw Talent Level)% protection to you and your golem against the damage of your {{t|Throw Bomb}} and {{t|Shockwave Bomb}}, and against external elemental damage (fire, cold, lightning and acid) by (3 * Raw Talent Level)%.
+XXX CHECKME XXX Grants (20 * Raw Talent Level)% protection to you and your golem against the damage of your {{t|Throw Bomb}} and {{t|Shockwave Bomb}}, and against external elemental damage (fire, cold, lightning and acid) by 4–17%, based on talent level.
 
 Other friendly creatures are also protected against your {{t|Throw Bomb}}, but not against {{t|Shockwave Bomb}}.
 

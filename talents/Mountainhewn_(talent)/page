@@ -1,5 +1,5 @@
 {{Ability_box
-|game_version=1.4.9
+|game_version=1.7.6
 |image=Mountainhewn.png
 |name=Mountainhewn
 |category_type={{ct|Spell}}
@@ -7,7 +7,7 @@
 |require={{TalentReq/SpellsReqHigh4}}
 |use_mode=Passive
 |desc=
-While in deeprock form, you become indomitable, granting you {{ctl|1|0.27|0.55}} resistance to cuts, poisons, diseases and stuns.
+While in deeprock form, you become indomitable, granting you {{ctl|100%|27|55%}} resistance to cuts, poisons, diseases and stuns.
 
 At level 5 and higher, while Deeprock Form is active, all incoming damage is applied against physical resistance instead of the normal resistance type.
 }}

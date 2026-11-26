@@ -9,7 +9,6 @@
 |cooldown={{ctl|5|45|25}}
 |use_speed=0
 |desc=
-As the only immortal race of Eyal, the Shaloren have learnt, over the long years, to use their innate inner magic to protect themselves.
-
-You gain {{ctl|100%|20|45%}} chance to become invisible with power of {{css|Mag|7|25}} for 5 turns, when hit by a blow doing at least 10% of your total life.
+As the only immortal race of Eyal, Shaloren have learnt over the long years to use their innate inner magic to protect themselves.
+{{ctl|100%|20|45%|false|1}} chance to become invisible (power {{css|Mag|7|25}}) for 5 turns when hit by a blow doing at least 10% of your total life.
 }}

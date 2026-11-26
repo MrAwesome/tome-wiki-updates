@@ -8,9 +8,9 @@
 |range={{cts|4|8}}
 |cooldown=12
 |desc=
-Open a gateway to the Fearscape, stepping through it to a nearby location. As you step out, a burst of fire will leave with you, dealing 47.63-107.79 demonfire damage to everyone within {{cts|2|5}} spaces and leaving flames that will deal an additional 47.63-107.79 demonfire damage over 4 turns.
+XXX CHECKME XXX Open a gateway to the Fearscape, stepping through it to a nearby location. As you step out, a burst of fire will leave with you, dealing {{ctspd|20|230}} demonfire damage to everyone within {{cts|1|5}} spaces and leaving flames that will deal an additional {{ctspd|20|230}} demonfire damage over 4 turns.
 
-Additionally shifting through reality enhances your awareness, allowing you to see all enemies with {{cts|8|10}} spaces for the next 3 turns.
+Additionally shifting through reality enhances your awareness, allowing you to see all enemies within {{cts|8|10}} spaces for the next 3 turns.
 
 The damage will scale with your spellpower and the range will increase with the talent level.
 |avail.classes=[[Doombringer]]

@@ -8,9 +8,9 @@
 |cooldown=10
 |range=5
 |desc=
-Summon a Spider to harass your foes. Spiders can poison your foes and throw webs to pin them to the ground.
+XXX CHECKME XXX Summon a Spider to harass your foes. Spiders can poison your foes and throw webs to pin them to the ground.
 
-The Spider will last for a duration of {{cs|(Talent Level)|5|0|10|5}}.
+The Spider will last for a duration of {{cs|(Talent Level)|5|0|10|5}}, increased by any duration bonus from Resilience.
 
 It will receive the following stats:
 *Strength: 10 + {{cts|2|10|0.75}}

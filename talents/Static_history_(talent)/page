@@ -8,6 +8,6 @@
 |cost=0 Paradox
 |cooldown=24
 |desc=
-For the next {{cts|2|8|PM}} turns you may not create minor anomalies.  You do not regain Paradox or lose the spell you're casting if a random anomaly would normally occur.
+For the next {{cts|2|8|PM}} turns, modified by your current Paradox and by Extension when this talent is selected, you may not create minor anomalies.  You do not regain Paradox or lose the spell you're casting if a random anomaly would normally occur.
 This spell has no effect on major anomalies.
 }}

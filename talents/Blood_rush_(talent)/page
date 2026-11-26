@@ -10,8 +10,8 @@
 |range = 8
 |cooldown = 12
 |use_speed = Mind
-|desc = 
-Teleport to an enemy, striking them for 100% weapon damage, bleeding them for {{ctwd|70|210}}% weapon damage over five turns, and marking them for six turns. You will not teleport if you are already adjacent.
+|desc =
+Teleport to an enemy, striking them for 100% weapon damage, bleeding them for {{ctwd|70|210%}} weapon damage over five turns, and marking them for six turns. You will not teleport if you are already adjacent.
 
 When the marked enemy dies, the cooldown of this talent will be reduced by two turns for every turn the mark had remaining.
 

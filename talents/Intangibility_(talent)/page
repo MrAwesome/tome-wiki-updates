@@ -1,5 +1,5 @@
 {{Ability_box
-|game_version = 1.7.4
+|game_version = 1.7.6
 |name = Intangibility
 |image = intangibility.png
 |category_type={{ct|Spell}}
@@ -7,5 +7,5 @@
 |require = {{TalentReq/SpellsReq3}}
 |use_mode = Passive
 |desc = 
-While in your spectral form from {{t|Ghost Walk}} and for {{cts|2.5|4}} turns afterwards, damage and detrimental effects have a {{ctl|45%|12|27%}} chance to harmlessly pass through you.
+While in your spectral form from {{t|Ghost Walk}} and for {{cts|2|4}} turns afterwards, damage and detrimental effects have a {{ctl|45%|12|27%}} chance to harmlessly pass through you.
 }}

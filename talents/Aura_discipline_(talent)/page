@@ -1,1 +1,4 @@
-{{Ability_box|image=Aura discipline.png|name=Aura discipline|category_type=[[Psionic (category type)|Psionic]]|category=[[Mental discipline (category)|Mental discipline]]|desc=Your expertise in the art of energy projection grows. Aura cooldowns are all reduced by X turns. Aura damage drains energy more slowly (+X damage required to lose a point of energy).}}
+{{Ability_box|game_version=1.7.6|image=Aura discipline.png|name=Aura discipline|category_type=[[Psionic (category type)|Psionic]]|category=[[Mental discipline (category)|Mental discipline]]|desc=
+Your expertise in the art of energy projection grows.
+Aura cooldowns are all reduced by {{ctl|8|2|6}} turns. Aura damage drains energy more slowly (+{{cts|2.5|10|0.75}} damage required to lose a point of energy).
+}}

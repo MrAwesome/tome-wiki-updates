@@ -7,7 +7,7 @@
 |use_mode=Passive
 |range=3 * √ Talent Level
 |desc=
-Heighten the fears of everyone around you. Any foe you inflict at least one fear upon and who remains within a range of (3 * √ Talent Level) and in sight of you for 5 (non-consecutive) turns, will gain a new fear that lasts for 8 turns. The target can save versus Mindpower to resist the effect, and each added fear reduces the chances of another by 10%. 
+XXX CHECKME XXX Heighten the fears of everyone around you. Any foe you attempt to inflict a fear upon and who remains in a radius of 8 and in sight of you for 4 (non-consecutive) turns, will take ({{ctmd|5|50}} / 2) {{mind}} and ({{ctmd|5|50}} / 2) {{darkness}} damage and gain a new fear that lasts for 8 turns. This effect completely ignores fear resistance, but can be saved against.
 
 You gain 2 new fears:
 

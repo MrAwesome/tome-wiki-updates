@@ -6,5 +6,6 @@
 |range=10
 |cooldown=3
 |image=Throw boulder.png
-|desc=Throws a huge boulder at a target, damaging it for 146.16 and knocking it back 6 tiles. The damage will increase with your Strength.
+|desc=
+XXX CHECKME XXX Throws a huge boulder at a target, dealing physical damage that scales with Strength and talent level and can be increased by a mind critical hit. Targets within radius 1 are knocked back 4–8 tiles.
 }}

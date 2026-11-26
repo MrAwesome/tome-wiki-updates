@@ -7,5 +7,6 @@
 |require={{TalentReq/RacialReq3}}
 |use_mode=Passive
 |desc=
-The parasite corruption seeps into your body, strengthening it. Increases blight, darkness, temporal and acid resistances by {{cTL|50|14|40%}} but decreases nature and light resistances by ({{cTL|50|14|40%}})/3.
+The parasite corruption seeps into your body, strengthening it.
+Increases blight, darkness, temporal and acid resistances by {{ctl|50%|14|40%}} but decreases nature and light resistances by {{ctl|16.66666667%|4.666666667|13.33333333%}}.
 }}

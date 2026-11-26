@@ -7,6 +7,8 @@
 |cooldown=15
 |cost=15 Stamina
 |range=Trap Range
-|desc= Lay a pressure triggered trap that explodes in a radius 2 cloud of searing flames when triggered, stunning foes with the blast (%0.2f fire damage per turn) for 3 turns.
-		The deflagration persists in the area for 5 turns, burning foes for %0.2f fire damage each turn.
-		This trap can use a primed trigger and a high level lure can trigger it.}}
+|desc=
+Lay a pressure-triggered trap that explodes in a radius 2 cloud of searing flames, stunning foes for 3 turns and dealing fire damage based on your trap effectiveness.
+		The flames persist in the area for 5 turns, burning foes for fire damage each turn based on your trap effectiveness.
+		This trap can use a primed trigger and a high level lure can trigger it.
+}}

@@ -10,8 +10,8 @@
 |range = 1
 |cooldown = 8 (Fixed)
 |use_speed = Mind
-|desc = 
-Cut into an enemy and twist the blade, dealing {{ctwd|80|200}}% damage and increasing the intensity of their existing bleed effects by {{cts|140|280}}%.
+|desc =
+Cut into an enemy and twist the blade, dealing {{ctwd|80|200%}} damage and increasing the intensity of their existing bleed effects by {{cts|139|279%}}.
 
 Each point in Bloodstained talents reduces the amount of damage you take from bleed effects by 2%
 }}

@@ -3,4 +3,6 @@
 |category_type=[[NPC Only (category type)|NPC Only]]
 |category=-
 |image=Will o the wisp.png
+|desc=
+XXX CHECKME XXX Explode against one target for cold damage based on the will-o'-the-wisp's current damage value, or 1 if no value is set; the wisp then dies.
 }}

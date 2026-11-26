@@ -1,11 +1,1 @@
-{{Ability_box
-|name=Bunny Hop
-|image=Ancestral_life.png
-|category_type={{ct|Other}}
-|category={{c|Other}}
-|game_version=1.7.2
-|range=7
-|cooldown=15
-|use_speed=Global Speed
-|desc=Hop around to a random spot up to 7 tiles away. Hopping around is good for you, healing you for (50 + character level * 7) life.
-}}
+DELETE

@@ -14,5 +14,5 @@
 
 If they encounter a creature they will latch on it and bore into its skull for 6 turns, disrupting its thoughts.
 
-Disrupted creatures have {{CTL|50|19|35%}} chances to fail to use talents and suffer a -{{CTL|70|25|65%}} reduction to fear and sleep immunity.
+Disrupted creatures have {{ctl|50%|19|35%}} chances to fail to use talents and suffer a -{{ctl|70%|25|65%}} reduction to fear and sleep immunity.
 }}

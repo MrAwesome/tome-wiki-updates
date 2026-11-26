@@ -12,9 +12,9 @@
 |use_speed = Steamtech
 |desc = You repurpose your steam engine to emit a cloud of toxic, corrosive chemicals around you.
 
-Each time you use a non-instant steamtech talent, you create a radius 3 cloud of miasma for 5 turns. All enemies within the miasma have {{ctl|100|30|75%}} reduced healing and {{ctl|10|3|7%}} chance to fail talent usage.
+Each time you use a non-instant steamtech talent, you create a radius 3 cloud of miasma for 5 turns. All enemies within the miasma have {{ctl|100%|30|75%}} reduced healing and {{ctl|10%|3|7%}} chance to fail talent usage.
 
-Each time miasma is reapplied the failure chance increases, up to {{ctl|50|15|35%}} after 5 reapplications.
+Each time miasma is reapplied the failure chance increases, up to {{ctl|50%|15|35%}} after 5 reapplications.
 
 The first time each turn a target affected by miasma is hit by a melee or ranged attack the miasma seeps into their wounds, dealing an additional {{ctstmd|10|150}} {{acid}} damage.
 

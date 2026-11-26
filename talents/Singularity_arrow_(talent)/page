@@ -1,5 +1,5 @@
 {{Ability box
-|game_version=1.4.5
+|game_version=1.7.6
 |image=Singularity arrow.png
 |name=Singularity Arrow 
 |category_type={{ct|Chronomancy}}
@@ -10,11 +10,8 @@
 |range=archery range
 |use_speed=Weapon Speed
 |desc=
-Fire an arrow for {{ctwd|100|150%}} weapon damage.  When the arrow reaches its destination or hits a target it will draw in all other targets in a radius of {{cts|2.3|3.3}} and inflict {{ctspd|25|230|PM}} physical damage.
-
-Each target moved beyond the first increases the damage {{ctspd|25|230|PM}}/8 (up to {{ctspd|25|230|PM}}/2 bonus damage).
-
+Fire an arrow for {{ctwd|100|150%}} weapon damage. When the arrow reaches its destination or hits a target it will draw in all other targets in a radius of {{cts|2|3}} and inflict {{ctspd|25|230|PM}} physical damage.
+Each target moved beyond the first increases the damage {{ctspd|3.125|28.75|PM}} (up to {{ctspd|12.5|115|PM}} bonus damage).
 Targets take reduced damage the further they are from the epicenter (20% less per tile).
-
 The additional damage scales with your Spellpower.
 }}

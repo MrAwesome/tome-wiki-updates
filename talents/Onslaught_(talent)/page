@@ -1,4 +1,5 @@
 {{Ability_box
+|game_version=1.7.6
 |image=Onslaught_2017.png
 |name=Onslaught
 |category_type=[[Technique (category type)|Technique]]
@@ -8,7 +9,6 @@
 |cost=50 Stamina
 |cooldown=20
 |desc=
-Take an offensive stance. As you walk through your foes, you knock them all back in an frontal arc (up to {{CTL|10|1|5}} grids).
-
+Take an offensive stance. As you attack your foes, you knock your target and foes adjacent to them in a frontal arc back (up to {{ctl|10|1|5}} grids).
 This consumes stamina rapidly (-1 stamina/turn).
 }}

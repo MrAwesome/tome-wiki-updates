@@ -7,9 +7,8 @@
 |category={{c|Psionic fog}}
 |require={{TalentReq/PsiWilReq2}}
 |use_mode=Passive
-|desc=When you deactivate Vaporous Step, if the psychoport succeeds you inhale some of the vapours, regenerating {{CTS|10|70}} / 2 steam and (40 + {{CTMD|10|520}}) / 2 life.
-
+|desc=
+When you deactivate Vaporous Step, if the psychoport succeeds you inhale some of the vapours, regenerating {{cts|5|35}} steam and {{ctmd|45|300}} life.
 The effects will be multiplied by 33% (diminutive) for each charge of Vaporous Step.
-
 The healing done will increase with your Mindpower.
 }}

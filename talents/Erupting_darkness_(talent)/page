@@ -1,4 +1,6 @@
 {{Ability box
+|ashes_version=1.1.4
+|game_version=1.7.6
 |image=Erupting_darkness.png
 |name=Erupting Darkness
 |category_type={{ct|Corruption}}
@@ -9,11 +11,8 @@
 |cooldown=15
 |speed=instant
 |desc=
-When Dread End creates pools of darkness, you can focus your raging thoughts on them to make them erupt into volcanos.
-
-Up to {{CTS|1|3}} pools in radius 7 will erupt,  producing a volcano for 5 turns.
-
-Each turn, the volcano will send out fiery boulders that deal {{ctspd|15|80}} fire and {{ctspd|15|80}} physical damage.
-
+When Dread End creates pools of darkness you can focus your raging thoughts on them to make them erupt into volcanos.
+Up to {{cts|1|3}} pools in radius 7 will erupt, producing a volcano for 5 turns.
+Each turn the volcano will send out fiery boulders that deal {{ctspd|7.5|40}} fire and {{ctspd|7.5|40}} physical damage.
 The effects will improve with your Spellpower.
 }}

@@ -7,5 +7,5 @@
 |require={{t|Master Artificer}} and {{t|Smokescreen}}
 |use_mode=Passive
 |desc=
-You infuse your smoke bomb with chokedust. Each turn, enemies in the smoke take 30+{{ctstd|Cun|10|150}} nature damage and are 50% likely to be silenced.
+XXX CHECKME XXX You infuse your smoke bomb with chokedust. Each turn, enemies in the smoke take 30+{{ctstd|Cun|10|150}} nature damage and are 50% likely to be silenced. The damage scales with your Cunning and Master Artificer level.
 }}

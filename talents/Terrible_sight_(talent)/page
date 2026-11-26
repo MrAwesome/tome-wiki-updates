@@ -9,7 +9,9 @@
 |cost= -10 insanity
 |cooldown=20
 |range=floor({{cts|3|6}})
-|desc= <br>
-* Active: While within range 3 of your worm that walk you can project an aura of terror. At the sight of two maddening horrors fighting together, all your foes in radius floor({{cts|3|6}}) must make a physical save against your spellpower or be stunned for floor({{ctl|10|2|8}}) turns
-* Passive: Additionally your Shared Insanity effect will cause enemies in radius 3 to lose floor({{ctspd|15|55}}) spell save and floor({{ctspd|15|55}}) defense for 3 turns.]])
+|desc=
+While within range 3 of your Worm that Walks you can project an aura of terror.
+At the sight of two maddening horrors fighting together all your foes in radius {{cts|3|6}} must make a physical save against your spellpower or be stunned for {{ctl|10|2|8}} turns.
+
+Additionally your Shared Insanity effect will cause enemies in radius 3 to lose {{ctspd|15|55}} spell save and {{ctspd|15|55}} defense for 3 turns.
 }}

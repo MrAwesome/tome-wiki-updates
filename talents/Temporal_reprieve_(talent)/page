@@ -7,7 +7,8 @@
 |require={{TalentReq/ChronoReq3}}
 |cost=40 Paradox
 |cooldown=40 (Fixed)
-|desc=Transport yourself to a safe place for {{cts|2|6}} turns.
- 
+|desc=
+Transport yourself to a safe place for {{cts|2|6}} turns. Actual duration also depends on your current Paradox and whether Extension is set to affect this talent.
+
 ''Note: {{t|Contingency}} can not be used for this talent because of the fixed cooldown.''
 }}

@@ -3,7 +3,7 @@
 |image = Sanity_warp.png
 |category_type = {{ct|Demented}}
 |category = {{c|Madness}}
-|game_version = 1.7.4
+|game_version = 1.7.6
 |forbidden_version = 1.0.12
 |require = {{TalentReq/DementedReq3}}
 |use_mode = Passive

@@ -1,4 +1,5 @@
 {{Ability box
+|game_version=1.7.6
 |image=Blurred mortality.png
 |name=Blurred Mortality
 |category_type={{ct|Spell}}
@@ -8,6 +9,8 @@
 |cost=30 Mana
 |cooldown=30
 |desc=
-The line between life and death blurs for you; you can only die when your life reaches negative (50 * Raw Talent Level + {{ctl|100%|1|5%}} * Max Life).
-
+The line between life and death blurs for you.
+You can only die when you reach -{{ctstd|Con|30|1000}} life but your maximum life is reduced by 0.5.
+When you are below 1 life you gain {{cts|6|12%}} to all resistances.
+The life amount is based on your Constitution attribute.
 }}

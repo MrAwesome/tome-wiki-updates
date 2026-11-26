@@ -1,4 +1,5 @@
 {{Ability_box
+|game_version=1.7.6
 |image=Earthquake_2017.png
 |name=Earthquake
 |category_type={{ct|Spell}}
@@ -8,7 +9,7 @@
 |cooldown=30
 |range=10
 |desc=
-Causes a violent earthquake that deals {{ctspd|15|80}} physical damage in a radius of {{cts|2.5|4.5}} each turn for {{cts|4|8}} turns, and potentially stuns any and all creatures it affects.
+Causes a violent earthquake that deals {{ctspd|15|80}} physical damage in a radius of {{cts|2|4}} each turn for {{cts|4|8}} turns, and potentially stuns any and all creatures it affects.
 
 The damage will increase with your Spellpower.
 }}

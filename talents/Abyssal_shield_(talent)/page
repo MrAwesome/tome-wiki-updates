@@ -9,13 +9,9 @@
 |range=1
 |use_speed=Instant
 |desc=
-Surround yourself with a defensive aura, increasing armor by {{cts|4|19}} and inflicting 4.05-8.38 fire damage and 4.05-8.38 
+XXX CHECKME XXX Surround yourself with a defensive aura, increasing armor by {{cts|3|15}} and inflicting {{ctspd|5|30}} fire damage and {{ctspd|5|30}} blight damage to all attacking foes.
 
-blight damage to all attacking foes.
-
-Additionally your vim will enhance your defenses, reducing all damage by {{cts|6|32}}% of your current vim, but never more than 
-
-half of the original damage. This will cost vim equal to 5% of the damage blocked.
+Additionally your vim will enhance your defenses, reducing all damage by {{cts|4|25}}% of your current vim, but never more than half of the original damage. This will cost vim equal to 5% of the damage blocked.
 
 The damage will scale with your spell power.
 }}

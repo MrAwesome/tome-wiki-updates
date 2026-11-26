@@ -1,7 +1,7 @@
 {{Ability box
 |image=Cyst burst.png
 |name=Cyst Burst
-|game_version=1.7.4
+|game_version=1.7.6
 |category_type={{ct|Corruption}}
 |category={{c|Plague}}
 |require={{TalentReq/CorrsReq2}}
@@ -13,7 +13,7 @@
 |desc=
 Make your target's diseases burst, doing {{ctspd|15|115}} blight damage for each disease it is infected with.
 
-This will also spread any diseases to any nearby foes in a radius of {{cts|1.5|3.5}} with a minimum duration of 6.
+This will also spread any diseases to any nearby foes in a radius of {{cts|1|3}} with a minimum duration of 6.
 
 The damage will increase with your Spellpower.
 }}

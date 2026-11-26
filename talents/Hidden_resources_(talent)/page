@@ -1,5 +1,5 @@
 {{Ability box
-|game_version=1.5.10
+|game_version=1.7.6
 |image=Hidden resources.png
 |name=Hidden Resources
 |category_type=[[Prodigies]]
@@ -9,10 +9,5 @@
 |use_speed=0
 |desc=
 You focus your mind on the task at hand, regardless of how dire the situation is.
-
 For 5 turns, none of your talents use any resources.
-
-Unlike {{t|Highborn's Bloom}}, you will be able to activate a talent even if you do not have enough resources to initially power it.
-
-You will also be immune to talent failure from high equilibrium or paradox, being confused or terrified, or the effects of {{t|Slippery Moss}} and {{t|Crippling Poison}}.
 }}

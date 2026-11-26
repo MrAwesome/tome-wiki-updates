@@ -8,11 +8,11 @@
 |cost=20 Psi
 |cooldown=30
 |desc=
-For {{ctl|30|5|10}} turns your electrokinesis transcends your normal limits, increasing your Lightning damage by {{ctmd|10|30%}} and your Lightning resistance penetration by {{cl|{{ctmd|10|20}}|100%|4.2|4.2|13.4%|13.4}}.
+XXX CHECKME XXX For 5 turns your electrokinesis transcends your normal limits, increasing your Lightning damage by {{ctmd|10|30%}} and your Lightning resistance penetration by {{cl|{{ctmd|10|20}}|100%|4.2|4.2|13.4%|13.4}}.
 
 In addition:
 
-The cooldowns of {{t|Charged Shield}}, {{t|Charge Leech}}, {{t|Charged Aura}} and {{t|Brain Storm}} are reset.
+The cooldowns of {{t|Charged Shield}}, {{t|Charge Leech}}, {{t|Charged Aura}}, {{t|Brain Storm}}, and {{t|Charged Strike}} are reset.
 
 {{t|Charged Aura}} will either increase in radius to 2, or apply its damage bonus to all of your weapons, whichever is applicable.
 

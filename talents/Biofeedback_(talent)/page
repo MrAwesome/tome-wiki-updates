@@ -6,7 +6,7 @@
 |require={{TalentReq/PsiWilReq1}}
 |use_mode=Passive
 |desc=
-The decay rate of your Feedback is reduced to {{ctl|10%|90|50%}} of the normal rate.
+XXX CHECKME XXX The decay rate of your Feedback is reduced to {{ctl|10%|85|50%}} of the normal rate.
 
 Each point of Feedback you lose through decay also heals you for {{cs|(Wil * Talent Level)|0|0|2.5|500|0.75}}.
 

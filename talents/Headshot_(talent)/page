@@ -1,7 +1,7 @@
 {{Ability box
 |image=headshot.png
 |name=Headshot
-|game_version=1.5.2
+|game_version=1.7.6
 |category_type={{ct|Technique}}
 |category={{c|Archery Prowess}}
 |require={{TalentReq/TechsDexReq1}}
@@ -10,7 +10,6 @@
 |travel_speed=Instantaneous
 |use_speed=Archery
 |desc=
-Fire a precise shot dealing {{cTWD|110|230%}} weapon damage, with increased armor penetration (based on Dex) and 100 increased accuracy. This shot will bypass other enemies between you and your target.<br>
-Only usable against marked targets, and consumes the mark on it.<br>
-The armor penetration increases with your Dexterity.
+Fire a precise shot dealing {{ctwd|110|230%}} weapon damage, with 100 increased accuracy. This shot will bypass other enemies between you and your target.
+Only usable against marked targets, and consumes the mark on hit.
 }}

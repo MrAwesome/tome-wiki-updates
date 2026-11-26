@@ -10,7 +10,7 @@
 |range=melee/personal
 |use_speed=Weapon Speed
 |desc=
-Attack with your melee weapons for {{ctwd|110|190%}} weapon damage as physical and temporal (warp) damage. If either attack hits you may stun, blind, pin, or confuse the target for {{cts|3|7}} turns.
-		
+XXX CHECKME XXX Attack with your melee weapons for {{ctwd|110|190%}} weapon damage as physical and temporal (warp) damage. If either attack hits you may stun, blind, pin, or confuse the target for {{cts|3|7}} turns; duration is modified by paradox and by Extension when it applies to this talent.
+
 {{c|Blade Threading}} talents will freely swap to your dual-weapons when activated if you have them in your secondary slots.  Additionally you may use the Attack talent in a similar manner.
 }}

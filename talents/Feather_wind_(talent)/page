@@ -8,7 +8,9 @@
 |cost=10 Mana
 |cooldown=10
 |desc=
-A gentle wind circles around the caster, increasing carrying capacity by {{ctspd|10|110}} and increasing defense against projectiles by {{ctspd|4|30}}.
+XXX CHECKME XXX A gentle wind circles around the caster, increasing carrying capacity by {{ctspd|10|110}} and increasing defense against projectiles by {{ctspd|4|30}}.
+
+It also increases pin and stun immunity with talent level.
 
 At level 4 it also makes you levitate slightly above the ground, allowing you to ignore some traps.
 

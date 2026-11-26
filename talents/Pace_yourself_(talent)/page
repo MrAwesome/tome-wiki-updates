@@ -8,5 +8,5 @@
 |cooldown=10
 |use_speed=Instant
 |desc=
-Control your movements to conserve your energy.  While this talent is activated, you are globally slowed by {{ctl|0%|15|5%}}, and your fatigue is decreased by {{cts|10|30%}} (to a minimum of 0%).
+XXX CHECKME XXX Control your movements to conserve your energy. While this talent is activated, you are globally slowed by {{ctl|0%|15|5%}} and gain flat damage reduction that scales with your defense and talent level.
 }}

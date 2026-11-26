@@ -6,5 +6,5 @@
 |require={{TalentReq/CursedCunReq2}}
 |use_mode=Passive
 |desc=
-Enhance your Gesture of Pain with a malicious curse that causes any victim that is struck to have all resistances lowered by (-6 + √ Talent Level)% for 5 turns.
+XXX CHECKME XXX Enhance your Gesture of Pain with a malicious curse that causes any victim that is struck to have all resistances lowered by 6% at Talent Level 1, rising to 20% at Talent Level 5 and capped at 30%, for 5 turns.
 }}

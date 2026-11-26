@@ -1,5 +1,5 @@
 {{Ability box
-|game_version=1.7.3
+|game_version=1.7.6
 |image=Wing buffet.png
 |name=Wing Buffet
 |category_type={{ct|Wild-Gift}}
@@ -10,11 +10,9 @@
 |cooldown=10
 |range=0
 |desc=
-You summon a powerful gust of wind, knocking back your foes within a radius of 3 up to 3 tiles away and damaging them for {{ctwd|140|178}}% weapon damage.
-
+You summon a powerful gust of wind, knocking back your foes within a radius of 3 up to 3 tiles away and hitting them for {{ctwd|110|170%}} weapon damage.
 Every level in Wing Buffet additionally raises your Physical Power and Accuracy by 2, passively.
-
 Each point in fire drake talents also increases your fire resistance by 1%.
 
-NB: Wing Buffet will do physical damage regardless of weapon damage type.
+This talent will also attack with your shield, if you have one equipped.
 }}

@@ -1,17 +1,15 @@
 {{Ability_box
-|game_version = 1.7.4
+|game_version = 1.7.6
 |name = Frigid Plunge
 |image = frigid plunge.png
 |category_type={{ct|Spell}}
 |category={{c|Rime Wraith}}
 |require = {{TalentReq/SpellsReqHigh2}}
 |use_mode = Passive
-|desc = 
+|desc =
 When switching targets your {{t|Rime Wraith}} now always prefers the one farther away if possible.
-
 Any creatures on the path of the wraith while it travels are affected:
-* if friendly: they are healed for {{ctspd|10|50}}
-* if hostile: they take {{ctspd|15|100}} cold damage, because the wraith is inside the creature the damage fully ignores any damage shield
-
+*if friendly: they are healed for {{ctspd|10|50}}
+*if hostile: they take {{ctspd|15|100}} cold damage, because the wraith is inside the creature the damage fully ignores any damage shield
 The damage and healing will increase with your Spellpower.
 }}

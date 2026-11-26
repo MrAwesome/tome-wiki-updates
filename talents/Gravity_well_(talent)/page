@@ -9,7 +9,6 @@
 |cooldown=12
 |range=6
 |desc=
-Increases local gravity in a radius of 4 for {{cTS|4|8}} turns, dealing  {{ctspd|10|60|PM}} physical (gravity) damage as well as decreasing the global speed of all affected targets by ({{ctl|50|10|30|PM}})%.
+XXX CHECKME XXX Increases local gravity in a radius of 4 for {{cTS|4|8}} turns, with duration modified by your Paradox and Extension Spellbinding if active, dealing {{ctspd|10|60|PM}} physical (gravity) damage as well as decreasing the global speed of all affected targets by ({{ctl|50|10|30|PM}})%.
 The damage done will scale with your Spellpower.
-
 }}

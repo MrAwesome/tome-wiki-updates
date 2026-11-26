@@ -1,4 +1,5 @@
 {{Ability box
+|game_version=1.7.6
 |image=Ice wall.png
 |name=Ice Wall
 |category_type={{ct|Wild-Gift}}
@@ -8,7 +9,7 @@
 |cooldown=30
 |range=10
 |desc=
-Summons an icy wall of (3 + Talent Level) length for {{cts|5|9}} turns. Ice walls are transparent.
-
+Summons an icy wall of {{gtl|1|5}} length for {{cts|4|8}} turns. Ice walls are transparent, but block projectiles and enemies.
+Ice walls also emit freezing cold, dealing {{ctmd|3|15}} damage for each ice wall within radius {{cts|1|2}} of an enemy, and with each wall giving a 25% chance to freeze an enemy. This cold cannot hurt the talent user or their allies.
 Each point in cold drake talents also increases your cold resistance by 1%.
 }}

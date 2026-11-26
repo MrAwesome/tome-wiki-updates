@@ -1,15 +1,1 @@
-{{Ability box
-|game_version=1.5.10
-|image=Higher_heal_2017.png
-|name=Gift of the Highborn
-|category_type={{ct|Race}}
-|category={{c|Higher}}
-|require={{TalentReq/RacialReq1}}
-|cooldown={{ctl|10|45|25}}
-|use_speed=0
-|desc=
-Call upon the gift of the highborn to regenerate your body for (5 + Wil / 2) life every turn and increase healing mod by {{ctl|50|10|30}} for 10 turns.
-
-''Note: This talent will not work if you have an existing regeneration effect.''
-}}This talent concept was swapped with {{t|Wrath of the Woods}} on [[Thalore]]. Thalore got {{t|Gift of the Woods}}, while [[Higher]] got {{t|Wrath of the Highborn}}.
-[[Category: Removed Talents]]
+DELETE

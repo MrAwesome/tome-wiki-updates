@@ -3,15 +3,14 @@
 |image = Terminus.png
 |category_type = {{ct|Demented}}
 |category = {{c|Chronophage}}
-|game_version = 1.7.4
+|game_version = 1.7.6
 |forbidden_version = 1.0.12
 |require = {{TalentReq/DementedReqHigh4}}
 |range = 0
 |cost = 10 Insanity
 |cooldown = 15
 |use_speed = Spell
-|desc = 
-Shatter the spacetime continuum around yourself, inflicting {{ctspd|20|180}} temporal damage to all targets within radius 10. Any {{t|atrophy}} stacks will be consumed to steal time from your victims, inflicting an additional 1/6 of temporal damage and granting you ({{cts|15|70}} / 10)% of a turn per stack (but no more than 3 turns).
-
+|desc =
+Shatter the spacetime continuum around yourself, inflicting {{ctspd|20|180}} temporal damage to all targets within radius 10. Any {{t|atrophy}} stacks will be consumed to steal time from your victims, inflicting an additional {{ctspd|3.333333333|30}} temporal damage and granting you {{cts|1.5|7%}} of a turn per stack (but no more than 3 turns).
 The damage will scale with your Spellpower.
 }}

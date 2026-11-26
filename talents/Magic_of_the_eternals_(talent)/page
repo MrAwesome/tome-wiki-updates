@@ -7,7 +7,6 @@
 |require={{TalentReq/RacialReq2}}
 |use_mode=Passive
 |desc=
-Reality bends slightly in the presence of a Shaloren, due to their inherent magical nature.
-
+Reality bends slightly in the presence of a Shaloren due to their inherent magical nature.
 Increases critical chance by {{cts|3|10%|0.75}} and critical strike power by {{cts|5|20%|0.75}}.
 }}

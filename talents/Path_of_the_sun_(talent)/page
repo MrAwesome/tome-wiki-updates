@@ -1,4 +1,5 @@
 {{Ability_box
+|game_version=1.7.6
 |image=path_of_the_sun.png
 |name=Path of the sun
 |category_type=[[Celestial (category type)|Celestial]]
@@ -9,9 +10,7 @@
 |cost=-20 Positive
 |cooldown=15
 |desc=
-A path of sunlight appears in front of you for 5 turns. All foes standing inside take (0.2 * {{ctspd|10|310}}) Light damage per turn.
-
+A path of sunlight appears in front of you for 5 turns. All foes standing inside take {{ctspd|2|62}} Light damage per turn.
 While standing in the path, your movement takes no time and can not trigger traps.
-
 The damage done will increase with your Spellpower.
 }}

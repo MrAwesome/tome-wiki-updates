@@ -6,11 +6,13 @@
 |require={{TalentReq/DiviReq2}}
 |use_mode=Passive
 |desc=
-The light of your Radiance allows you to see that which would normally be unseen.
+XXX CHECKME XXX The light of your Radiance allows you to see that which would normally be unseen.
 
 All enemies in your Radiance aura have their invisibility and stealth power reduced by (15 + {{ctspd|1|100}}).
 
 In addition, all actors affected by illumination are easier to see and therefore hit; their defense is reduced by (5 + {{ctspd|1|35}}) and all evasion bonuses from being unseen are negated.
+
+Your light damage is increased by {{cts|2.5|10}}%, and your strikes ignore {{ctl|60%|17|50%}} of targets' light resistance.
 
 The effects increase with your Spellpower.
 }}

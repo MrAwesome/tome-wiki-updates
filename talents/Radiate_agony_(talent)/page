@@ -1,7 +1,7 @@
 {{Ability_box
 |image=radiate_agony.png
 |name=Radiate Agony
-|game_version=1.7.2
+|game_version=1.7.6
 |category_type={{ct|Psionic}}
 |category={{c|Ravenous Mind}}
 |require={{TalentReq/PsiWilReq3}}
@@ -13,5 +13,5 @@
 |use_speed=-
 |desc=
 As long as you have at least a stack of Sadist you can radiate agony to all those you see in radius {{ctl|7|1|5}} with 80% or lower life left.
-		For 5 turns their mind will be so focused on their own pain that they will deal {{ctl|60|15|35}}% less damage to you.
+For 5 turns their mind will be so focused on their own pain that they will deal {{ctl|60%|15|35%}} less damage to you.
 }}

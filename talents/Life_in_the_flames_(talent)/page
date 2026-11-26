@@ -8,9 +8,7 @@
 |require={{TalentReq/SteamReq3}}
 |use_mode=Passive
 |desc=
-Slaving for many years at the forge has made you more resilient to physical pain and fire burns.
-
-Your {{fire}} resistance is increased by {{cts|3.5|22%}} and your {{physical}} resistance by {{cts|2|17.5%}}.
-
-At talent level 5, you are so accustomed to the flames that you become immune to the fireburn effect.		
+Slaving for many years at the forge has made you more resilient to {{physical}} pain and {{fire}} burns.
+Your fire resistance is increased by {{cts|3.5|22%}} and your physical resistance by {{cts|2|17.5%}}.
+At talent level 5, you are so accustomed to the flames that you become immune to the fireburn effect.
 }}

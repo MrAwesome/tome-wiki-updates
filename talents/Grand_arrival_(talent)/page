@@ -6,18 +6,18 @@
 |require={{TalentReq/GiftsReqHigh2}}
 |use_mode=Passive
 |desc=
-While Master Summoner is active, when a creature you summon appears in the world, it will trigger a wild effect:
+XXX CHECKME XXX While Master Summoner is active, when a creature you summon appears in the world, it will trigger a wild effect:
 
-*{{t|Ritch Flamespitter}}: Reduce fire resistance of all foes in a radius by {{ctmd|15|70%}}
-*{{t|Hydra}}: Generates a cloud of lingering poison that deals {{ctmd|10|60}} damage per turn
-*{{t|Rimebark}}: Reduce cold resistance of all foes in a radius by {{ctmd|15|70%}}
-*{{t|Fire Drake}}: Appears with {{cts|0.3|2.7|log}} fire drake hatchlings{{sup|min 1}}. This effect does not check your summoning limit, but the hatchlings will still count against the limit once they appear. Hatchlings cannot be subject to {{t|Detonate}}.
-*{{t|War Hound}}: Reduce physical resistance of all foes in a radius by {{ctmd|15|70%}}
-*{{t|Jelly}}: Reduce nature resistance of all foes in a radius by {{ctmd|15|70%}}
+*{{t|Ritch Flamespitter}}: Reduce fire resistance of all foes in a radius by {{ctmd|12|44%}}
+*{{t|Hydra}}: Generates a cloud of lingering poison that deals {{ctmd|20|133}} nature damage per turn
+*{{t|Rimebark}}: Reduce cold resistance of all foes in a radius by {{ctmd|12|44%}}
+*{{t|Fire Drake}}: Appears with 1 or 2 fire drake hatchlings, depending on talent level. This effect does not check your summoning limit, but the hatchlings will still count against the limit once they appear. Hatchlings cannot be subject to {{t|Detonate}}.
+*{{t|War Hound}}: Reduce physical resistance of all foes in a radius by {{ctmd|12|44%}}
+*{{t|Jelly}}: Reduce nature resistance of all foes in a radius by {{ctmd|12|44%}}
 *{{t|Minotaur}}: Reduces movement speed of all foes in a radius by {{cl|{{ctmd|5|500}}|100%|10|0|47%|369}}
 *{{t|Stone Golem}}: Dazes all foes in a radius
 *{{t|Turtle}}: Heals all friendly targets in a radius for (30 + {{ctmd|10|350}})
 *{{t|Spider}}: The spider is so hideous that foes around it are brainlocked and repelled by (1 + Raw Talent Level) tiles
 
-Radius for effects is {{cts|1.3|2.7|log}}, and the duration of each lasting effect is {{cts|5|9}} turns.
+Radius for effects is {{cts|1.3|3.7|log}}, and the duration of each lasting effect is {{cts|5|9}} turns.
 }}

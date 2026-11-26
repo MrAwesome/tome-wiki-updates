@@ -11,7 +11,7 @@
 |desc=
 A terrible gloom surrounds you, affecting all those who approach to within radius 3. Each turn, those caught in your gloom must save against your Mindpower, or have a chance to suffer from slowness, stun or confusion for 3 turns.
 
-The chance to inflict slowness, stun, or confusion is {{cl|√ ( Talent Level )|100%|7|1|15.65%|2.23}}.
+The chance to inflict slowness, stun, or confusion is {{cl|√ ( Talent Level )|100%|7|1|15.65%|2.23}}. This chance also increases with your mind speed and is capped at 25%.
 
 This ability is innate, and carries no cost to activate or deactivate. Each point in this talent increases the mindpower of all {{t|Gloom}} effects.
 

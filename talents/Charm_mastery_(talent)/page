@@ -1,5 +1,5 @@
 {{Ability_box
-|game_version=1.4.4
+|game_version=1.7.6
 |image=Charm mastery.png
 |name=Charm mastery
 |category_type=[[Cunning (category type)|Cunning]]
@@ -7,7 +7,7 @@
 |require={{TalentReq/CunsReq2}}
 |use_mode=Passive
 |desc=
-Your cunning manipulations allows you to use charms (wands, totems and torques) more efficiently, reducing their cooldowns by (100 * Talent Level / (Talent Level + 7.5))%.
+Your cunning manipulations allow you to use charms (wands, totems and torques) more efficiently, reducing their cooldowns by {{gtl|1|5}}.
 }}
 <noinclude>
 {| class="wikitable"

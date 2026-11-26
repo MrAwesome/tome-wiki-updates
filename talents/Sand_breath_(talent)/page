@@ -8,7 +8,7 @@
 |cooldown=12
 |range=0
 |desc=
-You breathe sand in a frontal cone of radius {{cts|5|9}}. Any target caught in the area will take {{ctstd|Str|30|480}} physical damage, and be blinded for {{cts|3|4}} turns.
+XXX CHECKME XXX You breathe sand in a frontal cone of radius {{cts|5|9}}. Any target caught in the area will take {{ctstd|Str|10|400}} physical damage, plus {{ctstd|Wil|10|400}} if you know {{t|Chromatic Fury}}, and be blinded for 3 turns.
 
 The damage will increase with your Strength, and the critical chance is based on your Mental crit rate.
 

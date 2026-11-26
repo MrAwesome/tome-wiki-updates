@@ -7,5 +7,6 @@
 |category = {{c|Assault}}
 |require = {{TalentReq/DexSteamReq2}}
 |use_mode = Passive
-|desc = Enhancements to your mecharachnid combat skill increases your melee and ranged evasion by {{ctl|50|12|30%}}, and causes you to automatically strike adjacent enemies with your tailsaw for {{ctwd|50|150%}} damage each turn.
+|desc =
+Enhancements to your mecharachnid combat skill increases your melee and ranged evasion by {{ctl|50|12|30%}}, and, when you have a tailsaw, causes you to automatically strike adjacent enemies with it for {{ctwd|50|150%}} damage each turn.
 }}

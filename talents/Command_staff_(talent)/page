@@ -10,7 +10,8 @@
 |cost=-
 |cooldown=5
 |use_speed=Spell
-|desc=Choose an aspect and damage type for your staff. This changes the damage type used by {{t|Channel Staff}} and shifts the staff's associated damage bonuses to match.<br />Sentient staves also offer dialogue and an option to adjust their Spellpower and spell critical chance.
+|desc=
+Alter the flow of energies through a staff.
 |avail=Granted by staves.
 }}
 ===Notes===

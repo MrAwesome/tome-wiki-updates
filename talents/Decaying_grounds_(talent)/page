@@ -11,5 +11,6 @@
 |range=6
 |radius=3
 |desc=
-You blight a zone as a decaying ground for %d turns. All creatures inside take {{ctspd|15|40}} or {{ctmd|15|40}} blight damage per turn and have all their cooldowns increased by {{cts|25|60}}% for 3 turns.
-The damage will scale with the highest of your spell or mind power.}}
+XXX CHECKME XXX You blight a zone as a decaying ground for 5 turns. All creatures inside take {{ctspd|15|40}} or {{ctmd|15|40}} blight damage per turn and have all their cooldowns increased by {{cts|25|60}}% for 3 turns.
+The damage will scale with the highest of your spell or mind power.
+}}

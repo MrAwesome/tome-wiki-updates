@@ -1,4 +1,5 @@
 {{Ability box
+|embers_version=1.1.10
 |game_version=1.7.6
 |image=Algid rage.png
 |name=Algid Rage
@@ -9,7 +10,7 @@
 |use_mode=Activated
 |cooldown={{ctl|5|46|30}}
 |desc=Your yeti is attuned to the cold climates.
-For 5 turns all damage you deal has {{css|Will|30|50%}} chance to encase the target in an iceblock for 3 turns.
+For 5 turns all damage you deal has {{css|Wil|30|50%}} chance to encase the target in an iceblock for 3 turns.
 While Algid Rage is up you easily pierce through iceblocks, reducing the damage they absorb by 50%.
 The bonus will increase with your Willpower.
 }}

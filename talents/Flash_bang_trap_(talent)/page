@@ -8,11 +8,11 @@
 |cost=12 Stamina
 |range=Trap Range
 |desc=
-Lay a trap that explodes in a radius of 2, blinding or dazing anything caught inside for {{cts|2.5|4.5}} turns.
+XXX CHECKME XXX Lay a trap that explodes in a radius of 2, blinding or dazing anything caught inside for 3–7 turns, based on trap effectiveness.
 
-All foes caught inside take (20 + {{css|Cun|0.167|1.667}} * Trap Power) physical damage.
+All foes caught inside take physical damage that scales with your Cunning and the level of {{t|Trap Mastery}} or {{t|Trap Priming}} controlling the trap.
 
-Trap Power is determined by your raw talent level in {{t|Trap Mastery}}.
+Trap effectiveness depends on your Cunning and the level of {{t|Trap Mastery}} or {{t|Trap Priming}} controlling the trap.
 
 The trap will last for a duration of (5 + {{t|Trap Mastery}} Level) turns or until it is triggered.
 

@@ -8,7 +8,7 @@
 |cooldown=12
 |range=0
 |desc=
-You breathe acid in a frontal cone of radius {{cts|5|10}}. Any target caught in the area will take {{ctstd|Str|30|420}} acid damage. 
+XXX CHECKME XXX You breathe acid in a frontal cone of radius {{cts|5|9}}. Any target caught in the area will take {{ctstd|Str|30|520}} acid damage; if you know Chromatic Fury, the damage also includes {{ctstd|Wil|30|520}} acid damage.
 
 Enemies caught in the acid have a 25% chance of their weapons becoming useless for three turns.
 

@@ -6,9 +6,9 @@
 |require={{TalentReq/DiviReq1}}
 |use_mode=Passive
 |desc=
-You are so infused with sunlight that your body glows permanently in radius {{cts|3|7}}, even in dark places.
+XXX CHECKME XXX You are so infused with sunlight that your body glows permanently in radius {{ctl|14|4|10}}, even in dark places.
 
-Your vision adapts to this glow, giving you {{ctl|100%|25|75%}} blindness resistance.
+Your vision and body adapt to this glow, giving you {{ctl|100%|25|67%}} blindness resistance, {{cts|15|35}}% light resistance, and {{ctl|50%|15|33%}} light affinity.
 
 The light radius overrides your normal light if it is bigger (it does not stack).
 }}

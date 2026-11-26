@@ -8,7 +8,7 @@
 |use_mode=Passive
 |cooldown=10
 |desc=
-You guard against melee damage with a sweep of your hand. So long as you can use Gestures (Requires two free or mindstar-equipped hands), you can deflect up to ''variable'' damage, ({{ctl|390%|80|270%}}  of your best free hand melee damage) from up to {{css|Cun|0|2.25}} melee attacks each turn.
+XXX CHECKME XXX You guard against melee damage with a sweep of your hand. So long as you can use Gestures (Requires two free or mindstar-equipped hands), you can deflect up to ''variable'' damage, ({{ctl|80%|25|45%}} of your best free hand melee damage) from up to {{css|Cun|0|2.25}} melee attacks each turn.
 
 If {{t|Gesture of Pain}} is active, you also have a {{ctl|50%|4|8.9%}} chance to counterattack.
 }}

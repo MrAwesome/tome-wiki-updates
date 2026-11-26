@@ -3,14 +3,15 @@
 |name=Phantasmal Shield
 |category_type={{ct|Spell}}
 |category={{c|Phantasm}}
-|game_version=1.7.4
+|game_version=1.7.6
 |require={{TalentReq/SpellsReq3}}
 |use_mode=Sustained
 |cost=20 Mana
 |cooldown=10
 |use_speed=Spell Speed
 |desc=
-The caster is surrounded by a phantasmal shield. If hit in melee, the shield will deal {{ctspd|20|120}} light damage to the attacker.
-
-The damage will increase with your Spellpower.
+Surround yourself with a phantasmal shield of pure light.
+Whenever you would take damage there is {{ctspd|6|21}} chance to become ethereal for an instant and fully ignore it.
+If you do get hit, the shield glows brightly, sending triggering a flash of light on the attacker, dealing {{ctspd|40|200}} light damage in radius {{cts|1|4}} around it and dazzling any affected creature (deal 10% less damage) for 5 turns. This can only happen every {{ctl|5|15|9}} turns.
+The damage and ignore chance will increase with your Spellpower.
 }}

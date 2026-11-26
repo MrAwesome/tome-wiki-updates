@@ -9,16 +9,12 @@
 |cost = 2 hate and {{ctl|5|15|7.5}}% max life per turn
 |cooldown = 40
 |use_speed = Instant
-|desc = 
+|desc =
 Call upon your deepest reserves of strength to win no matter the cost.
-
-Immediately upon activation and every turn while this talent is active, your detrimental effects expire and your talents cool down as if an extra turn had passed. 
-
+Immediately upon activation and every turn while this talent is active, your detrimental effects expire and your talents cool down as if an extra turn had passed.
 This bonus cooldown occurs even if your talents would not normally cool down.
-
 This talent deactivates automatically upon rest.
+This strength comes at a cost: you lose {{ctl|5%|15|7.5%}} of your maximum life every turn.  This can kill you.
 
-This strength comes at a cost: you lose {{ctl|5|15|7.5}}% of your maximum life every turn.  This can kill you.
-
-''If you're lucky, this will take everything you've got.''
+#{italic}#If you're lucky, this will take everything you've got.#{normal}#
 }}

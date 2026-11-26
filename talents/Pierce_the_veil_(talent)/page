@@ -3,17 +3,14 @@
 |image = Pierce_the_veil.png
 |category_type = {{ct|Demented}}
 |category = {{c|Rift}}
-|game_version = 1.7.4
+|game_version = 1.7.6
 |forbidden_version = 1.0.12
 |require = {{TalentReq/DementedReqHigh3}}
 |use_mode = Passive
-|desc = 
-Pouring more energy into your rifts, you have a {{ctl|100|15|40}}% chance for each one to instead appear as a more powerful type.
-
-Nether Breach: Fires a beam dealing {{ctspd|20|60}} darkness damage at a random target in radius 10.
-
-Temporal Vortex: Inflicts {{ctspd|15|50}} temporal damage each turn to enemies in radius 4 and reduces their global speed by 30%.
-
-Dimensional Gate: Has a 50% chance each turn to summon a voidling lasting {{cts|3|5}} turns; a fast melee attacker that can teleport.
+|desc =
+Pouring more energy into your rifts, you have a {{ctl|100%|15|40%}} chance for each one to instead appear as a more powerful type.
+#PURPLE#Nether Breach:#LAST# Fires a beam dealing {{ctspd|20|60}} darkness damage at a random target in radius 10.
+#PURPLE#Temporal Vortex:#LAST# Inflicts {{ctspd|15|50}} temporal damage each turn to enemies in radius 4 and reduces their global speed by 30%.
+#PURPLE#Dimensional Gate:#LAST# Has a 50% chance each turn to summon a voidling lasting {{cts|3|5}} turns; a fast melee attacker that can teleport.
 The stats of your Void Skitterers will scale with your Magic stat and level.
 }}

@@ -7,8 +7,5 @@
 |require={{TalentReq/CursedLevReq1}}
 |use_mode=passive
 |desc=
-Improve your predation by learning from past hunts. 
-You gain {{cts|0,18|1,2}} accuracy and {{cts|0,09|0,6}} armor penetration against foes for each foe of that type you have previously slain, to a maximum of {{cts|0,18|1,2}}*50 accuracy and {{cts|0,09|0,6}}*50 apr.
-
-
+Improve your predation by learning from past hunts. You gain {{cts|0.18|1.2}} accuracy and {{cts|0.09|0.6}} armor penetration against foes for each foe of that type you have previously slain, to a maximum of {{cts|0.18|1.2}} accuracy and {{cts|0.09|0.6}} apr.
 }}

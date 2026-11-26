@@ -10,11 +10,11 @@
 |cooldown=8
 |use_speed=Mind
 |desc=
-Puts targets in a radius 7 cone into a nightmarish sleep for {{cts|2.5|4.5}} turns (round down), rendering them unable to act.  Every {{ctmd|5|25}} points of damage the target suffers will reduce the effect duration by one turn.
+XXX CHECKME XXX Puts targets in a radius 7 cone into a nightmarish sleep for {{cts|2.5|4.5}} turns (round down), rendering them unable to act. Every {{ctmd|5|25}} points of damage the target suffers will reduce the effect duration by one turn; sleep power is increased by Sandman's bonus, if known.
 
-Each turn, they'll suffer {{ctmd|10|50}} {{darkness}} damage.  This damage will not reduce the duration of the effect.
+Each turn, they'll suffer {{ctmd|10|50}} {{darkness}} damage. This damage will not reduce the duration of the effect.
 
-When Nightmare ends, the target will suffer from Insomnia for a number of turns equal to the amount of time it was asleep (up to 10 turns max), granting it 20% sleep immunity for each turn of the Insomnia effect.
+When Nightmare ends, the target will suffer from Insomnia for a number of turns equal to the amount of time it was asleep (up to 10 turns max), granting it 20% sleep immunity per turn, reduced by Sandman's insomnia reduction if known.
 
 The damage threshold and mind damage will scale with your Mindpower.
 }}

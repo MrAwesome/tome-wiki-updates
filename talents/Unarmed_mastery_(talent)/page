@@ -7,7 +7,7 @@
 |require=Cun (18,24,30,36,42)
 |use_mode=Passive
 |desc=
-Increases Physical Power by (10 * Talent Level), and increases all unarmed damage by (11.18 * √ Talent Level)% (including grapples and kicks).
+XXX CHECKME XXX Increases all unarmed damage by a percentage equal to 100 × √(Talent Level / 5) ÷ 1.5 and Physical Power by 30 (including grapples and kicks).
 
-Note that brawlers naturally gain 0.5 Physical Power per character level while unarmed and attack 40% faster while unarmed.
+Note that brawlers naturally gain 0.5 Physical Power per character level while unarmed and attack 20% faster while unarmed.
 }}

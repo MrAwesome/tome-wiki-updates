@@ -7,29 +7,24 @@
 |require=Unlocked the Fallen Evolution<br />Magic 25<br />Willpower 50
 |use_mode=Passive
 |desc=
-The code of the Sun Paladins can be a heavy burden. Wouldn't you like to let go?
+The code of the Sun Paladins can be a heavy burden.	 Wouldn't you like to let go?
+#{italic}##GREY#To give in to the darkness?#LAST##{normal}#
 
-{{color|grey|''To give in to the darkness?''}}
+#CRIMSON#This evolution fundamentally alters your class and character in a huge way. Do not take it lightly.#LAST#
 
-{{color|crimson|This evolution fundamentally alters your class and character in a huge way. Do not take it lightly.}}
-
-Any offensive combat techniques or unlockable Celestial talent trees you know will be exchanged for cursed versions, allowing you to cut a bloody trail through enemies, turning your radiance to gloom, and more while also gaining new combat styles and defenses.
+Any offensive {{c|Combat Techniques}} or unlockable Celestial talent trees you know will be exchanged for cursed versions, allowing you to cut a bloody trail through enemies, turning your radiance to gloom, and more while also gaining new combat styles and defenses.
 
 The following talent trees are swapped:
-
-*{{color|gold|Radiance}} turns into {{c|Gloom|{{color|crimson|Gloom}}}}: Project onto others your own hate, hindering them
-*{{color|gold|Guardian}} turns into {{c|Crimson Templar|{{color|crimson|Crimson Templar}}}}: Use the power of blood to control and defeat the fools that oppose you
-*{{color|gold|Crusader}} turns into {{c|Dark Sun|{{color|crimson|Dark Sun}}}}: Call upon the energies of dead suns to crush your foes
+*#GOLD#Radiance#LAST# turns into #CRIMSON#Gloom#LAST#: Project onto others your own hate, hindering them
+*#GOLD#Guardian#LAST# turns into #CRIMSON#Crimson Templar#LAST#: Use the power of blood to control and defeat the fools that oppose you
+*#GOLD#Crusader#LAST# turns into #CRIMSON#Dark Sun#LAST#: Call upon the energies of dead suns to crush your foes
 
 You will learn the following talents trees:
-
-*{{c|Bloodstained|{{color|crimson|Bloodstained}}}}: Make your foes bleed!
-*{{c|Darkside|{{color|crimson|Darkside}}}}: Every light casts a shadow, yours is powerful indeed
-*{{c|Hatred|{{color|crimson|Hatred}}}}: Manifest your hatred through bleeding
-*{{c|Dirges|{{color|crimson|Dirge}}}}: Sing of death and sorrow to strengthen your resolve
+*#CRIMSON#Bloodstained#LAST#: Make your foes bleed!
+*#CRIMSON#Darkside#LAST#: Every light casts a shadow, yours is powerful indeed
+*#CRIMSON#Hatred#LAST#: Manifest your hatred through bleeding
+*#CRIMSON#Dirge#LAST#: Sing of death and sorrow to strengthen your resolve
 
 You will forget the following talent trees, refunding any talent points: Shield Offense, Two-handed Assault.
-
-Also the cost of any talents of the {{c|Combat Techniques}} tree will be converted to hate instead of stamina.<br>
-''Note: This also affects some {{c|Combat Veteran}} talents ({{t|Quick Recovery}} and {{t|Unending Frenzy}}), which will now restore hate in addition to stamina. ''
+Also the cost of any talents of the Combat Techniques tree will be converted to hate instead of stamina.
 }}

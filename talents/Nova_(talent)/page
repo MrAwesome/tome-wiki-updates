@@ -1,4 +1,5 @@
 {{Ability_box
+|game_version=1.7.6
 |image=Nova_2017.png
 |name=Nova
 |category_type={{ct|Spell}}
@@ -8,7 +9,6 @@
 |cooldown=8
 |range=0
 |desc=
-Lightning emanates from you in a circular wave with radius {{cts|2.7|5.5}}, doing ({{ctspd|28|170}} / 3) to {{ctspd|28|170}} lightning damage and possibly dazing anyone affected (75% chance).
-
+Lightning emanates from you in a circular wave with radius {{cts|2|5}}, doing {{ctspd|9.333333333|66.66666667}} to {{ctspd|28|200}} lightning damage ({{ctspd|18.66666667|133.3333333}} average) and possibly dazing anyone affected (75% chance).
 The damage will increase with your Spellpower.
 }}

@@ -10,9 +10,9 @@
 |cost = 30 Steam
 |range = 10
 |use_speed = Steamtech
-|desc = You load a magazine of {{cts|3|4.6}} grenades into your launcher, causing your next {{cts|3|4.6}} shots to fire a random grenade type in place of your usual Grenade Launcher, dealing 50% of the usual grenade damage.
+|desc = You load a magazine of {{cts|3|4}} grenades into your launcher, causing your next {{cts|3|4}} shots to fire a random grenade type in place of your usual Grenade Launcher, dealing 50% of the usual grenade damage.
 
-While the magazine is loaded your attack speed is increased by {{ctl|75|15|50%}}.
+While the magazine is loaded your attack speed is increased by {{ctl|75%|15|50%}}.
 
 Your Grenade Launcher talent must be on cooldown to use this talent, and the magazine will only last for 6 turns.
 }}

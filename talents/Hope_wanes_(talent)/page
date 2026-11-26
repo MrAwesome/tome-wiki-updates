@@ -1,4 +1,6 @@
 {{Ability box
+|ashes_version=1.1.4
+|game_version=1.7.6
 |name=Hope Wanes
 |category_type={{ct|Corruption}}
 |category={{c|Oppression}}
@@ -8,7 +10,7 @@
 |cooldown={{cts|49|29}}
 |range=5
 |desc=
-You crush the spirit of a target with at least 8 fear stacks, consuming all stacks and making it unable to act for {{cts|2|5}} turns.
+You crush the spirit of a target with at least 8 fear stacks, consuming all stacks and making it unable to act for {{cts|2|4.5}} turns.
 
 This talent ignores saves and immunities.
 }}

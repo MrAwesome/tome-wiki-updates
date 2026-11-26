@@ -1,4 +1,5 @@
 {{Ability box
+|game_version=1.7.6
 |image=Premonition_2017.png
 |name=Premonition
 |category_type={{ct|Spell}}
@@ -9,11 +10,8 @@
 |cooldown=30
 |desc=
 Echoes of the future flash before your eyes, allowing you to sense some incoming attacks.
-
-If the attack is not physical, you will erect a temporary shield that reduces all damage of this type by (10 + {{ctspd|2|25}})% for 5 turns.
-
+If the attack is not physical, you will erect a temporary shield that reduces all damage of this type by {{ctspd|12|35}} for 5 turns.
 This effect can only happen once every 5 turns, and happens before damage is taken.
-
 The bonus will increase with your Spellpower.
 |avail.escorts=[[Escorts#Seer_.28Arcane.29|Seer (Arcane)]] (Normal Escort Reward), +1 to talent or via revealing the locked {{c|Divination}} category
 }}

@@ -11,8 +11,7 @@
 |use_mode=Active
 |use_speed=Spell speed
 |desc=
-Tether the target to the location for {{cts|6|8}} turns.  
+XXX CHECKME XXX Tether the target to the location for {{cts|6|8}} turns, modified by your Paradox and Extension Spellbinding if active.
 Each turn the target has a 15% chance per tile it's traveled away from the tether to be teleported back, inflicting {{ctspd|20|200|PM}}/2 physical and {{ctspd|20|200|PM}}/2 temporal (warp) damage to all enemies in a radius of {{cts|1|2}} at both the entrance and exit locations.
-The damage will scale with your Spellpower.
-
+The damage will scale with your Spellpower and Paradox.
 }}

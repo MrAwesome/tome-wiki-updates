@@ -1,1 +1,3 @@
-{{Ability_box|image=Augmented shot.png|name=Augmented shot|category_type=[[Psionic (category type)|Psionic]]|category=[[Psi-archery (category)|Psi-archery]]|desc=Use telekinetic forces to greatly augment the durability and tension of your bow in order to fire an arrow with velocity unmatched by even the mightiest mundane archers. Increases armor penetration by X, and deals X% damage.}}
+{{Ability_box|game_version=1.7.6|image=Augmented shot.png|name=Augmented shot|category_type=[[Psionic (category type)|Psionic]]|category=[[Psi-archery (category)|Psi-archery]]|desc=
+Use telekinetic forces to greatly augment the durability and tension of your bow in order to fire an arrow with velocity unmatched by even the mightiest mundane archers. Increases armor penetration by {{cts|20|60}}, and deals {{ctwd|150|250%}} damage.
+}}

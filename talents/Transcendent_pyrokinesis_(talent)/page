@@ -8,11 +8,11 @@
 |cost=20 Psi
 |cooldown=30
 |desc=
-For {{ctl|30|5|10}} turns your pyrokinesis transcends your normal limits, increasing your Fire and Cold damage by {{ctmd|10|30%}} and your Fire and Cold resistance penetration by {{cl|{{ctmd|10|20}}|100%|4.2|4.2|13.4%|13.4}}.
+XXX CHECKME XXX For 5 turns your pyrokinesis transcends your normal limits, increasing your Fire and Cold damage by {{ctmd|10|30%}} and your Fire and Cold resistance penetration by {{cl|{{ctmd|10|20}}|100%|4.2|4.2|13.4%|13.4}}.
 
 In addition:
 
-The cooldowns of {{t|Thermal Shield}}, {{t|Thermal Leech}}, {{t|Thermal Aura}} and {{t|Pyrokinesis}} are reset.
+The cooldowns of {{t|Thermal Shield}}, {{t|Thermal Strike}}, {{t|Thermal Leech}}, {{t|Thermal Aura}} and {{t|Pyrokinesis}} are reset.
 
 {{t|Thermal Aura}} will either increase in radius to 2, or apply its damage bonus to all of your weapons, whichever is applicable.
 

@@ -1,7 +1,7 @@
 {{Ability box
 |image=Whirlwind_2017.png
 |name=Whirlwind
-|game_version=1.5.2
+|game_version=1.7.6
 |category_type={{ct|Technique}}
 |category={{c|Dual Techniques}}
 |require={{TalentReq/TechsDexReq4}}

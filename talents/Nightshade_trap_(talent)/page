@@ -8,9 +8,9 @@
 |cost=15 Stamina
 |range=Trap Range
 |desc=
-Lay a trap coated with a potent venom, doing (20 + {{css|Cun|0.5|5}} * Trap Power) nature damage to a creature passing by and stunning it for 4 turns.
+XXX CHECKME XXX Lay a trap coated with a potent venom, doing nature damage based on trap effectiveness to a creature passing by and stunning it for 4 turns.
 
-Trap Power is determined by your raw talent level in {{t|Trap Mastery}}.
+Trap effectiveness depends on your Cunning and the level of {{t|Trap Mastery}} or {{t|Trap Priming}} controlling the trap.
 
 The trap will last for a duration of (5 + {{t|Trap Mastery}} Level) turns or until it is triggered.
 }}

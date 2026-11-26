@@ -8,9 +8,9 @@
 |cooldown=20
 |range=5
 |desc=
-Summon a Stone Golem to attack your foes. Stone golems are formidable foes that can become unstoppable.
+XXX CHECKME XXX Summon a Stone Golem to attack your foes. Stone golems are formidable foes that can become unstoppable.
 
-The Stone Golem will last for a duration of {{cs|(Talent Level)|5|0|10|5}}.
+The Stone Golem will last for a duration of {{cs|(Talent Level)|5|0|10|5}}, increased by any duration bonus from Resilience.
 
 It will receive the following stats:
 *Strength: 15 + {{cts|2|10|0.75}} + 2 * Mindpower * {{cts|0.2|1|0.75}}

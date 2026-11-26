@@ -1,5 +1,5 @@
 {{Ability box
-|game_version=1.7.4
+|game_version=1.7.6
 |image=Surge of undeath.png
 |name=Surge of Undeath
 |category_type={{ct|Spell}}
@@ -11,16 +11,10 @@
 |use_speed=Spell
 |desc=
 Sends out a surge of undeath energies into your aura.
-
 All minions inside gain 25% speed for {{cts|2|5}} turns
-
 All non-ghoul minions are healed by {{cts|12|22%}}.
-
 If you know {{t|Call of the Mausoleum}}, the time remaining to the next free ghoul is reduced by {{cts|1|5}}.
-
-If you know {{t|Corpse Explosion}} or {{t|Putrescent Liquefaction}} the duration of those effects are increased by {{cts|1|5}}.
-
+if you know {{t|Corpse Explosion}} or {{t|Putrescent Liquefaction}} the duration of those effects are increased by {{cts|1|5}}.
 All non-undead foes caught inside are dazed for {{cts|4|10}} turns.
-
 In addition all your minions (created after you learn this spell) have a passive health regeneration.
 }}

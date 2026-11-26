@@ -1,12 +1,1 @@
-{{Ability_box
-|name=Spanking
-|category_type={{ct|Technique}}
-|category={{c|Other}}
-|game_version=1.7.2
-|range=1
-|cooldown=3
-|use_speed=Global Speed
-|desc=You have been naughty!
-
-''Effects: Attacks for {{ctwd|100%|200%}} weapon damage as {{Physical}} damage that also makes the target {{Bleed}} for 50% of the damage over 5 turns.''
-}}
+DELETE

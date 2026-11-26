@@ -1,4 +1,6 @@
 {{Ability box
+|ashes_version=1.1.4
+|game_version=1.7.6
 |image=Rain of fire.png
 |name=Rain of Fire
 |category_type={{ct|Corruption}}
@@ -10,10 +12,7 @@
 |cooldown=15
 |desc=
 You unleash the fury of the Spellblaze, constantly draining your vim.
-
-While this spell is active, at most two meteors will fall near you per turn, dealing {{ctspd|5|1000}} / 10 physical and {{ctspd|5|1000}} / 10 fire damage in radius 2.
-
-This spell is disabled automatically on rest or run.
-
-The effects increase with Spellpower.
+While this spell is active at most two meteors will fall near your per turn, dealing {{ctspd|0.5|100}} physical and {{ctspd|0.5|100}} fire damage in radius 2.
+This spell disabled automatically on rest or run.
+The effects increase with spellpower.
 }}

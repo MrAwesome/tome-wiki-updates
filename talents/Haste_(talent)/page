@@ -8,6 +8,6 @@
 |cost=20 Paradox
 |cooldown=24
 |use_speed=0
-|desc=Increases your global speed by {{cts|10|30%}} for 6 game turns.
-
+|desc=
+Increases your global speed by {{cts|10|30%}} for 6 game turns. Duration varies with your current Paradox and with Extension when this talent is selected.
 }}

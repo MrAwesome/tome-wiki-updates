@@ -1,4 +1,5 @@
 {{Ability_box
+|game_version=1.7.6
 |image=Impaling spikes.png
 |name=Impaling spikes
 |category_type={{ct|Spell}}
@@ -6,6 +7,6 @@
 |require={{TalentReq/SpellsReq4}}
 |use_mode=Passive
 |desc=
-Your stone spikes grow in length, instantly dealing {{ctspd|10|200}} Physical damage and disarming targets hit for {{ctl|12|3|8}} turns.
+Your stone spikes grow in length, instantly dealing {{ctspd|10|200}} Physical damage and disarming targets hit for {{ctl|12|4|9}} turns.
 The damage increases with Spellpower and the chance to disarm increases with either Spellpower or Physical Power, whichever is greater.
 }}

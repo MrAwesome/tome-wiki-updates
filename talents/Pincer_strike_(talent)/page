@@ -10,5 +10,5 @@
 |cost = 25 Steam
 |range = 1
 |use_speed = Steamtech
-|desc = You strike the target with your tailsaw for {{ctwd|80|200%}} damage. If this hits, you attempt to clamp them with your pincers for {{cts|3|7}} turns. This pins, reduces their attack, spell and mind speed by {{ctl|50|10|35%}}, and lets you make a free, unavoidable strike with your tailsaw against them each turn for {{ctwd|40|100%}} damage. This ends if you move more than 1 tile from the target.
+|desc = You strike the target with your tailsaw for {{ctwd|80|200%}} damage. If this hits, you attempt to clamp them with your pincers for {{cts|3|7}} turns. This pins, reduces their attack, spell and mind speed by {{ctl|50%|10|35%}}, and lets you make a free, unavoidable strike with your tailsaw against them each turn for {{ctwd|40|100%}} damage. This ends if you move more than 1 tile from the target.
 }}

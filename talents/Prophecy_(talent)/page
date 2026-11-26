@@ -3,16 +3,13 @@
 |image = Prophecy.png
 |category_type = {{ct|Demented}}
 |category = {{c|Doom}}
-|game_version = 1.7.4
+|game_version = 1.7.6
 |forbidden_version = 1.0.12
 |require = {{TalentReq/DementedReq1}}
 |use_mode = Passive
-|desc = 
+|desc =
 By bringing the forces of entropy to bear on a target, you prophesize their inevitable doom. Each point in this talent unlocks additional prophecies. A target can only be affected by a single prophecy at a time.
-
 Level 1: {{t|Prophecy of Ruin}}. Deals {{ctspd|1|120}} damage on falling below 75%, 50% or 25% of maximum life.
-
-Level 3: {{t|Prophecy of Treason}}. {{cts|10|25}}% chance each turn to attack an ally or themselves.
-
-Level 5: {{t|Prophecy of Madness}}. Increases talent cooldowns by ({{cts|0.15|0.4}} * 100)%.
+Level 3: {{t|Prophecy of Treason}}. {{cts|10|25%}} chance each turn to attack an ally or themselves.
+Level 5: {{t|Prophecy of Madness}}. Increases talent cooldowns by {{cts|15|40%}}.
 }}

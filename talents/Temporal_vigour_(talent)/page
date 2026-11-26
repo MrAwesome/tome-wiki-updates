@@ -7,13 +7,12 @@
 |require={{TalentReq/ChronoReqHigh3}}
 |use_mode=Passive
 |desc=
-Your hounds can now survive for up to {{cts|1|3}} turns after their hit points are reduced below 1.  While in this state they deal 50% less damage but are immune to additional damage.
+Your hounds can now survive for up to {{cts|1|3}} turns after their hit points are reduced below 1. The duration varies with your current Paradox and with Extension when this talent is selected. While in this state they deal 50% less damage but are immune to additional damage.
 
-{{t|Command Hounds: Blink}} will now regenerate your hounds for {{ctspd|10|50|PM}} life per turn and increase their global speed by {{ctl|80%|20|50%}} for five turns. 
+{{t|Command Hounds: Blink}} will now regenerate your hounds for {{ctspd|10|50|PM}} life per turn and increase their global speed by {{ctl|80%|20|50%}} for five turns.
 
 Hounds below 1 life when this effect occurs will have the bonuses doubled.
 When you learn this talent, your hounds gain {{ctl|100%|15|50%}} stun, blind, confusion, and pin resistance.
 
 The regeneration scales with your Spellpower.
-
 }}

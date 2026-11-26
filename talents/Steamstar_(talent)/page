@@ -7,9 +7,8 @@
 |category={{c|Mechstar}}
 |require={{TalentReq/SteamReq3}}
 |use_mode=Passive
-|desc=Your bloodstar effect also burns part of your victim's flesh, dealing {{ctstmd|25|250}}/6 {{fire}} damage.
-
-The intensity of the fire generates steam which you psionically absorb through gestalt, providing {{CTS|3|10}} steam each turn (each additional victim steam generation is reduced by 66%).
-
+|desc=
+Your bloodstar effect also burns part of your victim's flesh, dealing {{ctstmd|4.166666667|41.66666667}} {{fire}} damage.
+The intensity of the fire generates steam which you psionically absorb through gestalt, providing {{cts|3|10}} steam each turn (each additional victim steam generation is reduced by 66%).
 This damage does not break daze and increases with your Steampower.
 }}

@@ -7,5 +7,5 @@
 |require = {{TalentReq/DementedReq2}}
 |use_mode = Passive
 |desc=
-You subtly alter the course of events to cause your foes further misfortune. For each stack of Jinx beyond 6, enemies will also suffer (1 + Talent Level) chance to fail talent usage, up to a maximum of 7% per additional stack. 
+You subtly alter the course of events to cause your foes further misfortune. For each stack of Jinx beyond 6, enemies will also suffer a (1 + Talent Level)% chance to fail talent usage, up to a maximum of 7% per additional stack.
 }}

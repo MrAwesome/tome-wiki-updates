@@ -9,7 +9,7 @@
 |cooldown=10
 |use_speed=0
 |desc=
-While this ability is active, you will continually call up to min(4, max(1, {{gtl|0.55|2.75}})) level Level shadows to aid you in battle. Shadows are weak combatants that can: Use Arcane Reconstruction to heal themselves (level {{gtl|1|5|raw}}), Blindside their opponents (level {{gtl|1|5|raw}}), and Phase Door from place to place.
+XXX CHECKME XXX While this ability is active, you will continually call shadows to aid you in battle (at least 1 and up to 4; the number increases with your talent level, {{gtl|0.55|2.75}}). Shadows are weak combatants that can: Use Arcane Reconstruction to heal themselves (level {{gtl|1|5|raw}}), Blindside their opponents (level {{gtl|1|5|raw}}), and Phase Door from place to place.
 
 Shadows ignore {{ctl|100%|5|85%}} of the damage dealt to them by their master.
 }}

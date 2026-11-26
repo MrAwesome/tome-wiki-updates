@@ -1,12 +1,1 @@
-{{Ability_box
-|image=Aura mastery.png
-|name=Aura mastery
-|category_type={{ct|Spell}}
-|category={{c|Necrotic Minions}}
-|require={{TalentReq/SpellsReq2}}
-|use_mode=Passive
-|desc=
-Your dark power radiates further as you grow stronger. Increases the radius of your necrotic aura by {{cts|1|5}}, and reduces the decay rate of your minions outside the aura by (Raw Talent Level)%, up to a maximum reduction of 7%.
-
-At level 3, necrotic minions inside your aura have a 25% chance to refund their soul on death. If a minion turns into a will o' the wisp then the wisp will have that chance instead.
-}}
+DELETE

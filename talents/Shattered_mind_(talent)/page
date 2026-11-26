@@ -1,4 +1,6 @@
 {{Ability box
+|ashes_version=1.1.4
+|game_version=1.7.6
 |image=Shattered_mind.png
 |name=Shattered Mind
 |category_type={{ct|Corruption}}
@@ -8,7 +10,6 @@
 |cost=25 Vim
 |cooldown=12
 |desc=
-When you block an attack, the shock ripples through your attacker, spreading the force of the Spellblaze in its mind for 5 turns.
-
-While affected, the creature will suffer {{ctl|35|10|25}} chances to fail using talents and {{cts|10|70}} reduced physical, mental, and spell saves.
+When you block an attack the shock ripples through your attacker, spreading the force of the Spellblaze in its mind for 5 turns.
+While affected the creature will suffer {{ctl|35%|10|25%}} chances to fail using talents and {{cts|10|70}} reduced physical, mental and spell saves.
 }}

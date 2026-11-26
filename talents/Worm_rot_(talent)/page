@@ -1,7 +1,7 @@
 {{Ability_box
 |image=worm_rot.png
 |name=Worm Rot
-|game_version=1.7.4
+|game_version=1.7.6
 |category_type={{ct|Corruption}}
 |category={{c|Rot}}
 |require={{TalentReq/SpellsReqHigh4}}
@@ -12,13 +12,9 @@
 |travel_speed=600% of base
 |use_speed=Spell
 |desc=
-Infects the target with parasitic carrion worm larvae for 5 turns.  Each turn the disease will remove a beneficial physical effect and deal {{ctspd|10|55}}/2 acid and {{ctspd|10|55}}/2 blight damage.
-
+Infects the target with parasitic carrion worm larvae for 5 turns.  Each turn the disease will remove a beneficial physical effect and deal {{ctspd|5|27.5}} acid and {{ctspd|5|27.5}} blight damage.
 If not cleared after five turns it will inflict {{ctspd|10|150}} blight damage as the larvae hatch, removing the effect but spawning a full grown carrion worm mass near the target's location.
-
-Even if this disease is removed early, there is still a {{ctl|100%|20|90%}} chance for the larvae to hatch.
-
+Even if this disease is removed early, there is still a {{cts|20|90%}} chance for the larvae to hatch.
 You can never have more than 5 worms active from any source at a time.
-
 The damage dealt will increase with your Spellpower.
 }}

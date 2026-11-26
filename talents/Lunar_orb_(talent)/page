@@ -10,5 +10,6 @@
 |range = 999
 |travel_speed = 2.5
 |use_speed = Spell
-|desc = Fires out a bolt of cosmic energy in the target direction. The projectile continues until it hits a wall or the edge of the map, dealing {{ctspd|20|250}} {{darkness}} damage to enemies hit and restoring {{cts|6|12}} negative energy. The negative energy gained is reduced by 25% per enemy hit, restoring a maximum of {{cts|24|48}}. Enemies hit will become aware of you.
+|desc =
+Fires out a bolt of cosmic energy in the target direction. The projectile continues until it hits a wall or the edge of the map, dealing {{ctspd|20|250}} dark damage to enemies hit and restoring {{cts|6|12}} negative energy. The negative energy gained is reduced by 25% per enemy hit, restoring a maximum of {{cts|24|48}}. Enemies hit will become aware of you.
 }}

@@ -1,4 +1,5 @@
 {{Ability box
+|game_version=1.7.6
 |image=Dark ritual.png
 |name=Dark Ritual
 |category_type={{ct|Corruption}}
@@ -8,7 +9,6 @@
 |cost=20 Vim
 |cooldown=30
 |desc=
-Increases your spell critical damage multiplier by {{ctspd|20|60%}}.
-
+Increases your critical damage multiplier by {{ctspd|20|50}}.
 The multiplier will increase with your Spellpower.
 }}

@@ -1,5 +1,5 @@
 {{Ability box
-|game_version=1.5.10
+|game_version=1.7.6
 |image=Unbreakable will.png
 |name=Unbreakable Will
 |category_type=[[Prodigies]]
@@ -9,6 +9,5 @@
 |cooldown=7
 |desc=
 Your will is so strong that you simply ignore mental effects used against you.
-
-Warning: this has a cooldown.
+This effect can only occur once every 5 turns.
 }}

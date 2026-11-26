@@ -1,4 +1,5 @@
 {{Ability_box
+|game_version=1.7.6
 |image=Glacial vapour.png
 |name=Glacial Vapour
 |category_type={{ct|Spell}}
@@ -8,9 +9,7 @@
 |cost=12 Mana
 |cooldown=8
 |desc=
-Glacial fumes rise from the ground, doing {{ctspd|4|50}} cold damage in a radius of 3 each turn for {{cts|3|7}} turns.
-
+Glacial fumes rise from the ground, doing {{ctspd|15|70}} cold damage in a radius of 3 each turn for 8 turns.
 Creatures that are wet will take 30% more damage and have 15% chance to get frozen.
-
 The damage will increase with your Spellpower.
 }}

@@ -8,11 +8,9 @@
 |cost=25 Stamina
 |cooldown=20
 |desc=
-Concentrate on your blows; each strike has a chance to deal another, similar, blow for {{CTL|20|5.3|10.5}} turns.
+XXX CHECKME XXX Concentrate on your blows; for {{CTL|10|4|8}} turns, each strike you land on your target in melee range has a {{CL|{{CTSTD|Dex|10|90}}|100%|6.8|6.8|61%|61}} chance to trigger another, similar strike.
 
-The chance to deal another blow is {{CL|{{CTSTD|Dex|10|90}}|100%|6.8|6.8|61%|61}}.
-
-This works for all blows, even ones from other talents and from shield bashes.
+This works for all blows, even those from other talents and from shield bashes, but you can gain no more than one extra blow with each weapon during a turn.
 
 The chance increases with your Dexterity.
 }}

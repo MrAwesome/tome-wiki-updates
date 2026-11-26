@@ -1,5 +1,5 @@
 {{Ability box
-|game_version=1.5.10
+|game_version=1.7.6
 |image=Eternal guard.png
 |name=Eternal Guard
 |category_type=[[Prodigies]]
@@ -7,5 +7,5 @@
 |require=Constitution 50<br />Know the {{t|Block}} talent by equipping a shield
 |use_mode=Passive
 |desc=
-Your block now lasts 1 more turn and does not end when hit.
+Your Block talent now lasts for 2 game turns and you can apply Counterstrike to any number of enemies.
 }}

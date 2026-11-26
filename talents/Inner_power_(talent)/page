@@ -8,7 +8,9 @@
 |cooldown=10
 |cost=75 Mana
 |desc=
-You concentrate on your inner self, increasing all your stats by {{ctspd|2|10}}.
+XXX CHECKME XXX You concentrate on your inner self, increasing all your stats by {{ctspd|4|18}}.
 
-The stat increase will improve with your Spellpower.
+When you take damage, you gain a damage shield for 2 turns (10-turn cooldown).
+
+The stat increase and damage shield strength improve with your Spellpower.
 }}

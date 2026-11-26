@@ -10,11 +10,9 @@
 |cost=10 Steam + 15 Psi
 |range=Steamgun range
 |use_speed=Steamtech
-|desc=Fire a psionic-enhanced shot at a foe doing {{ctwd|50|110%}} {{mind}} weapon damage and infecting it with a psy worm for 8 turns.
-
-Each turn the worm will do {{ctmd|30|350}}/8 {{mind}} damage and restore 1 psi to you, double if stunned or feared.
-
-Also each turn the worm has 25%% chances to spread to a nearby foe in radius 3.
-
+|desc=
+Fire a psionic-enhanced shot at a foe doing {{ctwd|50|110%}} {{mind}} weapon damage and infecting it with a psy worm for 8 turns.
+Each turn the worm will do {{ctmd|3.75|43.75}} mind damage and restore 1 psi to you, double if stunned or feared.
+Also each turn the worm has 25% chances to spread to a nearby foe in radius 3.
 When a creature infected by Psy Worm dies it spreads to all enemies in a radius of 3.
 }}

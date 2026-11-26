@@ -1,5 +1,5 @@
 {{Ability_box
-|game_version=1.7.4
+|game_version=1.7.6
 |image=Matter is energy.png
 |name=Matter is Energy
 |category_type={{ct|Psionic}}
@@ -11,8 +11,6 @@
 |use_speed=Mind
 |desc=
 Matter is energy, as any good Mindslayer knows. Unfortunately, the various bonds and particles involved are just too numerous and complex to make the conversion feasible in most cases. The ordered, crystalline structure of a gem, however, make it possible to transform a small percentage of its matter into usable energy.
-
-This talent consumes one gem and grants {{ctmd|10|40}} energy per turn for (3 + 2 * Gem Level) turns.
-
+This talent consumes one gem and grants {{ctmd|10|40}} psi per turn for between 5 and 13 turns, depending on the quality of the gem used.
 This process also creates a resonance field that provides the (imbued) effects of the gem to you while this effect lasts.
 }}

@@ -8,9 +8,9 @@
 |cooldown=10
 |range=5
 |desc=
-Summon a Jelly to attack your foes. Jellies do not move, but your equilibrium will be reduced by 10% of all damage received by the jelly.
+XXX CHECKME XXX Summon a Jelly to attack your foes. Jellies do not move, but your equilibrium will be reduced by 10% of all damage received by the jelly.
 
-The Jelly will last for a duration of {{cs|(Talent Level)|5|0|10|5}}.
+The Jelly will last for a duration of {{cs|(Talent Level)|5|0|10|5}}, increased by any duration bonus from Resilience.
 
 It will receive the following stats:
 *Strength: 10 + {{cts|2|10|0.75}}

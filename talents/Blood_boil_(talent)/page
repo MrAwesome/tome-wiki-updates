@@ -1,7 +1,7 @@
 {{Ability box
 |image=Blood boil.png
 |name=Blood Boil
-|game_version=1.7.4
+|game_version=1.7.6
 |category_type={{ct|Corruption}}
 |category={{c|Blood}}
 |require={{TalentReq/CorrsReq3}}

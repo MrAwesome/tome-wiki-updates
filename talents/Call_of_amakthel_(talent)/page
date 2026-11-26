@@ -1,5 +1,5 @@
 {{Ability box
-|game_version=1.5.10
+|game_version=1.7.6
 |image=Call_of_Amakthel.png
 |name=Call of Amakthel
 |category_type={{ct|Demented}}
@@ -7,7 +7,7 @@
 |require={{TalentReq/SpellsReq4}}
 |use_mode=Passive
 |desc=
-You attune your horrors to the dead god Amakthel, increasing your summoned horrors damage by {{ctspd|10|40%}}.
+You attune your horrors to the dead god Amakthel, increasing your summoned horrors damage by {{ctspd|10|40}}.
 At talent level 3, your Decaying Devourers spell will summon 4 additional Devourers adjacent to random enemies nearby and your Bloated Horror will learn the Agony talent.
 At talent level 5, victims of your Horrific Display spell will pull enemies in radius 10 1 space towards them each turn.
 The damage increase is based on your Spellpower.

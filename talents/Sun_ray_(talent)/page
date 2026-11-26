@@ -9,7 +9,7 @@
 |cost=-16 Positive
 |cooldown=9
 |desc=
-Calls forth a beam of light from the Sun, doing {{ctspd|20|220}} Light damage to the target.
+XXX CHECKME XXX Calls forth a beam of light from the Sun, doing {{ctspd|20|220}} Light damage to the target. Active Sun Beam amplification further increases the damage by its amplification percentage.
 
 At level 3 the beam will be so intense it will also blind the target and everyone in a radius 2 around it for {{cts|2|4}} turns.
 

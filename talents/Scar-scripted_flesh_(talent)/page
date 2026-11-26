@@ -7,7 +7,7 @@
 |require={{TalentReq/RacialReq3}}
 |use_mode=Passive
 |desc=
-When you crit you have a {{ctl|100%|25|50%}} chance to reduce by 1 the remaining cooldown of one of your inscriptions and of any saturations effects.
+When you crit you have a {{ctl|100%|25|50%|false|1}} chance to reduce by 1 the remaining cooldown of one of your inscriptions and of any saturations effects.
 
 This effect can only happen once per turn.
 }}

@@ -1,4 +1,6 @@
 {{Ability box
+|ashes_version=1.1.4
+|game_version=1.7.6
 |image=Ominous shadow.png
 |name=Ominous Shadow
 |category_type={{ct|Corruption}}
@@ -8,7 +10,8 @@
 |cost=4 Vim
 |range=10
 |desc=
-When a creature afflicted with Bleak Outcome dies, you gain a charge of Ominous Shadow {{cts|1|6}} for 12 turns.
-Each charge can be used to become invisible (power {{ctspd|10|50}}) for 2 turns.
+By gorging yourself on up to {{cts|3|9}} stacks of Bleak Outcome from a creature, you turn into an Ominous Shadow for one turn per stack.
+While transformed you are invisible (power {{ctspd|10|70}}), convert 100% of all damage done to darkness and gain darkness resistance penetration and damage increase equal to your highest.
+While transformed you can not apply new Bleak Outcome stacks.
 |avail.classes=[[Demonologist]]
 }}

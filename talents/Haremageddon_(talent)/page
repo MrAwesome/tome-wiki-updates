@@ -1,12 +1,1 @@
-{{Ability_box
-|name=HAREMAGEDDON
-|category_type={{ct|Wild-Gift}}
-|category={{c|Other}}
-|game_version=1.7.2
-|range=5
-|cooldown=6
-|use_speed=Global Speed
-|desc=Summon zombie bunnies!
-
-''Effects: Summons ceiling(talent level + 3) zombie bunnies at random locations within 7 radius around the user. Then permanently makes the user's cooldown for this talent 3 turns longer.''
-}}
+DELETE

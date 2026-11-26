@@ -1,16 +1,1 @@
-{{Ability box
-|image=Will o_ the wisp.png
-|name=Will o' the Wisp
-|category_type={{ct|Spell}}
-|category={{c|Grave}}
-|require={{TalentReq/SpellsReq2}}
-|use_mode=Sustained
-|cost=60 Mana
-|cooldown=30
-|desc=
-Surround yourself with undead energies. When one of your minions is destroyed while inside your necrotic aura, it has a (30 + 10 * Talent Level)% chance to create a will o' the wisp.
-
-The will o' the wisp will take a random target in sight and home in on it. When it reaches the target, it will explode for (20 + {{ctspd|25|300}}) cold damage.
-
-The damage will increase with your Spellpower.
-}}
+DELETE

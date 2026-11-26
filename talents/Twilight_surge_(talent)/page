@@ -10,7 +10,7 @@
 |range=0
 |use_speed=Spell
 |desc=
-A surge of twilight pulses from you, doing (10 + 0.2 * Spellpower * {{cts|1|5}}) light and (10 + 0.2 * Spellpower * {{cts|1|5}}) darkness damage to all others within radius 5.
+A surge of twilight pulses from you, dealing light and darkness damage to all others within radius 5. Damage starts at 10 per type and increases with Spellpower and talent level.
 
 The damage dealt will increase with your Spellpower.
 }}

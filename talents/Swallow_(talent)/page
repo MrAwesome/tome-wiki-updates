@@ -1,5 +1,5 @@
 {{Ability box
-|game_version=1.4.5
+|game_version=1.7.6
 |image=Swallow.png
 |name=Swallow
 |category_type={{ct|Wild-Gift}}
@@ -9,19 +9,18 @@
 |cooldown={{ctl|4|10|7}}
 |range=1
 |desc=
-Attack the target for {{ctwd|160|250%}} nature weapon damage.
+Attack the target for {{ctwd|160|250%}} Nature weapon damage.
+If the attack brings your target below a percent of its max life (based on talent level and relative [[Size]]) or kills it, you attempt to swallow it, killing it automatically and regaining life and equilibrium depending on its level.
+The target may save against your physical power to prevent this attempt.
+Levels in Swallow raise your Physical and Mental critical rate by {{cts|2|10%|0.5}}.
+Each point in sand drake talents increase your physical resistance by 0.5%.
+This talent will also attack with your shield, if you have one equipped.
 
-If the attack brings your target's life low enough (see below) or kills it, you can try to swallow it, killing it automatically and regaining (2 * Target Level + 5) life while reducing your equilibrium by (Target Level + 5).
-
-The chance to swallow depends on your talent level and the relative size of the target.
-
-The maximum percentage of life the target may have to still be swallowed is {{cl|(Talent Level * (Self [[Size]] / Target Size))|50%|13|1|25%|5}}.
-
-The swallow attempt checks your physical power against the target's physical save.
-
-Even targets that are immune to instant kills can be swallowed if they have 5% or less health.
-
-Each point in sand drake talents also increases your physical resistance by 0.5%.
-
-Levels in Swallow additionally raises your Physical and Mental critical rate by {{cts|2|10%|0.5}}, passively
+Max life threshold at your current size:
+Tiny:  {{gtl|1|5}}
+Small:  {{gtl|1|5}}
+Medium:  {{gtl|1|5}}
+Big:  {{gtl|1|5}}
+Huge:  {{gtl|1|5}}
+Gargantuan:  {{gtl|1|5}}
 }}

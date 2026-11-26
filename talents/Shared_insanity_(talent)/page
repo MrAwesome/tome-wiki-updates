@@ -1,5 +1,5 @@
 {{Ability box
-|game_version=1.5.10
+|game_version=1.7.6
 |image=Shared_Insanity.png
 |name=Shared Insanity
 |category_type={{ct|Demented}}
@@ -7,7 +7,7 @@
 |require={{TalentReq/SpellsReqHigh3}}
 |use_mode=Passive
 |desc=
-You establish a powerful mental link with your worm that walks.
-		As long as you remain within radius 3 of your worm that walks each of you gains floor({{cts|15|25}}) all resistance for 5 turns.
-		Additionally, your worm that walks permanently gains an inscription slot every 2 raw talent levels floor(({{gtl|1|5|raw}})/2).
+You establish a powerful mental link with your Worm that Walks.
+As long as you remain within radius 3 of your worm that walks each of you gains {{cts|15|25%}} all resistance for 5 turns.
+Additionally, your Worm that Walks permanently gains an inscription slot every 2 raw talent levels ({{gtl|1|5|raw}}).
 }}

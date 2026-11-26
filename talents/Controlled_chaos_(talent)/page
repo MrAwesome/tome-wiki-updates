@@ -1,5 +1,5 @@
 {{Ability box
-|game_version=1.5.10
+|game_version=1.7.6
 |image=Controlled_Chaos.png
 |name=Controlled Chaos
 |category_type={{ct|Demented}}
@@ -9,6 +9,6 @@
 |cooldown=30
 |desc=
 You lean to alter chaotic forces to your advantage.
-		Your maximum negative insanity effect is reduced from 50% to floor({{CTL|15%|50|28%}}).<br>
-		You may activate this talent to consume any Chaos Orbs you have gaining 10 insanity per orb.
+Your maximum negative insanity effect is reduced from 50% to {{ctl|15%|45|28%}}.
+You may activate this talent to consume any Chaos Orbs you have, gaining 10 insanity per orb.
 }}

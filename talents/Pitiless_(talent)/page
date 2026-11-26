@@ -1,4 +1,5 @@
 {{Ability box
+|ashes_version=1.1.4
 |game_version=1.7.6
 |image=Pitiless.png
 |name=Pitiless
@@ -9,7 +10,9 @@
 |range=7
 |cooldown={{ctl|10|46|30}}
 |use_speed=Instant
-|desc=You launch a mental assault on the target.<br \> The assult<!-- The game's own typo. --> increases the cooldown of any already cooling down talents by {{cts|1|5|log}}, the duration of any magical, physical or mental detrimental effects by {{cts|2|6|log}} (max 4x duration) and decreases the duration of any magical, physical or mental beneficial effects by {{cts|1|5|log}}.
+|desc=
+You launch a mental assault on the target.
+The assult increases the cooldown of any already cooling down talents by {{cts|1|5|log}}, the duration of any magical, physical or mental detrimental effects by {{cts|2|6|log}} (max 4x duration) and decreases the duration of any magical, physical or mental beneficial effects by {{cts|1|5|log}}.
 |avail.races=[[Doomelf]]
 }}
 ===Notes===

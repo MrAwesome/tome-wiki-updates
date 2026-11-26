@@ -1,5 +1,7 @@
 
 {{Ability box
+|ashes_version=1.1.4
+|game_version=1.7.6
 |name=Detonating Charge
 |image=Detonating_charge.png
 |category_type={{ct|Corruption}}
@@ -9,10 +11,8 @@
 |cooldown=12
 |range=5-10
 |desc=
-Launch yourself toward a target. If the target is reached, you get a free attack doing {{cts|121|210}}% weapon damage.
-
-If the attack hits, you release a massive burst of fire in radius {{cts|2|5}}, knocking away all enemies except your target and dealing 40-82* damage.
-
+Launch yourself toward a target. If the target is reached you get a free attack doing {{ctwd|50|190%}} weapon damage.
+If the attack hits you release a massive burst of fire in radius {{cts|1|4}}, knocking away all enemies except your target and dealing {{ctspd|30|190}} damage.
 You must charge from at least 2 tiles away.
 
 ''*Damage scales with spellpower.''

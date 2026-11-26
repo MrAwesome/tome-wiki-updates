@@ -1,4 +1,5 @@
 {{Ability box
+|game_version=1.7.6
 |image=Mental shielding.png
 |name=Mental Shielding
 |category_type={{ct|Psionic}}
@@ -9,6 +10,4 @@
 |use_speed=0
 |desc=
 Clears your mind of current mental effects, and blocks additional ones over 6 turns.  At most, {{cts|1|5|log}} mental effects will be affected.
-
-This talent takes no time to use.
 }}

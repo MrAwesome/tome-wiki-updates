@@ -1,1 +1,4 @@
-{{Ability_box|image=Bind.png|name=Bind|category_type=[[Psionic (category type)|Psionic]]|category=[[Grip (category)|Grip]]|desc=Bind the target in crushing bands of telekinetic force, immobilizing it for X turns. The duration will improve with your Mindpower. The use of a telekinetically-wielded gem or mindstar as a focus will improve the effects of this talent considerably.}}
+{{Ability_box|game_version=1.7.6|image=Bind.png|name=Bind|category_type=[[Psionic (category type)|Psionic]]|category=[[Grip (category)|Grip]]|desc=
+Bind the target in crushing bands of telekinetic force, immobilizing it for {{ctmd|3|10}} turns.
+The duration will improve with your Mindpower.
+}}

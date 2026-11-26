@@ -11,13 +11,9 @@
 |use_speed=Mind
 |desc=
 Instill a part of your living curse into a weapon in your inventory, and toss it nearby. This nearly impervious sentry will attack all nearby enemies for {{cts|8|16}} turns. When the curse ends, the weapon will drop to the ground.
-
-Cursed Sentry attack speed ({{cts|60|140}}%) will improve with talent level.
-
+Cursed Sentry attack speed (currently {{cts|60|140%}}) will improve with talent level.
 When you first select a weapon, it will be remembered and used as long as it's in your inventory. Use Choose Cursed Sentry talent to alter your selection.
-
 At talent level 3, you get the ability to afflict powerful mundane objects (greater [[Ego|egos]]).
-
 At talent level 5, you can corrupt [[Artifact|artifacts]].
 |avail.classes=[[Cursed]], [[Doomed]]
 }}

@@ -9,18 +9,18 @@
 |cost= -40 insanity
 |cooldown=15
 |desc=
-You invoke a long standing pact with a fellow horror, a Worm That Walks, to help you in your travels.
-		You can fully control, level, and equip it.
-		Using this spell will ressurect your friendly horror if it died, giving it back (60+({{ctspd|15|450}}))/7;7;{{ctl|100%|27|55%}} life.
-		Higher raw talent levels will give your horror more equipment slots:
+You invoke a long standing pact with a fellow horror, a Worm that Walks, to help you in your travels.
+You can fully control, level, and equip it.
+Using this spell will ressurect your friendly horror if it died, giving it back {{ctspd|62.14285714|124.2857143}} life.
+Higher raw talent levels will give your horror more equipment slots:
 
-* Level 1:  Mainhand, Offhand
-* Level 2:  Body
-* Level 3:  Belt
-* Level 4:  Ring, Ring
-* Level 5:  Ring, Ring, Trinket
+Level 1:  Mainhand, Offhand
+Level 2:  Body
+Level 3:  Belt
+Level 4:  Ring, Ring
+Level 5:  Ring, Ring, Trinket
 
-		To change your horror's equipment and talents first transfer the equipment from your inventory then take control of it.
+To change your horror's equipment and talents first transfer the equipment from your inventory then take control of it.
 }}
 '''Notes:'''
 * After dying, the Worm will resurrect after a while, so there is usually no need to actively cast this spell out of combat

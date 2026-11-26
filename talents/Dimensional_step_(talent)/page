@@ -1,5 +1,5 @@
 {{Ability box
-|game_version=1.4.5
+|game_version=1.7.6
 |image=Dimensional step.png
 |name=Dimensional Step
 |category_type={{ct|Chronomancy}}
@@ -11,8 +11,6 @@
 |cooldown=10
 |use_speed=0
 |desc=
-Teleports you to up to {{cts|5|9|0.5|0S|1A}} tiles away, to a targeted location within line of sight.
-
+Teleports you to up to {{cts|5|9|0.5|0|1}} tiles away, to a targeted location in line of sight.
 At talent level 5 you may swap positions with a target creature.
-
 }}

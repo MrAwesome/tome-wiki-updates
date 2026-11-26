@@ -1,8 +1,8 @@
 {{Ability box
 |image=Lingering cloud.png
 |name=Lingering Cloud
-|game_version=1.4.6
-|embers_version=1.0.3
+|game_version=1.7.6
+|embers_version=1.1.10
 |category_type={{ct|Steamtech}}
 |category={{c|Battle Machinery}}
 |require={{TalentReq/SteamReq2}}
@@ -10,10 +10,8 @@
 |use_speed=Global Speed
 |desc=
 Explosive Steam Engine vapour now lingers for 5 turns.
-Each turn, bleeding foes inside the cloud will take ({{ctstmd|20|400}}/5) fire damage.
-
+Each turn, bleeding foes inside the cloud will take {{ctstmd|4|80}} fire damage.
 Any steamtech-using creature will also regenerate {{cts|1|5}} additional steam per turn while inside the cloud.
-
 Damage scales with your Steampower.
-
+#{italic}#Modern technology at the service of burnination!#{normal}#
 }}

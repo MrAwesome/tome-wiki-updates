@@ -1,4 +1,5 @@
 {{Ability_box
+|game_version=1.7.6
 |image=Hack_n_back.png
 |name=Hack'n'back
 |category_type={{ct|Technique}}
@@ -7,5 +8,5 @@
 |cooldown=14
 |cost=30 Stamina
 |desc=
-You hit your target, doing {{ctwd|40|100%}} damage, distracting it while you jump back {{cts|1.2|3.3}} squares away.
+You hit your target, doing {{ctwd|40|100%}} damage, distracting it while you jump back {{cts|2|4}} squares away.
 }}

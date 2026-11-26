@@ -1,6 +1,7 @@
 '''Note: This talent is no longer in the game. It was changed to {{t|Weapon of Wrath}}'''.
 
 {{Ability_box
+|game_version=1.7.6
 |image=Martyrdom.png
 |name=Martyrdom
 |category_type=[[Celestial (category type)|Celestial]]
@@ -11,4 +12,6 @@
 |cost=25 Positive
 |cooldown=22
 |use_speed=1 turn
-|desc=Designate a target as a martyr for 10 turns. When the martyr deals damage, it also damages itself for (8, 16, 24, 32, 40)% of the damage dealt.}}
+|desc=
+Designate a target as a martyr for 10 turns. When the martyr deals damage, it also damages itself for {{gtl|1|5}} of the damage dealt.
+}}

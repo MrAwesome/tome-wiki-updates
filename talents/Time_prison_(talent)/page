@@ -1,4 +1,5 @@
 {{Ability_box
+|game_version=1.7.6
 |image=Time prison_2017.png
 |name=Time Prison
 |category_type={{ct|Spell}}
@@ -8,11 +9,7 @@
 |cooldown=40
 |range=10
 |desc=
-Removes the target from the flow of time for a duration of {{cs|(0.03 * Spellpower * Talent Level)|4|0|12|8}}.
-
-In this state, the target can neither act nor be harmed.
-
+Removes the target from the flow of time for {{gtl|1|5}} turns. In this state, the target can neither act nor be harmed.
 Time does not pass at all for the target, no talents will cooldown, no resources will regen, and so forth.
-
 The duration will increase with your Spellpower.
 }}

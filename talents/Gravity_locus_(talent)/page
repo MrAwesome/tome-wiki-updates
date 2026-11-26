@@ -1,5 +1,5 @@
 {{Ability box
-|game_version=1.4.3
+|game_version=1.7.6
 |image=Gravity locus.png
 |name=Gravity Locus
 |category_type={{ct|Chronomancy}}
@@ -10,5 +10,6 @@
 |use_speed=Sustained
 |range=10
 |desc=
-Create a gravity field around you that converts ({{cTL|80|10|40}})% all damage you deal into physical damage, slows incoming projectiles by ({{cTL|80|10|50}})%, and protects you from all gravity damage and effects. Additionally, damage dealt by {{t|Repulsion Blast}} has a ({{cTL|100|10|75}})% chance to reduce the target's knockback resistance by half for two turns.
+Create a gravity field around you that converts {{ctl|80%|10|40%}} all damage you deal into physical damage, slows incoming projectiles by {{ctl|80%|10|50%}}, and protects you from all gravity damage and effects.
+Additionally, damage dealt by {{t|Repulsion Blast}} has a {{ctl|100%|10|75%}} chance to reduce the target's knockback resistance by half for two turns.
 }}

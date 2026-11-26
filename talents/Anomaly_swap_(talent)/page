@@ -1,5 +1,5 @@
 {{Ability box
-|game_version=1.4.5
+|game_version=1.7.6
 |image=Anomaly swap.png
 |name=Anomaly Swap
 |category_type={{ct|Chronomancy}}
@@ -8,5 +8,6 @@
 |use_mode=Uncontrolled Anomaly
 |cooldown=0
 |range=10
-|desc=You swap locations with a random target (in range 10).
+|desc=
+You swap locations with a random target.
 }}

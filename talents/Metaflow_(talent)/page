@@ -1,4 +1,5 @@
 {{Ability_box
+|game_version=1.7.6
 |image=Metaflow_2017.png
 |name=Metaflow
 |category_type={{ct|Spell}}
@@ -7,5 +8,6 @@
 |cost=70 Mana
 |cooldown=50
 |desc=
-Your mastery of the arcane flows allow you to reset the cooldown of {{cts|2|7|log}} of your spells of tier (Talent Level) or less.
+Your mastery of arcane flows allow you to reset the cooldown of up to {{cts|2|7|log}} of your spells (that don't have a fixed cooldown) of tier {{gtl|1|5}} or less.
+In addition for {{cts|2|7}} turns you are overflowing with energy; all known spells are considered one talent level higher when casting them.
 }}

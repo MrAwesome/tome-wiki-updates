@@ -1,5 +1,5 @@
 {{Ability box
-|game_version=1.7.0
+|game_version=1.7.6
 |image=Grave Mistake.png
 |name=Grave Mistake
 |category_type={{ct|Spell}}
@@ -11,6 +11,5 @@ Upon expiring the corpselight implodes, pulling in all foes towards its center a
 The damage is increased by +10% per stack.
 The damage will increase with your Spellpower.
 
-<br>
-<b>Learning this spell will make Corpselight cost two souls to use instead of one.</b>
+#PURPLE#Learning this spell will make Corpselight cost two souls to use instead of one.
 }}

@@ -9,9 +9,7 @@
 |use_speed=Instant
 |desc=
 Orcs have seen countless battles, and won many of them.
-You revel in the defeat of your foes, gaining {{ctstd|Con|3|10%}} + 5% damage resistance for 2 turns each time you kill an enemy.
-
-The resistance will scale with your talent level and Constitution.
-
-Passively increase all damage penetration by {{cTL|20%|7|15%}}.
+You revel in the defeat of your foes, gaining {{ctstd|Con|8|15}} damage resistance for 2 turns each time you kill an enemy.
+The resistance will scale with talent level and your Constitution.
+Additionally, passively increase all damage penetration by {{ctl|20%|7|15%|false|1}}.
 }}

@@ -1,4 +1,5 @@
 {{Ability_box
+|game_version=1.7.6
 |image=Dig.png
 |name=Pulverizing Auger
 |category_type={{ct|Spell}}
@@ -9,9 +10,8 @@
 |cost=15 Mana
 |cooldown=6
 |desc=
-Fire a powerful beam of stone shattering forces, digging out up to {{cts|1|5|log}} walls in its path.
-
-The beam also affects any creatures in its path, dealing {{ctspd|30|300}} physical damage to all.
-
+Fire a powerful beam of stone-shattering force, digging out any walls in its path up to {{cts|1|5|log}} range.
+The beam continues to a range of 10, affecting any creatures in its path, dealing {{ctspd|20|230}} physical damage to them.
+If any walls are dug, you gain {{cts|15|30%}} physical damage bonus for 6 turns.
 The damage will increase with your Spellpower.
 }}

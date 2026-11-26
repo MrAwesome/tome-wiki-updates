@@ -10,9 +10,8 @@
 |cost=2 Steam drain + 50 Psi
 |cooldown=20
 |use_speed=Mind
-|desc=Any time your deal damage with a psionic ability you incur a negative biofeedback in your foes, stacking up to {{gtl|1|5|raw}} times for 5 turns.
-
-Each stack reduces their physical save by {{CTS|3|7}}, defense and armour by {{CTS|2|6}}.
-
+|desc=
+Any time you deal damage with a psionic ability you incur a negative biofeedback in your foes, stacking up to {{gtl|1|5|raw}} times for 5 turns.
+Each stack reduces their physical save by {{cts|3|7}}, defense and armour by {{cts|2|6}}.
 This effect may only occur once per turn.
 }}

@@ -1,8 +1,12 @@
 {{Ability_box
+|game_version=1.7.6
 |image=Dream prison.png
 |name=Dream prison
 |category_type={{ct|Psionic}}
 |category={{c|Dreaming}}
-|desc=Imprisons all sleeping targets within range in their dream state, effectively extending sleeping effects for as long as Dream Prison is maintained. This powerful effect constantly drains X% of your maximum Psi per turn, and is considered a psionic channel; as such it will break if you move, use a talent that consumes a turn, or activate an item. (Note that sleeping effects that happen each turn, such as Nightmare's damage and Sleep's contagion, will cease to function for the duration of the effect.)
+|desc=
+Imprisons all sleeping targets within range in their dream state, effectively extending sleeping effects for as long as Dream Prison is maintainted.
+This powerful effect constantly drains {{ctl|1%|5|2.5%}} of your maximum Psi (excluding this talent) per turn, and is considered a psionic channel; as such it will break if you move.
+(Note that sleeping effects that happen each turn, such as Nightmare's damage and Sleep's contagion, will cease to function for the duration of the effect.)
 |avail.escorts=[[Escorts#Temporal_Explorer_.28Arcane.29|Temporal Explorer (Arcane)]] ([[Escorts#Betraying_to_Zigur|Betray Escort to Zigur]]), via revealing the locked {{c|Dreaming}} category
 }}

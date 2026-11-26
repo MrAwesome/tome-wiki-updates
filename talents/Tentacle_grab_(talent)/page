@@ -2,13 +2,12 @@
 |name=Tentacle Grab
 |category_type=Wild-Gift
 |category=Horror
-|game_version=1.4.9
+|game_version=1.7.6
 |range=6
 |cost= 10 Equilibrium
 |cooldown=15
 |desc=
-Grab a target and drag it to your side, holding it down and strangling it for {{cts|3|7}} turns.
+Grab a target and drag it to your side, holding it in place and silencing non-undead and creatures that need to breathe for 5 turns.
 The grab will also deal {{ctmd|5|70}} slime damage per turn.
-
 The damage will increase with your Mindpower.
 }}

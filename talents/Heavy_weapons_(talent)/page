@@ -7,15 +7,13 @@
 |category = {{c|Heavy Weapons}}
 |require = {{TalentReq/SteamReq1}}
 |use_mode = Passive
-|desc = You gain the ability to equip one of 3 heavy weapons listed below, temporarily granting you a special attack. Heavy weapons are significantly more powerful than a steamgun, but require heavy ammunition to fire. You can store up to 5 ammunition at a time, and regenerate 1 every 3 turns while a heavy weapon is not equipped.
+|desc =
+You gain the ability to equip one of 3 heavy weapons listed below, temporarily granting you a special attack. Heavy weapons are significantly more powerful than a steamgun, but require heavy ammunition to {{fire}}. You can store up to 5 ammunition at a time, and regenerate 1 every 3 turns while a heavy weapon is not equipped.
 
-'''{{t|Flamethrower}}''': An incendiary device which projects streams of liquid flame at your foes. Deals {{ctwd|100|150%}} steamgun {{fire}} damage over 3 turns to those in a cone with a radius equal to your steamgun's range. The flamethrower ignores armor, always hits, and counts as a steamgun shot for the purpose of on-hits.
+#AQUAMARINE#{{t|Flamethrower}}#LAST#: An incendiary device which projects streams of liquid flame at your foes. Deals {{ctwd|100|150%}} steamgun fire damage over 3 turns to those in radius 5. The flamethrower ignores armor, always hits, and counts as a steamgun shot for the purpose of on-hits.
+#AQUAMARINE#{{t|Shockstaff}}#LAST#: An electrically charged baton wielded in close combat. Deals {{ctwd|120|150%}} {{lightning}} damage to enemies in a frontal arc, as well as reducing the damage they deal by {{ctl|50%|10|25%}} for 3 turns. This counts as a melee attack but triggers ammunition on-hit effects. All shockstaff attacks will also make a shield attack for the same damage as lightning. You can charge up to your steamgun's range to make shockstaff attacks.
+#AQUAMARINE#{{t|Boltgun}}#LAST#: A multi-barreled steamgun that launches efficient, chemical infused bolts. Fires twice for {{ctwd|60|110%}} steamgun {{acid}} damage and generates {{ctstmd|1|6}} steam per hit.
 
-'''{{t|Shockstaff}}''': An electrically charged baton wielded in close combat. Deals {{ctwd|120|150%}} {{lightning}} damage to enemies in a frontal arc, as well as reducing the damage they deal by {{ctl|50|10|25%}} for 3 turns. This counts as a melee attack but triggers ammunition on-hit effects. All shockstaff attacks will also make a shield attack for the same damage as {{lightning}}. You can charge up to your steamgun's range to make shockstaff attacks.
-
-'''{{t|Boltgun}}''': A multi-barreled steamgun that launches efficient, chemical infused bolts. Fires twice for {{ctwd|60|110%}} steamgun {{acid}} damage and generates {{ctstmd|1|6}} steam per hit.
-		
-<br>The damage dealt by your Heavy Weapons is based off your currently equipped ammunition, and are treated as Steamguns for the purposes of weapon mastery talents and other effects.
-
+The damage dealt by your Heavy Weapons is based off your currently equipped ammunition, and are treated as Steamguns for the purposes of weapon mastery talents and other effects.
 Firing your Steamgun will immediately unequip your heavy weapon.
 }}

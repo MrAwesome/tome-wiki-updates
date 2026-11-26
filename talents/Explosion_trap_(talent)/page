@@ -8,11 +8,11 @@
 |cost=15 Stamina
 |range=Trap Range
 |desc=
-Lay a simple yet effective trap that explodes on contact, doing (30 + {{css|Cun|0.4|4}} * Trap Power) fire burn damage in a radius of 2.
+XXX CHECKME XXX Lay a simple yet effective trap that explodes on contact, dealing fire burn damage in a radius of 2. The damage scales with your Cunning and the level of {{t|Trap Mastery}} or {{t|Trap Priming}} controlling the trap.
 
 High level {{t|Lure}} can trigger this trap.
 
-Trap Power is determined by your raw talent level in {{t|Trap Mastery}}.
+Trap effectiveness depends on your Cunning and the level of {{t|Trap Mastery}} or {{t|Trap Priming}} controlling the trap.
 
 The trap will last for a duration of (8 + {{t|Trap Mastery}} Level) turns or until it is triggered.
 }}

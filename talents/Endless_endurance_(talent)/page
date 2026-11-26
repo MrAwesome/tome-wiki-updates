@@ -12,6 +12,6 @@ Working long hours at a forge has made you incredibly slow to tire and given you
 
 Your healing factor is increased by {{cts|4|17.5%}} and your life regeneration by {{cts|3|7.5}}.
 
-Stopping you is nearly impossible; your pinning resistance is increased by {{ctl|100|20|50%}}.		
+Stopping you is nearly impossible; your pinning resistance is increased by {{ctl|100%|20|50%|false|1.2}}.
 |avail.escorts=[[Escorts#Tinker|Tinker]], +1 to talent
 }}

@@ -1,6 +1,6 @@
 {{Ability box
 |game_version=1.7.6
-|embers_version=1.0.3
+|embers_version=1.1.10
 |image=Essence drain.png
 |name=Essence Drain
 |category_type={{ct|Race}}
@@ -11,8 +11,7 @@
 |cooldown={{ctl|10|46|30}}
 |desc=
 You send a wave of darkness at your foe, dealing {{css|Mag|50|250}} darkness damage.
-The darkness will drain a part of it's life essence (only works on living targets) to increase the duration before the next charge of death momentum is used by {{cts|6|12}}.
+The darkness will drain a part of its life essence (only works on living targets) to increase the duration before the next charge of death momentum is used by {{cts|6|12}}.
 Only usable when you have the death momentum effect.
 The damage scales with your Magic stat.
-
 }}

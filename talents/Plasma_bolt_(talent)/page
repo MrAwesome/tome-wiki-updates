@@ -11,7 +11,8 @@
 |range = 8
 |travel_speed = 500% of base
 |use_speed = Spell
-|desc = Fires out a bolt of pure energy, dealing {{ctspd|50|270}} damage divided between {{light}} and {{darkness}} in a radius of 1, and slowing targets hit. Their movement is reduced by {{ctspd|15|95}}% (maximum 50%) and attacking, casting and mind attacks by 60% of that amount. The bolt will attune to your current positive and negative energy amounts.
+|desc =
+XXX CHECKME XXX Fires out a bolt of pure energy, dealing {{ctspd|50|270}} damage divided between {{light}} and {{darkness}} in a radius of 1, and slowing targets hit. Their movement is reduced by up to {{ctspd|15|95}}% (maximum 50%), scaled by the negative share of the energy cost, and attacking, casting and mind attacks by 60% of that amount, scaled by the positive share. The bolt will attune to your current positive and negative energy amounts.
 |avail = [[NPC Only (category type)|NPC only]]
 }}
 ===Notes===

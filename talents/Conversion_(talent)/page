@@ -8,8 +8,8 @@
 |cost=25 Feedback
 |cooldown=24
 |desc=
-Use Feedback to replenish yourself.  This heals you for (10 * {{ctmd|10|50}}) life, and restores {{ctmd|10|50}} stamina, (1.8 * {{ctmd|10|50}}) mana, (-1.5 * {{ctmd|10|50}}) equilibrium, {{ctmd|10|50}} vim, (0.5 * {{ctmd|10|50}}) positive and negative energies, (0.7 * {{ctmd|10|50}}) psi energy, and (0.25 * {{ctmd|10|50}}) hate.
+Use Feedback to replenish yourself.  This heals you for 100–500 life (with mind critical hits possible), restores 10–50 stamina, 18–90 mana, reduces equilibrium by 15–75, restores 10–50 vim, 5–25 positive and negative energies, 7–35 psi energy, and 2.5–12.5 hate.
 
-The heal and resource gain will improve with your Mindpower.
+The heal and resource gain improve with your Mindpower and talent level.
 |avail.escorts=[[Escorts#Defiler_.28Arcane.29|Defiler (Arcane)]] ([[Escorts#Betraying_to_Zigur|Betray Escort to Zigur]]), +1 to talent or via revealing the locked {{c|Feedback}} category
 }}

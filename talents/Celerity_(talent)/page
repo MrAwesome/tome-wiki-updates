@@ -7,5 +7,5 @@
 |require={{TalentReq/ChronoReq1}}
 |use_mode=Passive
 |desc=
-When you move you gain {{cts|10|30%}} movement speed for {{cts|1|2}} turns.  This effect stacks up to three times but can only occur once per turn.
+When you move you gain {{cts|10|30%}} movement speed for {{cts|1|2}} turns. The duration varies with your current Paradox and with Extension when this talent is selected. This effect stacks up to three times but can only occur once per turn.
 }}

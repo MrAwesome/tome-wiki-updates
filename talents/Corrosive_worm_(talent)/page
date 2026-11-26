@@ -1,4 +1,5 @@
 {{Ability box
+|game_version=1.7.6
 |image=Corrosive worm.png
 |name=Corrosive Worm
 |category_type={{ct|Corruption}}
@@ -8,9 +9,7 @@
 |cost=12 Vim
 |range=10
 |desc=
-Infect your target with a corrosive worm that deals {{ctspd|10|60}} acid damage per turn for 10 turns.
-
-If the target dies while the worm is inside, it will explode, doing {{ctspd|10|230}} acid damage in a radius of 4.
-
-The damage will increase with your Spellpower, and can critical.
+Infects the target with a corrosive worm for 6 turns that reduces blight and acid resistance by {{cts|3|20%}} and feeds off damage taken.
+When this effect ends or the target dies the worm will explode, dealing {{ctspd|20|60}} acid damage in a 4 radius ball. This damage will increase by {{ctspd|12|45}} of all damage taken while infected.
+The damage dealt by the effect will increase with spellpower.
 }}

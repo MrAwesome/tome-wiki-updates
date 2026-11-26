@@ -1,4 +1,5 @@
 {{Ability_box
+|game_version=1.7.6
 |image=Blinding_speed_2017.png
 |name=Blinding speed
 |category_type=[[Technique (category type)|Technique]]
@@ -10,5 +11,5 @@
 |cooldown=55
 |use_speed=Instant
 |desc=
-Through rigorous training, you have learned to focus your actions for a short while, increasing your speed by {{CTS|14|45%|0.75}} for 5 turns.
+Through rigorous training, you have learned to focus your actions for a short while, increasing your speed by {{cts|14|40%}} for 5 turns.
 }}

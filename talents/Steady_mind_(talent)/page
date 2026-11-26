@@ -1,4 +1,5 @@
 {{Ability_box|image=Steady mind.png|name=Steady mind
+|game_version=1.7.6
 |category_type=[[Technique (category type)|Technique]]
 |category=[[Unarmed training (category)|Unarmed training]]
 |require=Level: (4, 5, 6, 7, 8)
@@ -8,4 +9,7 @@
 |cost=-
 |cooldown=-
 |use_speed=-
-|desc=Superior cunning and training allows you to outthink and outwit your opponents' physical and mental assualts. Increases Defense by X and Mental Save by X. The Defense bonus will scale with your Dexterity, and the save bonus with your Cunning.}}
+|desc=
+Superior cunning and training allows you to outthink and outwit your opponents' physical and mental assaults.  Increases Defense by {{ctstd|Dex|5|35}} and Mental Save by {{ctstd|Cun|5|35}}.
+The Defense bonus will scale with your Dexterity, and the save bonus with your Cunning.
+}}

@@ -1,8 +1,8 @@
 {{Ability box
 |image=Explosive saw.png
 |name=Explosive Saw
-|game_version=1.4.6
-|embers_version=1.0.3
+|game_version=1.7.6
+|embers_version=1.1.10
 |category_type={{ct|Steamtech}}
 |category={{c|Automated Butchery}}
 |require={{TalentReq/SteamReqHigh2}}
@@ -11,9 +11,7 @@
 |cost=35 Steam
 |cooldown=11
 |desc=
-You send a saw mounted on an automated steam propulsor to assault a foe, dealing {{ctstmd|5|250}}/4 physical damage each turn for 4 turns and silencing it.
-
+You send a saw mounted on an automated steam propulsor to assault a foe, dealing {{ctstmd|1.25|62.5}} physical damage each turn for 4 turns and silencing it.
 At the end of the duration, the saw explodes for {{ctstmd|15|320}} fire damage and flies back, pulling the target up to {{ctl|10|4|9}} tiles towards you.
-
 The damage will increase with your Steampower.
 }}

@@ -11,8 +11,8 @@
 |range=7
 |radius=2
 |desc=
-You use your bond with horrors to summon a decaying bloated horror for floor({{CTL|11|4|8}}) turns.
+XXX CHECKME XXX You use your bond with horrors to summon a decaying bloated horror for floor({{CTL|11|4|8}}) turns.
 The decaying horror cannot move and will attack all hostile creatures in range of it. It possesses the talents Mind Disruption and Mind Sear.
-All its primary stats will be set to getMag() (based on your Magic stat), life rating increased by {{CTS|1|6}}, and all talent levels set to floor({{gtl|1|5}}).  Many other stats will scale with level.
+All its primary stats will be set to your Magic stat, life rating increased by {{CTS|1|6}}, and all talent levels set to floor({{gtl|1|5}}).  Many other stats will scale with level.
 Your increased damage, damage penetration, critical strike chance, and critical strike multiplier stats will all be inherited.
 }}

@@ -1,6 +1,6 @@
 {{Ability box
 |image=shockstar.png
-|game_version=1.5.1
+|game_version=1.7.6
 |name=Shockstar
 |category_type={{ct|Psionic}}
 |category={{c|Battle Psionics}}
@@ -9,7 +9,9 @@
 |cost=20 Psi
 |cooldown=15
 |desc=
-You make a first attack with your mainhand for {{CTWD|120|190%}} weapon damage. if the attack hits the target is distracted and you use that to violently slam your mindstar into it, dealing {{CTWD|350|550%}} damage. The shock is so powerful the target is stunned for {{CTL|14|6|12}} turns and all creatures around in radius {{cts|1|4}} are dazed for the same time. The stun and daze duration is dependant on the number of psionic disruption charges on the target, the given number is for 4 charges.
-
+You make a first attack with your mainhand for {{ctwd|120|190%}} weapon damage.
+If the attack hits the target is distracted and you use that to violently slam your mindstar into it, dealing {{ctwd|350|550%}} damage.
+The shock is so powerful the target is stunned for {{ctl|14|6|12}} turns and all creatures around in radius {{cts|1|4}} are dazed for the same time.
+The stun and daze duration is dependant on the number of psionic disruption charges on the target, the given number is for 4 charges.
 If you do not have a one handed weapon and a mindstar equiped, but have them in your off set, you instantly automatically switch. The wild psionic powers are incompatible with the focused nature of psiblades.
 }}

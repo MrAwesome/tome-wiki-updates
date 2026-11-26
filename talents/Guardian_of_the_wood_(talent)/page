@@ -8,5 +8,5 @@
 |use_mode=Passive
 |desc=
 Thaloren are part of the wood; it shields them from corruption.
-Increase disease immunity by {{ctl|100%|25|70%}}, blight resistance by {{cts|3|10%}}, and all resistances by {{cts|2|6.5%}}.
+Increase disease immunity by {{ctl|100%|25|70%|false|1}}, blight resistance by {{cts|3|10%}}, and all resistances by {{cts|2|6.5%}}.
 }}

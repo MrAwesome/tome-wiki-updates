@@ -5,6 +5,7 @@
 |category={{c|Golem}}
 |require=
 |use_mode=Passive
-|desc=The golem automatically reconfigures heavy mail and massive armours designed for living creatures to protect its own vital areas. 
-Increases armours value by {{gtl|-4|5}}, armour hardiness by {{gtl|-13%|20%}}, and provides {{gtl|-5%|7%}} critical hit reduction when wearing heavy mail or massive armour.
+|desc=
+XXX CHECKME XXX The golem automatically reconfigures heavy mail and massive armours designed for living creatures to protect its own vital areas.
+The armour value, armour hardiness, and critical hit reduction scale with raw talent level and Combat Training mastery: they decrease below raw talent level 3, are 0 at level 3, and increase above level 3 when wearing heavy mail or massive armour.
 }}

@@ -1,14 +1,1 @@
-{{Ability box
-|image=Frostdusk.png
-|name=Frostdusk
-|category_type={{ct|Spell}}
-|category={{c|Shades}}
-|require={{TalentReq/SpellsReqHigh4}}
-|use_mode=Sustained
-|cost=50 Mana
-|cooldown=30
-|desc=
-Surround yourself with Frostdusk, increasing all your darkness and cold damage by (2 * Raw Talent Level)%, and ignoring {{ctl|100%|17|50%|raw}} of the darkness resistance of your targets.
-
-In addition, all darkness damage you take heals you for {{ctl|100%|17|50%}} of the damage.
-}}
+DELETE

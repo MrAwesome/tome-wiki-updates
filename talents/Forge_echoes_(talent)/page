@@ -1,4 +1,5 @@
 {{Ability box
+|game_version=1.7.6
 |image=Forge echoes.png
 |name=Forge Echoes
 |category_type={{ct|Psionic}}
@@ -7,7 +8,7 @@
 |cost=20 Psi
 |cooldown=24
 |desc=
-Strike the target with a mighty blow from the forge, inflicting {{ctwd|100|150%}} weapon damage.  If the attack hits, the echo of the attack will lash out at all enemies in a {{cts|1.5|3.5}} radius.
-
-Learning this talent adds {{ctmd|10|50}} damage to your Dream Hammer strikes, split evenly between mind damage and burning damage.
+Strike an adjacent target with a mighty blow from the forge, inflicting {{ctwd|100|150%}} weapon damage.  If the attack hits, the echo of the attack will lash out at all enemies in a {{cts|1|3}} radius of the impact.
+Learning this talent adds {{ctmd|5|25}} mind damage and {{ctmd|5|25}} burning damage to your Dream Hammer strikes.
+The mind and fire damage will scale with your Mindpower.
 }}

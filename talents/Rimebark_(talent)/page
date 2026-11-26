@@ -8,9 +8,9 @@
 |cooldown=10
 |range=5
 |desc=
-Summon a Rimebark to harass your foes. Rimebarks cannot move, but they have a permanent ice storm around them, damaging and freezing anything coming close in a radius of 3.
+XXX CHECKME XXX Summon a Rimebark to harass your foes. Rimebarks cannot move, but they have a permanent ice storm around them, damaging and freezing anything coming close in a radius of 3.
 
-The Rimebark will last for a duration of {{cs|(Talent Level)|5|0|10|5}}.
+The Rimebark will last for a duration of {{cs|(Talent Level)|5|0|10|5}}, increased by {{t|Resilience}}.
 
 It will receive the following stats:
 *Constitution: 10

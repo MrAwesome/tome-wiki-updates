@@ -6,7 +6,7 @@
 |require={{TalentReq/CursedCunReq2}}
 |use_mode=Passive
 |desc=
-Instill hate in your shadows, strengthening their attacks. They gain (-11.5 + 23 * √ Talent Level)% extra Accuracy and (-17.5 + 35 * √ Talent Level)% extra damage.
+XXX CHECKME XXX Instill hate in your shadows, strengthening their attacks. They gain (-11.5 + 23 * √ Talent Level)% extra Accuracy and (-17.5 + 35 * √ Talent Level)% extra damage (both rounded down).
 
 The fury of their attacks gives them the ability to use level (Raw Talent Level) {{t|Dominate}} against their foe. The chance to use {{t|Dominate}}, provided Lightning or Flames were not used first, is {{cl|√ Talent Level|100%|7|1|15.65%|2.23}}.
 

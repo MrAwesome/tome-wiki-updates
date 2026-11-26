@@ -1,5 +1,5 @@
 {{Ability box
-|game_version=1.5.10
+|game_version=1.7.6
 |image=Horrific_Display.png
 |name=Horrific Display
 |category_type={{ct|Demented}}
@@ -11,7 +11,7 @@
 |range=10
 |desc=
 You forcefully try to turn a creature into an horror.
-If the target fails a magical save against your Spellpower, its appearance turns into that of an horror for {{CTS|5|10}} turns, making all other creatures hostile to it.
+If the target fails a magical save against your Spellpower, its appearance turns into that of a horror for {{cts|5|10}} turns, making all other creatures hostile to it.
 Enemies near the target will have their target cleared on application.
 This spell does not work on horrors.
 }}

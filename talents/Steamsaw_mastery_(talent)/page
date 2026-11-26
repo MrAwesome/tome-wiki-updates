@@ -1,13 +1,12 @@
 {{Ability box
 |image=Steamsaw mastery.png
 |name=Steamsaw Mastery
-|game_version=1.4.6
-|embers_version=1.0.3
+|game_version=1.7.6
+|embers_version=1.1.10
 |category_type={{ct|Steamtech}}
 |category={{c|Butchery}}
 |require=Str (18, 24, 30, 36, 42)
 |use_mode=Passive
 |desc=
-Increases Physical Power by {{gtl|10|50}} and increases weapon damage by (22.36 * √Talent Level)% when using steamsaws.
-
+Increases weapon damage by {{gtl|1|5}} and Physical Power by 30 when using steamsaws.
 }}

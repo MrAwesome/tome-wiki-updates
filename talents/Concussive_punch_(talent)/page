@@ -7,7 +7,7 @@
 |cost=20 stamina
 |cooldown=6
 |desc=
-A powerful concussive punch that deals {{ctwd|60|150%}} weapon damage to your target.  If the punch hits, all targets in a radius of (1 + Combo Points) will take {{ctstd|Str|10|450}} damage, multiplied by a factor of (0.25 + Combo Ponits / 5)
+XXX CHECKME XXX A powerful concussive punch that deals {{ctwd|60|150%}} weapon damage to your target, further increased by active Striking Stance. If the punch hits, all targets in a radius of (1 + Combo Points) will take {{ctstd|Str|10|450}} damage, also increased by active Striking Stance and multiplied by a factor of (0.25 + Combo Points / 5).
 
 The area damage will scale with your Strength, and the radius will increase by 1 per combo point.
 

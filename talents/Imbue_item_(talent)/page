@@ -8,7 +8,7 @@
 |cost=80 [[Mana]]
 |cooldown=100
 |desc=
-Imbue a body armor up to tier (Raw Talent Level) with a [[Gem|gem]], granting it additional powers.<br />
+Imbue body armor with a gem of material level up to your Raw Talent Level, granting it additional powers. If you know {{t|Crafty Hands}}, you can also imbue headwear or belts.<br />
 You can only imbue items once, and it is permanent.
 |avail.classes=[[Alchemist]], [[Stone Warden]]
 |avail.escorts=[[Escorts#Alchemist_.28Arcane.29|Alchemist (Arcane)]] (Normal Escort Reward), via revealing the locked {{c|Stone Alchemy}} category

@@ -1,12 +1,1 @@
-{{Ability_box
-|image=Trap launcher.png
-|name=Trap launcher
-|category_type=[[Cunning (category type)|Cunning]]
-|category=[[Trapping (category)|Trapping]]
-|require={{TalentReq/CunsReq4}}
-|use_mode=Passive
-|desc=
-Allows you to create self deploying traps that you can launch up to {{CTS|2|7|log}} grids away.
-
-At level 5 you learn to do this in total silence, letting you lay traps without breaking stealth.
-}}
+DELETE

@@ -9,7 +9,7 @@
 |cooldown=12
 |cost=10 Paradox
 |desc=
-Activate to Seal Fate for 5 turns.  When you damage a target while Seal Fate is active you gain Spin and have a {{ctl|50%|10|40%}} chance to increase the duration of one detrimental status effect on it by one turn.
+XXX CHECKME XXX Activate to Seal Fate for 5 turns (duration modified by paradox and by Extension when it applies to this talent).  When you damage a target while Seal Fate is active you gain Spin and have a {{ctl|50%|10|40%}} chance to increase the duration of one detrimental status effect on it by one turn.
 If you have {{t|Spin Fate}} active the chance will be increased by 33% per Spin (for {{ctl|100%|20|80%}} at three Spin.)
 The duration increase can occur up to {{cts|1|5}} times per turn and the bonus Spin once per turn.
 }}

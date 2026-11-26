@@ -9,7 +9,8 @@
 |cooldown=0
 |range=10
 |use_speed=Spell
-|desc=Reduces the resistances of up to five targets in a ball of radius {{CS|Paradox Spellpower|2|6|20|100}} by {{CS|Paradox Spellpower|10|50|50|100}}%*.
+|desc=
+XXX CHECKME XXX Reduces the resistances of up to five targets in a ball of radius {{cl|Paradox Spellpower|6|2|20|4|100}} by {{CS|Paradox Spellpower|10|50|50|100}}%*.
 
 * (Note: The actual reduction is rolled on each trigger. The game averages 3 random rolls between 50% and 100% of the listed value, creating a bell-curve effect. The in-game tooltip will show a different "snapshot" value each time you hover over it.)
 }}

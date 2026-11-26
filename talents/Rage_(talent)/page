@@ -1,4 +1,5 @@
 {{Ability box
+|game_version=1.7.6
 |image=Rage.png
 |name=Rage
 |category_type={{ct|Wild-Gift}}
@@ -8,5 +9,6 @@
 |cooldown=15
 |range=10
 |desc=
-Induces a killing rage in one of your summons, increasing all its stats by (0.25 * {{ctmd|10|100}}) for 10 turns.
+Induces a killing rage in all your summons within a radius of 5 when a summon is killed, increasing all their stats by {{ctmd|2.5|25}} for 5 turns.
+The bonus will increase with your mindpower.
 }}

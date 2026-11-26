@@ -1,4 +1,5 @@
 {{Ability box
+|game_version=1.7.6
 |name=Ice Core
 |image=Ice core.png
 |category_type={{ct|Spell}}
@@ -9,9 +10,7 @@
 |cost=100 Mana
 |cooldown=40
 |desc=
-Turn your body into pure ice, increasing your Cold damage affinity by {{ctl|50%|5|20%}} and your physical resistance by {{ctspd|5|45%}}.
-
-All direct critical hits (physical, mental, spells) against you have a {{cts|10|50%}} lower Critical multiplier (but always do at least normal damage).
-
+Turn your body into pure ice, increasing your Cold damage affinity by {{ctl|50%|8|25%}} and your physical resistance by {{ctspd|3|27}}.
+You have a {{cts|10|50%}} chance to shrug off all direct critical hits (physical, mental, spell).
 The effects increase with your Spellpower.
 }}

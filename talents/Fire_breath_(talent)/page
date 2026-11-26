@@ -10,7 +10,7 @@
 |cooldown=12
 |range=0
 |desc=
-You breathe fire in a frontal cone of radius {{cts|5|9}}. Any target caught in the area will take {{ctstd|Str|30|650}} fire damage over 3 turns, and has a 25% chance of being Flameshocked for 3 turns, stunning them.
+XXX CHECKME XXX You breathe fire in a frontal cone of radius {{cts|5|9}}. Any target caught in the area will take {{ctstd|Str|30|650}} fire damage over 3 turns, plus {{ctstd|Wil|30|650}} damage if you know Chromatic Fury, and has a 25% chance of being Flameshocked for 3 turns, stunning them.
 
 The damage will increase with your Strength, and the critical chance is based on your Mental crit rate.
 

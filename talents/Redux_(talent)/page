@@ -8,7 +8,6 @@
 |cost=20 Paradox
 |cooldown=12; Fixed Cooldown
 |desc=
-The next talent you cast with a cooldown of {{cts|3|8}} or less will not go on cooldown.
-Once a talent is effected by this spell or 4 turns pass the effect is lost.
-
+XXX CHECKME XXX The next talent you cast with a cooldown of {{cts|3|8}} or less will not go on cooldown.
+Once a talent is affected by this spell or its duration ends (base 4 turns, modified by paradox and by Extension when it applies to this talent), the effect is lost.
 }}

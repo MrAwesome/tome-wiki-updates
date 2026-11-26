@@ -1,16 +1,1 @@
-{{Ability_box
-|name=Warborn
-|image=warborn.png
-|category_type={{ct|Race}}
-|category={{c|Krog}}
-|game_version=1.5.10
-|require={{TalentReq/RacialReq4}}
-|range=10.0
-|cooldown={{CTL|5|45|25}}
-|use_speed=Standard
-|desc=You were created by Ziguranth for one purpose only, to wage war on magic!
-
-For 5 turns all damage taken is reduced by {{CTL|80|20|40}} and when you activate this talent your Wrath of the Wild is put off cooldown.
-
-When you learn this talent you become so strong you can dual-wield any kind of one handed weapons.
-}}
+DELETE

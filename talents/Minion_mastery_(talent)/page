@@ -1,12 +1,1 @@
-{{Ability box
-|image=Minion mastery.png
-|name=Minion Mastery
-|category_type={{ct|Spell}}
-|category={{c|Advanced Necrotic Minions}}
-|require={{TalentReq/SpellsReqHigh4}}
-|use_mode=Passive
-|desc=
-Each minion you summon has a chance to be a more advanced form of undead.
-
-The advanced minions are the Vampire, Master Vampire, Grave Wight, Barrow Wight, Dread, and Lich.
-}}
+DELETE

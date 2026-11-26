@@ -8,7 +8,7 @@
 |cooldown=12
 |range=0
 |desc=
-You breathe ice in a frontal cone of radius {{cts|5|10}}. Any target caught in the area will take {{ctstd|Str|30|430}} cold damage, and has a 25% to be frozen for a few turns (higher rank enemies will be frozen for a shorter time).
+XXX CHECKME XXX You breathe ice in a frontal cone of radius {{cts|5|9}}. Any target caught in the area will take {{ctstd|Str|30|500}} cold damage, plus {{ctstd|Wil|30|500}} damage if you know Chromatic Fury, and has a 25% chance to be frozen for a few turns (higher rank enemies will be frozen for a shorter time).
 
 The damage will increase with your Strength, and the critical chance is based on your Mental crit rate.
 

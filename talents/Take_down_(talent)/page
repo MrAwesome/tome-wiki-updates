@@ -9,7 +9,7 @@
 |cost=15 Stamina
 |cooldown=10
 |desc=
-Rushes forward and attempts to take the target to the ground, making a melee attack for {{CTWD|10|100%}} damage then attempting to grapple them. If you're already grappling the target you'll instead slam them into the ground creating a radius 5 shockwave for {{CTPD|10|400}} physical damage and breaking your grapple.
+XXX CHECKME XXX Rushes forward and attempts to take the target to the ground, making a melee attack for {{CTWD|10|100%}} damage then attempting to grapple them. If you're already grappling the target you'll instead slam them into the ground creating a radius 5 shockwave for {{CTPD|10|400}} physical damage and breaking your grapple.
 
-The grapple effects and duration will be based off your grapple talent, if you have it, and the damage will scale with your Physical Power.
+The grapple effects and duration will be based off your grapple talent, if you have it, and the damage will scale with your Physical Power and Unarmed Mastery.
 }}

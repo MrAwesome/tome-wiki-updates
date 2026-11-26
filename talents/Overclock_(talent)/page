@@ -10,8 +10,8 @@
 |range = 0
 |cooldown = 20 
 |use_speed = Steamtech
-|desc = Send a surge of power into all turrets in sight, extending their duration by {{cts|2|4}} turns and granting them a charged shield absorbing {{ctstmd|40|600}} damage for 10 turns. While the shield holds, each turn the turret will project a bolt of lightning dealing {{ctstmd|10|100}} {{lightning}} damage to a random enemy in radius 6, with a 25% chance to daze.
-
+|desc =
+Send a surge of power into all turrets in sight, extending their duration by {{cts|2|4}} turns and granting them a charged shield absorbing {{ctstmd|40|600}} damage for 10 turns. While the shield holds, each turn the turret will project a bolt of {{lightning}} dealing {{ctstmd|10|100}} lightning damage to a random enemy in radius 6, with a 25% chance to daze.
 The effects will increase with your Steampower.
 }}
 

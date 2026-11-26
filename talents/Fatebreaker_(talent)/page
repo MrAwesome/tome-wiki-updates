@@ -12,8 +12,7 @@
 |travel_speed = Instantaneous
 |use_speed = Standard
 |desc=
-You form a link between yourself and the chosen target for {{CTS|4|9}} turns, tying your fates together. If during this time you receive fatal damage, you reflexively warp reality, ending the effect and attempting to force them to die in your place. 
-		This prevents all damage taken during that turn, redirecting it to your target as temporal and void damage.
-		Any Fortune stacks you have and any Jinx stacks the enemy have will then be consumed to heal you for {{CTS|5|20}} + {{ctspd|20|350}}/100 life per stack.
-
+XXX CHECKME XXX You form a link between yourself and the chosen target for {{cts|4|9}} turns, tying your fates together. If during this time you receive fatal damage, you reflexively warp reality, ending the effect and attempting to force them to die in your place.
+		As long as your target remains alive this redirects all damage you take to it as temporal and darkness damage for 1 turn.
+		Any Fortune stacks you have and any Jinx stacks the enemy have will then be consumed to heal you for {{cts|5|20}} + {{ctspd|20|350}}/100 life per stack.
 }}

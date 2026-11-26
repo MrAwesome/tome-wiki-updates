@@ -7,7 +7,7 @@
 |cost=30 Psi
 |cooldown=24
 |desc=
-Release the bellows of the forge upon your surroundings, inflicting {{ctmd|10|100}} damage, split evenly between mind and burning, and knocking back your enemies in a radius (2 + Talent Level / 2) cone (maximum 7).
+XXX CHECKME XXX Release the bellows of the forge upon your surroundings, inflicting {{ctmd|10|100}} damage, split evenly between mind and burning, and knocking back your enemies in a cone with radius rounded up from 2 plus half your talent level, to a maximum of 7.
 
 Empty terrain may be changed (50% chance) for {{cts|2.5|4.5}} turns into forge walls, which block movement and inflict {{ctmd|0|10}} damage, split evenly between mind and burning, on nearby enemies.
 

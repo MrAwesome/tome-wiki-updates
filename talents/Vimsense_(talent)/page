@@ -1,7 +1,7 @@
 {{Ability box
 |image=Vimsense.png
 |name=Vimsense
-|game_version=1.7.4
+|game_version=1.7.6
 |category_type={{ct|Corruption}}
 |category={{c|Vim}}
 |require={{TalentReq/CorrsReq3}}
@@ -12,7 +12,7 @@
 |desc=
 Feel the very existence of creatures around you for {{cts|4|8}} turns, in a radius of 10.
 
-The evil touch will reduce their blight resistance by {{ctspd|10|30%}} and all saves by {{ctspd|8|50}}, but also make them aware of you.
+The evil touch will reduce their blight resistance by {{ctspd|10|30}} and all saves by {{ctspd|8|50}}, but also make them aware of you.
 
 The resistance and save reduction will improve with your Spellpower.
 }}

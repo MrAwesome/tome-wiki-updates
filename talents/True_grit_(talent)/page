@@ -8,13 +8,13 @@
 |cost=70 Stamina
 |cooldown=30
 |desc=
-Take a defensive stance to resist the onslaught of your foes.
+XXX CHECKME XXX Take a defensive stance to resist the onslaught of your foes.
 
 While wounded, you gain all damage resistance equal to {{CTS|25|45%}} of your missing health.
 
-In addition, your all damage resistance cap increases {{CTL|100%|15|50%}} closer to 100%.
+In addition, your all damage resistance cap increases {{CTL|100%|25|50%}} closer to 100%.
 
-This drains your stamina rapidly at {{CTL|0|(-14)|(-6)}} stamina/turn.
+This drains stamina at a rate starting at 1 per turn and increasing by 0.3 for each turn of sustain.
 
 The effects are refreshed at the start of each turn.
 }}

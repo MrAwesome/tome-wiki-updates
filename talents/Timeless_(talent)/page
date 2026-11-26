@@ -9,6 +9,5 @@
 |use_speed=0
 |desc=
 The world grows old as you stand through the ages. To you, time is different.
-
-Reduces the time remaining on detrimental effects by {{cts|2.9|10.1|log}}, cooling down talents by {{cts|1|5|log}}, and increases the time remaining on beneficial effects by {{cts|1|5|log}} (up to 2 times the current duration).
+Reduces the time remaining on detrimental effects by {{cts|2|10|log}}, most cooling down talents by {{cts|1|5|log}}, and increases the time remaining on beneficial effects by {{cts|1|5|log}} (up to 2 times the current duration).
 }}

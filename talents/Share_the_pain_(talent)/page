@@ -1,5 +1,7 @@
 
 {{Ability box
+|ashes_version=1.1.4
+|game_version=1.7.6
 |name=Share the Pain
 |image=Share_the_pain.png
 |category_type={{ct|Corruption}}
@@ -10,7 +12,6 @@
 |cooldown=20
 |range=1
 |desc=
-You revel in the heat of battle. Whenever an enemy damages you within melee range, you have a {{cts|19|47}}% chance to counter with an attack for {{cts|58|80}}% weapon damage.
-
-You get one chance to deal this damage to a particular target each turn.
+You revel in the heat of battle. Whenever an enemy damages you within melee range, you have a {{cts|16|40%}} chance to counter with an attack for {{ctwd|40|75%}} weapon damage.
+You get once chance to deal this damage to a particular target each turn.
 }}

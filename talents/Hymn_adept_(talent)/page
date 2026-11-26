@@ -6,7 +6,7 @@
 |game_version = 1.7.4
 |require = {{TalentReq/DiviReq1}}
 |use_mode = Passive
-|desc = 
+|desc =
 Your skill in Hymns now improves your sight in darkness, increasing your infravision radius by {{cts|0.75|3.5|0.75}}.
 
 Also, when you end a Hymn, you will gain a buff of a type based on which Hymn you ended.
@@ -15,5 +15,5 @@ Also, when you end a Hymn, you will gain a buff of a type based on which Hymn yo
 
 {{t|Hymn of Detection}} makes you invisible (power {{ctspd|20|30}}) for {{ctspd|5|10}} turns. ''Note: This invisibility has a 40% penalty to your damage dealt.''
 
-{{t|Hymn of Perseverance}} grants a damage shield (power {{ctspd|50|500}}) for {{ctspd|5|10}} turns.
+{{t|Hymn of Perseverance}} grants a damage shield (power {{ctspd|50|500}}) for {{ctspd|5|10}} turns. Shield modifiers can also change the shield's strength and duration.
 }}

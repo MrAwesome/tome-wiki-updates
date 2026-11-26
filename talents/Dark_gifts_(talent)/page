@@ -1,4 +1,5 @@
 {{Ability box
+|game_version=1.7.6
 |image=Dark gifts.png
 |name=Dark Gifts
 |category_type={{ct|Cursed}}
@@ -6,9 +7,6 @@
 |require={{TalentReq/CursedLevReq2}}
 |use_mode=Passive
 |desc=
-Your curses bring you dark gifts. Unlocks bonus level (Raw Talent Level) effects (maximum level 4) on all of your curses, allowing you to gain that effect when the power level of your curse reaches that level.
-
-At talent level 5, the luck penalty of cursed effects is reduced to 1.
-
-Talent levels above 5 add bonus power levels to your curses, increasing their effects by {{cts|1|2.5}} levels, scaling with (Talent Level - 5).
+Your curses bring you dark gifts. Unlocks bonus level {{gtl|1|4|raw}} effects on all of your curses, allowing you to gain that effect when the power level of your curse reaches that level. At talent level 5, the luck penalty of cursed effects is reduced to 1.
+Talent levels above 5 add bonus power levels to your curses, increasing their effects (currently {{gtl|1|5}}).
 }}

@@ -1,19 +1,15 @@
 {{Ability_box
 |image=alloyed_munitions.png
 |name=Alloyed Munitions
-|game_version=1.5.2
+|game_version=1.7.6
 |category_type={{ct|Technique}}
 |category={{c|Munitions}}
 |require={{TalentReq/TechsDexReqHigh4}}
 |use_mode=Passive
 |desc=
 You mix together your munitions, leading to powerful new effects:
-
-[[Incendiary ammunition (talent)|Incendiary]] - Targets struck by the explosion have their armor and saves reduced by {{cTL|30|5|25|0.75}} for 3 turns, and your physical and fire penetration is increased by {{cTL|35%|10|25%}}.
-
-[[Venomous ammunition (talent)|Venomous]] - Shots deal an additional {{cTWD|10|40%}} weapon damage as nature in a radius 1 (2 at Talent Level 3) ball, which applies numbing poison as per Exotic Munitions. This cannot occur more than once per turn.
-
-[[Piercing ammunition (talent)|Piercing]] - Shots deal {{cTPD|4|36}} physical damage and maim the target, bleeding them for a further {{cTPD|20|180}} physical damage over 5 turns and reducing all damage dealt by {{cTL|30%|10|20%}}.
-
+[[Incendiary ammunition (talent)|Incendiary]] - Targets struck by the explosion have their armor and saves reduced by {{ctl|30|5|25|raw}} for 3 turns, and your physical and fire penetration is increased by {{ctl|35%|10|25%|raw}}.
+[[Venomous ammunition (talent)|Venomous]] - Shots deal an additional {{ctwd|10|40%}} weapon damage as nature in a radius {{gtl|1|2}} ball, which applies numbing poison as per Exotic Munitions. This cannot occur more than once per turn.
+[[Piercing ammunition (talent)|Piercing]] - Shots deal {{ctpd|4|36}} physical damage and maim the target, bleeding them for a further {{ctpd|20|180}} physical damage over 5 turns and reducing all damage dealt by {{ctl|30%|10|20%}}.
 The physical damage dealt, armor penetration and save reduction will increase with your Physical Power.
 }}

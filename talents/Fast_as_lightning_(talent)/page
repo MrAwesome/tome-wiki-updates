@@ -1,5 +1,5 @@
 {{Ability box
-|game_version=1.5.10
+|game_version=1.7.6
 |image=Fast as lightning.png
 |name=Fast as Lightning
 |category_type=[[Prodigies]]
@@ -7,9 +7,7 @@
 |require=Cunning 50
 |use_mode=Passive
 |desc=
-When moving with over 800% speed for at least 3 tiles in the same direction, you become so fast you can blink through obstacles as if they were not there.
-
-When you move into an obstacle, you will teleport through them and appear on the other side, up to 5 tiles away.
-
+When moving over 800% speed for at least 3 steps in the same direction, you become so fast you can blink through obstacles as if they were not there.
+While moving this fast you have 50% chances to fully ignore an attack by displacing yourself (this may only happen once per turn).
 Changing direction will break the effect.
 }}

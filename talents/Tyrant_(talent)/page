@@ -6,7 +6,9 @@
 |require={{TalentReq/CursedWilReq3}}
 |use_mode=Passive
 |desc=
-Impose your tyranny on the minds of those who fear you. Your mindpower is increased by (7 * √ Talent Level) against foes who attempt to resist your fears. 
+Impose your tyranny on the minds of those who fear you. Your mindpower is increased by (7 * √ Talent Level) against foes who attempt to resist your fears.
+
+When a foe gains a new fear, you have a 20–50% chance (maximum 60%, depending on Talent Level) to increase the duration of their heightened fear and one random existing fear effect by 1–4 turns, to a maximum of 8 turns. Each time you apply a fear, you gain 2 Mindpower and Physical power for 5 turns, stacking up to 7–20 times depending on Talent Level.
 
 You gain 2 new fears:
 

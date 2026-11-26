@@ -11,11 +11,9 @@
 |cost=10 Steam + 10 Psi
 |cooldown=5
 |use_speed=Mind
-|desc=Call a streak of lightning on your target, dealing {{CTMD|25|400}}/3 to {{CTMD|25|400}} {{lightning}} damage.
-
-If it is wet the lightning propagates to all foes in radius {{CTL|4|1|3.3}}(round up), doing the same damage to each.
-
-All affected foes are seared for 4 turns, reducing their fire resistance by {{CTS|15|40%}} and and mind save by {{CTS|15|40%}}.
-
+|desc=
+Call a streak of {{lightning}} on your target, dealing {{ctmd|8.333333333|133.3333333}} to {{ctmd|25|400}} lightning damage.
+If it is wet the lightning propagates to all foes in radius {{ctl|4|1|4}}, doing the same damage to each.
+All affected foes are seared for 4 turns, reducing their fire resistance by {{cts|15|40%}} and and mind save by {{cts|15|40}}.
 The damage will increase with your Mindpower.
 }}

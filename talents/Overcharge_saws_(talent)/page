@@ -1,8 +1,8 @@
 {{Ability box
 |image=Overcharge saws.png
 |name=Overcharge Saws
-|game_version=1.5.5
-|embers_version=1.0.3
+|game_version=1.7.6
+|embers_version=1.1.10
 |category_type={{ct|Steamtech}}
 |category={{c|Butchery}}
 |require={{TalentReq/SteamReq4}}
@@ -11,9 +11,8 @@
 |cooldown=15
 |use_speed=0
 |desc=
-You temporarily overcharge the saw motors, increasing the effective talent level of all saw talents by {{ctl|50%|25|35%}} for {{ctl|20|3|8}} turns.
-
-''The pain shall never stop!''
+You temporarily overcharge the saw motors, increasing the effective talent level of all saw talents by {{ctl|50%|26|36%}} for {{ctl|20|3|9}} turns.
+#{italic}#The pain shall never stop!#{normal}#
 }}
 
 NOTES:

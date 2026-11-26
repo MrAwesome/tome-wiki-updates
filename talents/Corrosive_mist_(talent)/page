@@ -1,4 +1,5 @@
 {{Ability box
+|game_version=1.7.6
 |image=Corrosive mist.png
 |name=Corrosive Mist
 |category_type={{ct|Wild-Gift}}
@@ -8,11 +9,8 @@
 |cooldown=25
 |range=0
 |desc=
-Exhale a mist of lingering acid, dealing {{ctmd|10|70}} acid damage that can critical in a radius of {{cts|2.5|4.5}} each turn for a duration of {{cs|(0.04 * Mindpower + 0.5 * Talent Level)|6|0|7.67|5.67}}.
-
-Enemies in this mist will be corroded for {{cts|2.3|3.8}} turns, lowering their Accuracy, their Armour and their Defense by {{ctmd|2|20}}.
-
+Exhale a mist of lingering acid, dealing {{ctmd|15|70}} acid damage that can critical in a radius of {{cts|2|4}} each turn for {{gtl|1|5}} turns.
+Enemies in this mist will be corroded for {{cts|2|3}} turns, lowering their Accuracy, their Armour and their Defense by {{ctmd|2|20}}.
 The damage and duration will increase with your Mindpower, and the radius will increase with talent level.
-
 Each point in acid drake talents also increases your acid resistance by 1%.
 }}

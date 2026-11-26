@@ -3,17 +3,16 @@
 |image = Split.png
 |category_type = {{ct|Demented}}
 |category = {{c|Timethief}}
-|game_version = 1.7.4
+|game_version = 1.7.6
 |forbidden_version = 1.0.12
 |require = {{TalentReq/DementedReq4}}
 |range = 10
 |cost = 25 Insanity
 |cooldown = 20
 |use_speed = Spell
-|desc = 
-The target enemy will be partially removed from the normal flow of time for {{ctl|10|3|8}} turns, inhibiting their ability to interact with the world. All damage taken will be reduced to (80 - {{ctl|40|5|20}})%, while all damage dealt will be reduced by (40 + {{ctl|40|5|20}})%.
-
-While active, you form the frayed threads of their timeline into a temporal clone of them for the same duration, which assists you in combat. This clone is identical, but has (20 + {{ctl|40|5|20}})% reduced life and deals (40 + {{ctl|40|5|20}})% damage.
+|desc =
+The target enemy will be partially removed from the normal flow of time for {{ctl|10|3|8}} turns, inhibiting their ability to interact with the world. All damage taken will be reduced by {{ctl|40%|75|60%}}, while all damage dealt will be reduced by {{ctl|80%|45|60%}}.
+While active, you form the frayed threads of their timeline into a temporal clone of them for the same duration, which assists you in combat. This clone is identical, but has {{ctl|60%|25|40%}} reduced life and deals {{ctl|80%|45|60%}} damage.
 
 ''Note: the in game description has a typo where the damage taken by the victim is "reduced by X%", but the code actually implements "reduced to X%"''
 }}

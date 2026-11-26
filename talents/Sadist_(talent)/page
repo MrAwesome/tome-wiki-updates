@@ -1,7 +1,7 @@
 {{Ability_box
 |image=sadist.png
 |name=Sadist
-|game_version=1.7.2
+|game_version=1.7.6
 |category_type={{ct|Psionic}}
 |category={{c|Ravenous Mind}}
 |require={{TalentReq/PsiWilReq1}}

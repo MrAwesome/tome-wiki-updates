@@ -1,4 +1,5 @@
 {{Ability box
+|game_version=1.7.6
 |image=shadow_empathy.png
 |name=Shadow Empathy
 |category_type={{ct|Cursed}}
@@ -8,7 +9,6 @@
 |cost=10 Hate
 |cooldown=25
 |desc=
-You are linked to your shadows for {{cts|3|10}} turns, diverting (5 + {{ctmd|0|300}} / 8)% of all damage you take to a random shadow.
-
+You are linked to your shadows for {{cts|3|10}} turns, diverting {{ctmd|0.625|38.125}} of all damage you take to a random shadow.
 Effect increases with Mindpower.
 }}

@@ -11,7 +11,7 @@
 |cooldown=4
 |use_speed=Spell
 |desc=
-Deals {{ctspd|25|290|PM}} temporal damage over return 4 turns to all targets in a radius of {{cts|1|2}}.  Targets with {{t|Reality Smearing}} active will instead recover ({{ctspd|25|290|PM}}*0.4) life over four turns.
+XXX CHECKME XXX Deals {{ctspd|25|290|PM}} temporal damage over a base duration of 4 turns to all targets in a radius of {{cts|1|2}}; duration is modified by your Paradox and Extension Spellbinding if active. Targets with {{t|Reality Smearing}} active instead recover ({{ctspd|25|290|PM}}*0.4) life over that duration.
 If a target is reduced below 20% life while Attenuate is active it may be instantly slain.
 The damage will scale with your Spellpower.
 }}

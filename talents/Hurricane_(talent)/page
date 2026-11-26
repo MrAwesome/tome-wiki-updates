@@ -9,7 +9,7 @@
 |cooldown=30
 |range=10
 |desc=
-Each time one of your lightning spells dazes a target, it has a (30 + 5 * Talent Level)% chance to creates a chain reaction that summons a mighty Hurricane that lasts for 10 turns around the target with a radius of 2.
+Each time one of your lightning spells dazes a target, it has a 35–55% chance, depending on talent level, to create a chain reaction that summons a mighty Hurricane that lasts for 10 turns around the target with a radius of 2.
 
 Each turn, the afflicted creature and all creatures around it will take ({{ctspd|25|150}} / 3) to {{ctspd|25|150}} lightning damage.
 

@@ -1,4 +1,5 @@
 {{Ability_box
+|game_version=1.7.6
 |image=Feedback loop.png
 |name=Feedback loop
 |category_type=[[Psionic (category type)|Psionic]]
@@ -7,7 +8,7 @@
 |use_mode=Activated
 |cooldown=24
 |desc=
-Activate to invert your Feedback decay for {{ctl|24|3.5|9.5}} turns.  This effect can be a critical hit, increasing the duration even further.
+Activate to invert your Feedback decay for {{ctl|24|4|11}} turns.  This effect can be a critical hit, increasing the duration even further.
 
 You must have some Feedback in order to start the loop.
 

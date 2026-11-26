@@ -12,7 +12,7 @@
 |use_speed = Steamtech
 |desc = You use your rocket pods to launch yourself into the air for 3 turns, firing a radius 2 barrage of rockets that deal {{ctwd|120|250%}} steamgun damage as fire in radius 2. 
 
-While flying you gain {{cts|400|650%|0.75}} movement speed, {{ctl|75|15|45%}} chance to evade melee and ranged attacks, and can reactivate this talent at will to repeat the rocket barrage.
+While flying you gain {{cts|400|650%|0.75}} movement speed, {{ctl|75%|15|45%}} chance to evade melee and ranged attacks, and can reactivate this talent at will to repeat the rocket barrage.
 
 Using any talent other than Rocket Barrage will end this effect immediately.
 

@@ -1,7 +1,7 @@
 {{Ability_box
 |image=Aim_2017.png
 |name=Aim
-|game_version=1.5.2
+|game_version=1.7.6
 |category_type={{ct|Technique}}
 |category={{c|Sniper}}
 |require={{TalentReq/TechsDexReqHigh3}}
@@ -11,9 +11,7 @@
 |travel_speed=Instantaneous
 |use_speed=Weapon
 |desc=
-Enter a calm, focused stance, increasing physical power and accuracy by {{ctstd|Dex|15|50}}, projectile speed by {{cTL|150%|50|100%}} and the chance to mark targets by an additional {{cTS|2|10%}}.
-
-This makes your shots more effective at range, increasing all damage dealt by {{cTL|8%|2|4%}} per tile travelled beyond 3, to a maximum of {{cTL|40%|10|20%}} damage at range 8.
-
-The physical power and accuracy increase with your Dexterity.
+Enter a calm, focused stance, increasing physical power and accuracy by {{ctstd|Dex|15|50}}, projectile speed by {{ctl|150%|55|115%}} and the chance to mark targets by an additional {{cts|2|10%}}.
+This makes your shots more effective at range, increasing all damage dealt by {{ctl|8%|2|4.5%}} per tile travelled beyond 3, to a maximum of {{ctl|40%|10|22.5%}} damage at range 8.
+The physical power and accuracy increase with your Dexterity. This requires a bow to use.
 }}

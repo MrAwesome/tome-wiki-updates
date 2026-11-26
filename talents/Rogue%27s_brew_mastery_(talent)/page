@@ -7,5 +7,5 @@
 |require={{t|Master Artificer}} and {{t|Rogue's Brew}}
 |use_mode=passive
 |desc=
-Adjust your Rogue's Brew formulation so that it fortifies you for 8 turns, preventing you from dying until you reach -{{cTS|100|600}} life.
+XXX CHECKME XXX Adjust your Rogue's Brew formulation so that it fortifies you for 8 turns, preventing you from dying until you reach -{{cTS|100|600}} life. The life threshold scales with Master Artificer level.
 }}

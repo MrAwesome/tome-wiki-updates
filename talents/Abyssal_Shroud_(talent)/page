@@ -1,4 +1,5 @@
 {{Ability_box
+|game_version=1.7.6
 |name=Abyssal Shroud
 |image=Mind storm.png
 |category_type=misc
@@ -10,5 +11,6 @@
 |cooldown=-
 |use_speed=-
 |travel_speed=instantaneous
-|desc=Creates a shroud of darkness over a radius 3 area that lasts 6 turns. The shroud causes X damage each turn, reduces light radius by 2 and reduces darkness resistance by 19 of those within.
+|desc=
+Creates a shroud of darkness over a radius 3 area that lasts {{cts|5|9}} turns.  The shroud causes {{ctspd|15|40}} darkness damage each turn, reduces light radius by {{cts|1|5}}, and darkness resistance by {{ctspd|15|40}} of those within.
 }}

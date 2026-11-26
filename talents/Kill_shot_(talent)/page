@@ -14,7 +14,7 @@ Employ a specialized sniping shot at a target.
 
 This shot is focused on precision at long range and deals base {{ctwd|30|150%}} ranged damage with a bonus that increases with distance.
 
-The range bonus is {{cs|range|(-50)|1|250%|10|0.25}}.
+The range bonus increases with target distance and depends on your archery range.
 
 This shot will bypass other enemies between you and your target.
 }}

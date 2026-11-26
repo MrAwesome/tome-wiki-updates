@@ -1,4 +1,5 @@
 {{Ability box
+|game_version=1.7.6
 |image=Carbon spikes.png
 |name=Carbon Spikes
 |category_type={{ct|Chronomancy}}
@@ -8,9 +9,7 @@
 |cost=100 Paradox
 |cooldown=12
 |desc=
-Fragile spikes of carbon protrude from your flesh, clothing, and armor, increasing your armor rating by {{ctspd|20|50}} and inflicting {{ctspd|10|100}} bleed damage over six turns on attackers. Each time you are struck, the armor increase will be reduced by 1. Each turn the spell will regenerate 1 armor up to its starting value.
-
+Fragile spikes of carbon protrude from your flesh, clothing, and armor, increasing your armor rating by {{ctspd|20|50|PM}} and inflicting {{ctspd|1|150|PM}} bleed damage over six turns on attackers.   Each time you're struck, the armor increase will be reduced by 1.  Each turn the spell will regenerate 1 armor up to its starting value.
 If the armor increase from the spell ever falls below 1, the sustain will deactivate and the effect will end.
-
 The armor and bleed damage will increase with your Spellpower.
 }}

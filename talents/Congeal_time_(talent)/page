@@ -9,5 +9,5 @@
 |travel_speed=2
 |range=6
 |desc=
-Project a bolt of time distortion, decreasing the target's global speed by (8 * Talent Level)% and all projectiles it fires by (5 + {{ctspd|5|700}} / 10)% (maximum 90%), for 7 turns.
+XXX CHECKME XXX Project a bolt of time distortion, decreasing the target's global speed by about 7–29%, depending on talent level, and all projectiles it fires by (5 + {{ctspd|5|700}} / 10)% (maximum 90%), for 7 turns.
 }}

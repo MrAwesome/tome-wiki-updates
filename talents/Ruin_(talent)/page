@@ -1,7 +1,7 @@
 {{Ability box
 |image=Ruin.png
 |name=Ruin
-|game_version=1.7.4
+|game_version=1.7.6
 |category_type={{ct|Corruption}}
 |category={{c|Scourge}}
 |require={{TalentReq/CorrsReq2}}
@@ -11,7 +11,6 @@
 |travel_speed=instantaneous
 |use_speed=Spell
 |desc=
-Concentrate on the corruption you bring, enhancing each of your melee strikes with {{ctspd|15|40}} blight damage (which also heals you for 0.4*{{ctspd|15|40}} each hit).
-
+Concentrate on the corruption you bring, enhancing each of your melee strikes with {{ctspd|15|40}} blight damage (which also heals you for {{ctspd|6|16}} each hit).
 The damage will increase with your Spellpower.
 }}

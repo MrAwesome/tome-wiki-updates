@@ -8,9 +8,9 @@
 |cooldown=10
 |range=5
 |desc=
-Summon a Ritch Flamespitter to burn your foes to death. Flamespitters are really weak in melee and die easily, but they can burn your foes from afar.
+XXX CHECKME XXX Summon a Ritch Flamespitter to burn your foes to death. Flamespitters are really weak in melee and die easily, but they can burn your foes from afar.
 
-The Ritch Flamespitter will last for a duration of {{cs|(Talent Level)|5|0|10|5}}.
+The Ritch Flamespitter will last for a duration of {{cs|(Talent Level)|5|0|10|5}}, increased by {{t|Resilience}}.
 
 It will receive the following stats:
 *Constitution: 10

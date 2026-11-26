@@ -6,8 +6,8 @@
 |category = {{c|Bloodstained}}
 |require = {{TalentReq/CursedStrReq4}}
 |use_mode = Passive
-|desc = 
-Your hunger for violence and suffering sustains you.  All damage you do heals you for a portion of the damage done, from {{cts|0.9|1.8}}% (at 0 Hate to) {{cts|4.5|9}}% (at max Hate).  You can recover no more than 1/6 of your max life each turn this way.
+|desc =
+Your hunger for violence and suffering sustains you.  All damage you do heals you for a portion of the damage done, from {{cts|0.9|1.8%}} (at 0 Hate to) {{cts|4.5|9%}} (at max Hate).  You can recover no more than 1/6 of your max life each turn this way.
 
 Each point in Bloodstained talents reduces the amount of damage you take from bleed effects by 2%
 }}

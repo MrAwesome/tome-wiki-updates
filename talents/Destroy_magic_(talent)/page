@@ -1,4 +1,5 @@
 {{Ability_box
+|game_version=1.7.6
 |name=Destroy Magic
 |image=Mana clash.png
 |cooldown=50
@@ -7,5 +8,6 @@
 |require=-
 |use_mode=activated
 |range=?
-|desc=Inflict various status effects on the target, depending on the level.
+|desc=
+The target has a 8% chance (stacking to a maximum of {{ctl|100%|45|70%}}) to fail to cast any spell.  At level 2 magical effects may be disrupted, at level 3 magical sustains may be disrupted, and at level 5 magical constructs and undead may be stunned.
 }}

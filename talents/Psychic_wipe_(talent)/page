@@ -1,7 +1,7 @@
 {{Ability_box
 |image=psychic_wipe.png
 |name=Psychic Wipe
-|game_version=1.7.2
+|game_version=1.7.6
 |category_type={{ct|Psionic}}
 |category={{c|Psionic Menace}}
 |require={{TalentReq/PsiWilReq2}}

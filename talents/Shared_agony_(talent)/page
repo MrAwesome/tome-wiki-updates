@@ -8,8 +8,8 @@
 |use_mode = Sustained
 |cooldown = 10
 |use_speed = Mind
-|desc = 
-You displace {{ctl|50|10|25}}% of any damage you receive onto a random bleeding enemy within range 5. This redirected damage is amplified by {{ctl|300|130|200}}%.
+|desc =
+You displace {{ctl|50%|10|25%}} of any damage you receive onto a random bleeding enemy within range 5. This redirected damage is amplified by {{ctl|300%|130|200%}}.
 
-''All living things are linked by blood. It is one river, flowing through all.''
+#{italic}#All living things are linked by blood. It is one river, flowing through all.#{normal}#
 }}

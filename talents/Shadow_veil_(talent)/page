@@ -1,4 +1,5 @@
 {{Ability_box
+|game_version=1.7.6
 |image=Shadow veil.png
 |name=Shadow veil
 |category_type=[[Cunning (category type)|Cunning]]
@@ -9,4 +10,12 @@
 |cost=30 Stamina 60 Mana
 |cooldown=18
 |use_speed=1 turn
-|desc=You veil yourself in shadows for (3 + ceil(talent_level)) turns, and let them control you. While veiled, you become immune to status effects and gain (10 + 5 * talent_level)% all damage reduction. Each turn, you blink to a nearby foe (within range (ceil(3.3 + 1.7 * sqrt(talent_level))), hitting it for (90-200)% darkness weapon damage. While this goes on, you cannot be stopped unless you are killed, and you cannot control your character.}}
+|desc=
+You veil yourself in shadows and let them control you.
+Immediately after activation and each turn for 3 turns, you blink to a nearby foe (within range 7 of the location of the first target hit), hitting it for {{ctwd|90|200%}} darkness weapon damage.
+While veiled, you become immune to status effects and gain {{ctspd|15|45}} all resistance.
+While this goes on, you cannot be stopped unless you are killed, and you cannot control your character.
+If a target isn't found this effect ends.
+The movement is not considered a teleport.
+The resistance will increase with your Spellpower stat.
+}}

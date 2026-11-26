@@ -11,7 +11,7 @@
 |travel_speed=instantaneous
 |use_speed=Spell
 |desc=
-When you are dealt a blow that reduces your life by at least {{ctl|5%|15|8%}}, you have a {{cl|{{ctspd|10|90}}|100%|20|0|50%|61.3}} chance to reduce the remaining cooldown of all your talents by 1.
+XXX CHECKME XXX When you are dealt a blow that reduces your life by at least {{ctl|5%|15|8%}}, each non-fixed talent on cooldown has a {{cl|{{ctspd|10|90}}|100%|20|0|50%|61.3}} chance to have its remaining cooldown reduced by 1.
 
 Temporary life from [[Sanguine Infusion]] will not count against the damage threshold.
 

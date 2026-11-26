@@ -1,6 +1,9 @@
 {{Ability_box
+|game_version=1.7.6
 |name=Sever Lifeline
 |category_type=[[NPC Only (category type)|NPC Only]]
 |category=-
 |image=Sever lifeline.png
+|desc=
+Start to sever the lifeline of the target. After 4 turns, if the target is still in line of sight of you, its existance will be ended ({{ctspd|200000|2200000|PM}} temporal damage).
 }}

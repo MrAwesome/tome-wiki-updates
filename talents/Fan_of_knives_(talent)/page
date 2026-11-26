@@ -1,7 +1,7 @@
 {{Ability box
 |name=Fan of Knives
 |image=fan_of_knives.png
-|game_version=1.7.4
+|game_version=1.7.6
 |category_type={{ct|Technique}}
 |category={{c|Throwing Knives}}
 |require={{TalentReq/TechsDexReq2}}

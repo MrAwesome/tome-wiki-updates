@@ -1,5 +1,5 @@
 {{Ability box
-|game_version=1.7.4
+|game_version=1.7.6
 |image=Unstoppable nature.png
 |name=Unstoppable Nature
 |category_type={{ct|Wild-Gift}}
@@ -11,6 +11,5 @@
 |use_speed=Mind
 |desc=
 Surround yourself with natural forces, ignoring {{ctl|100%|20|50%}} nature resistance of your targets.
-
-In addition, any time you deal damage with a {{ct|Wild-Gift}} there is a {{ctl|70%|25|55%}} chance that one of your mucus oozes will spit at the target as a free action.
+In addition, any time you deal damage with a wild gift there is a {{ctl|70%|25|55%}} chance that one of your mucus oozes will spit at the target as a free action.
 }}

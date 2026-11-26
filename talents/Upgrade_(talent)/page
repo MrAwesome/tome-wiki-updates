@@ -10,11 +10,9 @@
 |range = 10
 |cooldown = 15 
 |use_speed = 0
-|desc = Upgrade the target turret, granting it {{cts|20|100%}} increased maximum life and enhanced abilities based on type:
-
-'''{{t|Steamgun turret|Steamgun}}''': Gains a second steamgun dealing {{cts|10|50%}} damage, and every 3 turns will fire a rocket dealing {{cts|160|400%}} steamgun damage as {{fire}} in radius 2.
-
-'''{{t|Flame turret|Flame}}''': Increases damage by {{cts|10|50%}}, range by {{cts|1|2}}, and every 3 turns will project a vortex of superheated air that drags targets within range {{cts|2|4}} towards the turret as well as dealing normal flamethrower damage.
-
-'''{{t|Medic turret|Medic}}''': Increases healing on affected targets by {{cts|10|50%}}, and has a {{cts|6.67|33.33%}} chance to cleanse a negative effect each turn.
+|desc =
+Upgrade the target turret, granting it {{cts|20|100%}} increased maximum life and enhanced abilities based on type:
+Steamgun: Gains a second steamgun dealing {{cts|10|50%}} damage, and every 3 turns will {{fire}} a rocket dealing {{cts|360|600%}} steamgun damage as fire in radius 2.
+Flame: Increases damage by {{cts|10|50%}}, range by {{cts|1|2}}, and every 3 turns will project a vortex of superheated air that drags targets within range {{cts|2|4}} towards the turret as well as dealing normal flamethrower damage.
+Medic: Increases healing on affected targets by {{cts|10|50%}}, and has a {{cts|6.666666667|33.33333333%}} chance to cleanse a negative effect each turn.
 }}

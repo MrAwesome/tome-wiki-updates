@@ -9,10 +9,10 @@
 |travel_speed=Instantaneous
 |use_speed=Standard
 |desc=
-You become a master of your craft, allowing you to focus on a single tool to greatly improve its capabilities:
+XXX CHECKME XXX You become a master of your craft, allowing you to focus on a single tool to greatly improve its capabilities:
 
 '''{{t|Dart Launcher}}:'''<br>
-Your darts ignore poison and sleep immunity and waking targets are slows by {{cTL|50%|15|40%}} for 4 turns.<br>''Grants {{t|Dart Launcher Mastery}}.''
+Your darts ignore poison and sleep immunity and waking targets are slowed by {{cTL|50%|20|40%}} for 4 turns.<br>''Grants {{t|Dart Launcher Mastery}}.''
 
 '''{{t|Smokescreen}}:'''<br>
 Your Smokescreen is infused with chokedust. Enemies in the smoke take 30+{{ctstd|Cun|10|150}} nature damage and may be silenced.<br>''Grants {{t|Smokescreen Mastery}}.''

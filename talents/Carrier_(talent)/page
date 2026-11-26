@@ -1,7 +1,7 @@
 {{Ability box
 |image=Carrier.png
 |name=Carrier
-|game_version=1.7.4
+|game_version=1.7.6
 |category_type={{ct|Corruption}}
 |category={{c|Reaving Combat}}
 |require={{TalentReq/StrCorrsReq3}}

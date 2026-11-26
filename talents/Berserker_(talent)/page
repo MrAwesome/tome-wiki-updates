@@ -8,13 +8,13 @@
 |cost=40 Stamina
 |cooldown=30
 |desc=
-You enter an aggressive battle stance, increasing Accuracy and Physical Power at the cost of -10 Defense and -10 Armour.
+XXX CHECKME XXX You enter an aggressive battle stance, increasing Accuracy and Physical Power at the cost of -10 Defense and -10 Armour.
 
 Accuracy is increased by {{CS|(0.07 * Dex * Talent Level)|5|0|40|35}}.
 
 Physical Power is increased by {{CS|(0.07 * Str * Talent Level)|5|0|40|35}}.
 
-While berserking, you are nearly unstoppable, granting you {{CTL|100%|17|50%}} stun and pinning resistance.
+While berserking, you are nearly unstoppable, granting you {{CTL|100%|22|50%}} stun and pinning resistance.
 
 The Accuracy bonus increases with your Dexterity, and the Physical Power bonus with your Strength.
 }}

@@ -1,5 +1,5 @@
 {{Ability box
-|game_version=1.7.4
+|game_version=1.7.6
 |name=Slime Roots
 |image=Slime roots.png
 |category_type={{ct|Wild-Gift}}
@@ -10,11 +10,8 @@
 |range={{cts|4.5|6.5}}
 |use_speed=Mind
 |desc=
-You extend slimy roots into the ground, follow them, and re-appear somewhere else in a range of {{cts|4.5|6.5}} with error margin of (4 - 0.5 * Talent Level). The minimum error margin is 1 tile.
-
-Doing so changes your internal structure slightly, taking 1 random talent(s) off cooldown.
-
-The number of talents you can take off cooldown is increased by 1 at talent levels 4 and 7.
+You extend slimy roots into the ground, follow them, and re-appear somewhere else in a range of {{cts|4|6}} with error margin of {{gtl|1|5}}.
+Doing so changes your internal structure slightly, taking {{gtl|3|2}} random talent(s) off cooldown.
 
 ''Note: due to rounding issues, the actual error margin may differ from the value listed in the talent's description by 1 tile''
 }}

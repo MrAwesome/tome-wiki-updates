@@ -8,10 +8,6 @@
 |use_mode=Passive
 |desc=
 Nothing will stop your rampage.
-
-Rampage Bonus: You shrug off up to {{ctstd|Str|20|100}} damage each turn during your rampage. 
-
-If you shrug off more than (4 * {{ctstd|Str|20|100}}) damage, the rampage duration increases by 1.
-		
+Rampage Bonus: You shrug off up to {{ctstd|Str|20|100}} damage each turn during your rampage. If you shrug off more than {{ctstd|Str|80|400}} damage, the rampage duration increases by 1.
 The amount of damage you can shrug off improves with your Strength.
 }}

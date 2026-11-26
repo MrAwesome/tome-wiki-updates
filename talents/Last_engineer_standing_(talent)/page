@@ -9,6 +9,6 @@
 |use_mode=Passive
 |desc=
 Sometimes, being a master tinker requires taking risks; yours are more calculated than others.
-Gain {{gtl|2|10}} cunning, {{CTS|7|25|0.75}} physical save, {{CTL|100|18|50%}} resistance to self-inflicted damage, and {{CTS|8|25%|0.75}} chance to avoid being critically hit.	
+Gain {{gtl|1|5}} cunning, {{CTS|7|25|0.75}} physical save, {{ctl|100%|18|50%}} resistance to self-inflicted damage, and {{CTS|8|25%|0.75}} chance to avoid being critically hit.
 |avail.escorts=[[Escorts#Tinker|Tinker]], +1 to talent
 }}

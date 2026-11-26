@@ -8,6 +8,5 @@
 |use_mode=Passive
 |desc=
 Your mind becomes more attuned to the Way, and is shielded from outside effects.
-
-Increase confusion and silence immunities by {{ctl|100%|20|55%}}, and your Mental Save by {{cts|5|20|0.75}}.
+Increase confusion and silence immunities by {{ctl|100%|20|55%|false|1}} and Mental Save by {{cts|5|20|0.75}}.
 }}

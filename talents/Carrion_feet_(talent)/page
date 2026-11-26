@@ -1,5 +1,5 @@
 {{Ability box
-|game_version=1.5.10
+|game_version=1.7.6
 |image=Carrion_Feet.png
 |name=Carrion Feet
 |category_type={{ct|Demented}}
@@ -10,11 +10,8 @@
 |cooldown=15
 |range= floor({{CTS|5|10|0.5|0A|1S}})
 |desc=
-Your feet start to continuously produce carrion worms that are constantly crushed as you walk, passively increasing movement speed by {{CTS|8|40%|0.7}}.
-		You can also activate this talent to instantly destroy more worms, letting you jump in range floor({{CTS|5|10|0.5|0A|1S}}) to visible terrain.
-		Upon landing you crush more worms, creating a radius 2 cone of gore; any creatures caught inside deals 70% less damage for one turn.
-		If at least 1 enemy is effected by the cone you gain an additional 20 insanity.
-
-'''Notes:'''
-* This is not a 'teleport'-effect; It will not trigger out of phase effects and can be used to target tiles you cannot teleport to.
+Your feet start to continuously produce carrion worms that are constantly crushed as you walk, passively increasing movement speed by {{cts|8|40%|0.7}}.
+You can also activate this talent to instantly destroy more worms, letting you jump in range {{cts|5|10|0.5|0|1}} to visible terrain.
+Upon landing you crush more worms, creating a radius 2 cone of gore; any creatures caught inside deals 70% less damage for one turn.
+If at least 1 enemy is effected by the cone you gain an additional 20 insanity.
 }}

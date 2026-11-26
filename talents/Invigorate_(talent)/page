@@ -7,7 +7,5 @@
 |cost=10 Paradox
 |cooldown=24
 |desc=
-For the next {{ctl|14|4|8|PM}} turns, you recover {{cts|1.5|5}} stamina each turn and all other talents on cooldown will refresh twice as fast as usual.
-
-The duration will scale with your Paradox.
+XXX CHECKME XXX For the next {{ctl|14|4|8|PM}} turns, modified by your current Paradox and by Extension when this talent is selected, you recover life each turn; the amount scales with your Spellpower. Talents without fixed cooldowns refresh twice as fast as usual.
 }}

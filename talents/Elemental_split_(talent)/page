@@ -1,5 +1,5 @@
 {{Ability_box
-|game_version=1.4.3
+|game_version=1.7.6
 |image=Elemental_split.png
 |name=Elemental split
 |category_type={{ct|Wild-gift}}
@@ -9,9 +9,8 @@
 |cost=20 
 |use_mode=Active
 |desc=
-Reach inside your dwarven core and summon your stone and crystalline halves to fight alongside you for {{cts|6|10}} turns.
+Reach inside your dwarven core and summon your stone and crystaline halves to fight alongside you for {{cts|6|10}} turns.
 Your Crystaline Half will attack your foes with earthen missiles.
 Your Stone Half will taunt your foes to protect you.
 This power can not be called upon while under the effect of {{t|Deeprock Form}}.
-
 }}

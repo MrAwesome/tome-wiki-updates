@@ -11,7 +11,7 @@
 |desc=
 Command your Temporal Hounds to breathe time, dealing {{ctspd|20|200|PM}} temporal damage and reducing the three highest stats of all targets in a radius {{cts|4.5|6.5}} cone.
 
-Affected targets will have their stats reduced by ({{ctspd|20|200|PM}}/15)+2 for 3 turns.  You are immune to the breath of your own hounds and your hounds are immune to stat damage from other hounds.
+Affected targets will have their stats reduced by ({{ctspd|20|200|PM}}/15)+2 for 3 turns, modified by your current Paradox and by Extension when this talent is selected. You are immune to the breath of your own hounds and your hounds are immune to stat damage from other hounds.
 
 When you learn this talent, your hounds gain {{ctl|100%|15|50%}} temporal damage affinity.
 }}

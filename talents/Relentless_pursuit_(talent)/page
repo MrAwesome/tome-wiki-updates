@@ -3,19 +3,11 @@
 |image=Relentless pursuit.png
 |category_type={{ct|Base}}
 |category={{c|Class}}
-|game_version=1.7.2
+|game_version=1.7.6
 |cooldown={{ctl|20|50|30}}
 |use_speed=0
 |desc=
 Not the Master himself, nor all the orcs in fallen Reknor, nor even the terrifying unknown beyond Reknor's portal could slow your pursuit of the Staff of Absorption.
-
 Children will hear of your relentlessness in song for years to come.
-
 When activated, this ability reduces the duration of all active detrimental effects by 20% of your associated save value or 2, whichever is greater:
-
-Physical effect durations -(MAX(2, physical save/5)) turns
-
-Magical effect durations -(MAX(2, spell save/5)) turns
-
-Mental effect durations -(MAX(2, mental save/5)) turns
 }}

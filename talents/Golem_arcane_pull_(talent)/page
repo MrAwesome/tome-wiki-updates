@@ -1,4 +1,5 @@
 {{Ability box
+|game_version=1.7.6
 |image=Golem arcane pull.png
 |name=Golem Arcane Pull
 |category_type={{ct|Golem}}
@@ -8,5 +9,5 @@
 |range=0
 |cost=20 Mana
 |desc=
-Your golem pulls all foes within radius {{cts|3.5|5.5}} toward itself while dealing {{ctspd|!2|120}} arcane damage.
+Your golem pulls all foes within radius {{cts|3|5}} toward itself while dealing {{ctspd|12|120}} arcane damage.
 }}

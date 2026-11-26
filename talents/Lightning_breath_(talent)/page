@@ -8,7 +8,7 @@
 |cooldown=12
 |range=0
 |desc=
-You breathe lightning in a frontal cone of radius {{cts|5|10}}. Any target caught in the area will take ({{ctstd|Str|30|500}} / 3) to {{ctstd|Str|30|500}} lightning damage, and can be dazed for 3 turns.
+XXX CHECKME XXX You breathe lightning in a frontal cone of radius {{cts|5|9}}. Any target caught in the area will take {{ctstd|Str|30|670}} lightning damage, plus {{ctstd|Wil|30|670}} if you know {{t|Chromatic Fury}}, and can be dazed for 3 turns.
 
 The damage will increase with your Strength, and the critical chance is based on your Mental crit rate.
 

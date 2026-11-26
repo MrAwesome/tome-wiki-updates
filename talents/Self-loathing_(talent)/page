@@ -6,8 +6,8 @@
 |category = {{c|Hatred}}
 |require = {{TalentReq/CursedWilReq2}}
 |use_mode = Passive
-|desc = 
-Increases critical chance by {{cts|3|10|0.75}}% (at all times) and critical strike power by up to {{cts|10|40|0.75}}% (based on hate).
+|desc =
+Increases critical chance by {{cts|3|10%|0.75}} (at all times) and critical strike power by up to {{cts|10|40%|0.75}} (based on hate).
 
-''Anger makes you strong. And you're always angry.''
+#{italic}#Anger makes you strong. And you're always angry.#{normal}#
 }}

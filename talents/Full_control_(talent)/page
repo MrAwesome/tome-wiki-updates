@@ -1,7 +1,7 @@
 {{Ability_box
 |image=Full_control.png
 |name=Full Control
-|game_version=1.5.10
+|game_version=1.7.6
 |category_type={{ct|Psionic}}
 |category={{c|Possession}}
 |require={{TalentReq/PsiWilReq4}}
@@ -14,6 +14,4 @@ When you assume the form of an other body you gain more control over the body:
 *at level 4 you gain one more talent slot
 *at level 5 you gain all speeds (only if they are superior to yours)
 *at level 6+ you gain one more talent slot
-
-''max 8 talents
 }}

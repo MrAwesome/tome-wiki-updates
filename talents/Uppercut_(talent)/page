@@ -7,7 +7,7 @@
 |cost=12 Stamina
 |cooldown=10
 |desc=
-A finishing uppercut that deals {{ctwd|110|180%}} damage, and attempts to stun your target for (2 + (0.25 + Combo Points / 5) * {{cts|1|5}}) turns.
+XXX CHECKME XXX A finishing uppercut that deals {{ctwd|110|180%}} damage, further increased by active Striking Stance, and attempts to stun your target for (2 + (0.25 + Combo Points / 5) * {{cts|1|5}}) turns, rounded up.
 
 The stun chance will improve with your Physical Power.
 

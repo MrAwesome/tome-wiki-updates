@@ -7,7 +7,7 @@
 |cost=12 Stamina
 |cooldown=12
 |desc=
-A vicious finishing strike that deals {{ctwd|120|300%}} damage increased by 20% per combo point you have up to a maximum of twice the base damage.  If the target ends up with low enough life (<20%), it might be instantly killed.
+XXX CHECKME XXX A vicious finishing strike that deals {{ctwd|120|300%}} damage, further increased by active Striking Stance, and increased by 20% per combo point you have up to a maximum of twice the base damage. If the target ends up with low enough life (<20%), it might be instantly killed.
 
 Killing a target with Haymaker will instantly restore a portion of your stamina. The percentage restored is {{cl|(Talent Level + Combo Points)|50%|0|0|20%|10}}.
 

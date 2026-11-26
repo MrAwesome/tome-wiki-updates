@@ -3,11 +3,10 @@
 |image = Hymn incantor.png
 |category_type={{ct|Celestial}}
 |category={{c|Hymns}}
-|game_version = 1.7.4
+|game_version = 1.7.6
 |require = {{TalentReq/DiviReq1}}
 |use_mode = Passive
-|desc = 
-Your Hymns now focus darkness near you, which increases your darkness damage by {{ctspd|10|30}}% and does {{ctspd|10|30}} darkness damage to anyone who hits you in melee.
-
+|desc =
+Your Hymns now focus darkness near you, which increases your darkness damage by {{ctspd|10|30}} and does {{ctspd|10|30}} darkness damage to anyone who hits you in melee.
 These values scale with your Spellpower.
 }}

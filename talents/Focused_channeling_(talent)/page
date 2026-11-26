@@ -1,9 +1,1 @@
-{{Ability_box
-|image=Focused channeling.png
-|name=Focused channeling
-|category_type=[[Psionic (category type)|Psionic]]
-|category=[[Focus (category)|Focus]]
-|require=Level (12, 14, 16, 18)
-(36, 38, 40, 42) Wil
-|use_mode=Passive
-|desc=You can channel more energy with your auras and shields, using a telekinetically-wielded gemstone or mindstar as a focus. Increases the base strength of all auras and shields by (gem_tier * (1 + 0.1 * talent_level)), depending on the quality of the gem or mindstar used as a focus.}}
+DELETE

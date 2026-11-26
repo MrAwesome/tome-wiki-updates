@@ -1,5 +1,5 @@
 {{Ability box
-|game_version=1.7.4
+|game_version=1.7.6
 |image=Flexible combat.png
 |name=Flexible Combat
 |category_type=[[Prodigies]]
@@ -8,6 +8,4 @@
 |use_mode=Passive
 |desc=
 Each time that you make a melee attack you have a 50% chance to execute an additional unarmed strike.
-
-Learning this talent allows you to see the combat stats on gloves.
 }}

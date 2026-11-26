@@ -1,7 +1,7 @@
 {{Ability_box
 |image=torture_mind.png
 |name=Torture Mind
-|game_version=1.7.2
+|game_version=1.7.6
 |category_type={{ct|Psionic}}
 |category={{c|Ravenous Mind}}
 |require={{TalentReq/PsiWilReq4}}
@@ -13,5 +13,5 @@
 |use_speed=Mind
 |desc=
 As long as you have at least a stack of Sadist you can mentally lash out at a target, sending horrible images to its mind.
-		The target will reel from the effect for floor({{cts|4|9}}) turns, rendering floor({{cts|2|4}}) random talents unusable for the duration.
+The target will reel from the effect for {{cts|4|9}} turns, rendering {{cts|2|4}} random talents unusable for the duration.
 }}

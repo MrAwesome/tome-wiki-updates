@@ -1,4 +1,5 @@
 {{Ability_box
+|game_version=1.7.6
 |image=Iron will.png
 |name=Iron Will
 |category_type=[[Psionic (category type)|Psionic]]
@@ -6,5 +7,5 @@
 |require={{TalentReq/PsiWilReq4}}
 |use_mode=Passive
 |desc=
-Your Iron Will improves your stun immunity by {{ctl|100%|10|40%}} and gives you a {{ctl|100%|10|30%}} chance of recovering from a random mental effect each turn.
+Your Iron Will improves your stun immunity by {{ctl|100%|15|40%}} and gives you a {{ctl|100%|15|30%}} chance of recovering from a random mental effect each turn.
 }}

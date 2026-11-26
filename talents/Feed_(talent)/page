@@ -8,7 +8,7 @@
 |cooldown=6
 |cost=0 Hate
 |desc=
-Feed from the essence of your enemy. Draws (0.02 * Mindpower + 2 * √ Talent Level) hate per turn from a targeted foe, as long as they remain in your line of sight.
+Feed from the essence of your enemy. Each turn, gain 2–4.47 hate (depending on talent level) plus 2% of your Mindpower from a targeted foe, as long as they remain in your line of sight.
 
 Hate gain improves with your Mindpower.
 }}

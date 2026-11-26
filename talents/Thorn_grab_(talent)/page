@@ -10,11 +10,11 @@
 |use_speed=0
 |range=1
 |desc=
-You touch the target with your main hand psiblade, bringing the forces of nature to bear on your foe.
+XXX CHECKME XXX You touch the target with your main hand psiblade, bringing the forces of nature to bear on your foe.
 
-Thorny vines will grab the target, slowing it by {{ctl|100%|20|45%}} and dealing {{ctmd|15|250}} nature damage over 10 turns.
+Thorny vines will grab the target, slowing it by {{ctl|100%|20|45%}} and dealing {{ctmd|1.5|25}} nature damage over 10 turns.
 
-Damage will increase with your Mindpower. 
+Damage will increase with your Mindpower.
 
 If you have two mindstars equipped, the damage will be further multiplied by (1 + (Sum of Mindstar Base Damages) / 50).
 |avail.shops=[[Zigur]] ([[Age of Ascendancy]]) via [[Talent#Additional Talent Sources|purchasing]] {{c|Mindstar Mastery}}

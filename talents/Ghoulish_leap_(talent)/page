@@ -10,6 +10,6 @@
 |cooldown={{ctl|5|20|10|}}
 |use_speed=1 turn
 |desc=
-Leap toward your target.<br>
-When you land your global speed is increased by {{ctl|40%|20|30%}} for 4 turns.
+Leap toward your target.
+When you land your global speed is increased by {{ctl|40%|20|30%|false|1.1}} for 4 turns.
 }}

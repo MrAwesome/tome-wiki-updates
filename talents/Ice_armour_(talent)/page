@@ -1,4 +1,5 @@
 {{Ability box
+|game_version=1.7.6
 |name=Ice Armour
 |image=Ice armour.png
 |category_type={{ct|Spell}}
@@ -6,9 +7,7 @@
 |require={{TalentReq/SpellsReq2}}
 |use_mode=Passive
 |desc=
-While {{t|Frost Infusion}} is active, explosions from your {{t|Throw Bomb}} deposit a layer of ice on your golem for a duration of {{cs|(0.03 * Spellpower * Talent Level)|2|0|10|8}}.
-
+While {{t|Frost Infusion}} is active, your bombs deposit a layer of ice on your golem for {{gtl|1|5}} turns when they hit it.
 This ice provides your golem with {{ctspd|10|25}} additional armour, melee attacks against it deal {{ctspd|5|70}} Cold damage to the attacker, and 50% of its damage is converted to Cold.
-
 The effects increase with your talent level and with the Spellpower and damage modifiers of your golem.
 }}

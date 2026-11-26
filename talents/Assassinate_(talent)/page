@@ -10,8 +10,8 @@
 |travel_speed=Instantaneous
 |use_speed=Standard
 |desc=
-You strike your target with your Hidden Blades twice in a vital spot for {{cTWD|180|300%}} unarmed (physical) damage.  
+You strike your target with your Hidden Blades twice in a vital spot for {{cTWD|180|300%}} unarmed (physical) damage.
 You must be able to see your target to use this attack, but it always hits and ignores all armor and physical resistance.
 
-In addition, your hidden blades now inflict a further {{cTS|30|100%}} of all damage dealt as bleeding over 5 turns.
+In addition, your hidden blades now inflict a further {{cTS|30|100%}} of all damage dealt as bleeding over 5 turns. Both damage values scale with Master Artificer level.
 }}

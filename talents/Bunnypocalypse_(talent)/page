@@ -1,12 +1,1 @@
-{{Ability_box
-|name=BUNNYPOCALYPSE
-|category_type={{ct|Wild-Gift}}
-|category={{c|Other}}
-|game_version=1.7.2
-|range=10
-|cooldown=12
-|use_speed=Global Speed
-|desc=Turn the cute bunny into a berserk killing machine!
-
-''Effects: Chooses a random cute little bunny (which only appear in the [[Pikataclysm]]) within 10 range and turns it into a random unique (70% chance) or random boss (30% chance), either of which will have 2 random classes, and a name ending with "of the Bunnypocalypse". Then it multiplies its max life by 10, to make up for cute little bunnies having very low max life. It also changes the bunny's faction to the user's faction, and changes the appearance of the bunny.''
-}}
+DELETE

@@ -9,6 +9,6 @@
 |cost=20 Paradox
 |cooldown=8
 |desc=
-Inflicts {{ctspd|20|220|PM}} temporal damage, and attempts to stun all targets in a radius {{cts|1.3|2.7}} ball for {{cts|2.3|4.3|PM}} turns.
+Inflicts {{ctspd|20|220|PM}} temporal damage, and attempts to stun all targets in a radius {{cts|1.3|2.7}} ball for {{cts|2.3|4.3|PM}} turns, modified by your current Paradox and by Extension when this talent is selected.
 The damage will scale with your Spellpower.
 }}

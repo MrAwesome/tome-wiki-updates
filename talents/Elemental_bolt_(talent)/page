@@ -7,5 +7,6 @@
 |cost=10 Mana
 |cooldown=3
 |travel_speed=2
-|desc=Fire a slow bolt of a random element for X damage. Damage increases with the magic stat.
+|desc=
+XXX CHECKME XXX Fire a slow bolt of a random element, dealing damage that scales with your Magic and talent level.
 }}

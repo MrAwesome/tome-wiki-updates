@@ -10,6 +10,6 @@
 |travel_speed=Instantaneous
 |use_speed=Archery
 |desc=
-Fire a steady shot, doing {{cTWD|100|180%}} damage with a {{cTS|22|30%}} chance to mark the target.
+Fire a steady shot, doing {{cTWD|100|180%}} damage with a base {{cTS|22|30%}} chance to mark the target; Trueshot and Aim can increase this chance when active.
 If Steady Shot is not on cooldown, this talent will automatically replace your normal attacks (and trigger the cooldown).
 }}

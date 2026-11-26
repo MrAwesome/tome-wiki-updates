@@ -8,9 +8,9 @@
 |cost=5 Psi
 |cooldown=3
 |desc=
-Fire a bolt of distortion that ignores resistance and inflicts {{ctmd|10|150}} physical damage.  This damage will distort affected targets, decreasing physical resistance by (''number of talent points in {{c|Distortion}}'')% and rendering them vulnerable to distortion effects for 2 turns.
+XXX CHECKME XXX Fire a bolt of distortion that ignores resistance and inflicts {{ctmd|10|150}} physical damage.  This damage will distort affected targets, decreasing physical resistance by (''number of talent points in {{c|Distortion}}'')% and rendering them vulnerable to distortion effects for 2 turns.
 
-If the bolt comes in contact with a target that's already distorted, a detonation will occur, inflicting 150% of the base damage in a radius of {{cts|1.3|2.7}}.
+If the bolt comes in contact with a target that's already distorted, a detonation will occur, inflicting 150% of the base damage in a radius that scales with talent level and is rounded down.
 
 Investing in this talent will increase the physical resistance reduction from all of your distortion effects.
 

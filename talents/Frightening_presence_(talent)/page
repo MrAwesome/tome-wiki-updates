@@ -1,15 +1,13 @@
 {{Ability box
 |image=frightening_presence.png
 |name=Frightening Presence
-|game_version=1.7.4
+|game_version=1.7.6
 |category_type={{ct|Undead}}
 |category={{c|Lich}}
 |require={{TalentReq/UndeadsReqHigh2}}
 |use_mode=Passive
 |desc=
-Your mere presence is terrifying to any foes that dare stand against you.
-
+Your mere presence is terrying to any foes that dare stand against you.
 Every turn all foes in radius {{ctl|15|3|10}} must make a mental save against your spellpower/physical power (whichever is highest) or become frightened (bypassing fear immunity), reducing all their saves by {{cts|10|40}}, all damage by {{cts|10|25%}} and movement speed by {{ctl|50%|10|30%}}.
-
 If they successfully resist, they are immune for {{ctl|5|17|9}} turns.
 }}

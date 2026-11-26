@@ -9,7 +9,7 @@
 |desc=
 The first time you take damage each turn, you regenerate {{ctl|100%|8|16.5%}} of the damage dealt as mana (up to a maximum of {{cts|6|10}}) and {{ctl|50%|7.5|20%}} as equilibrium (up to {{cts|5|9|log}}).
 
-Increases Physical Power by 30, increases damage done with shields by (√({{gtl|1|5}}/5)/1.5)*100%  (29% -> 66%), and allows you to dual-wield shields.
+Increases Physical Power by 30, increases damage done with shields by 29%–66% based on talent level, and allows you to dual-wield shields.
 
 Also, all of your melee attacks will perform a shield bash in addition to their normal effects.
 

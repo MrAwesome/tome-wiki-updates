@@ -7,7 +7,7 @@
 |require=Dex (18, 24, 30, 36, 42)
 |use_mode=Passive
 |desc=
-Increases Physical Power by (10 * Talent Level) and increases weapon damage by (22.36 * √ Talent Level)% when using bows or slings, as well as your reload rate by {{cTS|0|2.7|log}}.
+XXX CHECKME XXX Increases weapon damage by {{cts|29.81|66.67%|0.5}} and Physical Power by 30 when using bows or slings, as well as your reload rate by {{cTS|0|2.7|log}}.
 
 In addition, your Shoot has a 15% chance to mark targets on hit.
 

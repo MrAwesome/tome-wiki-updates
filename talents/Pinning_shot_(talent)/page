@@ -1,5 +1,5 @@
 {{Ability_box
-|game_version=1.4.5
+|game_version=1.7.6
 |image=Pinning shot.png
 |name=Pinning shot
 |category_type={{ct|Technique}}
@@ -11,7 +11,6 @@
 |use_speed=Archery Speed
 |range=Archery Range
 |desc=
-You fire a pinning shot, doing {{cTWD|100|140%}} damage and pinning your target to the ground for {{cTS|2.3|5.5}} turns.
-
-The pinning chance increases with your Accuracy.
+You fire a pinning shot, doing {{ctwd|100|140%}} damage and pinning your target to the ground for {{cts|2|5}} turns.
+The pinning chance increases with your Dexterity.
 }}

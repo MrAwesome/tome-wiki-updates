@@ -1,7 +1,7 @@
 {{Ability_box
 |name=Tentacled Wings
 |image=Tentacled Wings.png
-|game_version=1.6.4
+|game_version=1.7.6
 |category_type={{ct|Demented}}
 |category={{c|Scourge drake}}
 |require={{TalentReq/SpellsReq1}}
@@ -9,6 +9,6 @@
 |cooldown=10
 |cost=15 Insanity
 |desc=
-You project tentacles in a cone of radius {{cts|1|5}} in front of you.
-Any foes caught inside are grappled by the tentacles and suffer {{cts|80|140%}} weapon damage as blight, if the attack hits the creatures are also pulled towards you.
+You project tentacles in a cone of radius {{cts|3|8}} in front of you.
+Any foes caught inside are grappled by the tentacles and suffer {{ctwd|80|140%}} weapon damage as blight, if the attack hits the creatures are also pulled towards you.
 }}

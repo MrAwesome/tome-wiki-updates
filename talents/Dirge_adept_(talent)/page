@@ -6,8 +6,8 @@
 |category = {{c|Dirges}}
 |require = {{TalentReq/DiviReq3}}
 |use_mode = Passive 
-|desc = 
+|desc =
 Your dirges echo mournfully through the air.  When you end a dirge, you continue to gain its acolyte-level effects for {{gtl|1|5}} turns.  You can only benefit from one such lingering dirge at a time.
 
-Furthermore, you are given focus by the song.  Your dirges increase your resistance to confusion and fear by {{ctl|100|15|50}}%.
+Furthermore, you are given focus by the song.  Your dirges increase your resistance to confusion and fear by {{ctl|100%|15|50%}}.
 }}

@@ -6,7 +6,7 @@
 |require={{TalentReq/TechsReqHigh2}}
 |use_mode=Passive
 |desc=
-After killing a foe, you have a (20 * Raw Talent Level)% chance to gain a 1000% movement speed bonus for 1 game turn.
+XXX CHECKME XXX After killing a foe, you have a chance to gain a 1000% movement speed bonus for 1 game turn. The chance increases by 20 percentage points per raw talent level, up to 100%.
 
 The bonus disappears as soon as any action other than moving is done.
 

@@ -1,4 +1,5 @@
 {{Ability_box
+|game_version=1.7.6
 |image=Shielding_2017.png
 |name=Shielding
 |category_type={{Ct|Spell}}
@@ -9,10 +10,7 @@
 |cooldown=14
 |desc=
 Surround yourself with strengthening arcane forces.
-
-Every damage shield, time shield, displacement shield, and disruption shield affecting you has its power increased by (20 + {{ctspd|5|400}} / 10)%.
-
+Every damage shield, time shield, displacement shield, and disruption shield affecting you has its power increased by {{ctspd|2.5|42}}.
 At level 5, it also increases the duration of all shields by 1 turn.
-
 The shield value will increase with your Spellpower.
 }}

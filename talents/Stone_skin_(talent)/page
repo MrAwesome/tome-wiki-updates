@@ -1,4 +1,5 @@
 {{Ability_box
+|game_version=1.7.6
 |image=Stone skin.png
 |name=Stone Skin
 |category_type={{ct|Spell}}
@@ -9,6 +10,6 @@
 |cooldown=10
 |desc=
 The caster's skin grows as hard as stone, granting a {{ctspd|10|23}} bonus to Armour.
-
+Each time you are hit in melee, you have a {{ctl|100%|40|85%}} chance to reduce the cooldown of an Earth or Stone spell by 2 (this effect can only happen once per turn).
 The bonus to Armour will increase with your Spellpower.
 }}

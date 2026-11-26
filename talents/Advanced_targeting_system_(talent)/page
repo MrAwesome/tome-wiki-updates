@@ -7,7 +7,7 @@
 |category = {{c|Armament}}
 |require = {{TalentReq/DexSteamReq4}}
 |use_mode = Passive
-|desc = Enhancements to your targeting systems give all ranged attacks a {{ctl|100|15|40%}} chance to trigger an immediate shot from your tail-mounted steamgun for 100% damage as {{lightning}}.
-
-In addition, your {{physical}} and {{lightning}} resistance penetration is increased by {{ctl|100|17|50%}}.
+|desc =
+Enhancements to your targeting systems give all ranged attacks a {{ctl|100%|15|40%}} chance to trigger an immediate shot from your tail-mounted steamgun for 100% damage as {{lightning}}.
+In addition, your {{physical}} and lightning resistance penetration is increased by {{ctl|100%|17|50%}}.
 }}

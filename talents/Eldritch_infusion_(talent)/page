@@ -8,7 +8,10 @@
 |use_mode=sustained
 |cost=50 Mana + 15 Equilibium
 |cooldown=30
-|desc=Imbues your shields with arcane power, dealing {{ctspd|15|40}} arcane damage with each melee strike and (0.7 * {{ctspd|15|40}}) arcane damage when hit.
+|desc=
+XXX CHECKME XXX Imbues your shields with arcane power, dealing {{ctspd|15|40}} arcane damage with each melee strike and (0.7 * {{ctspd|15|40}}) arcane damage when hit.
+
+The bonus to Spellpower and Mindpower scales with the material tier of your equipped shields.
 
 The damage will increase with Spellpower.
 }}

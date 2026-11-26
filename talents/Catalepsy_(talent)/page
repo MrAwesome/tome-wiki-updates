@@ -1,7 +1,7 @@
 {{Ability box
 |image=Catalepsy.png
 |name=Catalepsy
-|game_version=1.7.4
+|game_version=1.7.6
 |category_type={{ct|Corruption}}
 |category={{c|Plague}}
 |require={{TalentReq/CorrsReq3}}
@@ -11,5 +11,5 @@
 |travel_speed=Instantaneous
 |use_speed=Spell
 |desc=
-All your foes within a radius {{cts|2.3|3.7}} ball infected with a disease enter a cataleptic state, stunning them for {{cts|2.5|4.5}} turns and dealing (100 + {{ctspd|0|50}})% of all remaining disease damage instantly.
+All your foes within a radius {{cts|2|3}} ball infected with a disease enter a cataleptic state, stunning them for {{cts|2|4}} turns and dealing {{ctspd|100|150}} of all remaining disease damage instantly.
 }}

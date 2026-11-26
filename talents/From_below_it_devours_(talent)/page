@@ -10,12 +10,9 @@
 |use_speed=Standard
 |desc=
 Your affinity with things that dwell deep beneath the surface allows you to summon a hungering mouth.
-
-The mouth has {{CSS|Con|70|800}}*(1+({{gtl|1|5}})/5) bonus life, lasts for 4+{{gtl|1|5}} turns, and deals no damage.
-
+The mouth has {{gtl|1|5}} bonus life, lasts for {{gtl|1|5}} turns, and deals no damage.
 Each turn the mouth will draw all enemies in radius 10 2 spaces towards itself.
-
-Its bonus life depends on your Constitution stat and talent level. Many other stats will scale with level.
+Its bonus life depends on your Constitution stat and talent level.  Many other stats will scale with level.
 
 ''From Lua:
 *Resist all: min(50,self);

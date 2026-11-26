@@ -1,4 +1,5 @@
 {{Ability_box
+|game_version=1.7.6
 |image=Sunder arms.png
 |name=Sunder arms
 |category_type=[[Technique (category type)|Technique]]
@@ -10,5 +11,7 @@
 |cost=12 Stamina
 |cooldown=6
 |use_speed=1 turn
-|desc=Hits the target with your weapon, doing (100-150)% damage. If the attack hits, the target's Accuracy is reduced by (3 * talent_level) for (4 + talent_level) turns. 
-Accuracy reduction chance increases with your Physical Power.}}
+|desc=
+Hits the target with your weapon, doing {{ctwd|100|150%}} damage. If the attack hits, the target's Accuracy is reduced by {{gtl|1|5}} for {{cts|5|9}} turns.
+Accuracy reduction chance increases with your Physical Power.
+}}

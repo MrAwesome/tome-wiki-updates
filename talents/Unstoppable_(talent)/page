@@ -1,4 +1,5 @@
 {{Ability_box
+|game_version=1.7.6
 |image=Unstoppable_2017.png
 |name=Unstoppable
 |category_type={{ct|Technique}}
@@ -8,9 +9,9 @@
 |cost=120 Stamina
 |cooldown=45
 |desc=
-You enter a battle frenzy for {{ctl|25|3|7}} turns. During that time, you can not use items, healing has no effect, and your health cannot drop below 1.
+You enter a battle frenzy for {{ctl|10|3|7}} turns. During that time, you can not use items, healing has no effect, and your health cannot drop below 1.
 
-At the end of the frenzy, you regain {{ctl|50%|3.5|17.5%}} of your health per foe slain during the frenzy.
+At the end of the frenzy, you regain {{ctl|50%|5|20%}} of your health per foe slain during the frenzy.
 
 While Unstoppable is active, {{t|Berserker Rage}} critical bonus is disabled as you lose the thrill of the risk of death.
 }}

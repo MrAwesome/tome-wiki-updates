@@ -1,28 +1,20 @@
 {{Ability_box
 |image=Vile_poisons_2017.png
 |name=Vile Poisons
-|game_version=1.7.4
+|game_version=1.7.6
 |category_type=[[Cunning (category type)|Cunning]]
 |category=[[Poisons (category)|Poisons]]
 |require={{TalentReq/CunsReq3}}
 |use_mode=Passive
 |desc=
 Learn how to enhance your Deadly Poison, adding additional effects. Each level, you will learn a new kind of poison enhancement:
-
-*Level 1: {{t|Numbing Poison}}
-*Level 2: {{t|Insidious Poison}}
-*Level 3: {{t|Crippling Poison}}
-*Level 4: {{t|Leeching Poison}}
-*Level 5: {{t|Volatile Poison}}
-
+Level 1: {{t|Numbing Poison}}
+Level 2: {{t|Insidious Poison}}
+Level 3: {{t|Crippling Poison}}
+Level 4: {{t|Leeching Poison}}
+Level 5: {{t|Volatile Poison}}
 New poison enhancements can also be learned from special teachers in the world.
-*{{t|Vulnerability Poison}} - Learned from {{t|Mystical Cunning}} [[prodigy]].
-**Unlike the other poison enhancements, this is a passive talent (instead of sustained), and it does not count towards the limit of 2 poison enhancements.
-*{{t|Stoning Poison}} - Purchased from the Lost Merchant (after saving him in the [[Trapped!]] quest) for 1500 gold, as long as you have 40 Cunning and Level 25.
-
-Also increases the effectiveness of your poisons by (Talent Level * 20)%. (The effect varies for each poison.)
-
+Also increases the effectiveness of your poisons by {{gtl|1|5}}. (The effect varies for each poison.)
 Adjusting your weapon coating takes no time and does not break stealth.
-
 You may only have two poison enhancements active at once; applying a third will randomly cause one of the existing ones to be cancelled.
 }}

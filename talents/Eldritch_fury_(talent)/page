@@ -1,16 +1,15 @@
 {{Ability_box
 |image=Eldritch fury.png
 |name=Eldritch fury
-|game_version=1.5.5
+|game_version=1.7.6
 |category_type=[[Spell (category type)|Spell]]
 |category=[[Eldritch shield (category)|Eldritch shield]]
 |require={{TalentReq/SpellsReq3}}
 |use_mode=Activated
 |cost=30 Mana + 20 Equilibium
 |cooldown=12
-|desc=Channel eldritch forces into a ferocious melee attack, hitting the target three times with your shields doing {{ctwd|60|160%}} Nature damage.
-
-If any of the attacks hit, the target will be dazed for {{CTS|4|8}} turns.
-
+|desc=
+Channel eldritch forces into a ferocious melee attack, hitting the target three times with your shields doing {{ctwd|60|160%}} Nature damage.
+If any of the attacks hit, the target will be dazed for {{cts|4|8}} turns and your Block cooldown is reset.
 The chance for the attack to daze increases with you Physical Power, but it is considered a magical attack and thus is resisted with spell save, rather than physical save.
 }}

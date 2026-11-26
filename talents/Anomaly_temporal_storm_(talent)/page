@@ -8,5 +8,6 @@
 |cooldown=4
 |range=10
 |use_speed=Spell
-|desc=Creates a temporal storm for ({{CS|Paradox Spellpower|4|10|12|100|0,75}})/4 to ({{CS|Paradox Spellpower|4|10|12|100|0,75}})/4  turns that deals between ({{CS|Paradox Spellpower|10|10|50|100|0,75}})/3 and ({{CS|Paradox Spellpower|10|10|50|100|0,75}}) temporal damage each turn.
+|desc=
+XXX CHECKME XXX Creates a temporal storm for ({{CS|Paradox Spellpower|4|10|12|100|0,75}})/4 to ({{CS|Paradox Spellpower|4|10|12|100|0,75}})/2 turns that deals between ({{CS|Paradox Spellpower|10|10|50|100|0,75}})/3 and ({{CS|Paradox Spellpower|10|10|50|100|0,75}}) temporal damage each turn.
 }}

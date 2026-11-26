@@ -7,7 +7,7 @@
 |require=Str (18, 24, 30, 36, 42)
 |use_mode=Passive
 |desc=
-Increases weapon damage by 34-76% (100*√(Talent Level/5)/1.5) and physical power by 30 when using swords, axes or maces.
+Increases weapon damage by {{gtl|1|5}} and physical power by 30 when using swords, axes or maces.
 |avail=Note that both [[Adventurer]] and [[Wanderer]] classes begin with {{c|Combat Training}} unlocked
 |avail.classes=It would be easier to list the classes that ''don't'' have it by default: The entire {{mc|Mage}} metaclass—[[Alchemist]], [[Archmage]], [[Necromancer]]; plus [[Doomed]], [[Corruptor]], [[Anorithil]], [[Oozemancer]], [[Paradox Mage]], and [[Solipsist]]
 |avail.shops=[[Last Hope]] ([[Age of Ascendancy]]), [[Kruk Pride]] ([[Embers of Rage]])

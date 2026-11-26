@@ -6,6 +6,6 @@
 |require={{TalentReq/SpellsReq2}}
 |use_mode=Passive
 |desc=
-Coats your stone spikes with insidious poison, dealing {{ctspd|10|200}} total nature damage over 6 turns while reducing all healing by {{ctspd|30|50}}% or {{ctpd|30|50}}%.
-The damage increases with Spellpower and the chance to poison and healing reduction increases with either Spellpower or Physical Power, whichever is greater.
+XXX CHECKME XXX Coats your stone spikes with insidious poison, dealing {{ctspd|10|200}} total nature damage over 6 turns while reducing all healing by a percentage that scales with the higher of Spellpower or Physical Power, up to 100%.
+The damage increases with Spellpower and the chance to poison and healing reduction increase with the higher of Spellpower or Physical Power.
 }}

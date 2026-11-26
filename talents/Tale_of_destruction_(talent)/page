@@ -1,4 +1,6 @@
 {{Ability box
+|ashes_version=1.1.4
+|game_version=1.7.6
 |image=Tale_of_destruction.png
 |name=Tale of Destruction
 |category_type={{ct|Corruption}}
@@ -9,10 +11,7 @@
 |cooldown=20
 |desc=
 You chant the destruction of Mal'Rok, the demon's homeworld.
-
-Each time you kill a creature, you send out a magical ripple in radius {{ctl|10|2|5}} that applies a bane of blindness or confusion for {{ctl|8|3|6}} turns.
-
+Each time you kill a creature you send out a magical ripple in radius {{ctl|10|2|5}} that applies a bane of blindness or confusion for {{ctl|8|3|6}} turns.
 Baned creatures also suffer {{ctspd|15|40}} darkness damage per turn.
-
-Damage increases with your Spellpower.
+Damage increases with your spellpower.
 }}

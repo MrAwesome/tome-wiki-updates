@@ -1,7 +1,7 @@
 {{Ability box
 |image=Bone nova.png
 |name=Bone Spike
-|game_version=1.7.4
+|game_version=1.7.6
 |category_type={{ct|Corruption}}
 |category={{c|Bone}}
 |require={{TalentReq/CorrsReq3}}

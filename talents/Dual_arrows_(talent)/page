@@ -1,5 +1,5 @@
 {{Ability box
-|game_version=1.4.5
+|game_version=1.7.6
 |image=Dual arrows.png
 |name=Dual Arrows
 |category_type={{ct|Technique}}
@@ -9,7 +9,6 @@
 |cost=0 Stamina
 |cooldown=8
 |desc=
-You target up to two enemies within a circle of radius 1, and fire one arrow at each of them for {{ctwd|120|190%}} damage.
-
-Only enemies that you could normally hit with {{t|Shoot}} will be targeted. Enemies that can only be hit by aiming at a tile behind them will not be targeted by this talent.
+You fire two arrows at your target, hitting it and a nearby foe if possible, doing {{ctwd|120|190%}} damage
+This talent does not use any stamina.
 }}

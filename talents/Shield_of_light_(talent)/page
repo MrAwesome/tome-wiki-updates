@@ -9,11 +9,11 @@
 |cooldown=10
 |range=10
 |desc=
-Infuse your shield with light, healing you for {{ctspd|5|22}} each time you take damage at the expense of up to 2 positive energy.
+XXX CHECKME XXX Infuse your shield with light, healing you for {{ctspd|5|22}} each time you take damage at the expense of up to 2 positive energy.
 
 If you do not have any positive energy, the effect will not trigger.
 
-Additionally, once per turn successful melee attacks will trigger a bonus attack with your shield dealing {{ctwd|10|80%}} light damage.
+Additionally, once per turn successful melee attacks will trigger a bonus attack with your shield dealing {{ctwd|10|80%}} light damage. Shield damage also scales with your Shield Expertise.
 
 The healing done will increase with your Spellpower.
 }}

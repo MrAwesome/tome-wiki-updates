@@ -9,16 +9,11 @@
 |range = 0
 |use_mode = Passive
 |use_speed = Steamtech
-|desc = You augment your shield with your heavy weapon technology, causing an effect when you Block with a heavy weapon equipped.
-
-'''{{t|Flamethrower}}''': Vent choking, burning smoke in an area of the same radius as your flamethrower. Enemies caught within take {{ctwd|150|250%}} shield damage as {{fire}} and are silenced for {{cts|3|5}} turns.
-
-'''{{t|Shockstaff}}''': Sheathe your shield in lightning and attack all enemies in radius 3, dealing {{ctwd|200|450%}} shield damage as {{lightning}} and gaining a barrier absorbing an amount of damage equal to 100% of the highest damage dealt for 6 turns.
-
-'''{{t|Boltgun}}''': Fire a blast of flechettes from your shield at all enemies in radius 7, dealing {{ctwd|40|100%}} shield damage as {{acid}}. {{cts|4|12}} flechettes remain embedded in each target for 6 turns, and when struck by a melee or ranged attack a flechette will detonate and cause {{acid}} damage equal to 50% of the shield damage dealt.
-
-
+|desc =
+You augment your shield with your heavy weapon technology, causing an effect when you Block with a heavy weapon equipped.
+#AQUAMARINE#{{t|Flamethrower}}#LAST#: Vent choking, burning smoke in an area of the same radius as your flamethrower. Enemies caught within take {{ctwd|150|250%}} shield damage as {{fire}} and are silenced for {{cts|3|5}} turns.
+#AQUAMARINE#{{t|Shockstaff}}#LAST#: Sheathe your shield in {{lightning}} and attack all enemies in radius 3, dealing {{ctwd|200|450%}} shield damage as lightning and gaining a barrier absorbing an amount of damage equal to 100% of the highest damage dealt for 6 turns.
+#AQUAMARINE#{{t|Boltgun}}#LAST#: Fire a blast of flechettes from your shield at all enemies in radius 7, dealing {{ctwd|40|100%}} shield damage as {{acid}}. {{cts|4|12}} flechettes remain embedded in each target for 6 turns, and when struck by a melee or ranged attack a flechette will detonate and cause acid damage equal to 50% of the shield damage dealt.
 These attacks will not trigger Counterstrike.
-
 The chance to silence will increase with your Steampower.
 }}

@@ -1,4 +1,6 @@
 {{Ability box
+|ashes_version=1.1.4
+|game_version=1.7.6
 |image=Link of pain.png
 |name=Link of Pain
 |category_type={{ct|Corruption}}
@@ -11,8 +13,6 @@
 |speed=instant
 |desc=
 Using demonic forces you create a link of pain from a source creature to a victim for {{cts|4|8}} turns.
-
-Each time the source creature takes damage, the victim takes {{ctl|100%|40|80%}} of the damage.
-
-If the victim dies from the effect, you gain a burst of energy reducing all remaining cooldowns by 1.
+Each time the source creature takes damage the victim takes {{ctl|100%|40|80%}} of the damage.
+If the victim dies from the effect you gain a burst of energy, reducing all remaining cooldowns by 1.
 }}

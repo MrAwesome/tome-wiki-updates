@@ -1,5 +1,5 @@
 {{Ability box
-|game_version=1.5.10
+|game_version=1.7.6
 |image=Arcane might.png
 |name=Arcane Might
 |category_type=[[Prodigies]]
@@ -9,7 +9,7 @@
 |desc=
 You have learned to harness your latent arcane powers, channeling them through your weapon.
 This has the following effects:
-Equipped weapons are treated as having an additional 50% Magic modifier;<br>
-Your raw Physical Power is increased by 100% of your raw Spellpower;<br>
+Equipped weapons are treated as having an additional 50% Magic modifier;
+Your raw Physical Power is increased by 100% of your raw Spellpower;
 Your physical critical chance is increased by 25% of your bonus spell critical chance.
 }}

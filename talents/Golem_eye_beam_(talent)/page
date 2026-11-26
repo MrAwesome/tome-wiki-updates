@@ -1,14 +1,1 @@
-{{Ability box
-|image=Golem beam.png
-|name=Golem Eye Beam
-|category_type={{ct|Golem}}
-|category={{c|Golem Arcane}}
-|require={{TalentReq/SpellsReq1}}
-|cooldown=3
-|range=7
-|cost=10 Mana
-|desc=
-Your golem fires a beam from his eyes and deals {{ctspd|25|320}} damage in one of three randomly chosen damage types: fire, cold, or lightning.
-
-The damage will increase with your golem's Spellpower.
-}}
+DELETE

@@ -1,4 +1,5 @@
 {{Ability box
+|embers_version=1.1.10
 |game_version=1.7.6
 |image=Arcane amplification drone.png
 |name=Arcane Amplification Drone
@@ -10,9 +11,8 @@
 |range=7
 |cooldown=10
 |desc=
-You create an Arcane Amplification Drone at the selected location for 3 turns.
-
-When you cast a spell that damages the drone it will ripple the damage as 130% {{arcane}} damage of the initial hit in radius 4.
+You create an {{arcane}} Amplification Drone at the selected location for 3 turns.
+When you cast a spell that damages the drone it will ripple the damage as 130% arcane damage of the initial hit in radius 4.
 }}
 ===Notes===
 *The drone has the same faction as the player, but a hostile personal reaction, so it can be targeted and attacked by all player spells. It can also be targeted by player talents like {{t|Rush}}, and thus be used as an escape beacon.

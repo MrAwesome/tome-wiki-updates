@@ -1,5 +1,5 @@
 {{Ability box
-|game_version = 1.7.4
+|game_version = 1.7.6
 |image=Putrescent_Liquefaction.png
 |name=Putrescent Liquefaction
 |category_type={{ct|Spell}}
@@ -10,11 +10,8 @@
 |cooldown=10
 |use_speed = Spell
 |desc=
-Shattering up to {{ctl|3.1|1|3}} ghouls or ghasts you create a putrescent swirling cloud of radius {{cts|3|6}} that follows you around for 3 turns per dead ghoul, plus 1 turn. Oldest ghouls are prioritized for destruction.
-
-Any ghoul or ghast dying or expiring within this cloud increases its duration by {{cts|1|2}} turns and for every 2 absorbed ghoul/ghast your gain back 1 soul.
-
-The cloud deals {{ctspd|40|400}}/5 frostdusk damage to any foes caught inside.
-
+Shattering up to {{ctl|3.1|1|3}} ghouls or ghasts you create a putrescent swirling cloud of radius {{cts|3|6}} that follows you around for 3 turns per dead ghoul plus one turn. Oldest ghouls are prioritized for destruction.
+Any ghoul or ghast dying or expiring within this cloud increases its duration by {{cts|1|2}} turn and every two absorbed ghoul/ghast your gain back one soul.
+The cloud deals {{ctspd|8|80}} frostdusk damage to any foes caught inside.
 The damage will increase with your Spellpower.
 }}

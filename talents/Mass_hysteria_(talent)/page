@@ -1,4 +1,6 @@
 {{Ability box
+|ashes_version=1.1.4
+|game_version=1.7.6
 |name=Mass Hysteria
 |category_type={{ct|Corruption}}
 |category={{c|Oppression}}
@@ -7,5 +9,5 @@
 |cooldown=10
 |range=7
 |desc=
-Amplifies the power of your fear on the target by 1% per stack and sets its duration to 10. The amplified fear spreads to all enemies in a radius of {{cts|3|9}}.
+Amplifies the power of your fear on the target by 1% per stack and sets its duration to 10. The amplified fear spreads to all enemies in a radius of {{cts|3|8}}.
 }}

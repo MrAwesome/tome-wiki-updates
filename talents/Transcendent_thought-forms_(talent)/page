@@ -1,9 +1,11 @@
 {{Ability_box
+|game_version=1.7.6
 |image=Transcendent thought_forms.png
 |name=Transcendent thought-forms
 |category_type=[[Psionic (category type)|Psionic]]
 |category=[[Thought-forms (category)|Thought-forms]]
 |require={{TalentReq/PsiWilReq2}}
 |use_mode=Passive
-|desc=Your thought-forms now know Lucid Dreamer, Biofeedback, and Psychometry at the same level as this talent.
+|desc=
+Your thought-forms now know Lucid Dreamer, Biofeedback, and Psychometry at talent level {{gtl|1|5}}.
 }}

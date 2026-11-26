@@ -1,5 +1,5 @@
 {{Ability box
-|game_version=1.4.5
+|game_version=1.7.6
 |image=Skirmisher superb agility.png
 |name=Superb Agility
 |category_type={{ct|Technique}}
@@ -8,8 +8,5 @@
 |use_mode=Passive
 |desc=
 You gain greater facility with your acrobatic moves, lowering the cooldowns of {{t|Vault}}, {{t|Tumble}}, and {{t|Trained Reactions}} by {{ctl|10|1|5}}, and their stamina costs by {{ctl|18|3|10}}.
-
-At talent level 3 you also gain 10% global speed for 1 turn after {{t|Trained Reactions}} activates.
-
-At talent level 5 this speed bonus improves to 20% and lasts for 2 turns.
+At Rank 3 you also gain 10% global speed for 1 turn after Trained Reactions activates. At rank 5 this speed bonus improves to 20% and lasts for 2 turns.
 }}
